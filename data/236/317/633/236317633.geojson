@@ -2,13 +2,14 @@
   "id": 236317633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747849,-32.060265,115.747849,-32.060265",
     "geom:latitude":-32.060265,
     "geom:longitude":115.747849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mews Rd",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236317633,
-    "wof:lastmodified":1449003105,
+    "wof:lastmodified":1466190591,
     "wof:name":"Mark Ellis Marine Design",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naval"
     ]
 },
-  "bbox": [115.747849,-32.060265,115.747849,-32.060265],
+  "bbox": [
+    115.747849,
+    -32.060265,
+    115.747849,
+    -32.060265
+],
   "geometry": {"coordinates":[115.747849,-32.060265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203001379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.487137,-20.736561,139.487137,-20.736561",
     "geom:latitude":-20.736561,
     "geom:longitude":139.487137,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Second Ave",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203001379,
-    "wof:lastmodified":1449025362,
+    "wof:lastmodified":1466186987,
     "wof:name":"M H Lodewyk",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [139.487137,-20.736561,139.487137,-20.736561],
-  "geometry": {"coordinates":[139.487137,-20.736561],"type":"Point"}
+  "bbox": [
+    139.487137,
+    -20.736561,
+    139.487137,
+    -20.736561
+],
+  "geometry": {"coordinates":[139.48713699999999,-20.736561],"type":"Point"}
 }

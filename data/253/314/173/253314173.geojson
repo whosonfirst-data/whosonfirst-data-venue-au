@@ -2,13 +2,14 @@
   "id": 253314173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.306183,-38.021523,145.306183,-38.021523",
     "geom:latitude":-38.021523,
     "geom:longitude":145.306183,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 12, 3 Webb St Shopping Centre",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253314173,
-    "wof:lastmodified":1449065673,
+    "wof:lastmodified":1466190854,
     "wof:name":"McNaughton Jayson Dr",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.306183,-38.021523,145.306183,-38.021523],
+  "bbox": [
+    145.306183,
+    -38.021523,
+    145.306183,
+    -38.021523
+],
   "geometry": {"coordinates":[145.306183,-38.021523],"type":"Point"}
 }

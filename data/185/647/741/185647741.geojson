@@ -2,13 +2,14 @@
   "id": 185647741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.806374,-32.041218,115.806374,-32.041218",
     "geom:latitude":-32.041218,
     "geom:longitude":115.806374,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cardew St",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185647741,
-    "wof:lastmodified":1449007379,
+    "wof:lastmodified":1466188234,
     "wof:name":"The Red & The Green",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [115.806374,-32.041218,115.806374,-32.041218],
-  "geometry": {"coordinates":[115.806374,-32.041218],"type":"Point"}
+  "bbox": [
+    115.806374,
+    -32.041218,
+    115.806374,
+    -32.041218
+],
+  "geometry": {"coordinates":[115.80637400000001,-32.041218],"type":"Point"}
 }

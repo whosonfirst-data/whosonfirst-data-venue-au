@@ -2,13 +2,14 @@
   "id": 252769251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.089005,-41.645515,147.089005,-41.645515",
     "geom:latitude":-41.645515,
     "geom:longitude":147.089005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"799 Cressy Rd",
     "sg:city":"Longford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252769251,
-    "wof:lastmodified":1449005763,
+    "wof:lastmodified":1466187872,
     "wof:name":"Andrew Bricknell Harvesting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contracting"
     ]
 },
-  "bbox": [147.089005,-41.645515,147.089005,-41.645515],
-  "geometry": {"coordinates":[147.089005,-41.645515],"type":"Point"}
+  "bbox": [
+    147.089005,
+    -41.645515,
+    147.089005,
+    -41.645515
+],
+  "geometry": {"coordinates":[147.08900499999999,-41.645515],"type":"Point"}
 }

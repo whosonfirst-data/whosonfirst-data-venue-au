@@ -2,13 +2,14 @@
   "id": 185830067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.895752,-25.298901,152.895752,-25.298901",
     "geom:latitude":-25.298901,
     "geom:longitude":152.895752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Deloraine Ave",
     "sg:city":"Urangan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185830067,
-    "wof:lastmodified":1449006956,
+    "wof:lastmodified":1466187089,
     "wof:name":"C Walker",
     "wof:parent_id":85770521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "swimming"
     ]
 },
-  "bbox": [152.895752,-25.298901,152.895752,-25.298901],
-  "geometry": {"coordinates":[152.895752,-25.298901],"type":"Point"}
+  "bbox": [
+    152.895752,
+    -25.298901,
+    152.895752,
+    -25.298901
+],
+  "geometry": {"coordinates":[152.89575199999999,-25.298901],"type":"Point"}
 }

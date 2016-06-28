@@ -2,13 +2,14 @@
   "id": 203373325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.921814,-37.56086,143.921814,-37.56086",
     "geom:latitude":-37.56086,
     "geom:longitude":143.921814,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9503 Western Hwy",
     "sg:city":"(Melbourne Rd) Ballarat",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203373325,
-    "wof:lastmodified":1449025910,
+    "wof:lastmodified":1466189083,
     "wof:name":"Woodmans Hill Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.921814,-37.56086,143.921814,-37.56086],
-  "geometry": {"coordinates":[143.921814,-37.56086],"type":"Point"}
+  "bbox": [
+    143.921814,
+    -37.56086,
+    143.921814,
+    -37.56086
+],
+  "geometry": {"coordinates":[143.92181400000001,-37.56086],"type":"Point"}
 }

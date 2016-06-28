@@ -2,13 +2,14 @@
   "id": 219793803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.721252,-19.319578,146.721252,-19.319578",
     "geom:latitude":-19.319578,
     "geom:longitude":146.721252,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7/ 1 Herveys Range Rd",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219793803,
-    "wof:lastmodified":1449072322,
+    "wof:lastmodified":1466191456,
     "wof:name":"Swimart Townsville",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [146.721252,-19.319578,146.721252,-19.319578],
-  "geometry": {"coordinates":[146.721252,-19.319578],"type":"Point"}
+  "bbox": [
+    146.721252,
+    -19.319578,
+    146.721252,
+    -19.319578
+],
+  "geometry": {"coordinates":[146.72125199999999,-19.319578],"type":"Point"}
 }

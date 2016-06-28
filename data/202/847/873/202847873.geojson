@@ -2,13 +2,14 @@
   "id": 202847873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.684464,-36.361473,146.684464,-36.361473",
     "geom:latitude":-36.361473,
     "geom:longitude":146.684464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ford St",
     "sg:city":"Beechworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202847873,
-    "wof:lastmodified":1449061027,
+    "wof:lastmodified":1466190496,
     "wof:name":"Tanswell's Commercial Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [146.684464,-36.361473,146.684464,-36.361473],
-  "geometry": {"coordinates":[146.684464,-36.361473],"type":"Point"}
+  "bbox": [
+    146.684464,
+    -36.361473,
+    146.684464,
+    -36.361473
+],
+  "geometry": {"coordinates":[146.68446399999999,-36.361473],"type":"Point"}
 }

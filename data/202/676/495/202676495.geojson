@@ -2,13 +2,14 @@
   "id": 202676495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.020386,-27.390121,153.020386,-27.390121",
     "geom:latitude":-27.390121,
     "geom:longitude":153.020386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Bramcote St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202676495,
-    "wof:lastmodified":1449061715,
+    "wof:lastmodified":1466188394,
     "wof:name":"Peter Johnson",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.020386,-27.390121,153.020386,-27.390121],
+  "bbox": [
+    153.020386,
+    -27.390121,
+    153.020386,
+    -27.390121
+],
   "geometry": {"coordinates":[153.020386,-27.390121],"type":"Point"}
 }

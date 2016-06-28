@@ -2,13 +2,14 @@
   "id": 202998469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.500107,-20.728539,139.500107,-20.728539",
     "geom:latitude":-20.728539,
     "geom:longitude":139.500107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Arline St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202998469,
-    "wof:lastmodified":1449060949,
+    "wof:lastmodified":1466191243,
     "wof:name":"P & R Electrical Servicing",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [139.500107,-20.728539,139.500107,-20.728539],
-  "geometry": {"coordinates":[139.500107,-20.728539],"type":"Point"}
+  "bbox": [
+    139.500107,
+    -20.728539,
+    139.500107,
+    -20.728539
+],
+  "geometry": {"coordinates":[139.50010700000001,-20.728539],"type":"Point"}
 }

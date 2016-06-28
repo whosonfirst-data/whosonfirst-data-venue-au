@@ -2,13 +2,14 @@
   "id": 219847013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176498,-33.862,151.176498,-33.862",
     "geom:latitude":-33.862,
     "geom:longitude":151.176498,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2 84- 94 Mullens St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219847013,
-    "wof:lastmodified":1449071674,
+    "wof:lastmodified":1466191603,
     "wof:name":"E & S Business Services",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag"
     ]
 },
-  "bbox": [151.176498,-33.862,151.176498,-33.862],
-  "geometry": {"coordinates":[151.176498,-33.862],"type":"Point"}
+  "bbox": [
+    151.176498,
+    -33.862,
+    151.176498,
+    -33.862
+],
+  "geometry": {"coordinates":[151.17649800000001,-33.862],"type":"Point"}
 }

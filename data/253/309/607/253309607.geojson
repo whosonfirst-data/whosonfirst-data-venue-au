@@ -2,13 +2,14 @@
   "id": 253309607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.409546,-38.005737,145.409546,-38.005737",
     "geom:latitude":-38.005737,
     "geom:longitude":145.409546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 McBride Rd",
     "sg:city":"Beaconsfield Upper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253309607,
-    "wof:lastmodified":1449063460,
+    "wof:lastmodified":1466190678,
     "wof:name":"Upper Beaconsfield Pre-Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [145.409546,-38.005737,145.409546,-38.005737],
-  "geometry": {"coordinates":[145.409546,-38.005737],"type":"Point"}
+  "bbox": [
+    145.409546,
+    -38.005737,
+    145.409546,
+    -38.005737
+],
+  "geometry": {"coordinates":[145.40954600000001,-38.005737],"type":"Point"}
 }

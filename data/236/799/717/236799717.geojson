@@ -2,13 +2,14 @@
   "id": 236799717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.857559,-34.476372,150.857559,-34.476372",
     "geom:latitude":-34.476372,
     "geom:longitude":150.857559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Duchess Crt",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236799717,
-    "wof:lastmodified":1449005268,
+    "wof:lastmodified":1466191950,
     "wof:name":"Voiceworx By Nella",
     "wof:parent_id":85769125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [150.857559,-34.476372,150.857559,-34.476372],
-  "geometry": {"coordinates":[150.857559,-34.476372],"type":"Point"}
+  "bbox": [
+    150.857559,
+    -34.476372,
+    150.857559,
+    -34.476372
+],
+  "geometry": {"coordinates":[150.85755900000001,-34.476372],"type":"Point"}
 }

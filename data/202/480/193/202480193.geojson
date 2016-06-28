@@ -2,13 +2,14 @@
   "id": 202480193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.970093,-37.83289,144.970093,-37.83289",
     "geom:latitude":-37.83289,
     "geom:longitude":144.970093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Park St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202480193,
-    "wof:lastmodified":1449060929,
+    "wof:lastmodified":1466189217,
     "wof:name":"Australian Wool Processors Council",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [144.970093,-37.83289,144.970093,-37.83289],
-  "geometry": {"coordinates":[144.970093,-37.83289],"type":"Point"}
+  "bbox": [
+    144.970093,
+    -37.83289,
+    144.970093,
+    -37.83289
+],
+  "geometry": {"coordinates":[144.97009299999999,-37.83289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219791697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.732895,-19.299564,146.732895,-19.299564",
     "geom:latitude":-19.299564,
     "geom:longitude":146.732895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Burnda St",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219791697,
-    "wof:lastmodified":1449073112,
+    "wof:lastmodified":1466191370,
     "wof:name":"Kirwan Primary",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [146.732895,-19.299564,146.732895,-19.299564],
-  "geometry": {"coordinates":[146.732895,-19.299564],"type":"Point"}
+  "bbox": [
+    146.732895,
+    -19.299564,
+    146.732895,
+    -19.299564
+],
+  "geometry": {"coordinates":[146.73289500000001,-19.299564],"type":"Point"}
 }

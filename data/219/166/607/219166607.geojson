@@ -2,13 +2,14 @@
   "id": 219166607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.074677,-27.409405,153.074677,-27.409405",
     "geom:latitude":-27.409405,
     "geom:longitude":153.074677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 480 Nudgee Rd",
     "sg:city":"Hendra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219166607,
-    "wof:lastmodified":1449072343,
+    "wof:lastmodified":1466189737,
     "wof:name":"URI Shopfittings",
     "wof:parent_id":85774017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitting"
     ]
 },
-  "bbox": [153.074677,-27.409405,153.074677,-27.409405],
-  "geometry": {"coordinates":[153.074677,-27.409405],"type":"Point"}
+  "bbox": [
+    153.074677,
+    -27.409405,
+    153.074677,
+    -27.409405
+],
+  "geometry": {"coordinates":[153.07467700000001,-27.409405],"type":"Point"}
 }

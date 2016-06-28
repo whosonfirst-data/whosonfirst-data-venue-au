@@ -2,13 +2,14 @@
   "id": 186500153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.76033,-19.265766,146.76033,-19.265766",
     "geom:latitude":-19.265766,
     "geom:longitude":146.76033,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Duckworth St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186500153,
-    "wof:lastmodified":1449051064,
+    "wof:lastmodified":1466190388,
     "wof:name":"Acland Detailing",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [146.76033,-19.265766,146.76033,-19.265766],
-  "geometry": {"coordinates":[146.76033,-19.265766],"type":"Point"}
+  "bbox": [
+    146.76033,
+    -19.265766,
+    146.76033,
+    -19.265766
+],
+  "geometry": {"coordinates":[146.76033000000001,-19.265766],"type":"Point"}
 }

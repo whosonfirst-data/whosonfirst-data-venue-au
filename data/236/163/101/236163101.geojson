@@ -2,13 +2,14 @@
   "id": 236163101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.858658,-34.722069,135.858658,-34.722069",
     "geom:latitude":-34.722069,
     "geom:longitude":135.858658,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Liverpool St",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236163101,
-    "wof:lastmodified":1449005159,
+    "wof:lastmodified":1466189618,
     "wof:name":"Laubman & Pank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "prescription"
     ]
 },
-  "bbox": [135.858658,-34.722069,135.858658,-34.722069],
-  "geometry": {"coordinates":[135.858658,-34.722069],"type":"Point"}
+  "bbox": [
+    135.858658,
+    -34.722069,
+    135.858658,
+    -34.722069
+],
+  "geometry": {"coordinates":[135.85865799999999,-34.722069],"type":"Point"}
 }

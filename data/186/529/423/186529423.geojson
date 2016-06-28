@@ -2,13 +2,14 @@
   "id": 186529423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.866486,-19.147724,146.866486,-19.147724",
     "geom:latitude":-19.147724,
     "geom:longitude":146.866486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr of Hayles Ave & Apian Way",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186529423,
-    "wof:lastmodified":1449051546,
+    "wof:lastmodified":1466190610,
     "wof:name":"Yvonne Van Bemmel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [146.866486,-19.147724,146.866486,-19.147724],
-  "geometry": {"coordinates":[146.866486,-19.147724],"type":"Point"}
+  "bbox": [
+    146.866486,
+    -19.147724,
+    146.866486,
+    -19.147724
+],
+  "geometry": {"coordinates":[146.86648600000001,-19.147724],"type":"Point"}
 }

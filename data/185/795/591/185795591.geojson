@@ -2,13 +2,14 @@
   "id": 185795591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.528946,-37.640339,145.528946,-37.640339",
     "geom:latitude":-37.640339,
     "geom:longitude":145.528946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Donnellys Weir Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185795591,
-    "wof:lastmodified":1449007566,
+    "wof:lastmodified":1466189900,
     "wof:name":"Schoen P M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chemist"
     ]
 },
-  "bbox": [145.528946,-37.640339,145.528946,-37.640339],
-  "geometry": {"coordinates":[145.528946,-37.640339],"type":"Point"}
+  "bbox": [
+    145.528946,
+    -37.640339,
+    145.528946,
+    -37.640339
+],
+  "geometry": {"coordinates":[145.52894599999999,-37.640339],"type":"Point"}
 }

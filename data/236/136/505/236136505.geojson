@@ -2,13 +2,14 @@
   "id": 236136505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.866409,-37.744629,144.866409,-37.744629",
     "geom:latitude":-37.744629,
     "geom:longitude":144.866409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 McFarlane St",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236136505,
-    "wof:lastmodified":1449005191,
+    "wof:lastmodified":1466189380,
     "wof:name":"Falconer Catherine Dr",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.866409,-37.744629,144.866409,-37.744629],
+  "bbox": [
+    144.866409,
+    -37.744629,
+    144.866409,
+    -37.744629
+],
   "geometry": {"coordinates":[144.866409,-37.744629],"type":"Point"}
 }

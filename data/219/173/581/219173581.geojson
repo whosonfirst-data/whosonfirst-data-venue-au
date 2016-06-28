@@ -2,13 +2,14 @@
   "id": 219173581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.07489,-27.412243,153.07489,-27.412243",
     "geom:latitude":-27.412243,
     "geom:longitude":153.07489,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 12/ 469 Nudgee Rd",
     "sg:city":"Hendra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219173581,
-    "wof:lastmodified":1449071073,
+    "wof:lastmodified":1466189814,
     "wof:name":"Mitsubishi Electric",
     "wof:parent_id":85774049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [153.07489,-27.412243,153.07489,-27.412243],
-  "geometry": {"coordinates":[153.07489,-27.412243],"type":"Point"}
+  "bbox": [
+    153.07489,
+    -27.412243,
+    153.07489,
+    -27.412243
+],
+  "geometry": {"coordinates":[153.07489000000001,-27.412243],"type":"Point"}
 }

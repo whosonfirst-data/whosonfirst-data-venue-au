@@ -2,13 +2,14 @@
   "id": 219731681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.80127,-19.289789,146.80127,-19.289789",
     "geom:latitude":-19.289789,
     "geom:longitude":146.80127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Goldring St",
     "sg:city":"Hermit Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219731681,
-    "wof:lastmodified":1449073526,
+    "wof:lastmodified":1466191219,
     "wof:name":"Roofshield Townsville",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skylight"
     ]
 },
-  "bbox": [146.80127,-19.289789,146.80127,-19.289789],
-  "geometry": {"coordinates":[146.80127,-19.289789],"type":"Point"}
+  "bbox": [
+    146.80127,
+    -19.289789,
+    146.80127,
+    -19.289789
+],
+  "geometry": {"coordinates":[146.80126999999999,-19.289789],"type":"Point"}
 }

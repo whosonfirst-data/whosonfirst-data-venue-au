@@ -2,13 +2,14 @@
   "id": 235997509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.539261,-36.878693,140.539261,-36.878693",
     "geom:latitude":-36.878693,
     "geom:longitude":140.539261,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Caves Rd",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235997509,
-    "wof:lastmodified":1449008539,
+    "wof:lastmodified":1466187652,
     "wof:name":"MacLeod Iain A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "practitioner"
     ]
 },
-  "bbox": [140.539261,-36.878693,140.539261,-36.878693],
-  "geometry": {"coordinates":[140.539261,-36.878693],"type":"Point"}
+  "bbox": [
+    140.539261,
+    -36.878693,
+    140.539261,
+    -36.878693
+],
+  "geometry": {"coordinates":[140.53926100000001,-36.878693],"type":"Point"}
 }

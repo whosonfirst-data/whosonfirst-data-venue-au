@@ -2,13 +2,14 @@
   "id": 169771237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.725281,-38.633709,145.725281,-38.633709",
     "geom:latitude":-38.633709,
     "geom:longitude":145.725281,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 A'Beckett St",
     "sg:city":"Inverloch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169771237,
-    "wof:lastmodified":1449034483,
+    "wof:lastmodified":1466188259,
     "wof:name":"South Gippsland Division of General Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.725281,-38.633709,145.725281,-38.633709],
+  "bbox": [
+    145.725281,
+    -38.633709,
+    145.725281,
+    -38.633709
+],
   "geometry": {"coordinates":[145.725281,-38.633709],"type":"Point"}
 }

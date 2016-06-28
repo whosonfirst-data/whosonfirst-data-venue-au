@@ -2,13 +2,14 @@
   "id": 186376909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154892,-33.851212,151.154892,-33.851212",
     "geom:latitude":-33.851212,
     "geom:longitude":151.154892,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186376909,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466188946,
     "wof:name":"Eye Opener",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.154892,-33.851212,151.154892,-33.851212],
-  "geometry": {"coordinates":[151.154892,-33.851212],"type":"Point"}
+  "bbox": [
+    151.154892,
+    -33.851212,
+    151.154892,
+    -33.851212
+],
+  "geometry": {"coordinates":[151.15489199999999,-33.851212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202457391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.9608,-37.831539,144.9608,-37.831539",
     "geom:latitude":-37.831539,
     "geom:longitude":144.9608,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Coventry St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202457391,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466188894,
     "wof:name":"Speak Natural Automatic Payments (SNAP)",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [144.9608,-37.831539,144.9608,-37.831539],
-  "geometry": {"coordinates":[144.9608,-37.831539],"type":"Point"}
+  "bbox": [
+    144.9608,
+    -37.831539,
+    144.9608,
+    -37.831539
+],
+  "geometry": {"coordinates":[144.96080000000001,-37.831539],"type":"Point"}
 }

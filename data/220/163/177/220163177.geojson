@@ -2,13 +2,14 @@
   "id": 220163177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.329681,-38.145927,144.329681,-38.145927",
     "geom:latitude":-38.145927,
     "geom:longitude":144.329681,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Upper Skene St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220163177,
-    "wof:lastmodified":1449074860,
+    "wof:lastmodified":1466188859,
     "wof:name":"Newtown Refrigerator & Freezer Repairs",
     "wof:parent_id":85769889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electrical"
     ]
 },
-  "bbox": [144.329681,-38.145927,144.329681,-38.145927],
-  "geometry": {"coordinates":[144.329681,-38.145927],"type":"Point"}
+  "bbox": [
+    144.329681,
+    -38.145927,
+    144.329681,
+    -38.145927
+],
+  "geometry": {"coordinates":[144.32968099999999,-38.145927],"type":"Point"}
 }

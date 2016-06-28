@@ -2,13 +2,14 @@
   "id": 236434973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.150497,-21.130539,149.150497,-21.130539",
     "geom:latitude":-21.130539,
     "geom:longitude":149.150497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Fursden St & Heath Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236434973,
-    "wof:lastmodified":1449002214,
+    "wof:lastmodified":1466191182,
     "wof:name":"Toll IPEC",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [149.150497,-21.130539,149.150497,-21.130539],
+  "bbox": [
+    149.150497,
+    -21.130539,
+    149.150497,
+    -21.130539
+],
   "geometry": {"coordinates":[149.150497,-21.130539],"type":"Point"}
 }

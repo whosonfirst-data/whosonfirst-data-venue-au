@@ -2,13 +2,14 @@
   "id": 202388311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.744553,-34.606415,138.744553,-34.606415",
     "geom:latitude":-34.606415,
     "geom:longitude":138.744553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Adelaide Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202388311,
-    "wof:lastmodified":1449060188,
+    "wof:lastmodified":1466187324,
     "wof:name":"Fire",
     "wof:parent_id":85780357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [138.744553,-34.606415,138.744553,-34.606415],
+  "bbox": [
+    138.744553,
+    -34.606415,
+    138.744553,
+    -34.606415
+],
   "geometry": {"coordinates":[138.744553,-34.606415],"type":"Point"}
 }

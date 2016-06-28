@@ -2,13 +2,14 @@
   "id": 219522539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.103378,-33.912251,151.103378,-33.912251",
     "geom:latitude":-33.912251,
     "geom:longitude":151.103378,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Amy St",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219522539,
-    "wof:lastmodified":1449072074,
+    "wof:lastmodified":1466189942,
     "wof:name":"Associated Medical Centre",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.103378,-33.912251,151.103378,-33.912251],
-  "geometry": {"coordinates":[151.103378,-33.912251],"type":"Point"}
+  "bbox": [
+    151.103378,
+    -33.912251,
+    151.103378,
+    -33.912251
+],
+  "geometry": {"coordinates":[151.10337799999999,-33.912251],"type":"Point"}
 }

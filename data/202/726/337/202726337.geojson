@@ -2,13 +2,14 @@
   "id": 202726337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.954834,-27.343765,152.954834,-27.343765",
     "geom:latitude":-27.343765,
     "geom:longitude":152.954834,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bonica Crt",
     "sg:city":"Eatons Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202726337,
-    "wof:lastmodified":1449061826,
+    "wof:lastmodified":1466189330,
     "wof:name":"McCallum Les",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [152.954834,-27.343765,152.954834,-27.343765],
-  "geometry": {"coordinates":[152.954834,-27.343765],"type":"Point"}
+  "bbox": [
+    152.954834,
+    -27.343765,
+    152.954834,
+    -27.343765
+],
+  "geometry": {"coordinates":[152.95483400000001,-27.343765],"type":"Point"}
 }

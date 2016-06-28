@@ -2,13 +2,14 @@
   "id": 202507501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.166733,-38.098774,145.166733,-38.098774",
     "geom:latitude":-38.098774,
     "geom:longitude":145.166733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Elite Way",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202507501,
-    "wof:lastmodified":1449061423,
+    "wof:lastmodified":1466189630,
     "wof:name":"Zone Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.166733,-38.098774,145.166733,-38.098774],
-  "geometry": {"coordinates":[145.166733,-38.098774],"type":"Point"}
+  "bbox": [
+    145.166733,
+    -38.098774,
+    145.166733,
+    -38.098774
+],
+  "geometry": {"coordinates":[145.16673299999999,-38.098774],"type":"Point"}
 }

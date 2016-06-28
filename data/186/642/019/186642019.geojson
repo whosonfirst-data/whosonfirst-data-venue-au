@@ -2,13 +2,14 @@
   "id": 186642019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.052628,-34.286095,146.052628,-34.286095",
     "geom:latitude":-34.286095,
     "geom:longitude":146.052628,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Wakaden St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186642019,
-    "wof:lastmodified":1449050419,
+    "wof:lastmodified":1466191196,
     "wof:name":"Kleenheat Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [146.052628,-34.286095,146.052628,-34.286095],
+  "bbox": [
+    146.052628,
+    -34.286095,
+    146.052628,
+    -34.286095
+],
   "geometry": {"coordinates":[146.052628,-34.286095],"type":"Point"}
 }

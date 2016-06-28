@@ -2,13 +2,14 @@
   "id": 202444699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.966843,-37.83569,144.966843,-37.83569",
     "geom:latitude":-37.83569,
     "geom:longitude":144.966843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Eastern Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202444699,
-    "wof:lastmodified":1449062308,
+    "wof:lastmodified":1466188682,
     "wof:name":"The Program - Personal Training",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.966843,-37.83569,144.966843,-37.83569],
-  "geometry": {"coordinates":[144.966843,-37.83569],"type":"Point"}
+  "bbox": [
+    144.966843,
+    -37.83569,
+    144.966843,
+    -37.83569
+],
+  "geometry": {"coordinates":[144.96684300000001,-37.83569],"type":"Point"}
 }

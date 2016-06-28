@@ -2,13 +2,14 @@
   "id": 253012549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.725616,-37.869064,144.725616,-37.869064",
     "geom:latitude":-37.869064,
     "geom:longitude":144.725616,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 1, 5 Industrial Ave",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253012549,
-    "wof:lastmodified":1449065487,
+    "wof:lastmodified":1466187160,
     "wof:name":"Active Appliances",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [144.725616,-37.869064,144.725616,-37.869064],
+  "bbox": [
+    144.725616,
+    -37.869064,
+    144.725616,
+    -37.869064
+],
   "geometry": {"coordinates":[144.725616,-37.869064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236551287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.998077,-33.963257,150.998077,-33.963257",
     "geom:latitude":-33.963257,
     "geom:longitude":150.998077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Phillip St",
     "sg:city":"Panania",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236551287,
-    "wof:lastmodified":1449002172,
+    "wof:lastmodified":1466191479,
     "wof:name":"Leonards Embroidery",
     "wof:parent_id":85776875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [150.998077,-33.963257,150.998077,-33.963257],
-  "geometry": {"coordinates":[150.998077,-33.963257],"type":"Point"}
+  "bbox": [
+    150.998077,
+    -33.963257,
+    150.998077,
+    -33.963257
+],
+  "geometry": {"coordinates":[150.99807699999999,-33.963257],"type":"Point"}
 }

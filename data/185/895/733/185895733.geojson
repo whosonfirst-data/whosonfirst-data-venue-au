@@ -2,13 +2,14 @@
   "id": 185895733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.700592,-25.540049,152.700592,-25.540049",
     "geom:latitude":-25.540049,
     "geom:longitude":152.700592,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Adelaide St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185895733,
-    "wof:lastmodified":1449007284,
+    "wof:lastmodified":1466187982,
     "wof:name":"Wide Bay Burnett Distributors",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "pressure"
     ]
 },
-  "bbox": [152.700592,-25.540049,152.700592,-25.540049],
+  "bbox": [
+    152.700592,
+    -25.540049,
+    152.700592,
+    -25.540049
+],
   "geometry": {"coordinates":[152.700592,-25.540049],"type":"Point"}
 }

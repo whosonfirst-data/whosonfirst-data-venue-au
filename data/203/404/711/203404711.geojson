@@ -2,13 +2,14 @@
   "id": 203404711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.999695,-37.56321,143.999695,-37.56321",
     "geom:latitude":-37.56321,
     "geom:longitude":143.999695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lesters Rd",
     "sg:city":"Bungaree",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203404711,
-    "wof:lastmodified":1449026240,
+    "wof:lastmodified":1466189520,
     "wof:name":"Webster Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "parquet"
     ]
 },
-  "bbox": [143.999695,-37.56321,143.999695,-37.56321],
+  "bbox": [
+    143.999695,
+    -37.56321,
+    143.999695,
+    -37.56321
+],
   "geometry": {"coordinates":[143.999695,-37.56321],"type":"Point"}
 }

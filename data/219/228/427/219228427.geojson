@@ -2,13 +2,14 @@
   "id": 219228427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.944855,-37.666023,144.944855,-37.666023",
     "geom:latitude":-37.666023,
     "geom:longitude":144.944855,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Barry Rd",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219228427,
-    "wof:lastmodified":1449071497,
+    "wof:lastmodified":1466189887,
     "wof:name":"Bonza Bronz Tanning Concepts",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [144.944855,-37.666023,144.944855,-37.666023],
-  "geometry": {"coordinates":[144.944855,-37.666023],"type":"Point"}
+  "bbox": [
+    144.944855,
+    -37.666023,
+    144.944855,
+    -37.666023
+],
+  "geometry": {"coordinates":[144.94485499999999,-37.666023],"type":"Point"}
 }

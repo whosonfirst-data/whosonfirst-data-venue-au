@@ -2,13 +2,14 @@
   "id": 203311505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.818314,-37.534145,143.818314,-37.534145",
     "geom:latitude":-37.534145,
     "geom:longitude":143.818314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Learmonth Rd & Caravan St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203311505,
-    "wof:lastmodified":1449025380,
+    "wof:lastmodified":1466188130,
     "wof:name":"Homestead Carpet Warehouse",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.818314,-37.534145,143.818314,-37.534145],
-  "geometry": {"coordinates":[143.818314,-37.534145],"type":"Point"}
+  "bbox": [
+    143.818314,
+    -37.534145,
+    143.818314,
+    -37.534145
+],
+  "geometry": {"coordinates":[143.81831399999999,-37.534145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219308891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.935623,-38.141499,145.935623,-38.141499",
     "geom:latitude":-38.141499,
     "geom:longitude":145.935623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Windhaven Crt",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219308891,
-    "wof:lastmodified":1449074028,
+    "wof:lastmodified":1466187603,
     "wof:name":"Warragul Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [145.935623,-38.141499,145.935623,-38.141499],
-  "geometry": {"coordinates":[145.935623,-38.141499],"type":"Point"}
+  "bbox": [
+    145.935623,
+    -38.141499,
+    145.935623,
+    -38.141499
+],
+  "geometry": {"coordinates":[145.93562299999999,-38.141499],"type":"Point"}
 }

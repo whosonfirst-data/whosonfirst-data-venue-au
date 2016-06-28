@@ -2,13 +2,14 @@
   "id": 252945021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.089859,-26.566399,153.089859,-26.566399",
     "geom:latitude":-26.566399,
     "geom:longitude":153.089859,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 31/ 28 Suncoast Beach Drv",
     "sg:city":"Mt Coolum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252945021,
-    "wof:lastmodified":1449005500,
+    "wof:lastmodified":1466189374,
     "wof:name":"Build XL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [153.089859,-26.566399,153.089859,-26.566399],
-  "geometry": {"coordinates":[153.089859,-26.566399],"type":"Point"}
+  "bbox": [
+    153.089859,
+    -26.566399,
+    153.089859,
+    -26.566399
+],
+  "geometry": {"coordinates":[153.08985899999999,-26.566399],"type":"Point"}
 }

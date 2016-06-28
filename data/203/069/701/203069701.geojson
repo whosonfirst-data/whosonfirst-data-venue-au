@@ -2,13 +2,14 @@
   "id": 203069701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.185638,-41.579689,148.185638,-41.579689",
     "geom:latitude":-41.579689,
     "geom:longitude":148.185638,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"St",
     "sg:city":"Marys",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203069701,
-    "wof:lastmodified":1449026163,
+    "wof:lastmodified":1466188579,
     "wof:name":"Audioclinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hearing"
     ]
 },
-  "bbox": [148.185638,-41.579689,148.185638,-41.579689],
-  "geometry": {"coordinates":[148.185638,-41.579689],"type":"Point"}
+  "bbox": [
+    148.185638,
+    -41.579689,
+    148.185638,
+    -41.579689
+],
+  "geometry": {"coordinates":[148.18563800000001,-41.579689],"type":"Point"}
 }

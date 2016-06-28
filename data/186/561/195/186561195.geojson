@@ -2,13 +2,14 @@
   "id": 186561195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156357,-33.894108,151.156357,-33.894108",
     "geom:latitude":-33.894108,
     "geom:longitude":151.156357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"277 Trafalgar St",
     "sg:city":"Petersham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186561195,
-    "wof:lastmodified":1449052258,
+    "wof:lastmodified":1466190767,
     "wof:name":"Brad Inwood Architects",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.156357,-33.894108,151.156357,-33.894108],
-  "geometry": {"coordinates":[151.156357,-33.894108],"type":"Point"}
+  "bbox": [
+    151.156357,
+    -33.894108,
+    151.156357,
+    -33.894108
+],
+  "geometry": {"coordinates":[151.15635700000001,-33.894108],"type":"Point"}
 }

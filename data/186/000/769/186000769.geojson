@@ -2,13 +2,14 @@
   "id": 186000769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.496918,-33.36306,151.496918,-33.36306",
     "geom:latitude":-33.36306,
     "geom:longitude":151.496918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 7169",
     "sg:city":"Toowoon Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186000769,
-    "wof:lastmodified":1449050831,
+    "wof:lastmodified":1466186913,
     "wof:name":"Coastco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.496918,-33.36306,151.496918,-33.36306],
-  "geometry": {"coordinates":[151.496918,-33.36306],"type":"Point"}
+  "bbox": [
+    151.496918,
+    -33.36306,
+    151.496918,
+    -33.36306
+],
+  "geometry": {"coordinates":[151.49691799999999,-33.36306],"type":"Point"}
 }

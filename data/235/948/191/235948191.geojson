@@ -2,13 +2,14 @@
   "id": 235948191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.706619,-31.82419,149.706619,-31.82419",
     "geom:latitude":-31.82419,
     "geom:longitude":149.706619,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Booyamurra St",
     "sg:city":"Coolah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235948191,
-    "wof:lastmodified":1449008526,
+    "wof:lastmodified":1466187045,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [149.706619,-31.82419,149.706619,-31.82419],
-  "geometry": {"coordinates":[149.706619,-31.82419],"type":"Point"}
+  "bbox": [
+    149.706619,
+    -31.82419,
+    149.706619,
+    -31.82419
+],
+  "geometry": {"coordinates":[149.70661899999999,-31.82419],"type":"Point"}
 }

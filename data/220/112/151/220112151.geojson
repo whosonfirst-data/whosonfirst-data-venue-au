@@ -2,13 +2,14 @@
   "id": 220112151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.518997,-38.269207,144.518997,-38.269207",
     "geom:latitude":-38.269207,
     "geom:longitude":144.518997,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Orton St",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220112151,
-    "wof:lastmodified":1449074385,
+    "wof:lastmodified":1466188075,
     "wof:name":"Redback Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [144.518997,-38.269207,144.518997,-38.269207],
-  "geometry": {"coordinates":[144.518997,-38.269207],"type":"Point"}
+  "bbox": [
+    144.518997,
+    -38.269207,
+    144.518997,
+    -38.269207
+],
+  "geometry": {"coordinates":[144.51899700000001,-38.269207],"type":"Point"}
 }

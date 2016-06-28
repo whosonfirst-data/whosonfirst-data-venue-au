@@ -2,13 +2,14 @@
   "id": 219540535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.053696,-33.931808,151.053696,-33.931808",
     "geom:latitude":-33.931808,
     "geom:longitude":151.053696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 Canterbury Rd",
     "sg:city":"Roselands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219540535,
-    "wof:lastmodified":1449071774,
+    "wof:lastmodified":1466190076,
     "wof:name":"Sunflower Salon",
     "wof:parent_id":85774747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.053696,-33.931808,151.053696,-33.931808],
+  "bbox": [
+    151.053696,
+    -33.931808,
+    151.053696,
+    -33.931808
+],
   "geometry": {"coordinates":[151.053696,-33.931808],"type":"Point"}
 }

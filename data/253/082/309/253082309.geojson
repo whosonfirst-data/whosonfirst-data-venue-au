@@ -2,13 +2,14 @@
   "id": 253082309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.810745,-37.741589,144.810745,-37.741589",
     "geom:latitude":-37.741589,
     "geom:longitude":144.810745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Lester Ave St",
     "sg:city":"Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253082309,
-    "wof:lastmodified":1449062898,
+    "wof:lastmodified":1466188404,
     "wof:name":"David A Connolly",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "migration"
     ]
 },
-  "bbox": [144.810745,-37.741589,144.810745,-37.741589],
+  "bbox": [
+    144.810745,
+    -37.741589,
+    144.810745,
+    -37.741589
+],
   "geometry": {"coordinates":[144.810745,-37.741589],"type":"Point"}
 }

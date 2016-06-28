@@ -2,13 +2,14 @@
   "id": 219852025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.180344,-33.857349,151.180344,-33.857349",
     "geom:latitude":-33.857349,
     "geom:longitude":151.180344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219852025,
-    "wof:lastmodified":1449073321,
+    "wof:lastmodified":1466191525,
     "wof:name":"Natures Energy",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.180344,-33.857349,151.180344,-33.857349],
-  "geometry": {"coordinates":[151.180344,-33.857349],"type":"Point"}
+  "bbox": [
+    151.180344,
+    -33.857349,
+    151.180344,
+    -33.857349
+],
+  "geometry": {"coordinates":[151.18034399999999,-33.857349],"type":"Point"}
 }

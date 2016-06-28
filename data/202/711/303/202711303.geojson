@@ -2,13 +2,14 @@
   "id": 202711303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055038,-27.377514,153.055038,-27.377514",
     "geom:latitude":-27.377514,
     "geom:longitude":153.055038,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Bilsen Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202711303,
-    "wof:lastmodified":1449062198,
+    "wof:lastmodified":1466189050,
     "wof:name":"Bradford Insulation",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfrs"
     ]
 },
-  "bbox": [153.055038,-27.377514,153.055038,-27.377514],
+  "bbox": [
+    153.055038,
+    -27.377514,
+    153.055038,
+    -27.377514
+],
   "geometry": {"coordinates":[153.055038,-27.377514],"type":"Point"}
 }

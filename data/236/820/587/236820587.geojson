@@ -2,13 +2,14 @@
   "id": 236820587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.890594,-34.421909,150.890594,-34.421909",
     "geom:latitude":-34.421909,
     "geom:longitude":150.890594,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Young St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236820587,
-    "wof:lastmodified":1449003339,
+    "wof:lastmodified":1466191983,
     "wof:name":"Olympic Car Wash",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [150.890594,-34.421909,150.890594,-34.421909],
-  "geometry": {"coordinates":[150.890594,-34.421909],"type":"Point"}
+  "bbox": [
+    150.890594,
+    -34.421909,
+    150.890594,
+    -34.421909
+],
+  "geometry": {"coordinates":[150.89059399999999,-34.421909],"type":"Point"}
 }

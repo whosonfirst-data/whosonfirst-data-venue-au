@@ -2,13 +2,14 @@
   "id": 202484955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.050323,-37.903416,145.050323,-37.903416",
     "geom:latitude":-37.903416,
     "geom:longitude":145.050323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Wild Cherry Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202484955,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466189286,
     "wof:name":"Beyond Design Constructions",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.050323,-37.903416,145.050323,-37.903416],
-  "geometry": {"coordinates":[145.050323,-37.903416],"type":"Point"}
+  "bbox": [
+    145.050323,
+    -37.903416,
+    145.050323,
+    -37.903416
+],
+  "geometry": {"coordinates":[145.05032299999999,-37.903416],"type":"Point"}
 }

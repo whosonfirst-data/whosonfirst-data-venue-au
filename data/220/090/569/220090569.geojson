@@ -2,13 +2,14 @@
   "id": 220090569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.614334,-38.285618,144.614334,-38.285618",
     "geom:latitude":-38.285618,
     "geom:longitude":144.614334,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Point Lonsdale Rd",
     "sg:city":"Point Lonsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220090569,
-    "wof:lastmodified":1449074675,
+    "wof:lastmodified":1466187848,
     "wof:name":"Pasquinis Cafe",
     "wof:parent_id":85770017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.614334,-38.285618,144.614334,-38.285618],
-  "geometry": {"coordinates":[144.614334,-38.285618],"type":"Point"}
+  "bbox": [
+    144.614334,
+    -38.285618,
+    144.614334,
+    -38.285618
+],
+  "geometry": {"coordinates":[144.61433400000001,-38.285618],"type":"Point"}
 }

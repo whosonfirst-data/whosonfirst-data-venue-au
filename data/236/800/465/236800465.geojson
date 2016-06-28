@@ -2,13 +2,14 @@
   "id": 236800465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.85437,-34.47422,150.85437,-34.47422",
     "geom:latitude":-34.47422,
     "geom:longitude":150.85437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Hopman Crs",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236800465,
-    "wof:lastmodified":1449001872,
+    "wof:lastmodified":1466192044,
     "wof:name":"D J's Stamps",
     "wof:parent_id":85769125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stamp"
     ]
 },
-  "bbox": [150.85437,-34.47422,150.85437,-34.47422],
-  "geometry": {"coordinates":[150.85437,-34.47422],"type":"Point"}
+  "bbox": [
+    150.85437,
+    -34.47422,
+    150.85437,
+    -34.47422
+],
+  "geometry": {"coordinates":[150.85436999999999,-34.47422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202731125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.635925,-34.783962,138.635925,-34.783962",
     "geom:latitude":-34.783962,
     "geom:longitude":138.635925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Texel Crt",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202731125,
-    "wof:lastmodified":1449062364,
+    "wof:lastmodified":1466189420,
     "wof:name":"Aegis Communications",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [138.635925,-34.783962,138.635925,-34.783962],
-  "geometry": {"coordinates":[138.635925,-34.783962],"type":"Point"}
+  "bbox": [
+    138.635925,
+    -34.783962,
+    138.635925,
+    -34.783962
+],
+  "geometry": {"coordinates":[138.63592499999999,-34.783962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236203279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.498398,-38.085037,145.498398,-38.085037",
     "geom:latitude":-38.085037,
     "geom:longitude":145.498398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7b Embrey Crt",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236203279,
-    "wof:lastmodified":1449003055,
+    "wof:lastmodified":1466190085,
     "wof:name":"Constructzone Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "secondhand"
     ]
 },
-  "bbox": [145.498398,-38.085037,145.498398,-38.085037],
-  "geometry": {"coordinates":[145.498398,-38.085037],"type":"Point"}
+  "bbox": [
+    145.498398,
+    -38.085037,
+    145.498398,
+    -38.085037
+],
+  "geometry": {"coordinates":[145.49839800000001,-38.085037],"type":"Point"}
 }

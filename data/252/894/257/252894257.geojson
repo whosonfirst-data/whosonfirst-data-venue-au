@@ -2,13 +2,14 @@
   "id": 252894257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.602966,-37.680676,144.602966,-37.680676",
     "geom:latitude":-37.680676,
     "geom:longitude":144.602966,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Old Park Drv",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252894257,
-    "wof:lastmodified":1449005850,
+    "wof:lastmodified":1466188924,
     "wof:name":"Avenue Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "glazier"
     ]
 },
-  "bbox": [144.602966,-37.680676,144.602966,-37.680676],
-  "geometry": {"coordinates":[144.602966,-37.680676],"type":"Point"}
+  "bbox": [
+    144.602966,
+    -37.680676,
+    144.602966,
+    -37.680676
+],
+  "geometry": {"coordinates":[144.60296600000001,-37.680676],"type":"Point"}
 }

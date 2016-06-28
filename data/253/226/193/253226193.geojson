@@ -2,13 +2,14 @@
   "id": 253226193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951309,-27.558828,151.951309,-27.558828",
     "geom:latitude":-27.558828,
     "geom:longitude":151.951309,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Russell St",
     "sg:city":"Toowoomba City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253226193,
-    "wof:lastmodified":1449064975,
+    "wof:lastmodified":1466190391,
     "wof:name":"Tomba's Niteclub",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "discotheque"
     ]
 },
-  "bbox": [151.951309,-27.558828,151.951309,-27.558828],
-  "geometry": {"coordinates":[151.951309,-27.558828],"type":"Point"}
+  "bbox": [
+    151.951309,
+    -27.558828,
+    151.951309,
+    -27.558828
+],
+  "geometry": {"coordinates":[151.95130900000001,-27.558828],"type":"Point"}
 }

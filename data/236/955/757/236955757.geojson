@@ -2,13 +2,14 @@
   "id": 236955757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.469635,-37.937241,145.469635,-37.937241",
     "geom:latitude":-37.937241,
     "geom:longitude":145.469635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Majestic Drv",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236955757,
-    "wof:lastmodified":1449004036,
+    "wof:lastmodified":1466192170,
     "wof:name":"S & N Tiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [145.469635,-37.937241,145.469635,-37.937241],
-  "geometry": {"coordinates":[145.469635,-37.937241],"type":"Point"}
+  "bbox": [
+    145.469635,
+    -37.937241,
+    145.469635,
+    -37.937241
+],
+  "geometry": {"coordinates":[145.46963500000001,-37.937241],"type":"Point"}
 }

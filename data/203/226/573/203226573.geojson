@@ -2,13 +2,14 @@
   "id": 203226573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.469254,-40.887661,145.469254,-40.887661",
     "geom:latitude":-40.887661,
     "geom:longitude":145.469254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bass Hwy",
     "sg:city":"Rocky Cape",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203226573,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1466187377,
     "wof:name":"Rocky Cape Roadhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "take"
     ]
 },
-  "bbox": [145.469254,-40.887661,145.469254,-40.887661],
-  "geometry": {"coordinates":[145.469254,-40.887661],"type":"Point"}
+  "bbox": [
+    145.469254,
+    -40.887661,
+    145.469254,
+    -40.887661
+],
+  "geometry": {"coordinates":[145.46925400000001,-40.887661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186493929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.762863,-19.270237,146.762863,-19.270237",
     "geom:latitude":-19.270237,
     "geom:longitude":146.762863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Civil St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186493929,
-    "wof:lastmodified":1449051236,
+    "wof:lastmodified":1466190343,
     "wof:name":"Twin Cities Garden Waste",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rubbish"
     ]
 },
-  "bbox": [146.762863,-19.270237,146.762863,-19.270237],
-  "geometry": {"coordinates":[146.762863,-19.270237],"type":"Point"}
+  "bbox": [
+    146.762863,
+    -19.270237,
+    146.762863,
+    -19.270237
+],
+  "geometry": {"coordinates":[146.76286300000001,-19.270237],"type":"Point"}
 }

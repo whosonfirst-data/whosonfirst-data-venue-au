@@ -2,13 +2,14 @@
   "id": 203060739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.931427,-33.726982,150.931427,-33.726982",
     "geom:latitude":-33.726982,
     "geom:longitude":150.931427,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Glenwood Park Drv",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203060739,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466188407,
     "wof:name":"Low Loretta Dr",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [150.931427,-33.726982,150.931427,-33.726982],
-  "geometry": {"coordinates":[150.931427,-33.726982],"type":"Point"}
+  "bbox": [
+    150.931427,
+    -33.726982,
+    150.931427,
+    -33.726982
+],
+  "geometry": {"coordinates":[150.93142700000001,-33.726982],"type":"Point"}
 }

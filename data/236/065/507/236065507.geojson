@@ -2,13 +2,14 @@
   "id": 236065507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.85675,-37.729252,144.85675,-37.729252",
     "geom:latitude":-37.729252,
     "geom:longitude":144.85675,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ely Crt",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236065507,
-    "wof:lastmodified":1449005200,
+    "wof:lastmodified":1466187937,
     "wof:name":"Dingo Australia",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [144.85675,-37.729252,144.85675,-37.729252],
-  "geometry": {"coordinates":[144.85675,-37.729252],"type":"Point"}
+  "bbox": [
+    144.85675,
+    -37.729252,
+    144.85675,
+    -37.729252
+],
+  "geometry": {"coordinates":[144.85675000000001,-37.729252],"type":"Point"}
 }

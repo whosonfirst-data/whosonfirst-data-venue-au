@@ -2,13 +2,14 @@
   "id": 185891829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.869408,-31.990866,115.869408,-31.990866",
     "geom:latitude":-31.990866,
     "geom:longitude":115.869408,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hobbs Ave",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185891829,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1466187805,
     "wof:name":"Loose Produce",
     "wof:parent_id":85775647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [115.869408,-31.990866,115.869408,-31.990866],
-  "geometry": {"coordinates":[115.869408,-31.990866],"type":"Point"}
+  "bbox": [
+    115.869408,
+    -31.990866,
+    115.869408,
+    -31.990866
+],
+  "geometry": {"coordinates":[115.86940800000001,-31.990866],"type":"Point"}
 }

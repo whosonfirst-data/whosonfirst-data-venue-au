@@ -2,13 +2,14 @@
   "id": 185837171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841293,-25.288752,152.841293,-25.288752",
     "geom:latitude":-25.288752,
     "geom:longitude":152.841293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185837171,
-    "wof:lastmodified":1449006867,
+    "wof:lastmodified":1466187176,
     "wof:name":"Andersens",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cork"
     ]
 },
-  "bbox": [152.841293,-25.288752,152.841293,-25.288752],
-  "geometry": {"coordinates":[152.841293,-25.288752],"type":"Point"}
+  "bbox": [
+    152.841293,
+    -25.288752,
+    152.841293,
+    -25.288752
+],
+  "geometry": {"coordinates":[152.84129300000001,-25.288752],"type":"Point"}
 }

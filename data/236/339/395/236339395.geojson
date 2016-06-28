@@ -2,13 +2,14 @@
   "id": 236339395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.796021,-32.057056,115.796021,-32.057056",
     "geom:latitude":-32.057056,
     "geom:longitude":115.796021,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Keegan St",
     "sg:city":"O&#039;Connor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236339395,
-    "wof:lastmodified":1449003062,
+    "wof:lastmodified":1466190626,
     "wof:name":"Daily Bake The",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [115.796021,-32.057056,115.796021,-32.057056],
+  "bbox": [
+    115.796021,
+    -32.057056,
+    115.796021,
+    -32.057056
+],
   "geometry": {"coordinates":[115.796021,-32.057056],"type":"Point"}
 }

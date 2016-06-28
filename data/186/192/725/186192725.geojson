@@ -2,13 +2,14 @@
   "id": 186192725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.908234,-31.431995,152.908234,-31.431995",
     "geom:latitude":-31.431995,
     "geom:longitude":152.908234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Horton St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186192725,
-    "wof:lastmodified":1449052252,
+    "wof:lastmodified":1466187020,
     "wof:name":"Tandy Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electronic"
     ]
 },
-  "bbox": [152.908234,-31.431995,152.908234,-31.431995],
-  "geometry": {"coordinates":[152.908234,-31.431995],"type":"Point"}
+  "bbox": [
+    152.908234,
+    -31.431995,
+    152.908234,
+    -31.431995
+],
+  "geometry": {"coordinates":[152.90823399999999,-31.431995],"type":"Point"}
 }

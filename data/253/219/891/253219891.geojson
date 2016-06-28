@@ -2,13 +2,14 @@
   "id": 253219891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.973923,-27.571444,151.973923,-27.571444",
     "geom:latitude":-27.571444,
     "geom:longitude":151.973923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 James St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253219891,
-    "wof:lastmodified":1449065680,
+    "wof:lastmodified":1466190372,
     "wof:name":"Peter Hore-Schroder Plasterer",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceiling"
     ]
 },
-  "bbox": [151.973923,-27.571444,151.973923,-27.571444],
-  "geometry": {"coordinates":[151.973923,-27.571444],"type":"Point"}
+  "bbox": [
+    151.973923,
+    -27.571444,
+    151.973923,
+    -27.571444
+],
+  "geometry": {"coordinates":[151.97392300000001,-27.571444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185606123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.815659,-32.031559,115.815659,-32.031559",
     "geom:latitude":-32.031559,
     "geom:longitude":115.815659,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"D157 Perth GPO Boxes 6840",
     "sg:city":"Alfred Cove",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185606123,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466187122,
     "wof:name":"Candela",
     "wof:parent_id":85775673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "internet"
     ]
 },
-  "bbox": [115.815659,-32.031559,115.815659,-32.031559],
+  "bbox": [
+    115.815659,
+    -32.031559,
+    115.815659,
+    -32.031559
+],
   "geometry": {"coordinates":[115.815659,-32.031559],"type":"Point"}
 }

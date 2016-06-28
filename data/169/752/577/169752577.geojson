@@ -2,13 +2,14 @@
   "id": 169752577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.11348,-27.229136,153.11348,-27.229136",
     "geom:latitude":-27.229136,
     "geom:longitude":153.11348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Violet St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169752577,
-    "wof:lastmodified":1449033253,
+    "wof:lastmodified":1466187891,
     "wof:name":"TWR Group",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [153.11348,-27.229136,153.11348,-27.229136],
-  "geometry": {"coordinates":[153.11348,-27.229136],"type":"Point"}
+  "bbox": [
+    153.11348,
+    -27.229136,
+    153.11348,
+    -27.229136
+],
+  "geometry": {"coordinates":[153.11348000000001,-27.229136],"type":"Point"}
 }

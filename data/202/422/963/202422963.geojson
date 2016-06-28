@@ -2,13 +2,14 @@
   "id": 202422963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.944214,-37.836315,144.944214,-37.836315",
     "geom:latitude":-37.836315,
     "geom:longitude":144.944214,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202422963,
-    "wof:lastmodified":1449060285,
+    "wof:lastmodified":1466188191,
     "wof:name":"Advantage Copying",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plan"
     ]
 },
-  "bbox": [144.944214,-37.836315,144.944214,-37.836315],
-  "geometry": {"coordinates":[144.944214,-37.836315],"type":"Point"}
+  "bbox": [
+    144.944214,
+    -37.836315,
+    144.944214,
+    -37.836315
+],
+  "geometry": {"coordinates":[144.94421399999999,-37.836315],"type":"Point"}
 }

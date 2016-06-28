@@ -2,13 +2,14 @@
   "id": 203124405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.791901,-32.561749,115.791901,-32.561749",
     "geom:latitude":-32.561749,
     "geom:longitude":115.791901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"784 Pinjarra Rd",
     "sg:city":"Barragup",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203124405,
-    "wof:lastmodified":1449026728,
+    "wof:lastmodified":1466189447,
     "wof:name":"South Mandurah Cleaners",
     "wof:parent_id":85779943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.791901,-32.561749,115.791901,-32.561749],
+  "bbox": [
+    115.791901,
+    -32.561749,
+    115.791901,
+    -32.561749
+],
   "geometry": {"coordinates":[115.791901,-32.561749],"type":"Point"}
 }

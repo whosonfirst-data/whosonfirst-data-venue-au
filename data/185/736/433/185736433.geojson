@@ -2,13 +2,14 @@
   "id": 185736433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.083878,-32.765152,152.083878,-32.765152",
     "geom:latitude":-32.765152,
     "geom:longitude":152.083878,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Nelson Bay Rd",
     "sg:city":"Anna Bay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185736433,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1466189435,
     "wof:name":"Port Stephens Eggs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "egg"
     ]
 },
-  "bbox": [152.083878,-32.765152,152.083878,-32.765152],
+  "bbox": [
+    152.083878,
+    -32.765152,
+    152.083878,
+    -32.765152
+],
   "geometry": {"coordinates":[152.083878,-32.765152],"type":"Point"}
 }

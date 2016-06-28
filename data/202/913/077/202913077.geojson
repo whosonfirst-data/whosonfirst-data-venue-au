@@ -2,13 +2,14 @@
   "id": 202913077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.109146,-30.295332,153.109146,-30.295332",
     "geom:latitude":-30.295332,
     "geom:longitude":153.109146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 West High St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202913077,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466190622,
     "wof:name":"Alan Mulhearn",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.109146,-30.295332,153.109146,-30.295332],
-  "geometry": {"coordinates":[153.109146,-30.295332],"type":"Point"}
+  "bbox": [
+    153.109146,
+    -30.295332,
+    153.109146,
+    -30.295332
+],
+  "geometry": {"coordinates":[153.10914600000001,-30.295332],"type":"Point"}
 }

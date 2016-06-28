@@ -2,13 +2,14 @@
   "id": 202695281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049301,-27.360643,153.049301,-27.360643",
     "geom:latitude":-27.360643,
     "geom:longitude":153.049301,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6- 8 Beckman St",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202695281,
-    "wof:lastmodified":1449061075,
+    "wof:lastmodified":1466188734,
     "wof:name":"Office Products Depot",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [153.049301,-27.360643,153.049301,-27.360643],
-  "geometry": {"coordinates":[153.049301,-27.360643],"type":"Point"}
+  "bbox": [
+    153.049301,
+    -27.360643,
+    153.049301,
+    -27.360643
+],
+  "geometry": {"coordinates":[153.04930100000001,-27.360643],"type":"Point"}
 }

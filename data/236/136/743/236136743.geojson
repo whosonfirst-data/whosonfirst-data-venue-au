@@ -2,13 +2,14 @@
   "id": 236136743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.862228,-37.729233,144.862228,-37.729233",
     "geom:latitude":-37.729233,
     "geom:longitude":144.862228,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 543 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236136743,
-    "wof:lastmodified":1449005191,
+    "wof:lastmodified":1466189385,
     "wof:name":"Direct Couriers",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [144.862228,-37.729233,144.862228,-37.729233],
-  "geometry": {"coordinates":[144.862228,-37.729233],"type":"Point"}
+  "bbox": [
+    144.862228,
+    -37.729233,
+    144.862228,
+    -37.729233
+],
+  "geometry": {"coordinates":[144.86222799999999,-37.729233],"type":"Point"}
 }

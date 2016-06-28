@@ -2,13 +2,14 @@
   "id": 169789651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.592438,-38.598988,145.592438,-38.598988",
     "geom:latitude":-38.598988,
     "geom:longitude":145.592438,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 McKenzie St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169789651,
-    "wof:lastmodified":1449034159,
+    "wof:lastmodified":1466188527,
     "wof:name":"Evans Petroleum Gippsland Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.592438,-38.598988,145.592438,-38.598988],
-  "geometry": {"coordinates":[145.592438,-38.598988],"type":"Point"}
+  "bbox": [
+    145.592438,
+    -38.598988,
+    145.592438,
+    -38.598988
+],
+  "geometry": {"coordinates":[145.59243799999999,-38.598988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203219213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.894287,-41.055019,145.894287,-41.055019",
     "geom:latitude":-41.055019,
     "geom:longitude":145.894287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Thompson Crs",
     "sg:city":"Montello",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203219213,
-    "wof:lastmodified":1449026795,
+    "wof:lastmodified":1466187290,
     "wof:name":"Burnie Plant Hire Pty Ltd",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [145.894287,-41.055019,145.894287,-41.055019],
-  "geometry": {"coordinates":[145.894287,-41.055019],"type":"Point"}
+  "bbox": [
+    145.894287,
+    -41.055019,
+    145.894287,
+    -41.055019
+],
+  "geometry": {"coordinates":[145.89428699999999,-41.055019],"type":"Point"}
 }

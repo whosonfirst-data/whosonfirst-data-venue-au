@@ -2,13 +2,14 @@
   "id": 202703207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038467,-27.35961,153.038467,-27.35961",
     "geom:latitude":-27.35961,
     "geom:longitude":153.038467,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Zillmere Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202703207,
-    "wof:lastmodified":1449060885,
+    "wof:lastmodified":1466188889,
     "wof:name":"R T Racing",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [153.038467,-27.35961,153.038467,-27.35961],
+  "bbox": [
+    153.038467,
+    -27.35961,
+    153.038467,
+    -27.35961
+],
   "geometry": {"coordinates":[153.038467,-27.35961],"type":"Point"}
 }

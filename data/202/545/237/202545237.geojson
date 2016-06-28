@@ -2,13 +2,14 @@
   "id": 202545237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.649124,-32.754536,148.649124,-32.754536",
     "geom:latitude":-32.754536,
     "geom:longitude":148.649124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Obley St",
     "sg:city":"Yeoval",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202545237,
-    "wof:lastmodified":1449060722,
+    "wof:lastmodified":1466190026,
     "wof:name":"Royal Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [148.649124,-32.754536,148.649124,-32.754536],
+  "bbox": [
+    148.649124,
+    -32.754536,
+    148.649124,
+    -32.754536
+],
   "geometry": {"coordinates":[148.649124,-32.754536],"type":"Point"}
 }

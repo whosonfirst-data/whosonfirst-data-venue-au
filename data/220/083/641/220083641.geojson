@@ -2,13 +2,14 @@
   "id": 220083641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.125824,-40.84079,145.125824,-40.84079",
     "geom:latitude":-40.84079,
     "geom:longitude":145.125824,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"rear 66 Emmett St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220083641,
-    "wof:lastmodified":1449074404,
+    "wof:lastmodified":1466187784,
     "wof:name":"Circular Head Chiropractic & Natural Therapies Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.125824,-40.84079,145.125824,-40.84079],
-  "geometry": {"coordinates":[145.125824,-40.84079],"type":"Point"}
+  "bbox": [
+    145.125824,
+    -40.84079,
+    145.125824,
+    -40.84079
+],
+  "geometry": {"coordinates":[145.12582399999999,-40.84079],"type":"Point"}
 }

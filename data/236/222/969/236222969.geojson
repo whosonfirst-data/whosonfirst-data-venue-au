@@ -2,13 +2,14 @@
   "id": 236222969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.492584,-38.081955,145.492584,-38.081955",
     "geom:latitude":-38.081955,
     "geom:longitude":145.492584,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 7/ 18 Racecourse Rd",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236222969,
-    "wof:lastmodified":1449003937,
+    "wof:lastmodified":1466190141,
     "wof:name":"Pakenham Gas Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gas"
     ]
 },
-  "bbox": [145.492584,-38.081955,145.492584,-38.081955],
-  "geometry": {"coordinates":[145.492584,-38.081955],"type":"Point"}
+  "bbox": [
+    145.492584,
+    -38.081955,
+    145.492584,
+    -38.081955
+],
+  "geometry": {"coordinates":[145.49258399999999,-38.081955],"type":"Point"}
 }

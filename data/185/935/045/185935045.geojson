@@ -2,13 +2,14 @@
   "id": 185935045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.514236,-33.259232,151.514236,-33.259232",
     "geom:latitude":-33.259232,
     "geom:longitude":151.514236,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24B Wallarah Rd",
     "sg:city":"Gorokan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185935045,
-    "wof:lastmodified":1449007945,
+    "wof:lastmodified":1466188350,
     "wof:name":"SOS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wall"
     ]
 },
-  "bbox": [151.514236,-33.259232,151.514236,-33.259232],
-  "geometry": {"coordinates":[151.514236,-33.259232],"type":"Point"}
+  "bbox": [
+    151.514236,
+    -33.259232,
+    151.514236,
+    -33.259232
+],
+  "geometry": {"coordinates":[151.51423600000001,-33.259232],"type":"Point"}
 }

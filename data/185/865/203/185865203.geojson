@@ -2,13 +2,14 @@
   "id": 185865203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.849396,-25.28974,152.849396,-25.28974",
     "geom:latitude":-25.28974,
     "geom:longitude":152.849396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Kululu Crs",
     "sg:city":"Scarness",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185865203,
-    "wof:lastmodified":1449007825,
+    "wof:lastmodified":1466187516,
     "wof:name":"Clifford G H",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [152.849396,-25.28974,152.849396,-25.28974],
-  "geometry": {"coordinates":[152.849396,-25.28974],"type":"Point"}
+  "bbox": [
+    152.849396,
+    -25.28974,
+    152.849396,
+    -25.28974
+],
+  "geometry": {"coordinates":[152.84939600000001,-25.28974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252734177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.637611,-33.33625,115.637611,-33.33625",
     "geom:latitude":-33.33625,
     "geom:longitude":115.637611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Beach Road",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252734177,
-    "wof:lastmodified":1449006382,
+    "wof:lastmodified":1466187341,
     "wof:name":"Paintwest Pty. Ltd.",
     "wof:parent_id":85780047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grille"
     ]
 },
-  "bbox": [115.637611,-33.33625,115.637611,-33.33625],
-  "geometry": {"coordinates":[115.637611,-33.33625],"type":"Point"}
+  "bbox": [
+    115.637611,
+    -33.33625,
+    115.637611,
+    -33.33625
+],
+  "geometry": {"coordinates":[115.63761100000001,-33.33625],"type":"Point"}
 }

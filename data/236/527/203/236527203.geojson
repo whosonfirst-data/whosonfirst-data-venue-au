@@ -2,13 +2,14 @@
   "id": 236527203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.135406,-32.549534,151.135406,-32.549534",
     "geom:latitude":-32.549534,
     "geom:longitude":151.135406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 149 Maison Dieu Rd",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236527203,
-    "wof:lastmodified":1449004426,
+    "wof:lastmodified":1466191430,
     "wof:name":"Hunter Fibreglass Fabricators Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "product"
     ]
 },
-  "bbox": [151.135406,-32.549534,151.135406,-32.549534],
-  "geometry": {"coordinates":[151.135406,-32.549534],"type":"Point"}
+  "bbox": [
+    151.135406,
+    -32.549534,
+    151.135406,
+    -32.549534
+],
+  "geometry": {"coordinates":[151.13540599999999,-32.549534],"type":"Point"}
 }

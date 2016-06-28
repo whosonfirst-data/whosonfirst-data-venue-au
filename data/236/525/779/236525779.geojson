@@ -2,13 +2,14 @@
   "id": 236525779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.103989,-32.63625,151.103989,-32.63625",
     "geom:latitude":-32.63625,
     "geom:longitude":151.103989,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mt. Thorley Rd",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236525779,
-    "wof:lastmodified":1449004419,
+    "wof:lastmodified":1466191437,
     "wof:name":"WesTrac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [151.103989,-32.63625,151.103989,-32.63625],
-  "geometry": {"coordinates":[151.103989,-32.63625],"type":"Point"}
+  "bbox": [
+    151.103989,
+    -32.63625,
+    151.103989,
+    -32.63625
+],
+  "geometry": {"coordinates":[151.10398900000001,-32.63625],"type":"Point"}
 }

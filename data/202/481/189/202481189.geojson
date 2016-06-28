@@ -2,13 +2,14 @@
   "id": 202481189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040237,-37.902294,145.040237,-37.902294",
     "geom:latitude":-37.902294,
     "geom:longitude":145.040237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17-18 Katandra Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202481189,
-    "wof:lastmodified":1449062335,
+    "wof:lastmodified":1466189241,
     "wof:name":"Ormond Child Care & Pre-School",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [145.040237,-37.902294,145.040237,-37.902294],
-  "geometry": {"coordinates":[145.040237,-37.902294],"type":"Point"}
+  "bbox": [
+    145.040237,
+    -37.902294,
+    145.040237,
+    -37.902294
+],
+  "geometry": {"coordinates":[145.04023699999999,-37.902294],"type":"Point"}
 }

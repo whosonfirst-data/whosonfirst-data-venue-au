@@ -2,13 +2,14 @@
   "id": 203191465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.703705,-40.988869,145.703705,-40.988869",
     "geom:latitude":-40.988869,
     "geom:longitude":145.703705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sunset Ave",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203191465,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466186937,
     "wof:name":"Stephen Keene Plumbing & Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [145.703705,-40.988869,145.703705,-40.988869],
-  "geometry": {"coordinates":[145.703705,-40.988869],"type":"Point"}
+  "bbox": [
+    145.703705,
+    -40.988869,
+    145.703705,
+    -40.988869
+],
+  "geometry": {"coordinates":[145.70370500000001,-40.988869],"type":"Point"}
 }

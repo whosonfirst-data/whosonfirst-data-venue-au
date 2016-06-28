@@ -2,13 +2,14 @@
   "id": 203313473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.886307,-37.650757,143.886307,-37.650757",
     "geom:latitude":-37.650757,
     "geom:longitude":143.886307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Midland Hwy",
     "sg:city":"Buninyong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203313473,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466188163,
     "wof:name":"Buninyong Lodge",
     "wof:parent_id":85768961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [143.886307,-37.650757,143.886307,-37.650757],
-  "geometry": {"coordinates":[143.886307,-37.650757],"type":"Point"}
+  "bbox": [
+    143.886307,
+    -37.650757,
+    143.886307,
+    -37.650757
+],
+  "geometry": {"coordinates":[143.88630699999999,-37.650757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203171221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.98436,-36.54739,145.98436,-36.54739",
     "geom:latitude":-36.54739,
     "geom:longitude":145.98436,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Carrier St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203171221,
-    "wof:lastmodified":1449026870,
+    "wof:lastmodified":1466189828,
     "wof:name":"Benallas Bits And Bytes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.98436,-36.54739,145.98436,-36.54739],
-  "geometry": {"coordinates":[145.98436,-36.54739],"type":"Point"}
+  "bbox": [
+    145.98436,
+    -36.54739,
+    145.98436,
+    -36.54739
+],
+  "geometry": {"coordinates":[145.98436000000001,-36.54739],"type":"Point"}
 }

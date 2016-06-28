@@ -2,13 +2,14 @@
   "id": 186132499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.980087,-30.82003,152.980087,-30.82003",
     "geom:latitude":-30.82003,
     "geom:longitude":152.980087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"892 Stuarts Point Rd",
     "sg:city":"Stuarts Point",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186132499,
-    "wof:lastmodified":1449051682,
+    "wof:lastmodified":1466189668,
     "wof:name":"White Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.980087,-30.82003,152.980087,-30.82003],
+  "bbox": [
+    152.980087,
+    -30.82003,
+    152.980087,
+    -30.82003
+],
   "geometry": {"coordinates":[152.980087,-30.82003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203311153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.847565,-37.527405,143.847565,-37.527405",
     "geom:latitude":-37.527405,
     "geom:longitude":143.847565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Coronet St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311153,
-    "wof:lastmodified":1449025380,
+    "wof:lastmodified":1466188124,
     "wof:name":"Bryan & Petersen",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.847565,-37.527405,143.847565,-37.527405],
+  "bbox": [
+    143.847565,
+    -37.527405,
+    143.847565,
+    -37.527405
+],
   "geometry": {"coordinates":[143.847565,-37.527405],"type":"Point"}
 }

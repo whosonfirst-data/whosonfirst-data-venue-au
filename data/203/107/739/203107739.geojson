@@ -2,13 +2,14 @@
   "id": 203107739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.738983,-32.517872,115.738983,-32.517872",
     "geom:latitude":-32.517872,
     "geom:longitude":115.738983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Martyn Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203107739,
-    "wof:lastmodified":1449024945,
+    "wof:lastmodified":1466189173,
     "wof:name":"Southern District Patio & Flyscreen Centre",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [115.738983,-32.517872,115.738983,-32.517872],
+  "bbox": [
+    115.738983,
+    -32.517872,
+    115.738983,
+    -32.517872
+],
   "geometry": {"coordinates":[115.738983,-32.517872],"type":"Point"}
 }

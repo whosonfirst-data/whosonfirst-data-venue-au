@@ -2,13 +2,14 @@
   "id": 186523113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.89505,-31.930025,115.89505,-31.930025",
     "geom:latitude":-31.930025,
     "geom:longitude":115.89505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Guildford Rd",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186523113,
-    "wof:lastmodified":1449051931,
+    "wof:lastmodified":1466190695,
     "wof:name":"Vim Natural Health Options",
     "wof:parent_id":85769691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kinesiology"
     ]
 },
-  "bbox": [115.89505,-31.930025,115.89505,-31.930025],
+  "bbox": [
+    115.89505,
+    -31.930025,
+    115.89505,
+    -31.930025
+],
   "geometry": {"coordinates":[115.89505,-31.930025],"type":"Point"}
 }

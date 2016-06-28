@@ -2,13 +2,14 @@
   "id": 252720337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.621529,-33.39072,115.621529,-33.39072",
     "geom:latitude":-33.39072,
     "geom:longitude":115.621529,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Maidment Pde",
     "sg:city":"Dalyellup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252720337,
-    "wof:lastmodified":1449005683,
+    "wof:lastmodified":1466187080,
     "wof:name":"Juice Plus",
     "wof:parent_id":85779607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [115.621529,-33.39072,115.621529,-33.39072],
+  "bbox": [
+    115.621529,
+    -33.39072,
+    115.621529,
+    -33.39072
+],
   "geometry": {"coordinates":[115.621529,-33.39072],"type":"Point"}
 }

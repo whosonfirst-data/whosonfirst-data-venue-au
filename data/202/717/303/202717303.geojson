@@ -2,13 +2,14 @@
   "id": 202717303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.011246,-27.352348,153.011246,-27.352348",
     "geom:latitude":-27.352348,
     "geom:longitude":153.011246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Riesling St",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202717303,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466189159,
     "wof:name":"Telfer Mini Diggers",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.011246,-27.352348,153.011246,-27.352348],
+  "bbox": [
+    153.011246,
+    -27.352348,
+    153.011246,
+    -27.352348
+],
   "geometry": {"coordinates":[153.011246,-27.352348],"type":"Point"}
 }

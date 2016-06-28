@@ -2,13 +2,14 @@
   "id": 203190703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.729324,-40.993244,145.729324,-40.993244",
     "geom:latitude":-40.993244,
     "geom:longitude":145.729324,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Quiggin St",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203190703,
-    "wof:lastmodified":1449026753,
+    "wof:lastmodified":1466186932,
     "wof:name":"Stutterds Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.729324,-40.993244,145.729324,-40.993244],
-  "geometry": {"coordinates":[145.729324,-40.993244],"type":"Point"}
+  "bbox": [
+    145.729324,
+    -40.993244,
+    145.729324,
+    -40.993244
+],
+  "geometry": {"coordinates":[145.72932399999999,-40.993244],"type":"Point"}
 }

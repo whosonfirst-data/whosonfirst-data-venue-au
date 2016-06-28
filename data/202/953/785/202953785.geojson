@@ -2,13 +2,14 @@
   "id": 202953785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112549,-30.297489,153.112549,-30.297489",
     "geom:latitude":-30.297489,
     "geom:longitude":153.112549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 22 Moonee St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202953785,
-    "wof:lastmodified":1449061836,
+    "wof:lastmodified":1466191017,
     "wof:name":"Pacific Property Sales",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.112549,-30.297489,153.112549,-30.297489],
+  "bbox": [
+    153.112549,
+    -30.297489,
+    153.112549,
+    -30.297489
+],
   "geometry": {"coordinates":[153.112549,-30.297489],"type":"Point"}
 }

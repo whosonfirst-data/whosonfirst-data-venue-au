@@ -2,13 +2,14 @@
   "id": 185796635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.527176,-37.666107,145.527176,-37.666107",
     "geom:latitude":-37.666107,
     "geom:longitude":145.527176,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Badger Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185796635,
-    "wof:lastmodified":1449007377,
+    "wof:lastmodified":1466189905,
     "wof:name":"Running Hot Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.527176,-37.666107,145.527176,-37.666107],
+  "bbox": [
+    145.527176,
+    -37.666107,
+    145.527176,
+    -37.666107
+],
   "geometry": {"coordinates":[145.527176,-37.666107],"type":"Point"}
 }

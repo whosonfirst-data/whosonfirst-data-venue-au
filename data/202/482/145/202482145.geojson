@@ -2,13 +2,14 @@
   "id": 202482145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.044022,-37.90472,145.044022,-37.90472",
     "geom:latitude":-37.90472,
     "geom:longitude":145.044022,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Jasper Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202482145,
-    "wof:lastmodified":1449061004,
+    "wof:lastmodified":1466189243,
     "wof:name":"A Lewis & Co Pty Ltd",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [145.044022,-37.90472,145.044022,-37.90472],
-  "geometry": {"coordinates":[145.044022,-37.90472],"type":"Point"}
+  "bbox": [
+    145.044022,
+    -37.90472,
+    145.044022,
+    -37.90472
+],
+  "geometry": {"coordinates":[145.04402200000001,-37.90472],"type":"Point"}
 }

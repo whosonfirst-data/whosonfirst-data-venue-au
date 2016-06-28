@@ -2,13 +2,14 @@
   "id": 219471203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.116028,-37.514389,145.116028,-37.514389",
     "geom:latitude":-37.514389,
     "geom:longitude":145.116028,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Laurel St",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219471203,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1466189131,
     "wof:name":"The Vet Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.116028,-37.514389,145.116028,-37.514389],
+  "bbox": [
+    145.116028,
+    -37.514389,
+    145.116028,
+    -37.514389
+],
   "geometry": {"coordinates":[145.116028,-37.514389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203286251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.193451,-33.142181,148.193451,-33.142181",
     "geom:latitude":-33.142181,
     "geom:longitude":148.193451,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Molong Rd",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203286251,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466187843,
     "wof:name":"Wilson's Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [148.193451,-33.142181,148.193451,-33.142181],
-  "geometry": {"coordinates":[148.193451,-33.142181],"type":"Point"}
+  "bbox": [
+    148.193451,
+    -33.142181,
+    148.193451,
+    -33.142181
+],
+  "geometry": {"coordinates":[148.19345100000001,-33.142181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202728467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.010223,-27.321327,153.010223,-27.321327",
     "geom:latitude":-27.321327,
     "geom:longitude":153.010223,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bald Hills Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202728467,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466189369,
     "wof:name":"Victoria Gill",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [153.010223,-27.321327,153.010223,-27.321327],
+  "bbox": [
+    153.010223,
+    -27.321327,
+    153.010223,
+    -27.321327
+],
   "geometry": {"coordinates":[153.010223,-27.321327],"type":"Point"}
 }

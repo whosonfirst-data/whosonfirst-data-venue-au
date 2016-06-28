@@ -2,13 +2,14 @@
   "id": 220177883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358673,-38.151402,144.358673,-38.151402",
     "geom:latitude":-38.151402,
     "geom:longitude":144.358673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220177883,
-    "wof:lastmodified":1449074875,
+    "wof:lastmodified":1466189147,
     "wof:name":"Geelong Hotel",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.358673,-38.151402,144.358673,-38.151402],
-  "geometry": {"coordinates":[144.358673,-38.151402],"type":"Point"}
+  "bbox": [
+    144.358673,
+    -38.151402,
+    144.358673,
+    -38.151402
+],
+  "geometry": {"coordinates":[144.35867300000001,-38.151402],"type":"Point"}
 }

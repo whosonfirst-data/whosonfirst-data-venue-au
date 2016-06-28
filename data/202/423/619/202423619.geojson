@@ -2,13 +2,14 @@
   "id": 202423619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.955887,-37.840508,144.955887,-37.840508",
     "geom:latitude":-37.840508,
     "geom:longitude":144.955887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Bridport St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202423619,
-    "wof:lastmodified":1449060520,
+    "wof:lastmodified":1466188209,
     "wof:name":"Andrews Hamburgers",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.955887,-37.840508,144.955887,-37.840508],
-  "geometry": {"coordinates":[144.955887,-37.840508],"type":"Point"}
+  "bbox": [
+    144.955887,
+    -37.840508,
+    144.955887,
+    -37.840508
+],
+  "geometry": {"coordinates":[144.95588699999999,-37.840508],"type":"Point"}
 }

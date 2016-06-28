@@ -2,13 +2,14 @@
   "id": 203271967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.175674,-33.135574,148.175674,-33.135574",
     "geom:latitude":-33.135574,
     "geom:longitude":148.175674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19a Church St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203271967,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466187736,
     "wof:name":"AR Williams & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [148.175674,-33.135574,148.175674,-33.135574],
-  "geometry": {"coordinates":[148.175674,-33.135574],"type":"Point"}
+  "bbox": [
+    148.175674,
+    -33.135574,
+    148.175674,
+    -33.135574
+],
+  "geometry": {"coordinates":[148.17567399999999,-33.135574],"type":"Point"}
 }

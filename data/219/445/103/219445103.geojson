@@ -2,13 +2,14 @@
   "id": 219445103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.154724,-21.024698,149.154724,-21.024698",
     "geom:latitude":-21.024698,
     "geom:longitude":149.154724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Shoal Point Rd",
     "sg:city":"Bucasia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219445103,
-    "wof:lastmodified":1449070868,
+    "wof:lastmodified":1466188899,
     "wof:name":"David Groves Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.154724,-21.024698,149.154724,-21.024698],
-  "geometry": {"coordinates":[149.154724,-21.024698],"type":"Point"}
+  "bbox": [
+    149.154724,
+    -21.024698,
+    149.154724,
+    -21.024698
+],
+  "geometry": {"coordinates":[149.15472399999999,-21.024698],"type":"Point"}
 }

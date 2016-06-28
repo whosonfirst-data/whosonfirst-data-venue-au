@@ -2,13 +2,14 @@
   "id": 202842083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.840683,-36.312954,146.840683,-36.312954",
     "geom:latitude":-36.312954,
     "geom:longitude":146.840683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High St",
     "sg:city":"Yackandandah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202842083,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466190476,
     "wof:name":"Yackandandah Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [146.840683,-36.312954,146.840683,-36.312954],
-  "geometry": {"coordinates":[146.840683,-36.312954],"type":"Point"}
+  "bbox": [
+    146.840683,
+    -36.312954,
+    146.840683,
+    -36.312954
+],
+  "geometry": {"coordinates":[146.84068300000001,-36.312954],"type":"Point"}
 }

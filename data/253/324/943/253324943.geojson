@@ -2,13 +2,14 @@
   "id": 253324943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.28511,-38.048683,145.28511,-38.048683",
     "geom:latitude":-38.048683,
     "geom:longitude":145.28511,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Amberley Park Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253324943,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466190825,
     "wof:name":"PickFix Computer Services",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [145.28511,-38.048683,145.28511,-38.048683],
+  "bbox": [
+    145.28511,
+    -38.048683,
+    145.28511,
+    -38.048683
+],
   "geometry": {"coordinates":[145.28511,-38.048683],"type":"Point"}
 }

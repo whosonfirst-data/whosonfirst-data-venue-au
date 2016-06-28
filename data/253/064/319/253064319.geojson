@@ -2,13 +2,14 @@
   "id": 253064319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.774857,-37.769535,144.774857,-37.769535",
     "geom:latitude":-37.769535,
     "geom:longitude":144.774857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Rd",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253064319,
-    "wof:lastmodified":1449063870,
+    "wof:lastmodified":1466188122,
     "wof:name":"BP Australia Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.774857,-37.769535,144.774857,-37.769535],
+  "bbox": [
+    144.774857,
+    -37.769535,
+    144.774857,
+    -37.769535
+],
   "geometry": {"coordinates":[144.774857,-37.769535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202582793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.437683,-37.675655,144.437683,-37.675655",
     "geom:latitude":-37.675655,
     "geom:longitude":144.437683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gell St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582793,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1466187146,
     "wof:name":"Anderson John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.437683,-37.675655,144.437683,-37.675655],
-  "geometry": {"coordinates":[144.437683,-37.675655],"type":"Point"}
+  "bbox": [
+    144.437683,
+    -37.675655,
+    144.437683,
+    -37.675655
+],
+  "geometry": {"coordinates":[144.43768299999999,-37.675655],"type":"Point"}
 }

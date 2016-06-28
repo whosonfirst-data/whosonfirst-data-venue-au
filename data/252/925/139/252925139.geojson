@@ -2,13 +2,14 @@
   "id": 252925139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.773743,-36.310993,140.773743,-36.310993",
     "geom:latitude":-36.310993,
     "geom:longitude":140.773743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Woolshed St",
     "sg:city":"Bordertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252925139,
-    "wof:lastmodified":1449005413,
+    "wof:lastmodified":1466189213,
     "wof:name":"Safety Med",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [140.773743,-36.310993,140.773743,-36.310993],
+  "bbox": [
+    140.773743,
+    -36.310993,
+    140.773743,
+    -36.310993
+],
   "geometry": {"coordinates":[140.773743,-36.310993],"type":"Point"}
 }

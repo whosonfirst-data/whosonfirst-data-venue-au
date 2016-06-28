@@ -2,13 +2,14 @@
   "id": 202682327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.970154,-27.347954,152.970154,-27.347954",
     "geom:latitude":-27.347954,
     "geom:longitude":152.970154,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Willow St",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202682327,
-    "wof:lastmodified":1449060541,
+    "wof:lastmodified":1466188503,
     "wof:name":"Jads Australia",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [152.970154,-27.347954,152.970154,-27.347954],
-  "geometry": {"coordinates":[152.970154,-27.347954],"type":"Point"}
+  "bbox": [
+    152.970154,
+    -27.347954,
+    152.970154,
+    -27.347954
+],
+  "geometry": {"coordinates":[152.97015400000001,-27.347954],"type":"Point"}
 }

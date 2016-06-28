@@ -2,13 +2,14 @@
   "id": 253052823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.849213,-37.814411,144.849213,-37.814411",
     "geom:latitude":-37.814411,
     "geom:longitude":144.849213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Industry Park Drv",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253052823,
-    "wof:lastmodified":1449064163,
+    "wof:lastmodified":1466187955,
     "wof:name":"G & T Chickens",
     "wof:parent_id":85776515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [144.849213,-37.814411,144.849213,-37.814411],
-  "geometry": {"coordinates":[144.849213,-37.814411],"type":"Point"}
+  "bbox": [
+    144.849213,
+    -37.814411,
+    144.849213,
+    -37.814411
+],
+  "geometry": {"coordinates":[144.84921299999999,-37.814411],"type":"Point"}
 }

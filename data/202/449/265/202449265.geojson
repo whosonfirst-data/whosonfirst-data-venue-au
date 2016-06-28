@@ -2,13 +2,14 @@
   "id": 202449265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.96077,-37.831547,144.96077,-37.831547",
     "geom:latitude":-37.831547,
     "geom:longitude":144.96077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Coventry St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202449265,
-    "wof:lastmodified":1449062465,
+    "wof:lastmodified":1466188774,
     "wof:name":"Strategy Shop The",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.96077,-37.831547,144.96077,-37.831547],
+  "bbox": [
+    144.96077,
+    -37.831547,
+    144.96077,
+    -37.831547
+],
   "geometry": {"coordinates":[144.96077,-37.831547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202802425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.76387,-32.927692,151.76387,-32.927692",
     "geom:latitude":-32.927692,
     "geom:longitude":151.76387,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr King & Steel Street",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202802425,
-    "wof:lastmodified":1449062190,
+    "wof:lastmodified":1466190474,
     "wof:name":"King St Hotel",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.76387,-32.927692,151.76387,-32.927692],
+  "bbox": [
+    151.76387,
+    -32.927692,
+    151.76387,
+    -32.927692
+],
   "geometry": {"coordinates":[151.76387,-32.927692],"type":"Point"}
 }

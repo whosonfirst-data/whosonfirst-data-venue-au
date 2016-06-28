@@ -2,13 +2,14 @@
   "id": 236072077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.76619,-37.695354,144.76619,-37.695354",
     "geom:latitude":-37.695354,
     "geom:longitude":144.76619,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 - 17 Overton Lea Blv",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236072077,
-    "wof:lastmodified":1449003379,
+    "wof:lastmodified":1466188069,
     "wof:name":"Kieser Training",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.76619,-37.695354,144.76619,-37.695354],
-  "geometry": {"coordinates":[144.76619,-37.695354],"type":"Point"}
+  "bbox": [
+    144.76619,
+    -37.695354,
+    144.76619,
+    -37.695354
+],
+  "geometry": {"coordinates":[144.76618999999999,-37.695354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185785613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.379868,-37.724625,145.379868,-37.724625",
     "geom:latitude":-37.724625,
     "geom:longitude":145.379868,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Killara Rd",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185785613,
-    "wof:lastmodified":1449007957,
+    "wof:lastmodified":1466189818,
     "wof:name":"The Egg Man",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "egg"
     ]
 },
-  "bbox": [145.379868,-37.724625,145.379868,-37.724625],
-  "geometry": {"coordinates":[145.379868,-37.724625],"type":"Point"}
+  "bbox": [
+    145.379868,
+    -37.724625,
+    145.379868,
+    -37.724625
+],
+  "geometry": {"coordinates":[145.37986799999999,-37.724625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202871003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.609818,-25.62501,151.609818,-25.62501",
     "geom:latitude":-25.62501,
     "geom:longitude":151.609818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Capper St",
     "sg:city":"Gayndah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202871003,
-    "wof:lastmodified":1449060939,
+    "wof:lastmodified":1466190666,
     "wof:name":"Gayndah Foodstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [151.609818,-25.62501,151.609818,-25.62501],
-  "geometry": {"coordinates":[151.609818,-25.62501],"type":"Point"}
+  "bbox": [
+    151.609818,
+    -25.62501,
+    151.609818,
+    -25.62501
+],
+  "geometry": {"coordinates":[151.60981799999999,-25.62501],"type":"Point"}
 }

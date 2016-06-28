@@ -2,13 +2,14 @@
   "id": 202826545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.159027,-23.524542,148.159027,-23.524542",
     "geom:latitude":-23.524542,
     "geom:longitude":148.159027,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Egerton & Ruby Sts",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202826545,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466190295,
     "wof:name":"Civic Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "library"
     ]
 },
-  "bbox": [148.159027,-23.524542,148.159027,-23.524542],
-  "geometry": {"coordinates":[148.159027,-23.524542],"type":"Point"}
+  "bbox": [
+    148.159027,
+    -23.524542,
+    148.159027,
+    -23.524542
+],
+  "geometry": {"coordinates":[148.15902700000001,-23.524542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203033235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.154419,-37.667641,145.154419,-37.667641",
     "geom:latitude":-37.667641,
     "geom:longitude":145.154419,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Everleigh Drv",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203033235,
-    "wof:lastmodified":1449025325,
+    "wof:lastmodified":1466187866,
     "wof:name":"St Helena Floor Sanding",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [145.154419,-37.667641,145.154419,-37.667641],
-  "geometry": {"coordinates":[145.154419,-37.667641],"type":"Point"}
+  "bbox": [
+    145.154419,
+    -37.667641,
+    145.154419,
+    -37.667641
+],
+  "geometry": {"coordinates":[145.15441899999999,-37.667641],"type":"Point"}
 }

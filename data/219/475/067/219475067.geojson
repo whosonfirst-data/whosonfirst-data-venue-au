@@ -2,13 +2,14 @@
   "id": 219475067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.114502,-37.515633,145.114502,-37.515633",
     "geom:latitude":-37.515633,
     "geom:longitude":145.114502,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Plenty Rd",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219475067,
-    "wof:lastmodified":1449071851,
+    "wof:lastmodified":1466189162,
     "wof:name":"Whittlesea Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.114502,-37.515633,145.114502,-37.515633],
-  "geometry": {"coordinates":[145.114502,-37.515633],"type":"Point"}
+  "bbox": [
+    145.114502,
+    -37.515633,
+    145.114502,
+    -37.515633
+],
+  "geometry": {"coordinates":[145.11450199999999,-37.515633],"type":"Point"}
 }

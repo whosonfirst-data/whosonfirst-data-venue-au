@@ -2,13 +2,14 @@
   "id": 220086033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.123398,-40.8414,145.123398,-40.8414",
     "geom:latitude":-40.8414,
     "geom:longitude":145.123398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Smith St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220086033,
-    "wof:lastmodified":1449074593,
+    "wof:lastmodified":1466187802,
     "wof:name":"Emmerton Park Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [145.123398,-40.8414,145.123398,-40.8414],
-  "geometry": {"coordinates":[145.123398,-40.8414],"type":"Point"}
+  "bbox": [
+    145.123398,
+    -40.8414,
+    145.123398,
+    -40.8414
+],
+  "geometry": {"coordinates":[145.12339800000001,-40.8414],"type":"Point"}
 }

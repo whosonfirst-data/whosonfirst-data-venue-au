@@ -2,13 +2,14 @@
   "id": 219369931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.539001,-35.340153,143.539001,-35.340153",
     "geom:latitude":-35.340153,
     "geom:longitude":143.539001,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Sealake Swanhill Rd",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219369931,
-    "wof:lastmodified":1449073731,
+    "wof:lastmodified":1466188097,
     "wof:name":"PR Truck Sales Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [143.539001,-35.340153,143.539001,-35.340153],
-  "geometry": {"coordinates":[143.539001,-35.340153],"type":"Point"}
+  "bbox": [
+    143.539001,
+    -35.340153,
+    143.539001,
+    -35.340153
+],
+  "geometry": {"coordinates":[143.53900100000001,-35.340153],"type":"Point"}
 }

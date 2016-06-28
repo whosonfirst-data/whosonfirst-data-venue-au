@@ -2,13 +2,14 @@
   "id": 253278023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.93399,-27.553835,151.93399,-27.553835",
     "geom:latitude":-27.553835,
     "geom:longitude":151.93399,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132B Holberton St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253278023,
-    "wof:lastmodified":1449064462,
+    "wof:lastmodified":1466190549,
     "wof:name":"Underwood Building & Pest Reports",
     "wof:parent_id":85779897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.93399,-27.553835,151.93399,-27.553835],
-  "geometry": {"coordinates":[151.93399,-27.553835],"type":"Point"}
+  "bbox": [
+    151.93399,
+    -27.553835,
+    151.93399,
+    -27.553835
+],
+  "geometry": {"coordinates":[151.93398999999999,-27.553835],"type":"Point"}
 }

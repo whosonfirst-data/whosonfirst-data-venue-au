@@ -2,13 +2,14 @@
   "id": 236671331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.071411,-30.886143,153.071411,-30.886143",
     "geom:latitude":-30.886143,
     "geom:longitude":153.071411,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Francis Diamond St",
     "sg:city":"Arakoon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236671331,
-    "wof:lastmodified":1449002252,
+    "wof:lastmodified":1466191875,
     "wof:name":"Brew K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.071411,-30.886143,153.071411,-30.886143],
-  "geometry": {"coordinates":[153.071411,-30.886143],"type":"Point"}
+  "bbox": [
+    153.071411,
+    -30.886143,
+    153.071411,
+    -30.886143
+],
+  "geometry": {"coordinates":[153.07141100000001,-30.886143],"type":"Point"}
 }

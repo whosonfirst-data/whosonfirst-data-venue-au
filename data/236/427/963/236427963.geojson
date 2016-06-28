@@ -2,13 +2,14 @@
   "id": 236427963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.189163,-21.150887,149.189163,-21.150887",
     "geom:latitude":-21.150887,
     "geom:longitude":149.189163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Prospect St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236427963,
-    "wof:lastmodified":1449002473,
+    "wof:lastmodified":1466191169,
     "wof:name":"Bargain Boat Bits",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yacht"
     ]
 },
-  "bbox": [149.189163,-21.150887,149.189163,-21.150887],
-  "geometry": {"coordinates":[149.189163,-21.150887],"type":"Point"}
+  "bbox": [
+    149.189163,
+    -21.150887,
+    149.189163,
+    -21.150887
+],
+  "geometry": {"coordinates":[149.18916300000001,-21.150887],"type":"Point"}
 }

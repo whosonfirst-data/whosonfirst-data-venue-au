@@ -2,13 +2,14 @@
   "id": 202494433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.034561,-37.918053,145.034561,-37.918053",
     "geom:latitude":-37.918053,
     "geom:longitude":145.034561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202494433,
-    "wof:lastmodified":1449062371,
+    "wof:lastmodified":1466189459,
     "wof:name":"H&R Block",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [145.034561,-37.918053,145.034561,-37.918053],
+  "bbox": [
+    145.034561,
+    -37.918053,
+    145.034561,
+    -37.918053
+],
   "geometry": {"coordinates":[145.034561,-37.918053],"type":"Point"}
 }

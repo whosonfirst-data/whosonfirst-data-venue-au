@@ -2,13 +2,14 @@
   "id": 203350391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854431,-37.562763,143.854431,-37.562763",
     "geom:latitude":-37.562763,
     "geom:longitude":143.854431,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Doveton St",
     "sg:city":"(Nth) Ballarat",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203350391,
-    "wof:lastmodified":1449025896,
+    "wof:lastmodified":1466188684,
     "wof:name":"Aaron Cameron",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [143.854431,-37.562763,143.854431,-37.562763],
-  "geometry": {"coordinates":[143.854431,-37.562763],"type":"Point"}
+  "bbox": [
+    143.854431,
+    -37.562763,
+    143.854431,
+    -37.562763
+],
+  "geometry": {"coordinates":[143.85443100000001,-37.562763],"type":"Point"}
 }

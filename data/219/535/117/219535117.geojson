@@ -2,13 +2,14 @@
   "id": 219535117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.067963,-33.922363,151.067963,-33.922363",
     "geom:latitude":-33.922363,
     "geom:longitude":151.067963,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 King Georges St",
     "sg:city":"Wiley Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219535117,
-    "wof:lastmodified":1449071034,
+    "wof:lastmodified":1466190015,
     "wof:name":"Wiley Park Deli",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [151.067963,-33.922363,151.067963,-33.922363],
-  "geometry": {"coordinates":[151.067963,-33.922363],"type":"Point"}
+  "bbox": [
+    151.067963,
+    -33.922363,
+    151.067963,
+    -33.922363
+],
+  "geometry": {"coordinates":[151.06796299999999,-33.922363],"type":"Point"}
 }

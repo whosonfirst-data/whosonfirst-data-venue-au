@@ -2,13 +2,14 @@
   "id": 186461911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.159195,-33.883327,151.159195,-33.883327",
     "geom:latitude":-33.883327,
     "geom:longitude":151.159195,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Balmain Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186461911,
-    "wof:lastmodified":1449051395,
+    "wof:lastmodified":1466190152,
     "wof:name":"Agnes Barna",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [151.159195,-33.883327,151.159195,-33.883327],
-  "geometry": {"coordinates":[151.159195,-33.883327],"type":"Point"}
+  "bbox": [
+    151.159195,
+    -33.883327,
+    151.159195,
+    -33.883327
+],
+  "geometry": {"coordinates":[151.15919500000001,-33.883327],"type":"Point"}
 }

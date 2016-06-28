@@ -2,13 +2,14 @@
   "id": 219839945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.80912,-31.970537,115.80912,-31.970537",
     "geom:latitude":-31.970537,
     "geom:longitude":115.80912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"The Hollywood Clinic 95 Monash Ave",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219839945,
-    "wof:lastmodified":1449072508,
+    "wof:lastmodified":1466191509,
     "wof:name":"Hart Mitch",
     "wof:parent_id":85778041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [115.80912,-31.970537,115.80912,-31.970537],
-  "geometry": {"coordinates":[115.80912,-31.970537],"type":"Point"}
+  "bbox": [
+    115.80912,
+    -31.970537,
+    115.80912,
+    -31.970537
+],
+  "geometry": {"coordinates":[115.80911999999999,-31.970537],"type":"Point"}
 }

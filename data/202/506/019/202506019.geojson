@@ -2,13 +2,14 @@
   "id": 202506019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.188843,-38.107483,145.188843,-38.107483",
     "geom:latitude":-38.107483,
     "geom:longitude":145.188843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Ravenswood Crt",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202506019,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466189603,
     "wof:name":"Pane In The Glass Window & Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [145.188843,-38.107483,145.188843,-38.107483],
-  "geometry": {"coordinates":[145.188843,-38.107483],"type":"Point"}
+  "bbox": [
+    145.188843,
+    -38.107483,
+    145.188843,
+    -38.107483
+],
+  "geometry": {"coordinates":[145.18884299999999,-38.107483],"type":"Point"}
 }

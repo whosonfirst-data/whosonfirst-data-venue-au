@@ -2,13 +2,14 @@
   "id": 253106039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.839706,-37.752274,144.839706,-37.752274",
     "geom:latitude":-37.752274,
     "geom:longitude":144.839706,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Spalding Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253106039,
-    "wof:lastmodified":1449062786,
+    "wof:lastmodified":1466188858,
     "wof:name":"Perfect Welding",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [144.839706,-37.752274,144.839706,-37.752274],
-  "geometry": {"coordinates":[144.839706,-37.752274],"type":"Point"}
+  "bbox": [
+    144.839706,
+    -37.752274,
+    144.839706,
+    -37.752274
+],
+  "geometry": {"coordinates":[144.83970600000001,-37.752274],"type":"Point"}
 }

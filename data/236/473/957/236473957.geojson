@@ -2,13 +2,14 @@
   "id": 236473957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.155975,-21.181684,149.155975,-21.181684",
     "geom:latitude":-21.181684,
     "geom:longitude":149.155975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Southgate Drv",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236473957,
-    "wof:lastmodified":1449002192,
+    "wof:lastmodified":1466191234,
     "wof:name":"Australian Liquor Marketers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wine"
     ]
 },
-  "bbox": [149.155975,-21.181684,149.155975,-21.181684],
-  "geometry": {"coordinates":[149.155975,-21.181684],"type":"Point"}
+  "bbox": [
+    149.155975,
+    -21.181684,
+    149.155975,
+    -21.181684
+],
+  "geometry": {"coordinates":[149.15597500000001,-21.181684],"type":"Point"}
 }

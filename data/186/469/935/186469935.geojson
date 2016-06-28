@@ -2,13 +2,14 @@
   "id": 186469935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15802,-33.887955,151.15802,-33.887955",
     "geom:latitude":-33.887955,
     "geom:longitude":151.15802,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Parramatta Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186469935,
-    "wof:lastmodified":1449053084,
+    "wof:lastmodified":1466190290,
     "wof:name":"Bloomspoon",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.15802,-33.887955,151.15802,-33.887955],
-  "geometry": {"coordinates":[151.15802,-33.887955],"type":"Point"}
+  "bbox": [
+    151.15802,
+    -33.887955,
+    151.15802,
+    -33.887955
+],
+  "geometry": {"coordinates":[151.15801999999999,-33.887955],"type":"Point"}
 }

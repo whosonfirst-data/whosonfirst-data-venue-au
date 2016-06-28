@@ -2,13 +2,14 @@
   "id": 253095049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833603,-37.754536,144.833603,-37.754536",
     "geom:latitude":-37.754536,
     "geom:longitude":144.833603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 2 / 3 Whitehill Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253095049,
-    "wof:lastmodified":1449064328,
+    "wof:lastmodified":1466188628,
     "wof:name":"P.T.F.E. Performance Products",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lubricant"
     ]
 },
-  "bbox": [144.833603,-37.754536,144.833603,-37.754536],
-  "geometry": {"coordinates":[144.833603,-37.754536],"type":"Point"}
+  "bbox": [
+    144.833603,
+    -37.754536,
+    144.833603,
+    -37.754536
+],
+  "geometry": {"coordinates":[144.83360300000001,-37.754536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202822165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.155365,-23.503399,148.155365,-23.503399",
     "geom:latitude":-23.503399,
     "geom:longitude":148.155365,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 9 Hawkins Pl",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202822165,
-    "wof:lastmodified":1449062562,
+    "wof:lastmodified":1466190405,
     "wof:name":"Lawrence & Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "appliance"
     ]
 },
-  "bbox": [148.155365,-23.503399,148.155365,-23.503399],
-  "geometry": {"coordinates":[148.155365,-23.503399],"type":"Point"}
+  "bbox": [
+    148.155365,
+    -23.503399,
+    148.155365,
+    -23.503399
+],
+  "geometry": {"coordinates":[148.15536499999999,-23.503399],"type":"Point"}
 }

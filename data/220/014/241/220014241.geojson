@@ -2,13 +2,14 @@
   "id": 220014241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.280884,-36.761963,144.280884,-36.761963",
     "geom:latitude":-36.761963,
     "geom:longitude":144.280884,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88- 92 Mitchell St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220014241,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466187023,
     "wof:name":"Western QBE Insurance",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [144.280884,-36.761963,144.280884,-36.761963],
-  "geometry": {"coordinates":[144.280884,-36.761963],"type":"Point"}
+  "bbox": [
+    144.280884,
+    -36.761963,
+    144.280884,
+    -36.761963
+],
+  "geometry": {"coordinates":[144.28088399999999,-36.761963],"type":"Point"}
 }

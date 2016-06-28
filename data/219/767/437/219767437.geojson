@@ -2,13 +2,14 @@
   "id": 219767437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176514,-33.914646,151.176514,-33.914646",
     "geom:latitude":-33.914646,
     "geom:longitude":151.176514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 231 Princes Hwy",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219767437,
-    "wof:lastmodified":1449071416,
+    "wof:lastmodified":1466191198,
     "wof:name":"SIGNWAVE",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "exhibition"
     ]
 },
-  "bbox": [151.176514,-33.914646,151.176514,-33.914646],
+  "bbox": [
+    151.176514,
+    -33.914646,
+    151.176514,
+    -33.914646
+],
   "geometry": {"coordinates":[151.176514,-33.914646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202670987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.005295,-27.376219,153.005295,-27.376219",
     "geom:latitude":-27.376219,
     "geom:longitude":153.005295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Huxtable St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202670987,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466188286,
     "wof:name":"Georges Beauty Regime",
     "wof:parent_id":85776239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.005295,-27.376219,153.005295,-27.376219],
-  "geometry": {"coordinates":[153.005295,-27.376219],"type":"Point"}
+  "bbox": [
+    153.005295,
+    -27.376219,
+    153.005295,
+    -27.376219
+],
+  "geometry": {"coordinates":[153.00529499999999,-27.376219],"type":"Point"}
 }

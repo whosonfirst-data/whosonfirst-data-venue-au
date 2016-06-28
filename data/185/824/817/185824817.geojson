@@ -2,13 +2,14 @@
   "id": 185824817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.869278,-25.285486,152.869278,-25.285486",
     "geom:latitude":-25.285486,
     "geom:longitude":152.869278,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Freshwater St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185824817,
-    "wof:lastmodified":1449007162,
+    "wof:lastmodified":1466187025,
     "wof:name":"Tina Souvlis Outdoor Design & Living",
     "wof:parent_id":85770489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [152.869278,-25.285486,152.869278,-25.285486],
-  "geometry": {"coordinates":[152.869278,-25.285486],"type":"Point"}
+  "bbox": [
+    152.869278,
+    -25.285486,
+    152.869278,
+    -25.285486
+],
+  "geometry": {"coordinates":[152.86927800000001,-25.285486],"type":"Point"}
 }

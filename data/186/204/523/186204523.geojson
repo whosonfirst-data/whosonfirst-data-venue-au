@@ -2,13 +2,14 @@
   "id": 186204523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.908295,-31.432636,152.908295,-31.432636",
     "geom:latitude":-31.432636,
     "geom:longitude":152.908295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Horton St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186204523,
-    "wof:lastmodified":1449053097,
+    "wof:lastmodified":1466187105,
     "wof:name":"Hear Now Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [152.908295,-31.432636,152.908295,-31.432636],
-  "geometry": {"coordinates":[152.908295,-31.432636],"type":"Point"}
+  "bbox": [
+    152.908295,
+    -31.432636,
+    152.908295,
+    -31.432636
+],
+  "geometry": {"coordinates":[152.90829500000001,-31.432636],"type":"Point"}
 }

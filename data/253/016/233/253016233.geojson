@@ -2,13 +2,14 @@
   "id": 253016233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.689224,-37.880421,144.689224,-37.880421",
     "geom:latitude":-37.880421,
     "geom:longitude":144.689224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 20, Woodville Park Shopping Centre, Warringa Crs",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253016233,
-    "wof:lastmodified":1449063332,
+    "wof:lastmodified":1466187236,
     "wof:name":"Vama Supermarket",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [144.689224,-37.880421,144.689224,-37.880421],
+  "bbox": [
+    144.689224,
+    -37.880421,
+    144.689224,
+    -37.880421
+],
   "geometry": {"coordinates":[144.689224,-37.880421],"type":"Point"}
 }

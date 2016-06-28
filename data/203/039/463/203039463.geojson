@@ -2,13 +2,14 @@
   "id": 203039463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.629562,-37.60421,145.629562,-37.60421",
     "geom:latitude":-37.60421,
     "geom:longitude":145.629562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Francis Crs",
     "sg:city":"Fernshaw",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203039463,
-    "wof:lastmodified":1449026624,
+    "wof:lastmodified":1466188004,
     "wof:name":"Oz Tin Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "roof"
     ]
 },
-  "bbox": [145.629562,-37.60421,145.629562,-37.60421],
-  "geometry": {"coordinates":[145.629562,-37.60421],"type":"Point"}
+  "bbox": [
+    145.629562,
+    -37.60421,
+    145.629562,
+    -37.60421
+],
+  "geometry": {"coordinates":[145.62956199999999,-37.60421],"type":"Point"}
 }

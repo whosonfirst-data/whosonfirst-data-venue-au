@@ -2,13 +2,14 @@
   "id": 202568073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435043,-37.676132,144.435043,-37.676132",
     "geom:latitude":-37.676132,
     "geom:longitude":144.435043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7A Grant St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202568073,
-    "wof:lastmodified":1449060045,
+    "wof:lastmodified":1466187029,
     "wof:name":"Job Futures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.435043,-37.676132,144.435043,-37.676132],
-  "geometry": {"coordinates":[144.435043,-37.676132],"type":"Point"}
+  "bbox": [
+    144.435043,
+    -37.676132,
+    144.435043,
+    -37.676132
+],
+  "geometry": {"coordinates":[144.43504300000001,-37.676132],"type":"Point"}
 }

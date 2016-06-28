@@ -2,13 +2,14 @@
   "id": 236153105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.860306,-34.721336,135.860306,-34.721336",
     "geom:latitude":-34.721336,
     "geom:longitude":135.860306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bligh St",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236153105,
-    "wof:lastmodified":1449004014,
+    "wof:lastmodified":1466189532,
     "wof:name":"Lincoln Lingerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sleepwear"
     ]
 },
-  "bbox": [135.860306,-34.721336,135.860306,-34.721336],
-  "geometry": {"coordinates":[135.860306,-34.721336],"type":"Point"}
+  "bbox": [
+    135.860306,
+    -34.721336,
+    135.860306,
+    -34.721336
+],
+  "geometry": {"coordinates":[135.86030600000001,-34.721336],"type":"Point"}
 }

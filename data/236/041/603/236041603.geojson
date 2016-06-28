@@ -2,13 +2,14 @@
   "id": 236041603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.801483,-37.698864,144.801483,-37.698864",
     "geom:latitude":-37.698864,
     "geom:longitude":144.801483,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rivoli Pl",
     "sg:city":"Keilor Lodge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236041603,
-    "wof:lastmodified":1449002715,
+    "wof:lastmodified":1466187445,
     "wof:name":"Cybernetics International Pty Ltd",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.801483,-37.698864,144.801483,-37.698864],
-  "geometry": {"coordinates":[144.801483,-37.698864],"type":"Point"}
+  "bbox": [
+    144.801483,
+    -37.698864,
+    144.801483,
+    -37.698864
+],
+  "geometry": {"coordinates":[144.80148299999999,-37.698864],"type":"Point"}
 }

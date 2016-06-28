@@ -2,13 +2,14 @@
   "id": 236165801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.836853,-34.734673,135.836853,-34.734673",
     "geom:latitude":-34.734673,
     "geom:longitude":135.836853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Grantal Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236165801,
-    "wof:lastmodified":1449005257,
+    "wof:lastmodified":1466189642,
     "wof:name":"Canty Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [135.836853,-34.734673,135.836853,-34.734673],
-  "geometry": {"coordinates":[135.836853,-34.734673],"type":"Point"}
+  "bbox": [
+    135.836853,
+    -34.734673,
+    135.836853,
+    -34.734673
+],
+  "geometry": {"coordinates":[135.83685299999999,-34.734673],"type":"Point"}
 }

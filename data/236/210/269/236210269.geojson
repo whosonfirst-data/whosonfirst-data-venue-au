@@ -2,13 +2,14 @@
   "id": 236210269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.465637,-38.064663,145.465637,-38.064663",
     "geom:latitude":-38.064663,
     "geom:longitude":145.465637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 216 Princes Hwy",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236210269,
-    "wof:lastmodified":1449002634,
+    "wof:lastmodified":1466189989,
     "wof:name":"Carpet Call",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [145.465637,-38.064663,145.465637,-38.064663],
-  "geometry": {"coordinates":[145.465637,-38.064663],"type":"Point"}
+  "bbox": [
+    145.465637,
+    -38.064663,
+    145.465637,
+    -38.064663
+],
+  "geometry": {"coordinates":[145.46563699999999,-38.064663],"type":"Point"}
 }

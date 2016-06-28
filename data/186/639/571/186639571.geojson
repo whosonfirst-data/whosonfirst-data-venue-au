@@ -2,13 +2,14 @@
   "id": 186639571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.053513,-34.286201,146.053513,-34.286201",
     "geom:latitude":-34.286201,
     "geom:longitude":146.053513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42- 46 Wakaden St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186639571,
-    "wof:lastmodified":1449053015,
+    "wof:lastmodified":1466191121,
     "wof:name":"Riverina Multiclean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [146.053513,-34.286201,146.053513,-34.286201],
-  "geometry": {"coordinates":[146.053513,-34.286201],"type":"Point"}
+  "bbox": [
+    146.053513,
+    -34.286201,
+    146.053513,
+    -34.286201
+],
+  "geometry": {"coordinates":[146.05351300000001,-34.286201],"type":"Point"}
 }

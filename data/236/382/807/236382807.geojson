@@ -2,13 +2,14 @@
   "id": 236382807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.816628,-32.119965,115.816628,-32.119965",
     "geom:latitude":-32.119965,
     "geom:longitude":115.816628,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Plover Drv",
     "sg:city":"Yangebup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236382807,
-    "wof:lastmodified":1449002342,
+    "wof:lastmodified":1466191053,
     "wof:name":"Cockburn Appliance Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "range"
     ]
 },
-  "bbox": [115.816628,-32.119965,115.816628,-32.119965],
-  "geometry": {"coordinates":[115.816628,-32.119965],"type":"Point"}
+  "bbox": [
+    115.816628,
+    -32.119965,
+    115.816628,
+    -32.119965
+],
+  "geometry": {"coordinates":[115.81662799999999,-32.119965],"type":"Point"}
 }

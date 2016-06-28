@@ -2,13 +2,14 @@
   "id": 219730937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.797806,-19.296312,146.797806,-19.296312",
     "geom:latitude":-19.296312,
     "geom:longitude":146.797806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Bowen Rd",
     "sg:city":"Rosslea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219730937,
-    "wof:lastmodified":1449073345,
+    "wof:lastmodified":1466191224,
     "wof:name":"SmartBooks",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [146.797806,-19.296312,146.797806,-19.296312],
-  "geometry": {"coordinates":[146.797806,-19.296312],"type":"Point"}
+  "bbox": [
+    146.797806,
+    -19.296312,
+    146.797806,
+    -19.296312
+],
+  "geometry": {"coordinates":[146.79780600000001,-19.296312],"type":"Point"}
 }

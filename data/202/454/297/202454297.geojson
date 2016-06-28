@@ -2,13 +2,14 @@
   "id": 202454297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.956833,-37.827106,144.956833,-37.827106",
     "geom:latitude":-37.827106,
     "geom:longitude":144.956833,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Haig St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202454297,
-    "wof:lastmodified":1449062410,
+    "wof:lastmodified":1466188850,
     "wof:name":"Hanover Welfare Services",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "group"
     ]
 },
-  "bbox": [144.956833,-37.827106,144.956833,-37.827106],
-  "geometry": {"coordinates":[144.956833,-37.827106],"type":"Point"}
+  "bbox": [
+    144.956833,
+    -37.827106,
+    144.956833,
+    -37.827106
+],
+  "geometry": {"coordinates":[144.95683299999999,-37.827106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203063709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.24733,-41.571411,147.24733,-41.571411",
     "geom:latitude":-41.571411,
     "geom:longitude":147.24733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High St",
     "sg:city":"Evandale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203063709,
-    "wof:lastmodified":1449025103,
+    "wof:lastmodified":1466188453,
     "wof:name":"Cafe Solomon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.24733,-41.571411,147.24733,-41.571411],
-  "geometry": {"coordinates":[147.24733,-41.571411],"type":"Point"}
+  "bbox": [
+    147.24733,
+    -41.571411,
+    147.24733,
+    -41.571411
+],
+  "geometry": {"coordinates":[147.24733000000001,-41.571411],"type":"Point"}
 }

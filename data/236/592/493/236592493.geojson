@@ -2,13 +2,14 @@
   "id": 236592493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.051407,-33.938854,151.051407,-33.938854",
     "geom:latitude":-33.938854,
     "geom:longitude":151.051407,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Wiggs Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236592493,
-    "wof:lastmodified":1449003560,
+    "wof:lastmodified":1466191713,
     "wof:name":"Kelso",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [151.051407,-33.938854,151.051407,-33.938854],
-  "geometry": {"coordinates":[151.051407,-33.938854],"type":"Point"}
+  "bbox": [
+    151.051407,
+    -33.938854,
+    151.051407,
+    -33.938854
+],
+  "geometry": {"coordinates":[151.05140700000001,-33.938854],"type":"Point"}
 }

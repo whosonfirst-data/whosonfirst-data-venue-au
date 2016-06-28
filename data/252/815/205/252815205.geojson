@@ -2,13 +2,14 @@
   "id": 252815205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.605591,-38.340935,143.605591,-38.340935",
     "geom:latitude":-38.340935,
     "geom:longitude":143.605591,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Colac Forest Rd",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252815205,
-    "wof:lastmodified":1449005940,
+    "wof:lastmodified":1466188265,
     "wof:name":"Geelong Mobile Coolrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [143.605591,-38.340935,143.605591,-38.340935],
+  "bbox": [
+    143.605591,
+    -38.340935,
+    143.605591,
+    -38.340935
+],
   "geometry": {"coordinates":[143.605591,-38.340935],"type":"Point"}
 }

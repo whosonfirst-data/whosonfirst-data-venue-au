@@ -2,13 +2,14 @@
   "id": 186330417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.29715,-33.685551,151.29715,-33.685551",
     "geom:latitude":-33.685551,
     "geom:longitude":151.29715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Warriewood Rd",
     "sg:city":"Warriewood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186330417,
-    "wof:lastmodified":1449051718,
+    "wof:lastmodified":1466188095,
     "wof:name":"M.B. Classic",
     "wof:parent_id":85770959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [151.29715,-33.685551,151.29715,-33.685551],
-  "geometry": {"coordinates":[151.29715,-33.685551],"type":"Point"}
+  "bbox": [
+    151.29715,
+    -33.685551,
+    151.29715,
+    -33.685551
+],
+  "geometry": {"coordinates":[151.29714999999999,-33.685551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220162139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.361343,-38.154598,144.361343,-38.154598",
     "geom:latitude":-38.154598,
     "geom:longitude":144.361343,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Mc Killip St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220162139,
-    "wof:lastmodified":1449074749,
+    "wof:lastmodified":1466189991,
     "wof:name":"Bainbridge D J M",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.361343,-38.154598,144.361343,-38.154598],
-  "geometry": {"coordinates":[144.361343,-38.154598],"type":"Point"}
+  "bbox": [
+    144.361343,
+    -38.154598,
+    144.361343,
+    -38.154598
+],
+  "geometry": {"coordinates":[144.36134300000001,-38.154598],"type":"Point"}
 }

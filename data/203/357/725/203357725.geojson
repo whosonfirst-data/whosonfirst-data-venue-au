@@ -2,13 +2,14 @@
   "id": 203357725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.848206,-37.557533,143.848206,-37.557533",
     "geom:latitude":-37.557533,
     "geom:longitude":143.848206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Drummond St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203357725,
-    "wof:lastmodified":1449026630,
+    "wof:lastmodified":1466188810,
     "wof:name":"Ruth Meyer",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [143.848206,-37.557533,143.848206,-37.557533],
+  "bbox": [
+    143.848206,
+    -37.557533,
+    143.848206,
+    -37.557533
+],
   "geometry": {"coordinates":[143.848206,-37.557533],"type":"Point"}
 }

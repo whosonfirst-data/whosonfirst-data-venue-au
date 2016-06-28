@@ -2,13 +2,14 @@
   "id": 203165787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.991043,-36.550121,145.991043,-36.550121",
     "geom:latitude":-36.550121,
     "geom:longitude":145.991043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Bridge St",
     "sg:city":"Benalla East",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203165787,
-    "wof:lastmodified":1449026867,
+    "wof:lastmodified":1466189765,
     "wof:name":"Phil Ogden Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [145.991043,-36.550121,145.991043,-36.550121],
-  "geometry": {"coordinates":[145.991043,-36.550121],"type":"Point"}
+  "bbox": [
+    145.991043,
+    -36.550121,
+    145.991043,
+    -36.550121
+],
+  "geometry": {"coordinates":[145.99104299999999,-36.550121],"type":"Point"}
 }

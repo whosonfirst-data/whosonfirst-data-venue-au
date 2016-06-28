@@ -2,13 +2,14 @@
   "id": 186055337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.49646,-33.100174,151.49646,-33.100174",
     "geom:latitude":-33.100174,
     "geom:longitude":151.49646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Moira Park Rd",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186055337,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1466188357,
     "wof:name":"Gossies Mechanical Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.49646,-33.100174,151.49646,-33.100174],
-  "geometry": {"coordinates":[151.49646,-33.100174],"type":"Point"}
+  "bbox": [
+    151.49646,
+    -33.100174,
+    151.49646,
+    -33.100174
+],
+  "geometry": {"coordinates":[151.49646000000001,-33.100174],"type":"Point"}
 }

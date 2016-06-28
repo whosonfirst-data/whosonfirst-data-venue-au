@@ -2,13 +2,14 @@
   "id": 203295531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.146591,-33.088184,147.146591,-33.088184",
     "geom:latitude":-33.088184,
     "geom:longitude":147.146591,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Bathurst St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203295531,
-    "wof:lastmodified":1449025687,
+    "wof:lastmodified":1466187912,
     "wof:name":"Yetties Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [147.146591,-33.088184,147.146591,-33.088184],
+  "bbox": [
+    147.146591,
+    -33.088184,
+    147.146591,
+    -33.088184
+],
   "geometry": {"coordinates":[147.146591,-33.088184],"type":"Point"}
 }

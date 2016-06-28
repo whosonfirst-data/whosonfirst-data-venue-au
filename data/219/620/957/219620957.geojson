@@ -2,13 +2,14 @@
   "id": 219620957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.169357,-33.902054,151.169357,-33.902054",
     "geom:latitude":-33.902054,
     "geom:longitude":151.169357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Enmore Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219620957,
-    "wof:lastmodified":1449073616,
+    "wof:lastmodified":1466190692,
     "wof:name":"Tureen Pty Ltd",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [151.169357,-33.902054,151.169357,-33.902054],
-  "geometry": {"coordinates":[151.169357,-33.902054],"type":"Point"}
+  "bbox": [
+    151.169357,
+    -33.902054,
+    151.169357,
+    -33.902054
+],
+  "geometry": {"coordinates":[151.16935699999999,-33.902054],"type":"Point"}
 }

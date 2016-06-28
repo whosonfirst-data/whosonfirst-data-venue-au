@@ -2,13 +2,14 @@
   "id": 203001733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.495911,-20.726215,139.495911,-20.726215",
     "geom:latitude":-20.726215,
     "geom:longitude":139.495911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Marian St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203001733,
-    "wof:lastmodified":1449025360,
+    "wof:lastmodified":1466186992,
     "wof:name":"Molonys Pty Ltd",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [139.495911,-20.726215,139.495911,-20.726215],
-  "geometry": {"coordinates":[139.495911,-20.726215],"type":"Point"}
+  "bbox": [
+    139.495911,
+    -20.726215,
+    139.495911,
+    -20.726215
+],
+  "geometry": {"coordinates":[139.49591100000001,-20.726215],"type":"Point"}
 }

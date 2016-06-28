@@ -2,13 +2,14 @@
   "id": 219442773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.844322,-32.331841,115.844322,-32.331841",
     "geom:latitude":-32.331841,
     "geom:longitude":115.844322,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"136 St Albans Rd",
     "sg:city":"Baldivis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219442773,
-    "wof:lastmodified":1449071939,
+    "wof:lastmodified":1466188877,
     "wof:name":"Bonney's W.A. Water Ski Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "attractions"
     ]
 },
-  "bbox": [115.844322,-32.331841,115.844322,-32.331841],
-  "geometry": {"coordinates":[115.844322,-32.331841],"type":"Point"}
+  "bbox": [
+    115.844322,
+    -32.331841,
+    115.844322,
+    -32.331841
+],
+  "geometry": {"coordinates":[115.84432200000001,-32.331841],"type":"Point"}
 }

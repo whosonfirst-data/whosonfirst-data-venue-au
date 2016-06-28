@@ -2,13 +2,14 @@
   "id": 236054449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.918198,-37.766556,144.918198,-37.766556",
     "geom:latitude":-37.766556,
     "geom:longitude":144.918198,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"suite 2 30 Holmes Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236054449,
-    "wof:lastmodified":1449003159,
+    "wof:lastmodified":1466187704,
     "wof:name":"Troiano Dominic",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [144.918198,-37.766556,144.918198,-37.766556],
-  "geometry": {"coordinates":[144.918198,-37.766556],"type":"Point"}
+  "bbox": [
+    144.918198,
+    -37.766556,
+    144.918198,
+    -37.766556
+],
+  "geometry": {"coordinates":[144.91819799999999,-37.766556],"type":"Point"}
 }

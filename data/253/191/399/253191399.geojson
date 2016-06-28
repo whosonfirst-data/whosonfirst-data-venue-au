@@ -2,13 +2,14 @@
   "id": 253191399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.941589,-27.553629,151.941589,-27.553629",
     "geom:latitude":-27.553629,
     "geom:longitude":151.941589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Campbell St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253191399,
-    "wof:lastmodified":1449064596,
+    "wof:lastmodified":1466190183,
     "wof:name":"K & K Electrical Pty Ltd",
     "wof:parent_id":85779897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.941589,-27.553629,151.941589,-27.553629],
-  "geometry": {"coordinates":[151.941589,-27.553629],"type":"Point"}
+  "bbox": [
+    151.941589,
+    -27.553629,
+    151.941589,
+    -27.553629
+],
+  "geometry": {"coordinates":[151.94158899999999,-27.553629],"type":"Point"}
 }

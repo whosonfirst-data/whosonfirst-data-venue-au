@@ -2,13 +2,14 @@
   "id": 252917107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.098755,-26.66823,153.098755,-26.66823",
     "geom:latitude":-26.66823,
     "geom:longitude":153.098755,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Okinja Rd",
     "sg:city":"Alexandra Headland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252917107,
-    "wof:lastmodified":1449006364,
+    "wof:lastmodified":1466189142,
     "wof:name":"Everlast Trailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trailer"
     ]
 },
-  "bbox": [153.098755,-26.66823,153.098755,-26.66823],
-  "geometry": {"coordinates":[153.098755,-26.66823],"type":"Point"}
+  "bbox": [
+    153.098755,
+    -26.66823,
+    153.098755,
+    -26.66823
+],
+  "geometry": {"coordinates":[153.09875500000001,-26.66823],"type":"Point"}
 }

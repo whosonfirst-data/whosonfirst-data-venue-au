@@ -2,13 +2,14 @@
   "id": 219412725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.856689,-35.69574,139.856689,-35.69574",
     "geom:latitude":-35.69574,
     "geom:longitude":139.856689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lameroo Rd",
     "sg:city":"Coonalpyn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219412725,
-    "wof:lastmodified":1449071113,
+    "wof:lastmodified":1466188490,
     "wof:name":"Coonalpyn Golf Club Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [139.856689,-35.69574,139.856689,-35.69574],
-  "geometry": {"coordinates":[139.856689,-35.69574],"type":"Point"}
+  "bbox": [
+    139.856689,
+    -35.69574,
+    139.856689,
+    -35.69574
+],
+  "geometry": {"coordinates":[139.85668899999999,-35.69574],"type":"Point"}
 }

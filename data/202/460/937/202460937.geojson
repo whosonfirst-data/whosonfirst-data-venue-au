@@ -2,13 +2,14 @@
   "id": 202460937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.963364,-37.832344,144.963364,-37.832344",
     "geom:latitude":-37.832344,
     "geom:longitude":144.963364,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"177c Dorcas St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202460937,
-    "wof:lastmodified":1449062505,
+    "wof:lastmodified":1466188951,
     "wof:name":"Razorback Solutions Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.963364,-37.832344,144.963364,-37.832344],
-  "geometry": {"coordinates":[144.963364,-37.832344],"type":"Point"}
+  "bbox": [
+    144.963364,
+    -37.832344,
+    144.963364,
+    -37.832344
+],
+  "geometry": {"coordinates":[144.96336400000001,-37.832344],"type":"Point"}
 }

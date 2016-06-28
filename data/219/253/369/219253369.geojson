@@ -2,13 +2,14 @@
   "id": 219253369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.008957,-37.766048,145.008957,-37.766048",
     "geom:latitude":-37.766048,
     "geom:longitude":145.008957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Christmas St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219253369,
-    "wof:lastmodified":1449073485,
+    "wof:lastmodified":1466187127,
     "wof:name":"Strathmore Excavators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.008957,-37.766048,145.008957,-37.766048],
-  "geometry": {"coordinates":[145.008957,-37.766048],"type":"Point"}
+  "bbox": [
+    145.008957,
+    -37.766048,
+    145.008957,
+    -37.766048
+],
+  "geometry": {"coordinates":[145.00895700000001,-37.766048],"type":"Point"}
 }

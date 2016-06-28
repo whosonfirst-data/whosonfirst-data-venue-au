@@ -2,13 +2,14 @@
   "id": 169819557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.849747,-31.970528,115.849747,-31.970528",
     "geom:latitude":-31.970528,
     "geom:longitude":115.849747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"St 5/ 66 Mill Point Rd",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169819557,
-    "wof:lastmodified":1449033479,
+    "wof:lastmodified":1466189024,
     "wof:name":"Australian Timken Pty Ltd",
     "wof:parent_id":85775807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bushing"
     ]
 },
-  "bbox": [115.849747,-31.970528,115.849747,-31.970528],
-  "geometry": {"coordinates":[115.849747,-31.970528],"type":"Point"}
+  "bbox": [
+    115.849747,
+    -31.970528,
+    115.849747,
+    -31.970528
+],
+  "geometry": {"coordinates":[115.84974699999999,-31.970528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202977281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.20871,-33.841087,151.20871,-33.841087",
     "geom:latitude":-33.841087,
     "geom:longitude":151.20871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2 72 Pacific Hwy",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202977281,
-    "wof:lastmodified":1449062731,
+    "wof:lastmodified":1466191110,
     "wof:name":"Australian Business Academy",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [151.20871,-33.841087,151.20871,-33.841087],
+  "bbox": [
+    151.20871,
+    -33.841087,
+    151.20871,
+    -33.841087
+],
   "geometry": {"coordinates":[151.20871,-33.841087],"type":"Point"}
 }

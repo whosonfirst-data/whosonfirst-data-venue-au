@@ -2,13 +2,14 @@
   "id": 253148335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.936203,-27.562038,151.936203,-27.562038",
     "geom:latitude":-27.562038,
     "geom:longitude":151.936203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Herries St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253148335,
-    "wof:lastmodified":1449065305,
+    "wof:lastmodified":1466189577,
     "wof:name":"Wreckair",
     "wof:parent_id":85780523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.936203,-27.562038,151.936203,-27.562038],
-  "geometry": {"coordinates":[151.936203,-27.562038],"type":"Point"}
+  "bbox": [
+    151.936203,
+    -27.562038,
+    151.936203,
+    -27.562038
+],
+  "geometry": {"coordinates":[151.93620300000001,-27.562038],"type":"Point"}
 }

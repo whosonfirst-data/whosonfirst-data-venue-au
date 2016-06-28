@@ -2,13 +2,14 @@
   "id": 202999355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485123,-20.7349,139.485123,-20.7349",
     "geom:latitude":-20.7349,
     "geom:longitude":139.485123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fifth Ave",
     "sg:city":"Parkside (Mt Isa)",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202999355,
-    "wof:lastmodified":1449062341,
+    "wof:lastmodified":1466191089,
     "wof:name":"Spinifex State College Junior Campus",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [139.485123,-20.7349,139.485123,-20.7349],
-  "geometry": {"coordinates":[139.485123,-20.7349],"type":"Point"}
+  "bbox": [
+    139.485123,
+    -20.7349,
+    139.485123,
+    -20.7349
+],
+  "geometry": {"coordinates":[139.48512299999999,-20.7349],"type":"Point"}
 }

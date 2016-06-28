@@ -2,13 +2,14 @@
   "id": 219331423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.922287,-38.157326,145.922287,-38.157326",
     "geom:latitude":-38.157326,
     "geom:longitude":145.922287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Ryan Crt",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219331423,
-    "wof:lastmodified":1449072541,
+    "wof:lastmodified":1466187787,
     "wof:name":"Dave's Warragul Kitchens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitting"
     ]
 },
-  "bbox": [145.922287,-38.157326,145.922287,-38.157326],
-  "geometry": {"coordinates":[145.922287,-38.157326],"type":"Point"}
+  "bbox": [
+    145.922287,
+    -38.157326,
+    145.922287,
+    -38.157326
+],
+  "geometry": {"coordinates":[145.92228700000001,-38.157326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202410547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942673,-37.838444,144.942673,-37.838444",
     "geom:latitude":-37.838444,
     "geom:longitude":144.942673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202410547,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466187913,
     "wof:name":"J.A.G. Jewellery Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "jewellery"
     ]
 },
-  "bbox": [144.942673,-37.838444,144.942673,-37.838444],
-  "geometry": {"coordinates":[144.942673,-37.838444],"type":"Point"}
+  "bbox": [
+    144.942673,
+    -37.838444,
+    144.942673,
+    -37.838444
+],
+  "geometry": {"coordinates":[144.94267300000001,-37.838444],"type":"Point"}
 }

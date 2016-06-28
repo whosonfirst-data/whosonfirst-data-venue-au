@@ -2,13 +2,14 @@
   "id": 202983205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.906067,-22.911766,139.906067,-22.911766",
     "geom:latitude":-22.911766,
     "geom:longitude":139.906067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Herbert St",
     "sg:city":"Boulia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202983205,
-    "wof:lastmodified":1449062443,
+    "wof:lastmodified":1466191219,
     "wof:name":"Boulia Desert Sands Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.906067,-22.911766,139.906067,-22.911766],
-  "geometry": {"coordinates":[139.906067,-22.911766],"type":"Point"}
+  "bbox": [
+    139.906067,
+    -22.911766,
+    139.906067,
+    -22.911766
+],
+  "geometry": {"coordinates":[139.90606700000001,-22.911766],"type":"Point"}
 }

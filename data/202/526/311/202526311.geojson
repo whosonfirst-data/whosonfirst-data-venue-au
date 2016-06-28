@@ -2,13 +2,14 @@
   "id": 202526311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.199005,-38.07259,145.199005,-38.07259",
     "geom:latitude":-38.07259,
     "geom:longitude":145.199005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Thompsons Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202526311,
-    "wof:lastmodified":1449060891,
+    "wof:lastmodified":1466189770,
     "wof:name":"Safety Training (CFA/MFB)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [145.199005,-38.07259,145.199005,-38.07259],
+  "bbox": [
+    145.199005,
+    -38.07259,
+    145.199005,
+    -38.07259
+],
   "geometry": {"coordinates":[145.199005,-38.07259],"type":"Point"}
 }

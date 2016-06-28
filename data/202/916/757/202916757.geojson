@@ -2,13 +2,14 @@
   "id": 202916757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.113739,-30.296968,153.113739,-30.296968",
     "geom:latitude":-30.296968,
     "geom:longitude":153.113739,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Park Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202916757,
-    "wof:lastmodified":1449061500,
+    "wof:lastmodified":1466190652,
     "wof:name":"Broadwalk Business Brokers",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [153.113739,-30.296968,153.113739,-30.296968],
-  "geometry": {"coordinates":[153.113739,-30.296968],"type":"Point"}
+  "bbox": [
+    153.113739,
+    -30.296968,
+    153.113739,
+    -30.296968
+],
+  "geometry": {"coordinates":[153.11373900000001,-30.296968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252782851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.412338,-41.24353,146.412338,-41.24353",
     "geom:latitude":-41.24353,
     "geom:longitude":146.412338,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Hamilton St",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252782851,
-    "wof:lastmodified":1449005397,
+    "wof:lastmodified":1466187994,
     "wof:name":"Einstein Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [146.412338,-41.24353,146.412338,-41.24353],
-  "geometry": {"coordinates":[146.412338,-41.24353],"type":"Point"}
+  "bbox": [
+    146.412338,
+    -41.24353,
+    146.412338,
+    -41.24353
+],
+  "geometry": {"coordinates":[146.41233800000001,-41.24353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219465003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.088364,-37.651379,145.088364,-37.651379",
     "geom:latitude":-37.651379,
     "geom:longitude":145.088364,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Gorge Rd",
     "sg:city":"Morang South",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219465003,
-    "wof:lastmodified":1449072762,
+    "wof:lastmodified":1466189077,
     "wof:name":"Dominique's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.088364,-37.651379,145.088364,-37.651379],
-  "geometry": {"coordinates":[145.088364,-37.651379],"type":"Point"}
+  "bbox": [
+    145.088364,
+    -37.651379,
+    145.088364,
+    -37.651379
+],
+  "geometry": {"coordinates":[145.08836400000001,-37.651379],"type":"Point"}
 }

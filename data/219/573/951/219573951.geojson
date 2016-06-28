@@ -2,13 +2,14 @@
   "id": 219573951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.014099,-33.933048,151.014099,-33.933048",
     "geom:latitude":-33.933048,
     "geom:longitude":151.014099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Ilma St",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219573951,
-    "wof:lastmodified":1449073006,
+    "wof:lastmodified":1466190498,
     "wof:name":"Joey Express Tyres",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [151.014099,-33.933048,151.014099,-33.933048],
-  "geometry": {"coordinates":[151.014099,-33.933048],"type":"Point"}
+  "bbox": [
+    151.014099,
+    -33.933048,
+    151.014099,
+    -33.933048
+],
+  "geometry": {"coordinates":[151.01409899999999,-33.933048],"type":"Point"}
 }

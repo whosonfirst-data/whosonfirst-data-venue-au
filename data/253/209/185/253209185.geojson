@@ -2,13 +2,14 @@
   "id": 253209185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.956512,-27.568443,151.956512,-27.568443",
     "geom:latitude":-27.568443,
     "geom:longitude":151.956512,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Hume & Herries Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253209185,
-    "wof:lastmodified":1449065464,
+    "wof:lastmodified":1466190164,
     "wof:name":"Windmill Bakery",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.956512,-27.568443,151.956512,-27.568443],
+  "bbox": [
+    151.956512,
+    -27.568443,
+    151.956512,
+    -27.568443
+],
   "geometry": {"coordinates":[151.956512,-27.568443],"type":"Point"}
 }

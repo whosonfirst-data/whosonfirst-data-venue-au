@@ -2,13 +2,14 @@
   "id": 236305685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.720306,-32.280228,115.720306,-32.280228",
     "geom:latitude":-32.280228,
     "geom:longitude":115.720306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 5299",
     "sg:city":"Rockingham Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236305685,
-    "wof:lastmodified":1449002055,
+    "wof:lastmodified":1466190541,
     "wof:name":"Mr Spraypave",
     "wof:parent_id":85775727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [115.720306,-32.280228,115.720306,-32.280228],
-  "geometry": {"coordinates":[115.720306,-32.280228],"type":"Point"}
+  "bbox": [
+    115.720306,
+    -32.280228,
+    115.720306,
+    -32.280228
+],
+  "geometry": {"coordinates":[115.72030599999999,-32.280228],"type":"Point"}
 }

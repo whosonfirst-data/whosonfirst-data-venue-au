@@ -2,13 +2,14 @@
   "id": 253110585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833923,-37.777802,144.833923,-37.777802",
     "geom:latitude":-37.777802,
     "geom:longitude":144.833923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Ballarat Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253110585,
-    "wof:lastmodified":1449063798,
+    "wof:lastmodified":1466188950,
     "wof:name":"Red Rooster",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.833923,-37.777802,144.833923,-37.777802],
+  "bbox": [
+    144.833923,
+    -37.777802,
+    144.833923,
+    -37.777802
+],
   "geometry": {"coordinates":[144.833923,-37.777802],"type":"Point"}
 }

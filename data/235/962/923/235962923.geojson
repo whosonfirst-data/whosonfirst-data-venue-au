@@ -2,13 +2,14 @@
   "id": 235962923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.06842,-27.438057,153.06842,-27.438057",
     "geom:latitude":-27.438057,
     "geom:longitude":153.06842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"546 Kingsford Smith Drv",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235962923,
-    "wof:lastmodified":1449008448,
+    "wof:lastmodified":1466187240,
     "wof:name":"Airport Ascot Motel",
     "wof:parent_id":85777235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.06842,-27.438057,153.06842,-27.438057],
+  "bbox": [
+    153.06842,
+    -27.438057,
+    153.06842,
+    -27.438057
+],
   "geometry": {"coordinates":[153.06842,-27.438057],"type":"Point"}
 }

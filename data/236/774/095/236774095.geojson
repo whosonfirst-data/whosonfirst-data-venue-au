@@ -2,13 +2,14 @@
   "id": 236774095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.948776,-27.100304,152.948776,-27.100304",
     "geom:latitude":-27.100304,
     "geom:longitude":152.948776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Morayfield Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236774095,
-    "wof:lastmodified":1449002836,
+    "wof:lastmodified":1466191922,
     "wof:name":"Northfield",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [152.948776,-27.100304,152.948776,-27.100304],
-  "geometry": {"coordinates":[152.948776,-27.100304],"type":"Point"}
+  "bbox": [
+    152.948776,
+    -27.100304,
+    152.948776,
+    -27.100304
+],
+  "geometry": {"coordinates":[152.94877600000001,-27.100304],"type":"Point"}
 }

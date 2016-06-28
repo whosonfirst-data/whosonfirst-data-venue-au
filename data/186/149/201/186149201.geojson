@@ -2,13 +2,14 @@
   "id": 186149201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.732849,-31.454025,152.732849,-31.454025",
     "geom:latitude":-31.454025,
     "geom:longitude":152.732849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Hastings St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186149201,
-    "wof:lastmodified":1449050262,
+    "wof:lastmodified":1466189779,
     "wof:name":"Lamb's Motor Trimming & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [152.732849,-31.454025,152.732849,-31.454025],
-  "geometry": {"coordinates":[152.732849,-31.454025],"type":"Point"}
+  "bbox": [
+    152.732849,
+    -31.454025,
+    152.732849,
+    -31.454025
+],
+  "geometry": {"coordinates":[152.73284899999999,-31.454025],"type":"Point"}
 }

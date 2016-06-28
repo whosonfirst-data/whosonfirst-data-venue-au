@@ -2,13 +2,14 @@
   "id": 186095143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.820648,-31.098564,152.820648,-31.098564",
     "geom:latitude":-31.098564,
     "geom:longitude":152.820648,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Hill View Drv",
     "sg:city":"West End Yarravel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186095143,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466189202,
     "wof:name":"Fishers Kempsey Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tarpaulin"
     ]
 },
-  "bbox": [152.820648,-31.098564,152.820648,-31.098564],
-  "geometry": {"coordinates":[152.820648,-31.098564],"type":"Point"}
+  "bbox": [
+    152.820648,
+    -31.098564,
+    152.820648,
+    -31.098564
+],
+  "geometry": {"coordinates":[152.82064800000001,-31.098564],"type":"Point"}
 }

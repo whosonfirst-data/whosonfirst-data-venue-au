@@ -2,13 +2,14 @@
   "id": 203307653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.844223,-37.527161,143.844223,-37.527161",
     "geom:latitude":-37.527161,
     "geom:longitude":143.844223,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Coronet St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203307653,
-    "wof:lastmodified":1449025405,
+    "wof:lastmodified":1466188064,
     "wof:name":"National Freight Services",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [143.844223,-37.527161,143.844223,-37.527161],
+  "bbox": [
+    143.844223,
+    -37.527161,
+    143.844223,
+    -37.527161
+],
   "geometry": {"coordinates":[143.844223,-37.527161],"type":"Point"}
 }

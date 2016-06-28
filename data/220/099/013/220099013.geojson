@@ -2,13 +2,14 @@
   "id": 220099013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.470749,-38.18676,144.470749,-38.18676",
     "geom:latitude":-38.18676,
     "geom:longitude":144.470749,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Dorothy St",
     "sg:city":"Leopold",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220099013,
-    "wof:lastmodified":1449074578,
+    "wof:lastmodified":1466187949,
     "wof:name":"Foodworks Leopold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [144.470749,-38.18676,144.470749,-38.18676],
-  "geometry": {"coordinates":[144.470749,-38.18676],"type":"Point"}
+  "bbox": [
+    144.470749,
+    -38.18676,
+    144.470749,
+    -38.18676
+],
+  "geometry": {"coordinates":[144.47074900000001,-38.18676],"type":"Point"}
 }

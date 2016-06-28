@@ -2,13 +2,14 @@
   "id": 202743319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.86264,-32.053761,115.86264,-32.053761",
     "geom:latitude":-32.053761,
     "geom:longitude":115.86264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Minchin Pl",
     "sg:city":"Bull Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202743319,
-    "wof:lastmodified":1449062628,
+    "wof:lastmodified":1466189588,
     "wof:name":"Melville Plumbing & Gas",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.86264,-32.053761,115.86264,-32.053761],
+  "bbox": [
+    115.86264,
+    -32.053761,
+    115.86264,
+    -32.053761
+],
   "geometry": {"coordinates":[115.86264,-32.053761],"type":"Point"}
 }

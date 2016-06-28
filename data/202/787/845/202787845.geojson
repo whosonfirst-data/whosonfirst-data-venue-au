@@ -2,13 +2,14 @@
   "id": 202787845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.73204,-32.916412,151.73204,-32.916412",
     "geom:latitude":-32.916412,
     "geom:longitude":151.73204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Broadmeadow Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202787845,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1466190214,
     "wof:name":"Ultra Solar Film",
     "wof:parent_id":85778069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.73204,-32.916412,151.73204,-32.916412],
-  "geometry": {"coordinates":[151.73204,-32.916412],"type":"Point"}
+  "bbox": [
+    151.73204,
+    -32.916412,
+    151.73204,
+    -32.916412
+],
+  "geometry": {"coordinates":[151.73204000000001,-32.916412],"type":"Point"}
 }

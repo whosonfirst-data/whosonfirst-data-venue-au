@@ -2,13 +2,14 @@
   "id": 253123561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.863937,-27.706877,151.863937,-27.706877",
     "geom:latitude":-27.706877,
     "geom:longitude":151.863937,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Eton St",
     "sg:city":"Cambooya",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253123561,
-    "wof:lastmodified":1449063700,
+    "wof:lastmodified":1466189195,
     "wof:name":"Bull & Barley Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.863937,-27.706877,151.863937,-27.706877],
-  "geometry": {"coordinates":[151.863937,-27.706877],"type":"Point"}
+  "bbox": [
+    151.863937,
+    -27.706877,
+    151.863937,
+    -27.706877
+],
+  "geometry": {"coordinates":[151.86393699999999,-27.706877],"type":"Point"}
 }

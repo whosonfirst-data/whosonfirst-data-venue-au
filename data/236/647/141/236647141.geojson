@@ -2,13 +2,14 @@
   "id": 236647141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.789619,-32.585659,115.789619,-32.585659",
     "geom:latitude":-32.585659,
     "geom:longitude":115.789619,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1c Yunderup Rd",
     "sg:city":"South Yunderup",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236647141,
-    "wof:lastmodified":1449003162,
+    "wof:lastmodified":1466191733,
     "wof:name":"Murray Bobcat & Truck Hire",
     "wof:parent_id":85779943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.789619,-32.585659,115.789619,-32.585659],
+  "bbox": [
+    115.789619,
+    -32.585659,
+    115.789619,
+    -32.585659
+],
   "geometry": {"coordinates":[115.789619,-32.585659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219400539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.995865,-27.986572,152.995865,-27.986572",
     "geom:latitude":-27.986572,
     "geom:longitude":152.995865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Post Office Square 115 Brisbane St",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219400539,
-    "wof:lastmodified":1449070737,
+    "wof:lastmodified":1466188373,
     "wof:name":"Gillow & Teese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [152.995865,-27.986572,152.995865,-27.986572],
-  "geometry": {"coordinates":[152.995865,-27.986572],"type":"Point"}
+  "bbox": [
+    152.995865,
+    -27.986572,
+    152.995865,
+    -27.986572
+],
+  "geometry": {"coordinates":[152.99586500000001,-27.986572],"type":"Point"}
 }

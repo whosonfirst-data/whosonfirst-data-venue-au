@@ -2,13 +2,14 @@
   "id": 203396063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.717361,-37.423599,143.717361,-37.423599",
     "geom:latitude":-37.423599,
     "geom:longitude":143.717361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"301- 309 High St",
     "sg:city":"Learmonth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203396063,
-    "wof:lastmodified":1449026221,
+    "wof:lastmodified":1466189450,
     "wof:name":"Lake Learmonth Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [143.717361,-37.423599,143.717361,-37.423599],
-  "geometry": {"coordinates":[143.717361,-37.423599],"type":"Point"}
+  "bbox": [
+    143.717361,
+    -37.423599,
+    143.717361,
+    -37.423599
+],
+  "geometry": {"coordinates":[143.71736100000001,-37.423599],"type":"Point"}
 }

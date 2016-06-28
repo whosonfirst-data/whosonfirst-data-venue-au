@@ -2,13 +2,14 @@
   "id": 236946593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.597321,-34.974331,138.597321,-34.974331",
     "geom:latitude":-34.974331,
     "geom:longitude":138.597321,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Angas Rd",
     "sg:city":"Westbourne Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236946593,
-    "wof:lastmodified":1449004768,
+    "wof:lastmodified":1466192208,
     "wof:name":"Blackbelt Massages",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [138.597321,-34.974331,138.597321,-34.974331],
-  "geometry": {"coordinates":[138.597321,-34.974331],"type":"Point"}
+  "bbox": [
+    138.597321,
+    -34.974331,
+    138.597321,
+    -34.974331
+],
+  "geometry": {"coordinates":[138.59732099999999,-34.974331],"type":"Point"}
 }

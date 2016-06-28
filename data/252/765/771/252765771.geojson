@@ -2,13 +2,14 @@
   "id": 252765771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.844116,-41.523277,146.844116,-41.523277",
     "geom:latitude":-41.523277,
     "geom:longitude":146.844116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Marriott St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252765771,
-    "wof:lastmodified":1449006041,
+    "wof:lastmodified":1466187843,
     "wof:name":"Aquatic Labs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "analyst"
     ]
 },
-  "bbox": [146.844116,-41.523277,146.844116,-41.523277],
-  "geometry": {"coordinates":[146.844116,-41.523277],"type":"Point"}
+  "bbox": [
+    146.844116,
+    -41.523277,
+    146.844116,
+    -41.523277
+],
+  "geometry": {"coordinates":[146.84411600000001,-41.523277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236439263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.19017,-21.116465,149.19017,-21.116465",
     "geom:latitude":-21.116465,
     "geom:longitude":149.19017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11a Grendon St",
     "sg:city":"North Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236439263,
-    "wof:lastmodified":1449002377,
+    "wof:lastmodified":1466191118,
     "wof:name":"Mason Stephen",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [149.19017,-21.116465,149.19017,-21.116465],
-  "geometry": {"coordinates":[149.19017,-21.116465],"type":"Point"}
+  "bbox": [
+    149.19017,
+    -21.116465,
+    149.19017,
+    -21.116465
+],
+  "geometry": {"coordinates":[149.19016999999999,-21.116465],"type":"Point"}
 }

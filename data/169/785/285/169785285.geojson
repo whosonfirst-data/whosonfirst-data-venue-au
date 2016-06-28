@@ -2,13 +2,14 @@
   "id": 169785285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.587326,-38.612759,145.587326,-38.612759",
     "geom:latitude":-38.612759,
     "geom:longitude":145.587326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Hunter St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169785285,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466188447,
     "wof:name":"Storti Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.587326,-38.612759,145.587326,-38.612759],
-  "geometry": {"coordinates":[145.587326,-38.612759],"type":"Point"}
+  "bbox": [
+    145.587326,
+    -38.612759,
+    145.587326,
+    -38.612759
+],
+  "geometry": {"coordinates":[145.58732599999999,-38.612759],"type":"Point"}
 }

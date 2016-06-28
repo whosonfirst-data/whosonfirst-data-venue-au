@@ -2,13 +2,14 @@
   "id": 186335395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.307877,-33.698025,151.307877,-33.698025",
     "geom:latitude":-33.698025,
     "geom:longitude":151.307877,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Sydney Rd",
     "sg:city":"Warriewood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186335395,
-    "wof:lastmodified":1449052139,
+    "wof:lastmodified":1466188185,
     "wof:name":"Denver Lawson",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planner"
     ]
 },
-  "bbox": [151.307877,-33.698025,151.307877,-33.698025],
-  "geometry": {"coordinates":[151.307877,-33.698025],"type":"Point"}
+  "bbox": [
+    151.307877,
+    -33.698025,
+    151.307877,
+    -33.698025
+],
+  "geometry": {"coordinates":[151.30787699999999,-33.698025],"type":"Point"}
 }

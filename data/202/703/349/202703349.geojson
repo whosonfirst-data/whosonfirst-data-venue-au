@@ -2,13 +2,14 @@
   "id": 202703349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.017517,-27.356058,153.017517,-27.356058",
     "geom:latitude":-27.356058,
     "geom:longitude":153.017517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Aspley Homebase, 825 Zillmere Rd",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202703349,
-    "wof:lastmodified":1449060884,
+    "wof:lastmodified":1466188891,
     "wof:name":"Barbeques Galore",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [153.017517,-27.356058,153.017517,-27.356058],
+  "bbox": [
+    153.017517,
+    -27.356058,
+    153.017517,
+    -27.356058
+],
   "geometry": {"coordinates":[153.017517,-27.356058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219840893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.812241,-31.975134,115.812241,-31.975134",
     "geom:latitude":-31.975134,
     "geom:longitude":115.812241,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Laura St",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219840893,
-    "wof:lastmodified":1449073139,
+    "wof:lastmodified":1466191507,
     "wof:name":"Cutaneous Pathology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "pathology"
     ]
 },
-  "bbox": [115.812241,-31.975134,115.812241,-31.975134],
+  "bbox": [
+    115.812241,
+    -31.975134,
+    115.812241,
+    -31.975134
+],
   "geometry": {"coordinates":[115.812241,-31.975134],"type":"Point"}
 }

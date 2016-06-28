@@ -2,13 +2,14 @@
   "id": 220100795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.467087,-38.19239,144.467087,-38.19239",
     "geom:latitude":-38.19239,
     "geom:longitude":144.467087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Glengarwyn Rd",
     "sg:city":"Leopold",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220100795,
-    "wof:lastmodified":1449074642,
+    "wof:lastmodified":1466187966,
     "wof:name":"C J & R J Purcell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.467087,-38.19239,144.467087,-38.19239],
-  "geometry": {"coordinates":[144.467087,-38.19239],"type":"Point"}
+  "bbox": [
+    144.467087,
+    -38.19239,
+    144.467087,
+    -38.19239
+],
+  "geometry": {"coordinates":[144.46708699999999,-38.19239],"type":"Point"}
 }

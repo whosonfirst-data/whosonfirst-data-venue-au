@@ -2,13 +2,14 @@
   "id": 253001769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.088974,-24.113344,148.088974,-24.113344",
     "geom:latitude":-24.113344,
     "geom:longitude":148.088974,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Eclipse St",
     "sg:city":"Springsure",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253001769,
-    "wof:lastmodified":1449063479,
+    "wof:lastmodified":1466186949,
     "wof:name":"Springsure Convenience & Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [148.088974,-24.113344,148.088974,-24.113344],
-  "geometry": {"coordinates":[148.088974,-24.113344],"type":"Point"}
+  "bbox": [
+    148.088974,
+    -24.113344,
+    148.088974,
+    -24.113344
+],
+  "geometry": {"coordinates":[148.08897400000001,-24.113344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219373509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.543991,-35.351677,143.543991,-35.351677",
     "geom:latitude":-35.351677,
     "geom:longitude":143.543991,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Yana St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219373509,
-    "wof:lastmodified":1449072207,
+    "wof:lastmodified":1466188131,
     "wof:name":"Mallee Demolitions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.543991,-35.351677,143.543991,-35.351677],
-  "geometry": {"coordinates":[143.543991,-35.351677],"type":"Point"}
+  "bbox": [
+    143.543991,
+    -35.351677,
+    143.543991,
+    -35.351677
+],
+  "geometry": {"coordinates":[143.54399100000001,-35.351677],"type":"Point"}
 }

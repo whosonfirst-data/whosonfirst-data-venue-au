@@ -2,13 +2,14 @@
   "id": 236901491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.523956,-35.010033,138.523956,-35.010033",
     "geom:latitude":-35.010033,
     "geom:longitude":138.523956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Dunrobin Rd",
     "sg:city":"Hove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236901491,
-    "wof:lastmodified":1449002960,
+    "wof:lastmodified":1466192096,
     "wof:name":"Physio One",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [138.523956,-35.010033,138.523956,-35.010033],
+  "bbox": [
+    138.523956,
+    -35.010033,
+    138.523956,
+    -35.010033
+],
   "geometry": {"coordinates":[138.523956,-35.010033],"type":"Point"}
 }

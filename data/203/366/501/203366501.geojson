@@ -2,13 +2,14 @@
   "id": 203366501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.862213,-37.560097,143.862213,-37.560097",
     "geom:latitude":-37.560097,
     "geom:longitude":143.862213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203366501,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466188963,
     "wof:name":"Vibrationz Vibro Gym",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [143.862213,-37.560097,143.862213,-37.560097],
+  "bbox": [
+    143.862213,
+    -37.560097,
+    143.862213,
+    -37.560097
+],
   "geometry": {"coordinates":[143.862213,-37.560097],"type":"Point"}
 }

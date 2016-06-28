@@ -2,13 +2,14 @@
   "id": 253270405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.858963,-27.477652,151.858963,-27.477652",
     "geom:latitude":-27.477652,
     "geom:longitude":151.858963,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Jeudes Rd",
     "sg:city":"Gowrie Junction",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253270405,
-    "wof:lastmodified":1449063350,
+    "wof:lastmodified":1466190515,
     "wof:name":"Phillip Gemmell Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.858963,-27.477652,151.858963,-27.477652],
-  "geometry": {"coordinates":[151.858963,-27.477652],"type":"Point"}
+  "bbox": [
+    151.858963,
+    -27.477652,
+    151.858963,
+    -27.477652
+],
+  "geometry": {"coordinates":[151.85896299999999,-27.477652],"type":"Point"}
 }

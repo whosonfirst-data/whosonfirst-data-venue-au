@@ -2,13 +2,14 @@
   "id": 236700985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.461563,-31.912741,152.461563,-31.912741",
     "geom:latitude":-31.912741,
     "geom:longitude":152.461563,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Manning St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236700985,
-    "wof:lastmodified":1449004902,
+    "wof:lastmodified":1466191936,
     "wof:name":"Manning Valley Tackle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [152.461563,-31.912741,152.461563,-31.912741],
-  "geometry": {"coordinates":[152.461563,-31.912741],"type":"Point"}
+  "bbox": [
+    152.461563,
+    -31.912741,
+    152.461563,
+    -31.912741
+],
+  "geometry": {"coordinates":[152.46156300000001,-31.912741],"type":"Point"}
 }

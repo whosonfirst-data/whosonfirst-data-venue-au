@@ -2,13 +2,14 @@
   "id": 186342011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.302444,-33.695621,151.302444,-33.695621",
     "geom:latitude":-33.695621,
     "geom:longitude":151.302444,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Pittwater Rd",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186342011,
-    "wof:lastmodified":1449052842,
+    "wof:lastmodified":1466188302,
     "wof:name":"Pirates Mini Golf",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [151.302444,-33.695621,151.302444,-33.695621],
-  "geometry": {"coordinates":[151.302444,-33.695621],"type":"Point"}
+  "bbox": [
+    151.302444,
+    -33.695621,
+    151.302444,
+    -33.695621
+],
+  "geometry": {"coordinates":[151.30244400000001,-33.695621],"type":"Point"}
 }

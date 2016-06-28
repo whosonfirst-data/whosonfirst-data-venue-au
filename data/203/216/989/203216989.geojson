@@ -2,13 +2,14 @@
   "id": 203216989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.890976,-41.046658,145.890976,-41.046658",
     "geom:latitude":-41.046658,
     "geom:longitude":145.890976,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Bay St",
     "sg:city":"Parklands",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203216989,
-    "wof:lastmodified":1449026652,
+    "wof:lastmodified":1466187258,
     "wof:name":"Aussie Delights",
     "wof:parent_id":85779957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [145.890976,-41.046658,145.890976,-41.046658],
-  "geometry": {"coordinates":[145.890976,-41.046658],"type":"Point"}
+  "bbox": [
+    145.890976,
+    -41.046658,
+    145.890976,
+    -41.046658
+],
+  "geometry": {"coordinates":[145.89097599999999,-41.046658],"type":"Point"}
 }

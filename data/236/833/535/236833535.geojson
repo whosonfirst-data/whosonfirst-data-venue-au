@@ -2,13 +2,14 @@
   "id": 236833535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.898804,-34.435581,150.898804,-34.435581",
     "geom:latitude":-34.435581,
     "geom:longitude":150.898804,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 / 6 Ross St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236833535,
-    "wof:lastmodified":1449001992,
+    "wof:lastmodified":1466192018,
     "wof:name":"Conti Builders & Developers",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [150.898804,-34.435581,150.898804,-34.435581],
-  "geometry": {"coordinates":[150.898804,-34.435581],"type":"Point"}
+  "bbox": [
+    150.898804,
+    -34.435581,
+    150.898804,
+    -34.435581
+],
+  "geometry": {"coordinates":[150.89880400000001,-34.435581],"type":"Point"}
 }

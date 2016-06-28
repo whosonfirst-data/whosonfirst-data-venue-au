@@ -2,13 +2,14 @@
   "id": 203158023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.986923,-36.541561,145.986923,-36.541561",
     "geom:latitude":-36.541561,
     "geom:longitude":145.986923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gillies St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203158023,
-    "wof:lastmodified":1449026243,
+    "wof:lastmodified":1466190017,
     "wof:name":"Desailly Engineering Pty. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.986923,-36.541561,145.986923,-36.541561],
-  "geometry": {"coordinates":[145.986923,-36.541561],"type":"Point"}
+  "bbox": [
+    145.986923,
+    -36.541561,
+    145.986923,
+    -36.541561
+],
+  "geometry": {"coordinates":[145.98692299999999,-36.541561],"type":"Point"}
 }

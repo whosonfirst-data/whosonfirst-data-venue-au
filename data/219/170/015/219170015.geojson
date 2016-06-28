@@ -2,13 +2,14 @@
   "id": 219170015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049896,-27.425095,153.049896,-27.425095",
     "geom:latitude":-27.425095,
     "geom:longitude":153.049896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Riverton St",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219170015,
-    "wof:lastmodified":1449070722,
+    "wof:lastmodified":1466189764,
     "wof:name":"Aqua Zen",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [153.049896,-27.425095,153.049896,-27.425095],
-  "geometry": {"coordinates":[153.049896,-27.425095],"type":"Point"}
+  "bbox": [
+    153.049896,
+    -27.425095,
+    153.049896,
+    -27.425095
+],
+  "geometry": {"coordinates":[153.04989599999999,-27.425095],"type":"Point"}
 }

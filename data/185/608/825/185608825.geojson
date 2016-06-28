@@ -2,13 +2,14 @@
   "id": 185608825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.812927,-32.03167,115.812927,-32.03167",
     "geom:latitude":-32.03167,
     "geom:longitude":115.812927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"567 Canning Hwy",
     "sg:city":"Alfred Cove",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185608825,
-    "wof:lastmodified":1449007295,
+    "wof:lastmodified":1466187195,
     "wof:name":"Yeo HTS Dr",
     "wof:parent_id":85775673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.812927,-32.03167,115.812927,-32.03167],
+  "bbox": [
+    115.812927,
+    -32.03167,
+    115.812927,
+    -32.03167
+],
   "geometry": {"coordinates":[115.812927,-32.03167],"type":"Point"}
 }

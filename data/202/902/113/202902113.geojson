@@ -2,13 +2,14 @@
   "id": 202902113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.166046,-30.172838,153.166046,-30.172838",
     "geom:latitude":-30.172838,
     "geom:longitude":153.166046,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Smiths Rd",
     "sg:city":"Emerald Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202902113,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466190566,
     "wof:name":"Holiday Coast Yatching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sailing"
     ]
 },
-  "bbox": [153.166046,-30.172838,153.166046,-30.172838],
-  "geometry": {"coordinates":[153.166046,-30.172838],"type":"Point"}
+  "bbox": [
+    153.166046,
+    -30.172838,
+    153.166046,
+    -30.172838
+],
+  "geometry": {"coordinates":[153.16604599999999,-30.172838],"type":"Point"}
 }

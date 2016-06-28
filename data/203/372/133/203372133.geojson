@@ -2,13 +2,14 @@
   "id": 203372133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.877182,-37.57576,143.877182,-37.57576",
     "geom:latitude":-37.57576,
     "geom:longitude":143.877182,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Clayton St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203372133,
-    "wof:lastmodified":1449026091,
+    "wof:lastmodified":1466189063,
     "wof:name":"TABS",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [143.877182,-37.57576,143.877182,-37.57576],
+  "bbox": [
+    143.877182,
+    -37.57576,
+    143.877182,
+    -37.57576
+],
   "geometry": {"coordinates":[143.877182,-37.57576],"type":"Point"}
 }

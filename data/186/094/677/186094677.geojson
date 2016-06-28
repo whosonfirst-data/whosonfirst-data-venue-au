@@ -2,13 +2,14 @@
   "id": 186094677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.950912,-31.017563,152.950912,-31.017563",
     "geom:latitude":-31.017563,
     "geom:longitude":152.950912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Barnard St",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186094677,
-    "wof:lastmodified":1449052050,
+    "wof:lastmodified":1466189171,
     "wof:name":"Gladstone Landscape & Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nursery"
     ]
 },
-  "bbox": [152.950912,-31.017563,152.950912,-31.017563],
-  "geometry": {"coordinates":[152.950912,-31.017563],"type":"Point"}
+  "bbox": [
+    152.950912,
+    -31.017563,
+    152.950912,
+    -31.017563
+],
+  "geometry": {"coordinates":[152.95091199999999,-31.017563],"type":"Point"}
 }

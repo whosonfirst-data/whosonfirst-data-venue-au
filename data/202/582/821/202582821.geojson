@@ -2,13 +2,14 @@
   "id": 202582821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.611237,-33.832623,138.611237,-33.832623",
     "geom:latitude":-33.832623,
     "geom:longitude":138.611237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582821,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1466187147,
     "wof:name":"Barry Gayle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [138.611237,-33.832623,138.611237,-33.832623],
-  "geometry": {"coordinates":[138.611237,-33.832623],"type":"Point"}
+  "bbox": [
+    138.611237,
+    -33.832623,
+    138.611237,
+    -33.832623
+],
+  "geometry": {"coordinates":[138.61123699999999,-33.832623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219642585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.125565,-33.956028,151.125565,-33.956028",
     "geom:latitude":-33.956028,
     "geom:longitude":151.125565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"115b Queen Victoria St",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219642585,
-    "wof:lastmodified":1449070588,
+    "wof:lastmodified":1466190947,
     "wof:name":"DaPo Consulting",
     "wof:parent_id":85777013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.125565,-33.956028,151.125565,-33.956028],
-  "geometry": {"coordinates":[151.125565,-33.956028],"type":"Point"}
+  "bbox": [
+    151.125565,
+    -33.956028,
+    151.125565,
+    -33.956028
+],
+  "geometry": {"coordinates":[151.12556499999999,-33.956028],"type":"Point"}
 }

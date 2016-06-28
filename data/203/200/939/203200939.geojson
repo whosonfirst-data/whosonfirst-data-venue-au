@@ -2,13 +2,14 @@
   "id": 203200939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.9841,-36.551746,145.9841,-36.551746",
     "geom:latitude":-36.551746,
     "geom:longitude":145.9841,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Bridge St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203200939,
-    "wof:lastmodified":1449025678,
+    "wof:lastmodified":1466187012,
     "wof:name":"Chang Kuong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.9841,-36.551746,145.9841,-36.551746],
-  "geometry": {"coordinates":[145.9841,-36.551746],"type":"Point"}
+  "bbox": [
+    145.9841,
+    -36.551746,
+    145.9841,
+    -36.551746
+],
+  "geometry": {"coordinates":[145.98410000000001,-36.551746],"type":"Point"}
 }

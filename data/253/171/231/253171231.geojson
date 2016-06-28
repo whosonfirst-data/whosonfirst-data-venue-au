@@ -2,13 +2,14 @@
   "id": 253171231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.926163,-27.570229,151.926163,-27.570229",
     "geom:latitude":-27.570229,
     "geom:longitude":151.926163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Anzac Ave",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253171231,
-    "wof:lastmodified":1449065820,
+    "wof:lastmodified":1466189962,
     "wof:name":"Anzac Avenue Fruit Mart",
     "wof:parent_id":85780523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [151.926163,-27.570229,151.926163,-27.570229],
+  "bbox": [
+    151.926163,
+    -27.570229,
+    151.926163,
+    -27.570229
+],
   "geometry": {"coordinates":[151.926163,-27.570229],"type":"Point"}
 }

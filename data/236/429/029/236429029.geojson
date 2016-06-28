@@ -2,13 +2,14 @@
   "id": 236429029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.157043,-21.182459,149.157043,-21.182459",
     "geom:latitude":-21.182459,
     "geom:longitude":149.157043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Southgate Drv",
     "sg:city":"Paget",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236429029,
-    "wof:lastmodified":1449005036,
+    "wof:lastmodified":1466191239,
     "wof:name":"Mackay Auto Electrix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [149.157043,-21.182459,149.157043,-21.182459],
-  "geometry": {"coordinates":[149.157043,-21.182459],"type":"Point"}
+  "bbox": [
+    149.157043,
+    -21.182459,
+    149.157043,
+    -21.182459
+],
+  "geometry": {"coordinates":[149.15704299999999,-21.182459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236749631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.951263,-27.085054,152.951263,-27.085054",
     "geom:latitude":-27.085054,
     "geom:longitude":152.951263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 King St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236749631,
-    "wof:lastmodified":1449002408,
+    "wof:lastmodified":1466191896,
     "wof:name":"Myer Realty",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.951263,-27.085054,152.951263,-27.085054],
-  "geometry": {"coordinates":[152.951263,-27.085054],"type":"Point"}
+  "bbox": [
+    152.951263,
+    -27.085054,
+    152.951263,
+    -27.085054
+],
+  "geometry": {"coordinates":[152.95126300000001,-27.085054],"type":"Point"}
 }

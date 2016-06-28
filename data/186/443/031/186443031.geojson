@@ -2,13 +2,14 @@
   "id": 186443031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177856,-33.898899,151.177856,-33.898899",
     "geom:latitude":-33.898899,
     "geom:longitude":151.177856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"557 A King St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186443031,
-    "wof:lastmodified":1449052515,
+    "wof:lastmodified":1466189974,
     "wof:name":"Lang + Simmonds Newtown",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.177856,-33.898899,151.177856,-33.898899],
-  "geometry": {"coordinates":[151.177856,-33.898899],"type":"Point"}
+  "bbox": [
+    151.177856,
+    -33.898899,
+    151.177856,
+    -33.898899
+],
+  "geometry": {"coordinates":[151.17785599999999,-33.898899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236616307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.136276,-33.984966,151.136276,-33.984966",
     "geom:latitude":-33.984966,
     "geom:longitude":151.136276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Rocky Point Rd",
     "sg:city":"Ramsgate",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236616307,
-    "wof:lastmodified":1449004189,
+    "wof:lastmodified":1466191680,
     "wof:name":"George Pagonis Pty Ltd",
     "wof:parent_id":85770051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.136276,-33.984966,151.136276,-33.984966],
-  "geometry": {"coordinates":[151.136276,-33.984966],"type":"Point"}
+  "bbox": [
+    151.136276,
+    -33.984966,
+    151.136276,
+    -33.984966
+],
+  "geometry": {"coordinates":[151.13627600000001,-33.984966],"type":"Point"}
 }

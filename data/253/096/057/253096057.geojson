@@ -2,13 +2,14 @@
   "id": 253096057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.83725,-37.797886,144.83725,-37.797886",
     "geom:latitude":-37.797886,
     "geom:longitude":144.83725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 First Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253096057,
-    "wof:lastmodified":1449063782,
+    "wof:lastmodified":1466188650,
     "wof:name":"Aldabel Steel Fencing & Gates",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.83725,-37.797886,144.83725,-37.797886],
-  "geometry": {"coordinates":[144.83725,-37.797886],"type":"Point"}
+  "bbox": [
+    144.83725,
+    -37.797886,
+    144.83725,
+    -37.797886
+],
+  "geometry": {"coordinates":[144.83725000000001,-37.797886],"type":"Point"}
 }

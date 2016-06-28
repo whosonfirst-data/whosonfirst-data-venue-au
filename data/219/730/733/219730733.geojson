@@ -2,13 +2,14 @@
   "id": 219730733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.789047,-19.289375,146.789047,-19.289375",
     "geom:latitude":-19.289375,
     "geom:longitude":146.789047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1 13 Fulham Rd",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219730733,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466191219,
     "wof:name":"Wu Chen Dr.",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.789047,-19.289375,146.789047,-19.289375],
-  "geometry": {"coordinates":[146.789047,-19.289375],"type":"Point"}
+  "bbox": [
+    146.789047,
+    -19.289375,
+    146.789047,
+    -19.289375
+],
+  "geometry": {"coordinates":[146.78904700000001,-19.289375],"type":"Point"}
 }

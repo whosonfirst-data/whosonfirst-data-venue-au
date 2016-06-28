@@ -2,13 +2,14 @@
   "id": 253158661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.946075,-27.540327,151.946075,-27.540327",
     "geom:latitude":-27.540327,
     "geom:longitude":151.946075,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr North & Larcombe Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253158661,
-    "wof:lastmodified":1449064813,
+    "wof:lastmodified":1466189763,
     "wof:name":"Boral",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [151.946075,-27.540327,151.946075,-27.540327],
-  "geometry": {"coordinates":[151.946075,-27.540327],"type":"Point"}
+  "bbox": [
+    151.946075,
+    -27.540327,
+    151.946075,
+    -27.540327
+],
+  "geometry": {"coordinates":[151.94607500000001,-27.540327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202481759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040405,-37.903835,145.040405,-37.903835",
     "geom:latitude":-37.903835,
     "geom:longitude":145.040405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"501 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202481759,
-    "wof:lastmodified":1449062335,
+    "wof:lastmodified":1466189252,
     "wof:name":"Past Times Antiques",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.040405,-37.903835,145.040405,-37.903835],
-  "geometry": {"coordinates":[145.040405,-37.903835],"type":"Point"}
+  "bbox": [
+    145.040405,
+    -37.903835,
+    145.040405,
+    -37.903835
+],
+  "geometry": {"coordinates":[145.04040499999999,-37.903835],"type":"Point"}
 }

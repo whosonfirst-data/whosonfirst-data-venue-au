@@ -2,13 +2,14 @@
   "id": 169730457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.044083,-27.208546,153.044083,-27.208546",
     "geom:latitude":-27.208546,
     "geom:longitude":153.044083,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Shangri-La Crt",
     "sg:city":"Rothwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169730457,
-    "wof:lastmodified":1449035429,
+    "wof:lastmodified":1466187373,
     "wof:name":"FSI Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [153.044083,-27.208546,153.044083,-27.208546],
+  "bbox": [
+    153.044083,
+    -27.208546,
+    153.044083,
+    -27.208546
+],
   "geometry": {"coordinates":[153.044083,-27.208546],"type":"Point"}
 }

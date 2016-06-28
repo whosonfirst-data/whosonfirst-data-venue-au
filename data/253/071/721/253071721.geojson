@@ -2,13 +2,14 @@
   "id": 253071721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.738602,-37.719189,144.738602,-37.719189",
     "geom:latitude":-37.719189,
     "geom:longitude":144.738602,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Woodbury Ave",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253071721,
-    "wof:lastmodified":1449064682,
+    "wof:lastmodified":1466188214,
     "wof:name":"City Floors",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [144.738602,-37.719189,144.738602,-37.719189],
-  "geometry": {"coordinates":[144.738602,-37.719189],"type":"Point"}
+  "bbox": [
+    144.738602,
+    -37.719189,
+    144.738602,
+    -37.719189
+],
+  "geometry": {"coordinates":[144.73860199999999,-37.719189],"type":"Point"}
 }

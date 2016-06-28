@@ -2,13 +2,14 @@
   "id": 236101775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.688553,-37.952194,144.688553,-37.952194",
     "geom:latitude":-37.952194,
     "geom:longitude":144.688553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Diggers Rd",
     "sg:city":"Werribee South",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236101775,
-    "wof:lastmodified":1449003378,
+    "wof:lastmodified":1466188662,
     "wof:name":"Regal Blooms",
     "wof:parent_id":85771137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.688553,-37.952194,144.688553,-37.952194],
-  "geometry": {"coordinates":[144.688553,-37.952194],"type":"Point"}
+  "bbox": [
+    144.688553,
+    -37.952194,
+    144.688553,
+    -37.952194
+],
+  "geometry": {"coordinates":[144.68855300000001,-37.952194],"type":"Point"}
 }

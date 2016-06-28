@@ -2,13 +2,14 @@
   "id": 236347089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.814911,-32.111984,115.814911,-32.111984",
     "geom:latitude":-32.111984,
     "geom:longitude":115.814911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4/ 9 Kalmia Rd",
     "sg:city":"Bibra Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236347089,
-    "wof:lastmodified":1449003206,
+    "wof:lastmodified":1466190846,
     "wof:name":"WA Partitions",
     "wof:parent_id":85775725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "partition"
     ]
 },
-  "bbox": [115.814911,-32.111984,115.814911,-32.111984],
+  "bbox": [
+    115.814911,
+    -32.111984,
+    115.814911,
+    -32.111984
+],
   "geometry": {"coordinates":[115.814911,-32.111984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203366323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.856522,-37.564198,143.856522,-37.564198",
     "geom:latitude":-37.564198,
     "geom:longitude":143.856522,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Dana St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203366323,
-    "wof:lastmodified":1449026350,
+    "wof:lastmodified":1466188959,
     "wof:name":"Edward G R",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [143.856522,-37.564198,143.856522,-37.564198],
-  "geometry": {"coordinates":[143.856522,-37.564198],"type":"Point"}
+  "bbox": [
+    143.856522,
+    -37.564198,
+    143.856522,
+    -37.564198
+],
+  "geometry": {"coordinates":[143.85652200000001,-37.564198],"type":"Point"}
 }

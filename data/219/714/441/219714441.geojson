@@ -2,13 +2,14 @@
   "id": 219714441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.368591,-31.86573,152.368591,-31.86573",
     "geom:latitude":-31.86573,
     "geom:longitude":152.368591,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Marlee & Mortimer Sts",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219714441,
-    "wof:lastmodified":1449072120,
+    "wof:lastmodified":1466191182,
     "wof:name":"Wingham Auto Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [152.368591,-31.86573,152.368591,-31.86573],
-  "geometry": {"coordinates":[152.368591,-31.86573],"type":"Point"}
+  "bbox": [
+    152.368591,
+    -31.86573,
+    152.368591,
+    -31.86573
+],
+  "geometry": {"coordinates":[152.36859100000001,-31.86573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219366165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.546036,-35.326691,143.546036,-35.326691",
     "geom:latitude":-35.326691,
     "geom:longitude":143.546036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Murlong St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219366165,
-    "wof:lastmodified":1449072979,
+    "wof:lastmodified":1466188063,
     "wof:name":"St Mary's School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [143.546036,-35.326691,143.546036,-35.326691],
-  "geometry": {"coordinates":[143.546036,-35.326691],"type":"Point"}
+  "bbox": [
+    143.546036,
+    -35.326691,
+    143.546036,
+    -35.326691
+],
+  "geometry": {"coordinates":[143.54603599999999,-35.326691],"type":"Point"}
 }

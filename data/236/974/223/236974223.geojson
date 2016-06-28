@@ -2,13 +2,14 @@
   "id": 236974223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.392776,-37.870323,145.392776,-37.870323",
     "geom:latitude":-37.870323,
     "geom:longitude":145.392776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Olinda-Monbulk Rd",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236974223,
-    "wof:lastmodified":1449004726,
+    "wof:lastmodified":1466192175,
     "wof:name":"Monbulk Computers",
     "wof:parent_id":85770965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [145.392776,-37.870323,145.392776,-37.870323],
+  "bbox": [
+    145.392776,
+    -37.870323,
+    145.392776,
+    -37.870323
+],
   "geometry": {"coordinates":[145.392776,-37.870323],"type":"Point"}
 }

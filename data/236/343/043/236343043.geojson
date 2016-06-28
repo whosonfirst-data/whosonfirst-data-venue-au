@@ -2,13 +2,14 @@
   "id": 236343043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.799202,-32.058525,115.799202,-32.058525",
     "geom:latitude":-32.058525,
     "geom:longitude":115.799202,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Flindell St",
     "sg:city":"O&#039;Connor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236343043,
-    "wof:lastmodified":1449004097,
+    "wof:lastmodified":1466190802,
     "wof:name":"Harvey Home Builders",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.799202,-32.058525,115.799202,-32.058525],
-  "geometry": {"coordinates":[115.799202,-32.058525],"type":"Point"}
+  "bbox": [
+    115.799202,
+    -32.058525,
+    115.799202,
+    -32.058525
+],
+  "geometry": {"coordinates":[115.79920199999999,-32.058525],"type":"Point"}
 }

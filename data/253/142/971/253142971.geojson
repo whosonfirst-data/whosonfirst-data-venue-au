@@ -2,13 +2,14 @@
   "id": 253142971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.956375,-27.556904,151.956375,-27.556904",
     "geom:latitude":-27.556904,
     "geom:longitude":151.956375,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Neil St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253142971,
-    "wof:lastmodified":1449065176,
+    "wof:lastmodified":1466189476,
     "wof:name":"Toowoomba Steering Service",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "alignment"
     ]
 },
-  "bbox": [151.956375,-27.556904,151.956375,-27.556904],
-  "geometry": {"coordinates":[151.956375,-27.556904],"type":"Point"}
+  "bbox": [
+    151.956375,
+    -27.556904,
+    151.956375,
+    -27.556904
+],
+  "geometry": {"coordinates":[151.95637500000001,-27.556904],"type":"Point"}
 }

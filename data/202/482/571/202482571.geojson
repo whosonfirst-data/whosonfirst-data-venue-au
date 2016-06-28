@@ -2,13 +2,14 @@
   "id": 202482571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040573,-37.903854,145.040573,-37.903854",
     "geom:latitude":-37.903854,
     "geom:longitude":145.040573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"507 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202482571,
-    "wof:lastmodified":1449061004,
+    "wof:lastmodified":1466189251,
     "wof:name":"IGA Everyday",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [145.040573,-37.903854,145.040573,-37.903854],
-  "geometry": {"coordinates":[145.040573,-37.903854],"type":"Point"}
+  "bbox": [
+    145.040573,
+    -37.903854,
+    145.040573,
+    -37.903854
+],
+  "geometry": {"coordinates":[145.04057299999999,-37.903854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219259257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.269669,-38.19598,146.269669,-38.19598",
     "geom:latitude":-38.19598,
     "geom:longitude":146.269669,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RMB 4101 Coalville Rd",
     "sg:city":"Moe South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219259257,
-    "wof:lastmodified":1449071196,
+    "wof:lastmodified":1466187195,
     "wof:name":"Acme Fixtures Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "brass"
     ]
 },
-  "bbox": [146.269669,-38.19598,146.269669,-38.19598],
-  "geometry": {"coordinates":[146.269669,-38.19598],"type":"Point"}
+  "bbox": [
+    146.269669,
+    -38.19598,
+    146.269669,
+    -38.19598
+],
+  "geometry": {"coordinates":[146.26966899999999,-38.19598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202566387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.433578,-37.688499,144.433578,-37.688499",
     "geom:latitude":-37.688499,
     "geom:longitude":144.433578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gaynor St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202566387,
-    "wof:lastmodified":1449060158,
+    "wof:lastmodified":1466187017,
     "wof:name":"S & D Robinson Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [144.433578,-37.688499,144.433578,-37.688499],
-  "geometry": {"coordinates":[144.433578,-37.688499],"type":"Point"}
+  "bbox": [
+    144.433578,
+    -37.688499,
+    144.433578,
+    -37.688499
+],
+  "geometry": {"coordinates":[144.43357800000001,-37.688499],"type":"Point"}
 }

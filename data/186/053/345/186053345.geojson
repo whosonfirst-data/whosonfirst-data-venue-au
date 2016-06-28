@@ -2,13 +2,14 @@
   "id": 186053345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.577164,-33.070145,151.577164,-33.070145",
     "geom:latitude":-33.070145,
     "geom:longitude":151.577164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Nunda Rd",
     "sg:city":"Wangi Wangi",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":186053345,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466188314,
     "wof:name":"Traceys Garden Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [151.577164,-33.070145,151.577164,-33.070145],
-  "geometry": {"coordinates":[151.577164,-33.070145],"type":"Point"}
+  "bbox": [
+    151.577164,
+    -33.070145,
+    151.577164,
+    -33.070145
+],
+  "geometry": {"coordinates":[151.57716400000001,-33.070145],"type":"Point"}
 }

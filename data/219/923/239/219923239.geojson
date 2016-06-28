@@ -2,13 +2,14 @@
   "id": 219923239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.768692,-36.104092,144.768692,-36.104092",
     "geom:latitude":-36.104092,
     "geom:longitude":144.768692,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Graham St",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219923239,
-    "wof:lastmodified":1449073792,
+    "wof:lastmodified":1466191777,
     "wof:name":"Fresh Seafood Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [144.768692,-36.104092,144.768692,-36.104092],
-  "geometry": {"coordinates":[144.768692,-36.104092],"type":"Point"}
+  "bbox": [
+    144.768692,
+    -36.104092,
+    144.768692,
+    -36.104092
+],
+  "geometry": {"coordinates":[144.76869199999999,-36.104092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203122465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.750633,-32.516693,115.750633,-32.516693",
     "geom:latitude":-32.516693,
     "geom:longitude":115.750633,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 11 Fitzgerald Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203122465,
-    "wof:lastmodified":1449026026,
+    "wof:lastmodified":1466189396,
     "wof:name":"Mandurah Self Storage",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [115.750633,-32.516693,115.750633,-32.516693],
-  "geometry": {"coordinates":[115.750633,-32.516693],"type":"Point"}
+  "bbox": [
+    115.750633,
+    -32.516693,
+    115.750633,
+    -32.516693
+],
+  "geometry": {"coordinates":[115.75063299999999,-32.516693],"type":"Point"}
 }

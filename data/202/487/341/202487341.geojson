@@ -2,13 +2,14 @@
   "id": 202487341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.039124,-37.90395,145.039124,-37.90395",
     "geom:latitude":-37.90395,
     "geom:longitude":145.039124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"548 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202487341,
-    "wof:lastmodified":1449060935,
+    "wof:lastmodified":1466189342,
     "wof:name":"Breese Lynne",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "help"
     ]
 },
-  "bbox": [145.039124,-37.90395,145.039124,-37.90395],
-  "geometry": {"coordinates":[145.039124,-37.90395],"type":"Point"}
+  "bbox": [
+    145.039124,
+    -37.90395,
+    145.039124,
+    -37.90395
+],
+  "geometry": {"coordinates":[145.03912399999999,-37.90395],"type":"Point"}
 }

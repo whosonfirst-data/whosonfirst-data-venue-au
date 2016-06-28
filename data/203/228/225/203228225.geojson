@@ -2,13 +2,14 @@
   "id": 203228225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.829147,-41.040001,145.829147,-41.040001",
     "geom:latitude":-41.040001,
     "geom:longitude":145.829147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 George St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203228225,
-    "wof:lastmodified":1449025503,
+    "wof:lastmodified":1466187397,
     "wof:name":"Somerset Puddleduck Play Centre Inc",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.829147,-41.040001,145.829147,-41.040001],
-  "geometry": {"coordinates":[145.829147,-41.040001],"type":"Point"}
+  "bbox": [
+    145.829147,
+    -41.040001,
+    145.829147,
+    -41.040001
+],
+  "geometry": {"coordinates":[145.82914700000001,-41.040001],"type":"Point"}
 }

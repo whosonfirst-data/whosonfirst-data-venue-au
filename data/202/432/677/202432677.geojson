@@ -2,13 +2,14 @@
   "id": 202432677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.955154,-37.850727,144.955154,-37.850727",
     "geom:latitude":-37.850727,
     "geom:longitude":144.955154,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Beaconsfield Pde",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202432677,
-    "wof:lastmodified":1449060065,
+    "wof:lastmodified":1466188461,
     "wof:name":"Danish Club The",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.955154,-37.850727,144.955154,-37.850727],
-  "geometry": {"coordinates":[144.955154,-37.850727],"type":"Point"}
+  "bbox": [
+    144.955154,
+    -37.850727,
+    144.955154,
+    -37.850727
+],
+  "geometry": {"coordinates":[144.95515399999999,-37.850727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219539843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.044785,-33.933014,151.044785,-33.933014",
     "geom:latitude":-33.933014,
     "geom:longitude":151.044785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bramhall Ave",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219539843,
-    "wof:lastmodified":1449073998,
+    "wof:lastmodified":1466190064,
     "wof:name":"Lemerwood Pty Ltd",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gate"
     ]
 },
-  "bbox": [151.044785,-33.933014,151.044785,-33.933014],
-  "geometry": {"coordinates":[151.044785,-33.933014],"type":"Point"}
+  "bbox": [
+    151.044785,
+    -33.933014,
+    151.044785,
+    -33.933014
+],
+  "geometry": {"coordinates":[151.04478499999999,-33.933014],"type":"Point"}
 }

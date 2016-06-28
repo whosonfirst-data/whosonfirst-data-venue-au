@@ -2,13 +2,14 @@
   "id": 202764317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.769897,-32.927067,151.769897,-32.927067",
     "geom:latitude":-32.927067,
     "geom:longitude":151.769897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 500 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202764317,
-    "wof:lastmodified":1449062529,
+    "wof:lastmodified":1466189924,
     "wof:name":"Tourism Employment & Training Corporation Limited",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.769897,-32.927067,151.769897,-32.927067],
-  "geometry": {"coordinates":[151.769897,-32.927067],"type":"Point"}
+  "bbox": [
+    151.769897,
+    -32.927067,
+    151.769897,
+    -32.927067
+],
+  "geometry": {"coordinates":[151.76989699999999,-32.927067],"type":"Point"}
 }

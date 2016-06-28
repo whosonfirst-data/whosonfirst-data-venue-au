@@ -2,13 +2,14 @@
   "id": 219722887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.374023,-31.869326,152.374023,-31.869326",
     "geom:latitude":-31.869326,
     "geom:longitude":152.374023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Bent St",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219722887,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466191120,
     "wof:name":"McKeough's Cake Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pastry"
     ]
 },
-  "bbox": [152.374023,-31.869326,152.374023,-31.869326],
-  "geometry": {"coordinates":[152.374023,-31.869326],"type":"Point"}
+  "bbox": [
+    152.374023,
+    -31.869326,
+    152.374023,
+    -31.869326
+],
+  "geometry": {"coordinates":[152.37402299999999,-31.869326],"type":"Point"}
 }

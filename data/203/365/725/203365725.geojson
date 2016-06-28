@@ -2,13 +2,14 @@
   "id": 203365725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.895264,-37.54055,143.895264,-37.54055",
     "geom:latitude":-37.54055,
     "geom:longitude":143.895264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Lofven St",
     "sg:city":"Nerrina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203365725,
-    "wof:lastmodified":1449025243,
+    "wof:lastmodified":1466188949,
     "wof:name":"Grant Russell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leadlights"
     ]
 },
-  "bbox": [143.895264,-37.54055,143.895264,-37.54055],
+  "bbox": [
+    143.895264,
+    -37.54055,
+    143.895264,
+    -37.54055
+],
   "geometry": {"coordinates":[143.895264,-37.54055],"type":"Point"}
 }

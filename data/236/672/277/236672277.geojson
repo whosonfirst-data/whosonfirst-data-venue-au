@@ -2,13 +2,14 @@
   "id": 236672277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.039764,-30.892975,153.039764,-30.892975",
     "geom:latitude":-30.892975,
     "geom:longitude":153.039764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sturt St",
     "sg:city":"South West Rocks",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236672277,
-    "wof:lastmodified":1449001836,
+    "wof:lastmodified":1466191804,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [153.039764,-30.892975,153.039764,-30.892975],
-  "geometry": {"coordinates":[153.039764,-30.892975],"type":"Point"}
+  "bbox": [
+    153.039764,
+    -30.892975,
+    153.039764,
+    -30.892975
+],
+  "geometry": {"coordinates":[153.03976399999999,-30.892975],"type":"Point"}
 }

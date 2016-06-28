@@ -2,13 +2,14 @@
   "id": 202830239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.156021,-23.513245,148.156021,-23.513245",
     "geom:latitude":-23.513245,
     "geom:longitude":148.156021,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Hospital Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202830239,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466190425,
     "wof:name":"Annies Hair & Beauty Hideaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [148.156021,-23.513245,148.156021,-23.513245],
-  "geometry": {"coordinates":[148.156021,-23.513245],"type":"Point"}
+  "bbox": [
+    148.156021,
+    -23.513245,
+    148.156021,
+    -23.513245
+],
+  "geometry": {"coordinates":[148.15602100000001,-23.513245],"type":"Point"}
 }

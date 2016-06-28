@@ -2,13 +2,14 @@
   "id": 186133577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.996552,-30.368156,152.996552,-30.368156",
     "geom:latitude":-30.368156,
     "geom:longitude":152.996552,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Crossmaglen Rd",
     "sg:city":"Bonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186133577,
-    "wof:lastmodified":1449052548,
+    "wof:lastmodified":1466189673,
     "wof:name":"Bonville Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [152.996552,-30.368156,152.996552,-30.368156],
-  "geometry": {"coordinates":[152.996552,-30.368156],"type":"Point"}
+  "bbox": [
+    152.996552,
+    -30.368156,
+    152.996552,
+    -30.368156
+],
+  "geometry": {"coordinates":[152.99655200000001,-30.368156],"type":"Point"}
 }

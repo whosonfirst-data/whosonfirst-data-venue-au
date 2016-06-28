@@ -2,13 +2,14 @@
   "id": 186627293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.050018,-34.302551,146.050018,-34.302551",
     "geom:latitude":-34.302551,
     "geom:longitude":146.050018,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Watkins Ave",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186627293,
-    "wof:lastmodified":1449053078,
+    "wof:lastmodified":1466191000,
     "wof:name":"Griffith Electronic Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.050018,-34.302551,146.050018,-34.302551],
-  "geometry": {"coordinates":[146.050018,-34.302551],"type":"Point"}
+  "bbox": [
+    146.050018,
+    -34.302551,
+    146.050018,
+    -34.302551
+],
+  "geometry": {"coordinates":[146.05001799999999,-34.302551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169799263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.545074,-38.563412,145.545074,-38.563412",
     "geom:latitude":-38.563412,
     "geom:longitude":145.545074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66-100 Glenforbes Rd",
     "sg:city":"Dalyston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169799263,
-    "wof:lastmodified":1449035989,
+    "wof:lastmodified":1466188688,
     "wof:name":"Dalyston Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.545074,-38.563412,145.545074,-38.563412],
+  "bbox": [
+    145.545074,
+    -38.563412,
+    145.545074,
+    -38.563412
+],
   "geometry": {"coordinates":[145.545074,-38.563412],"type":"Point"}
 }

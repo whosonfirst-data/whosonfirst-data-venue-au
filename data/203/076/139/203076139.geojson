@@ -2,13 +2,14 @@
   "id": 203076139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.249603,-41.323433,148.249603,-41.323433",
     "geom:latitude":-41.323433,
     "geom:longitude":148.249603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cecilia St St",
     "sg:city":"Helens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203076139,
-    "wof:lastmodified":1449026428,
+    "wof:lastmodified":1466188695,
     "wof:name":"Garden Of Eden Internet Cafe & Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.249603,-41.323433,148.249603,-41.323433],
-  "geometry": {"coordinates":[148.249603,-41.323433],"type":"Point"}
+  "bbox": [
+    148.249603,
+    -41.323433,
+    148.249603,
+    -41.323433
+],
+  "geometry": {"coordinates":[148.24960300000001,-41.323433],"type":"Point"}
 }

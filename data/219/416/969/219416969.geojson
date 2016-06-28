@@ -2,13 +2,14 @@
   "id": 219416969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.853119,-33.749504,150.853119,-33.749504",
     "geom:latitude":-33.749504,
     "geom:longitude":150.853119,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 9 Glendenning Rd",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219416969,
-    "wof:lastmodified":1449071982,
+    "wof:lastmodified":1466188543,
     "wof:name":"A.F. Concrete Pumping Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [150.853119,-33.749504,150.853119,-33.749504],
-  "geometry": {"coordinates":[150.853119,-33.749504],"type":"Point"}
+  "bbox": [
+    150.853119,
+    -33.749504,
+    150.853119,
+    -33.749504
+],
+  "geometry": {"coordinates":[150.85311899999999,-33.749504],"type":"Point"}
 }

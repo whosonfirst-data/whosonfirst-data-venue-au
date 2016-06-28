@@ -2,13 +2,14 @@
   "id": 203409445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.754822,-32.053677,115.754822,-32.053677",
     "geom:latitude":-32.053677,
     "geom:longitude":115.754822,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Hampton Rd",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203409445,
-    "wof:lastmodified":1449025701,
+    "wof:lastmodified":1466189587,
     "wof:name":"Fremantle World Of Cars",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "minibus"
     ]
 },
-  "bbox": [115.754822,-32.053677,115.754822,-32.053677],
+  "bbox": [
+    115.754822,
+    -32.053677,
+    115.754822,
+    -32.053677
+],
   "geometry": {"coordinates":[115.754822,-32.053677],"type":"Point"}
 }

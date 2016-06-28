@@ -2,13 +2,14 @@
   "id": 186418709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.834076,-19.267698,146.834076,-19.267698",
     "geom:latitude":-19.267698,
     "geom:longitude":146.834076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/304 Boundry St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186418709,
-    "wof:lastmodified":1449052422,
+    "wof:lastmodified":1466189621,
     "wof:name":"Frigmobile",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refrigerated"
     ]
 },
-  "bbox": [146.834076,-19.267698,146.834076,-19.267698],
-  "geometry": {"coordinates":[146.834076,-19.267698],"type":"Point"}
+  "bbox": [
+    146.834076,
+    -19.267698,
+    146.834076,
+    -19.267698
+],
+  "geometry": {"coordinates":[146.83407600000001,-19.267698],"type":"Point"}
 }

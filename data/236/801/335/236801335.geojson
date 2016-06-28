@@ -2,13 +2,14 @@
   "id": 236801335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.901627,-34.479641,150.901627,-34.479641",
     "geom:latitude":-34.479641,
     "geom:longitude":150.901627,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Military Rd",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236801335,
-    "wof:lastmodified":1449004549,
+    "wof:lastmodified":1466192043,
     "wof:name":"Alsco Pty Ltd",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "matting"
     ]
 },
-  "bbox": [150.901627,-34.479641,150.901627,-34.479641],
-  "geometry": {"coordinates":[150.901627,-34.479641],"type":"Point"}
+  "bbox": [
+    150.901627,
+    -34.479641,
+    150.901627,
+    -34.479641
+],
+  "geometry": {"coordinates":[150.90162699999999,-34.479641],"type":"Point"}
 }

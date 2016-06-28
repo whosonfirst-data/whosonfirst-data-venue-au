@@ -2,13 +2,14 @@
   "id": 236569493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.032745,-33.946281,151.032745,-33.946281",
     "geom:latitude":-33.946281,
     "geom:longitude":151.032745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Enterprise Ave",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236569493,
-    "wof:lastmodified":1449005089,
+    "wof:lastmodified":1466191545,
     "wof:name":"Port-A-Stall (Aust) Pty Ltd",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "commercial"
     ]
 },
-  "bbox": [151.032745,-33.946281,151.032745,-33.946281],
-  "geometry": {"coordinates":[151.032745,-33.946281],"type":"Point"}
+  "bbox": [
+    151.032745,
+    -33.946281,
+    151.032745,
+    -33.946281
+],
+  "geometry": {"coordinates":[151.03274500000001,-33.946281],"type":"Point"}
 }

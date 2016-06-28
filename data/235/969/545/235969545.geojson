@@ -2,13 +2,14 @@
   "id": 235969545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049957,-27.431555,153.049957,-27.431555",
     "geom:latitude":-27.431555,
     "geom:longitude":153.049957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Comus Ave",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235969545,
-    "wof:lastmodified":1449008336,
+    "wof:lastmodified":1466187380,
     "wof:name":"Sally Herborn Travel",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [153.049957,-27.431555,153.049957,-27.431555],
-  "geometry": {"coordinates":[153.049957,-27.431555],"type":"Point"}
+  "bbox": [
+    153.049957,
+    -27.431555,
+    153.049957,
+    -27.431555
+],
+  "geometry": {"coordinates":[153.04995700000001,-27.431555],"type":"Point"}
 }

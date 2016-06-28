@@ -2,13 +2,14 @@
   "id": 202951393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.136597,-30.304249,153.136597,-30.304249",
     "geom:latitude":-30.304249,
     "geom:longitude":153.136597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 364A Harbour Dr",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202951393,
-    "wof:lastmodified":1449060205,
+    "wof:lastmodified":1466191012,
     "wof:name":"Ray Milord",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [153.136597,-30.304249,153.136597,-30.304249],
-  "geometry": {"coordinates":[153.136597,-30.304249],"type":"Point"}
+  "bbox": [
+    153.136597,
+    -30.304249,
+    153.136597,
+    -30.304249
+],
+  "geometry": {"coordinates":[153.13659699999999,-30.304249],"type":"Point"}
 }

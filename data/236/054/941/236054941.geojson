@@ -2,13 +2,14 @@
   "id": 236054941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.926453,-37.767979,144.926453,-37.767979",
     "geom:latitude":-37.767979,
     "geom:longitude":144.926453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14b Hinkins St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236054941,
-    "wof:lastmodified":1449003155,
+    "wof:lastmodified":1466187717,
     "wof:name":"Force 10 Security",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [144.926453,-37.767979,144.926453,-37.767979],
-  "geometry": {"coordinates":[144.926453,-37.767979],"type":"Point"}
+  "bbox": [
+    144.926453,
+    -37.767979,
+    144.926453,
+    -37.767979
+],
+  "geometry": {"coordinates":[144.92645300000001,-37.767979],"type":"Point"}
 }

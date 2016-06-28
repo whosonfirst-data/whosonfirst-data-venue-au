@@ -2,13 +2,14 @@
   "id": 219783901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.134216,-33.883217,151.134216,-33.883217",
     "geom:latitude":-33.883217,
     "geom:longitude":151.134216,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Parramatta Rd",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219783901,
-    "wof:lastmodified":1449070484,
+    "wof:lastmodified":1466191330,
     "wof:name":"Snowmaster",
     "wof:parent_id":85768693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retail"
     ]
 },
-  "bbox": [151.134216,-33.883217,151.134216,-33.883217],
-  "geometry": {"coordinates":[151.134216,-33.883217],"type":"Point"}
+  "bbox": [
+    151.134216,
+    -33.883217,
+    151.134216,
+    -33.883217
+],
+  "geometry": {"coordinates":[151.13421600000001,-33.883217],"type":"Point"}
 }

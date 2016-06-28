@@ -2,13 +2,14 @@
   "id": 202566207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435791,-37.674461,144.435791,-37.674461",
     "geom:latitude":-37.674461,
     "geom:longitude":144.435791,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Gisborne Rd",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202566207,
-    "wof:lastmodified":1449060157,
+    "wof:lastmodified":1466187015,
     "wof:name":"Balgee Oil Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [144.435791,-37.674461,144.435791,-37.674461],
-  "geometry": {"coordinates":[144.435791,-37.674461],"type":"Point"}
+  "bbox": [
+    144.435791,
+    -37.674461,
+    144.435791,
+    -37.674461
+],
+  "geometry": {"coordinates":[144.43579099999999,-37.674461],"type":"Point"}
 }

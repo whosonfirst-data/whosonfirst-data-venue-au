@@ -2,13 +2,14 @@
   "id": 236801163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.903748,-34.481682,150.903748,-34.481682",
     "geom:latitude":-34.481682,
     "geom:longitude":150.903748,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Military Rd",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236801163,
-    "wof:lastmodified":1449004550,
+    "wof:lastmodified":1466191946,
     "wof:name":"Falcone Bakery Pty Ltd",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [150.903748,-34.481682,150.903748,-34.481682],
-  "geometry": {"coordinates":[150.903748,-34.481682],"type":"Point"}
+  "bbox": [
+    150.903748,
+    -34.481682,
+    150.903748,
+    -34.481682
+],
+  "geometry": {"coordinates":[150.90374800000001,-34.481682],"type":"Point"}
 }

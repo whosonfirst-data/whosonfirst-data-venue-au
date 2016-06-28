@@ -2,13 +2,14 @@
   "id": 203010195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.505264,-20.701002,139.505264,-20.701002",
     "geom:latitude":-20.701002,
     "geom:longitude":139.505264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Commercial Rd",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203010195,
-    "wof:lastmodified":1449026132,
+    "wof:lastmodified":1466187259,
     "wof:name":"Ringrose Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [139.505264,-20.701002,139.505264,-20.701002],
-  "geometry": {"coordinates":[139.505264,-20.701002],"type":"Point"}
+  "bbox": [
+    139.505264,
+    -20.701002,
+    139.505264,
+    -20.701002
+],
+  "geometry": {"coordinates":[139.50526400000001,-20.701002],"type":"Point"}
 }

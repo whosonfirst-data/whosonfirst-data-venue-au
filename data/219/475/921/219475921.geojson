@@ -2,13 +2,14 @@
   "id": 219475921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.118103,-37.512562,145.118103,-37.512562",
     "geom:latitude":-37.512562,
     "geom:longitude":145.118103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Church St",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219475921,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466189168,
     "wof:name":"Annett Hallam Podiatrist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [145.118103,-37.512562,145.118103,-37.512562],
-  "geometry": {"coordinates":[145.118103,-37.512562],"type":"Point"}
+  "bbox": [
+    145.118103,
+    -37.512562,
+    145.118103,
+    -37.512562
+],
+  "geometry": {"coordinates":[145.11810299999999,-37.512562],"type":"Point"}
 }

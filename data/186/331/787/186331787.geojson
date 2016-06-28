@@ -2,13 +2,14 @@
   "id": 186331787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.304337,-33.692326,151.304337,-33.692326",
     "geom:latitude":-33.692326,
     "geom:longitude":151.304337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1A Warriewood Shopping Centre Jackson's Rd",
     "sg:city":"Warriewood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186331787,
-    "wof:lastmodified":1449051992,
+    "wof:lastmodified":1466188121,
     "wof:name":"Brumby's Bakeries",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.304337,-33.692326,151.304337,-33.692326],
+  "bbox": [
+    151.304337,
+    -33.692326,
+    151.304337,
+    -33.692326
+],
   "geometry": {"coordinates":[151.304337,-33.692326],"type":"Point"}
 }

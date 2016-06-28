@@ -2,13 +2,14 @@
   "id": 219370729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.545364,-35.337669,143.545364,-35.337669",
     "geom:latitude":-35.337669,
     "geom:longitude":143.545364,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2- 4 Logan St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219370729,
-    "wof:lastmodified":1449072301,
+    "wof:lastmodified":1466188105,
     "wof:name":"Logan Street Child Care Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.545364,-35.337669,143.545364,-35.337669],
-  "geometry": {"coordinates":[143.545364,-35.337669],"type":"Point"}
+  "bbox": [
+    143.545364,
+    -35.337669,
+    143.545364,
+    -35.337669
+],
+  "geometry": {"coordinates":[143.54536400000001,-35.337669],"type":"Point"}
 }

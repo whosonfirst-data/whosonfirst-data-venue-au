@@ -2,13 +2,14 @@
   "id": 236036181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.780487,-37.709553,144.780487,-37.709553",
     "geom:latitude":-37.709553,
     "geom:longitude":144.780487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Medical One, 503 Melton Hwy",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236036181,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466187343,
     "wof:name":"Adolescent & Child Educational Testing & Counsellors",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [144.780487,-37.709553,144.780487,-37.709553],
-  "geometry": {"coordinates":[144.780487,-37.709553],"type":"Point"}
+  "bbox": [
+    144.780487,
+    -37.709553,
+    144.780487,
+    -37.709553
+],
+  "geometry": {"coordinates":[144.78048699999999,-37.709553],"type":"Point"}
 }

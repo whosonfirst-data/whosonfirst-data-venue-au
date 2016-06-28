@@ -2,13 +2,14 @@
   "id": 220178951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355911,-38.151253,144.355911,-38.151253",
     "geom:latitude":-38.151253,
     "geom:longitude":144.355911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Gheringhap St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220178951,
-    "wof:lastmodified":1449074626,
+    "wof:lastmodified":1466189167,
     "wof:name":"HC IT Services",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [144.355911,-38.151253,144.355911,-38.151253],
-  "geometry": {"coordinates":[144.355911,-38.151253],"type":"Point"}
+  "bbox": [
+    144.355911,
+    -38.151253,
+    144.355911,
+    -38.151253
+],
+  "geometry": {"coordinates":[144.35591099999999,-38.151253],"type":"Point"}
 }

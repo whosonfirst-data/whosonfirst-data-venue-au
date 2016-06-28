@@ -2,13 +2,14 @@
   "id": 220105303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.495987,-38.269508,144.495987,-38.269508",
     "geom:latitude":-38.269508,
     "geom:longitude":144.495987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Galverstone Crt",
     "sg:city":"Barwon Heads",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220105303,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466188005,
     "wof:name":"Glen Davis Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [144.495987,-38.269508,144.495987,-38.269508],
-  "geometry": {"coordinates":[144.495987,-38.269508],"type":"Point"}
+  "bbox": [
+    144.495987,
+    -38.269508,
+    144.495987,
+    -38.269508
+],
+  "geometry": {"coordinates":[144.49598700000001,-38.269508],"type":"Point"}
 }

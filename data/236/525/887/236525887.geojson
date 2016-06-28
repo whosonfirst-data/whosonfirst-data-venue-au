@@ -2,13 +2,14 @@
   "id": 236525887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171341,-32.561264,151.171341,-32.561264",
     "geom:latitude":-32.561264,
     "geom:longitude":151.171341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"221 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236525887,
-    "wof:lastmodified":1449004420,
+    "wof:lastmodified":1466191438,
     "wof:name":"Reece Pty Ltd",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.171341,-32.561264,151.171341,-32.561264],
-  "geometry": {"coordinates":[151.171341,-32.561264],"type":"Point"}
+  "bbox": [
+    151.171341,
+    -32.561264,
+    151.171341,
+    -32.561264
+],
+  "geometry": {"coordinates":[151.17134100000001,-32.561264],"type":"Point"}
 }

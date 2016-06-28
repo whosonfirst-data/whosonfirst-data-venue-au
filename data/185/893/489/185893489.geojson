@@ -2,13 +2,14 @@
   "id": 185893489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699234,-25.535513,152.699234,-25.535513",
     "geom:latitude":-25.535513,
     "geom:longitude":152.699234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Kent St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185893489,
-    "wof:lastmodified":1449007924,
+    "wof:lastmodified":1466187857,
     "wof:name":"Maryborough Travel Centre Pty Ltd",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agent"
     ]
 },
-  "bbox": [152.699234,-25.535513,152.699234,-25.535513],
-  "geometry": {"coordinates":[152.699234,-25.535513],"type":"Point"}
+  "bbox": [
+    152.699234,
+    -25.535513,
+    152.699234,
+    -25.535513
+],
+  "geometry": {"coordinates":[152.69923399999999,-25.535513],"type":"Point"}
 }

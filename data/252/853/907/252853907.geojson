@@ -2,13 +2,14 @@
   "id": 252853907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.53299,-32.357594,149.53299,-32.357594",
     "geom:latitude":-32.357594,
     "geom:longitude":149.53299,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Medley St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252853907,
-    "wof:lastmodified":1449005848,
+    "wof:lastmodified":1466188583,
     "wof:name":"B Honeysett Water Cartage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [149.53299,-32.357594,149.53299,-32.357594],
-  "geometry": {"coordinates":[149.53299,-32.357594],"type":"Point"}
+  "bbox": [
+    149.53299,
+    -32.357594,
+    149.53299,
+    -32.357594
+],
+  "geometry": {"coordinates":[149.53299000000001,-32.357594],"type":"Point"}
 }

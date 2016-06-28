@@ -2,13 +2,14 @@
   "id": 186345451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.30191,-33.706413,151.30191,-33.706413",
     "geom:latitude":-33.706413,
     "geom:longitude":151.30191,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Lagoon St",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186345451,
-    "wof:lastmodified":1449052814,
+    "wof:lastmodified":1466188368,
     "wof:name":"The Pied Plumber",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.30191,-33.706413,151.30191,-33.706413],
-  "geometry": {"coordinates":[151.30191,-33.706413],"type":"Point"}
+  "bbox": [
+    151.30191,
+    -33.706413,
+    151.30191,
+    -33.706413
+],
+  "geometry": {"coordinates":[151.30190999999999,-33.706413],"type":"Point"}
 }

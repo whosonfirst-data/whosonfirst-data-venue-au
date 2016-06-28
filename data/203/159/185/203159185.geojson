@@ -2,13 +2,14 @@
   "id": 203159185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.963516,-36.558868,145.963516,-36.558868",
     "geom:latitude":-36.558868,
     "geom:longitude":145.963516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Monds Ave",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203159185,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466189726,
     "wof:name":"Benalla Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.963516,-36.558868,145.963516,-36.558868],
+  "bbox": [
+    145.963516,
+    -36.558868,
+    145.963516,
+    -36.558868
+],
   "geometry": {"coordinates":[145.963516,-36.558868],"type":"Point"}
 }

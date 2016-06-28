@@ -2,13 +2,14 @@
   "id": 253260965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.009003,-27.530958,152.009003,-27.530958",
     "geom:latitude":-27.530958,
     "geom:longitude":152.009003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 2 Jones Rd",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253260965,
-    "wof:lastmodified":1449063308,
+    "wof:lastmodified":1466190589,
     "wof:name":"Access Ladders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "handrail"
     ]
 },
-  "bbox": [152.009003,-27.530958,152.009003,-27.530958],
-  "geometry": {"coordinates":[152.009003,-27.530958],"type":"Point"}
+  "bbox": [
+    152.009003,
+    -27.530958,
+    152.009003,
+    -27.530958
+],
+  "geometry": {"coordinates":[152.00900300000001,-27.530958],"type":"Point"}
 }

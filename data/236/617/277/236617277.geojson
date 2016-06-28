@@ -2,13 +2,14 @@
   "id": 236617277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154633,-33.96035,151.154633,-33.96035",
     "geom:latitude":-33.96035,
     "geom:longitude":151.154633,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Bay St",
     "sg:city":"Brighton-le-Sands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236617277,
-    "wof:lastmodified":1449001763,
+    "wof:lastmodified":1466191680,
     "wof:name":"Oporto Brighton",
     "wof:parent_id":85768933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [151.154633,-33.96035,151.154633,-33.96035],
-  "geometry": {"coordinates":[151.154633,-33.96035],"type":"Point"}
+  "bbox": [
+    151.154633,
+    -33.96035,
+    151.154633,
+    -33.96035
+],
+  "geometry": {"coordinates":[151.15463299999999,-33.96035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236949011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.59816,-34.990662,138.59816,-34.990662",
     "geom:latitude":-34.990662,
     "geom:longitude":138.59816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Springbank Rd",
     "sg:city":"Panorama",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236949011,
-    "wof:lastmodified":1449003744,
+    "wof:lastmodified":1466192046,
     "wof:name":"Urban Hair and Body",
     "wof:parent_id":85777437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [138.59816,-34.990662,138.59816,-34.990662],
-  "geometry": {"coordinates":[138.59816,-34.990662],"type":"Point"}
+  "bbox": [
+    138.59816,
+    -34.990662,
+    138.59816,
+    -34.990662
+],
+  "geometry": {"coordinates":[138.59816000000001,-34.990662],"type":"Point"}
 }

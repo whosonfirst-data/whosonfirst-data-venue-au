@@ -2,13 +2,14 @@
   "id": 203225799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.454788,-40.880501,145.454788,-40.880501",
     "geom:latitude":-40.880501,
     "geom:longitude":145.454788,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RA19372 Bass Hwy",
     "sg:city":"Rocky Cape",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203225799,
-    "wof:lastmodified":1449025502,
+    "wof:lastmodified":1466187373,
     "wof:name":"Friendly Grocer IGA Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [145.454788,-40.880501,145.454788,-40.880501],
-  "geometry": {"coordinates":[145.454788,-40.880501],"type":"Point"}
+  "bbox": [
+    145.454788,
+    -40.880501,
+    145.454788,
+    -40.880501
+],
+  "geometry": {"coordinates":[145.45478800000001,-40.880501],"type":"Point"}
 }

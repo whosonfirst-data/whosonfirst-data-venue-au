@@ -2,13 +2,14 @@
   "id": 219588317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.033539,-33.925716,151.033539,-33.925716",
     "geom:latitude":-33.925716,
     "geom:longitude":151.033539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Marshall St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219588317,
-    "wof:lastmodified":1449073236,
+    "wof:lastmodified":1466190615,
     "wof:name":"Bankstown Veterinary Hospital",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.033539,-33.925716,151.033539,-33.925716],
-  "geometry": {"coordinates":[151.033539,-33.925716],"type":"Point"}
+  "bbox": [
+    151.033539,
+    -33.925716,
+    151.033539,
+    -33.925716
+],
+  "geometry": {"coordinates":[151.03353899999999,-33.925716],"type":"Point"}
 }

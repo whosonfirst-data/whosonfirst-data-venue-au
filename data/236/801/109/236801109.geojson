@@ -2,13 +2,14 @@
   "id": 236801109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.902863,-34.481983,150.902863,-34.481983",
     "geom:latitude":-34.481983,
     "geom:longitude":150.902863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kembla Crt, Sp 2, 100 Wentworth",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236801109,
-    "wof:lastmodified":1449004548,
+    "wof:lastmodified":1466191945,
     "wof:name":"Poly N Ester",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [150.902863,-34.481983,150.902863,-34.481983],
+  "bbox": [
+    150.902863,
+    -34.481983,
+    150.902863,
+    -34.481983
+],
   "geometry": {"coordinates":[150.902863,-34.481983],"type":"Point"}
 }

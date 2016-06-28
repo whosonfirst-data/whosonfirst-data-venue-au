@@ -2,13 +2,14 @@
   "id": 169746289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115921,-27.214069,153.115921,-27.214069",
     "geom:latitude":-27.214069,
     "geom:longitude":153.115921,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Queen St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169746289,
-    "wof:lastmodified":1449032658,
+    "wof:lastmodified":1466187727,
     "wof:name":"Warren's Painting Service",
     "wof:parent_id":85780439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painter"
     ]
 },
-  "bbox": [153.115921,-27.214069,153.115921,-27.214069],
-  "geometry": {"coordinates":[153.115921,-27.214069],"type":"Point"}
+  "bbox": [
+    153.115921,
+    -27.214069,
+    153.115921,
+    -27.214069
+],
+  "geometry": {"coordinates":[153.11592099999999,-27.214069],"type":"Point"}
 }

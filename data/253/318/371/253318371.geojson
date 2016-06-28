@@ -2,13 +2,14 @@
   "id": 253318371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.303726,-38.030849,145.303726,-38.030849",
     "geom:latitude":-38.030849,
     "geom:longitude":145.303726,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fullard St",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253318371,
-    "wof:lastmodified":1449063457,
+    "wof:lastmodified":1466190766,
     "wof:name":"Pakenham Blue Metal Concrete Pty Ltd",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [145.303726,-38.030849,145.303726,-38.030849],
-  "geometry": {"coordinates":[145.303726,-38.030849],"type":"Point"}
+  "bbox": [
+    145.303726,
+    -38.030849,
+    145.303726,
+    -38.030849
+],
+  "geometry": {"coordinates":[145.30372600000001,-38.030849],"type":"Point"}
 }

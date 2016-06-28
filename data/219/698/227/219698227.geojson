@@ -2,13 +2,14 @@
   "id": 219698227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.525848,-32.198624,152.525848,-32.198624",
     "geom:latitude":-32.198624,
     "geom:longitude":152.525848,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 82 Boundary St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219698227,
-    "wof:lastmodified":1449073693,
+    "wof:lastmodified":1466191148,
     "wof:name":"NRMA Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.525848,-32.198624,152.525848,-32.198624],
+  "bbox": [
+    152.525848,
+    -32.198624,
+    152.525848,
+    -32.198624
+],
   "geometry": {"coordinates":[152.525848,-32.198624],"type":"Point"}
 }

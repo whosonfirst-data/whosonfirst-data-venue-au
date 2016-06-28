@@ -2,13 +2,14 @@
   "id": 186271051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.893234,-31.429144,152.893234,-31.429144",
     "geom:latitude":-31.429144,
     "geom:longitude":152.893234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Settlement City 1 Bay St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186271051,
-    "wof:lastmodified":1449051776,
+    "wof:lastmodified":1466187557,
     "wof:name":"Port Macquarie RSL Bridge Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bridge"
     ]
 },
-  "bbox": [152.893234,-31.429144,152.893234,-31.429144],
-  "geometry": {"coordinates":[152.893234,-31.429144],"type":"Point"}
+  "bbox": [
+    152.893234,
+    -31.429144,
+    152.893234,
+    -31.429144
+],
+  "geometry": {"coordinates":[152.89323400000001,-31.429144],"type":"Point"}
 }

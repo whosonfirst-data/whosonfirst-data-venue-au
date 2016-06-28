@@ -2,13 +2,14 @@
   "id": 186403611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.824554,-19.266991,146.824554,-19.266991",
     "geom:latitude":-19.266991,
     "geom:longitude":146.824554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Tully St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186403611,
-    "wof:lastmodified":1449052643,
+    "wof:lastmodified":1466189366,
     "wof:name":"Woodfield D. E. Engineering",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [146.824554,-19.266991,146.824554,-19.266991],
-  "geometry": {"coordinates":[146.824554,-19.266991],"type":"Point"}
+  "bbox": [
+    146.824554,
+    -19.266991,
+    146.824554,
+    -19.266991
+],
+  "geometry": {"coordinates":[146.82455400000001,-19.266991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202722881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.041595,-27.358088,153.041595,-27.358088",
     "geom:latitude":-27.358088,
     "geom:longitude":153.041595,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 37 Rowell St",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202722881,
-    "wof:lastmodified":1449060995,
+    "wof:lastmodified":1466189264,
     "wof:name":"Herbalife Zillmere",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [153.041595,-27.358088,153.041595,-27.358088],
+  "bbox": [
+    153.041595,
+    -27.358088,
+    153.041595,
+    -27.358088
+],
   "geometry": {"coordinates":[153.041595,-27.358088],"type":"Point"}
 }

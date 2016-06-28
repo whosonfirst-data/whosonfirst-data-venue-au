@@ -2,13 +2,14 @@
   "id": 203338383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.857895,-37.546417,143.857895,-37.546417",
     "geom:latitude":-37.546417,
     "geom:longitude":143.857895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Howard St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203338383,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466188475,
     "wof:name":"Millers Arms Hotel",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.857895,-37.546417,143.857895,-37.546417],
-  "geometry": {"coordinates":[143.857895,-37.546417],"type":"Point"}
+  "bbox": [
+    143.857895,
+    -37.546417,
+    143.857895,
+    -37.546417
+],
+  "geometry": {"coordinates":[143.85789500000001,-37.546417],"type":"Point"}
 }

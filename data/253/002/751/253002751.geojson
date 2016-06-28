@@ -2,13 +2,14 @@
   "id": 253002751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.703369,-37.868717,144.703369,-37.868717",
     "geom:latitude":-37.868717,
     "geom:longitude":144.703369,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Morris Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253002751,
-    "wof:lastmodified":1449065230,
+    "wof:lastmodified":1466186959,
     "wof:name":"Easy Shop Food",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.703369,-37.868717,144.703369,-37.868717],
-  "geometry": {"coordinates":[144.703369,-37.868717],"type":"Point"}
+  "bbox": [
+    144.703369,
+    -37.868717,
+    144.703369,
+    -37.868717
+],
+  "geometry": {"coordinates":[144.70336900000001,-37.868717],"type":"Point"}
 }

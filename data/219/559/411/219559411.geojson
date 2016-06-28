@@ -2,13 +2,14 @@
   "id": 219559411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.943176,-33.85738,150.943176,-33.85738",
     "geom:latitude":-33.85738,
     "geom:longitude":150.943176,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Stimson Crs",
     "sg:city":"Bankstown Airport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219559411,
-    "wof:lastmodified":1449073157,
+    "wof:lastmodified":1466190238,
     "wof:name":"Jackson Air Components",
     "wof:parent_id":85770241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [150.943176,-33.85738,150.943176,-33.85738],
-  "geometry": {"coordinates":[150.943176,-33.85738],"type":"Point"}
+  "bbox": [
+    150.943176,
+    -33.85738,
+    150.943176,
+    -33.85738
+],
+  "geometry": {"coordinates":[150.94317599999999,-33.85738],"type":"Point"}
 }

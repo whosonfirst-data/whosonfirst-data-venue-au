@@ -2,13 +2,14 @@
   "id": 202713223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051453,-27.36438,153.051453,-27.36438",
     "geom:latitude":-27.36438,
     "geom:longitude":153.051453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Delta St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202713223,
-    "wof:lastmodified":1449062411,
+    "wof:lastmodified":1466189086,
     "wof:name":"Laser Earthmoving",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.051453,-27.36438,153.051453,-27.36438],
-  "geometry": {"coordinates":[153.051453,-27.36438],"type":"Point"}
+  "bbox": [
+    153.051453,
+    -27.36438,
+    153.051453,
+    -27.36438
+],
+  "geometry": {"coordinates":[153.05145300000001,-27.36438],"type":"Point"}
 }

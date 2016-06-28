@@ -2,13 +2,14 @@
   "id": 252865733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.583267,-37.683067,144.583267,-37.683067",
     "geom:latitude":-37.683067,
     "geom:longitude":144.583267,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"318- 320 High St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252865733,
-    "wof:lastmodified":1449006235,
+    "wof:lastmodified":1466188682,
     "wof:name":"La Headquarters Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.583267,-37.683067,144.583267,-37.683067],
-  "geometry": {"coordinates":[144.583267,-37.683067],"type":"Point"}
+  "bbox": [
+    144.583267,
+    -37.683067,
+    144.583267,
+    -37.683067
+],
+  "geometry": {"coordinates":[144.58326700000001,-37.683067],"type":"Point"}
 }

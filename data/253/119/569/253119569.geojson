@@ -2,13 +2,14 @@
   "id": 253119569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.830154,-37.806858,144.830154,-37.806858",
     "geom:latitude":-37.806858,
     "geom:longitude":144.830154,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Somerville & Fairbairn Rds",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253119569,
-    "wof:lastmodified":1449064947,
+    "wof:lastmodified":1466189135,
     "wof:name":"Multispares Limited",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [144.830154,-37.806858,144.830154,-37.806858],
-  "geometry": {"coordinates":[144.830154,-37.806858],"type":"Point"}
+  "bbox": [
+    144.830154,
+    -37.806858,
+    144.830154,
+    -37.806858
+],
+  "geometry": {"coordinates":[144.83015399999999,-37.806858],"type":"Point"}
 }

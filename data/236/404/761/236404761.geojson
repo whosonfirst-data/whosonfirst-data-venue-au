@@ -2,13 +2,14 @@
   "id": 236404761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.774162,-32.249897,115.774162,-32.249897",
     "geom:latitude":-32.249897,
     "geom:longitude":115.774162,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Office Rd",
     "sg:city":"Kwinana",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236404761,
-    "wof:lastmodified":1449003923,
+    "wof:lastmodified":1466191198,
     "wof:name":"Australian Portable Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "commercial"
     ]
 },
-  "bbox": [115.774162,-32.249897,115.774162,-32.249897],
+  "bbox": [
+    115.774162,
+    -32.249897,
+    115.774162,
+    -32.249897
+],
   "geometry": {"coordinates":[115.774162,-32.249897],"type":"Point"}
 }

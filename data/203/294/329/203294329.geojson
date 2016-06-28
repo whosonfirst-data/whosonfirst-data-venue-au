@@ -2,13 +2,14 @@
   "id": 203294329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.146774,-33.088226,147.146774,-33.088226",
     "geom:latitude":-33.088226,
     "geom:longitude":147.146774,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Bathurst St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203294329,
-    "wof:lastmodified":1449026317,
+    "wof:lastmodified":1466187904,
     "wof:name":"Royal Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [147.146774,-33.088226,147.146774,-33.088226],
-  "geometry": {"coordinates":[147.146774,-33.088226],"type":"Point"}
+  "bbox": [
+    147.146774,
+    -33.088226,
+    147.146774,
+    -33.088226
+],
+  "geometry": {"coordinates":[147.14677399999999,-33.088226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219499111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.051315,-33.896141,151.051315,-33.896141",
     "geom:latitude":-33.896141,
     "geom:longitude":151.051315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Hume Hwy",
     "sg:city":"Chullora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219499111,
-    "wof:lastmodified":1449071066,
+    "wof:lastmodified":1466189492,
     "wof:name":"Theos Liquor",
     "wof:parent_id":85769039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.051315,-33.896141,151.051315,-33.896141],
-  "geometry": {"coordinates":[151.051315,-33.896141],"type":"Point"}
+  "bbox": [
+    151.051315,
+    -33.896141,
+    151.051315,
+    -33.896141
+],
+  "geometry": {"coordinates":[151.05131499999999,-33.896141],"type":"Point"}
 }

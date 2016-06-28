@@ -2,13 +2,14 @@
   "id": 220016353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.588638,-35.032555,138.588638,-35.032555",
     "geom:latitude":-35.032555,
     "geom:longitude":138.588638,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Eve Rd",
     "sg:city":"Bellevue Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220016353,
-    "wof:lastmodified":1449074180,
+    "wof:lastmodified":1466187068,
     "wof:name":"Resthaven",
     "wof:parent_id":85774993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [138.588638,-35.032555,138.588638,-35.032555],
+  "bbox": [
+    138.588638,
+    -35.032555,
+    138.588638,
+    -35.032555
+],
   "geometry": {"coordinates":[138.588638,-35.032555],"type":"Point"}
 }

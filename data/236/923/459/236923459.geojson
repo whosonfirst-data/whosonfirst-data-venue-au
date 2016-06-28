@@ -2,13 +2,14 @@
   "id": 236923459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.519684,-34.974636,138.519684,-34.974636",
     "geom:latitude":-34.974636,
     "geom:longitude":138.519684,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Pasquin St",
     "sg:city":"Glenelg North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236923459,
-    "wof:lastmodified":1449005112,
+    "wof:lastmodified":1466192124,
     "wof:name":"RMS Travel Cars",
     "wof:parent_id":85779625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "campervans"
     ]
 },
-  "bbox": [138.519684,-34.974636,138.519684,-34.974636],
-  "geometry": {"coordinates":[138.519684,-34.974636],"type":"Point"}
+  "bbox": [
+    138.519684,
+    -34.974636,
+    138.519684,
+    -34.974636
+],
+  "geometry": {"coordinates":[138.51968400000001,-34.974636],"type":"Point"}
 }

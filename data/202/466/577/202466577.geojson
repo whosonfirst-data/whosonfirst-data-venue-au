@@ -2,13 +2,14 @@
   "id": 202466577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.967422,-37.821236,144.967422,-37.821236",
     "geom:latitude":-37.821236,
     "geom:longitude":144.967422,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 City Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202466577,
-    "wof:lastmodified":1449060875,
+    "wof:lastmodified":1466189002,
     "wof:name":"Circus Oz",
     "wof:parent_id":85782343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [144.967422,-37.821236,144.967422,-37.821236],
+  "bbox": [
+    144.967422,
+    -37.821236,
+    144.967422,
+    -37.821236
+],
   "geometry": {"coordinates":[144.967422,-37.821236],"type":"Point"}
 }

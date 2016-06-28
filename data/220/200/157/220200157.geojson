@@ -2,13 +2,14 @@
   "id": 220200157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.550858,-38.18,144.550858,-38.18",
     "geom:latitude":-38.18,
     "geom:longitude":144.550858,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"276- 290 Jetty Rd",
     "sg:city":"Drysdale",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220200157,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466189397,
     "wof:name":"Drysdale Family Support Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counselling"
     ]
 },
-  "bbox": [144.550858,-38.18,144.550858,-38.18],
-  "geometry": {"coordinates":[144.550858,-38.18],"type":"Point"}
+  "bbox": [
+    144.550858,
+    -38.18,
+    144.550858,
+    -38.18
+],
+  "geometry": {"coordinates":[144.55085800000001,-38.18],"type":"Point"}
 }

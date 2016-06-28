@@ -2,13 +2,14 @@
   "id": 203342077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.863831,-37.574223,143.863831,-37.574223",
     "geom:latitude":-37.574223,
     "geom:longitude":143.863831,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bradshaw St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203342077,
-    "wof:lastmodified":1449026738,
+    "wof:lastmodified":1466188536,
     "wof:name":"Sovereign Hill",
     "wof:parent_id":85780769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "attractions"
     ]
 },
-  "bbox": [143.863831,-37.574223,143.863831,-37.574223],
+  "bbox": [
+    143.863831,
+    -37.574223,
+    143.863831,
+    -37.574223
+],
   "geometry": {"coordinates":[143.863831,-37.574223],"type":"Point"}
 }

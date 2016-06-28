@@ -2,13 +2,14 @@
   "id": 202871225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.607346,-25.614601,151.607346,-25.614601",
     "geom:latitude":-25.614601,
     "geom:longitude":151.607346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Juliet St",
     "sg:city":"Gayndah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202871225,
-    "wof:lastmodified":1449060938,
+    "wof:lastmodified":1466190562,
     "wof:name":"Gayndah Welding Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [151.607346,-25.614601,151.607346,-25.614601],
-  "geometry": {"coordinates":[151.607346,-25.614601],"type":"Point"}
+  "bbox": [
+    151.607346,
+    -25.614601,
+    151.607346,
+    -25.614601
+],
+  "geometry": {"coordinates":[151.60734600000001,-25.614601],"type":"Point"}
 }

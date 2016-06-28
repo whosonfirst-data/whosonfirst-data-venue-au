@@ -2,13 +2,14 @@
   "id": 186400141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.810181,-19.266396,146.810181,-19.266396",
     "geom:latitude":-19.266396,
     "geom:longitude":146.810181,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Flinders St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186400141,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466189309,
     "wof:name":"Mad Cow Tavern",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "discotheque"
     ]
 },
-  "bbox": [146.810181,-19.266396,146.810181,-19.266396],
+  "bbox": [
+    146.810181,
+    -19.266396,
+    146.810181,
+    -19.266396
+],
   "geometry": {"coordinates":[146.810181,-19.266396],"type":"Point"}
 }

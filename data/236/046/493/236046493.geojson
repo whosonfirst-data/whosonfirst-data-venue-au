@@ -2,13 +2,14 @@
   "id": 236046493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.92627,-37.760159,144.92627,-37.760159",
     "geom:latitude":-37.760159,
     "geom:longitude":144.92627,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Pascoe Vale Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236046493,
-    "wof:lastmodified":1449003492,
+    "wof:lastmodified":1466187543,
     "wof:name":"The Lazy Daisy Cafe & Bakery",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.92627,-37.760159,144.92627,-37.760159],
-  "geometry": {"coordinates":[144.92627,-37.760159],"type":"Point"}
+  "bbox": [
+    144.92627,
+    -37.760159,
+    144.92627,
+    -37.760159
+],
+  "geometry": {"coordinates":[144.92626999999999,-37.760159],"type":"Point"}
 }

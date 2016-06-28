@@ -2,13 +2,14 @@
   "id": 202507621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.163666,-38.106796,145.163666,-38.106796",
     "geom:latitude":-38.106796,
     "geom:longitude":145.163666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Frankston Gardens Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202507621,
-    "wof:lastmodified":1449061423,
+    "wof:lastmodified":1466189633,
     "wof:name":"Peninsula Storage Units",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [145.163666,-38.106796,145.163666,-38.106796],
-  "geometry": {"coordinates":[145.163666,-38.106796],"type":"Point"}
+  "bbox": [
+    145.163666,
+    -38.106796,
+    145.163666,
+    -38.106796
+],
+  "geometry": {"coordinates":[145.16366600000001,-38.106796],"type":"Point"}
 }

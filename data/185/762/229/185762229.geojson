@@ -2,13 +2,14 @@
   "id": 185762229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.143723,-32.722008,152.143723,-32.722008",
     "geom:latitude":-32.722008,
     "geom:longitude":152.143723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6/ 49 Donald St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185762229,
-    "wof:lastmodified":1449007739,
+    "wof:lastmodified":1466189672,
     "wof:name":"Cecilia Folkes Building Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [152.143723,-32.722008,152.143723,-32.722008],
-  "geometry": {"coordinates":[152.143723,-32.722008],"type":"Point"}
+  "bbox": [
+    152.143723,
+    -32.722008,
+    152.143723,
+    -32.722008
+],
+  "geometry": {"coordinates":[152.14372299999999,-32.722008],"type":"Point"}
 }

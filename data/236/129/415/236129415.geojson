@@ -2,13 +2,14 @@
   "id": 236129415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.864349,-37.737251,144.864349,-37.737251",
     "geom:latitude":-37.737251,
     "geom:longitude":144.864349,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, Lvl 1, Cnr Milleara Rd & Amis Crs",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236129415,
-    "wof:lastmodified":1449004484,
+    "wof:lastmodified":1466189234,
     "wof:name":"New Century Home Loans",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.864349,-37.737251,144.864349,-37.737251],
+  "bbox": [
+    144.864349,
+    -37.737251,
+    144.864349,
+    -37.737251
+],
   "geometry": {"coordinates":[144.864349,-37.737251],"type":"Point"}
 }

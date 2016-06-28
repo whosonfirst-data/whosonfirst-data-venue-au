@@ -2,13 +2,14 @@
   "id": 220100997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.462234,-38.185707,144.462234,-38.185707",
     "geom:latitude":-38.185707,
     "geom:longitude":144.462234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Vicarage St",
     "sg:city":"Leopold",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220100997,
-    "wof:lastmodified":1449074642,
+    "wof:lastmodified":1466187969,
     "wof:name":"Onsite Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [144.462234,-38.185707,144.462234,-38.185707],
+  "bbox": [
+    144.462234,
+    -38.185707,
+    144.462234,
+    -38.185707
+],
   "geometry": {"coordinates":[144.462234,-38.185707],"type":"Point"}
 }

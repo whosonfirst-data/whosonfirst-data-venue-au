@@ -2,13 +2,14 @@
   "id": 185765803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.145111,-32.721561,152.145111,-32.721561",
     "geom:latitude":-32.721561,
     "geom:longitude":152.145111,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 67 Magnus St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185765803,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466189703,
     "wof:name":"Crest Financial Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [152.145111,-32.721561,152.145111,-32.721561],
-  "geometry": {"coordinates":[152.145111,-32.721561],"type":"Point"}
+  "bbox": [
+    152.145111,
+    -32.721561,
+    152.145111,
+    -32.721561
+],
+  "geometry": {"coordinates":[152.14511100000001,-32.721561],"type":"Point"}
 }

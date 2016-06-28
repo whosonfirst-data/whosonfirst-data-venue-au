@@ -2,13 +2,14 @@
   "id": 219771487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178162,-33.909603,151.178162,-33.909603",
     "geom:latitude":-33.909603,
     "geom:longitude":151.178162,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 May St St",
     "sg:city":"Peters",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219771487,
-    "wof:lastmodified":1449072292,
+    "wof:lastmodified":1466191391,
     "wof:name":"Cotish Pty Ltd",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [151.178162,-33.909603,151.178162,-33.909603],
-  "geometry": {"coordinates":[151.178162,-33.909603],"type":"Point"}
+  "bbox": [
+    151.178162,
+    -33.909603,
+    151.178162,
+    -33.909603
+],
+  "geometry": {"coordinates":[151.17816199999999,-33.909603],"type":"Point"}
 }

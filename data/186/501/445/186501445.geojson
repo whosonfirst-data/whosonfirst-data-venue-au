@@ -2,13 +2,14 @@
   "id": 186501445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.742432,-19.27265,146.742432,-19.27265",
     "geom:latitude":-19.27265,
     "geom:longitude":146.742432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Glasgow St",
     "sg:city":"Mt Louisa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186501445,
-    "wof:lastmodified":1449053050,
+    "wof:lastmodified":1466190526,
     "wof:name":"Acoustic Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [146.742432,-19.27265,146.742432,-19.27265],
-  "geometry": {"coordinates":[146.742432,-19.27265],"type":"Point"}
+  "bbox": [
+    146.742432,
+    -19.27265,
+    146.742432,
+    -19.27265
+],
+  "geometry": {"coordinates":[146.74243200000001,-19.27265],"type":"Point"}
 }

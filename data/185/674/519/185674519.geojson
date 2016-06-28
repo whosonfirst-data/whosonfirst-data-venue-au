@@ -2,13 +2,14 @@
   "id": 185674519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752747,-32.031269,115.752747,-32.031269",
     "geom:latitude":-32.031269,
     "geom:longitude":115.752747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Stirling Hwy",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185674519,
-    "wof:lastmodified":1449007807,
+    "wof:lastmodified":1466188671,
     "wof:name":"West Coast Sails",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maker"
     ]
 },
-  "bbox": [115.752747,-32.031269,115.752747,-32.031269],
+  "bbox": [
+    115.752747,
+    -32.031269,
+    115.752747,
+    -32.031269
+],
   "geometry": {"coordinates":[115.752747,-32.031269],"type":"Point"}
 }

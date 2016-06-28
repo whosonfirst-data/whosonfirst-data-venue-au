@@ -2,13 +2,14 @@
   "id": 236091107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.741043,-37.872898,144.741043,-37.872898",
     "geom:latitude":-37.872898,
     "geom:longitude":144.741043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fact 2, 10 Wallace Ave",
     "sg:city":"Point Cook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236091107,
-    "wof:lastmodified":1449001921,
+    "wof:lastmodified":1466188446,
     "wof:name":"Advanced Trimming",
     "wof:parent_id":85780023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yacht"
     ]
 },
-  "bbox": [144.741043,-37.872898,144.741043,-37.872898],
-  "geometry": {"coordinates":[144.741043,-37.872898],"type":"Point"}
+  "bbox": [
+    144.741043,
+    -37.872898,
+    144.741043,
+    -37.872898
+],
+  "geometry": {"coordinates":[144.74104299999999,-37.872898],"type":"Point"}
 }

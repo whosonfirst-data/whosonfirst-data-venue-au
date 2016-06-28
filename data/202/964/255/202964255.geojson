@@ -2,13 +2,14 @@
   "id": 202964255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.089783,-30.345276,153.089783,-30.345276",
     "geom:latitude":-30.345276,
     "geom:longitude":153.089783,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Hi Tech Drv",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202964255,
-    "wof:lastmodified":1449062024,
+    "wof:lastmodified":1466191057,
     "wof:name":"Novocastrian Scaffolding",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [153.089783,-30.345276,153.089783,-30.345276],
-  "geometry": {"coordinates":[153.089783,-30.345276],"type":"Point"}
+  "bbox": [
+    153.089783,
+    -30.345276,
+    153.089783,
+    -30.345276
+],
+  "geometry": {"coordinates":[153.08978300000001,-30.345276],"type":"Point"}
 }

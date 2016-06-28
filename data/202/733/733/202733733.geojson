@@ -2,13 +2,14 @@
   "id": 202733733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.647293,-34.779949,138.647293,-34.779949",
     "geom:latitude":-34.779949,
     "geom:longitude":138.647293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cheviot Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202733733,
-    "wof:lastmodified":1449060456,
+    "wof:lastmodified":1466189472,
     "wof:name":"Ezy-Fit Hydraulics",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [138.647293,-34.779949,138.647293,-34.779949],
-  "geometry": {"coordinates":[138.647293,-34.779949],"type":"Point"}
+  "bbox": [
+    138.647293,
+    -34.779949,
+    138.647293,
+    -34.779949
+],
+  "geometry": {"coordinates":[138.64729299999999,-34.779949],"type":"Point"}
 }

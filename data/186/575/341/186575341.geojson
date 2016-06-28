@@ -2,13 +2,14 @@
   "id": 186575341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.839386,-31.497921,145.839386,-31.497921",
     "geom:latitude":-31.497921,
     "geom:longitude":145.839386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Marshall St",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186575341,
-    "wof:lastmodified":1449051153,
+    "wof:lastmodified":1466190949,
     "wof:name":"Ryec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [145.839386,-31.497921,145.839386,-31.497921],
-  "geometry": {"coordinates":[145.839386,-31.497921],"type":"Point"}
+  "bbox": [
+    145.839386,
+    -31.497921,
+    145.839386,
+    -31.497921
+],
+  "geometry": {"coordinates":[145.83938599999999,-31.497921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220137313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.334045,-38.152035,144.334045,-38.152035",
     "geom:latitude":-38.152035,
     "geom:longitude":144.334045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Shannon Ave",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220137313,
-    "wof:lastmodified":1449074764,
+    "wof:lastmodified":1466188335,
     "wof:name":"Chesterfield Supported Residential Service",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [144.334045,-38.152035,144.334045,-38.152035],
+  "bbox": [
+    144.334045,
+    -38.152035,
+    144.334045,
+    -38.152035
+],
   "geometry": {"coordinates":[144.334045,-38.152035],"type":"Point"}
 }

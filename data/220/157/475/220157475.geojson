@@ -2,13 +2,14 @@
   "id": 220157475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355453,-38.162151,144.355453,-38.162151",
     "geom:latitude":-38.162151,
     "geom:longitude":144.355453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220157475,
-    "wof:lastmodified":1449074761,
+    "wof:lastmodified":1466188742,
     "wof:name":"Australian Manufacturing Workers' Union",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [144.355453,-38.162151,144.355453,-38.162151],
-  "geometry": {"coordinates":[144.355453,-38.162151],"type":"Point"}
+  "bbox": [
+    144.355453,
+    -38.162151,
+    144.355453,
+    -38.162151
+],
+  "geometry": {"coordinates":[144.35545300000001,-38.162151],"type":"Point"}
 }

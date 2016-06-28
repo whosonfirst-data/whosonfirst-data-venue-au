@@ -2,13 +2,14 @@
   "id": 253008473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.731705,-37.868931,144.731705,-37.868931",
     "geom:latitude":-37.868931,
     "geom:longitude":144.731705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253008473,
-    "wof:lastmodified":1449063749,
+    "wof:lastmodified":1466187073,
     "wof:name":"Werribee Office Furniture",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [144.731705,-37.868931,144.731705,-37.868931],
-  "geometry": {"coordinates":[144.731705,-37.868931],"type":"Point"}
+  "bbox": [
+    144.731705,
+    -37.868931,
+    144.731705,
+    -37.868931
+],
+  "geometry": {"coordinates":[144.73170500000001,-37.868931],"type":"Point"}
 }

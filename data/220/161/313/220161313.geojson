@@ -2,13 +2,14 @@
   "id": 220161313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.361588,-38.145794,144.361588,-38.145794",
     "geom:latitude":-38.145794,
     "geom:longitude":144.361588,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40- 42 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220161313,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466188819,
     "wof:name":"Home House",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "discotheque"
     ]
 },
-  "bbox": [144.361588,-38.145794,144.361588,-38.145794],
-  "geometry": {"coordinates":[144.361588,-38.145794],"type":"Point"}
+  "bbox": [
+    144.361588,
+    -38.145794,
+    144.361588,
+    -38.145794
+],
+  "geometry": {"coordinates":[144.36158800000001,-38.145794],"type":"Point"}
 }

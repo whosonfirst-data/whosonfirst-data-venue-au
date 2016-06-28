@@ -2,13 +2,14 @@
   "id": 203376845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.864777,-37.563301,143.864777,-37.563301",
     "geom:latitude":-37.563301,
     "geom:longitude":143.864777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Main Rd",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203376845,
-    "wof:lastmodified":1449025562,
+    "wof:lastmodified":1466189143,
     "wof:name":"Evans H & Sons",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [143.864777,-37.563301,143.864777,-37.563301],
+  "bbox": [
+    143.864777,
+    -37.563301,
+    143.864777,
+    -37.563301
+],
   "geometry": {"coordinates":[143.864777,-37.563301],"type":"Point"}
 }

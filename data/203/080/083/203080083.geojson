@@ -2,13 +2,14 @@
   "id": 203080083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.249695,-41.323101,148.249695,-41.323101",
     "geom:latitude":-41.323101,
     "geom:longitude":148.249695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16a Cecilia St St",
     "sg:city":"Helens",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203080083,
-    "wof:lastmodified":1449026829,
+    "wof:lastmodified":1466188758,
     "wof:name":"Gooses Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [148.249695,-41.323101,148.249695,-41.323101],
+  "bbox": [
+    148.249695,
+    -41.323101,
+    148.249695,
+    -41.323101
+],
   "geometry": {"coordinates":[148.249695,-41.323101],"type":"Point"}
 }

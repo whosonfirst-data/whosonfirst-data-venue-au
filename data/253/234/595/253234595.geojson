@@ -2,13 +2,14 @@
   "id": 253234595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.863174,-27.540062,151.863174,-27.540062",
     "geom:latitude":-27.540062,
     "geom:longitude":151.863174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"MS 1436 Carrington Rd",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253234595,
-    "wof:lastmodified":1449065638,
+    "wof:lastmodified":1466190306,
     "wof:name":"Hayes Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "radio"
     ]
 },
-  "bbox": [151.863174,-27.540062,151.863174,-27.540062],
-  "geometry": {"coordinates":[151.863174,-27.540062],"type":"Point"}
+  "bbox": [
+    151.863174,
+    -27.540062,
+    151.863174,
+    -27.540062
+],
+  "geometry": {"coordinates":[151.86317399999999,-27.540062],"type":"Point"}
 }

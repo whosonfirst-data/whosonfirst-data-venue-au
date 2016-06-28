@@ -2,13 +2,14 @@
   "id": 236486643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.159348,-21.184355,149.159348,-21.184355",
     "geom:latitude":-21.184355,
     "geom:longitude":149.159348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Enterprise St",
     "sg:city":"Paget",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236486643,
-    "wof:lastmodified":1449003504,
+    "wof:lastmodified":1466191406,
     "wof:name":"Atlas Copco Construction & Mining Australia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [149.159348,-21.184355,149.159348,-21.184355],
-  "geometry": {"coordinates":[149.159348,-21.184355],"type":"Point"}
+  "bbox": [
+    149.159348,
+    -21.184355,
+    149.159348,
+    -21.184355
+],
+  "geometry": {"coordinates":[149.15934799999999,-21.184355],"type":"Point"}
 }

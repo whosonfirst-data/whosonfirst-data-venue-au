@@ -2,13 +2,14 @@
   "id": 203302975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.826202,-37.542549,143.826202,-37.542549",
     "geom:latitude":-37.542549,
     "geom:longitude":143.826202,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11/ 1st Floor, The Arches, St Cedars Gr",
     "sg:city":"Lake Gardens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203302975,
-    "wof:lastmodified":1449025554,
+    "wof:lastmodified":1466187984,
     "wof:name":"Techno Tan",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [143.826202,-37.542549,143.826202,-37.542549],
-  "geometry": {"coordinates":[143.826202,-37.542549],"type":"Point"}
+  "bbox": [
+    143.826202,
+    -37.542549,
+    143.826202,
+    -37.542549
+],
+  "geometry": {"coordinates":[143.82620199999999,-37.542549],"type":"Point"}
 }

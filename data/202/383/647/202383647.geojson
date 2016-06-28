@@ -2,13 +2,14 @@
   "id": 202383647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.73024,-34.595623,138.73024,-34.595623",
     "geom:latitude":-34.595623,
     "geom:longitude":138.73024,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Andrew Crt",
     "sg:city":"Gawler West",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202383647,
-    "wof:lastmodified":1449061189,
+    "wof:lastmodified":1466187205,
     "wof:name":"Prosys Australia",
     "wof:parent_id":85780765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [138.73024,-34.595623,138.73024,-34.595623],
-  "geometry": {"coordinates":[138.73024,-34.595623],"type":"Point"}
+  "bbox": [
+    138.73024,
+    -34.595623,
+    138.73024,
+    -34.595623
+],
+  "geometry": {"coordinates":[138.73024000000001,-34.595623],"type":"Point"}
 }

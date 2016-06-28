@@ -2,13 +2,14 @@
   "id": 203289105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.170731,-33.144444,148.170731,-33.144444",
     "geom:latitude":-33.144444,
     "geom:longitude":148.170731,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Forbes Rd",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203289105,
-    "wof:lastmodified":1449026534,
+    "wof:lastmodified":1466187865,
     "wof:name":"Parkes Plumbing & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [148.170731,-33.144444,148.170731,-33.144444],
-  "geometry": {"coordinates":[148.170731,-33.144444],"type":"Point"}
+  "bbox": [
+    148.170731,
+    -33.144444,
+    148.170731,
+    -33.144444
+],
+  "geometry": {"coordinates":[148.17073099999999,-33.144444],"type":"Point"}
 }

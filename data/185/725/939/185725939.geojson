@@ -2,13 +2,14 @@
   "id": 185725939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.040115,-32.736504,152.040115,-32.736504",
     "geom:latitude":-32.736504,
     "geom:longitude":152.040115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 John Pde",
     "sg:city":"Lemon Tree Passage",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185725939,
-    "wof:lastmodified":1449007003,
+    "wof:lastmodified":1466189374,
     "wof:name":"XL Oysters Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "farmer"
     ]
 },
-  "bbox": [152.040115,-32.736504,152.040115,-32.736504],
-  "geometry": {"coordinates":[152.040115,-32.736504],"type":"Point"}
+  "bbox": [
+    152.040115,
+    -32.736504,
+    152.040115,
+    -32.736504
+],
+  "geometry": {"coordinates":[152.04011499999999,-32.736504],"type":"Point"}
 }

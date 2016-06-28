@@ -2,13 +2,14 @@
   "id": 236162297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.878098,-34.728241,135.878098,-34.728241",
     "geom:latitude":-34.728241,
     "geom:longitude":135.878098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Wavell Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236162297,
-    "wof:lastmodified":1449004669,
+    "wof:lastmodified":1466189611,
     "wof:name":"Westside Eyre Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [135.878098,-34.728241,135.878098,-34.728241],
-  "geometry": {"coordinates":[135.878098,-34.728241],"type":"Point"}
+  "bbox": [
+    135.878098,
+    -34.728241,
+    135.878098,
+    -34.728241
+],
+  "geometry": {"coordinates":[135.87809799999999,-34.728241],"type":"Point"}
 }

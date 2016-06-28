@@ -2,13 +2,14 @@
   "id": 220122139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.425354,-38.164833,144.425354,-38.164833",
     "geom:latitude":-38.164833,
     "geom:longitude":144.425354,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Pt Henry Rd",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220122139,
-    "wof:lastmodified":1449074507,
+    "wof:lastmodified":1466188176,
     "wof:name":"Black's Demolition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "relocatable"
     ]
 },
-  "bbox": [144.425354,-38.164833,144.425354,-38.164833],
+  "bbox": [
+    144.425354,
+    -38.164833,
+    144.425354,
+    -38.164833
+],
   "geometry": {"coordinates":[144.425354,-38.164833],"type":"Point"}
 }

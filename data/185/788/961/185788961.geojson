@@ -2,13 +2,14 @@
   "id": 185788961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.380203,-37.727245,145.380203,-37.727245",
     "geom:latitude":-37.727245,
     "geom:longitude":145.380203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wheeler St",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185788961,
-    "wof:lastmodified":1449007459,
+    "wof:lastmodified":1466189844,
     "wof:name":"The NRG Team - Stockgain",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stock"
     ]
 },
-  "bbox": [145.380203,-37.727245,145.380203,-37.727245],
-  "geometry": {"coordinates":[145.380203,-37.727245],"type":"Point"}
+  "bbox": [
+    145.380203,
+    -37.727245,
+    145.380203,
+    -37.727245
+],
+  "geometry": {"coordinates":[145.38020299999999,-37.727245],"type":"Point"}
 }

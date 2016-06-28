@@ -2,13 +2,14 @@
   "id": 219959101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.767319,-37.824245,140.767319,-37.824245",
     "geom:latitude":-37.824245,
     "geom:longitude":140.767319,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Commercial St West",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219959101,
-    "wof:lastmodified":1449073566,
+    "wof:lastmodified":1466191762,
     "wof:name":"The Ice Man Ice Supplier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [140.767319,-37.824245,140.767319,-37.824245],
-  "geometry": {"coordinates":[140.767319,-37.824245],"type":"Point"}
+  "bbox": [
+    140.767319,
+    -37.824245,
+    140.767319,
+    -37.824245
+],
+  "geometry": {"coordinates":[140.76731899999999,-37.824245],"type":"Point"}
 }

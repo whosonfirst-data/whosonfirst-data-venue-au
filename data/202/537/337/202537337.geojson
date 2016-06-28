@@ -2,13 +2,14 @@
   "id": 202537337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.153214,-38.124695,145.153214,-38.124695",
     "geom:latitude":-38.124695,
     "geom:longitude":145.153214,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Longleaf St",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202537337,
-    "wof:lastmodified":1449060742,
+    "wof:lastmodified":1466189864,
     "wof:name":"Abracadabra Tricks",
     "wof:parent_id":85776451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [145.153214,-38.124695,145.153214,-38.124695],
-  "geometry": {"coordinates":[145.153214,-38.124695],"type":"Point"}
+  "bbox": [
+    145.153214,
+    -38.124695,
+    145.153214,
+    -38.124695
+],
+  "geometry": {"coordinates":[145.15321399999999,-38.124695],"type":"Point"}
 }

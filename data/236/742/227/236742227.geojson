@@ -2,13 +2,14 @@
   "id": 236742227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.955124,-26.847485,152.955124,-26.847485",
     "geom:latitude":-26.847485,
     "geom:longitude":152.955124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Newells Rd",
     "sg:city":"Beerwah",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236742227,
-    "wof:lastmodified":1449001842,
+    "wof:lastmodified":1466191883,
     "wof:name":"Trike Adventure Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "adventure"
     ]
 },
-  "bbox": [152.955124,-26.847485,152.955124,-26.847485],
-  "geometry": {"coordinates":[152.955124,-26.847485],"type":"Point"}
+  "bbox": [
+    152.955124,
+    -26.847485,
+    152.955124,
+    -26.847485
+],
+  "geometry": {"coordinates":[152.95512400000001,-26.847485],"type":"Point"}
 }

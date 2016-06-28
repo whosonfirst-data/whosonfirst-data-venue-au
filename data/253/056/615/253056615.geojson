@@ -2,13 +2,14 @@
   "id": 253056615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.748337,-37.747478,144.748337,-37.747478",
     "geom:latitude":-37.747478,
     "geom:longitude":144.748337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"277 - 281 Westwood Drv",
     "sg:city":"Burnside",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253056615,
-    "wof:lastmodified":1449063658,
+    "wof:lastmodified":1466188024,
     "wof:name":"ABC Burnside",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.748337,-37.747478,144.748337,-37.747478],
-  "geometry": {"coordinates":[144.748337,-37.747478],"type":"Point"}
+  "bbox": [
+    144.748337,
+    -37.747478,
+    144.748337,
+    -37.747478
+],
+  "geometry": {"coordinates":[144.74833699999999,-37.747478],"type":"Point"}
 }

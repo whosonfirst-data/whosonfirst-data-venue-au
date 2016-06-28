@@ -2,13 +2,14 @@
   "id": 220091611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.667725,-38.263584,144.667725,-38.263584",
     "geom:latitude":-38.263584,
     "geom:longitude":144.667725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Larkin Pde",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220091611,
-    "wof:lastmodified":1449074110,
+    "wof:lastmodified":1466187869,
     "wof:name":"Queenscliff Harbour Pty Ltd",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.667725,-38.263584,144.667725,-38.263584],
-  "geometry": {"coordinates":[144.667725,-38.263584],"type":"Point"}
+  "bbox": [
+    144.667725,
+    -38.263584,
+    144.667725,
+    -38.263584
+],
+  "geometry": {"coordinates":[144.66772499999999,-38.263584],"type":"Point"}
 }

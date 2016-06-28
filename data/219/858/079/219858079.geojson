@@ -2,13 +2,14 @@
   "id": 219858079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.192337,-33.8554,151.192337,-33.8554",
     "geom:latitude":-33.8554,
     "geom:longitude":151.192337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25/ 37 Nicholson St",
     "sg:city":"Balmain East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219858079,
-    "wof:lastmodified":1449070742,
+    "wof:lastmodified":1466191555,
     "wof:name":"Australia Debt Collect",
     "wof:parent_id":85776079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [151.192337,-33.8554,151.192337,-33.8554],
-  "geometry": {"coordinates":[151.192337,-33.8554],"type":"Point"}
+  "bbox": [
+    151.192337,
+    -33.8554,
+    151.192337,
+    -33.8554
+],
+  "geometry": {"coordinates":[151.19233700000001,-33.8554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236498691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.191391,-21.158274,149.191391,-21.158274",
     "geom:latitude":-21.158274,
     "geom:longitude":149.191391,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Kippen St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236498691,
-    "wof:lastmodified":1449004281,
+    "wof:lastmodified":1466191427,
     "wof:name":"Thorne Builders",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [149.191391,-21.158274,149.191391,-21.158274],
-  "geometry": {"coordinates":[149.191391,-21.158274],"type":"Point"}
+  "bbox": [
+    149.191391,
+    -21.158274,
+    149.191391,
+    -21.158274
+],
+  "geometry": {"coordinates":[149.19139100000001,-21.158274],"type":"Point"}
 }

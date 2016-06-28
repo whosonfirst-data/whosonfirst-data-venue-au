@@ -2,13 +2,14 @@
   "id": 185904709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.525009,-33.213169,151.525009,-33.213169",
     "geom:latitude":-33.213169,
     "geom:longitude":151.525009,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Richardson Rd",
     "sg:city":"San Remo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185904709,
-    "wof:lastmodified":1449008256,
+    "wof:lastmodified":1466188129,
     "wof:name":"All Coast Shedworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.525009,-33.213169,151.525009,-33.213169],
-  "geometry": {"coordinates":[151.525009,-33.213169],"type":"Point"}
+  "bbox": [
+    151.525009,
+    -33.213169,
+    151.525009,
+    -33.213169
+],
+  "geometry": {"coordinates":[151.52500900000001,-33.213169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253328033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.311005,-38.057209,145.311005,-38.057209",
     "geom:latitude":-38.057209,
     "geom:longitude":145.311005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sequoia Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253328033,
-    "wof:lastmodified":1449064551,
+    "wof:lastmodified":1466190872,
     "wof:name":"Easyway Excavators",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.311005,-38.057209,145.311005,-38.057209],
-  "geometry": {"coordinates":[145.311005,-38.057209],"type":"Point"}
+  "bbox": [
+    145.311005,
+    -38.057209,
+    145.311005,
+    -38.057209
+],
+  "geometry": {"coordinates":[145.31100499999999,-38.057209],"type":"Point"}
 }

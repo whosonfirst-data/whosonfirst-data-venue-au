@@ -2,13 +2,14 @@
   "id": 186463145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156967,-33.884277,151.156967,-33.884277",
     "geom:latitude":-33.884277,
     "geom:longitude":151.156967,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st FL 112 Norton St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186463145,
-    "wof:lastmodified":1449052233,
+    "wof:lastmodified":1466190258,
     "wof:name":"Sunlounge Tan Studios",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [151.156967,-33.884277,151.156967,-33.884277],
-  "geometry": {"coordinates":[151.156967,-33.884277],"type":"Point"}
+  "bbox": [
+    151.156967,
+    -33.884277,
+    151.156967,
+    -33.884277
+],
+  "geometry": {"coordinates":[151.15696700000001,-33.884277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219508795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.119492,-33.911758,151.119492,-33.911758",
     "geom:latitude":-33.911758,
     "geom:longitude":151.119492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Canterbury Rd",
     "sg:city":"Canterbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219508795,
-    "wof:lastmodified":1449072354,
+    "wof:lastmodified":1466189678,
     "wof:name":"Tony's at Canterbury",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.119492,-33.911758,151.119492,-33.911758],
-  "geometry": {"coordinates":[151.119492,-33.911758],"type":"Point"}
+  "bbox": [
+    151.119492,
+    -33.911758,
+    151.119492,
+    -33.911758
+],
+  "geometry": {"coordinates":[151.11949200000001,-33.911758],"type":"Point"}
 }

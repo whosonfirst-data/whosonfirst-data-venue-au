@@ -2,13 +2,14 @@
   "id": 220084561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.119324,-40.84491,145.119324,-40.84491",
     "geom:latitude":-40.84491,
     "geom:longitude":145.119324,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Havelock St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220084561,
-    "wof:lastmodified":1449074118,
+    "wof:lastmodified":1466187792,
     "wof:name":"O&#039;Halloran A J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [145.119324,-40.84491,145.119324,-40.84491],
-  "geometry": {"coordinates":[145.119324,-40.84491],"type":"Point"}
+  "bbox": [
+    145.119324,
+    -40.84491,
+    145.119324,
+    -40.84491
+],
+  "geometry": {"coordinates":[145.11932400000001,-40.84491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185654977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.797699,-32.044533,115.797699,-32.044533",
     "geom:latitude":-32.044533,
     "geom:longitude":115.797699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Marmion St",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185654977,
-    "wof:lastmodified":1449007144,
+    "wof:lastmodified":1466188325,
     "wof:name":"Skytrix Electrical Services",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.797699,-32.044533,115.797699,-32.044533],
-  "geometry": {"coordinates":[115.797699,-32.044533],"type":"Point"}
+  "bbox": [
+    115.797699,
+    -32.044533,
+    115.797699,
+    -32.044533
+],
+  "geometry": {"coordinates":[115.79769899999999,-32.044533],"type":"Point"}
 }

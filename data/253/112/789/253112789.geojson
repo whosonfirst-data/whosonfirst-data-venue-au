@@ -2,13 +2,14 @@
   "id": 253112789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.825226,-37.767452,144.825226,-37.767452",
     "geom:latitude":-37.767452,
     "geom:longitude":144.825226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Laurie Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253112789,
-    "wof:lastmodified":1449064179,
+    "wof:lastmodified":1466188997,
     "wof:name":"Branko Mobile Auto Repairs",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.825226,-37.767452,144.825226,-37.767452],
-  "geometry": {"coordinates":[144.825226,-37.767452],"type":"Point"}
+  "bbox": [
+    144.825226,
+    -37.767452,
+    144.825226,
+    -37.767452
+],
+  "geometry": {"coordinates":[144.82522599999999,-37.767452],"type":"Point"}
 }

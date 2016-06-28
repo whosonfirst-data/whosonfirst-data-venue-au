@@ -2,13 +2,14 @@
   "id": 219301577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.931732,-38.161018,145.931732,-38.161018",
     "geom:latitude":-38.161018,
     "geom:longitude":145.931732,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Smith St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219301577,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466187541,
     "wof:name":"Civic Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "library"
     ]
 },
-  "bbox": [145.931732,-38.161018,145.931732,-38.161018],
-  "geometry": {"coordinates":[145.931732,-38.161018],"type":"Point"}
+  "bbox": [
+    145.931732,
+    -38.161018,
+    145.931732,
+    -38.161018
+],
+  "geometry": {"coordinates":[145.93173200000001,-38.161018],"type":"Point"}
 }

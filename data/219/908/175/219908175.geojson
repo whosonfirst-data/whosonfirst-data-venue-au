@@ -2,13 +2,14 @@
   "id": 219908175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.92572,-34.304558,150.92572,-34.304558",
     "geom:latitude":-34.304558,
     "geom:longitude":150.92572,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Asquith St",
     "sg:city":"Austinmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219908175,
-    "wof:lastmodified":1449072381,
+    "wof:lastmodified":1466191816,
     "wof:name":"Juanita Studio Gallery",
     "wof:parent_id":85768721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.92572,-34.304558,150.92572,-34.304558],
-  "geometry": {"coordinates":[150.92572,-34.304558],"type":"Point"}
+  "bbox": [
+    150.92572,
+    -34.304558,
+    150.92572,
+    -34.304558
+],
+  "geometry": {"coordinates":[150.92572000000001,-34.304558],"type":"Point"}
 }

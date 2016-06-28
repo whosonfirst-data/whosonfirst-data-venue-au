@@ -2,13 +2,14 @@
   "id": 203346653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.865326,-37.564526,143.865326,-37.564526",
     "geom:latitude":-37.564526,
     "geom:longitude":143.865326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Humffray St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203346653,
-    "wof:lastmodified":1449024933,
+    "wof:lastmodified":1466188620,
     "wof:name":"The Smoke House Art Gallery",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.865326,-37.564526,143.865326,-37.564526],
-  "geometry": {"coordinates":[143.865326,-37.564526],"type":"Point"}
+  "bbox": [
+    143.865326,
+    -37.564526,
+    143.865326,
+    -37.564526
+],
+  "geometry": {"coordinates":[143.86532600000001,-37.564526],"type":"Point"}
 }

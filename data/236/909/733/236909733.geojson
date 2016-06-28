@@ -2,13 +2,14 @@
   "id": 236909733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.544373,-35.013592,138.544373,-35.013592",
     "geom:latitude":-35.013592,
     "geom:longitude":138.544373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Westfield Shoppingtown Marion Diagonal Rd",
     "sg:city":"Oaklands Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236909733,
-    "wof:lastmodified":1449004260,
+    "wof:lastmodified":1466192102,
     "wof:name":"National Pharmacies Optical",
     "wof:parent_id":85774985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.544373,-35.013592,138.544373,-35.013592],
-  "geometry": {"coordinates":[138.544373,-35.013592],"type":"Point"}
+  "bbox": [
+    138.544373,
+    -35.013592,
+    138.544373,
+    -35.013592
+],
+  "geometry": {"coordinates":[138.54437300000001,-35.013592],"type":"Point"}
 }

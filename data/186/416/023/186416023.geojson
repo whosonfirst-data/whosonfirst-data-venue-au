@@ -2,13 +2,14 @@
   "id": 186416023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.793045,-19.246895,146.793045,-19.246895",
     "geom:latitude":-19.246895,
     "geom:longitude":146.793045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Bundock St",
     "sg:city":"Belgian Gardens",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186416023,
-    "wof:lastmodified":1449051583,
+    "wof:lastmodified":1466189576,
     "wof:name":"Fred's Service Centre",
     "wof:parent_id":85779935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "truck"
     ]
 },
-  "bbox": [146.793045,-19.246895,146.793045,-19.246895],
-  "geometry": {"coordinates":[146.793045,-19.246895],"type":"Point"}
+  "bbox": [
+    146.793045,
+    -19.246895,
+    146.793045,
+    -19.246895
+],
+  "geometry": {"coordinates":[146.79304500000001,-19.246895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252750025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.631752,-33.416443,115.631752,-33.416443",
     "geom:latitude":-33.416443,
     "geom:longitude":115.631752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Ducane Rd",
     "sg:city":"Gelorup",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252750025,
-    "wof:lastmodified":1449006095,
+    "wof:lastmodified":1466187636,
     "wof:name":"Calendar & Diary Specialists Of W.A.",
     "wof:parent_id":85779607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diary"
     ]
 },
-  "bbox": [115.631752,-33.416443,115.631752,-33.416443],
-  "geometry": {"coordinates":[115.631752,-33.416443],"type":"Point"}
+  "bbox": [
+    115.631752,
+    -33.416443,
+    115.631752,
+    -33.416443
+],
+  "geometry": {"coordinates":[115.63175200000001,-33.416443],"type":"Point"}
 }

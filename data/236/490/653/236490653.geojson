@@ -2,13 +2,14 @@
   "id": 236490653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.180145,-21.14683,149.180145,-21.14683",
     "geom:latitude":-21.14683,
     "geom:longitude":149.180145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Shakespeare St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236490653,
-    "wof:lastmodified":1449004840,
+    "wof:lastmodified":1466191348,
     "wof:name":"Shakespeare International Hotel",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.180145,-21.14683,149.180145,-21.14683],
-  "geometry": {"coordinates":[149.180145,-21.14683],"type":"Point"}
+  "bbox": [
+    149.180145,
+    -21.14683,
+    149.180145,
+    -21.14683
+],
+  "geometry": {"coordinates":[149.18014500000001,-21.14683],"type":"Point"}
 }

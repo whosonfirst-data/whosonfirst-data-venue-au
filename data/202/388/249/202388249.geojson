@@ -2,13 +2,14 @@
   "id": 202388249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.747452,-34.568058,138.747452,-34.568058",
     "geom:latitude":-34.568058,
     "geom:longitude":138.747452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Bernard Crt",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202388249,
-    "wof:lastmodified":1449060189,
+    "wof:lastmodified":1466187323,
     "wof:name":"Burns Ceilings & Building Supplies Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [138.747452,-34.568058,138.747452,-34.568058],
-  "geometry": {"coordinates":[138.747452,-34.568058],"type":"Point"}
+  "bbox": [
+    138.747452,
+    -34.568058,
+    138.747452,
+    -34.568058
+],
+  "geometry": {"coordinates":[138.74745200000001,-34.568058],"type":"Point"}
 }

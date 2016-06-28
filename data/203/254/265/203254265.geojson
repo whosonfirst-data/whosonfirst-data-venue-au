@@ -2,13 +2,14 @@
   "id": 203254265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.017761,-33.390221,148.017761,-33.390221",
     "geom:latitude":-33.390221,
     "geom:longitude":148.017761,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Orange Rd",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203254265,
-    "wof:lastmodified":1449026282,
+    "wof:lastmodified":1466187604,
     "wof:name":"Hanley's Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [148.017761,-33.390221,148.017761,-33.390221],
-  "geometry": {"coordinates":[148.017761,-33.390221],"type":"Point"}
+  "bbox": [
+    148.017761,
+    -33.390221,
+    148.017761,
+    -33.390221
+],
+  "geometry": {"coordinates":[148.01776100000001,-33.390221],"type":"Point"}
 }

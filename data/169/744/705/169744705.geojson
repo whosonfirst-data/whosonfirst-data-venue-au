@@ -2,13 +2,14 @@
   "id": 169744705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.107773,-27.231085,153.107773,-27.231085",
     "geom:latitude":-27.231085,
     "geom:longitude":153.107773,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Gomersall St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169744705,
-    "wof:lastmodified":1449033881,
+    "wof:lastmodified":1466187702,
     "wof:name":"Caboolture Lock & Key Co",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [153.107773,-27.231085,153.107773,-27.231085],
-  "geometry": {"coordinates":[153.107773,-27.231085],"type":"Point"}
+  "bbox": [
+    153.107773,
+    -27.231085,
+    153.107773,
+    -27.231085
+],
+  "geometry": {"coordinates":[153.10777300000001,-27.231085],"type":"Point"}
 }

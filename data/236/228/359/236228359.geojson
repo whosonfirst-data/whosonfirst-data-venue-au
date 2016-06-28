@@ -2,13 +2,14 @@
   "id": 236228359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.480667,-38.076756,145.480667,-38.076756",
     "geom:latitude":-38.076756,
     "geom:longitude":145.480667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 17/ 67 Main St",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236228359,
-    "wof:lastmodified":1449002518,
+    "wof:lastmodified":1466190151,
     "wof:name":"JRs Wine & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wine"
     ]
 },
-  "bbox": [145.480667,-38.076756,145.480667,-38.076756],
-  "geometry": {"coordinates":[145.480667,-38.076756],"type":"Point"}
+  "bbox": [
+    145.480667,
+    -38.076756,
+    145.480667,
+    -38.076756
+],
+  "geometry": {"coordinates":[145.48066700000001,-38.076756],"type":"Point"}
 }

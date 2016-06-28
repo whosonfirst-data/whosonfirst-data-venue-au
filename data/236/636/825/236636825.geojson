@@ -2,13 +2,14 @@
   "id": 236636825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.990356,-33.933102,150.990356,-33.933102",
     "geom:latitude":-33.933102,
     "geom:longitude":150.990356,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 31- 37 Ashford Ave",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236636825,
-    "wof:lastmodified":1449002868,
+    "wof:lastmodified":1466191728,
     "wof:name":"Bankstown Home Maintenance Service",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aged"
     ]
 },
-  "bbox": [150.990356,-33.933102,150.990356,-33.933102],
-  "geometry": {"coordinates":[150.990356,-33.933102],"type":"Point"}
+  "bbox": [
+    150.990356,
+    -33.933102,
+    150.990356,
+    -33.933102
+],
+  "geometry": {"coordinates":[150.99035599999999,-33.933102],"type":"Point"}
 }

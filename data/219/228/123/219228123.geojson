@@ -2,13 +2,14 @@
   "id": 219228123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.925812,-37.654751,144.925812,-37.654751",
     "geom:latitude":-37.654751,
     "geom:longitude":144.925812,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Colignan Crt",
     "sg:city":"Meadow Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219228123,
-    "wof:lastmodified":1449071497,
+    "wof:lastmodified":1466189883,
     "wof:name":"Creative Architypes",
     "wof:parent_id":85777809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [144.925812,-37.654751,144.925812,-37.654751],
-  "geometry": {"coordinates":[144.925812,-37.654751],"type":"Point"}
+  "bbox": [
+    144.925812,
+    -37.654751,
+    144.925812,
+    -37.654751
+],
+  "geometry": {"coordinates":[144.92581200000001,-37.654751],"type":"Point"}
 }

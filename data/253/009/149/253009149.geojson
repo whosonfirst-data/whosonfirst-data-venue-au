@@ -2,13 +2,14 @@
   "id": 253009149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.693207,-37.857349,144.693207,-37.857349",
     "geom:latitude":-37.857349,
     "geom:longitude":144.693207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Redwood Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253009149,
-    "wof:lastmodified":1449065746,
+    "wof:lastmodified":1466187087,
     "wof:name":"City West Taekwondo",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "martial art"
     ]
 },
-  "bbox": [144.693207,-37.857349,144.693207,-37.857349],
+  "bbox": [
+    144.693207,
+    -37.857349,
+    144.693207,
+    -37.857349
+],
   "geometry": {"coordinates":[144.693207,-37.857349],"type":"Point"}
 }

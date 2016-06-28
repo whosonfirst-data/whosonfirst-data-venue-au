@@ -2,13 +2,14 @@
   "id": 202548409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.06575,-42.780148,147.06575,-42.780148",
     "geom:latitude":-42.780148,
     "geom:longitude":147.06575,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 High St",
     "sg:city":"New Norfolk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202548409,
-    "wof:lastmodified":1449061844,
+    "wof:lastmodified":1466189914,
     "wof:name":"Plus Petrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.06575,-42.780148,147.06575,-42.780148],
-  "geometry": {"coordinates":[147.06575,-42.780148],"type":"Point"}
+  "bbox": [
+    147.06575,
+    -42.780148,
+    147.06575,
+    -42.780148
+],
+  "geometry": {"coordinates":[147.06575000000001,-42.780148],"type":"Point"}
 }

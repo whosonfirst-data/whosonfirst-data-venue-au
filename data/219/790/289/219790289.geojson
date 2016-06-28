@@ -2,13 +2,14 @@
   "id": 219790289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.74118,-19.311365,146.74118,-19.311365",
     "geom:latitude":-19.311365,
     "geom:longitude":146.74118,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 488",
     "sg:city":"Thuringowa Central",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219790289,
-    "wof:lastmodified":1449073110,
+    "wof:lastmodified":1466191268,
     "wof:name":"Kerbfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "kerb"
     ]
 },
-  "bbox": [146.74118,-19.311365,146.74118,-19.311365],
-  "geometry": {"coordinates":[146.74118,-19.311365],"type":"Point"}
+  "bbox": [
+    146.74118,
+    -19.311365,
+    146.74118,
+    -19.311365
+],
+  "geometry": {"coordinates":[146.74118000000001,-19.311365],"type":"Point"}
 }

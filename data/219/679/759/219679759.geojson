@@ -2,13 +2,14 @@
   "id": 219679759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.510925,-32.180328,152.510925,-32.180328",
     "geom:latitude":-32.180328,
     "geom:longitude":152.510925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Manning St",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219679759,
-    "wof:lastmodified":1449072655,
+    "wof:lastmodified":1466191032,
     "wof:name":"Harvey World Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [152.510925,-32.180328,152.510925,-32.180328],
-  "geometry": {"coordinates":[152.510925,-32.180328],"type":"Point"}
+  "bbox": [
+    152.510925,
+    -32.180328,
+    152.510925,
+    -32.180328
+],
+  "geometry": {"coordinates":[152.51092499999999,-32.180328],"type":"Point"}
 }

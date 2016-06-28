@@ -2,13 +2,14 @@
   "id": 186355247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.144547,-33.857597,151.144547,-33.857597",
     "geom:latitude":-33.857597,
     "geom:longitude":151.144547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Lyons Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186355247,
-    "wof:lastmodified":1449051136,
+    "wof:lastmodified":1466188548,
     "wof:name":"Dr Jag Sekhon",
     "wof:parent_id":85776743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.144547,-33.857597,151.144547,-33.857597],
-  "geometry": {"coordinates":[151.144547,-33.857597],"type":"Point"}
+  "bbox": [
+    151.144547,
+    -33.857597,
+    151.144547,
+    -33.857597
+],
+  "geometry": {"coordinates":[151.14454699999999,-33.857597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219281907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.298843,-38.173893,146.298843,-38.173893",
     "geom:latitude":-38.173893,
     "geom:longitude":146.298843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"John Field Drv",
     "sg:city":"Newborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219281907,
-    "wof:lastmodified":1449073373,
+    "wof:lastmodified":1466187380,
     "wof:name":"Lavalla Catholic College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [146.298843,-38.173893,146.298843,-38.173893],
-  "geometry": {"coordinates":[146.298843,-38.173893],"type":"Point"}
+  "bbox": [
+    146.298843,
+    -38.173893,
+    146.298843,
+    -38.173893
+],
+  "geometry": {"coordinates":[146.29884300000001,-38.173893],"type":"Point"}
 }

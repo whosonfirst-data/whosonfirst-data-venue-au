@@ -2,13 +2,14 @@
   "id": 235943223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.981781,-33.353035,149.981781,-33.353035",
     "geom:latitude":-33.353035,
     "geom:longitude":149.981781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Williewa St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235943223,
-    "wof:lastmodified":1449008342,
+    "wof:lastmodified":1466187006,
     "wof:name":"Coronation Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [149.981781,-33.353035,149.981781,-33.353035],
-  "geometry": {"coordinates":[149.981781,-33.353035],"type":"Point"}
+  "bbox": [
+    149.981781,
+    -33.353035,
+    149.981781,
+    -33.353035
+],
+  "geometry": {"coordinates":[149.98178100000001,-33.353035],"type":"Point"}
 }

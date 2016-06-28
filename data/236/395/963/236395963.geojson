@@ -2,13 +2,14 @@
   "id": 236395963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.845482,-32.255241,115.845482,-32.255241",
     "geom:latitude":-32.255241,
     "geom:longitude":115.845482,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Central Ave",
     "sg:city":"Bertram",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236395963,
-    "wof:lastmodified":1449004660,
+    "wof:lastmodified":1466191028,
     "wof:name":"National Pos Systems",
     "wof:parent_id":85776631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cash"
     ]
 },
-  "bbox": [115.845482,-32.255241,115.845482,-32.255241],
+  "bbox": [
+    115.845482,
+    -32.255241,
+    115.845482,
+    -32.255241
+],
   "geometry": {"coordinates":[115.845482,-32.255241],"type":"Point"}
 }

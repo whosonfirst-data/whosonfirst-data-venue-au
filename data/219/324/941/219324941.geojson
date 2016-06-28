@@ -2,13 +2,14 @@
   "id": 219324941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.940475,-38.157398,145.940475,-38.157398",
     "geom:latitude":-38.157398,
     "geom:longitude":145.940475,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Normanby St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219324941,
-    "wof:lastmodified":1449072443,
+    "wof:lastmodified":1466187735,
     "wof:name":"De Fazio, Joe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [145.940475,-38.157398,145.940475,-38.157398],
-  "geometry": {"coordinates":[145.940475,-38.157398],"type":"Point"}
+  "bbox": [
+    145.940475,
+    -38.157398,
+    145.940475,
+    -38.157398
+],
+  "geometry": {"coordinates":[145.94047499999999,-38.157398],"type":"Point"}
 }

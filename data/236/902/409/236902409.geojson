@@ -2,13 +2,14 @@
   "id": 236902409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.545654,-35.028873,138.545654,-35.028873",
     "geom:latitude":-35.028873,
     "geom:longitude":138.545654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Seacombe Rd",
     "sg:city":"Seacombe Gardens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236902409,
-    "wof:lastmodified":1449004211,
+    "wof:lastmodified":1466192186,
     "wof:name":"BCS Op-Shops",
     "wof:parent_id":85770335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [138.545654,-35.028873,138.545654,-35.028873],
-  "geometry": {"coordinates":[138.545654,-35.028873],"type":"Point"}
+  "bbox": [
+    138.545654,
+    -35.028873,
+    138.545654,
+    -35.028873
+],
+  "geometry": {"coordinates":[138.54565400000001,-35.028873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220043697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.154221,-33.352364,116.154221,-33.352364",
     "geom:latitude":-33.352364,
     "geom:longitude":116.154221,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Jones St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220043697,
-    "wof:lastmodified":1449074644,
+    "wof:lastmodified":1466187451,
     "wof:name":"Beechboro Roof Tiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roof"
     ]
 },
-  "bbox": [116.154221,-33.352364,116.154221,-33.352364],
-  "geometry": {"coordinates":[116.154221,-33.352364],"type":"Point"}
+  "bbox": [
+    116.154221,
+    -33.352364,
+    116.154221,
+    -33.352364
+],
+  "geometry": {"coordinates":[116.15422100000001,-33.352364],"type":"Point"}
 }

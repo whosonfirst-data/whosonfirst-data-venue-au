@@ -2,13 +2,14 @@
   "id": 219222039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.247955,-33.53772,149.247955,-33.53772",
     "geom:latitude":-33.53772,
     "geom:longitude":149.247955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Carcoar St",
     "sg:city":"Blayney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219222039,
-    "wof:lastmodified":1449072750,
+    "wof:lastmodified":1466190023,
     "wof:name":"Blayney Pit Stop Auto's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [149.247955,-33.53772,149.247955,-33.53772],
-  "geometry": {"coordinates":[149.247955,-33.53772],"type":"Point"}
+  "bbox": [
+    149.247955,
+    -33.53772,
+    149.247955,
+    -33.53772
+],
+  "geometry": {"coordinates":[149.24795499999999,-33.53772],"type":"Point"}
 }

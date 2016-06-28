@@ -2,13 +2,14 @@
   "id": 202792629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.757812,-32.927246,151.757812,-32.927246",
     "geom:latitude":-32.927246,
     "geom:longitude":151.757812,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Stewart Ave",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202792629,
-    "wof:lastmodified":1449060665,
+    "wof:lastmodified":1466190146,
     "wof:name":"Lewis Engineering",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.757812,-32.927246,151.757812,-32.927246],
+  "bbox": [
+    151.757812,
+    -32.927246,
+    151.757812,
+    -32.927246
+],
   "geometry": {"coordinates":[151.757812,-32.927246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236806275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.887604,-34.484882,150.887604,-34.484882",
     "geom:latitude":-34.484882,
     "geom:longitude":150.887604,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 87 Warrawong Shopping Ctr King St",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236806275,
-    "wof:lastmodified":1449001669,
+    "wof:lastmodified":1466192051,
     "wof:name":"Strandbags",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "travel"
     ]
 },
-  "bbox": [150.887604,-34.484882,150.887604,-34.484882],
-  "geometry": {"coordinates":[150.887604,-34.484882],"type":"Point"}
+  "bbox": [
+    150.887604,
+    -34.484882,
+    150.887604,
+    -34.484882
+],
+  "geometry": {"coordinates":[150.88760400000001,-34.484882],"type":"Point"}
 }

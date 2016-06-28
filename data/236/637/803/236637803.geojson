@@ -2,13 +2,14 @@
   "id": 236637803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.98909,-33.937889,150.98909,-33.937889",
     "geom:latitude":-33.937889,
     "geom:longitude":150.98909,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7 120 Ashford Ave",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236637803,
-    "wof:lastmodified":1449001679,
+    "wof:lastmodified":1466191727,
     "wof:name":"Milperra Bakehouse",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [150.98909,-33.937889,150.98909,-33.937889],
+  "bbox": [
+    150.98909,
+    -33.937889,
+    150.98909,
+    -33.937889
+],
   "geometry": {"coordinates":[150.98909,-33.937889],"type":"Point"}
 }

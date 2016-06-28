@@ -2,13 +2,14 @@
   "id": 236803091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.902237,-34.479183,150.902237,-34.479183",
     "geom:latitude":-34.479183,
     "geom:longitude":150.902237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Darcy Rd",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236803091,
-    "wof:lastmodified":1449005293,
+    "wof:lastmodified":1466191945,
     "wof:name":"Heggies Bulkhaul Ltd",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carrier"
     ]
 },
-  "bbox": [150.902237,-34.479183,150.902237,-34.479183],
-  "geometry": {"coordinates":[150.902237,-34.479183],"type":"Point"}
+  "bbox": [
+    150.902237,
+    -34.479183,
+    150.902237,
+    -34.479183
+],
+  "geometry": {"coordinates":[150.90223700000001,-34.479183],"type":"Point"}
 }

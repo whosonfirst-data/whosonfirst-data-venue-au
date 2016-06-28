@@ -2,13 +2,14 @@
   "id": 253328911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.29895,-38.06609,145.29895,-38.06609",
     "geom:latitude":-38.06609,
     "geom:longitude":145.29895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Ambiance Crs",
     "sg:city":"Narre Warren South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253328911,
-    "wof:lastmodified":1449064554,
+    "wof:lastmodified":1466190888,
     "wof:name":"G & E Glazing",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glazier"
     ]
 },
-  "bbox": [145.29895,-38.06609,145.29895,-38.06609],
-  "geometry": {"coordinates":[145.29895,-38.06609],"type":"Point"}
+  "bbox": [
+    145.29895,
+    -38.06609,
+    145.29895,
+    -38.06609
+],
+  "geometry": {"coordinates":[145.29894999999999,-38.06609],"type":"Point"}
 }

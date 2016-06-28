@@ -2,13 +2,14 @@
   "id": 202529337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.161743,-38.096874,145.161743,-38.096874",
     "geom:latitude":-38.096874,
     "geom:longitude":145.161743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Sonia St",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202529337,
-    "wof:lastmodified":1449061233,
+    "wof:lastmodified":1466189802,
     "wof:name":"Dewlis Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "assembling"
     ]
 },
-  "bbox": [145.161743,-38.096874,145.161743,-38.096874],
+  "bbox": [
+    145.161743,
+    -38.096874,
+    145.161743,
+    -38.096874
+],
   "geometry": {"coordinates":[145.161743,-38.096874],"type":"Point"}
 }

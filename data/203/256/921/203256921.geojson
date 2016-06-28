@@ -2,13 +2,14 @@
   "id": 203256921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.001877,-33.393345,148.001877,-33.393345",
     "geom:latitude":-33.393345,
     "geom:longitude":148.001877,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Elizabeth St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203256921,
-    "wof:lastmodified":1449026390,
+    "wof:lastmodified":1466187624,
     "wof:name":"Forbes Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.001877,-33.393345,148.001877,-33.393345],
-  "geometry": {"coordinates":[148.001877,-33.393345],"type":"Point"}
+  "bbox": [
+    148.001877,
+    -33.393345,
+    148.001877,
+    -33.393345
+],
+  "geometry": {"coordinates":[148.00187700000001,-33.393345],"type":"Point"}
 }

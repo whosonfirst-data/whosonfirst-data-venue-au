@@ -2,13 +2,14 @@
   "id": 202580969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.433441,-37.684078,144.433441,-37.684078",
     "geom:latitude":-37.684078,
     "geom:longitude":144.433441,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 5/ 61 Grant St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202580969,
-    "wof:lastmodified":1449061799,
+    "wof:lastmodified":1466187131,
     "wof:name":"Grant Street Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.433441,-37.684078,144.433441,-37.684078],
-  "geometry": {"coordinates":[144.433441,-37.684078],"type":"Point"}
+  "bbox": [
+    144.433441,
+    -37.684078,
+    144.433441,
+    -37.684078
+],
+  "geometry": {"coordinates":[144.43344099999999,-37.684078],"type":"Point"}
 }

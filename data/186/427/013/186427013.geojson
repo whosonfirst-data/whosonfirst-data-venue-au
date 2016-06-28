@@ -2,13 +2,14 @@
   "id": 186427013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.816391,-19.270863,146.816391,-19.270863",
     "geom:latitude":-19.270863,
     "geom:longitude":146.816391,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Boundary St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186427013,
-    "wof:lastmodified":1449051186,
+    "wof:lastmodified":1466189759,
     "wof:name":"Kirwan Self Storage",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.816391,-19.270863,146.816391,-19.270863],
-  "geometry": {"coordinates":[146.816391,-19.270863],"type":"Point"}
+  "bbox": [
+    146.816391,
+    -19.270863,
+    146.816391,
+    -19.270863
+],
+  "geometry": {"coordinates":[146.81639100000001,-19.270863],"type":"Point"}
 }

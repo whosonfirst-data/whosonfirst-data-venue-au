@@ -2,13 +2,14 @@
   "id": 202628563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.170715,-28.855288,151.170715,-28.855288",
     "geom:latitude":-28.855288,
     "geom:longitude":151.170715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 High St",
     "sg:city":"Texas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202628563,
-    "wof:lastmodified":1449062181,
+    "wof:lastmodified":1466187573,
     "wof:name":"Royal Hotel Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.170715,-28.855288,151.170715,-28.855288],
+  "bbox": [
+    151.170715,
+    -28.855288,
+    151.170715,
+    -28.855288
+],
   "geometry": {"coordinates":[151.170715,-28.855288],"type":"Point"}
 }

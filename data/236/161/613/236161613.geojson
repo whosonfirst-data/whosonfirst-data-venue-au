@@ -2,13 +2,14 @@
   "id": 236161613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.855545,-34.725109,135.855545,-34.725109",
     "geom:latitude":-34.725109,
     "geom:longitude":135.855545,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Cranston St",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236161613,
-    "wof:lastmodified":1449002866,
+    "wof:lastmodified":1466189606,
     "wof:name":"Cranston Street Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [135.855545,-34.725109,135.855545,-34.725109],
-  "geometry": {"coordinates":[135.855545,-34.725109],"type":"Point"}
+  "bbox": [
+    135.855545,
+    -34.725109,
+    135.855545,
+    -34.725109
+],
+  "geometry": {"coordinates":[135.85554500000001,-34.725109],"type":"Point"}
 }

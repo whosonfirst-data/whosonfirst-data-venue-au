@@ -2,13 +2,14 @@
   "id": 203029613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.155106,-37.6735,145.155106,-37.6735",
     "geom:latitude":-37.6735,
     "geom:longitude":145.155106,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Elizabeth St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203029613,
-    "wof:lastmodified":1449025722,
+    "wof:lastmodified":1466187793,
     "wof:name":"Reece Pty Ltd",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [145.155106,-37.6735,145.155106,-37.6735],
-  "geometry": {"coordinates":[145.155106,-37.6735],"type":"Point"}
+  "bbox": [
+    145.155106,
+    -37.6735,
+    145.155106,
+    -37.6735
+],
+  "geometry": {"coordinates":[145.15510599999999,-37.6735],"type":"Point"}
 }

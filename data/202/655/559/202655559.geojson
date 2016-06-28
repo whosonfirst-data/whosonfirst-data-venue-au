@@ -2,13 +2,14 @@
   "id": 202655559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.023804,-27.436901,153.023804,-27.436901",
     "geom:latitude":-27.436901,
     "geom:longitude":153.023804,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 121 Newmarket Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202655559,
-    "wof:lastmodified":1449061562,
+    "wof:lastmodified":1466187988,
     "wof:name":"Johnson Controls Australia Pty Ltd",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [153.023804,-27.436901,153.023804,-27.436901],
-  "geometry": {"coordinates":[153.023804,-27.436901],"type":"Point"}
+  "bbox": [
+    153.023804,
+    -27.436901,
+    153.023804,
+    -27.436901
+],
+  "geometry": {"coordinates":[153.02380400000001,-27.436901],"type":"Point"}
 }

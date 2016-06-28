@@ -2,13 +2,14 @@
   "id": 202916813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.114548,-30.297506,153.114548,-30.297506",
     "geom:latitude":-30.297506,
     "geom:longitude":153.114548,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 9 Park Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202916813,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466190788,
     "wof:name":"Rider Hunt",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "quantity"
     ]
 },
-  "bbox": [153.114548,-30.297506,153.114548,-30.297506],
-  "geometry": {"coordinates":[153.114548,-30.297506],"type":"Point"}
+  "bbox": [
+    153.114548,
+    -30.297506,
+    153.114548,
+    -30.297506
+],
+  "geometry": {"coordinates":[153.11454800000001,-30.297506],"type":"Point"}
 }

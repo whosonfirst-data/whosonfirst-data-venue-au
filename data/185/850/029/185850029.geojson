@@ -2,13 +2,14 @@
   "id": 185850029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.837585,-25.290262,152.837585,-25.290262",
     "geom:latitude":-25.290262,
     "geom:longitude":152.837585,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16a Main St",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185850029,
-    "wof:lastmodified":1449007538,
+    "wof:lastmodified":1466187345,
     "wof:name":"Sauers Clothing Supplies",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [152.837585,-25.290262,152.837585,-25.290262],
-  "geometry": {"coordinates":[152.837585,-25.290262],"type":"Point"}
+  "bbox": [
+    152.837585,
+    -25.290262,
+    152.837585,
+    -25.290262
+],
+  "geometry": {"coordinates":[152.83758499999999,-25.290262],"type":"Point"}
 }

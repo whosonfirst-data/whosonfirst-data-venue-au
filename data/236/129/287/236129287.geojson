@@ -2,13 +2,14 @@
   "id": 236129287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.858246,-37.730949,144.858246,-37.730949",
     "geom:latitude":-37.730949,
     "geom:longitude":144.858246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16B/ 14 Beckett Ave",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236129287,
-    "wof:lastmodified":1449004482,
+    "wof:lastmodified":1466189232,
     "wof:name":"Harbottle Signs",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [144.858246,-37.730949,144.858246,-37.730949],
-  "geometry": {"coordinates":[144.858246,-37.730949],"type":"Point"}
+  "bbox": [
+    144.858246,
+    -37.730949,
+    144.858246,
+    -37.730949
+],
+  "geometry": {"coordinates":[144.85824600000001,-37.730949],"type":"Point"}
 }

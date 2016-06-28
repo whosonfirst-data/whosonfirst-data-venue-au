@@ -2,13 +2,14 @@
   "id": 186553861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.168457,-33.895271,151.168457,-33.895271",
     "geom:latitude":-33.895271,
     "geom:longitude":151.168457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Harrow Rd",
     "sg:city":"Stanmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186553861,
-    "wof:lastmodified":1449050273,
+    "wof:lastmodified":1466190833,
     "wof:name":"Funktionality Event Management Pty Ltd",
     "wof:parent_id":85770309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hire"
     ]
 },
-  "bbox": [151.168457,-33.895271,151.168457,-33.895271],
-  "geometry": {"coordinates":[151.168457,-33.895271],"type":"Point"}
+  "bbox": [
+    151.168457,
+    -33.895271,
+    151.168457,
+    -33.895271
+],
+  "geometry": {"coordinates":[151.16845699999999,-33.895271],"type":"Point"}
 }

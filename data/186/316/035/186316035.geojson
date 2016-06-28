@@ -2,13 +2,14 @@
   "id": 186316035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.975693,-31.898655,115.975693,-31.898655",
     "geom:latitude":-31.898655,
     "geom:longitude":115.975693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Stirling Crs",
     "sg:city":"Hazelmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186316035,
-    "wof:lastmodified":1449052191,
+    "wof:lastmodified":1466187895,
     "wof:name":"Wellard Rural Exports Pty Ltd",
     "wof:parent_id":85769421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [115.975693,-31.898655,115.975693,-31.898655],
-  "geometry": {"coordinates":[115.975693,-31.898655],"type":"Point"}
+  "bbox": [
+    115.975693,
+    -31.898655,
+    115.975693,
+    -31.898655
+],
+  "geometry": {"coordinates":[115.97569300000001,-31.898655],"type":"Point"}
 }

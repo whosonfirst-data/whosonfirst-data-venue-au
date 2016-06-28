@@ -2,13 +2,14 @@
   "id": 203067613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.746918,-41.668468,147.746918,-41.668468",
     "geom:latitude":-41.668468,
     "geom:longitude":147.746918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lee St",
     "sg:city":"Rossarden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203067613,
-    "wof:lastmodified":1449025060,
+    "wof:lastmodified":1466188528,
     "wof:name":"Van Dieman Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "paving"
     ]
 },
-  "bbox": [147.746918,-41.668468,147.746918,-41.668468],
-  "geometry": {"coordinates":[147.746918,-41.668468],"type":"Point"}
+  "bbox": [
+    147.746918,
+    -41.668468,
+    147.746918,
+    -41.668468
+],
+  "geometry": {"coordinates":[147.74691799999999,-41.668468],"type":"Point"}
 }

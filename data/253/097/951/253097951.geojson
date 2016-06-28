@@ -2,13 +2,14 @@
   "id": 253097951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.815994,-37.81218,144.815994,-37.81218",
     "geom:latitude":-37.81218,
     "geom:longitude":144.815994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2- 8 Cooks St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253097951,
-    "wof:lastmodified":1449063987,
+    "wof:lastmodified":1466188691,
     "wof:name":"BPS Plumbing Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.815994,-37.81218,144.815994,-37.81218],
-  "geometry": {"coordinates":[144.815994,-37.81218],"type":"Point"}
+  "bbox": [
+    144.815994,
+    -37.81218,
+    144.815994,
+    -37.81218
+],
+  "geometry": {"coordinates":[144.81599399999999,-37.81218],"type":"Point"}
 }

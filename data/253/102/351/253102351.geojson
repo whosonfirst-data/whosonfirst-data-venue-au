@@ -2,13 +2,14 @@
   "id": 253102351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.810455,-37.811649,144.810455,-37.811649",
     "geom:latitude":-37.811649,
     "geom:longitude":144.810455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Adams Crt",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253102351,
-    "wof:lastmodified":1449065571,
+    "wof:lastmodified":1466188781,
     "wof:name":"Improved Concrete Pumping Services (VIC) Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pumping"
     ]
 },
-  "bbox": [144.810455,-37.811649,144.810455,-37.811649],
-  "geometry": {"coordinates":[144.810455,-37.811649],"type":"Point"}
+  "bbox": [
+    144.810455,
+    -37.811649,
+    144.810455,
+    -37.811649
+],
+  "geometry": {"coordinates":[144.81045499999999,-37.811649],"type":"Point"}
 }

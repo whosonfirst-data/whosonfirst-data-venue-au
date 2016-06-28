@@ -2,13 +2,14 @@
   "id": 185821463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.989243,-12.501316,130.989243,-12.501316",
     "geom:latitude":-12.501316,
     "geom:longitude":130.989243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 lancewood St",
     "sg:city":"Rosebery",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185821463,
-    "wof:lastmodified":1449007487,
+    "wof:lastmodified":1466186986,
     "wof:name":"J.O. Johnstone",
     "wof:parent_id":85774879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [130.989243,-12.501316,130.989243,-12.501316],
-  "geometry": {"coordinates":[130.989243,-12.501316],"type":"Point"}
+  "bbox": [
+    130.989243,
+    -12.501316,
+    130.989243,
+    -12.501316
+],
+  "geometry": {"coordinates":[130.98924299999999,-12.501316],"type":"Point"}
 }

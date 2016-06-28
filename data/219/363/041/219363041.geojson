@@ -2,13 +2,14 @@
   "id": 219363041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.547974,-35.332314,143.547974,-35.332314",
     "geom:latitude":-35.332314,
     "geom:longitude":143.547974,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Chapman St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219363041,
-    "wof:lastmodified":1449073489,
+    "wof:lastmodified":1466188037,
     "wof:name":"Rivett's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [143.547974,-35.332314,143.547974,-35.332314],
-  "geometry": {"coordinates":[143.547974,-35.332314],"type":"Point"}
+  "bbox": [
+    143.547974,
+    -35.332314,
+    143.547974,
+    -35.332314
+],
+  "geometry": {"coordinates":[143.54797400000001,-35.332314],"type":"Point"}
 }

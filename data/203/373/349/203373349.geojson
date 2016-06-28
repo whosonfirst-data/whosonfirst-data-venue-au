@@ -2,13 +2,14 @@
   "id": 203373349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.866943,-37.560913,143.866943,-37.560913",
     "geom:latitude":-37.560913,
     "geom:longitude":143.866943,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Mair St",
     "sg:city":"Ballarat East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203373349,
-    "wof:lastmodified":1449025911,
+    "wof:lastmodified":1466189084,
     "wof:name":"Remingtons Insurance Brokers Pty. Ltd",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [143.866943,-37.560913,143.866943,-37.560913],
-  "geometry": {"coordinates":[143.866943,-37.560913],"type":"Point"}
+  "bbox": [
+    143.866943,
+    -37.560913,
+    143.866943,
+    -37.560913
+],
+  "geometry": {"coordinates":[143.86694299999999,-37.560913],"type":"Point"}
 }

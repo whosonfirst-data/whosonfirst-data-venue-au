@@ -2,13 +2,14 @@
   "id": 253038399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.787354,-37.813995,144.787354,-37.813995",
     "geom:latitude":-37.813995,
     "geom:longitude":144.787354,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/227- 231 Fitzgerald Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253038399,
-    "wof:lastmodified":1449064723,
+    "wof:lastmodified":1466187685,
     "wof:name":"Snap Printing",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [144.787354,-37.813995,144.787354,-37.813995],
-  "geometry": {"coordinates":[144.787354,-37.813995],"type":"Point"}
+  "bbox": [
+    144.787354,
+    -37.813995,
+    144.787354,
+    -37.813995
+],
+  "geometry": {"coordinates":[144.78735399999999,-37.813995],"type":"Point"}
 }

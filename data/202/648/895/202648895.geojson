@@ -2,13 +2,14 @@
   "id": 202648895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038803,-27.416241,153.038803,-27.416241",
     "geom:latitude":-27.416241,
     "geom:longitude":153.038803,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Cnr Park Rd & Kedron Park Rd",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202648895,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466187859,
     "wof:name":"Queensland Ambulance Service",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [153.038803,-27.416241,153.038803,-27.416241],
+  "bbox": [
+    153.038803,
+    -27.416241,
+    153.038803,
+    -27.416241
+],
   "geometry": {"coordinates":[153.038803,-27.416241],"type":"Point"}
 }

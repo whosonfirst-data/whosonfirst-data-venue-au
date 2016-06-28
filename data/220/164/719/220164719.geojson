@@ -2,13 +2,14 @@
   "id": 220164719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358597,-38.151569,144.358597,-38.151569",
     "geom:latitude":-38.151569,
     "geom:longitude":144.358597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 220 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220164719,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466188888,
     "wof:name":"Australian Printer Reloading Co",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.358597,-38.151569,144.358597,-38.151569],
+  "bbox": [
+    144.358597,
+    -38.151569,
+    144.358597,
+    -38.151569
+],
   "geometry": {"coordinates":[144.358597,-38.151569],"type":"Point"}
 }

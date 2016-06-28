@@ -2,13 +2,14 @@
   "id": 236636879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.994537,-33.93895,150.994537,-33.93895",
     "geom:latitude":-33.93895,
     "geom:longitude":150.994537,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Milperra Rd",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236636879,
-    "wof:lastmodified":1449002867,
+    "wof:lastmodified":1466191730,
     "wof:name":"Australian Dispenser",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "accessory"
     ]
 },
-  "bbox": [150.994537,-33.93895,150.994537,-33.93895],
-  "geometry": {"coordinates":[150.994537,-33.93895],"type":"Point"}
+  "bbox": [
+    150.994537,
+    -33.93895,
+    150.994537,
+    -33.93895
+],
+  "geometry": {"coordinates":[150.99453700000001,-33.93895],"type":"Point"}
 }

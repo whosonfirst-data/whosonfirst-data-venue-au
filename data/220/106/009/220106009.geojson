@@ -2,13 +2,14 @@
   "id": 220106009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.493851,-38.283417,144.493851,-38.283417",
     "geom:latitude":-38.283417,
     "geom:longitude":144.493851,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Jetty Rd",
     "sg:city":"Barwon Heads",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220106009,
-    "wof:lastmodified":1449074049,
+    "wof:lastmodified":1466188010,
     "wof:name":"At the Heads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.493851,-38.283417,144.493851,-38.283417],
-  "geometry": {"coordinates":[144.493851,-38.283417],"type":"Point"}
+  "bbox": [
+    144.493851,
+    -38.283417,
+    144.493851,
+    -38.283417
+],
+  "geometry": {"coordinates":[144.49385100000001,-38.283417],"type":"Point"}
 }

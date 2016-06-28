@@ -2,13 +2,14 @@
   "id": 236110483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.925491,-37.793663,144.925491,-37.793663",
     "geom:latitude":-37.793663,
     "geom:longitude":144.925491,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Bangalore St",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236110483,
-    "wof:lastmodified":1449002582,
+    "wof:lastmodified":1466188842,
     "wof:name":"Gunn Peter Dr",
     "wof:parent_id":85775119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [144.925491,-37.793663,144.925491,-37.793663],
-  "geometry": {"coordinates":[144.925491,-37.793663],"type":"Point"}
+  "bbox": [
+    144.925491,
+    -37.793663,
+    144.925491,
+    -37.793663
+],
+  "geometry": {"coordinates":[144.92549099999999,-37.793663],"type":"Point"}
 }

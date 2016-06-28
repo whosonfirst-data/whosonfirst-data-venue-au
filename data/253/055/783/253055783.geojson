@@ -2,13 +2,14 @@
   "id": 253055783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.62764,-37.886696,144.62764,-37.886696",
     "geom:latitude":-37.886696,
     "geom:longitude":144.62764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Windsor Ave",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253055783,
-    "wof:lastmodified":1449063469,
+    "wof:lastmodified":1466188008,
     "wof:name":"London Taxi Wedding Services",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.62764,-37.886696,144.62764,-37.886696],
-  "geometry": {"coordinates":[144.62764,-37.886696],"type":"Point"}
+  "bbox": [
+    144.62764,
+    -37.886696,
+    144.62764,
+    -37.886696
+],
+  "geometry": {"coordinates":[144.62764000000001,-37.886696],"type":"Point"}
 }

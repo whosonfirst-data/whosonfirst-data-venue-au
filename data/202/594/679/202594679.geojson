@@ -2,13 +2,14 @@
   "id": 202594679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.611328,-33.83271,138.611328,-33.83271",
     "geom:latitude":-33.83271,
     "geom:longitude":138.611328,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4/ 260 Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202594679,
-    "wof:lastmodified":1449060474,
+    "wof:lastmodified":1466187239,
     "wof:name":"Epic Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.611328,-33.83271,138.611328,-33.83271],
-  "geometry": {"coordinates":[138.611328,-33.83271],"type":"Point"}
+  "bbox": [
+    138.611328,
+    -33.83271,
+    138.611328,
+    -33.83271
+],
+  "geometry": {"coordinates":[138.61132799999999,-33.83271],"type":"Point"}
 }

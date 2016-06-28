@@ -2,13 +2,14 @@
   "id": 186559483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157013,-33.893311,151.157013,-33.893311",
     "geom:latitude":-33.893311,
     "geom:longitude":151.157013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Terminus St",
     "sg:city":"Petersham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186559483,
-    "wof:lastmodified":1449052418,
+    "wof:lastmodified":1466190870,
     "wof:name":"Chiropractic Centre",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.157013,-33.893311,151.157013,-33.893311],
-  "geometry": {"coordinates":[151.157013,-33.893311],"type":"Point"}
+  "bbox": [
+    151.157013,
+    -33.893311,
+    151.157013,
+    -33.893311
+],
+  "geometry": {"coordinates":[151.15701300000001,-33.893311],"type":"Point"}
 }

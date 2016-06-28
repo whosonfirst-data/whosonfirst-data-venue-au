@@ -2,13 +2,14 @@
   "id": 236260661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.328552,-31.232256,119.328552,-31.232256",
     "geom:latitude":-31.232256,
     "geom:longitude":119.328552,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20b Antares St",
     "sg:city":"Southern Cross",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236260661,
-    "wof:lastmodified":1449002088,
+    "wof:lastmodified":1466190118,
     "wof:name":"Matilda Drapery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "draper"
     ]
 },
-  "bbox": [119.328552,-31.232256,119.328552,-31.232256],
+  "bbox": [
+    119.328552,
+    -31.232256,
+    119.328552,
+    -31.232256
+],
   "geometry": {"coordinates":[119.328552,-31.232256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202381167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.749237,-34.596706,138.749237,-34.596706",
     "geom:latitude":-34.596706,
     "geom:longitude":138.749237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Main North Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202381167,
-    "wof:lastmodified":1449060324,
+    "wof:lastmodified":1466187138,
     "wof:name":"Beaumont Tiles",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [138.749237,-34.596706,138.749237,-34.596706],
-  "geometry": {"coordinates":[138.749237,-34.596706],"type":"Point"}
+  "bbox": [
+    138.749237,
+    -34.596706,
+    138.749237,
+    -34.596706
+],
+  "geometry": {"coordinates":[138.74923699999999,-34.596706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219824881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.608765,-36.151089,146.608765,-36.151089",
     "geom:latitude":-36.151089,
     "geom:longitude":146.608765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41-43 Conness St",
     "sg:city":"Chiltern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219824881,
-    "wof:lastmodified":1449071646,
+    "wof:lastmodified":1466191447,
     "wof:name":"Chiltern Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.608765,-36.151089,146.608765,-36.151089],
-  "geometry": {"coordinates":[146.608765,-36.151089],"type":"Point"}
+  "bbox": [
+    146.608765,
+    -36.151089,
+    146.608765,
+    -36.151089
+],
+  "geometry": {"coordinates":[146.60876500000001,-36.151089],"type":"Point"}
 }

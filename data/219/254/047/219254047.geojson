@@ -2,13 +2,14 @@
   "id": 219254047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.000259,-37.767197,145.000259,-37.767197",
     "geom:latitude":-37.767197,
     "geom:longitude":145.000259,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Langwells Pde",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219254047,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466187139,
     "wof:name":"Clean Force Property Services",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.000259,-37.767197,145.000259,-37.767197],
+  "bbox": [
+    145.000259,
+    -37.767197,
+    145.000259,
+    -37.767197
+],
   "geometry": {"coordinates":[145.000259,-37.767197],"type":"Point"}
 }

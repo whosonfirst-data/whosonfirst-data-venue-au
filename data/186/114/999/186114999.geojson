@@ -2,13 +2,14 @@
   "id": 186114999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.842361,-31.077915,152.842361,-31.077915",
     "geom:latitude":-31.077915,
     "geom:longitude":152.842361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Smith St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186114999,
-    "wof:lastmodified":1449051496,
+    "wof:lastmodified":1466189573,
     "wof:name":"David Coy Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [152.842361,-31.077915,152.842361,-31.077915],
-  "geometry": {"coordinates":[152.842361,-31.077915],"type":"Point"}
+  "bbox": [
+    152.842361,
+    -31.077915,
+    152.842361,
+    -31.077915
+],
+  "geometry": {"coordinates":[152.84236100000001,-31.077915],"type":"Point"}
 }

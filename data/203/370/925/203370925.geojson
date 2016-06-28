@@ -2,13 +2,14 @@
   "id": 203370925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.85701,-37.543129,143.85701,-37.543129",
     "geom:latitude":-37.543129,
     "geom:longitude":143.85701,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Howitt St",
     "sg:city":"Ballarat North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203370925,
-    "wof:lastmodified":1449025978,
+    "wof:lastmodified":1466189041,
     "wof:name":"Granite Transformations",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mason"
     ]
 },
-  "bbox": [143.85701,-37.543129,143.85701,-37.543129],
+  "bbox": [
+    143.85701,
+    -37.543129,
+    143.85701,
+    -37.543129
+],
   "geometry": {"coordinates":[143.85701,-37.543129],"type":"Point"}
 }

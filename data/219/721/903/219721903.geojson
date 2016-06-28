@@ -2,13 +2,14 @@
   "id": 219721903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.373856,-31.870001,152.373856,-31.870001",
     "geom:latitude":-31.870001,
     "geom:longitude":152.373856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bent St",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219721903,
-    "wof:lastmodified":1449073905,
+    "wof:lastmodified":1466191276,
     "wof:name":"Nash & Roohan Pty Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [152.373856,-31.870001,152.373856,-31.870001],
-  "geometry": {"coordinates":[152.373856,-31.870001],"type":"Point"}
+  "bbox": [
+    152.373856,
+    -31.870001,
+    152.373856,
+    -31.870001
+],
+  "geometry": {"coordinates":[152.37385599999999,-31.870001],"type":"Point"}
 }

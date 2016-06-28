@@ -2,13 +2,14 @@
   "id": 202723305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.020752,-27.359768,153.020752,-27.359768",
     "geom:latitude":-27.359768,
     "geom:longitude":153.020752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Summerfield St",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202723305,
-    "wof:lastmodified":1449061598,
+    "wof:lastmodified":1466189273,
     "wof:name":"Harris G & S",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [153.020752,-27.359768,153.020752,-27.359768],
-  "geometry": {"coordinates":[153.020752,-27.359768],"type":"Point"}
+  "bbox": [
+    153.020752,
+    -27.359768,
+    153.020752,
+    -27.359768
+],
+  "geometry": {"coordinates":[153.02075199999999,-27.359768],"type":"Point"}
 }

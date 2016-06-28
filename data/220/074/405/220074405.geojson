@@ -2,13 +2,14 @@
   "id": 220074405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.316162,-38.322056,144.316162,-38.322056",
     "geom:latitude":-38.322056,
     "geom:longitude":144.316162,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Grossmans Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220074405,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466187709,
     "wof:name":"Winkler C & C T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [144.316162,-38.322056,144.316162,-38.322056],
-  "geometry": {"coordinates":[144.316162,-38.322056],"type":"Point"}
+  "bbox": [
+    144.316162,
+    -38.322056,
+    144.316162,
+    -38.322056
+],
+  "geometry": {"coordinates":[144.31616199999999,-38.322056],"type":"Point"}
 }

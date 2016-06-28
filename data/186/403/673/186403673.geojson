@@ -2,13 +2,14 @@
   "id": 186403673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.826843,-19.264286,146.826843,-19.264286",
     "geom:latitude":-19.264286,
     "geom:longitude":146.826843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Allen St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186403673,
-    "wof:lastmodified":1449052643,
+    "wof:lastmodified":1466189368,
     "wof:name":"Allen St Automotive",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diesel"
     ]
 },
-  "bbox": [146.826843,-19.264286,146.826843,-19.264286],
+  "bbox": [
+    146.826843,
+    -19.264286,
+    146.826843,
+    -19.264286
+],
   "geometry": {"coordinates":[146.826843,-19.264286],"type":"Point"}
 }

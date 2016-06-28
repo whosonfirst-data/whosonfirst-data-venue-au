@@ -2,13 +2,14 @@
   "id": 219723383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.352234,-31.86714,152.352234,-31.86714",
     "geom:latitude":-31.86714,
     "geom:longitude":152.352234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Murray Rd",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219723383,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466191281,
     "wof:name":"Whatson P M & E D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixer"
     ]
 },
-  "bbox": [152.352234,-31.86714,152.352234,-31.86714],
-  "geometry": {"coordinates":[152.352234,-31.86714],"type":"Point"}
+  "bbox": [
+    152.352234,
+    -31.86714,
+    152.352234,
+    -31.86714
+],
+  "geometry": {"coordinates":[152.35223400000001,-31.86714],"type":"Point"}
 }

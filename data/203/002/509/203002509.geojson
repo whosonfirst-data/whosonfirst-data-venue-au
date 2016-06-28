@@ -2,13 +2,14 @@
   "id": 203002509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485825,-20.727293,139.485825,-20.727293",
     "geom:latitude":-20.727293,
     "geom:longitude":139.485825,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 West St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203002509,
-    "wof:lastmodified":1449026492,
+    "wof:lastmodified":1466187026,
     "wof:name":"C&K Estelle Cardiff Community Kindergarten",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [139.485825,-20.727293,139.485825,-20.727293],
-  "geometry": {"coordinates":[139.485825,-20.727293],"type":"Point"}
+  "bbox": [
+    139.485825,
+    -20.727293,
+    139.485825,
+    -20.727293
+],
+  "geometry": {"coordinates":[139.48582500000001,-20.727293],"type":"Point"}
 }

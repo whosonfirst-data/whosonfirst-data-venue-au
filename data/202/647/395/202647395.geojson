@@ -2,13 +2,14 @@
   "id": 202647395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.039337,-27.402817,153.039337,-27.402817",
     "geom:latitude":-27.402817,
     "geom:longitude":153.039337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Culgoola St",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202647395,
-    "wof:lastmodified":1449061328,
+    "wof:lastmodified":1466187832,
     "wof:name":"Hill James Gas Sales",
     "wof:parent_id":85776245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [153.039337,-27.402817,153.039337,-27.402817],
-  "geometry": {"coordinates":[153.039337,-27.402817],"type":"Point"}
+  "bbox": [
+    153.039337,
+    -27.402817,
+    153.039337,
+    -27.402817
+],
+  "geometry": {"coordinates":[153.03933699999999,-27.402817],"type":"Point"}
 }

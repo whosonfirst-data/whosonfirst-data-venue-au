@@ -2,13 +2,14 @@
   "id": 253021991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.716934,-37.875088,144.716934,-37.875088",
     "geom:latitude":-37.875088,
     "geom:longitude":144.716934,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253021991,
-    "wof:lastmodified":1449064683,
+    "wof:lastmodified":1466187357,
     "wof:name":"Plastics Unlimited",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plastic"
     ]
 },
-  "bbox": [144.716934,-37.875088,144.716934,-37.875088],
-  "geometry": {"coordinates":[144.716934,-37.875088],"type":"Point"}
+  "bbox": [
+    144.716934,
+    -37.875088,
+    144.716934,
+    -37.875088
+],
+  "geometry": {"coordinates":[144.71693400000001,-37.875088],"type":"Point"}
 }

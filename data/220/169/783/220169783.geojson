@@ -2,13 +2,14 @@
   "id": 220169783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.362167,-38.150745,144.362167,-38.150745",
     "geom:latitude":-38.150745,
     "geom:longitude":144.362167,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220169783,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466188992,
     "wof:name":"Landlink Property Group",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [144.362167,-38.150745,144.362167,-38.150745],
+  "bbox": [
+    144.362167,
+    -38.150745,
+    144.362167,
+    -38.150745
+],
   "geometry": {"coordinates":[144.362167,-38.150745],"type":"Point"}
 }

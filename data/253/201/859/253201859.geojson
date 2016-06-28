@@ -2,13 +2,14 @@
   "id": 253201859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.94249,-27.539579,151.94249,-27.539579",
     "geom:latitude":-27.539579,
     "geom:longitude":151.94249,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Stradbroke St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253201859,
-    "wof:lastmodified":1449065378,
+    "wof:lastmodified":1466190236,
     "wof:name":"K & R Plumbing Supplies",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.94249,-27.539579,151.94249,-27.539579],
-  "geometry": {"coordinates":[151.94249,-27.539579],"type":"Point"}
+  "bbox": [
+    151.94249,
+    -27.539579,
+    151.94249,
+    -27.539579
+],
+  "geometry": {"coordinates":[151.94248999999999,-27.539579],"type":"Point"}
 }

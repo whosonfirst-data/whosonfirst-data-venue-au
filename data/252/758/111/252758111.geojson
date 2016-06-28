@@ -2,13 +2,14 @@
   "id": 252758111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.744667,-33.280003,115.744667,-33.280003",
     "geom:latitude":-33.280003,
     "geom:longitude":115.744667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ditchingham Pl",
     "sg:city":"Australind",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252758111,
-    "wof:lastmodified":1449005746,
+    "wof:lastmodified":1466187772,
     "wof:name":"Swift Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "swimming"
     ]
 },
-  "bbox": [115.744667,-33.280003,115.744667,-33.280003],
-  "geometry": {"coordinates":[115.744667,-33.280003],"type":"Point"}
+  "bbox": [
+    115.744667,
+    -33.280003,
+    115.744667,
+    -33.280003
+],
+  "geometry": {"coordinates":[115.74466700000001,-33.280003],"type":"Point"}
 }

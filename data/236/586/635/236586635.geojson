@@ -2,13 +2,14 @@
   "id": 236586635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.051666,-33.953705,151.051666,-33.953705",
     "geom:latitude":-33.953705,
     "geom:longitude":151.051666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Belmore Rd & Littleton St",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236586635,
-    "wof:lastmodified":1449004790,
+    "wof:lastmodified":1466191672,
     "wof:name":"Hearing Plus",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hearing"
     ]
 },
-  "bbox": [151.051666,-33.953705,151.051666,-33.953705],
-  "geometry": {"coordinates":[151.051666,-33.953705],"type":"Point"}
+  "bbox": [
+    151.051666,
+    -33.953705,
+    151.051666,
+    -33.953705
+],
+  "geometry": {"coordinates":[151.05166600000001,-33.953705],"type":"Point"}
 }

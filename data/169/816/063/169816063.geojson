@@ -2,13 +2,14 @@
   "id": 169816063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.864166,-31.979849,115.864166,-31.979849",
     "geom:latitude":-31.979849,
     "geom:longitude":115.864166,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Coode St",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169816063,
-    "wof:lastmodified":1449034608,
+    "wof:lastmodified":1466189003,
     "wof:name":"Funcats",
     "wof:parent_id":85775807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drive"
     ]
 },
-  "bbox": [115.864166,-31.979849,115.864166,-31.979849],
+  "bbox": [
+    115.864166,
+    -31.979849,
+    115.864166,
+    -31.979849
+],
   "geometry": {"coordinates":[115.864166,-31.979849],"type":"Point"}
 }

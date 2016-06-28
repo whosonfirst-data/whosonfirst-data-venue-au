@@ -2,13 +2,14 @@
   "id": 219479887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.094543,-37.526871,145.094543,-37.526871",
     "geom:latitude":-37.526871,
     "geom:longitude":145.094543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Grant Rd",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219479887,
-    "wof:lastmodified":1449072802,
+    "wof:lastmodified":1466189199,
     "wof:name":"Williamson M J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.094543,-37.526871,145.094543,-37.526871],
-  "geometry": {"coordinates":[145.094543,-37.526871],"type":"Point"}
+  "bbox": [
+    145.094543,
+    -37.526871,
+    145.094543,
+    -37.526871
+],
+  "geometry": {"coordinates":[145.09454299999999,-37.526871],"type":"Point"}
 }

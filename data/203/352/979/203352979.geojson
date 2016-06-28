@@ -2,13 +2,14 @@
   "id": 203352979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849579,-37.56131,143.849579,-37.56131",
     "geom:latitude":-37.56131,
     "geom:longitude":143.849579,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203352979,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466188727,
     "wof:name":"Caine Real Estate",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.849579,-37.56131,143.849579,-37.56131],
-  "geometry": {"coordinates":[143.849579,-37.56131],"type":"Point"}
+  "bbox": [
+    143.849579,
+    -37.56131,
+    143.849579,
+    -37.56131
+],
+  "geometry": {"coordinates":[143.84957900000001,-37.56131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203277047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.176224,-33.140781,148.176224,-33.140781",
     "geom:latitude":-33.140781,
     "geom:longitude":148.176224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"138- 144 Clarinda St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203277047,
-    "wof:lastmodified":1449025160,
+    "wof:lastmodified":1466187775,
     "wof:name":"Parkes Hyundai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [148.176224,-33.140781,148.176224,-33.140781],
-  "geometry": {"coordinates":[148.176224,-33.140781],"type":"Point"}
+  "bbox": [
+    148.176224,
+    -33.140781,
+    148.176224,
+    -33.140781
+],
+  "geometry": {"coordinates":[148.17622399999999,-33.140781],"type":"Point"}
 }

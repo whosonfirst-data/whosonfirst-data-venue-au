@@ -2,13 +2,14 @@
   "id": 186486337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.763351,-19.268293,146.763351,-19.268293",
     "geom:latitude":-19.268293,
     "geom:longitude":146.763351,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"389 Woolcock St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186486337,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466190431,
     "wof:name":"Indoor Sports Arenas Townsville",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ground"
     ]
 },
-  "bbox": [146.763351,-19.268293,146.763351,-19.268293],
+  "bbox": [
+    146.763351,
+    -19.268293,
+    146.763351,
+    -19.268293
+],
   "geometry": {"coordinates":[146.763351,-19.268293],"type":"Point"}
 }

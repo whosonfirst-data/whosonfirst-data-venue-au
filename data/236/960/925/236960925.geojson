@@ -2,13 +2,14 @@
   "id": 236960925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.442947,-37.926201,145.442947,-37.926201",
     "geom:latitude":-37.926201,
     "geom:longitude":145.442947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Emerald-Monbulk Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236960925,
-    "wof:lastmodified":1449004131,
+    "wof:lastmodified":1466192173,
     "wof:name":"Emerald Glades",
     "wof:parent_id":85769507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [145.442947,-37.926201,145.442947,-37.926201],
+  "bbox": [
+    145.442947,
+    -37.926201,
+    145.442947,
+    -37.926201
+],
   "geometry": {"coordinates":[145.442947,-37.926201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203117825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.798027,-32.521217,115.798027,-32.521217",
     "geom:latitude":-32.521217,
     "geom:longitude":115.798027,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Shenton Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203117825,
-    "wof:lastmodified":1449026269,
+    "wof:lastmodified":1466189316,
     "wof:name":"Mandurah Stairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "handrail"
     ]
 },
-  "bbox": [115.798027,-32.521217,115.798027,-32.521217],
+  "bbox": [
+    115.798027,
+    -32.521217,
+    115.798027,
+    -32.521217
+],
   "geometry": {"coordinates":[115.798027,-32.521217],"type":"Point"}
 }

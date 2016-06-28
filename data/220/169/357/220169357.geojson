@@ -2,13 +2,14 @@
   "id": 220169357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357864,-38.1539,144.357864,-38.1539",
     "geom:latitude":-38.1539,
     "geom:longitude":144.357864,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"297 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220169357,
-    "wof:lastmodified":1449074531,
+    "wof:lastmodified":1466188983,
     "wof:name":"Palais Bingo Centre",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.357864,-38.1539,144.357864,-38.1539],
-  "geometry": {"coordinates":[144.357864,-38.1539],"type":"Point"}
+  "bbox": [
+    144.357864,
+    -38.1539,
+    144.357864,
+    -38.1539
+],
+  "geometry": {"coordinates":[144.35786400000001,-38.1539],"type":"Point"}
 }

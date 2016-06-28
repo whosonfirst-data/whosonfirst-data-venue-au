@@ -2,13 +2,14 @@
   "id": 202542709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.868546,-33.092979,148.868546,-33.092979",
     "geom:latitude":-33.092979,
     "geom:longitude":148.868546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Gidley St 20 Riddell St",
     "sg:city":"Molong",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202542709,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466189887,
     "wof:name":"Miss Webb's Cafe Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.868546,-33.092979,148.868546,-33.092979],
-  "geometry": {"coordinates":[148.868546,-33.092979],"type":"Point"}
+  "bbox": [
+    148.868546,
+    -33.092979,
+    148.868546,
+    -33.092979
+],
+  "geometry": {"coordinates":[148.86854600000001,-33.092979],"type":"Point"}
 }

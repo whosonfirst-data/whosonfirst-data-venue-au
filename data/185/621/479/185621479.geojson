@@ -2,13 +2,14 @@
   "id": 185621479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.906349,-32.086185,115.906349,-32.086185",
     "geom:latitude":-32.086185,
     "geom:longitude":115.906349,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Southacre Dr",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185621479,
-    "wof:lastmodified":1449008033,
+    "wof:lastmodified":1466187621,
     "wof:name":"Tonys Removals",
     "wof:parent_id":85780705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [115.906349,-32.086185,115.906349,-32.086185],
-  "geometry": {"coordinates":[115.906349,-32.086185],"type":"Point"}
+  "bbox": [
+    115.906349,
+    -32.086185,
+    115.906349,
+    -32.086185
+],
+  "geometry": {"coordinates":[115.90634900000001,-32.086185],"type":"Point"}
 }

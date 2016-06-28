@@ -2,13 +2,14 @@
   "id": 236922765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.513412,-34.986336,138.513412,-34.986336",
     "geom:latitude":-34.986336,
     "geom:longitude":138.513412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Moseley St",
     "sg:city":"Glenelg South",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236922765,
-    "wof:lastmodified":1449001898,
+    "wof:lastmodified":1466192130,
     "wof:name":"Garrett P B",
     "wof:parent_id":85777499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.513412,-34.986336,138.513412,-34.986336],
-  "geometry": {"coordinates":[138.513412,-34.986336],"type":"Point"}
+  "bbox": [
+    138.513412,
+    -34.986336,
+    138.513412,
+    -34.986336
+],
+  "geometry": {"coordinates":[138.51341199999999,-34.986336],"type":"Point"}
 }

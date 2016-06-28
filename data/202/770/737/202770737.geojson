@@ -2,13 +2,14 @@
   "id": 202770737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.786667,-32.928288,151.786667,-32.928288",
     "geom:latitude":-32.928288,
     "geom:longitude":151.786667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Scott & Telford Sts",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202770737,
-    "wof:lastmodified":1449062704,
+    "wof:lastmodified":1466190059,
     "wof:name":"View Factory Restaurant/Bar",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "catering"
     ]
 },
-  "bbox": [151.786667,-32.928288,151.786667,-32.928288],
-  "geometry": {"coordinates":[151.786667,-32.928288],"type":"Point"}
+  "bbox": [
+    151.786667,
+    -32.928288,
+    151.786667,
+    -32.928288
+],
+  "geometry": {"coordinates":[151.78666699999999,-32.928288],"type":"Point"}
 }

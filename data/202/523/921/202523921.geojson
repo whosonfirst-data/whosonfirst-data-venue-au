@@ -2,13 +2,14 @@
   "id": 202523921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.17598,-38.09708,145.17598,-38.09708",
     "geom:latitude":-38.09708,
     "geom:longitude":145.17598,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 4 4 Amayla Crs",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202523921,
-    "wof:lastmodified":1449061567,
+    "wof:lastmodified":1466189768,
     "wof:name":"Prompt Wirecut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toolmaker"
     ]
 },
-  "bbox": [145.17598,-38.09708,145.17598,-38.09708],
-  "geometry": {"coordinates":[145.17598,-38.09708],"type":"Point"}
+  "bbox": [
+    145.17598,
+    -38.09708,
+    145.17598,
+    -38.09708
+],
+  "geometry": {"coordinates":[145.17598000000001,-38.09708],"type":"Point"}
 }

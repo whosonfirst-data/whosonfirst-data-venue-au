@@ -2,13 +2,14 @@
   "id": 203342029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.853683,-37.55621,143.853683,-37.55621",
     "geom:latitude":-37.55621,
     "geom:longitude":143.853683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Claxton St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203342029,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1466188535,
     "wof:name":"Dridan Jamie Automotive Repair Centre",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [143.853683,-37.55621,143.853683,-37.55621],
-  "geometry": {"coordinates":[143.853683,-37.55621],"type":"Point"}
+  "bbox": [
+    143.853683,
+    -37.55621,
+    143.853683,
+    -37.55621
+],
+  "geometry": {"coordinates":[143.85368299999999,-37.55621],"type":"Point"}
 }

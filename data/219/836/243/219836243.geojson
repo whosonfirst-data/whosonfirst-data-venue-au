@@ -2,13 +2,14 @@
   "id": 219836243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.813637,-31.976135,115.813637,-31.976135",
     "geom:latitude":-31.976135,
     "geom:longitude":115.813637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Hampden Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219836243,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466191467,
     "wof:name":"Chai Lim",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.813637,-31.976135,115.813637,-31.976135],
+  "bbox": [
+    115.813637,
+    -31.976135,
+    115.813637,
+    -31.976135
+],
   "geometry": {"coordinates":[115.813637,-31.976135],"type":"Point"}
 }

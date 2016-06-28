@@ -2,13 +2,14 @@
   "id": 203048215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.339905,-35.185345,143.339905,-35.185345",
     "geom:latitude":-35.185345,
     "geom:longitude":143.339905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Monash Ave",
     "sg:city":"Nyah West",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203048215,
-    "wof:lastmodified":1449025587,
+    "wof:lastmodified":1466188206,
     "wof:name":"Thomson Ian R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grower"
     ]
 },
-  "bbox": [143.339905,-35.185345,143.339905,-35.185345],
-  "geometry": {"coordinates":[143.339905,-35.185345],"type":"Point"}
+  "bbox": [
+    143.339905,
+    -35.185345,
+    143.339905,
+    -35.185345
+],
+  "geometry": {"coordinates":[143.33990499999999,-35.185345],"type":"Point"}
 }

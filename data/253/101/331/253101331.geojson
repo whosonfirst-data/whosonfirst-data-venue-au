@@ -2,13 +2,14 @@
   "id": 253101331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.809784,-37.775017,144.809784,-37.775017",
     "geom:latitude":-37.775017,
     "geom:longitude":144.809784,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Ballarat Rd",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253101331,
-    "wof:lastmodified":1449064378,
+    "wof:lastmodified":1466188759,
     "wof:name":"Air Master Compressors Pty Ltd",
     "wof:parent_id":85777915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [144.809784,-37.775017,144.809784,-37.775017],
-  "geometry": {"coordinates":[144.809784,-37.775017],"type":"Point"}
+  "bbox": [
+    144.809784,
+    -37.775017,
+    144.809784,
+    -37.775017
+],
+  "geometry": {"coordinates":[144.80978400000001,-37.775017],"type":"Point"}
 }

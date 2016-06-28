@@ -2,13 +2,14 @@
   "id": 219303211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.938293,-38.151489,145.938293,-38.151489",
     "geom:latitude":-38.151489,
     "geom:longitude":145.938293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Kokoda St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219303211,
-    "wof:lastmodified":1449070407,
+    "wof:lastmodified":1466187555,
     "wof:name":"Kevin Malady",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.938293,-38.151489,145.938293,-38.151489],
-  "geometry": {"coordinates":[145.938293,-38.151489],"type":"Point"}
+  "bbox": [
+    145.938293,
+    -38.151489,
+    145.938293,
+    -38.151489
+],
+  "geometry": {"coordinates":[145.93829299999999,-38.151489],"type":"Point"}
 }

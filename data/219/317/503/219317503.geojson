@@ -2,13 +2,14 @@
   "id": 219317503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.929764,-38.160759,145.929764,-38.160759",
     "geom:latitude":-38.160759,
     "geom:longitude":145.929764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Victoria St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219317503,
-    "wof:lastmodified":1449072012,
+    "wof:lastmodified":1466187677,
     "wof:name":"Warragul Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "organiser"
     ]
 },
-  "bbox": [145.929764,-38.160759,145.929764,-38.160759],
-  "geometry": {"coordinates":[145.929764,-38.160759],"type":"Point"}
+  "bbox": [
+    145.929764,
+    -38.160759,
+    145.929764,
+    -38.160759
+],
+  "geometry": {"coordinates":[145.92976400000001,-38.160759],"type":"Point"}
 }

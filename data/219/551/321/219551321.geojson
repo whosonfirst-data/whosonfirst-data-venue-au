@@ -2,13 +2,14 @@
   "id": 219551321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.989243,-33.907829,150.989243,-33.907829",
     "geom:latitude":-33.907829,
     "geom:longitude":150.989243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 279",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219551321,
-    "wof:lastmodified":1449071103,
+    "wof:lastmodified":1466190167,
     "wof:name":"ABL Mortgage Loans Pty Ltd",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [150.989243,-33.907829,150.989243,-33.907829],
-  "geometry": {"coordinates":[150.989243,-33.907829],"type":"Point"}
+  "bbox": [
+    150.989243,
+    -33.907829,
+    150.989243,
+    -33.907829
+],
+  "geometry": {"coordinates":[150.98924299999999,-33.907829],"type":"Point"}
 }

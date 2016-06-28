@@ -2,13 +2,14 @@
   "id": 236064873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833603,-37.7225,144.833603,-37.7225",
     "geom:latitude":-37.7225,
     "geom:longitude":144.833603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Skyline Drv",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236064873,
-    "wof:lastmodified":1449002678,
+    "wof:lastmodified":1466187924,
     "wof:name":"Herbalife- Keilor",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [144.833603,-37.7225,144.833603,-37.7225],
-  "geometry": {"coordinates":[144.833603,-37.7225],"type":"Point"}
+  "bbox": [
+    144.833603,
+    -37.7225,
+    144.833603,
+    -37.7225
+],
+  "geometry": {"coordinates":[144.83360300000001,-37.7225],"type":"Point"}
 }

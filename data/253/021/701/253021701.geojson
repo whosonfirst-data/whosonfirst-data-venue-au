@@ -2,13 +2,14 @@
   "id": 253021701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.681793,-37.885845,144.681793,-37.885845",
     "geom:latitude":-37.885845,
     "geom:longitude":144.681793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Derrimut Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253021701,
-    "wof:lastmodified":1449064685,
+    "wof:lastmodified":1466187351,
     "wof:name":"Carol Stevens",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [144.681793,-37.885845,144.681793,-37.885845],
+  "bbox": [
+    144.681793,
+    -37.885845,
+    144.681793,
+    -37.885845
+],
   "geometry": {"coordinates":[144.681793,-37.885845],"type":"Point"}
 }

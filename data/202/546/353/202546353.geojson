@@ -2,13 +2,14 @@
   "id": 202546353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.018707,-42.830479,147.018707,-42.830479",
     "geom:latitude":-42.830479,
     "geom:longitude":147.018707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Top Swamp Rd",
     "sg:city":"Lachlan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202546353,
-    "wof:lastmodified":1449060105,
+    "wof:lastmodified":1466189908,
     "wof:name":"Darren Hawes Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.018707,-42.830479,147.018707,-42.830479],
-  "geometry": {"coordinates":[147.018707,-42.830479],"type":"Point"}
+  "bbox": [
+    147.018707,
+    -42.830479,
+    147.018707,
+    -42.830479
+],
+  "geometry": {"coordinates":[147.01870700000001,-42.830479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253073773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.801163,-37.790203,144.801163,-37.790203",
     "geom:latitude":-37.790203,
     "geom:longitude":144.801163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Hall St",
     "sg:city":"Ardeer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253073773,
-    "wof:lastmodified":1449063228,
+    "wof:lastmodified":1466188252,
     "wof:name":"Ardeer Plumbing Service",
     "wof:parent_id":85776625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.801163,-37.790203,144.801163,-37.790203],
+  "bbox": [
+    144.801163,
+    -37.790203,
+    144.801163,
+    -37.790203
+],
   "geometry": {"coordinates":[144.801163,-37.790203],"type":"Point"}
 }

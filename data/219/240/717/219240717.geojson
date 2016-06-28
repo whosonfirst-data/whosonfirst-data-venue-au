@@ -2,13 +2,14 @@
   "id": 219240717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.991699,-37.764961,144.991699,-37.764961",
     "geom:latitude":-37.764961,
     "geom:longitude":144.991699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235A St Georges Rd",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219240717,
-    "wof:lastmodified":1449070753,
+    "wof:lastmodified":1466189954,
     "wof:name":"AXA Financial Planning",
     "wof:parent_id":85775153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [144.991699,-37.764961,144.991699,-37.764961],
-  "geometry": {"coordinates":[144.991699,-37.764961],"type":"Point"}
+  "bbox": [
+    144.991699,
+    -37.764961,
+    144.991699,
+    -37.764961
+],
+  "geometry": {"coordinates":[144.99169900000001,-37.764961],"type":"Point"}
 }

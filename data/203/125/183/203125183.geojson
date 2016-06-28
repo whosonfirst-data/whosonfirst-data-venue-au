@@ -2,13 +2,14 @@
   "id": 203125183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.707191,-32.52594,115.707191,-32.52594",
     "geom:latitude":-32.52594,
     "geom:longitude":115.707191,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Mary St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203125183,
-    "wof:lastmodified":1449026806,
+    "wof:lastmodified":1466189452,
     "wof:name":"Zakara Developments Pty Ltd",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.707191,-32.52594,115.707191,-32.52594],
-  "geometry": {"coordinates":[115.707191,-32.52594],"type":"Point"}
+  "bbox": [
+    115.707191,
+    -32.52594,
+    115.707191,
+    -32.52594
+],
+  "geometry": {"coordinates":[115.70719099999999,-32.52594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186512163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.758759,-19.332762,146.758759,-19.332762",
     "geom:latitude":-19.332762,
     "geom:longitude":146.758759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Townsville Campus James Cook Drv",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186512163,
-    "wof:lastmodified":1449052308,
+    "wof:lastmodified":1466190625,
     "wof:name":"James Cook University",
     "wof:parent_id":85779537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teleconferencing"
     ]
 },
-  "bbox": [146.758759,-19.332762,146.758759,-19.332762],
+  "bbox": [
+    146.758759,
+    -19.332762,
+    146.758759,
+    -19.332762
+],
   "geometry": {"coordinates":[146.758759,-19.332762],"type":"Point"}
 }

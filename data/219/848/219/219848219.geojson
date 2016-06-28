@@ -2,13 +2,14 @@
   "id": 219848219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177872,-33.857754,151.177872,-33.857754",
     "geom:latitude":-33.857754,
     "geom:longitude":151.177872,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Montague St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219848219,
-    "wof:lastmodified":1449070893,
+    "wof:lastmodified":1466191515,
     "wof:name":"Human Impact Engineering",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.177872,-33.857754,151.177872,-33.857754],
-  "geometry": {"coordinates":[151.177872,-33.857754],"type":"Point"}
+  "bbox": [
+    151.177872,
+    -33.857754,
+    151.177872,
+    -33.857754
+],
+  "geometry": {"coordinates":[151.17787200000001,-33.857754],"type":"Point"}
 }

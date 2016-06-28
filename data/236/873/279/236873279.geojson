@@ -2,13 +2,14 @@
   "id": 236873279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.221054,-35.312614,148.221054,-35.312614",
     "geom:latitude":-35.312614,
     "geom:longitude":148.221054,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Lambie & Sydney Sts",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236873279,
-    "wof:lastmodified":1449002195,
+    "wof:lastmodified":1466192066,
     "wof:name":"Tumut Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [148.221054,-35.312614,148.221054,-35.312614],
-  "geometry": {"coordinates":[148.221054,-35.312614],"type":"Point"}
+  "bbox": [
+    148.221054,
+    -35.312614,
+    148.221054,
+    -35.312614
+],
+  "geometry": {"coordinates":[148.22105400000001,-35.312614],"type":"Point"}
 }

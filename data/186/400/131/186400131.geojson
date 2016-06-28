@@ -2,13 +2,14 @@
   "id": 186400131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.813614,-19.262066,146.813614,-19.262066",
     "geom:latitude":-19.262066,
     "geom:longitude":146.813614,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Sturt St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186400131,
-    "wof:lastmodified":1449050503,
+    "wof:lastmodified":1466189308,
     "wof:name":"PRD Nationwide Townsville",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.813614,-19.262066,146.813614,-19.262066],
+  "bbox": [
+    146.813614,
+    -19.262066,
+    146.813614,
+    -19.262066
+],
   "geometry": {"coordinates":[146.813614,-19.262066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202790575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.752045,-32.932087,151.752045,-32.932087",
     "geom:latitude":-32.932087,
     "geom:longitude":151.752045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80a Jenner Pde",
     "sg:city":"Hamilton South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202790575,
-    "wof:lastmodified":1449062070,
+    "wof:lastmodified":1466190120,
     "wof:name":"Frogstomp PreSchool",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [151.752045,-32.932087,151.752045,-32.932087],
-  "geometry": {"coordinates":[151.752045,-32.932087],"type":"Point"}
+  "bbox": [
+    151.752045,
+    -32.932087,
+    151.752045,
+    -32.932087
+],
+  "geometry": {"coordinates":[151.75204500000001,-32.932087],"type":"Point"}
 }

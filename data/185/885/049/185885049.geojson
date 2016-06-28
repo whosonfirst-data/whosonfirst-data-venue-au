@@ -2,13 +2,14 @@
   "id": 185885049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.658051,-25.513645,152.658051,-25.513645",
     "geom:latitude":-25.513645,
     "geom:longitude":152.658051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Maryborough-Biggenden Rd",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185885049,
-    "wof:lastmodified":1449007478,
+    "wof:lastmodified":1466187726,
     "wof:name":"Heritage Dingo Digga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "spraying"
     ]
 },
-  "bbox": [152.658051,-25.513645,152.658051,-25.513645],
+  "bbox": [
+    152.658051,
+    -25.513645,
+    152.658051,
+    -25.513645
+],
   "geometry": {"coordinates":[152.658051,-25.513645],"type":"Point"}
 }

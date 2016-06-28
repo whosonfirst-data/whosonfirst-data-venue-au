@@ -2,13 +2,14 @@
   "id": 202709517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.010925,-27.370687,153.010925,-27.370687",
     "geom:latitude":-27.370687,
     "geom:longitude":153.010925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Candlebark St",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202709517,
-    "wof:lastmodified":1449060618,
+    "wof:lastmodified":1466189013,
     "wof:name":"Busy Bookkeeping - Redcliffe & Northern Suburbs",
     "wof:parent_id":85776239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [153.010925,-27.370687,153.010925,-27.370687],
-  "geometry": {"coordinates":[153.010925,-27.370687],"type":"Point"}
+  "bbox": [
+    153.010925,
+    -27.370687,
+    153.010925,
+    -27.370687
+],
+  "geometry": {"coordinates":[153.01092499999999,-27.370687],"type":"Point"}
 }

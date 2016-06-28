@@ -2,13 +2,14 @@
   "id": 203358803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.846176,-37.560917,143.846176,-37.560917",
     "geom:latitude":-37.560917,
     "geom:longitude":143.846176,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203358803,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1466188829,
     "wof:name":"Simonds Homes Ballarat",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.846176,-37.560917,143.846176,-37.560917],
-  "geometry": {"coordinates":[143.846176,-37.560917],"type":"Point"}
+  "bbox": [
+    143.846176,
+    -37.560917,
+    143.846176,
+    -37.560917
+],
+  "geometry": {"coordinates":[143.84617600000001,-37.560917],"type":"Point"}
 }

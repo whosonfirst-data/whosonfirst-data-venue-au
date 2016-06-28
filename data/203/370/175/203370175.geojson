@@ -2,13 +2,14 @@
   "id": 203370175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.867706,-37.559097,143.867706,-37.559097",
     "geom:latitude":-37.559097,
     "geom:longitude":143.867706,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Humffray St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203370175,
-    "wof:lastmodified":1449025980,
+    "wof:lastmodified":1466189028,
     "wof:name":"Eastern Station Hotel",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.867706,-37.559097,143.867706,-37.559097],
+  "bbox": [
+    143.867706,
+    -37.559097,
+    143.867706,
+    -37.559097
+],
   "geometry": {"coordinates":[143.867706,-37.559097],"type":"Point"}
 }

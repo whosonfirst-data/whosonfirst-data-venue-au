@@ -2,13 +2,14 @@
   "id": 186439641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175919,-33.89872,151.175919,-33.89872",
     "geom:latitude":-33.89872,
     "geom:longitude":151.175919,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Enmore Rd",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186439641,
-    "wof:lastmodified":1449051128,
+    "wof:lastmodified":1466190072,
     "wof:name":"Allan's Cake Shop",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.175919,-33.89872,151.175919,-33.89872],
-  "geometry": {"coordinates":[151.175919,-33.89872],"type":"Point"}
+  "bbox": [
+    151.175919,
+    -33.89872,
+    151.175919,
+    -33.89872
+],
+  "geometry": {"coordinates":[151.17591899999999,-33.89872],"type":"Point"}
 }

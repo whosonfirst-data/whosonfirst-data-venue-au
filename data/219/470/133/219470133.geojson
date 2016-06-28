@@ -2,13 +2,14 @@
   "id": 219470133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.117584,-37.513634,145.117584,-37.513634",
     "geom:latitude":-37.513634,
     "geom:longitude":145.117584,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Church St",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219470133,
-    "wof:lastmodified":1449071252,
+    "wof:lastmodified":1466189122,
     "wof:name":"Whittlesea Green Grocer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [145.117584,-37.513634,145.117584,-37.513634],
-  "geometry": {"coordinates":[145.117584,-37.513634],"type":"Point"}
+  "bbox": [
+    145.117584,
+    -37.513634,
+    145.117584,
+    -37.513634
+],
+  "geometry": {"coordinates":[145.11758399999999,-37.513634],"type":"Point"}
 }

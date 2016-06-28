@@ -2,13 +2,14 @@
   "id": 236834889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.890045,-34.429264,150.890045,-34.429264",
     "geom:latitude":-34.429264,
     "geom:longitude":150.890045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Atchison St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236834889,
-    "wof:lastmodified":1449001901,
+    "wof:lastmodified":1466192025,
     "wof:name":"HATCH",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [150.890045,-34.429264,150.890045,-34.429264],
-  "geometry": {"coordinates":[150.890045,-34.429264],"type":"Point"}
+  "bbox": [
+    150.890045,
+    -34.429264,
+    150.890045,
+    -34.429264
+],
+  "geometry": {"coordinates":[150.89004499999999,-34.429264],"type":"Point"}
 }

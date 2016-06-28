@@ -2,13 +2,14 @@
   "id": 220052357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.696564,-33.35014,115.696564,-33.35014",
     "geom:latitude":-33.35014,
     "geom:longitude":115.696564,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Winsor St",
     "sg:city":"(Off South Western Hwy) Picton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220052357,
-    "wof:lastmodified":1449074384,
+    "wof:lastmodified":1466187523,
     "wof:name":"South West Waste",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trap"
     ]
 },
-  "bbox": [115.696564,-33.35014,115.696564,-33.35014],
+  "bbox": [
+    115.696564,
+    -33.35014,
+    115.696564,
+    -33.35014
+],
   "geometry": {"coordinates":[115.696564,-33.35014],"type":"Point"}
 }

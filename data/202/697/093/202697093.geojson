@@ -2,13 +2,14 @@
   "id": 202697093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.016556,-27.359955,153.016556,-27.359955",
     "geom:latitude":-27.359955,
     "geom:longitude":153.016556,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Gympie Rd",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202697093,
-    "wof:lastmodified":1449061693,
+    "wof:lastmodified":1466188770,
     "wof:name":"Shell Aspley Self Serve",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.016556,-27.359955,153.016556,-27.359955],
-  "geometry": {"coordinates":[153.016556,-27.359955],"type":"Point"}
+  "bbox": [
+    153.016556,
+    -27.359955,
+    153.016556,
+    -27.359955
+],
+  "geometry": {"coordinates":[153.01655600000001,-27.359955],"type":"Point"}
 }

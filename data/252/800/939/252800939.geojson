@@ -2,13 +2,14 @@
   "id": 252800939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.603516,-38.345383,143.603516,-38.345383",
     "geom:latitude":-38.345383,
     "geom:longitude":143.603516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Wilson St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252800939,
-    "wof:lastmodified":1449005496,
+    "wof:lastmodified":1466188148,
     "wof:name":"Spence Building & Joinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.603516,-38.345383,143.603516,-38.345383],
-  "geometry": {"coordinates":[143.603516,-38.345383],"type":"Point"}
+  "bbox": [
+    143.603516,
+    -38.345383,
+    143.603516,
+    -38.345383
+],
+  "geometry": {"coordinates":[143.60351600000001,-38.345383],"type":"Point"}
 }

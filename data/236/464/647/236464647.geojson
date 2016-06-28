@@ -2,13 +2,14 @@
   "id": 236464647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.182617,-21.146034,149.182617,-21.146034",
     "geom:latitude":-21.146034,
     "geom:longitude":149.182617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6 Whitsunday Arcade, Macalister St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236464647,
-    "wof:lastmodified":1449002351,
+    "wof:lastmodified":1466191372,
     "wof:name":"John Platts Stamps & Coins",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [149.182617,-21.146034,149.182617,-21.146034],
-  "geometry": {"coordinates":[149.182617,-21.146034],"type":"Point"}
+  "bbox": [
+    149.182617,
+    -21.146034,
+    149.182617,
+    -21.146034
+],
+  "geometry": {"coordinates":[149.18261699999999,-21.146034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236667263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.709122,-31.633081,152.709122,-31.633081",
     "geom:latitude":-31.633081,
     "geom:longitude":152.709122,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 River St",
     "sg:city":"Kendall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236667263,
-    "wof:lastmodified":1449003885,
+    "wof:lastmodified":1466191802,
     "wof:name":"Style Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.709122,-31.633081,152.709122,-31.633081],
-  "geometry": {"coordinates":[152.709122,-31.633081],"type":"Point"}
+  "bbox": [
+    152.709122,
+    -31.633081,
+    152.709122,
+    -31.633081
+],
+  "geometry": {"coordinates":[152.70912200000001,-31.633081],"type":"Point"}
 }

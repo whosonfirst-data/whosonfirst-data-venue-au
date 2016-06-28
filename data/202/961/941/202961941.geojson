@@ -2,13 +2,14 @@
   "id": 202961941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091507,-30.350739,153.091507,-30.350739",
     "geom:latitude":-30.350739,
     "geom:longitude":153.091507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Barloo Crt",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202961941,
-    "wof:lastmodified":1449062580,
+    "wof:lastmodified":1466191056,
     "wof:name":"C & D Coffs Landscaping",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.091507,-30.350739,153.091507,-30.350739],
-  "geometry": {"coordinates":[153.091507,-30.350739],"type":"Point"}
+  "bbox": [
+    153.091507,
+    -30.350739,
+    153.091507,
+    -30.350739
+],
+  "geometry": {"coordinates":[153.09150700000001,-30.350739],"type":"Point"}
 }

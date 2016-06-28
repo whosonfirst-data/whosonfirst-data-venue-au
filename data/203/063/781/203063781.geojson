@@ -2,13 +2,14 @@
   "id": 203063781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.251999,-41.5784,147.251999,-41.5784",
     "geom:latitude":-41.5784,
     "geom:longitude":147.251999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Airport Rd",
     "sg:city":"Evandale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203063781,
-    "wof:lastmodified":1449025101,
+    "wof:lastmodified":1466188455,
     "wof:name":"Advance Car Rentals (TAS)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "minibus"
     ]
 },
-  "bbox": [147.251999,-41.5784,147.251999,-41.5784],
-  "geometry": {"coordinates":[147.251999,-41.5784],"type":"Point"}
+  "bbox": [
+    147.251999,
+    -41.5784,
+    147.251999,
+    -41.5784
+],
+  "geometry": {"coordinates":[147.25199900000001,-41.5784],"type":"Point"}
 }

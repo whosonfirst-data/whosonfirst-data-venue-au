@@ -2,13 +2,14 @@
   "id": 236910313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.519165,-34.980209,138.519165,-34.980209",
     "geom:latitude":-34.980209,
     "geom:longitude":138.519165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Jetty Rd",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236910313,
-    "wof:lastmodified":1449002949,
+    "wof:lastmodified":1466192190,
     "wof:name":"Wenzel's Home Made Cakes",
     "wof:parent_id":85770879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [138.519165,-34.980209,138.519165,-34.980209],
-  "geometry": {"coordinates":[138.519165,-34.980209],"type":"Point"}
+  "bbox": [
+    138.519165,
+    -34.980209,
+    138.519165,
+    -34.980209
+],
+  "geometry": {"coordinates":[138.51916499999999,-34.980209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203075893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.236084,-41.315479,148.236084,-41.315479",
     "geom:latitude":-41.315479,
     "geom:longitude":148.236084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tasman Hwy St",
     "sg:city":"Helens",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203075893,
-    "wof:lastmodified":1449025975,
+    "wof:lastmodified":1466188695,
     "wof:name":"Fieldwicks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [148.236084,-41.315479,148.236084,-41.315479],
-  "geometry": {"coordinates":[148.236084,-41.315479],"type":"Point"}
+  "bbox": [
+    148.236084,
+    -41.315479,
+    148.236084,
+    -41.315479
+],
+  "geometry": {"coordinates":[148.23608400000001,-41.315479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236269775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.722336,-34.784389,138.722336,-34.784389",
     "geom:latitude":-34.784389,
     "geom:longitude":138.722336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Greenwith Rd",
     "sg:city":"Golden Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236269775,
-    "wof:lastmodified":1449003778,
+    "wof:lastmodified":1466190296,
     "wof:name":"Austral Bricks",
     "wof:parent_id":85777619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brick"
     ]
 },
-  "bbox": [138.722336,-34.784389,138.722336,-34.784389],
-  "geometry": {"coordinates":[138.722336,-34.784389],"type":"Point"}
+  "bbox": [
+    138.722336,
+    -34.784389,
+    138.722336,
+    -34.784389
+],
+  "geometry": {"coordinates":[138.72233600000001,-34.784389],"type":"Point"}
 }

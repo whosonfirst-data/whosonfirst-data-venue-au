@@ -2,13 +2,14 @@
   "id": 219557807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.995041,-33.920029,150.995041,-33.920029",
     "geom:latitude":-33.920029,
     "geom:longitude":150.995041,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"658 Aviation Pl",
     "sg:city":"Bankstown Airport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219557807,
-    "wof:lastmodified":1449072920,
+    "wof:lastmodified":1466190341,
     "wof:name":"Dynamic Training Foundation",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [150.995041,-33.920029,150.995041,-33.920029],
-  "geometry": {"coordinates":[150.995041,-33.920029],"type":"Point"}
+  "bbox": [
+    150.995041,
+    -33.920029,
+    150.995041,
+    -33.920029
+],
+  "geometry": {"coordinates":[150.99504099999999,-33.920029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236969029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.488098,-37.936459,145.488098,-37.936459",
     "geom:latitude":-37.936459,
     "geom:longitude":145.488098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bailey Rd",
     "sg:city":"Cockatoo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236969029,
-    "wof:lastmodified":1449002274,
+    "wof:lastmodified":1466192169,
     "wof:name":"Hammond M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.488098,-37.936459,145.488098,-37.936459],
-  "geometry": {"coordinates":[145.488098,-37.936459],"type":"Point"}
+  "bbox": [
+    145.488098,
+    -37.936459,
+    145.488098,
+    -37.936459
+],
+  "geometry": {"coordinates":[145.48809800000001,-37.936459],"type":"Point"}
 }

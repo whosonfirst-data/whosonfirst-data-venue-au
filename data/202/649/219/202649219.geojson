@@ -2,13 +2,14 @@
   "id": 202649219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.029953,-27.414085,153.029953,-27.414085",
     "geom:latitude":-27.414085,
     "geom:longitude":153.029953,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Jack St",
     "sg:city":"Gordon Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202649219,
-    "wof:lastmodified":1449061816,
+    "wof:lastmodified":1466187865,
     "wof:name":"Living Colour Painters",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [153.029953,-27.414085,153.029953,-27.414085],
-  "geometry": {"coordinates":[153.029953,-27.414085],"type":"Point"}
+  "bbox": [
+    153.029953,
+    -27.414085,
+    153.029953,
+    -27.414085
+],
+  "geometry": {"coordinates":[153.02995300000001,-27.414085],"type":"Point"}
 }

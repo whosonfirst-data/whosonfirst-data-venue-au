@@ -2,13 +2,14 @@
   "id": 236314865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.7463,-32.054657,115.7463,-32.054657",
     "geom:latitude":-32.054657,
     "geom:longitude":115.7463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 High St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236314865,
-    "wof:lastmodified":1449005083,
+    "wof:lastmodified":1466190586,
     "wof:name":"Bousfields",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [115.7463,-32.054657,115.7463,-32.054657],
-  "geometry": {"coordinates":[115.7463,-32.054657],"type":"Point"}
+  "bbox": [
+    115.7463,
+    -32.054657,
+    115.7463,
+    -32.054657
+],
+  "geometry": {"coordinates":[115.74630000000001,-32.054657],"type":"Point"}
 }

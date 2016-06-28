@@ -2,13 +2,14 @@
   "id": 203155107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.965714,-36.598976,145.965714,-36.598976",
     "geom:latitude":-36.598976,
     "geom:longitude":145.965714,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RMB 1113 Farrell Rd",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203155107,
-    "wof:lastmodified":1449026503,
+    "wof:lastmodified":1466189705,
     "wof:name":"Jematt Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "advisory"
     ]
 },
-  "bbox": [145.965714,-36.598976,145.965714,-36.598976],
-  "geometry": {"coordinates":[145.965714,-36.598976],"type":"Point"}
+  "bbox": [
+    145.965714,
+    -36.598976,
+    145.965714,
+    -36.598976
+],
+  "geometry": {"coordinates":[145.96571399999999,-36.598976],"type":"Point"}
 }

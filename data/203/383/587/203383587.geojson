@@ -2,13 +2,14 @@
   "id": 203383587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.817642,-37.555588,143.817642,-37.555588",
     "geom:latitude":-37.555588,
     "geom:longitude":143.817642,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Longley St",
     "sg:city":"Alfredton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203383587,
-    "wof:lastmodified":1449025728,
+    "wof:lastmodified":1466189262,
     "wof:name":"Arch Laundrette",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.817642,-37.555588,143.817642,-37.555588],
-  "geometry": {"coordinates":[143.817642,-37.555588],"type":"Point"}
+  "bbox": [
+    143.817642,
+    -37.555588,
+    143.817642,
+    -37.555588
+],
+  "geometry": {"coordinates":[143.81764200000001,-37.555588],"type":"Point"}
 }

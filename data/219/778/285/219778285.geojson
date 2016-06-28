@@ -2,13 +2,14 @@
   "id": 219778285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.692932,-31.871061,152.692932,-31.871061",
     "geom:latitude":-31.871061,
     "geom:longitude":152.692932,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Crowdy Rd",
     "sg:city":"Harrington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219778285,
-    "wof:lastmodified":1449070435,
+    "wof:lastmodified":1466191315,
     "wof:name":"Harrington Veterinary Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [152.692932,-31.871061,152.692932,-31.871061],
-  "geometry": {"coordinates":[152.692932,-31.871061],"type":"Point"}
+  "bbox": [
+    152.692932,
+    -31.871061,
+    152.692932,
+    -31.871061
+],
+  "geometry": {"coordinates":[152.69293200000001,-31.871061],"type":"Point"}
 }

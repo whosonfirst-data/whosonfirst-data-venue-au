@@ -2,13 +2,14 @@
   "id": 202416317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.919067,-37.820793,144.919067,-37.820793",
     "geom:latitude":-37.820793,
     "geom:longitude":144.919067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 30, South Wharf, 625 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202416317,
-    "wof:lastmodified":1449061269,
+    "wof:lastmodified":1466188050,
     "wof:name":"Skilled",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.919067,-37.820793,144.919067,-37.820793],
-  "geometry": {"coordinates":[144.919067,-37.820793],"type":"Point"}
+  "bbox": [
+    144.919067,
+    -37.820793,
+    144.919067,
+    -37.820793
+],
+  "geometry": {"coordinates":[144.91906700000001,-37.820793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186548503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.170547,-33.891411,151.170547,-33.891411",
     "geom:latitude":-33.891411,
     "geom:longitude":151.170547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Stafford St",
     "sg:city":"Stanmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186548503,
-    "wof:lastmodified":1449052223,
+    "wof:lastmodified":1466190661,
     "wof:name":"ACS",
     "wof:parent_id":85770309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.170547,-33.891411,151.170547,-33.891411],
+  "bbox": [
+    151.170547,
+    -33.891411,
+    151.170547,
+    -33.891411
+],
   "geometry": {"coordinates":[151.170547,-33.891411],"type":"Point"}
 }

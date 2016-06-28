@@ -2,13 +2,14 @@
   "id": 236333173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.816406,-32.110069,115.816406,-32.110069",
     "geom:latitude":-32.110069,
     "geom:longitude":115.816406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cocos Drv",
     "sg:city":"Spearwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236333173,
-    "wof:lastmodified":1449004973,
+    "wof:lastmodified":1466190693,
     "wof:name":"Reinforced Concrete Pipes Australia",
     "wof:parent_id":85775725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [115.816406,-32.110069,115.816406,-32.110069],
+  "bbox": [
+    115.816406,
+    -32.110069,
+    115.816406,
+    -32.110069
+],
   "geometry": {"coordinates":[115.816406,-32.110069],"type":"Point"}
 }

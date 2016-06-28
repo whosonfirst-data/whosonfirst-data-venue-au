@@ -2,13 +2,14 @@
   "id": 202498225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.042725,-37.911465,145.042725,-37.911465",
     "geom:latitude":-37.911465,
     "geom:longitude":145.042725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"251 McKinnon Rd",
     "sg:city":"McKinnon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202498225,
-    "wof:lastmodified":1449062043,
+    "wof:lastmodified":1466189500,
     "wof:name":"McKinnon Hotel",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [145.042725,-37.911465,145.042725,-37.911465],
-  "geometry": {"coordinates":[145.042725,-37.911465],"type":"Point"}
+  "bbox": [
+    145.042725,
+    -37.911465,
+    145.042725,
+    -37.911465
+],
+  "geometry": {"coordinates":[145.04272499999999,-37.911465],"type":"Point"}
 }

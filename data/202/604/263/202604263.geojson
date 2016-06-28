@@ -2,13 +2,14 @@
   "id": 202604263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.865311,-43.038513,147.865311,-43.038513",
     "geom:latitude":-43.038513,
     "geom:longitude":147.865311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5741 Arthur Hwy",
     "sg:city":"Taranna",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202604263,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466187353,
     "wof:name":"Mason's Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.865311,-43.038513,147.865311,-43.038513],
-  "geometry": {"coordinates":[147.865311,-43.038513],"type":"Point"}
+  "bbox": [
+    147.865311,
+    -43.038513,
+    147.865311,
+    -43.038513
+],
+  "geometry": {"coordinates":[147.86531099999999,-43.038513],"type":"Point"}
 }

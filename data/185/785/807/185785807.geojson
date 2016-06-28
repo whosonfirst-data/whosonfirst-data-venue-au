@@ -2,13 +2,14 @@
   "id": 185785807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.382553,-37.727325,145.382553,-37.727325",
     "geom:latitude":-37.727325,
     "geom:longitude":145.382553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Welten Drv",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185785807,
-    "wof:lastmodified":1449007954,
+    "wof:lastmodified":1466189820,
     "wof:name":"Taylor & Moore",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [145.382553,-37.727325,145.382553,-37.727325],
+  "bbox": [
+    145.382553,
+    -37.727325,
+    145.382553,
+    -37.727325
+],
   "geometry": {"coordinates":[145.382553,-37.727325],"type":"Point"}
 }

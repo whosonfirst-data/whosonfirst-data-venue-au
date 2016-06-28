@@ -2,13 +2,14 @@
   "id": 236809915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.878586,-34.479652,150.878586,-34.479652",
     "geom:latitude":-34.479652,
     "geom:longitude":150.878586,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Flagstaff Rd",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236809915,
-    "wof:lastmodified":1449004537,
+    "wof:lastmodified":1466191965,
     "wof:name":"Motown Tyres",
     "wof:parent_id":85769585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rim"
     ]
 },
-  "bbox": [150.878586,-34.479652,150.878586,-34.479652],
-  "geometry": {"coordinates":[150.878586,-34.479652],"type":"Point"}
+  "bbox": [
+    150.878586,
+    -34.479652,
+    150.878586,
+    -34.479652
+],
+  "geometry": {"coordinates":[150.87858600000001,-34.479652],"type":"Point"}
 }

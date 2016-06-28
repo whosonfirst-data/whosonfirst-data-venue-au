@@ -2,13 +2,14 @@
   "id": 236832743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.88472,-34.415329,150.88472,-34.415329",
     "geom:latitude":-34.415329,
     "geom:longitude":150.88472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 5 Catherine St",
     "sg:city":"Gwynneville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236832743,
-    "wof:lastmodified":1449001689,
+    "wof:lastmodified":1466192006,
     "wof:name":"N A Engineering",
     "wof:parent_id":85769429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [150.88472,-34.415329,150.88472,-34.415329],
-  "geometry": {"coordinates":[150.88472,-34.415329],"type":"Point"}
+  "bbox": [
+    150.88472,
+    -34.415329,
+    150.88472,
+    -34.415329
+],
+  "geometry": {"coordinates":[150.88471999999999,-34.415329],"type":"Point"}
 }

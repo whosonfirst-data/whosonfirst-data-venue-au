@@ -2,13 +2,14 @@
   "id": 236277323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"121.164589,-30.953505,121.164589,-30.953505",
     "geom:latitude":-30.953505,
     "geom:longitude":121.164589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Sylvester St",
     "sg:city":"Coolgardie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236277323,
-    "wof:lastmodified":1449001958,
+    "wof:lastmodified":1466190449,
     "wof:name":"Coolgardie Community Recreation Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sporting"
     ]
 },
-  "bbox": [121.164589,-30.953505,121.164589,-30.953505],
-  "geometry": {"coordinates":[121.164589,-30.953505],"type":"Point"}
+  "bbox": [
+    121.164589,
+    -30.953505,
+    121.164589,
+    -30.953505
+],
+  "geometry": {"coordinates":[121.16458900000001,-30.953505],"type":"Point"}
 }

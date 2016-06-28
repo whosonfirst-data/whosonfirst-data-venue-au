@@ -2,13 +2,14 @@
   "id": 186006079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.464355,-33.365524,151.464355,-33.365524",
     "geom:latitude":-33.365524,
     "geom:longitude":151.464355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Ferndale St",
     "sg:city":"Killarney Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186006079,
-    "wof:lastmodified":1449052488,
+    "wof:lastmodified":1466187052,
     "wof:name":"Cottage Plumbing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.464355,-33.365524,151.464355,-33.365524],
-  "geometry": {"coordinates":[151.464355,-33.365524],"type":"Point"}
+  "bbox": [
+    151.464355,
+    -33.365524,
+    151.464355,
+    -33.365524
+],
+  "geometry": {"coordinates":[151.46435500000001,-33.365524],"type":"Point"}
 }

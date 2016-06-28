@@ -2,13 +2,14 @@
   "id": 219909803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.913925,-34.334816,150.913925,-34.334816",
     "geom:latitude":-34.334816,
     "geom:longitude":150.913925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Railway St",
     "sg:city":"Bulli",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219909803,
-    "wof:lastmodified":1449073059,
+    "wof:lastmodified":1466191614,
     "wof:name":"Environmental Surveys",
     "wof:parent_id":85770735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [150.913925,-34.334816,150.913925,-34.334816],
-  "geometry": {"coordinates":[150.913925,-34.334816],"type":"Point"}
+  "bbox": [
+    150.913925,
+    -34.334816,
+    150.913925,
+    -34.334816
+],
+  "geometry": {"coordinates":[150.91392500000001,-34.334816],"type":"Point"}
 }

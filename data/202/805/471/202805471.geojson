@@ -2,13 +2,14 @@
   "id": 202805471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.760513,-32.924957,151.760513,-32.924957",
     "geom:latitude":-32.924957,
     "geom:longitude":151.760513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1, Grd Flr 25 Beresford St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202805471,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466190328,
     "wof:name":"Four Walls Commercial",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [151.760513,-32.924957,151.760513,-32.924957],
+  "bbox": [
+    151.760513,
+    -32.924957,
+    151.760513,
+    -32.924957
+],
   "geometry": {"coordinates":[151.760513,-32.924957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219675063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.523895,-32.198647,152.523895,-32.198647",
     "geom:latitude":-32.198647,
     "geom:longitude":152.523895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Boona St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219675063,
-    "wof:lastmodified":1449072176,
+    "wof:lastmodified":1466191005,
     "wof:name":"Great Lakes Bricks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [152.523895,-32.198647,152.523895,-32.198647],
-  "geometry": {"coordinates":[152.523895,-32.198647],"type":"Point"}
+  "bbox": [
+    152.523895,
+    -32.198647,
+    152.523895,
+    -32.198647
+],
+  "geometry": {"coordinates":[152.52389500000001,-32.198647],"type":"Point"}
 }

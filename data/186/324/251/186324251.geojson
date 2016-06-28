@@ -2,13 +2,14 @@
   "id": 186324251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.010109,-31.91049,116.010109,-31.91049",
     "geom:latitude":-31.91049,
     "geom:longitude":116.010109,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 77 Bushmead Rd",
     "sg:city":"Hazelmere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186324251,
-    "wof:lastmodified":1449051936,
+    "wof:lastmodified":1466187996,
     "wof:name":"Haulmore Trailer Sales",
     "wof:parent_id":85768807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [116.010109,-31.91049,116.010109,-31.91049],
+  "bbox": [
+    116.010109,
+    -31.91049,
+    116.010109,
+    -31.91049
+],
   "geometry": {"coordinates":[116.010109,-31.91049],"type":"Point"}
 }

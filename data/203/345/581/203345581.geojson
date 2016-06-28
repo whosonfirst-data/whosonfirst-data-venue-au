@@ -2,13 +2,14 @@
   "id": 203345581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.864807,-37.539356,143.864807,-37.539356",
     "geom:latitude":-37.539356,
     "geom:longitude":143.864807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Ligar St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203345581,
-    "wof:lastmodified":1449026714,
+    "wof:lastmodified":1466188601,
     "wof:name":"Michael Egan",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.864807,-37.539356,143.864807,-37.539356],
-  "geometry": {"coordinates":[143.864807,-37.539356],"type":"Point"}
+  "bbox": [
+    143.864807,
+    -37.539356,
+    143.864807,
+    -37.539356
+],
+  "geometry": {"coordinates":[143.86480700000001,-37.539356],"type":"Point"}
 }

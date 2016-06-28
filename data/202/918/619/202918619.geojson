@@ -2,13 +2,14 @@
   "id": 202918619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115997,-30.281862,153.115997,-30.281862",
     "geom:latitude":-30.281862,
     "geom:longitude":153.115997,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Bray St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202918619,
-    "wof:lastmodified":1449061808,
+    "wof:lastmodified":1466190805,
     "wof:name":"Camp Quality",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "group"
     ]
 },
-  "bbox": [153.115997,-30.281862,153.115997,-30.281862],
-  "geometry": {"coordinates":[153.115997,-30.281862],"type":"Point"}
+  "bbox": [
+    153.115997,
+    -30.281862,
+    153.115997,
+    -30.281862
+],
+  "geometry": {"coordinates":[153.11599699999999,-30.281862],"type":"Point"}
 }

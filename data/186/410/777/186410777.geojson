@@ -2,13 +2,14 @@
   "id": 186410777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809097,-19.267061,146.809097,-19.267061",
     "geom:latitude":-19.267061,
     "geom:longitude":146.809097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"673 Flinders St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186410777,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466189486,
     "wof:name":"Harcourts Townsville City",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.809097,-19.267061,146.809097,-19.267061],
-  "geometry": {"coordinates":[146.809097,-19.267061],"type":"Point"}
+  "bbox": [
+    146.809097,
+    -19.267061,
+    146.809097,
+    -19.267061
+],
+  "geometry": {"coordinates":[146.80909700000001,-19.267061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203302423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.822006,-37.540585,143.822006,-37.540585",
     "geom:latitude":-37.540585,
     "geom:longitude":143.822006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Gregory St West",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203302423,
-    "wof:lastmodified":1449025550,
+    "wof:lastmodified":1466187976,
     "wof:name":"Resistor Repairs & Overhauls",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resistor"
     ]
 },
-  "bbox": [143.822006,-37.540585,143.822006,-37.540585],
-  "geometry": {"coordinates":[143.822006,-37.540585],"type":"Point"}
+  "bbox": [
+    143.822006,
+    -37.540585,
+    143.822006,
+    -37.540585
+],
+  "geometry": {"coordinates":[143.82200599999999,-37.540585],"type":"Point"}
 }

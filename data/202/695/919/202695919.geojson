@@ -2,13 +2,14 @@
   "id": 202695919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050049,-27.368656,153.050049,-27.368656",
     "geom:latitude":-27.368656,
     "geom:longitude":153.050049,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Zilmere Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202695919,
-    "wof:lastmodified":1449061073,
+    "wof:lastmodified":1466188745,
     "wof:name":"T-Zone Pro (Aust) Pty Ltd",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitness"
     ]
 },
-  "bbox": [153.050049,-27.368656,153.050049,-27.368656],
+  "bbox": [
+    153.050049,
+    -27.368656,
+    153.050049,
+    -27.368656
+],
   "geometry": {"coordinates":[153.050049,-27.368656],"type":"Point"}
 }

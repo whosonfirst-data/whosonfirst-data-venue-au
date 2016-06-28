@@ -2,13 +2,14 @@
   "id": 185867555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.890839,-25.308546,152.890839,-25.308546",
     "geom:latitude":-25.308546,
     "geom:longitude":152.890839,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 4, 1499 Booral Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185867555,
-    "wof:lastmodified":1449007308,
+    "wof:lastmodified":1466187540,
     "wof:name":"Fraser Coast Plywoods",
     "wof:parent_id":85770521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "veneer"
     ]
 },
-  "bbox": [152.890839,-25.308546,152.890839,-25.308546],
+  "bbox": [
+    152.890839,
+    -25.308546,
+    152.890839,
+    -25.308546
+],
   "geometry": {"coordinates":[152.890839,-25.308546],"type":"Point"}
 }

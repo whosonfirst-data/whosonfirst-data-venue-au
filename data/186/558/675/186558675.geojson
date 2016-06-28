@@ -2,13 +2,14 @@
   "id": 186558675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.144974,-33.894371,151.144974,-33.894371",
     "geom:latitude":-33.894371,
     "geom:longitude":151.144974,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ann Walsh House,Ozanam Village West St",
     "sg:city":"Lewisham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186558675,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1466190876,
     "wof:name":"Central Sydney Home Nursing Service",
     "wof:parent_id":85774561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [151.144974,-33.894371,151.144974,-33.894371],
-  "geometry": {"coordinates":[151.144974,-33.894371],"type":"Point"}
+  "bbox": [
+    151.144974,
+    -33.894371,
+    151.144974,
+    -33.894371
+],
+  "geometry": {"coordinates":[151.14497399999999,-33.894371],"type":"Point"}
 }

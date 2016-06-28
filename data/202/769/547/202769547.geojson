@@ -2,13 +2,14 @@
   "id": 202769547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.746536,-32.924152,151.746536,-32.924152",
     "geom:latitude":-32.924152,
     "geom:longitude":151.746536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 103 Tudor St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202769547,
-    "wof:lastmodified":1449060950,
+    "wof:lastmodified":1466190046,
     "wof:name":"Australian Sports Nutrition",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [151.746536,-32.924152,151.746536,-32.924152],
-  "geometry": {"coordinates":[151.746536,-32.924152],"type":"Point"}
+  "bbox": [
+    151.746536,
+    -32.924152,
+    151.746536,
+    -32.924152
+],
+  "geometry": {"coordinates":[151.74653599999999,-32.924152],"type":"Point"}
 }

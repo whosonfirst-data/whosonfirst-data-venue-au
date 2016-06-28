@@ -2,13 +2,14 @@
   "id": 236034245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.785233,-37.692715,144.785233,-37.692715",
     "geom:latitude":-37.692715,
     "geom:longitude":144.785233,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Linden Crt",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236034245,
-    "wof:lastmodified":1449001954,
+    "wof:lastmodified":1466187303,
     "wof:name":"Beauty and More",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "make-up"
     ]
 },
-  "bbox": [144.785233,-37.692715,144.785233,-37.692715],
-  "geometry": {"coordinates":[144.785233,-37.692715],"type":"Point"}
+  "bbox": [
+    144.785233,
+    -37.692715,
+    144.785233,
+    -37.692715
+],
+  "geometry": {"coordinates":[144.78523300000001,-37.692715],"type":"Point"}
 }

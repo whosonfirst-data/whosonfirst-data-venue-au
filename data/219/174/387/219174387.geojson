@@ -2,13 +2,14 @@
   "id": 219174387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.048889,-27.414801,153.048889,-27.414801",
     "geom:latitude":-27.414801,
     "geom:longitude":153.048889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Junction Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219174387,
-    "wof:lastmodified":1449070878,
+    "wof:lastmodified":1466189811,
     "wof:name":"Hair Junction",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [153.048889,-27.414801,153.048889,-27.414801],
+  "bbox": [
+    153.048889,
+    -27.414801,
+    153.048889,
+    -27.414801
+],
   "geometry": {"coordinates":[153.048889,-27.414801],"type":"Point"}
 }

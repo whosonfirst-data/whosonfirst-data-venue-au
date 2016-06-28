@@ -2,13 +2,14 @@
   "id": 202963899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.096298,-30.358894,153.096298,-30.358894",
     "geom:latitude":-30.358894,
     "geom:longitude":153.096298,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U2/ 5 Wallis Ave",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202963899,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1466190957,
     "wof:name":"Armtell Engineering",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [153.096298,-30.358894,153.096298,-30.358894],
-  "geometry": {"coordinates":[153.096298,-30.358894],"type":"Point"}
+  "bbox": [
+    153.096298,
+    -30.358894,
+    153.096298,
+    -30.358894
+],
+  "geometry": {"coordinates":[153.09629799999999,-30.358894],"type":"Point"}
 }

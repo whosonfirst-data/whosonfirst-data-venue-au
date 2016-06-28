@@ -2,13 +2,14 @@
   "id": 236036535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.800827,-37.702,144.800827,-37.702",
     "geom:latitude":-37.702,
     "geom:longitude":144.800827,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Melton Hwy",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236036535,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466187349,
     "wof:name":"Zebic Steve Dr",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.800827,-37.702,144.800827,-37.702],
+  "bbox": [
+    144.800827,
+    -37.702,
+    144.800827,
+    -37.702
+],
   "geometry": {"coordinates":[144.800827,-37.702],"type":"Point"}
 }

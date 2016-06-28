@@ -2,13 +2,14 @@
   "id": 186383935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.158005,-33.854568,151.158005,-33.854568",
     "geom:latitude":-33.854568,
     "geom:longitude":151.158005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186383935,
-    "wof:lastmodified":1449051514,
+    "wof:lastmodified":1466189073,
     "wof:name":"Building Hydraulic Services",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.158005,-33.854568,151.158005,-33.854568],
+  "bbox": [
+    151.158005,
+    -33.854568,
+    151.158005,
+    -33.854568
+],
   "geometry": {"coordinates":[151.158005,-33.854568],"type":"Point"}
 }

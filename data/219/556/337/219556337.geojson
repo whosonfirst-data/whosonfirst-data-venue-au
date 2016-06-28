@@ -2,13 +2,14 @@
   "id": 219556337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.025604,-33.907398,151.025604,-33.907398",
     "geom:latitude":-33.907398,
     "geom:longitude":151.025604,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Hume Hwy",
     "sg:city":"Yagoona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219556337,
-    "wof:lastmodified":1449071273,
+    "wof:lastmodified":1466190209,
     "wof:name":"Yagoona Post Office",
     "wof:parent_id":85774757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [151.025604,-33.907398,151.025604,-33.907398],
-  "geometry": {"coordinates":[151.025604,-33.907398],"type":"Point"}
+  "bbox": [
+    151.025604,
+    -33.907398,
+    151.025604,
+    -33.907398
+],
+  "geometry": {"coordinates":[151.02560399999999,-33.907398],"type":"Point"}
 }

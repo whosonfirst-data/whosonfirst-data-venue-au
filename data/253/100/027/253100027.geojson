@@ -2,13 +2,14 @@
   "id": 253100027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.804092,-37.793869,144.804092,-37.793869",
     "geom:latitude":-37.793869,
     "geom:longitude":144.804092,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Dinnell St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253100027,
-    "wof:lastmodified":1449065012,
+    "wof:lastmodified":1466188733,
     "wof:name":"Acorn Floors",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [144.804092,-37.793869,144.804092,-37.793869],
+  "bbox": [
+    144.804092,
+    -37.793869,
+    144.804092,
+    -37.793869
+],
   "geometry": {"coordinates":[144.804092,-37.793869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185764013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.143524,-32.721359,152.143524,-32.721359",
     "geom:latitude":-32.721359,
     "geom:longitude":152.143524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Stockton St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185764013,
-    "wof:lastmodified":1449008120,
+    "wof:lastmodified":1466190015,
     "wof:name":"Henny Penny Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [152.143524,-32.721359,152.143524,-32.721359],
-  "geometry": {"coordinates":[152.143524,-32.721359],"type":"Point"}
+  "bbox": [
+    152.143524,
+    -32.721359,
+    152.143524,
+    -32.721359
+],
+  "geometry": {"coordinates":[152.14352400000001,-32.721359],"type":"Point"}
 }

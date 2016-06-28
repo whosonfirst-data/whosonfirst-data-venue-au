@@ -2,13 +2,14 @@
   "id": 236674621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.041321,-30.886631,153.041321,-30.886631",
     "geom:latitude":-30.886631,
     "geom:longitude":153.041321,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Memorial Ave",
     "sg:city":"South West Rocks",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236674621,
-    "wof:lastmodified":1449004244,
+    "wof:lastmodified":1466191729,
     "wof:name":"Charlies Corner Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [153.041321,-30.886631,153.041321,-30.886631],
-  "geometry": {"coordinates":[153.041321,-30.886631],"type":"Point"}
+  "bbox": [
+    153.041321,
+    -30.886631,
+    153.041321,
+    -30.886631
+],
+  "geometry": {"coordinates":[153.04132100000001,-30.886631],"type":"Point"}
 }

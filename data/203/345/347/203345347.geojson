@@ -2,13 +2,14 @@
   "id": 203345347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.825958,-37.571663,143.825958,-37.571663",
     "geom:latitude":-37.571663,
     "geom:longitude":143.825958,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Latrobe St West",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203345347,
-    "wof:lastmodified":1449026719,
+    "wof:lastmodified":1466188596,
     "wof:name":"BOC Gas & Gear",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [143.825958,-37.571663,143.825958,-37.571663],
-  "geometry": {"coordinates":[143.825958,-37.571663],"type":"Point"}
+  "bbox": [
+    143.825958,
+    -37.571663,
+    143.825958,
+    -37.571663
+],
+  "geometry": {"coordinates":[143.82595800000001,-37.571663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202716127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.023315,-27.361202,153.023315,-27.361202",
     "geom:latitude":-27.361202,
     "geom:longitude":153.023315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Ellerdale St",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202716127,
-    "wof:lastmodified":1449060468,
+    "wof:lastmodified":1466189134,
     "wof:name":"Bay Peter",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.023315,-27.361202,153.023315,-27.361202],
+  "bbox": [
+    153.023315,
+    -27.361202,
+    153.023315,
+    -27.361202
+],
   "geometry": {"coordinates":[153.023315,-27.361202],"type":"Point"}
 }

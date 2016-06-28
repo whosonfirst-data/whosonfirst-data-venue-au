@@ -2,13 +2,14 @@
   "id": 202510829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.265472,-38.111542,145.265472,-38.111542",
     "geom:latitude":-38.111542,
     "geom:longitude":145.265472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Concord Crs",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202510829,
-    "wof:lastmodified":1449061651,
+    "wof:lastmodified":1466189658,
     "wof:name":"Ebtech Industries Pty Ltd",
     "wof:parent_id":85776593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [145.265472,-38.111542,145.265472,-38.111542],
-  "geometry": {"coordinates":[145.265472,-38.111542],"type":"Point"}
+  "bbox": [
+    145.265472,
+    -38.111542,
+    145.265472,
+    -38.111542
+],
+  "geometry": {"coordinates":[145.26547199999999,-38.111542],"type":"Point"}
 }

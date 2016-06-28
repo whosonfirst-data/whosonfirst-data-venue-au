@@ -2,13 +2,14 @@
   "id": 186400601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.80925,-19.266966,146.80925,-19.266966",
     "geom:latitude":-19.266966,
     "geom:longitude":146.80925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"583 Flinders St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186400601,
-    "wof:lastmodified":1449050503,
+    "wof:lastmodified":1466189319,
     "wof:name":"Cardno",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.80925,-19.266966,146.80925,-19.266966],
-  "geometry": {"coordinates":[146.80925,-19.266966],"type":"Point"}
+  "bbox": [
+    146.80925,
+    -19.266966,
+    146.80925,
+    -19.266966
+],
+  "geometry": {"coordinates":[146.80924999999999,-19.266966],"type":"Point"}
 }

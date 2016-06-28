@@ -2,13 +2,14 @@
   "id": 203140499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747711,-32.518551,115.747711,-32.518551",
     "geom:latitude":-32.518551,
     "geom:longitude":115.747711,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5/ 23 Rafferty Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203140499,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466189613,
     "wof:name":"Bridgestone Tyre Centre",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [115.747711,-32.518551,115.747711,-32.518551],
+  "bbox": [
+    115.747711,
+    -32.518551,
+    115.747711,
+    -32.518551
+],
   "geometry": {"coordinates":[115.747711,-32.518551],"type":"Point"}
 }

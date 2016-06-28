@@ -2,13 +2,14 @@
   "id": 219417351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.839005,-33.749313,150.839005,-33.749313",
     "geom:latitude":-33.749313,
     "geom:longitude":150.839005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Bottles Rd",
     "sg:city":"Plumpton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219417351,
-    "wof:lastmodified":1449071835,
+    "wof:lastmodified":1466188548,
     "wof:name":"Plumpton Public School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.839005,-33.749313,150.839005,-33.749313],
-  "geometry": {"coordinates":[150.839005,-33.749313],"type":"Point"}
+  "bbox": [
+    150.839005,
+    -33.749313,
+    150.839005,
+    -33.749313
+],
+  "geometry": {"coordinates":[150.83900499999999,-33.749313],"type":"Point"}
 }

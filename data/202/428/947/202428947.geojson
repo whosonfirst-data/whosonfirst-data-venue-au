@@ -2,13 +2,14 @@
   "id": 202428947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.957077,-37.84016,144.957077,-37.84016",
     "geom:latitude":-37.84016,
     "geom:longitude":144.957077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Bridport St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202428947,
-    "wof:lastmodified":1449062470,
+    "wof:lastmodified":1466188379,
     "wof:name":"Quantum Market Research",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [144.957077,-37.84016,144.957077,-37.84016],
+  "bbox": [
+    144.957077,
+    -37.84016,
+    144.957077,
+    -37.84016
+],
   "geometry": {"coordinates":[144.957077,-37.84016],"type":"Point"}
 }

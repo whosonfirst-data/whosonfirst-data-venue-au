@@ -2,13 +2,14 @@
   "id": 186456133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.186188,-33.902229,151.186188,-33.902229",
     "geom:latitude":-33.902229,
     "geom:longitude":151.186188,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Erskinville Rd & Union St",
     "sg:city":"Erskineville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186456133,
-    "wof:lastmodified":1449051175,
+    "wof:lastmodified":1466190067,
     "wof:name":"BP Australia Pty Ltd",
     "wof:parent_id":85774541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.186188,-33.902229,151.186188,-33.902229],
-  "geometry": {"coordinates":[151.186188,-33.902229],"type":"Point"}
+  "bbox": [
+    151.186188,
+    -33.902229,
+    151.186188,
+    -33.902229
+],
+  "geometry": {"coordinates":[151.18618799999999,-33.902229],"type":"Point"}
 }

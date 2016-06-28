@@ -2,13 +2,14 @@
   "id": 202730015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.645584,-34.787514,138.645584,-34.787514",
     "geom:latitude":-34.787514,
     "geom:longitude":138.645584,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Mengel Crt",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202730015,
-    "wof:lastmodified":1449062251,
+    "wof:lastmodified":1466189399,
     "wof:name":"Crystal Aluminium Windows And Doors",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aluminium"
     ]
 },
-  "bbox": [138.645584,-34.787514,138.645584,-34.787514],
-  "geometry": {"coordinates":[138.645584,-34.787514],"type":"Point"}
+  "bbox": [
+    138.645584,
+    -34.787514,
+    138.645584,
+    -34.787514
+],
+  "geometry": {"coordinates":[138.64558400000001,-34.787514],"type":"Point"}
 }

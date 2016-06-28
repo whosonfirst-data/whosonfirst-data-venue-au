@@ -2,13 +2,14 @@
   "id": 236640049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.987885,-33.939526,150.987885,-33.939526",
     "geom:latitude":-33.939526,
     "geom:longitude":150.987885,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Merris Pl",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236640049,
-    "wof:lastmodified":1449003022,
+    "wof:lastmodified":1466191731,
     "wof:name":"Bob Walker Plumbing",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [150.987885,-33.939526,150.987885,-33.939526],
-  "geometry": {"coordinates":[150.987885,-33.939526],"type":"Point"}
+  "bbox": [
+    150.987885,
+    -33.939526,
+    150.987885,
+    -33.939526
+],
+  "geometry": {"coordinates":[150.98788500000001,-33.939526],"type":"Point"}
 }

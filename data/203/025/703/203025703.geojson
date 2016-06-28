@@ -2,13 +2,14 @@
   "id": 203025703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.205093,-36.66901,147.205093,-36.66901",
     "geom:latitude":-36.66901,
     "geom:longitude":147.205093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RMB 6848",
     "sg:city":"Tawonga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203025703,
-    "wof:lastmodified":1449026540,
+    "wof:lastmodified":1466187703,
     "wof:name":"Mt Tawonga Floats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transport"
     ]
 },
-  "bbox": [147.205093,-36.66901,147.205093,-36.66901],
-  "geometry": {"coordinates":[147.205093,-36.66901],"type":"Point"}
+  "bbox": [
+    147.205093,
+    -36.66901,
+    147.205093,
+    -36.66901
+],
+  "geometry": {"coordinates":[147.20509300000001,-36.66901],"type":"Point"}
 }

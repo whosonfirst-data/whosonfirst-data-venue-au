@@ -2,13 +2,14 @@
   "id": 236902471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.561142,-35.024887,138.561142,-35.024887",
     "geom:latitude":-35.024887,
     "geom:longitude":138.561142,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 Main South Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236902471,
-    "wof:lastmodified":1449004211,
+    "wof:lastmodified":1466192187,
     "wof:name":"Subway",
     "wof:parent_id":85769151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [138.561142,-35.024887,138.561142,-35.024887],
-  "geometry": {"coordinates":[138.561142,-35.024887],"type":"Point"}
+  "bbox": [
+    138.561142,
+    -35.024887,
+    138.561142,
+    -35.024887
+],
+  "geometry": {"coordinates":[138.56114199999999,-35.024887],"type":"Point"}
 }

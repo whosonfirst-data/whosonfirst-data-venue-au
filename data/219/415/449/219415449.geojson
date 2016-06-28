@@ -2,13 +2,14 @@
   "id": 219415449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.847687,-33.737263,150.847687,-33.737263",
     "geom:latitude":-33.737263,
     "geom:longitude":150.847687,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Sperring Ave",
     "sg:city":"Oakhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219415449,
-    "wof:lastmodified":1449072947,
+    "wof:lastmodified":1466188526,
     "wof:name":"Skills Painting & Decorating",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [150.847687,-33.737263,150.847687,-33.737263],
-  "geometry": {"coordinates":[150.847687,-33.737263],"type":"Point"}
+  "bbox": [
+    150.847687,
+    -33.737263,
+    150.847687,
+    -33.737263
+],
+  "geometry": {"coordinates":[150.84768700000001,-33.737263],"type":"Point"}
 }

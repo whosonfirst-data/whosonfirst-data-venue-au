@@ -2,13 +2,14 @@
   "id": 220169833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.362503,-38.147533,144.362503,-38.147533",
     "geom:latitude":-38.147533,
     "geom:longitude":144.362503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220169833,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466188993,
     "wof:name":"Myer Geelong",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.362503,-38.147533,144.362503,-38.147533],
+  "bbox": [
+    144.362503,
+    -38.147533,
+    144.362503,
+    -38.147533
+],
   "geometry": {"coordinates":[144.362503,-38.147533],"type":"Point"}
 }

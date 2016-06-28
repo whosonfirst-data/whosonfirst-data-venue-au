@@ -2,13 +2,14 @@
   "id": 169782233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.590759,-38.606224,145.590759,-38.606224",
     "geom:latitude":-38.606224,
     "geom:longitude":145.590759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113-115 Graham St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169782233,
-    "wof:lastmodified":1449032673,
+    "wof:lastmodified":1466188411,
     "wof:name":"Rob's Fast Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [145.590759,-38.606224,145.590759,-38.606224],
-  "geometry": {"coordinates":[145.590759,-38.606224],"type":"Point"}
+  "bbox": [
+    145.590759,
+    -38.606224,
+    145.590759,
+    -38.606224
+],
+  "geometry": {"coordinates":[145.59075899999999,-38.606224],"type":"Point"}
 }

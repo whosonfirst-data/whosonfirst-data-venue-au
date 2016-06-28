@@ -2,13 +2,14 @@
   "id": 219491653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.058838,-33.909546,151.058838,-33.909546",
     "geom:latitude":-33.909546,
     "geom:longitude":151.058838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Macquarie St",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219491653,
-    "wof:lastmodified":1449070321,
+    "wof:lastmodified":1466189349,
     "wof:name":"Allens Insulations Pty Ltd",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "worker"
     ]
 },
-  "bbox": [151.058838,-33.909546,151.058838,-33.909546],
-  "geometry": {"coordinates":[151.058838,-33.909546],"type":"Point"}
+  "bbox": [
+    151.058838,
+    -33.909546,
+    151.058838,
+    -33.909546
+],
+  "geometry": {"coordinates":[151.05883800000001,-33.909546],"type":"Point"}
 }

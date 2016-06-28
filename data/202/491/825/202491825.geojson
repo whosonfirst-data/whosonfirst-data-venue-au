@@ -2,13 +2,14 @@
   "id": 202491825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.049271,-37.927162,145.049271,-37.927162",
     "geom:latitude":-37.927162,
     "geom:longitude":145.049271,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Patterson Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202491825,
-    "wof:lastmodified":1449060067,
+    "wof:lastmodified":1466189423,
     "wof:name":"VJ Painting Services",
     "wof:parent_id":85775331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [145.049271,-37.927162,145.049271,-37.927162],
+  "bbox": [
+    145.049271,
+    -37.927162,
+    145.049271,
+    -37.927162
+],
   "geometry": {"coordinates":[145.049271,-37.927162],"type":"Point"}
 }

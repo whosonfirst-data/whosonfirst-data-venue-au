@@ -2,13 +2,14 @@
   "id": 253205701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950867,-27.576357,151.950867,-27.576357",
     "geom:latitude":-27.576357,
     "geom:longitude":151.950867,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253205701,
-    "wof:lastmodified":1449064593,
+    "wof:lastmodified":1466190383,
     "wof:name":"Garden City Motor Inn",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.950867,-27.576357,151.950867,-27.576357],
-  "geometry": {"coordinates":[151.950867,-27.576357],"type":"Point"}
+  "bbox": [
+    151.950867,
+    -27.576357,
+    151.950867,
+    -27.576357
+],
+  "geometry": {"coordinates":[151.95086699999999,-27.576357],"type":"Point"}
 }

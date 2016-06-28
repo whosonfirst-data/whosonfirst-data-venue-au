@@ -2,13 +2,14 @@
   "id": 186205035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.883911,-31.455442,152.883911,-31.455442",
     "geom:latitude":-31.455442,
     "geom:longitude":152.883911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Jindalee Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186205035,
-    "wof:lastmodified":1449051981,
+    "wof:lastmodified":1466187108,
     "wof:name":"Centre Of Gravity Indoor Adventure Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "rock"
     ]
 },
-  "bbox": [152.883911,-31.455442,152.883911,-31.455442],
-  "geometry": {"coordinates":[152.883911,-31.455442],"type":"Point"}
+  "bbox": [
+    152.883911,
+    -31.455442,
+    152.883911,
+    -31.455442
+],
+  "geometry": {"coordinates":[152.88391100000001,-31.455442],"type":"Point"}
 }

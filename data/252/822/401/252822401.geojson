@@ -2,13 +2,14 @@
   "id": 252822401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.588013,-38.349895,143.588013,-38.349895",
     "geom:latitude":-38.349895,
     "geom:longitude":143.588013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Hearn St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252822401,
-    "wof:lastmodified":1449006470,
+    "wof:lastmodified":1466188323,
     "wof:name":"Colac Technical School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [143.588013,-38.349895,143.588013,-38.349895],
-  "geometry": {"coordinates":[143.588013,-38.349895],"type":"Point"}
+  "bbox": [
+    143.588013,
+    -38.349895,
+    143.588013,
+    -38.349895
+],
+  "geometry": {"coordinates":[143.58801299999999,-38.349895],"type":"Point"}
 }

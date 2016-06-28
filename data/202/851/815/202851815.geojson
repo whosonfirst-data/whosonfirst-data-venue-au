@@ -2,13 +2,14 @@
   "id": 202851815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.687149,-36.359089,146.687149,-36.359089",
     "geom:latitude":-36.359089,
     "geom:longitude":146.687149,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Ford St",
     "sg:city":"Beechworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202851815,
-    "wof:lastmodified":1449061756,
+    "wof:lastmodified":1466190375,
     "wof:name":"Beechworth Wine Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [146.687149,-36.359089,146.687149,-36.359089],
-  "geometry": {"coordinates":[146.687149,-36.359089],"type":"Point"}
+  "bbox": [
+    146.687149,
+    -36.359089,
+    146.687149,
+    -36.359089
+],
+  "geometry": {"coordinates":[146.68714900000001,-36.359089],"type":"Point"}
 }

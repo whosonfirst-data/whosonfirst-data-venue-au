@@ -2,13 +2,14 @@
   "id": 236065769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.83699,-37.720215,144.83699,-37.720215",
     "geom:latitude":-37.720215,
     "geom:longitude":144.83699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"664- 668 Old Calder Hwy",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236065769,
-    "wof:lastmodified":1449005200,
+    "wof:lastmodified":1466187942,
     "wof:name":"Wreckair",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.83699,-37.720215,144.83699,-37.720215],
-  "geometry": {"coordinates":[144.83699,-37.720215],"type":"Point"}
+  "bbox": [
+    144.83699,
+    -37.720215,
+    144.83699,
+    -37.720215
+],
+  "geometry": {"coordinates":[144.83698999999999,-37.720215],"type":"Point"}
 }

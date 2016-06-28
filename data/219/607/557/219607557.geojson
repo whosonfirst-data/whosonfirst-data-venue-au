@@ -2,13 +2,14 @@
   "id": 219607557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.149521,-33.916302,151.149521,-33.916302",
     "geom:latitude":-33.916302,
     "geom:longitude":151.149521,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Illawarra Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219607557,
-    "wof:lastmodified":1449070865,
+    "wof:lastmodified":1466190749,
     "wof:name":"Crown Tiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "layer"
     ]
 },
-  "bbox": [151.149521,-33.916302,151.149521,-33.916302],
-  "geometry": {"coordinates":[151.149521,-33.916302],"type":"Point"}
+  "bbox": [
+    151.149521,
+    -33.916302,
+    151.149521,
+    -33.916302
+],
+  "geometry": {"coordinates":[151.14952099999999,-33.916302],"type":"Point"}
 }

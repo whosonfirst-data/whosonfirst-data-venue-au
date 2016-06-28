@@ -2,13 +2,14 @@
   "id": 219585369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.000809,-33.919556,151.000809,-33.919556",
     "geom:latitude":-33.919556,
     "geom:longitude":151.000809,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15/ 57 Allinghim St",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219585369,
-    "wof:lastmodified":1449072737,
+    "wof:lastmodified":1466190589,
     "wof:name":"Guiles Engineering Pty Ltd",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [151.000809,-33.919556,151.000809,-33.919556],
+  "bbox": [
+    151.000809,
+    -33.919556,
+    151.000809,
+    -33.919556
+],
   "geometry": {"coordinates":[151.000809,-33.919556],"type":"Point"}
 }

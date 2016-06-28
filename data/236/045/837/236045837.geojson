@@ -2,13 +2,14 @@
   "id": 236045837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.920273,-37.766495,144.920273,-37.766495",
     "geom:latitude":-37.766495,
     "geom:longitude":144.920273,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Puckle St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236045837,
-    "wof:lastmodified":1449004780,
+    "wof:lastmodified":1466187530,
     "wof:name":"Silk Lane Boutique",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [144.920273,-37.766495,144.920273,-37.766495],
-  "geometry": {"coordinates":[144.920273,-37.766495],"type":"Point"}
+  "bbox": [
+    144.920273,
+    -37.766495,
+    144.920273,
+    -37.766495
+],
+  "geometry": {"coordinates":[144.92027300000001,-37.766495],"type":"Point"}
 }

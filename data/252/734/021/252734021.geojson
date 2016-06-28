@@ -2,13 +2,14 @@
   "id": 252734021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.665573,-33.342869,115.665573,-33.342869",
     "geom:latitude":-33.342869,
     "geom:longitude":115.665573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rodsted St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252734021,
-    "wof:lastmodified":1449006378,
+    "wof:lastmodified":1466187340,
     "wof:name":"Bethel Therapeutic Massage",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reflexology"
     ]
 },
-  "bbox": [115.665573,-33.342869,115.665573,-33.342869],
-  "geometry": {"coordinates":[115.665573,-33.342869],"type":"Point"}
+  "bbox": [
+    115.665573,
+    -33.342869,
+    115.665573,
+    -33.342869
+],
+  "geometry": {"coordinates":[115.66557299999999,-33.342869],"type":"Point"}
 }

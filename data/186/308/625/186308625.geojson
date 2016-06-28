@@ -2,13 +2,14 @@
   "id": 186308625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.982254,-30.665567,152.982254,-30.665567",
     "geom:latitude":-30.665567,
     "geom:longitude":152.982254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6154 Pacific Hwy",
     "sg:city":"Nambucca Heads",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186308625,
-    "wof:lastmodified":1449053092,
+    "wof:lastmodified":1466187830,
     "wof:name":"Motel Jabiru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.982254,-30.665567,152.982254,-30.665567],
-  "geometry": {"coordinates":[152.982254,-30.665567],"type":"Point"}
+  "bbox": [
+    152.982254,
+    -30.665567,
+    152.982254,
+    -30.665567
+],
+  "geometry": {"coordinates":[152.98225400000001,-30.665567],"type":"Point"}
 }

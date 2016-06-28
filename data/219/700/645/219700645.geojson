@@ -2,13 +2,14 @@
   "id": 219700645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.516235,-32.180019,152.516235,-32.180019",
     "geom:latitude":-32.180019,
     "geom:longitude":152.516235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Head St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219700645,
-    "wof:lastmodified":1449073607,
+    "wof:lastmodified":1466191157,
     "wof:name":"Forster Dolphin Lodge YHA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [152.516235,-32.180019,152.516235,-32.180019],
-  "geometry": {"coordinates":[152.516235,-32.180019],"type":"Point"}
+  "bbox": [
+    152.516235,
+    -32.180019,
+    152.516235,
+    -32.180019
+],
+  "geometry": {"coordinates":[152.51623499999999,-32.180019],"type":"Point"}
 }

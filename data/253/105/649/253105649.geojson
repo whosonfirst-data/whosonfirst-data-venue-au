@@ -2,13 +2,14 @@
   "id": 253105649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833694,-37.785168,144.833694,-37.785168",
     "geom:latitude":-37.785168,
     "geom:longitude":144.833694,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Devonshire Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253105649,
-    "wof:lastmodified":1449063967,
+    "wof:lastmodified":1466188849,
     "wof:name":"Olarenshaws Paint Centre",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [144.833694,-37.785168,144.833694,-37.785168],
-  "geometry": {"coordinates":[144.833694,-37.785168],"type":"Point"}
+  "bbox": [
+    144.833694,
+    -37.785168,
+    144.833694,
+    -37.785168
+],
+  "geometry": {"coordinates":[144.83369400000001,-37.785168],"type":"Point"}
 }

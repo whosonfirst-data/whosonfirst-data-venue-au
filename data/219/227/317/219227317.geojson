@@ -2,13 +2,14 @@
   "id": 219227317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.920441,-37.656052,144.920441,-37.656052",
     "geom:latitude":-37.656052,
     "geom:longitude":144.920441,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Humevale Crs",
     "sg:city":"Meadow Heights",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219227317,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466189877,
     "wof:name":"Super Tiling",
     "wof:parent_id":85777809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [144.920441,-37.656052,144.920441,-37.656052],
-  "geometry": {"coordinates":[144.920441,-37.656052],"type":"Point"}
+  "bbox": [
+    144.920441,
+    -37.656052,
+    144.920441,
+    -37.656052
+],
+  "geometry": {"coordinates":[144.92044100000001,-37.656052],"type":"Point"}
 }

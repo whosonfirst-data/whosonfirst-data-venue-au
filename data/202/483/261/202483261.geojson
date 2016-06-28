@@ -2,13 +2,14 @@
   "id": 202483261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.043823,-37.904278,145.043823,-37.904278",
     "geom:latitude":-37.904278,
     "geom:longitude":145.043823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"567 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202483261,
-    "wof:lastmodified":1449062119,
+    "wof:lastmodified":1466189255,
     "wof:name":"Home Of Lights",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "globe"
     ]
 },
-  "bbox": [145.043823,-37.904278,145.043823,-37.904278],
+  "bbox": [
+    145.043823,
+    -37.904278,
+    145.043823,
+    -37.904278
+],
   "geometry": {"coordinates":[145.043823,-37.904278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220024877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.617264,-35.015297,138.617264,-35.015297",
     "geom:latitude":-35.015297,
     "geom:longitude":138.617264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 5/ 186 Main Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220024877,
-    "wof:lastmodified":1449074409,
+    "wof:lastmodified":1466187224,
     "wof:name":"Simmons Richard",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [138.617264,-35.015297,138.617264,-35.015297],
-  "geometry": {"coordinates":[138.617264,-35.015297],"type":"Point"}
+  "bbox": [
+    138.617264,
+    -35.015297,
+    138.617264,
+    -35.015297
+],
+  "geometry": {"coordinates":[138.61726400000001,-35.015297],"type":"Point"}
 }

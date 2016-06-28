@@ -2,13 +2,14 @@
   "id": 236810035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.885635,-34.485397,150.885635,-34.485397",
     "geom:latitude":-34.485397,
     "geom:longitude":150.885635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Cowper St",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236810035,
-    "wof:lastmodified":1449002435,
+    "wof:lastmodified":1466192061,
     "wof:name":"Giuliani's Family Pizzeria",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [150.885635,-34.485397,150.885635,-34.485397],
-  "geometry": {"coordinates":[150.885635,-34.485397],"type":"Point"}
+  "bbox": [
+    150.885635,
+    -34.485397,
+    150.885635,
+    -34.485397
+],
+  "geometry": {"coordinates":[150.88563500000001,-34.485397],"type":"Point"}
 }

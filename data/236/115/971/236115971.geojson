@@ -2,13 +2,14 @@
   "id": 236115971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.916458,-37.771614,144.916458,-37.771614",
     "geom:latitude":-37.771614,
     "geom:longitude":144.916458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Maribyrnong Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236115971,
-    "wof:lastmodified":1449001658,
+    "wof:lastmodified":1466188958,
     "wof:name":"Gehrig Jan",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [144.916458,-37.771614,144.916458,-37.771614],
-  "geometry": {"coordinates":[144.916458,-37.771614],"type":"Point"}
+  "bbox": [
+    144.916458,
+    -37.771614,
+    144.916458,
+    -37.771614
+],
+  "geometry": {"coordinates":[144.91645800000001,-37.771614],"type":"Point"}
 }

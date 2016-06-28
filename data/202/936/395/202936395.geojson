@@ -2,13 +2,14 @@
   "id": 202936395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.103378,-30.274244,153.103378,-30.274244",
     "geom:latitude":-30.274244,
     "geom:longitude":153.103378,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Mackays Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202936395,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466190909,
     "wof:name":"Jenkins Lyn",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [153.103378,-30.274244,153.103378,-30.274244],
-  "geometry": {"coordinates":[153.103378,-30.274244],"type":"Point"}
+  "bbox": [
+    153.103378,
+    -30.274244,
+    153.103378,
+    -30.274244
+],
+  "geometry": {"coordinates":[153.10337799999999,-30.274244],"type":"Point"}
 }

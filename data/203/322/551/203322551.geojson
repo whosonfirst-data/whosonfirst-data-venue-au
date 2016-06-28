@@ -2,13 +2,14 @@
   "id": 203322551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.806808,-37.574574,143.806808,-37.574574",
     "geom:latitude":-37.574574,
     "geom:longitude":143.806808,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Kennedys Drv",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203322551,
-    "wof:lastmodified":1449024923,
+    "wof:lastmodified":1466188297,
     "wof:name":"Easyseal Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "spraying"
     ]
 },
-  "bbox": [143.806808,-37.574574,143.806808,-37.574574],
-  "geometry": {"coordinates":[143.806808,-37.574574],"type":"Point"}
+  "bbox": [
+    143.806808,
+    -37.574574,
+    143.806808,
+    -37.574574
+],
+  "geometry": {"coordinates":[143.80680799999999,-37.574574],"type":"Point"}
 }

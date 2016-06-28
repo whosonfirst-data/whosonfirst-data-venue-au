@@ -2,13 +2,14 @@
   "id": 203114125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.638283,-32.595268,115.638283,-32.595268",
     "geom:latitude":-32.595268,
     "geom:longitude":115.638283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Village Mews",
     "sg:city":"Wannanup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203114125,
-    "wof:lastmodified":1449025717,
+    "wof:lastmodified":1466189266,
     "wof:name":"Port Bouvard Sales Information Centre",
     "wof:parent_id":85780149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [115.638283,-32.595268,115.638283,-32.595268],
+  "bbox": [
+    115.638283,
+    -32.595268,
+    115.638283,
+    -32.595268
+],
   "geometry": {"coordinates":[115.638283,-32.595268],"type":"Point"}
 }

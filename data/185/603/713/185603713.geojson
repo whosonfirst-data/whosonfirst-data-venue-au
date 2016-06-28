@@ -2,13 +2,14 @@
   "id": 185603713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.832069,-32.043182,115.832069,-32.043182",
     "geom:latitude":-32.043182,
     "geom:longitude":115.832069,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Dale Pl",
     "sg:city":"Booragoon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185603713,
-    "wof:lastmodified":1449007988,
+    "wof:lastmodified":1466187033,
     "wof:name":"Phase Engineers Pty Ltd",
     "wof:parent_id":85775779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.832069,-32.043182,115.832069,-32.043182],
+  "bbox": [
+    115.832069,
+    -32.043182,
+    115.832069,
+    -32.043182
+],
   "geometry": {"coordinates":[115.832069,-32.043182],"type":"Point"}
 }

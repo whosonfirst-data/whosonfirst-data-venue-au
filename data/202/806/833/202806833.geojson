@@ -2,13 +2,14 @@
   "id": 202806833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.712524,-32.935329,151.712524,-32.935329",
     "geom:latitude":-32.935329,
     "geom:longitude":151.712524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Penman St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202806833,
-    "wof:lastmodified":1449060100,
+    "wof:lastmodified":1466190234,
     "wof:name":"Fuller Fabrications",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.712524,-32.935329,151.712524,-32.935329],
+  "bbox": [
+    151.712524,
+    -32.935329,
+    151.712524,
+    -32.935329
+],
   "geometry": {"coordinates":[151.712524,-32.935329],"type":"Point"}
 }

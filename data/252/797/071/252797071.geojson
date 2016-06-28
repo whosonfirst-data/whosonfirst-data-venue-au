@@ -2,13 +2,14 @@
   "id": 252797071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.396561,-41.570461,146.396561,-41.570461",
     "geom:latitude":-41.570461,
     "geom:longitude":146.396561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Shalstone Rd",
     "sg:city":"Mole Creek",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252797071,
-    "wof:lastmodified":1449006408,
+    "wof:lastmodified":1466188114,
     "wof:name":"Mike Cooper Golf Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "golf"
     ]
 },
-  "bbox": [146.396561,-41.570461,146.396561,-41.570461],
-  "geometry": {"coordinates":[146.396561,-41.570461],"type":"Point"}
+  "bbox": [
+    146.396561,
+    -41.570461,
+    146.396561,
+    -41.570461
+],
+  "geometry": {"coordinates":[146.39656099999999,-41.570461],"type":"Point"}
 }

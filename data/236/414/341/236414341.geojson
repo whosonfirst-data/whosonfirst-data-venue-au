@@ -2,13 +2,14 @@
   "id": 236414341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.77169,-32.154549,115.77169,-32.154549",
     "geom:latitude":-32.154549,
     "geom:longitude":115.77169,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 167 Redemptora Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236414341,
-    "wof:lastmodified":1449003147,
+    "wof:lastmodified":1466191225,
     "wof:name":"Toolwise Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [115.77169,-32.154549,115.77169,-32.154549],
-  "geometry": {"coordinates":[115.77169,-32.154549],"type":"Point"}
+  "bbox": [
+    115.77169,
+    -32.154549,
+    115.77169,
+    -32.154549
+],
+  "geometry": {"coordinates":[115.77169000000001,-32.154549],"type":"Point"}
 }

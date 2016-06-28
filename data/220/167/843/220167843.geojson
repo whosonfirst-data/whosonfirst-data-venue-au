@@ -2,13 +2,14 @@
   "id": 220167843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363495,-38.164146,144.363495,-38.164146",
     "geom:latitude":-38.164146,
     "geom:longitude":144.363495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Fyans St",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220167843,
-    "wof:lastmodified":1449074453,
+    "wof:lastmodified":1466188951,
     "wof:name":"Geelong Mowers Pty Ltd",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brushcutters"
     ]
 },
-  "bbox": [144.363495,-38.164146,144.363495,-38.164146],
+  "bbox": [
+    144.363495,
+    -38.164146,
+    144.363495,
+    -38.164146
+],
   "geometry": {"coordinates":[144.363495,-38.164146],"type":"Point"}
 }

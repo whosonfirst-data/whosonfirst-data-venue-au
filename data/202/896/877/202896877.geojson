@@ -2,13 +2,14 @@
   "id": 202896877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.133514,-30.039776,153.133514,-30.039776",
     "geom:latitude":-30.039776,
     "geom:longitude":153.133514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Sherwood Creek Rd",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202896877,
-    "wof:lastmodified":1449061035,
+    "wof:lastmodified":1466190645,
     "wof:name":"Reclaimed By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "custom"
     ]
 },
-  "bbox": [153.133514,-30.039776,153.133514,-30.039776],
-  "geometry": {"coordinates":[153.133514,-30.039776],"type":"Point"}
+  "bbox": [
+    153.133514,
+    -30.039776,
+    153.133514,
+    -30.039776
+],
+  "geometry": {"coordinates":[153.13351399999999,-30.039776],"type":"Point"}
 }

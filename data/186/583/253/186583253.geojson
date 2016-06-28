@@ -2,13 +2,14 @@
   "id": 186583253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.222092,-41.249874,147.222092,-41.249874",
     "geom:latitude":-41.249874,
     "geom:longitude":147.222092,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Doaks Rd",
     "sg:city":"Lilydale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186583253,
-    "wof:lastmodified":1449052447,
+    "wof:lastmodified":1466190877,
     "wof:name":"Woodstock Forest Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [147.222092,-41.249874,147.222092,-41.249874],
+  "bbox": [
+    147.222092,
+    -41.249874,
+    147.222092,
+    -41.249874
+],
   "geometry": {"coordinates":[147.222092,-41.249874],"type":"Point"}
 }

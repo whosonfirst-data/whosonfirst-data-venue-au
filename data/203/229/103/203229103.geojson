@@ -2,13 +2,14 @@
   "id": 203229103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.829605,-41.03896,145.829605,-41.03896",
     "geom:latitude":-41.03896,
     "geom:longitude":145.829605,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Wragg St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203229103,
-    "wof:lastmodified":1449026449,
+    "wof:lastmodified":1466187411,
     "wof:name":"Xpose Hair and Beauty",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artificial"
     ]
 },
-  "bbox": [145.829605,-41.03896,145.829605,-41.03896],
-  "geometry": {"coordinates":[145.829605,-41.03896],"type":"Point"}
+  "bbox": [
+    145.829605,
+    -41.03896,
+    145.829605,
+    -41.03896
+],
+  "geometry": {"coordinates":[145.82960499999999,-41.03896],"type":"Point"}
 }

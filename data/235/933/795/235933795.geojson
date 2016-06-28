@@ -2,13 +2,14 @@
   "id": 235933795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.577423,-38.153614,144.577423,-38.153614",
     "geom:latitude":-38.153614,
     "geom:longitude":144.577423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Dederang Ave",
     "sg:city":"Clifton Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235933795,
-    "wof:lastmodified":1449008331,
+    "wof:lastmodified":1466186920,
     "wof:name":"CSBC Slashing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.577423,-38.153614,144.577423,-38.153614],
-  "geometry": {"coordinates":[144.577423,-38.153614],"type":"Point"}
+  "bbox": [
+    144.577423,
+    -38.153614,
+    144.577423,
+    -38.153614
+],
+  "geometry": {"coordinates":[144.57742300000001,-38.153614],"type":"Point"}
 }

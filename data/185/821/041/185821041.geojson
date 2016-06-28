@@ -2,13 +2,14 @@
   "id": 185821041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.75029,-37.513767,145.75029,-37.513767",
     "geom:latitude":-37.513767,
     "geom:longitude":145.75029,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Falls Rd",
     "sg:city":"Marysville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185821041,
-    "wof:lastmodified":1449007487,
+    "wof:lastmodified":1466186983,
     "wof:name":"Blackwood Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.75029,-37.513767,145.75029,-37.513767],
-  "geometry": {"coordinates":[145.75029,-37.513767],"type":"Point"}
+  "bbox": [
+    145.75029,
+    -37.513767,
+    145.75029,
+    -37.513767
+],
+  "geometry": {"coordinates":[145.75029000000001,-37.513767],"type":"Point"}
 }

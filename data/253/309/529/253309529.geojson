@@ -2,13 +2,14 @@
   "id": 253309529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.437851,-37.988415,145.437851,-37.988415",
     "geom:latitude":-37.988415,
     "geom:longitude":145.437851,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Beaconsfield Emerald Rd",
     "sg:city":"Beaconsfield Upper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253309529,
-    "wof:lastmodified":1449063460,
+    "wof:lastmodified":1466190677,
     "wof:name":"Victorian Equestrian Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agistment"
     ]
 },
-  "bbox": [145.437851,-37.988415,145.437851,-37.988415],
-  "geometry": {"coordinates":[145.437851,-37.988415],"type":"Point"}
+  "bbox": [
+    145.437851,
+    -37.988415,
+    145.437851,
+    -37.988415
+],
+  "geometry": {"coordinates":[145.43785099999999,-37.988415],"type":"Point"}
 }

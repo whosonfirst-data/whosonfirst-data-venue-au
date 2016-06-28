@@ -2,13 +2,14 @@
   "id": 202418021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.921524,-37.833187,144.921524,-37.833187",
     "geom:latitude":-37.833187,
     "geom:longitude":144.921524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Plummer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202418021,
-    "wof:lastmodified":1449062107,
+    "wof:lastmodified":1466188087,
     "wof:name":"Australian Furniture Timbers",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [144.921524,-37.833187,144.921524,-37.833187],
-  "geometry": {"coordinates":[144.921524,-37.833187],"type":"Point"}
+  "bbox": [
+    144.921524,
+    -37.833187,
+    144.921524,
+    -37.833187
+],
+  "geometry": {"coordinates":[144.92152400000001,-37.833187],"type":"Point"}
 }

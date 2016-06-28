@@ -2,13 +2,14 @@
   "id": 219789393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.734726,-19.300549,146.734726,-19.300549",
     "geom:latitude":-19.300549,
     "geom:longitude":146.734726,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Thuringowa Drv & Castlemaine Sts",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219789393,
-    "wof:lastmodified":1449071989,
+    "wof:lastmodified":1466191257,
     "wof:name":"Simply Style Cuts",
     "wof:parent_id":85770141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [146.734726,-19.300549,146.734726,-19.300549],
-  "geometry": {"coordinates":[146.734726,-19.300549],"type":"Point"}
+  "bbox": [
+    146.734726,
+    -19.300549,
+    146.734726,
+    -19.300549
+],
+  "geometry": {"coordinates":[146.73472599999999,-19.300549],"type":"Point"}
 }

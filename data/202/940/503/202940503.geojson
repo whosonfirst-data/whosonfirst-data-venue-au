@@ -2,13 +2,14 @@
   "id": 202940503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.105423,-30.209129,153.105423,-30.209129",
     "geom:latitude":-30.209129,
     "geom:longitude":153.105423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Mardells Rd",
     "sg:city":"Central Bucca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202940503,
-    "wof:lastmodified":1449060741,
+    "wof:lastmodified":1466191044,
     "wof:name":"Bucca Palms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.105423,-30.209129,153.105423,-30.209129],
+  "bbox": [
+    153.105423,
+    -30.209129,
+    153.105423,
+    -30.209129
+],
   "geometry": {"coordinates":[153.105423,-30.209129],"type":"Point"}
 }

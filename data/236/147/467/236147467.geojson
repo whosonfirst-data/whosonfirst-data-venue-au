@@ -2,13 +2,14 @@
   "id": 236147467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.850815,-34.742771,135.850815,-34.742771",
     "geom:latitude":-34.742771,
     "geom:longitude":135.850815,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Proper Bay Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236147467,
-    "wof:lastmodified":1449004810,
+    "wof:lastmodified":1466189479,
     "wof:name":"Valente Trawling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [135.850815,-34.742771,135.850815,-34.742771],
-  "geometry": {"coordinates":[135.850815,-34.742771],"type":"Point"}
+  "bbox": [
+    135.850815,
+    -34.742771,
+    135.850815,
+    -34.742771
+],
+  "geometry": {"coordinates":[135.85081500000001,-34.742771],"type":"Point"}
 }

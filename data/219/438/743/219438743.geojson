@@ -2,13 +2,14 @@
   "id": 219438743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.825302,-32.263733,115.825302,-32.263733",
     "geom:latitude":-32.263733,
     "geom:longitude":115.825302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Homestead Drv",
     "sg:city":"Wellard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219438743,
-    "wof:lastmodified":1449071595,
+    "wof:lastmodified":1466188845,
     "wof:name":"Collins D & K G",
     "wof:parent_id":85770599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [115.825302,-32.263733,115.825302,-32.263733],
-  "geometry": {"coordinates":[115.825302,-32.263733],"type":"Point"}
+  "bbox": [
+    115.825302,
+    -32.263733,
+    115.825302,
+    -32.263733
+],
+  "geometry": {"coordinates":[115.82530199999999,-32.263733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236068881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.74057,-37.725807,144.74057,-37.725807",
     "geom:latitude":-37.725807,
     "geom:longitude":144.74057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Royal Crs",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236068881,
-    "wof:lastmodified":1449003332,
+    "wof:lastmodified":1466188009,
     "wof:name":"Desi Kossivis",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "make-up"
     ]
 },
-  "bbox": [144.74057,-37.725807,144.74057,-37.725807],
-  "geometry": {"coordinates":[144.74057,-37.725807],"type":"Point"}
+  "bbox": [
+    144.74057,
+    -37.725807,
+    144.74057,
+    -37.725807
+],
+  "geometry": {"coordinates":[144.74056999999999,-37.725807],"type":"Point"}
 }

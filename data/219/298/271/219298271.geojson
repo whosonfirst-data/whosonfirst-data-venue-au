@@ -2,13 +2,14 @@
   "id": 219298271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.933456,-38.160831,145.933456,-38.160831",
     "geom:latitude":-38.160831,
     "geom:longitude":145.933456,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Barkly St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219298271,
-    "wof:lastmodified":1449071362,
+    "wof:lastmodified":1466187513,
     "wof:name":"Eury, Jenny Dr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.933456,-38.160831,145.933456,-38.160831],
-  "geometry": {"coordinates":[145.933456,-38.160831],"type":"Point"}
+  "bbox": [
+    145.933456,
+    -38.160831,
+    145.933456,
+    -38.160831
+],
+  "geometry": {"coordinates":[145.93345600000001,-38.160831],"type":"Point"}
 }

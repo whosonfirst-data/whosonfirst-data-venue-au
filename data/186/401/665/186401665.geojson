@@ -2,13 +2,14 @@
   "id": 186401665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.759613,-19.281246,146.759613,-19.281246",
     "geom:latitude":-19.281246,
     "geom:longitude":146.759613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 Nathan Plaza",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186401665,
-    "wof:lastmodified":1449052612,
+    "wof:lastmodified":1466189335,
     "wof:name":"Sanity",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [146.759613,-19.281246,146.759613,-19.281246],
+  "bbox": [
+    146.759613,
+    -19.281246,
+    146.759613,
+    -19.281246
+],
   "geometry": {"coordinates":[146.759613,-19.281246],"type":"Point"}
 }

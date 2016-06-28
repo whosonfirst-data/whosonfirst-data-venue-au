@@ -2,13 +2,14 @@
   "id": 202446733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.958496,-37.832436,144.958496,-37.832436",
     "geom:latitude":-37.832436,
     "geom:longitude":144.958496,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Coventry St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202446733,
-    "wof:lastmodified":1449062437,
+    "wof:lastmodified":1466188710,
     "wof:name":"Household Linens Australia",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bed"
     ]
 },
-  "bbox": [144.958496,-37.832436,144.958496,-37.832436],
+  "bbox": [
+    144.958496,
+    -37.832436,
+    144.958496,
+    -37.832436
+],
   "geometry": {"coordinates":[144.958496,-37.832436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235952581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.947678,-30.088852,145.947678,-30.088852",
     "geom:latitude":-30.088852,
     "geom:longitude":145.947678,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rear 70 Darling St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235952581,
-    "wof:lastmodified":1449008494,
+    "wof:lastmodified":1466187083,
     "wof:name":"White's Transport (Bourke)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.947678,-30.088852,145.947678,-30.088852],
+  "bbox": [
+    145.947678,
+    -30.088852,
+    145.947678,
+    -30.088852
+],
   "geometry": {"coordinates":[145.947678,-30.088852],"type":"Point"}
 }

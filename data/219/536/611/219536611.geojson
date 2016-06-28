@@ -2,13 +2,14 @@
   "id": 219536611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.042892,-33.932587,151.042892,-33.932587",
     "geom:latitude":-33.932587,
     "geom:longitude":151.042892,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Canterbury Rd",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219536611,
-    "wof:lastmodified":1449072492,
+    "wof:lastmodified":1466190304,
     "wof:name":"Canterbury Mitsubishi",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [151.042892,-33.932587,151.042892,-33.932587],
-  "geometry": {"coordinates":[151.042892,-33.932587],"type":"Point"}
+  "bbox": [
+    151.042892,
+    -33.932587,
+    151.042892,
+    -33.932587
+],
+  "geometry": {"coordinates":[151.04289199999999,-33.932587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203012741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.496857,-20.698803,139.496857,-20.698803",
     "geom:latitude":-20.698803,
     "geom:longitude":139.496857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Richardson Rd",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203012741,
-    "wof:lastmodified":1449026678,
+    "wof:lastmodified":1466187316,
     "wof:name":"Century Drilling Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [139.496857,-20.698803,139.496857,-20.698803],
-  "geometry": {"coordinates":[139.496857,-20.698803],"type":"Point"}
+  "bbox": [
+    139.496857,
+    -20.698803,
+    139.496857,
+    -20.698803
+],
+  "geometry": {"coordinates":[139.49685700000001,-20.698803],"type":"Point"}
 }

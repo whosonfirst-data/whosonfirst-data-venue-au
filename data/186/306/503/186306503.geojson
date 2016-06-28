@@ -2,13 +2,14 @@
   "id": 186306503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.998077,-30.613447,152.998077,-30.613447",
     "geom:latitude":-30.613447,
     "geom:longitude":152.998077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Eggleton St",
     "sg:city":"Hyland Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186306503,
-    "wof:lastmodified":1449052917,
+    "wof:lastmodified":1466187815,
     "wof:name":"Hibiscus Gas & Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [152.998077,-30.613447,152.998077,-30.613447],
-  "geometry": {"coordinates":[152.998077,-30.613447],"type":"Point"}
+  "bbox": [
+    152.998077,
+    -30.613447,
+    152.998077,
+    -30.613447
+],
+  "geometry": {"coordinates":[152.99807699999999,-30.613447],"type":"Point"}
 }

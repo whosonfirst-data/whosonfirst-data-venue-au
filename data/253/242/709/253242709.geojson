@@ -2,13 +2,14 @@
   "id": 253242709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.916565,-27.588486,151.916565,-27.588486",
     "geom:latitude":-27.588486,
     "geom:longitude":151.916565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"340- 360 Anzac Ave",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253242709,
-    "wof:lastmodified":1449065423,
+    "wof:lastmodified":1466190370,
     "wof:name":"Smorgon Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchant"
     ]
 },
-  "bbox": [151.916565,-27.588486,151.916565,-27.588486],
-  "geometry": {"coordinates":[151.916565,-27.588486],"type":"Point"}
+  "bbox": [
+    151.916565,
+    -27.588486,
+    151.916565,
+    -27.588486
+],
+  "geometry": {"coordinates":[151.91656499999999,-27.588486],"type":"Point"}
 }

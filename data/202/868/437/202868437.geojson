@@ -2,13 +2,14 @@
   "id": 202868437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.618057,-25.631645,151.618057,-25.631645",
     "geom:latitude":-25.631645,
     "geom:longitude":151.618057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Nanango Rd",
     "sg:city":"Gayndah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202868437,
-    "wof:lastmodified":1449060213,
+    "wof:lastmodified":1466190441,
     "wof:name":"Gayndah Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [151.618057,-25.631645,151.618057,-25.631645],
-  "geometry": {"coordinates":[151.618057,-25.631645],"type":"Point"}
+  "bbox": [
+    151.618057,
+    -25.631645,
+    151.618057,
+    -25.631645
+],
+  "geometry": {"coordinates":[151.61805699999999,-25.631645],"type":"Point"}
 }

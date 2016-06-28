@@ -2,13 +2,14 @@
   "id": 186388009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.851929,-19.346121,146.851929,-19.346121",
     "geom:latitude":-19.346121,
     "geom:longitude":146.851929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11- 13 Hunter St",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186388009,
-    "wof:lastmodified":1449050376,
+    "wof:lastmodified":1466189130,
     "wof:name":"Townsville Local Cartage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [146.851929,-19.346121,146.851929,-19.346121],
-  "geometry": {"coordinates":[146.851929,-19.346121],"type":"Point"}
+  "bbox": [
+    146.851929,
+    -19.346121,
+    146.851929,
+    -19.346121
+],
+  "geometry": {"coordinates":[146.85192900000001,-19.346121],"type":"Point"}
 }

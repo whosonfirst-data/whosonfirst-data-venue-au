@@ -2,13 +2,14 @@
   "id": 186483525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.778549,-19.315145,146.778549,-19.315145",
     "geom:latitude":-19.315145,
     "geom:longitude":146.778549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Oleander St",
     "sg:city":"(cnr Yolanda Drv) Annandale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186483525,
-    "wof:lastmodified":1449052437,
+    "wof:lastmodified":1466190548,
     "wof:name":"Annandale Preschool",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [146.778549,-19.315145,146.778549,-19.315145],
+  "bbox": [
+    146.778549,
+    -19.315145,
+    146.778549,
+    -19.315145
+],
   "geometry": {"coordinates":[146.778549,-19.315145],"type":"Point"}
 }

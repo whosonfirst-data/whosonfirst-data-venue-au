@@ -2,13 +2,14 @@
   "id": 185880071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.703613,-25.540131,152.703613,-25.540131",
     "geom:latitude":-25.540131,
     "geom:longitude":152.703613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Richmond St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185880071,
-    "wof:lastmodified":1449008224,
+    "wof:lastmodified":1466187673,
     "wof:name":"Postan Logging",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "timber"
     ]
 },
-  "bbox": [152.703613,-25.540131,152.703613,-25.540131],
-  "geometry": {"coordinates":[152.703613,-25.540131],"type":"Point"}
+  "bbox": [
+    152.703613,
+    -25.540131,
+    152.703613,
+    -25.540131
+],
+  "geometry": {"coordinates":[152.70361299999999,-25.540131],"type":"Point"}
 }

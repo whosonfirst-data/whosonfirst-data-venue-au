@@ -2,13 +2,14 @@
   "id": 236785871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.781265,-26.952848,152.781265,-26.952848",
     "geom:latitude":-26.952848,
     "geom:longitude":152.781265,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 George St",
     "sg:city":"Woodford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236785871,
-    "wof:lastmodified":1449004566,
+    "wof:lastmodified":1466192038,
     "wof:name":"Allan Draper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.781265,-26.952848,152.781265,-26.952848],
-  "geometry": {"coordinates":[152.781265,-26.952848],"type":"Point"}
+  "bbox": [
+    152.781265,
+    -26.952848,
+    152.781265,
+    -26.952848
+],
+  "geometry": {"coordinates":[152.78126499999999,-26.952848],"type":"Point"}
 }

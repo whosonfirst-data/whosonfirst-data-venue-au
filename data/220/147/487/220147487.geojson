@@ -2,13 +2,14 @@
   "id": 220147487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.352676,-38.146355,144.352676,-38.146355",
     "geom:latitude":-38.146355,
     "geom:longitude":144.352676,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 8 Level 1, 240 Latrobe Tce",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220147487,
-    "wof:lastmodified":1449074782,
+    "wof:lastmodified":1466188541,
     "wof:name":"Adsteam Agency Pty Limited",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [144.352676,-38.146355,144.352676,-38.146355],
+  "bbox": [
+    144.352676,
+    -38.146355,
+    144.352676,
+    -38.146355
+],
   "geometry": {"coordinates":[144.352676,-38.146355],"type":"Point"}
 }

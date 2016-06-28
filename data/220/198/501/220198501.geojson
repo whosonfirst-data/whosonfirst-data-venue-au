@@ -2,13 +2,14 @@
   "id": 220198501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.579514,-38.157536,144.579514,-38.157536",
     "geom:latitude":-38.157536,
     "geom:longitude":144.579514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Panpandi Dr",
     "sg:city":"Clifton Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220198501,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466189383,
     "wof:name":"A+ Hospitality Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.579514,-38.157536,144.579514,-38.157536],
-  "geometry": {"coordinates":[144.579514,-38.157536],"type":"Point"}
+  "bbox": [
+    144.579514,
+    -38.157536,
+    144.579514,
+    -38.157536
+],
+  "geometry": {"coordinates":[144.57951399999999,-38.157536],"type":"Point"}
 }

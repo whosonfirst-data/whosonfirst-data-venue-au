@@ -2,13 +2,14 @@
   "id": 236764501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.979507,-27.08,152.979507,-27.08",
     "geom:latitude":-27.08,
     "geom:longitude":152.979507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 19 Learjet Drv",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236764501,
-    "wof:lastmodified":1449005064,
+    "wof:lastmodified":1466191916,
     "wof:name":"Red Hot Parcel Taxis",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [152.979507,-27.08,152.979507,-27.08],
-  "geometry": {"coordinates":[152.979507,-27.08],"type":"Point"}
+  "bbox": [
+    152.979507,
+    -27.08,
+    152.979507,
+    -27.08
+],
+  "geometry": {"coordinates":[152.97950700000001,-27.08],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186149063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.732529,-31.485033,152.732529,-31.485033",
     "geom:latitude":-31.485033,
     "geom:longitude":152.732529,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Commerce St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186149063,
-    "wof:lastmodified":1449050261,
+    "wof:lastmodified":1466190020,
     "wof:name":"Wauchope Waste & Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "waste"
     ]
 },
-  "bbox": [152.732529,-31.485033,152.732529,-31.485033],
+  "bbox": [
+    152.732529,
+    -31.485033,
+    152.732529,
+    -31.485033
+],
   "geometry": {"coordinates":[152.732529,-31.485033],"type":"Point"}
 }

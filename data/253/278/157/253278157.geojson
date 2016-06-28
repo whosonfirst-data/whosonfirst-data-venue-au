@@ -2,13 +2,14 @@
   "id": 253278157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.939316,-27.664768,151.939316,-27.664768",
     "geom:latitude":-27.664768,
     "geom:longitude":151.939316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Hodgsonvale Rd",
     "sg:city":"Hodgson Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253278157,
-    "wof:lastmodified":1449064460,
+    "wof:lastmodified":1466190551,
     "wof:name":"Greg Myers & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.939316,-27.664768,151.939316,-27.664768],
-  "geometry": {"coordinates":[151.939316,-27.664768],"type":"Point"}
+  "bbox": [
+    151.939316,
+    -27.664768,
+    151.939316,
+    -27.664768
+],
+  "geometry": {"coordinates":[151.93931599999999,-27.664768],"type":"Point"}
 }

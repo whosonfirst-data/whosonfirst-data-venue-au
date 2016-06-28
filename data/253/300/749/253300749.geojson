@@ -2,13 +2,14 @@
   "id": 253300749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.901077,-24.215479,151.901077,-24.215479",
     "geom:latitude":-24.215479,
     "geom:longitude":151.901077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Tavern Rd",
     "sg:city":"Agnes Water",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253300749,
-    "wof:lastmodified":1449064492,
+    "wof:lastmodified":1466190778,
     "wof:name":"Agnes Water Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.901077,-24.215479,151.901077,-24.215479],
-  "geometry": {"coordinates":[151.901077,-24.215479],"type":"Point"}
+  "bbox": [
+    151.901077,
+    -24.215479,
+    151.901077,
+    -24.215479
+],
+  "geometry": {"coordinates":[151.90107699999999,-24.215479],"type":"Point"}
 }

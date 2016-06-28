@@ -2,13 +2,14 @@
   "id": 202977177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.207855,-33.836773,151.207855,-33.836773",
     "geom:latitude":-33.836773,
     "geom:longitude":151.207855,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Grd Flr, 56 Berry St",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202977177,
-    "wof:lastmodified":1449062731,
+    "wof:lastmodified":1466191110,
     "wof:name":"Genesys Wealth Advisers",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.207855,-33.836773,151.207855,-33.836773],
+  "bbox": [
+    151.207855,
+    -33.836773,
+    151.207855,
+    -33.836773
+],
   "geometry": {"coordinates":[151.207855,-33.836773],"type":"Point"}
 }

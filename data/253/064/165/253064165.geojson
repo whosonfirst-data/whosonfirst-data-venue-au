@@ -2,13 +2,14 @@
   "id": 253064165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.771164,-37.757805,144.771164,-37.757805",
     "geom:latitude":-37.757805,
     "geom:longitude":144.771164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Tasman Ave",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253064165,
-    "wof:lastmodified":1449063873,
+    "wof:lastmodified":1466188120,
     "wof:name":"Hardware Entertainment",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [144.771164,-37.757805,144.771164,-37.757805],
+  "bbox": [
+    144.771164,
+    -37.757805,
+    144.771164,
+    -37.757805
+],
   "geometry": {"coordinates":[144.771164,-37.757805],"type":"Point"}
 }

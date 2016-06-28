@@ -2,13 +2,14 @@
   "id": 253132827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.269257,-27.878695,151.269257,-27.878695",
     "geom:latitude":-27.878695,
     "geom:longitude":151.269257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Campbell St",
     "sg:city":"Millmerran",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253132827,
-    "wof:lastmodified":1449064264,
+    "wof:lastmodified":1466189299,
     "wof:name":"Millmerran Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.269257,-27.878695,151.269257,-27.878695],
-  "geometry": {"coordinates":[151.269257,-27.878695],"type":"Point"}
+  "bbox": [
+    151.269257,
+    -27.878695,
+    151.269257,
+    -27.878695
+],
+  "geometry": {"coordinates":[151.26925700000001,-27.878695],"type":"Point"}
 }

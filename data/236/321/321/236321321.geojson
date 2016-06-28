@@ -2,13 +2,14 @@
   "id": 236321321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.74971,-32.055382,115.74971,-32.055382",
     "geom:latitude":-32.055382,
     "geom:longitude":115.74971,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6, Fremantle Malls, William St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236321321,
-    "wof:lastmodified":1449001736,
+    "wof:lastmodified":1466190612,
     "wof:name":"Fremantle Earthcare Pharmacy",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [115.74971,-32.055382,115.74971,-32.055382],
-  "geometry": {"coordinates":[115.74971,-32.055382],"type":"Point"}
+  "bbox": [
+    115.74971,
+    -32.055382,
+    115.74971,
+    -32.055382
+],
+  "geometry": {"coordinates":[115.74970999999999,-32.055382],"type":"Point"}
 }

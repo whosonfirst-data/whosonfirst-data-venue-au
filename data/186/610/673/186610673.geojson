@@ -2,13 +2,14 @@
   "id": 186610673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.046906,-34.279816,146.046906,-34.279816",
     "geom:latitude":-34.279816,
     "geom:longitude":146.046906,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Kooba St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186610673,
-    "wof:lastmodified":1449052987,
+    "wof:lastmodified":1466191047,
     "wof:name":"Marsh J R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.046906,-34.279816,146.046906,-34.279816],
-  "geometry": {"coordinates":[146.046906,-34.279816],"type":"Point"}
+  "bbox": [
+    146.046906,
+    -34.279816,
+    146.046906,
+    -34.279816
+],
+  "geometry": {"coordinates":[146.04690600000001,-34.279816],"type":"Point"}
 }

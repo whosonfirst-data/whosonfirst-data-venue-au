@@ -2,13 +2,14 @@
   "id": 169748021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115234,-27.212238,153.115234,-27.212238",
     "geom:latitude":-27.212238,
     "geom:longitude":153.115234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Alexander St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169748021,
-    "wof:lastmodified":1449035146,
+    "wof:lastmodified":1466189973,
     "wof:name":"The Music Broker",
     "wof:parent_id":85780439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "entertainment"
     ]
 },
-  "bbox": [153.115234,-27.212238,153.115234,-27.212238],
-  "geometry": {"coordinates":[153.115234,-27.212238],"type":"Point"}
+  "bbox": [
+    153.115234,
+    -27.212238,
+    153.115234,
+    -27.212238
+],
+  "geometry": {"coordinates":[153.11523399999999,-27.212238],"type":"Point"}
 }

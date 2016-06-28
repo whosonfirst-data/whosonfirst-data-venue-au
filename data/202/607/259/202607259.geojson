@@ -2,13 +2,14 @@
   "id": 202607259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.70665,-33.754433,150.70665,-33.754433",
     "geom:latitude":-33.754433,
     "geom:longitude":150.70665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Henry St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202607259,
-    "wof:lastmodified":1449060440,
+    "wof:lastmodified":1466187387,
     "wof:name":"My Music",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "musical"
     ]
 },
-  "bbox": [150.70665,-33.754433,150.70665,-33.754433],
+  "bbox": [
+    150.70665,
+    -33.754433,
+    150.70665,
+    -33.754433
+],
   "geometry": {"coordinates":[150.70665,-33.754433],"type":"Point"}
 }

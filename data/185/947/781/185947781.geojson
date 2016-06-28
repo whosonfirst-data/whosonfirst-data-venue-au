@@ -2,13 +2,14 @@
   "id": 185947781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.50621,-33.250938,151.50621,-33.250938",
     "geom:latitude":-33.250938,
     "geom:longitude":151.50621,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Maxwell Ave",
     "sg:city":"Gorokan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185947781,
-    "wof:lastmodified":1449007756,
+    "wof:lastmodified":1466188446,
     "wof:name":"Nails By Della",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artificial"
     ]
 },
-  "bbox": [151.50621,-33.250938,151.50621,-33.250938],
-  "geometry": {"coordinates":[151.50621,-33.250938],"type":"Point"}
+  "bbox": [
+    151.50621,
+    -33.250938,
+    151.50621,
+    -33.250938
+],
+  "geometry": {"coordinates":[151.50621000000001,-33.250938],"type":"Point"}
 }

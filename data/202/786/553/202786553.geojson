@@ -2,13 +2,14 @@
   "id": 202786553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.783569,-32.928558,151.783569,-32.928558",
     "geom:latitude":-32.928558,
     "geom:longitude":151.783569,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202786553,
-    "wof:lastmodified":1449060433,
+    "wof:lastmodified":1466190058,
     "wof:name":"Newcastle City Agents",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "searcher"
     ]
 },
-  "bbox": [151.783569,-32.928558,151.783569,-32.928558],
+  "bbox": [
+    151.783569,
+    -32.928558,
+    151.783569,
+    -32.928558
+],
   "geometry": {"coordinates":[151.783569,-32.928558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235949297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.719772,-31.823946,149.719772,-31.823946",
     "geom:latitude":-31.823946,
     "geom:longitude":149.719772,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Binnia St",
     "sg:city":"Coolah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235949297,
-    "wof:lastmodified":1449008462,
+    "wof:lastmodified":1466187056,
     "wof:name":"Black Stump Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [149.719772,-31.823946,149.719772,-31.823946],
-  "geometry": {"coordinates":[149.719772,-31.823946],"type":"Point"}
+  "bbox": [
+    149.719772,
+    -31.823946,
+    149.719772,
+    -31.823946
+],
+  "geometry": {"coordinates":[149.71977200000001,-31.823946],"type":"Point"}
 }

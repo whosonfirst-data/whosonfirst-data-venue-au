@@ -2,13 +2,14 @@
   "id": 202493915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.043472,-37.904491,145.043472,-37.904491",
     "geom:latitude":-37.904491,
     "geom:longitude":145.043472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"636 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202493915,
-    "wof:lastmodified":1449060916,
+    "wof:lastmodified":1466189450,
     "wof:name":"Pizza Haven",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [145.043472,-37.904491,145.043472,-37.904491],
-  "geometry": {"coordinates":[145.043472,-37.904491],"type":"Point"}
+  "bbox": [
+    145.043472,
+    -37.904491,
+    145.043472,
+    -37.904491
+],
+  "geometry": {"coordinates":[145.04347200000001,-37.904491],"type":"Point"}
 }

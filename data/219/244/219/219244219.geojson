@@ -2,13 +2,14 @@
   "id": 219244219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.009811,-37.769104,145.009811,-37.769104",
     "geom:latitude":-37.769104,
     "geom:longitude":145.009811,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Oamaru St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219244219,
-    "wof:lastmodified":1449071791,
+    "wof:lastmodified":1466186951,
     "wof:name":"Hartwell G F",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [145.009811,-37.769104,145.009811,-37.769104],
-  "geometry": {"coordinates":[145.009811,-37.769104],"type":"Point"}
+  "bbox": [
+    145.009811,
+    -37.769104,
+    145.009811,
+    -37.769104
+],
+  "geometry": {"coordinates":[145.00981100000001,-37.769104],"type":"Point"}
 }

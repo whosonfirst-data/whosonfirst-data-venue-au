@@ -2,13 +2,14 @@
   "id": 219523619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.103561,-33.910786,151.103561,-33.910786",
     "geom:latitude":-33.910786,
     "geom:longitude":151.103561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Beamish St",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219523619,
-    "wof:lastmodified":1449072411,
+    "wof:lastmodified":1466189960,
     "wof:name":"A J's Seafood",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [151.103561,-33.910786,151.103561,-33.910786],
-  "geometry": {"coordinates":[151.103561,-33.910786],"type":"Point"}
+  "bbox": [
+    151.103561,
+    -33.910786,
+    151.103561,
+    -33.910786
+],
+  "geometry": {"coordinates":[151.10356100000001,-33.910786],"type":"Point"}
 }

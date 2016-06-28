@@ -2,13 +2,14 @@
   "id": 186257017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.911423,-31.435587,152.911423,-31.435587",
     "geom:latitude":-31.435587,
     "geom:longitude":152.911423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lake Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186257017,
-    "wof:lastmodified":1449051167,
+    "wof:lastmodified":1466187462,
     "wof:name":"Gregory David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.911423,-31.435587,152.911423,-31.435587],
-  "geometry": {"coordinates":[152.911423,-31.435587],"type":"Point"}
+  "bbox": [
+    152.911423,
+    -31.435587,
+    152.911423,
+    -31.435587
+],
+  "geometry": {"coordinates":[152.91142300000001,-31.435587],"type":"Point"}
 }

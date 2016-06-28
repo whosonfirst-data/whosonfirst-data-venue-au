@@ -2,13 +2,14 @@
   "id": 220050597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.157043,-33.348946,116.157043,-33.348946",
     "geom:latitude":-33.348946,
     "geom:longitude":116.157043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lawley St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220050597,
-    "wof:lastmodified":1449074496,
+    "wof:lastmodified":1466187508,
     "wof:name":"Collie Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [116.157043,-33.348946,116.157043,-33.348946],
+  "bbox": [
+    116.157043,
+    -33.348946,
+    116.157043,
+    -33.348946
+],
   "geometry": {"coordinates":[116.157043,-33.348946],"type":"Point"}
 }

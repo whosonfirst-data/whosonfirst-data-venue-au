@@ -2,13 +2,14 @@
   "id": 203384621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.842667,-37.527924,143.842667,-37.527924",
     "geom:latitude":-37.527924,
     "geom:longitude":143.842667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Dowling St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203384621,
-    "wof:lastmodified":1449025190,
+    "wof:lastmodified":1466189278,
     "wof:name":"Nicholson Construction",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.842667,-37.527924,143.842667,-37.527924],
-  "geometry": {"coordinates":[143.842667,-37.527924],"type":"Point"}
+  "bbox": [
+    143.842667,
+    -37.527924,
+    143.842667,
+    -37.527924
+],
+  "geometry": {"coordinates":[143.84266700000001,-37.527924],"type":"Point"}
 }

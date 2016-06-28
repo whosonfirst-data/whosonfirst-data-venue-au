@@ -2,13 +2,14 @@
   "id": 236173557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.876144,-37.683048,144.876144,-37.683048",
     "geom:latitude":-37.683048,
     "geom:longitude":144.876144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Western Ave",
     "sg:city":"Westmeadows",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236173557,
-    "wof:lastmodified":1449002155,
+    "wof:lastmodified":1466189787,
     "wof:name":"Eclipse Couriers Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [144.876144,-37.683048,144.876144,-37.683048],
-  "geometry": {"coordinates":[144.876144,-37.683048],"type":"Point"}
+  "bbox": [
+    144.876144,
+    -37.683048,
+    144.876144,
+    -37.683048
+],
+  "geometry": {"coordinates":[144.87614400000001,-37.683048],"type":"Point"}
 }

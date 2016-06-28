@@ -2,13 +2,14 @@
   "id": 253136887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.948486,-27.555399,151.948486,-27.555399",
     "geom:latitude":-27.555399,
     "geom:longitude":151.948486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Gowrie St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253136887,
-    "wof:lastmodified":1449065764,
+    "wof:lastmodified":1466189362,
     "wof:name":"Rasmussen M",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.948486,-27.555399,151.948486,-27.555399],
+  "bbox": [
+    151.948486,
+    -27.555399,
+    151.948486,
+    -27.555399
+],
   "geometry": {"coordinates":[151.948486,-27.555399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169790745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.60463,-38.608688,145.60463,-38.608688",
     "geom:latitude":-38.608688,
     "geom:longitude":145.60463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Elkin Crt",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169790745,
-    "wof:lastmodified":1449035189,
+    "wof:lastmodified":1466188544,
     "wof:name":"Wonthaggi Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [145.60463,-38.608688,145.60463,-38.608688],
-  "geometry": {"coordinates":[145.60463,-38.608688],"type":"Point"}
+  "bbox": [
+    145.60463,
+    -38.608688,
+    145.60463,
+    -38.608688
+],
+  "geometry": {"coordinates":[145.60462999999999,-38.608688],"type":"Point"}
 }

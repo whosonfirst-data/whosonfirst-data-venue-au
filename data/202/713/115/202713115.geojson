@@ -2,13 +2,14 @@
   "id": 202713115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.053497,-27.365553,153.053497,-27.365553",
     "geom:latitude":-27.365553,
     "geom:longitude":153.053497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Basalt St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202713115,
-    "wof:lastmodified":1449062411,
+    "wof:lastmodified":1466189084,
     "wof:name":"Precision Business Forms",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cheque"
     ]
 },
-  "bbox": [153.053497,-27.365553,153.053497,-27.365553],
-  "geometry": {"coordinates":[153.053497,-27.365553],"type":"Point"}
+  "bbox": [
+    153.053497,
+    -27.365553,
+    153.053497,
+    -27.365553
+],
+  "geometry": {"coordinates":[153.05349699999999,-27.365553],"type":"Point"}
 }

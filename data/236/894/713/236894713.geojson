@@ -2,13 +2,14 @@
   "id": 236894713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.522141,-35.005787,138.522141,-35.005787",
     "geom:latitude":-35.005787,
     "geom:longitude":138.522141,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Brighton Rd",
     "sg:city":"North Brighton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236894713,
-    "wof:lastmodified":1449002934,
+    "wof:lastmodified":1466192184,
     "wof:name":"North Brighton Cemetery",
     "wof:parent_id":85779087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [138.522141,-35.005787,138.522141,-35.005787],
+  "bbox": [
+    138.522141,
+    -35.005787,
+    138.522141,
+    -35.005787
+],
   "geometry": {"coordinates":[138.522141,-35.005787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185688307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.259033,-23.44075,144.259033,-23.44075",
     "geom:latitude":-23.44075,
     "geom:longitude":144.259033,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ilfracombe Rd",
     "sg:city":"Longreach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185688307,
-    "wof:lastmodified":1449007208,
+    "wof:lastmodified":1466188908,
     "wof:name":"Shell Longreach Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windscreen"
     ]
 },
-  "bbox": [144.259033,-23.44075,144.259033,-23.44075],
-  "geometry": {"coordinates":[144.259033,-23.44075],"type":"Point"}
+  "bbox": [
+    144.259033,
+    -23.44075,
+    144.259033,
+    -23.44075
+],
+  "geometry": {"coordinates":[144.25903299999999,-23.44075],"type":"Point"}
 }

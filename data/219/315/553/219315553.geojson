@@ -2,13 +2,14 @@
   "id": 219315553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.931931,-38.161762,145.931931,-38.161762",
     "geom:latitude":-38.161762,
     "geom:longitude":145.931931,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Palmerston St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219315553,
-    "wof:lastmodified":1449073722,
+    "wof:lastmodified":1466187660,
     "wof:name":"Liquorland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [145.931931,-38.161762,145.931931,-38.161762],
-  "geometry": {"coordinates":[145.931931,-38.161762],"type":"Point"}
+  "bbox": [
+    145.931931,
+    -38.161762,
+    145.931931,
+    -38.161762
+],
+  "geometry": {"coordinates":[145.93193099999999,-38.161762],"type":"Point"}
 }

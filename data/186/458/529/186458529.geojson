@@ -2,13 +2,14 @@
   "id": 186458529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156906,-33.888107,151.156906,-33.888107",
     "geom:latitude":-33.888107,
     "geom:longitude":151.156906,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor/ 1 Renwick St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186458529,
-    "wof:lastmodified":1449052265,
+    "wof:lastmodified":1466190235,
     "wof:name":"Geographics Group",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [151.156906,-33.888107,151.156906,-33.888107],
-  "geometry": {"coordinates":[151.156906,-33.888107],"type":"Point"}
+  "bbox": [
+    151.156906,
+    -33.888107,
+    151.156906,
+    -33.888107
+],
+  "geometry": {"coordinates":[151.15690599999999,-33.888107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220189187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.649796,-38.114761,144.649796,-38.114761",
     "geom:latitude":-38.114761,
     "geom:longitude":144.649796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Newcombe St",
     "sg:city":"Portarlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220189187,
-    "wof:lastmodified":1449074614,
+    "wof:lastmodified":1466189308,
     "wof:name":"Port Auto Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.649796,-38.114761,144.649796,-38.114761],
-  "geometry": {"coordinates":[144.649796,-38.114761],"type":"Point"}
+  "bbox": [
+    144.649796,
+    -38.114761,
+    144.649796,
+    -38.114761
+],
+  "geometry": {"coordinates":[144.64979600000001,-38.114761],"type":"Point"}
 }

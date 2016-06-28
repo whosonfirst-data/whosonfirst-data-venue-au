@@ -2,13 +2,14 @@
   "id": 220128925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.439636,-38.173527,144.439636,-38.173527",
     "geom:latitude":-38.173527,
     "geom:longitude":144.439636,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Whitehorse Rd",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220128925,
-    "wof:lastmodified":1449074342,
+    "wof:lastmodified":1466188234,
     "wof:name":"Wookey Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [144.439636,-38.173527,144.439636,-38.173527],
-  "geometry": {"coordinates":[144.439636,-38.173527],"type":"Point"}
+  "bbox": [
+    144.439636,
+    -38.173527,
+    144.439636,
+    -38.173527
+],
+  "geometry": {"coordinates":[144.43963600000001,-38.173527],"type":"Point"}
 }

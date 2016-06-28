@@ -2,13 +2,14 @@
   "id": 219300587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.932877,-38.160683,145.932877,-38.160683",
     "geom:latitude":-38.160683,
     "geom:longitude":145.932877,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 1 Barkly St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219300587,
-    "wof:lastmodified":1449072362,
+    "wof:lastmodified":1466187531,
     "wof:name":"The Courthouse Cellars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wine"
     ]
 },
-  "bbox": [145.932877,-38.160683,145.932877,-38.160683],
-  "geometry": {"coordinates":[145.932877,-38.160683],"type":"Point"}
+  "bbox": [
+    145.932877,
+    -38.160683,
+    145.932877,
+    -38.160683
+],
+  "geometry": {"coordinates":[145.93287699999999,-38.160683],"type":"Point"}
 }

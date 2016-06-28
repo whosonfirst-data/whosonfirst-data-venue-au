@@ -2,13 +2,14 @@
   "id": 202832015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.161392,-23.526512,148.161392,-23.526512",
     "geom:latitude":-23.526512,
     "geom:longitude":148.161392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Borilla St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202832015,
-    "wof:lastmodified":1449060119,
+    "wof:lastmodified":1466190307,
     "wof:name":"Peter Maundrell & Company Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [148.161392,-23.526512,148.161392,-23.526512],
-  "geometry": {"coordinates":[148.161392,-23.526512],"type":"Point"}
+  "bbox": [
+    148.161392,
+    -23.526512,
+    148.161392,
+    -23.526512
+],
+  "geometry": {"coordinates":[148.16139200000001,-23.526512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236935189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.545685,-34.982857,138.545685,-34.982857",
     "geom:latitude":-34.982857,
     "geom:longitude":138.545685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53- 59",
     "sg:city":"Austral Tce Morphettville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236935189,
-    "wof:lastmodified":1449004541,
+    "wof:lastmodified":1466192141,
     "wof:name":"Mullana",
     "wof:parent_id":85777519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [138.545685,-34.982857,138.545685,-34.982857],
-  "geometry": {"coordinates":[138.545685,-34.982857],"type":"Point"}
+  "bbox": [
+    138.545685,
+    -34.982857,
+    138.545685,
+    -34.982857
+],
+  "geometry": {"coordinates":[138.54568499999999,-34.982857],"type":"Point"}
 }

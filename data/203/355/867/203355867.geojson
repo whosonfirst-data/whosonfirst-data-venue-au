@@ -2,13 +2,14 @@
   "id": 203355867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.857635,-37.547192,143.857635,-37.547192",
     "geom:latitude":-37.547192,
     "geom:longitude":143.857635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Doveton St",
     "sg:city":"Ballarat North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203355867,
-    "wof:lastmodified":1449025437,
+    "wof:lastmodified":1466188777,
     "wof:name":"Westlake Concreting",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [143.857635,-37.547192,143.857635,-37.547192],
-  "geometry": {"coordinates":[143.857635,-37.547192],"type":"Point"}
+  "bbox": [
+    143.857635,
+    -37.547192,
+    143.857635,
+    -37.547192
+],
+  "geometry": {"coordinates":[143.85763499999999,-37.547192],"type":"Point"}
 }

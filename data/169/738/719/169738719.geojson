@@ -2,13 +2,14 @@
   "id": 169738719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.991104,-12.473974,130.991104,-12.473974",
     "geom:latitude":-12.473974,
     "geom:longitude":130.991104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Toupein Rd",
     "sg:city":"Yarrawonga",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169738719,
-    "wof:lastmodified":1449035096,
+    "wof:lastmodified":1466187565,
     "wof:name":"Red Australia",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "factory"
     ]
 },
-  "bbox": [130.991104,-12.473974,130.991104,-12.473974],
-  "geometry": {"coordinates":[130.991104,-12.473974],"type":"Point"}
+  "bbox": [
+    130.991104,
+    -12.473974,
+    130.991104,
+    -12.473974
+],
+  "geometry": {"coordinates":[130.99110400000001,-12.473974],"type":"Point"}
 }

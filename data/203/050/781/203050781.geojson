@@ -2,13 +2,14 @@
   "id": 203050781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.348526,-36.267815,143.348526,-36.267815",
     "geom:latitude":-36.267815,
     "geom:longitude":143.348526,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 High St",
     "sg:city":"Charlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203050781,
-    "wof:lastmodified":1449025987,
+    "wof:lastmodified":1466188236,
     "wof:name":"Ryan V J & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [143.348526,-36.267815,143.348526,-36.267815],
-  "geometry": {"coordinates":[143.348526,-36.267815],"type":"Point"}
+  "bbox": [
+    143.348526,
+    -36.267815,
+    143.348526,
+    -36.267815
+],
+  "geometry": {"coordinates":[143.34852599999999,-36.267815],"type":"Point"}
 }

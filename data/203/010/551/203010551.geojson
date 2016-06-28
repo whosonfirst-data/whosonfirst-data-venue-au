@@ -2,13 +2,14 @@
   "id": 203010551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.498138,-20.700869,139.498138,-20.700869",
     "geom:latitude":-20.700869,
     "geom:longitude":139.498138,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Ryan Rd",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203010551,
-    "wof:lastmodified":1449026128,
+    "wof:lastmodified":1466187264,
     "wof:name":"Wrights Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [139.498138,-20.700869,139.498138,-20.700869],
-  "geometry": {"coordinates":[139.498138,-20.700869],"type":"Point"}
+  "bbox": [
+    139.498138,
+    -20.700869,
+    139.498138,
+    -20.700869
+],
+  "geometry": {"coordinates":[139.49813800000001,-20.700869],"type":"Point"}
 }

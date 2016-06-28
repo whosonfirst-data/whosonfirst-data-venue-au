@@ -2,13 +2,14 @@
   "id": 202927109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.078659,-30.346313,153.078659,-30.346313",
     "geom:latitude":-30.346313,
     "geom:longitude":153.078659,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Linden Ave",
     "sg:city":"Boambee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202927109,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466190756,
     "wof:name":"Hopscotch Boambee",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [153.078659,-30.346313,153.078659,-30.346313],
-  "geometry": {"coordinates":[153.078659,-30.346313],"type":"Point"}
+  "bbox": [
+    153.078659,
+    -30.346313,
+    153.078659,
+    -30.346313
+],
+  "geometry": {"coordinates":[153.07865899999999,-30.346313],"type":"Point"}
 }

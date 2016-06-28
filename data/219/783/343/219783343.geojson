@@ -2,13 +2,14 @@
   "id": 219783343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.133469,-33.873547,151.133469,-33.873547",
     "geom:latitude":-33.873547,
     "geom:longitude":151.133469,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Ramsay St",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219783343,
-    "wof:lastmodified":1449070484,
+    "wof:lastmodified":1466191325,
     "wof:name":"Antique Restorers",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [151.133469,-33.873547,151.133469,-33.873547],
-  "geometry": {"coordinates":[151.133469,-33.873547],"type":"Point"}
+  "bbox": [
+    151.133469,
+    -33.873547,
+    151.133469,
+    -33.873547
+],
+  "geometry": {"coordinates":[151.13346899999999,-33.873547],"type":"Point"}
 }

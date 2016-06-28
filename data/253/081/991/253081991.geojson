@@ -2,13 +2,14 @@
   "id": 253081991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.799942,-37.743889,144.799942,-37.743889",
     "geom:latitude":-37.743889,
     "geom:longitude":144.799942,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 East Esplanade",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253081991,
-    "wof:lastmodified":1449063738,
+    "wof:lastmodified":1466188398,
     "wof:name":"Marty's Pizza Hideout",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.799942,-37.743889,144.799942,-37.743889],
-  "geometry": {"coordinates":[144.799942,-37.743889],"type":"Point"}
+  "bbox": [
+    144.799942,
+    -37.743889,
+    144.799942,
+    -37.743889
+],
+  "geometry": {"coordinates":[144.79994199999999,-37.743889],"type":"Point"}
 }

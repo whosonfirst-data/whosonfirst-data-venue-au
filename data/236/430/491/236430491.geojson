@@ -2,13 +2,14 @@
   "id": 236430491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.202545,-21.152824,149.202545,-21.152824",
     "geom:latitude":-21.152824,
     "geom:longitude":149.202545,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mulherin St",
     "sg:city":"East Mackay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236430491,
-    "wof:lastmodified":1449003812,
+    "wof:lastmodified":1466191242,
     "wof:name":"K J Formosa Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [149.202545,-21.152824,149.202545,-21.152824],
-  "geometry": {"coordinates":[149.202545,-21.152824],"type":"Point"}
+  "bbox": [
+    149.202545,
+    -21.152824,
+    149.202545,
+    -21.152824
+],
+  "geometry": {"coordinates":[149.20254499999999,-21.152824],"type":"Point"}
 }

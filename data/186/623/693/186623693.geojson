@@ -2,13 +2,14 @@
   "id": 186623693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.040329,-34.288719,146.040329,-34.288719",
     "geom:latitude":-34.288719,
     "geom:longitude":146.040329,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Yambil St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186623693,
-    "wof:lastmodified":1449052239,
+    "wof:lastmodified":1466191077,
     "wof:name":"Collier Trenerry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cremation"
     ]
 },
-  "bbox": [146.040329,-34.288719,146.040329,-34.288719],
-  "geometry": {"coordinates":[146.040329,-34.288719],"type":"Point"}
+  "bbox": [
+    146.040329,
+    -34.288719,
+    146.040329,
+    -34.288719
+],
+  "geometry": {"coordinates":[146.04032900000001,-34.288719],"type":"Point"}
 }

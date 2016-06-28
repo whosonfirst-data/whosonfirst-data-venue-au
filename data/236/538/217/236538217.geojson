@@ -2,13 +2,14 @@
   "id": 236538217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.939423,-26.241129,151.939423,-26.241129",
     "geom:latitude":-26.241129,
     "geom:longitude":151.939423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 115 Lamb St",
     "sg:city":"Murgon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236538217,
-    "wof:lastmodified":1449001989,
+    "wof:lastmodified":1466191452,
     "wof:name":"Reflections Coffee Lounge Murgon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.939423,-26.241129,151.939423,-26.241129],
-  "geometry": {"coordinates":[151.939423,-26.241129],"type":"Point"}
+  "bbox": [
+    151.939423,
+    -26.241129,
+    151.939423,
+    -26.241129
+],
+  "geometry": {"coordinates":[151.93942300000001,-26.241129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253116151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.836044,-37.760632,144.836044,-37.760632",
     "geom:latitude":-37.760632,
     "geom:longitude":144.836044,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Harvester Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253116151,
-    "wof:lastmodified":1449063248,
+    "wof:lastmodified":1466189061,
     "wof:name":"Dynopack Australia",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dynamometer"
     ]
 },
-  "bbox": [144.836044,-37.760632,144.836044,-37.760632],
-  "geometry": {"coordinates":[144.836044,-37.760632],"type":"Point"}
+  "bbox": [
+    144.836044,
+    -37.760632,
+    144.836044,
+    -37.760632
+],
+  "geometry": {"coordinates":[144.83604399999999,-37.760632],"type":"Point"}
 }

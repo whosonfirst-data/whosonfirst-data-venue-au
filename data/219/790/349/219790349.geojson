@@ -2,13 +2,14 @@
   "id": 219790349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.740463,-19.304398,146.740463,-19.304398",
     "geom:latitude":-19.304398,
     "geom:longitude":146.740463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2/375 Charles St",
     "sg:city":"(Cnr Bamford Lane) Kirwan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219790349,
-    "wof:lastmodified":1449073108,
+    "wof:lastmodified":1466191362,
     "wof:name":"Blue Banana Hair",
     "wof:parent_id":85770141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [146.740463,-19.304398,146.740463,-19.304398],
-  "geometry": {"coordinates":[146.740463,-19.304398],"type":"Point"}
+  "bbox": [
+    146.740463,
+    -19.304398,
+    146.740463,
+    -19.304398
+],
+  "geometry": {"coordinates":[146.74046300000001,-19.304398],"type":"Point"}
 }

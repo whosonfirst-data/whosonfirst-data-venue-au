@@ -2,13 +2,14 @@
   "id": 253323465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.320282,-38.042366,145.320282,-38.042366",
     "geom:latitude":-38.042366,
     "geom:longitude":145.320282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Bluegum Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253323465,
-    "wof:lastmodified":1449063070,
+    "wof:lastmodified":1466190926,
     "wof:name":"Comm Apps Australia Pty Ltd",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antenna"
     ]
 },
-  "bbox": [145.320282,-38.042366,145.320282,-38.042366],
-  "geometry": {"coordinates":[145.320282,-38.042366],"type":"Point"}
+  "bbox": [
+    145.320282,
+    -38.042366,
+    145.320282,
+    -38.042366
+],
+  "geometry": {"coordinates":[145.32028199999999,-38.042366],"type":"Point"}
 }

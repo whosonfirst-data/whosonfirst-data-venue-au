@@ -2,13 +2,14 @@
   "id": 252880123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.56102,-37.684948,144.56102,-37.684948",
     "geom:latitude":-37.684948,
     "geom:longitude":144.56102,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop T59 Woodgrove Shopping Centre, 533-555 High St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252880123,
-    "wof:lastmodified":1449006519,
+    "wof:lastmodified":1466188803,
     "wof:name":"Prouds The Jewellers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [144.56102,-37.684948,144.56102,-37.684948],
-  "geometry": {"coordinates":[144.56102,-37.684948],"type":"Point"}
+  "bbox": [
+    144.56102,
+    -37.684948,
+    144.56102,
+    -37.684948
+],
+  "geometry": {"coordinates":[144.56102000000001,-37.684948],"type":"Point"}
 }

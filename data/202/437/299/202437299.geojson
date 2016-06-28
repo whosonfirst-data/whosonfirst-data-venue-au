@@ -2,13 +2,14 @@
   "id": 202437299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.968582,-37.833328,144.968582,-37.833328",
     "geom:latitude":-37.833328,
     "geom:longitude":144.968582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Park St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202437299,
-    "wof:lastmodified":1449061934,
+    "wof:lastmodified":1466188547,
     "wof:name":"Commercial Industrial Construction Group Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.968582,-37.833328,144.968582,-37.833328],
+  "bbox": [
+    144.968582,
+    -37.833328,
+    144.968582,
+    -37.833328
+],
   "geometry": {"coordinates":[144.968582,-37.833328],"type":"Point"}
 }

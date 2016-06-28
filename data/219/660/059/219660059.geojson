@@ -2,13 +2,14 @@
   "id": 219660059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.081253,-33.949528,151.081253,-33.949528",
     "geom:latitude":-33.949528,
     "geom:longitude":151.081253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"488 King Georges Rd",
     "sg:city":"Beverly Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219660059,
-    "wof:lastmodified":1449073553,
+    "wof:lastmodified":1466190971,
     "wof:name":"Prompt Care Medical Centre",
     "wof:parent_id":85774769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.081253,-33.949528,151.081253,-33.949528],
+  "bbox": [
+    151.081253,
+    -33.949528,
+    151.081253,
+    -33.949528
+],
   "geometry": {"coordinates":[151.081253,-33.949528],"type":"Point"}
 }

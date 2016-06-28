@@ -2,13 +2,14 @@
   "id": 252848195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.552597,-32.570358,149.552597,-32.570358",
     "geom:latitude":-32.570358,
     "geom:longitude":149.552597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill End Rd",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252848195,
-    "wof:lastmodified":1449005554,
+    "wof:lastmodified":1466188535,
     "wof:name":"Colley C H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grazier"
     ]
 },
-  "bbox": [149.552597,-32.570358,149.552597,-32.570358],
-  "geometry": {"coordinates":[149.552597,-32.570358],"type":"Point"}
+  "bbox": [
+    149.552597,
+    -32.570358,
+    149.552597,
+    -32.570358
+],
+  "geometry": {"coordinates":[149.55259699999999,-32.570358],"type":"Point"}
 }

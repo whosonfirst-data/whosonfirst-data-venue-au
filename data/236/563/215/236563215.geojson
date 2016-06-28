@@ -2,13 +2,14 @@
   "id": 236563215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.999924,-33.942303,150.999924,-33.942303",
     "geom:latitude":-33.942303,
     "geom:longitude":150.999924,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Beaconsfield St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236563215,
-    "wof:lastmodified":1449001717,
+    "wof:lastmodified":1466191411,
     "wof:name":"Precision Automation & Robotics",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [150.999924,-33.942303,150.999924,-33.942303],
-  "geometry": {"coordinates":[150.999924,-33.942303],"type":"Point"}
+  "bbox": [
+    150.999924,
+    -33.942303,
+    150.999924,
+    -33.942303
+],
+  "geometry": {"coordinates":[150.99992399999999,-33.942303],"type":"Point"}
 }

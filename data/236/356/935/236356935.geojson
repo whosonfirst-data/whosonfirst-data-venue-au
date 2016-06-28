@@ -2,13 +2,14 @@
   "id": 236356935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.774857,-32.115288,115.774857,-32.115288",
     "geom:latitude":-32.115288,
     "geom:longitude":115.774857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Westerway Tce",
     "sg:city":"North Lake",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236356935,
-    "wof:lastmodified":1449004546,
+    "wof:lastmodified":1466190921,
     "wof:name":"Atlantis Formwork",
     "wof:parent_id":85769101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "accessory"
     ]
 },
-  "bbox": [115.774857,-32.115288,115.774857,-32.115288],
+  "bbox": [
+    115.774857,
+    -32.115288,
+    115.774857,
+    -32.115288
+],
   "geometry": {"coordinates":[115.774857,-32.115288],"type":"Point"}
 }

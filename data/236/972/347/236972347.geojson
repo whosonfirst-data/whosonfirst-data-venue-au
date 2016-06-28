@@ -2,13 +2,14 @@
   "id": 236972347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.503723,-37.92305,145.503723,-37.92305",
     "geom:latitude":-37.92305,
     "geom:longitude":145.503723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Nangana St",
     "sg:city":"Cockatoo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236972347,
-    "wof:lastmodified":1449003278,
+    "wof:lastmodified":1466192216,
     "wof:name":"MJO Painting & Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [145.503723,-37.92305,145.503723,-37.92305],
-  "geometry": {"coordinates":[145.503723,-37.92305],"type":"Point"}
+  "bbox": [
+    145.503723,
+    -37.92305,
+    145.503723,
+    -37.92305
+],
+  "geometry": {"coordinates":[145.50372300000001,-37.92305],"type":"Point"}
 }

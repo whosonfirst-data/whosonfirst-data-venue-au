@@ -2,13 +2,14 @@
   "id": 202894945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.198257,-30.075144,153.198257,-30.075144",
     "geom:latitude":-30.075144,
     "geom:longitude":153.198257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Orchard Rd",
     "sg:city":"Mullaway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202894945,
-    "wof:lastmodified":1449061154,
+    "wof:lastmodified":1466190638,
     "wof:name":"Mullaway Air Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [153.198257,-30.075144,153.198257,-30.075144],
-  "geometry": {"coordinates":[153.198257,-30.075144],"type":"Point"}
+  "bbox": [
+    153.198257,
+    -30.075144,
+    153.198257,
+    -30.075144
+],
+  "geometry": {"coordinates":[153.19825700000001,-30.075144],"type":"Point"}
 }

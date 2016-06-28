@@ -2,13 +2,14 @@
   "id": 202800487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.747574,-32.924332,151.747574,-32.924332",
     "geom:latitude":-32.924332,
     "geom:longitude":151.747574,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1 / 74 - 84 Tudor St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202800487,
-    "wof:lastmodified":1449060313,
+    "wof:lastmodified":1466190208,
     "wof:name":"Leah Jay Property Management",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.747574,-32.924332,151.747574,-32.924332],
-  "geometry": {"coordinates":[151.747574,-32.924332],"type":"Point"}
+  "bbox": [
+    151.747574,
+    -32.924332,
+    151.747574,
+    -32.924332
+],
+  "geometry": {"coordinates":[151.74757399999999,-32.924332],"type":"Point"}
 }

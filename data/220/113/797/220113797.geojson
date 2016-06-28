@@ -2,13 +2,14 @@
   "id": 220113797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.523239,-38.267017,144.523239,-38.267017",
     "geom:latitude":-38.267017,
     "geom:longitude":144.523239,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1-2-3 23 Park La",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220113797,
-    "wof:lastmodified":1449074808,
+    "wof:lastmodified":1466188094,
     "wof:name":"Ocean Grove Liquorland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.523239,-38.267017,144.523239,-38.267017],
-  "geometry": {"coordinates":[144.523239,-38.267017],"type":"Point"}
+  "bbox": [
+    144.523239,
+    -38.267017,
+    144.523239,
+    -38.267017
+],
+  "geometry": {"coordinates":[144.52323899999999,-38.267017],"type":"Point"}
 }

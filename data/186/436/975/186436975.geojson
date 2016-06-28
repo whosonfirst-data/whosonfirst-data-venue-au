@@ -2,13 +2,14 @@
   "id": 186436975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.180389,-33.896095,151.180389,-33.896095",
     "geom:latitude":-33.896095,
     "geom:longitude":151.180389,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"261 King St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186436975,
-    "wof:lastmodified":1449052765,
+    "wof:lastmodified":1466189944,
     "wof:name":"Fish Records Pty Ltd",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.180389,-33.896095,151.180389,-33.896095],
-  "geometry": {"coordinates":[151.180389,-33.896095],"type":"Point"}
+  "bbox": [
+    151.180389,
+    -33.896095,
+    151.180389,
+    -33.896095
+],
+  "geometry": {"coordinates":[151.18038899999999,-33.896095],"type":"Point"}
 }

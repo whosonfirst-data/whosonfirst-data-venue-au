@@ -2,13 +2,14 @@
   "id": 253214225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.946823,-27.564915,151.946823,-27.564915",
     "geom:latitude":-27.564915,
     "geom:longitude":151.946823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Clifford St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253214225,
-    "wof:lastmodified":1449065704,
+    "wof:lastmodified":1466190315,
     "wof:name":"Dan Flohr Mechanical",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.946823,-27.564915,151.946823,-27.564915],
-  "geometry": {"coordinates":[151.946823,-27.564915],"type":"Point"}
+  "bbox": [
+    151.946823,
+    -27.564915,
+    151.946823,
+    -27.564915
+],
+  "geometry": {"coordinates":[151.94682299999999,-27.564915],"type":"Point"}
 }

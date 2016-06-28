@@ -2,13 +2,14 @@
   "id": 186502891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.755295,-19.274677,146.755295,-19.274677",
     "geom:latitude":-19.274677,
     "geom:longitude":146.755295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Greg Jabs Crt",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186502891,
-    "wof:lastmodified":1449051597,
+    "wof:lastmodified":1466190406,
     "wof:name":"E-Static Coatings",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "powder"
     ]
 },
-  "bbox": [146.755295,-19.274677,146.755295,-19.274677],
-  "geometry": {"coordinates":[146.755295,-19.274677],"type":"Point"}
+  "bbox": [
+    146.755295,
+    -19.274677,
+    146.755295,
+    -19.274677
+],
+  "geometry": {"coordinates":[146.75529499999999,-19.274677],"type":"Point"}
 }

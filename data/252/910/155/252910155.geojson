@@ -2,13 +2,14 @@
   "id": 252910155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.537704,-36.268494,144.537704,-36.268494",
     "geom:latitude":-36.268494,
     "geom:longitude":144.537704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Burns St",
     "sg:city":"Lockington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252910155,
-    "wof:lastmodified":1449005858,
+    "wof:lastmodified":1466189081,
     "wof:name":"Lockington Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [144.537704,-36.268494,144.537704,-36.268494],
-  "geometry": {"coordinates":[144.537704,-36.268494],"type":"Point"}
+  "bbox": [
+    144.537704,
+    -36.268494,
+    144.537704,
+    -36.268494
+],
+  "geometry": {"coordinates":[144.53770399999999,-36.268494],"type":"Point"}
 }

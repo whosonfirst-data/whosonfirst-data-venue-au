@@ -2,13 +2,14 @@
   "id": 203253495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.023453,-33.373238,148.023453,-33.373238",
     "geom:latitude":-33.373238,
     "geom:longitude":148.023453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Shorthorn St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203253495,
-    "wof:lastmodified":1449026629,
+    "wof:lastmodified":1466187601,
     "wof:name":"Forbes Worm Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worm"
     ]
 },
-  "bbox": [148.023453,-33.373238,148.023453,-33.373238],
-  "geometry": {"coordinates":[148.023453,-33.373238],"type":"Point"}
+  "bbox": [
+    148.023453,
+    -33.373238,
+    148.023453,
+    -33.373238
+],
+  "geometry": {"coordinates":[148.02345299999999,-33.373238],"type":"Point"}
 }

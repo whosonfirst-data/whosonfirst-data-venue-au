@@ -2,13 +2,14 @@
   "id": 202754609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.868149,-32.038731,115.868149,-32.038731",
     "geom:latitude":-32.038731,
     "geom:longitude":115.868149,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Central Rd",
     "sg:city":"Rossmoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202754609,
-    "wof:lastmodified":1449061747,
+    "wof:lastmodified":1466189805,
     "wof:name":"Rossmoyne Hairdressing",
     "wof:parent_id":85775621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.868149,-32.038731,115.868149,-32.038731],
+  "bbox": [
+    115.868149,
+    -32.038731,
+    115.868149,
+    -32.038731
+],
   "geometry": {"coordinates":[115.868149,-32.038731],"type":"Point"}
 }

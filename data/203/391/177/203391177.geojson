@@ -2,13 +2,14 @@
   "id": 203391177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855377,-37.540218,143.855377,-37.540218",
     "geom:latitude":-37.540218,
     "geom:longitude":143.855377,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Paling St",
     "sg:city":"Ballarat North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203391177,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1466189398,
     "wof:name":"Hume Decorating",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.855377,-37.540218,143.855377,-37.540218],
+  "bbox": [
+    143.855377,
+    -37.540218,
+    143.855377,
+    -37.540218
+],
   "geometry": {"coordinates":[143.855377,-37.540218],"type":"Point"}
 }

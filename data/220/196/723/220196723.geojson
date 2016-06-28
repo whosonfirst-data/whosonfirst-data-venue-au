@@ -2,13 +2,14 @@
   "id": 220196723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.559616,-38.162651,144.559616,-38.162651",
     "geom:latitude":-38.162651,
     "geom:longitude":144.559616,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Yarramundi Drv",
     "sg:city":"Clifton Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220196723,
-    "wof:lastmodified":1449074221,
+    "wof:lastmodified":1466189368,
     "wof:name":"Stuart Schofield Building Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.559616,-38.162651,144.559616,-38.162651],
-  "geometry": {"coordinates":[144.559616,-38.162651],"type":"Point"}
+  "bbox": [
+    144.559616,
+    -38.162651,
+    144.559616,
+    -38.162651
+],
+  "geometry": {"coordinates":[144.55961600000001,-38.162651],"type":"Point"}
 }

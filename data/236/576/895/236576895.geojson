@@ -2,13 +2,14 @@
   "id": 236576895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.051743,-33.954739,151.051743,-33.954739",
     "geom:latitude":-33.954739,
     "geom:longitude":151.051743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 16 100 Belmore Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236576895,
-    "wof:lastmodified":1449004329,
+    "wof:lastmodified":1466191566,
     "wof:name":"ITW Finishing",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [151.051743,-33.954739,151.051743,-33.954739],
-  "geometry": {"coordinates":[151.051743,-33.954739],"type":"Point"}
+  "bbox": [
+    151.051743,
+    -33.954739,
+    151.051743,
+    -33.954739
+],
+  "geometry": {"coordinates":[151.05174299999999,-33.954739],"type":"Point"}
 }

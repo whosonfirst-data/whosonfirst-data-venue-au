@@ -2,13 +2,14 @@
   "id": 253041881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.786545,-37.822041,144.786545,-37.822041",
     "geom:latitude":-37.822041,
     "geom:longitude":144.786545,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Fitzgerald Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253041881,
-    "wof:lastmodified":1449063897,
+    "wof:lastmodified":1466187757,
     "wof:name":"Quinlan Cranes",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hire"
     ]
 },
-  "bbox": [144.786545,-37.822041,144.786545,-37.822041],
-  "geometry": {"coordinates":[144.786545,-37.822041],"type":"Point"}
+  "bbox": [
+    144.786545,
+    -37.822041,
+    144.786545,
+    -37.822041
+],
+  "geometry": {"coordinates":[144.78654499999999,-37.822041],"type":"Point"}
 }

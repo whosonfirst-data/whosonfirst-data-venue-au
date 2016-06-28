@@ -2,13 +2,14 @@
   "id": 219838675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.812141,-31.97138,115.812141,-31.97138",
     "geom:latitude":-31.97138,
     "geom:longitude":115.812141,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Hardy Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219838675,
-    "wof:lastmodified":1449070817,
+    "wof:lastmodified":1466191488,
     "wof:name":"Elixir Raw Honey",
     "wof:parent_id":85778041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beekeeper"
     ]
 },
-  "bbox": [115.812141,-31.97138,115.812141,-31.97138],
+  "bbox": [
+    115.812141,
+    -31.97138,
+    115.812141,
+    -31.97138
+],
   "geometry": {"coordinates":[115.812141,-31.97138],"type":"Point"}
 }

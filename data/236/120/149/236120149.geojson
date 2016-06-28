@@ -2,13 +2,14 @@
   "id": 236120149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.908646,-37.779148,144.908646,-37.779148",
     "geom:latitude":-37.779148,
     "geom:longitude":144.908646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Charles St",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236120149,
-    "wof:lastmodified":1449004673,
+    "wof:lastmodified":1466189046,
     "wof:name":"Parsons Financial Services",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [144.908646,-37.779148,144.908646,-37.779148],
+  "bbox": [
+    144.908646,
+    -37.779148,
+    144.908646,
+    -37.779148
+],
   "geometry": {"coordinates":[144.908646,-37.779148],"type":"Point"}
 }

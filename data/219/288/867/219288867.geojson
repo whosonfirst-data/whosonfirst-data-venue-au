@@ -2,13 +2,14 @@
   "id": 219288867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.066101,-38.204453,146.066101,-38.204453",
     "geom:latitude":-38.204453,
     "geom:longitude":146.066101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Murray St",
     "sg:city":"Yarragon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219288867,
-    "wof:lastmodified":1449070762,
+    "wof:lastmodified":1466187438,
     "wof:name":"Basil Solohub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [146.066101,-38.204453,146.066101,-38.204453],
+  "bbox": [
+    146.066101,
+    -38.204453,
+    146.066101,
+    -38.204453
+],
   "geometry": {"coordinates":[146.066101,-38.204453],"type":"Point"}
 }

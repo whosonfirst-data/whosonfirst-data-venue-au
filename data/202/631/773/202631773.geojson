@@ -2,13 +2,14 @@
   "id": 202631773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.223145,-33.911907,151.223145,-33.911907",
     "geom:latitude":-33.911907,
     "geom:longitude":151.223145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Anzac Pde",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202631773,
-    "wof:lastmodified":1449060895,
+    "wof:lastmodified":1466187622,
     "wof:name":"Der Tateossian Hagop",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prosthetist"
     ]
 },
-  "bbox": [151.223145,-33.911907,151.223145,-33.911907],
-  "geometry": {"coordinates":[151.223145,-33.911907],"type":"Point"}
+  "bbox": [
+    151.223145,
+    -33.911907,
+    151.223145,
+    -33.911907
+],
+  "geometry": {"coordinates":[151.22314499999999,-33.911907],"type":"Point"}
 }

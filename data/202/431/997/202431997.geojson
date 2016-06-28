@@ -2,13 +2,14 @@
   "id": 202431997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959595,-37.849121,144.959595,-37.849121",
     "geom:latitude":-37.849121,
     "geom:longitude":144.959595,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 B Neville St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202431997,
-    "wof:lastmodified":1449060451,
+    "wof:lastmodified":1466188451,
     "wof:name":"Helen Carr Training & Development Services Pty Ltd",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.959595,-37.849121,144.959595,-37.849121],
-  "geometry": {"coordinates":[144.959595,-37.849121],"type":"Point"}
+  "bbox": [
+    144.959595,
+    -37.849121,
+    144.959595,
+    -37.849121
+],
+  "geometry": {"coordinates":[144.95959500000001,-37.849121],"type":"Point"}
 }

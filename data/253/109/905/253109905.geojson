@@ -2,13 +2,14 @@
   "id": 253109905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.834717,-37.777603,144.834717,-37.777603",
     "geom:latitude":-37.777603,
     "geom:longitude":144.834717,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Ballarat Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253109905,
-    "wof:lastmodified":1449063850,
+    "wof:lastmodified":1466188936,
     "wof:name":"Van Ravenstein Hank",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.834717,-37.777603,144.834717,-37.777603],
-  "geometry": {"coordinates":[144.834717,-37.777603],"type":"Point"}
+  "bbox": [
+    144.834717,
+    -37.777603,
+    144.834717,
+    -37.777603
+],
+  "geometry": {"coordinates":[144.83471700000001,-37.777603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252811543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.585495,-38.33503,143.585495,-38.33503",
     "geom:latitude":-38.33503,
     "geom:longitude":143.585495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Calvert St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252811543,
-    "wof:lastmodified":1449005934,
+    "wof:lastmodified":1466188234,
     "wof:name":"St Mary's School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [143.585495,-38.33503,143.585495,-38.33503],
-  "geometry": {"coordinates":[143.585495,-38.33503],"type":"Point"}
+  "bbox": [
+    143.585495,
+    -38.33503,
+    143.585495,
+    -38.33503
+],
+  "geometry": {"coordinates":[143.58549500000001,-38.33503],"type":"Point"}
 }

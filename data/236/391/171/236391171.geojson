@@ -2,13 +2,14 @@
   "id": 236391171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.880524,-32.088924,115.880524,-32.088924",
     "geom:latitude":-32.088924,
     "geom:longitude":115.880524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cherokee Rd",
     "sg:city":"Jandakot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236391171,
-    "wof:lastmodified":1449003822,
+    "wof:lastmodified":1466191093,
     "wof:name":"Jandakot Welding & Engineering",
     "wof:parent_id":85780705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [115.880524,-32.088924,115.880524,-32.088924],
-  "geometry": {"coordinates":[115.880524,-32.088924],"type":"Point"}
+  "bbox": [
+    115.880524,
+    -32.088924,
+    115.880524,
+    -32.088924
+],
+  "geometry": {"coordinates":[115.88052399999999,-32.088924],"type":"Point"}
 }

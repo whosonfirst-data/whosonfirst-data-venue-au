@@ -2,13 +2,14 @@
   "id": 253093805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.822342,-37.776573,144.822342,-37.776573",
     "geom:latitude":-37.776573,
     "geom:longitude":144.822342,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Ballarat Rd",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253093805,
-    "wof:lastmodified":1449062829,
+    "wof:lastmodified":1466188603,
     "wof:name":"Smart Taxi Investments",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [144.822342,-37.776573,144.822342,-37.776573],
-  "geometry": {"coordinates":[144.822342,-37.776573],"type":"Point"}
+  "bbox": [
+    144.822342,
+    -37.776573,
+    144.822342,
+    -37.776573
+],
+  "geometry": {"coordinates":[144.82234199999999,-37.776573],"type":"Point"}
 }

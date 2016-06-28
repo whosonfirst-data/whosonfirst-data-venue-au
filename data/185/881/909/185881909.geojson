@@ -2,13 +2,14 @@
   "id": 185881909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.707321,-25.52173,152.707321,-25.52173",
     "geom:latitude":-25.52173,
     "geom:longitude":152.707321,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Nuneaton St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185881909,
-    "wof:lastmodified":1449007545,
+    "wof:lastmodified":1466187692,
     "wof:name":"TC & DC Warren Dozer Hire",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.707321,-25.52173,152.707321,-25.52173],
-  "geometry": {"coordinates":[152.707321,-25.52173],"type":"Point"}
+  "bbox": [
+    152.707321,
+    -25.52173,
+    152.707321,
+    -25.52173
+],
+  "geometry": {"coordinates":[152.70732100000001,-25.52173],"type":"Point"}
 }

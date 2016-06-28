@@ -2,13 +2,14 @@
   "id": 186578133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.833862,-31.49761,145.833862,-31.49761",
     "geom:latitude":-31.49761,
     "geom:longitude":145.833862,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Marshall St",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186578133,
-    "wof:lastmodified":1449051070,
+    "wof:lastmodified":1466190850,
     "wof:name":"Home Care Service Of NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [145.833862,-31.49761,145.833862,-31.49761],
-  "geometry": {"coordinates":[145.833862,-31.49761],"type":"Point"}
+  "bbox": [
+    145.833862,
+    -31.49761,
+    145.833862,
+    -31.49761
+],
+  "geometry": {"coordinates":[145.83386200000001,-31.49761],"type":"Point"}
 }

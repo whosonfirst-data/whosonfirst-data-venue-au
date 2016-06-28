@@ -2,13 +2,14 @@
   "id": 186591803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.516708,-41.16106,147.516708,-41.16106",
     "geom:latitude":-41.16106,
     "geom:longitude":147.516708,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 King St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186591803,
-    "wof:lastmodified":1449051813,
+    "wof:lastmodified":1466190998,
     "wof:name":"Poole's Milk Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [147.516708,-41.16106,147.516708,-41.16106],
-  "geometry": {"coordinates":[147.516708,-41.16106],"type":"Point"}
+  "bbox": [
+    147.516708,
+    -41.16106,
+    147.516708,
+    -41.16106
+],
+  "geometry": {"coordinates":[147.51670799999999,-41.16106],"type":"Point"}
 }

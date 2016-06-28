@@ -2,13 +2,14 @@
   "id": 202430389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.958939,-37.852703,144.958939,-37.852703",
     "geom:latitude":-37.852703,
     "geom:longitude":144.958939,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Beaconsfield Pde",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202430389,
-    "wof:lastmodified":1449061704,
+    "wof:lastmodified":1466188410,
     "wof:name":"Armstrong & Sons",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [144.958939,-37.852703,144.958939,-37.852703],
-  "geometry": {"coordinates":[144.958939,-37.852703],"type":"Point"}
+  "bbox": [
+    144.958939,
+    -37.852703,
+    144.958939,
+    -37.852703
+],
+  "geometry": {"coordinates":[144.95893899999999,-37.852703],"type":"Point"}
 }

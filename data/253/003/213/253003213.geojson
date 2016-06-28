@@ -2,13 +2,14 @@
   "id": 253003213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.67923,-37.855732,144.67923,-37.855732",
     "geom:latitude":-37.855732,
     "geom:longitude":144.67923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Protea Crt",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253003213,
-    "wof:lastmodified":1449065558,
+    "wof:lastmodified":1466186969,
     "wof:name":"Groundworks Paving & Landscaping",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.67923,-37.855732,144.67923,-37.855732],
-  "geometry": {"coordinates":[144.67923,-37.855732],"type":"Point"}
+  "bbox": [
+    144.67923,
+    -37.855732,
+    144.67923,
+    -37.855732
+],
+  "geometry": {"coordinates":[144.67922999999999,-37.855732],"type":"Point"}
 }

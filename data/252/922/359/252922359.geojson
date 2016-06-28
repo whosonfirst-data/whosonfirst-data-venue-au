@@ -2,13 +2,14 @@
   "id": 252922359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.781754,-36.318863,140.781754,-36.318863",
     "geom:latitude":-36.318863,
     "geom:longitude":140.781754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Wellington St",
     "sg:city":"Bordertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252922359,
-    "wof:lastmodified":1449005508,
+    "wof:lastmodified":1466189189,
     "wof:name":"Kenrob Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [140.781754,-36.318863,140.781754,-36.318863],
-  "geometry": {"coordinates":[140.781754,-36.318863],"type":"Point"}
+  "bbox": [
+    140.781754,
+    -36.318863,
+    140.781754,
+    -36.318863
+],
+  "geometry": {"coordinates":[140.78175400000001,-36.318863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202404993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.947525,-37.834179,144.947525,-37.834179",
     "geom:latitude":-37.834179,
     "geom:longitude":144.947525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Ingles St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202404993,
-    "wof:lastmodified":1449061770,
+    "wof:lastmodified":1466187769,
     "wof:name":"Meta-Aesthetix",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.947525,-37.834179,144.947525,-37.834179],
-  "geometry": {"coordinates":[144.947525,-37.834179],"type":"Point"}
+  "bbox": [
+    144.947525,
+    -37.834179,
+    144.947525,
+    -37.834179
+],
+  "geometry": {"coordinates":[144.94752500000001,-37.834179],"type":"Point"}
 }

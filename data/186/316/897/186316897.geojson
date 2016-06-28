@@ -2,13 +2,14 @@
   "id": 186316897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.988037,-31.863808,115.988037,-31.863808",
     "geom:latitude":-31.863808,
     "geom:longitude":115.988037,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Middle Swan Rd",
     "sg:city":"Caversham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186316897,
-    "wof:lastmodified":1449052191,
+    "wof:lastmodified":1466187905,
     "wof:name":"Caversham Veterinary Clinic",
     "wof:parent_id":85777997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [115.988037,-31.863808,115.988037,-31.863808],
-  "geometry": {"coordinates":[115.988037,-31.863808],"type":"Point"}
+  "bbox": [
+    115.988037,
+    -31.863808,
+    115.988037,
+    -31.863808
+],
+  "geometry": {"coordinates":[115.98803700000001,-31.863808],"type":"Point"}
 }

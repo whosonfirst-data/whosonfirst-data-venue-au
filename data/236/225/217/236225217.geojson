@@ -2,13 +2,14 @@
   "id": 236225217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.448257,-38.069088,145.448257,-38.069088",
     "geom:latitude":-38.069088,
     "geom:longitude":145.448257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Shearwater Drv",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236225217,
-    "wof:lastmodified":1449002518,
+    "wof:lastmodified":1466190007,
     "wof:name":"AUSVOX Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [145.448257,-38.069088,145.448257,-38.069088],
-  "geometry": {"coordinates":[145.448257,-38.069088],"type":"Point"}
+  "bbox": [
+    145.448257,
+    -38.069088,
+    145.448257,
+    -38.069088
+],
+  "geometry": {"coordinates":[145.44825700000001,-38.069088],"type":"Point"}
 }

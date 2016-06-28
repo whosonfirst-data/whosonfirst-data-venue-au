@@ -2,13 +2,14 @@
   "id": 202539233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.739685,-33.286518,148.739685,-33.286518",
     "geom:latitude":-33.286518,
     "geom:longitude":148.739685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Main St",
     "sg:city":"Cudal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202539233,
-    "wof:lastmodified":1449062715,
+    "wof:lastmodified":1466189874,
     "wof:name":"Cudal Community Pre School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [148.739685,-33.286518,148.739685,-33.286518],
-  "geometry": {"coordinates":[148.739685,-33.286518],"type":"Point"}
+  "bbox": [
+    148.739685,
+    -33.286518,
+    148.739685,
+    -33.286518
+],
+  "geometry": {"coordinates":[148.73968500000001,-33.286518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202457795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.970093,-37.830379,144.970093,-37.830379",
     "geom:latitude":-37.830379,
     "geom:longitude":144.970093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Grnd Flr 11- 17 Dorcas St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202457795,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466188902,
     "wof:name":"Com Tech Communications Pty Ltd",
     "wof:parent_id":85782343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [144.970093,-37.830379,144.970093,-37.830379],
-  "geometry": {"coordinates":[144.970093,-37.830379],"type":"Point"}
+  "bbox": [
+    144.970093,
+    -37.830379,
+    144.970093,
+    -37.830379
+],
+  "geometry": {"coordinates":[144.97009299999999,-37.830379],"type":"Point"}
 }

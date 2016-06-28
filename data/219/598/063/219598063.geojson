@@ -2,13 +2,14 @@
   "id": 219598063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165497,-33.911991,151.165497,-33.911991",
     "geom:latitude":-33.911991,
     "geom:longitude":151.165497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Sydenham Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219598063,
-    "wof:lastmodified":1449070564,
+    "wof:lastmodified":1466190812,
     "wof:name":"Koko Embroidery Pty Ltd",
     "wof:parent_id":85776747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [151.165497,-33.911991,151.165497,-33.911991],
-  "geometry": {"coordinates":[151.165497,-33.911991],"type":"Point"}
+  "bbox": [
+    151.165497,
+    -33.911991,
+    151.165497,
+    -33.911991
+],
+  "geometry": {"coordinates":[151.16549699999999,-33.911991],"type":"Point"}
 }

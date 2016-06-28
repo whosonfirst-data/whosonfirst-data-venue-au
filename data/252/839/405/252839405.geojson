@@ -2,13 +2,14 @@
   "id": 252839405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.547226,-32.568516,149.547226,-32.568516",
     "geom:latitude":-32.568516,
     "geom:longitude":149.547226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Hill End Rd",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252839405,
-    "wof:lastmodified":1449006085,
+    "wof:lastmodified":1466188463,
     "wof:name":"Mudgee Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.547226,-32.568516,149.547226,-32.568516],
-  "geometry": {"coordinates":[149.547226,-32.568516],"type":"Point"}
+  "bbox": [
+    149.547226,
+    -32.568516,
+    149.547226,
+    -32.568516
+],
+  "geometry": {"coordinates":[149.54722599999999,-32.568516],"type":"Point"}
 }

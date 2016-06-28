@@ -2,13 +2,14 @@
   "id": 185851735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.80687,-25.282457,152.80687,-25.282457",
     "geom:latitude":-25.282457,
     "geom:longitude":152.80687,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 341 The Esplanade",
     "sg:city":"Scarness",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185851735,
-    "wof:lastmodified":1449007661,
+    "wof:lastmodified":1466187365,
     "wof:name":"Mariner's Cove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [152.80687,-25.282457,152.80687,-25.282457],
+  "bbox": [
+    152.80687,
+    -25.282457,
+    152.80687,
+    -25.282457
+],
   "geometry": {"coordinates":[152.80687,-25.282457],"type":"Point"}
 }

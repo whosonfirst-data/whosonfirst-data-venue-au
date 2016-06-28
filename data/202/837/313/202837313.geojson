@@ -2,13 +2,14 @@
   "id": 202837313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.158157,-23.52487,148.158157,-23.52487",
     "geom:latitude":-23.52487,
     "geom:longitude":148.158157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 Mackay Arc",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202837313,
-    "wof:lastmodified":1449060499,
+    "wof:lastmodified":1466190317,
     "wof:name":"Emerald Chamber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [148.158157,-23.52487,148.158157,-23.52487],
-  "geometry": {"coordinates":[148.158157,-23.52487],"type":"Point"}
+  "bbox": [
+    148.158157,
+    -23.52487,
+    148.158157,
+    -23.52487
+],
+  "geometry": {"coordinates":[148.15815699999999,-23.52487],"type":"Point"}
 }

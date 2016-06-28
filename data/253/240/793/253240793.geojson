@@ -2,13 +2,14 @@
   "id": 253240793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950943,-27.641939,151.950943,-27.641939",
     "geom:latitude":-27.641939,
     "geom:longitude":151.950943,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Preston Rd",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253240793,
-    "wof:lastmodified":1449063117,
+    "wof:lastmodified":1466190344,
     "wof:name":"D.C.I. Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.950943,-27.641939,151.950943,-27.641939],
+  "bbox": [
+    151.950943,
+    -27.641939,
+    151.950943,
+    -27.641939
+],
   "geometry": {"coordinates":[151.950943,-27.641939],"type":"Point"}
 }

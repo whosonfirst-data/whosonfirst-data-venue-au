@@ -2,13 +2,14 @@
   "id": 186450671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.172577,-33.898823,151.172577,-33.898823",
     "geom:latitude":-33.898823,
     "geom:longitude":151.172577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Enmore Rd",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186450671,
-    "wof:lastmodified":1449052594,
+    "wof:lastmodified":1466190170,
     "wof:name":"Victor's Cake Shop",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.172577,-33.898823,151.172577,-33.898823],
-  "geometry": {"coordinates":[151.172577,-33.898823],"type":"Point"}
+  "bbox": [
+    151.172577,
+    -33.898823,
+    151.172577,
+    -33.898823
+],
+  "geometry": {"coordinates":[151.17257699999999,-33.898823],"type":"Point"}
 }

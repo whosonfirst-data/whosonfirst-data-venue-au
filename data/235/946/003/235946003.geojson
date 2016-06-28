@@ -2,13 +2,14 @@
   "id": 235946003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.060577,-33.415958,150.060577,-33.415958",
     "geom:latitude":-33.415958,
     "geom:longitude":150.060577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Lidsdale St",
     "sg:city":"Wallerawang",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235946003,
-    "wof:lastmodified":1449008572,
+    "wof:lastmodified":1466187029,
     "wof:name":"Kel-Eng Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [150.060577,-33.415958,150.060577,-33.415958],
-  "geometry": {"coordinates":[150.060577,-33.415958],"type":"Point"}
+  "bbox": [
+    150.060577,
+    -33.415958,
+    150.060577,
+    -33.415958
+],
+  "geometry": {"coordinates":[150.06057699999999,-33.415958],"type":"Point"}
 }

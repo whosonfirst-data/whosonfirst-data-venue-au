@@ -2,13 +2,14 @@
   "id": 219561821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.038925,-33.914055,151.038925,-33.914055",
     "geom:latitude":-33.914055,
     "geom:longitude":151.038925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sir Joseph Banks St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219561821,
-    "wof:lastmodified":1449072903,
+    "wof:lastmodified":1466190369,
     "wof:name":"I C B Gait & Posture Clinic",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [151.038925,-33.914055,151.038925,-33.914055],
-  "geometry": {"coordinates":[151.038925,-33.914055],"type":"Point"}
+  "bbox": [
+    151.038925,
+    -33.914055,
+    151.038925,
+    -33.914055
+],
+  "geometry": {"coordinates":[151.03892500000001,-33.914055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203313781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.892197,-37.651001,143.892197,-37.651001",
     "geom:latitude":-37.651001,
     "geom:longitude":143.892197,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Flemings Rd",
     "sg:city":"Grenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203313781,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466188167,
     "wof:name":"Barry Cromer Linemarking",
     "wof:parent_id":85768961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [143.892197,-37.651001,143.892197,-37.651001],
-  "geometry": {"coordinates":[143.892197,-37.651001],"type":"Point"}
+  "bbox": [
+    143.892197,
+    -37.651001,
+    143.892197,
+    -37.651001
+],
+  "geometry": {"coordinates":[143.89219700000001,-37.651001],"type":"Point"}
 }

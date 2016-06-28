@@ -2,13 +2,14 @@
   "id": 236895941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.522629,-35.010422,138.522629,-35.010422",
     "geom:latitude":-35.010422,
     "geom:longitude":138.522629,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Brighton Rd",
     "sg:city":"Hove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236895941,
-    "wof:lastmodified":1449002985,
+    "wof:lastmodified":1466192095,
     "wof:name":"Surgery @ Hove",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.522629,-35.010422,138.522629,-35.010422],
-  "geometry": {"coordinates":[138.522629,-35.010422],"type":"Point"}
+  "bbox": [
+    138.522629,
+    -35.010422,
+    138.522629,
+    -35.010422
+],
+  "geometry": {"coordinates":[138.52262899999999,-35.010422],"type":"Point"}
 }

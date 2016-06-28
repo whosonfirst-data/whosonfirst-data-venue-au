@@ -2,13 +2,14 @@
   "id": 203165569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.98642,-36.551914,145.98642,-36.551914",
     "geom:latitude":-36.551914,
     "geom:longitude":145.98642,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Bridge St East",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203165569,
-    "wof:lastmodified":1449026868,
+    "wof:lastmodified":1466189762,
     "wof:name":"Too Gee Tackle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [145.98642,-36.551914,145.98642,-36.551914],
-  "geometry": {"coordinates":[145.98642,-36.551914],"type":"Point"}
+  "bbox": [
+    145.98642,
+    -36.551914,
+    145.98642,
+    -36.551914
+],
+  "geometry": {"coordinates":[145.98642000000001,-36.551914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236027651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.254486,-43.036209,147.254486,-43.036209",
     "geom:latitude":-43.036209,
     "geom:longitude":147.254486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Frosts Rd",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236027651,
-    "wof:lastmodified":1449002136,
+    "wof:lastmodified":1466187232,
     "wof:name":"Taslan Computer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "support"
     ]
 },
-  "bbox": [147.254486,-43.036209,147.254486,-43.036209],
-  "geometry": {"coordinates":[147.254486,-43.036209],"type":"Point"}
+  "bbox": [
+    147.254486,
+    -43.036209,
+    147.254486,
+    -43.036209
+],
+  "geometry": {"coordinates":[147.25448600000001,-43.036209],"type":"Point"}
 }

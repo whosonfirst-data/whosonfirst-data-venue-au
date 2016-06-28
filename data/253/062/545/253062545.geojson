@@ -2,13 +2,14 @@
   "id": 253062545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.739624,-37.752224,144.739624,-37.752224",
     "geom:latitude":-37.752224,
     "geom:longitude":144.739624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 King Crt",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253062545,
-    "wof:lastmodified":1449065576,
+    "wof:lastmodified":1466188099,
     "wof:name":"Freedom Innovations Pty Ltd",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [144.739624,-37.752224,144.739624,-37.752224],
-  "geometry": {"coordinates":[144.739624,-37.752224],"type":"Point"}
+  "bbox": [
+    144.739624,
+    -37.752224,
+    144.739624,
+    -37.752224
+],
+  "geometry": {"coordinates":[144.73962399999999,-37.752224],"type":"Point"}
 }

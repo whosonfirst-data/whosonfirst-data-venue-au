@@ -2,13 +2,14 @@
   "id": 186308101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.00412,-30.640017,153.00412,-30.640017",
     "geom:latitude":-30.640017,
     "geom:longitude":153.00412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Loftus St",
     "sg:city":"Nambucca Heads",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186308101,
-    "wof:lastmodified":1449053089,
+    "wof:lastmodified":1466187826,
     "wof:name":"Brian Davey Appliance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "electrical"
     ]
 },
-  "bbox": [153.00412,-30.640017,153.00412,-30.640017],
+  "bbox": [
+    153.00412,
+    -30.640017,
+    153.00412,
+    -30.640017
+],
   "geometry": {"coordinates":[153.00412,-30.640017],"type":"Point"}
 }

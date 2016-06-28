@@ -2,13 +2,14 @@
   "id": 203366947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.858887,-37.562405,143.858887,-37.562405",
     "geom:latitude":-37.562405,
     "geom:longitude":143.858887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203366947,
-    "wof:lastmodified":1449026350,
+    "wof:lastmodified":1466188971,
     "wof:name":"K&L Dental Group",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.858887,-37.562405,143.858887,-37.562405],
-  "geometry": {"coordinates":[143.858887,-37.562405],"type":"Point"}
+  "bbox": [
+    143.858887,
+    -37.562405,
+    143.858887,
+    -37.562405
+],
+  "geometry": {"coordinates":[143.85888700000001,-37.562405],"type":"Point"}
 }

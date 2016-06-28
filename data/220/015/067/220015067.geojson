@@ -2,13 +2,14 @@
   "id": 220015067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.60704,-35.018764,138.60704,-35.018764",
     "geom:latitude":-35.018764,
     "geom:longitude":138.60704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 276 Shepperds Hill Rd",
     "sg:city":"Eden Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220015067,
-    "wof:lastmodified":1449074227,
+    "wof:lastmodified":1466187041,
     "wof:name":"Healthbiz Massage Therapy Clinic",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [138.60704,-35.018764,138.60704,-35.018764],
-  "geometry": {"coordinates":[138.60704,-35.018764],"type":"Point"}
+  "bbox": [
+    138.60704,
+    -35.018764,
+    138.60704,
+    -35.018764
+],
+  "geometry": {"coordinates":[138.60704000000001,-35.018764],"type":"Point"}
 }

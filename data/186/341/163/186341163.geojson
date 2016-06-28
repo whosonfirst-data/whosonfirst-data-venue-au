@@ -2,13 +2,14 @@
   "id": 186341163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.279205,-33.676052,151.279205,-33.676052",
     "geom:latitude":-33.676052,
     "geom:longitude":151.279205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Lanecove Rd",
     "sg:city":"Ingleside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186341163,
-    "wof:lastmodified":1449052920,
+    "wof:lastmodified":1466188286,
     "wof:name":"GNLD International Independent Distributor",
     "wof:parent_id":85775993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [151.279205,-33.676052,151.279205,-33.676052],
-  "geometry": {"coordinates":[151.279205,-33.676052],"type":"Point"}
+  "bbox": [
+    151.279205,
+    -33.676052,
+    151.279205,
+    -33.676052
+],
+  "geometry": {"coordinates":[151.27920499999999,-33.676052],"type":"Point"}
 }

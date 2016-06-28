@@ -2,13 +2,14 @@
   "id": 202538279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.199921,-33.899059,151.199921,-33.899059",
     "geom:latitude":-33.899059,
     "geom:longitude":151.199921,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 138 Botany Rd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202538279,
-    "wof:lastmodified":1449060421,
+    "wof:lastmodified":1466189870,
     "wof:name":"Animal Medical Services - Alexandria Veterinary Hospital",
     "wof:parent_id":85770263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.199921,-33.899059,151.199921,-33.899059],
-  "geometry": {"coordinates":[151.199921,-33.899059],"type":"Point"}
+  "bbox": [
+    151.199921,
+    -33.899059,
+    151.199921,
+    -33.899059
+],
+  "geometry": {"coordinates":[151.19992099999999,-33.899059],"type":"Point"}
 }

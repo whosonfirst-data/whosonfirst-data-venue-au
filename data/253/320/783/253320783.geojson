@@ -2,13 +2,14 @@
   "id": 253320783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.294495,-38.060501,145.294495,-38.060501",
     "geom:latitude":-38.060501,
     "geom:longitude":145.294495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Strathaird Dr",
     "sg:city":"Narre Warren South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253320783,
-    "wof:lastmodified":1449063567,
+    "wof:lastmodified":1466190796,
     "wof:name":"Lind-Elle School Of Dance",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tuition"
     ]
 },
-  "bbox": [145.294495,-38.060501,145.294495,-38.060501],
-  "geometry": {"coordinates":[145.294495,-38.060501],"type":"Point"}
+  "bbox": [
+    145.294495,
+    -38.060501,
+    145.294495,
+    -38.060501
+],
+  "geometry": {"coordinates":[145.29449500000001,-38.060501],"type":"Point"}
 }

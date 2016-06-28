@@ -2,13 +2,14 @@
   "id": 203085167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.922508,-32.839741,115.922508,-32.839741",
     "geom:latitude":-32.839741,
     "geom:longitude":115.922508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Hesse St",
     "sg:city":"Waroona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203085167,
-    "wof:lastmodified":1449025390,
+    "wof:lastmodified":1466188823,
     "wof:name":"Ferraro Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contracting"
     ]
 },
-  "bbox": [115.922508,-32.839741,115.922508,-32.839741],
-  "geometry": {"coordinates":[115.922508,-32.839741],"type":"Point"}
+  "bbox": [
+    115.922508,
+    -32.839741,
+    115.922508,
+    -32.839741
+],
+  "geometry": {"coordinates":[115.92250799999999,-32.839741],"type":"Point"}
 }

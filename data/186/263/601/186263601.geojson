@@ -2,13 +2,14 @@
   "id": 186263601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.890045,-31.451292,152.890045,-31.451292",
     "geom:latitude":-31.451292,
     "geom:longitude":152.890045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Chestnut Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186263601,
-    "wof:lastmodified":1449052956,
+    "wof:lastmodified":1466187505,
     "wof:name":"TJM 4 x 4 Megastores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [152.890045,-31.451292,152.890045,-31.451292],
-  "geometry": {"coordinates":[152.890045,-31.451292],"type":"Point"}
+  "bbox": [
+    152.890045,
+    -31.451292,
+    152.890045,
+    -31.451292
+],
+  "geometry": {"coordinates":[152.89004499999999,-31.451292],"type":"Point"}
 }

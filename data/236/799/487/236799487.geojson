@@ -2,13 +2,14 @@
   "id": 236799487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.844193,-34.470856,150.844193,-34.470856",
     "geom:latitude":-34.470856,
     "geom:longitude":150.844193,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Nolan St",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236799487,
-    "wof:lastmodified":1449005269,
+    "wof:lastmodified":1466192042,
     "wof:name":"Berkeley West Public School",
     "wof:parent_id":85768827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [150.844193,-34.470856,150.844193,-34.470856],
-  "geometry": {"coordinates":[150.844193,-34.470856],"type":"Point"}
+  "bbox": [
+    150.844193,
+    -34.470856,
+    150.844193,
+    -34.470856
+],
+  "geometry": {"coordinates":[150.84419299999999,-34.470856],"type":"Point"}
 }

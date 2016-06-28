@@ -2,13 +2,14 @@
   "id": 219701625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.534317,-32.195255,152.534317,-32.195255",
     "geom:latitude":-32.195255,
     "geom:longitude":152.534317,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Becker Rd",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219701625,
-    "wof:lastmodified":1449073195,
+    "wof:lastmodified":1466191074,
     "wof:name":"Bob Cliff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "foundation"
     ]
 },
-  "bbox": [152.534317,-32.195255,152.534317,-32.195255],
-  "geometry": {"coordinates":[152.534317,-32.195255],"type":"Point"}
+  "bbox": [
+    152.534317,
+    -32.195255,
+    152.534317,
+    -32.195255
+],
+  "geometry": {"coordinates":[152.53431699999999,-32.195255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252855701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.51918,-37.163502,145.51918,-37.163502",
     "geom:latitude":-37.163502,
     "geom:longitude":145.51918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Goulburn Valley Hwy",
     "sg:city":"Molesworth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252855701,
-    "wof:lastmodified":1449006201,
+    "wof:lastmodified":1466188599,
     "wof:name":"Molesworth General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.51918,-37.163502,145.51918,-37.163502],
-  "geometry": {"coordinates":[145.51918,-37.163502],"type":"Point"}
+  "bbox": [
+    145.51918,
+    -37.163502,
+    145.51918,
+    -37.163502
+],
+  "geometry": {"coordinates":[145.51918000000001,-37.163502],"type":"Point"}
 }

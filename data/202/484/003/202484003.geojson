@@ -2,13 +2,14 @@
   "id": 202484003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041672,-37.90427,145.041672,-37.90427",
     "geom:latitude":-37.90427,
     "geom:longitude":145.041672,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3, 596 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484003,
-    "wof:lastmodified":1449062503,
+    "wof:lastmodified":1466190000,
     "wof:name":"Shelcom Corporate Services",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelf"
     ]
 },
-  "bbox": [145.041672,-37.90427,145.041672,-37.90427],
-  "geometry": {"coordinates":[145.041672,-37.90427],"type":"Point"}
+  "bbox": [
+    145.041672,
+    -37.90427,
+    145.041672,
+    -37.90427
+],
+  "geometry": {"coordinates":[145.04167200000001,-37.90427],"type":"Point"}
 }

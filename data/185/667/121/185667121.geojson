@@ -2,13 +2,14 @@
   "id": 185667121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.776001,-32.039345,115.776001,-32.039345",
     "geom:latitude":-32.039345,
     "geom:longitude":115.776001,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 9 / 89 Petra St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185667121,
-    "wof:lastmodified":1449007651,
+    "wof:lastmodified":1466188560,
     "wof:name":"Exercise For Life",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiologist"
     ]
 },
-  "bbox": [115.776001,-32.039345,115.776001,-32.039345],
-  "geometry": {"coordinates":[115.776001,-32.039345],"type":"Point"}
+  "bbox": [
+    115.776001,
+    -32.039345,
+    115.776001,
+    -32.039345
+],
+  "geometry": {"coordinates":[115.77600099999999,-32.039345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185994727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.432495,-33.338757,151.432495,-33.338757",
     "geom:latitude":-33.338757,
     "geom:longitude":151.432495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 7, Medical Centre 10 Lorraine Ave",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185994727,
-    "wof:lastmodified":1449006655,
+    "wof:lastmodified":1466188862,
     "wof:name":"Hutchison Neil Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.432495,-33.338757,151.432495,-33.338757],
-  "geometry": {"coordinates":[151.432495,-33.338757],"type":"Point"}
+  "bbox": [
+    151.432495,
+    -33.338757,
+    151.432495,
+    -33.338757
+],
+  "geometry": {"coordinates":[151.43249499999999,-33.338757],"type":"Point"}
 }

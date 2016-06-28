@@ -2,13 +2,14 @@
   "id": 186460343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.161285,-33.871651,151.161285,-33.871651",
     "geom:latitude":-33.871651,
     "geom:longitude":151.161285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Helena St",
     "sg:city":"Lilyfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186460343,
-    "wof:lastmodified":1449052883,
+    "wof:lastmodified":1466190245,
     "wof:name":"Tektel",
     "wof:parent_id":85776737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [151.161285,-33.871651,151.161285,-33.871651],
-  "geometry": {"coordinates":[151.161285,-33.871651],"type":"Point"}
+  "bbox": [
+    151.161285,
+    -33.871651,
+    151.161285,
+    -33.871651
+],
+  "geometry": {"coordinates":[151.16128499999999,-33.871651],"type":"Point"}
 }

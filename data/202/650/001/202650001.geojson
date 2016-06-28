@@ -2,13 +2,14 @@
   "id": 202650001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.024765,-27.414368,153.024765,-27.414368",
     "geom:latitude":-27.414368,
     "geom:longitude":153.024765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 33 Victoria Tce",
     "sg:city":"Gordon Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202650001,
-    "wof:lastmodified":1449061666,
+    "wof:lastmodified":1466187879,
     "wof:name":"Far East Driving School",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.024765,-27.414368,153.024765,-27.414368],
+  "bbox": [
+    153.024765,
+    -27.414368,
+    153.024765,
+    -27.414368
+],
   "geometry": {"coordinates":[153.024765,-27.414368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186261751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.890991,-31.431698,152.890991,-31.431698",
     "geom:latitude":-31.431698,
     "geom:longitude":152.890991,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/6- 8 Bellbowrie St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186261751,
-    "wof:lastmodified":1449050301,
+    "wof:lastmodified":1466187494,
     "wof:name":"Rego Shop Port Macquarie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.890991,-31.431698,152.890991,-31.431698],
-  "geometry": {"coordinates":[152.890991,-31.431698],"type":"Point"}
+  "bbox": [
+    152.890991,
+    -31.431698,
+    152.890991,
+    -31.431698
+],
+  "geometry": {"coordinates":[152.89099100000001,-31.431698],"type":"Point"}
 }

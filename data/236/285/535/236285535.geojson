@@ -2,13 +2,14 @@
   "id": 236285535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.742783,-32.320095,115.742783,-32.320095",
     "geom:latitude":-32.320095,
     "geom:longitude":115.742783,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Safety Bay Rd",
     "sg:city":"Safety Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236285535,
-    "wof:lastmodified":1449001749,
+    "wof:lastmodified":1466190399,
     "wof:name":"Caltex Safety Bay",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.742783,-32.320095,115.742783,-32.320095],
+  "bbox": [
+    115.742783,
+    -32.320095,
+    115.742783,
+    -32.320095
+],
   "geometry": {"coordinates":[115.742783,-32.320095],"type":"Point"}
 }

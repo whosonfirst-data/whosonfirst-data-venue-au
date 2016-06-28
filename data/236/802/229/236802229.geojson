@@ -2,13 +2,14 @@
   "id": 236802229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.901154,-34.481953,150.901154,-34.481953",
     "geom:latitude":-34.481953,
     "geom:longitude":150.901154,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Kembla St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236802229,
-    "wof:lastmodified":1449004509,
+    "wof:lastmodified":1466191948,
     "wof:name":"Chipmasters",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "catering"
     ]
 },
-  "bbox": [150.901154,-34.481953,150.901154,-34.481953],
-  "geometry": {"coordinates":[150.901154,-34.481953],"type":"Point"}
+  "bbox": [
+    150.901154,
+    -34.481953,
+    150.901154,
+    -34.481953
+],
+  "geometry": {"coordinates":[150.90115399999999,-34.481953],"type":"Point"}
 }

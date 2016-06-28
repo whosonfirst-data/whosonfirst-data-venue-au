@@ -2,13 +2,14 @@
   "id": 202706435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.047363,-27.369089,153.047363,-27.369089",
     "geom:latitude":-27.369089,
     "geom:longitude":153.047363,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 166",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202706435,
-    "wof:lastmodified":1449060294,
+    "wof:lastmodified":1466188955,
     "wof:name":"Queensland Adrenalin Skydive",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parachuting"
     ]
 },
-  "bbox": [153.047363,-27.369089,153.047363,-27.369089],
-  "geometry": {"coordinates":[153.047363,-27.369089],"type":"Point"}
+  "bbox": [
+    153.047363,
+    -27.369089,
+    153.047363,
+    -27.369089
+],
+  "geometry": {"coordinates":[153.04736299999999,-27.369089],"type":"Point"}
 }

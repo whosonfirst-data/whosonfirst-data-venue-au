@@ -2,13 +2,14 @@
   "id": 219322255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.942368,-38.162254,145.942368,-38.162254",
     "geom:latitude":-38.162254,
     "geom:longitude":145.942368,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Phoenix & Queen Sts",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219322255,
-    "wof:lastmodified":1449070341,
+    "wof:lastmodified":1466187713,
     "wof:name":"Ross Lyons Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.942368,-38.162254,145.942368,-38.162254],
-  "geometry": {"coordinates":[145.942368,-38.162254],"type":"Point"}
+  "bbox": [
+    145.942368,
+    -38.162254,
+    145.942368,
+    -38.162254
+],
+  "geometry": {"coordinates":[145.94236799999999,-38.162254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220180541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.411423,-38.166122,144.411423,-38.166122",
     "geom:latitude":-38.166122,
     "geom:longitude":144.411423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Nobility St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220180541,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466189199,
     "wof:name":"Keith Smith Panels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "panel"
     ]
 },
-  "bbox": [144.411423,-38.166122,144.411423,-38.166122],
-  "geometry": {"coordinates":[144.411423,-38.166122],"type":"Point"}
+  "bbox": [
+    144.411423,
+    -38.166122,
+    144.411423,
+    -38.166122
+],
+  "geometry": {"coordinates":[144.41142300000001,-38.166122],"type":"Point"}
 }

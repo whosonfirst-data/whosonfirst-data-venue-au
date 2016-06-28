@@ -2,13 +2,14 @@
   "id": 236314993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753807,-32.052292,115.753807,-32.052292",
     "geom:latitude":-32.052292,
     "geom:longitude":115.753807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"229 High St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236314993,
-    "wof:lastmodified":1449005081,
+    "wof:lastmodified":1466190587,
     "wof:name":"Gebauer Hannes DR",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.753807,-32.052292,115.753807,-32.052292],
-  "geometry": {"coordinates":[115.753807,-32.052292],"type":"Point"}
+  "bbox": [
+    115.753807,
+    -32.052292,
+    115.753807,
+    -32.052292
+],
+  "geometry": {"coordinates":[115.75380699999999,-32.052292],"type":"Point"}
 }

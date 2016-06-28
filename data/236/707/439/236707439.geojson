@@ -2,13 +2,14 @@
   "id": 236707439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.524155,-31.898563,152.524155,-31.898563",
     "geom:latitude":-31.898563,
     "geom:longitude":152.524155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lansdowne Rd",
     "sg:city":"Cundletown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236707439,
-    "wof:lastmodified":1449004621,
+    "wof:lastmodified":1466191852,
     "wof:name":"K&D Skylights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skylight"
     ]
 },
-  "bbox": [152.524155,-31.898563,152.524155,-31.898563],
-  "geometry": {"coordinates":[152.524155,-31.898563],"type":"Point"}
+  "bbox": [
+    152.524155,
+    -31.898563,
+    152.524155,
+    -31.898563
+],
+  "geometry": {"coordinates":[152.52415500000001,-31.898563],"type":"Point"}
 }

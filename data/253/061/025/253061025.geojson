@@ -2,13 +2,14 @@
   "id": 253061025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.755325,-37.766251,144.755325,-37.766251",
     "geom:latitude":-37.766251,
     "geom:longitude":144.755325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Waigani Ave",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253061025,
-    "wof:lastmodified":1449064965,
+    "wof:lastmodified":1466188077,
     "wof:name":"IRVINE IMPORTS",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "quarantine"
     ]
 },
-  "bbox": [144.755325,-37.766251,144.755325,-37.766251],
+  "bbox": [
+    144.755325,
+    -37.766251,
+    144.755325,
+    -37.766251
+],
   "geometry": {"coordinates":[144.755325,-37.766251],"type":"Point"}
 }

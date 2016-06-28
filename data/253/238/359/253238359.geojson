@@ -2,13 +2,14 @@
   "id": 253238359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.947296,-27.566362,151.947296,-27.566362",
     "geom:latitude":-27.566362,
     "geom:longitude":151.947296,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Prescott St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253238359,
-    "wof:lastmodified":1449063941,
+    "wof:lastmodified":1466190329,
     "wof:name":"Toowoomba Bikes & Bits",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "accessory"
     ]
 },
-  "bbox": [151.947296,-27.566362,151.947296,-27.566362],
-  "geometry": {"coordinates":[151.947296,-27.566362],"type":"Point"}
+  "bbox": [
+    151.947296,
+    -27.566362,
+    151.947296,
+    -27.566362
+],
+  "geometry": {"coordinates":[151.94729599999999,-27.566362],"type":"Point"}
 }

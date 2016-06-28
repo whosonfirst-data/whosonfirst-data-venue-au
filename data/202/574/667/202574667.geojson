@@ -2,13 +2,14 @@
   "id": 202574667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.421799,-37.687515,144.421799,-37.687515",
     "geom:latitude":-37.687515,
     "geom:longitude":144.421799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hillside St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202574667,
-    "wof:lastmodified":1449060094,
+    "wof:lastmodified":1466187081,
     "wof:name":"Bacchus Marsh Collision Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "panel"
     ]
 },
-  "bbox": [144.421799,-37.687515,144.421799,-37.687515],
-  "geometry": {"coordinates":[144.421799,-37.687515],"type":"Point"}
+  "bbox": [
+    144.421799,
+    -37.687515,
+    144.421799,
+    -37.687515
+],
+  "geometry": {"coordinates":[144.42179899999999,-37.687515],"type":"Point"}
 }

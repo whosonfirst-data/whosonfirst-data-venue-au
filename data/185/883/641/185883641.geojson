@@ -2,13 +2,14 @@
   "id": 185883641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.675873,-25.554375,152.675873,-25.554375",
     "geom:latitude":-25.554375,
     "geom:longitude":152.675873,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Teddington Rd",
     "sg:city":"Tinana",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185883641,
-    "wof:lastmodified":1449007852,
+    "wof:lastmodified":1466187709,
     "wof:name":"Cornwalls Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carrier"
     ]
 },
-  "bbox": [152.675873,-25.554375,152.675873,-25.554375],
+  "bbox": [
+    152.675873,
+    -25.554375,
+    152.675873,
+    -25.554375
+],
   "geometry": {"coordinates":[152.675873,-25.554375],"type":"Point"}
 }

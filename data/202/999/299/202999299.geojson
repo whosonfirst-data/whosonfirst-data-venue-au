@@ -2,13 +2,14 @@
   "id": 202999299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485916,-20.720329,139.485916,-20.720329",
     "geom:latitude":-20.720329,
     "geom:longitude":139.485916,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Barkly Hwy",
     "sg:city":"Miles End",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202999299,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466191088,
     "wof:name":"Barkly Brake Centre",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [139.485916,-20.720329,139.485916,-20.720329],
+  "bbox": [
+    139.485916,
+    -20.720329,
+    139.485916,
+    -20.720329
+],
   "geometry": {"coordinates":[139.485916,-20.720329],"type":"Point"}
 }

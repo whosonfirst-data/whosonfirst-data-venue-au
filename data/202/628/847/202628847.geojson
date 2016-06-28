@@ -2,13 +2,14 @@
   "id": 202628847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.172379,-28.85964,151.172379,-28.85964",
     "geom:latitude":-28.85964,
     "geom:longitude":151.172379,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Flemming St",
     "sg:city":"Texas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202628847,
-    "wof:lastmodified":1449062183,
+    "wof:lastmodified":1466187579,
     "wof:name":"Texas Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [151.172379,-28.85964,151.172379,-28.85964],
-  "geometry": {"coordinates":[151.172379,-28.85964],"type":"Point"}
+  "bbox": [
+    151.172379,
+    -28.85964,
+    151.172379,
+    -28.85964
+],
+  "geometry": {"coordinates":[151.17237900000001,-28.85964],"type":"Point"}
 }

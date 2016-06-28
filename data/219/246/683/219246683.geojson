@@ -2,13 +2,14 @@
   "id": 219246683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.996857,-37.779327,144.996857,-37.779327",
     "geom:latitude":-37.779327,
     "geom:longitude":144.996857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219246683,
-    "wof:lastmodified":1449070624,
+    "wof:lastmodified":1466187000,
     "wof:name":"Tower Pizza",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.996857,-37.779327,144.996857,-37.779327],
-  "geometry": {"coordinates":[144.996857,-37.779327],"type":"Point"}
+  "bbox": [
+    144.996857,
+    -37.779327,
+    144.996857,
+    -37.779327
+],
+  "geometry": {"coordinates":[144.99685700000001,-37.779327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185864219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.875198,-25.355852,152.875198,-25.355852",
     "geom:latitude":-25.355852,
     "geom:longitude":152.875198,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Donaldson Rd",
     "sg:city":"Booral",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185864219,
-    "wof:lastmodified":1449008232,
+    "wof:lastmodified":1466187502,
     "wof:name":"Beyond Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "motor"
     ]
 },
-  "bbox": [152.875198,-25.355852,152.875198,-25.355852],
-  "geometry": {"coordinates":[152.875198,-25.355852],"type":"Point"}
+  "bbox": [
+    152.875198,
+    -25.355852,
+    152.875198,
+    -25.355852
+],
+  "geometry": {"coordinates":[152.87519800000001,-25.355852],"type":"Point"}
 }

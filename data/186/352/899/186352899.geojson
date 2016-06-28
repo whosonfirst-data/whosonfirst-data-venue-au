@@ -2,13 +2,14 @@
   "id": 186352899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.291443,-33.706562,151.291443,-33.706562",
     "geom:latitude":-33.706562,
     "geom:longitude":151.291443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Narroy Rd",
     "sg:city":"North Narrabeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186352899,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466188507,
     "wof:name":"Pederson Carsten",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.291443,-33.706562,151.291443,-33.706562],
-  "geometry": {"coordinates":[151.291443,-33.706562],"type":"Point"}
+  "bbox": [
+    151.291443,
+    -33.706562,
+    151.291443,
+    -33.706562
+],
+  "geometry": {"coordinates":[151.29144299999999,-33.706562],"type":"Point"}
 }

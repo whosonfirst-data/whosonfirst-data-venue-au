@@ -2,13 +2,14 @@
   "id": 186595419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.115906,-36.741207,144.115906,-36.741207",
     "geom:latitude":-36.741207,
     "geom:longitude":144.115906,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"211 O'Sullivans Rd",
     "sg:city":"Marong",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186595419,
-    "wof:lastmodified":1449052762,
+    "wof:lastmodified":1466191019,
     "wof:name":"Burnt Acre Vineyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [144.115906,-36.741207,144.115906,-36.741207],
+  "bbox": [
+    144.115906,
+    -36.741207,
+    144.115906,
+    -36.741207
+],
   "geometry": {"coordinates":[144.115906,-36.741207],"type":"Point"}
 }

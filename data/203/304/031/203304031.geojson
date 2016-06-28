@@ -2,13 +2,14 @@
   "id": 203304031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.811752,-37.535492,143.811752,-37.535492",
     "geom:latitude":-37.535492,
     "geom:longitude":143.811752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 3/ 34 Grandlee Drv",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203304031,
-    "wof:lastmodified":1449026374,
+    "wof:lastmodified":1466188002,
     "wof:name":"Andrew James Plumbing",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.811752,-37.535492,143.811752,-37.535492],
-  "geometry": {"coordinates":[143.811752,-37.535492],"type":"Point"}
+  "bbox": [
+    143.811752,
+    -37.535492,
+    143.811752,
+    -37.535492
+],
+  "geometry": {"coordinates":[143.81175200000001,-37.535492],"type":"Point"}
 }

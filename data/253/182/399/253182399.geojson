@@ -2,13 +2,14 @@
   "id": 253182399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.935654,-27.539522,151.935654,-27.539522",
     "geom:latitude":-27.539522,
     "geom:longitude":151.935654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"St Andrews Hospital 280 North St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253182399,
-    "wof:lastmodified":1449064693,
+    "wof:lastmodified":1466189988,
     "wof:name":"Birrell Doug J",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.935654,-27.539522,151.935654,-27.539522],
+  "bbox": [
+    151.935654,
+    -27.539522,
+    151.935654,
+    -27.539522
+],
   "geometry": {"coordinates":[151.935654,-27.539522],"type":"Point"}
 }

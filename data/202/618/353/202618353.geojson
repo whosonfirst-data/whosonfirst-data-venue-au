@@ -2,13 +2,14 @@
   "id": 202618353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.944275,-28.648165,151.944275,-28.648165",
     "geom:latitude":-28.648165,
     "geom:longitude":151.944275,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Lofaros Rd",
     "sg:city":"Severnlea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202618353,
-    "wof:lastmodified":1449061686,
+    "wof:lastmodified":1466187500,
     "wof:name":"Stanthorpe Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [151.944275,-28.648165,151.944275,-28.648165],
+  "bbox": [
+    151.944275,
+    -28.648165,
+    151.944275,
+    -28.648165
+],
   "geometry": {"coordinates":[151.944275,-28.648165],"type":"Point"}
 }

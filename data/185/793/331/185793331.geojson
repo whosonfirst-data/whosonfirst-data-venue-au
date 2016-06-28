@@ -2,13 +2,14 @@
   "id": 185793331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.53006,-37.668476,145.53006,-37.668476",
     "geom:latitude":-37.668476,
     "geom:longitude":145.53006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Badger Creek St",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185793331,
-    "wof:lastmodified":1449007498,
+    "wof:lastmodified":1466189879,
     "wof:name":"Healesville HCP Antique Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.53006,-37.668476,145.53006,-37.668476],
-  "geometry": {"coordinates":[145.53006,-37.668476],"type":"Point"}
+  "bbox": [
+    145.53006,
+    -37.668476,
+    145.53006,
+    -37.668476
+],
+  "geometry": {"coordinates":[145.53005999999999,-37.668476],"type":"Point"}
 }

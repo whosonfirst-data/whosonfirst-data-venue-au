@@ -2,13 +2,14 @@
   "id": 252862145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.183395,-38.047649,144.183395,-38.047649",
     "geom:latitude":-38.047649,
     "geom:longitude":144.183395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Range Rd",
     "sg:city":"Bannockburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252862145,
-    "wof:lastmodified":1449006550,
+    "wof:lastmodified":1466188651,
     "wof:name":"Bannockburn Vineyards Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [144.183395,-38.047649,144.183395,-38.047649],
-  "geometry": {"coordinates":[144.183395,-38.047649],"type":"Point"}
+  "bbox": [
+    144.183395,
+    -38.047649,
+    144.183395,
+    -38.047649
+],
+  "geometry": {"coordinates":[144.18339499999999,-38.047649],"type":"Point"}
 }

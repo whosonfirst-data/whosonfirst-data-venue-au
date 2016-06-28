@@ -2,13 +2,14 @@
   "id": 236131423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.860916,-37.730156,144.860916,-37.730156",
     "geom:latitude":-37.730156,
     "geom:longitude":144.860916,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236131423,
-    "wof:lastmodified":1449002477,
+    "wof:lastmodified":1466189276,
     "wof:name":"TC Cafe",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.860916,-37.730156,144.860916,-37.730156],
+  "bbox": [
+    144.860916,
+    -37.730156,
+    144.860916,
+    -37.730156
+],
   "geometry": {"coordinates":[144.860916,-37.730156],"type":"Point"}
 }

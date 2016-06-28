@@ -2,13 +2,14 @@
   "id": 253256541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952255,-27.568485,151.952255,-27.568485",
     "geom:latitude":-27.568485,
     "geom:longitude":151.952255,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253256541,
-    "wof:lastmodified":1449065058,
+    "wof:lastmodified":1466190575,
     "wof:name":"Petz Tucker",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [151.952255,-27.568485,151.952255,-27.568485],
-  "geometry": {"coordinates":[151.952255,-27.568485],"type":"Point"}
+  "bbox": [
+    151.952255,
+    -27.568485,
+    151.952255,
+    -27.568485
+],
+  "geometry": {"coordinates":[151.95225500000001,-27.568485],"type":"Point"}
 }

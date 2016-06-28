@@ -2,13 +2,14 @@
   "id": 202578431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.448685,-37.654976,144.448685,-37.654976",
     "geom:latitude":-37.654976,
     "geom:longitude":144.448685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 2/ 10 Albert St",
     "sg:city":"Darley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202578431,
-    "wof:lastmodified":1449060755,
+    "wof:lastmodified":1466187111,
     "wof:name":"Brights &#039;N&#039; Whites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.448685,-37.654976,144.448685,-37.654976],
-  "geometry": {"coordinates":[144.448685,-37.654976],"type":"Point"}
+  "bbox": [
+    144.448685,
+    -37.654976,
+    144.448685,
+    -37.654976
+],
+  "geometry": {"coordinates":[144.44868500000001,-37.654976],"type":"Point"}
 }

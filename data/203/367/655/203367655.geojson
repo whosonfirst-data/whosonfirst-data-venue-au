@@ -2,13 +2,14 @@
   "id": 203367655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.84816,-37.557762,143.84816,-37.557762",
     "geom:latitude":-37.557762,
     "geom:longitude":143.84816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Drummond St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203367655,
-    "wof:lastmodified":1449026069,
+    "wof:lastmodified":1466188982,
     "wof:name":"Ballarat Surgical Clinic",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [143.84816,-37.557762,143.84816,-37.557762],
-  "geometry": {"coordinates":[143.84816,-37.557762],"type":"Point"}
+  "bbox": [
+    143.84816,
+    -37.557762,
+    143.84816,
+    -37.557762
+],
+  "geometry": {"coordinates":[143.84816000000001,-37.557762],"type":"Point"}
 }

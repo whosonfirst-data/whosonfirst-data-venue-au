@@ -2,13 +2,14 @@
   "id": 202914827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.086136,-30.307076,153.086136,-30.307076",
     "geom:latitude":-30.307076,
     "geom:longitude":153.086136,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 North Boambee Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202914827,
-    "wof:lastmodified":1449061082,
+    "wof:lastmodified":1466190877,
     "wof:name":"Bishop Druitt College",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [153.086136,-30.307076,153.086136,-30.307076],
-  "geometry": {"coordinates":[153.086136,-30.307076],"type":"Point"}
+  "bbox": [
+    153.086136,
+    -30.307076,
+    153.086136,
+    -30.307076
+],
+  "geometry": {"coordinates":[153.08613600000001,-30.307076],"type":"Point"}
 }

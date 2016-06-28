@@ -2,13 +2,14 @@
   "id": 219557837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.010635,-33.930794,151.010635,-33.930794",
     "geom:latitude":-33.930794,
     "geom:longitude":151.010635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Eldridge Rd",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219557837,
-    "wof:lastmodified":1449072918,
+    "wof:lastmodified":1466190341,
     "wof:name":"Hyde Park Furniture",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [151.010635,-33.930794,151.010635,-33.930794],
-  "geometry": {"coordinates":[151.010635,-33.930794],"type":"Point"}
+  "bbox": [
+    151.010635,
+    -33.930794,
+    151.010635,
+    -33.930794
+],
+  "geometry": {"coordinates":[151.01063500000001,-33.930794],"type":"Point"}
 }

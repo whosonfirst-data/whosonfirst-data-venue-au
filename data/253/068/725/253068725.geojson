@@ -2,13 +2,14 @@
   "id": 253068725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.725006,-37.74638,144.725006,-37.74638",
     "geom:latitude":-37.74638,
     "geom:longitude":144.725006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Belair Crt",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253068725,
-    "wof:lastmodified":1449064346,
+    "wof:lastmodified":1466188177,
     "wof:name":"Access Jukebox & Karaoke Hire",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [144.725006,-37.74638,144.725006,-37.74638],
-  "geometry": {"coordinates":[144.725006,-37.74638],"type":"Point"}
+  "bbox": [
+    144.725006,
+    -37.74638,
+    144.725006,
+    -37.74638
+],
+  "geometry": {"coordinates":[144.72500600000001,-37.74638],"type":"Point"}
 }

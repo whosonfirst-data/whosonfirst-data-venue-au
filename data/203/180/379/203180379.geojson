@@ -2,13 +2,14 @@
   "id": 203180379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.731247,-40.989861,145.731247,-40.989861",
     "geom:latitude":-40.989861,
     "geom:longitude":145.731247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Old Mount Hicks Rd",
     "sg:city":"Mt Hicks",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203180379,
-    "wof:lastmodified":1449025032,
+    "wof:lastmodified":1466189902,
     "wof:name":"Amanda Webster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "therapy"
     ]
 },
-  "bbox": [145.731247,-40.989861,145.731247,-40.989861],
+  "bbox": [
+    145.731247,
+    -40.989861,
+    145.731247,
+    -40.989861
+],
   "geometry": {"coordinates":[145.731247,-40.989861],"type":"Point"}
 }

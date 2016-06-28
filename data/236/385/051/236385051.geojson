@@ -2,13 +2,14 @@
   "id": 236385051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.866203,-32.119934,115.866203,-32.119934",
     "geom:latitude":-32.119934,
     "geom:longitude":115.866203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Cutler Rd",
     "sg:city":"Jandakot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236385051,
-    "wof:lastmodified":1449003642,
+    "wof:lastmodified":1466191066,
     "wof:name":"Epic Security Group",
     "wof:parent_id":85775691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [115.866203,-32.119934,115.866203,-32.119934],
+  "bbox": [
+    115.866203,
+    -32.119934,
+    115.866203,
+    -32.119934
+],
   "geometry": {"coordinates":[115.866203,-32.119934],"type":"Point"}
 }

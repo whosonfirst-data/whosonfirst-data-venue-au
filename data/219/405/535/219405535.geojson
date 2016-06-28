@@ -2,13 +2,14 @@
   "id": 219405535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.99617,-27.988377,152.99617,-27.988377",
     "geom:latitude":-27.988377,
     "geom:longitude":152.99617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"William St",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219405535,
-    "wof:lastmodified":1449073627,
+    "wof:lastmodified":1466188415,
     "wof:name":"Beaudesert Medical Centre Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [152.99617,-27.988377,152.99617,-27.988377],
-  "geometry": {"coordinates":[152.99617,-27.988377],"type":"Point"}
+  "bbox": [
+    152.99617,
+    -27.988377,
+    152.99617,
+    -27.988377
+],
+  "geometry": {"coordinates":[152.99617000000001,-27.988377],"type":"Point"}
 }

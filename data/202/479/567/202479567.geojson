@@ -2,13 +2,14 @@
   "id": 202479567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.969788,-37.830467,144.969788,-37.830467",
     "geom:latitude":-37.830467,
     "geom:longitude":144.969788,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Dorcas St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202479567,
-    "wof:lastmodified":1449061825,
+    "wof:lastmodified":1466189217,
     "wof:name":"Performance & Family Wellness Centre",
     "wof:parent_id":85782343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.969788,-37.830467,144.969788,-37.830467],
-  "geometry": {"coordinates":[144.969788,-37.830467],"type":"Point"}
+  "bbox": [
+    144.969788,
+    -37.830467,
+    144.969788,
+    -37.830467
+],
+  "geometry": {"coordinates":[144.96978799999999,-37.830467],"type":"Point"}
 }

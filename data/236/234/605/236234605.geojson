@@ -2,13 +2,14 @@
   "id": 236234605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.676392,-38.092014,145.676392,-38.092014",
     "geom:latitude":-38.092014,
     "geom:longitude":145.676392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Main St",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236234605,
-    "wof:lastmodified":1449005033,
+    "wof:lastmodified":1466190169,
     "wof:name":"Garfield Trading Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.676392,-38.092014,145.676392,-38.092014],
-  "geometry": {"coordinates":[145.676392,-38.092014],"type":"Point"}
+  "bbox": [
+    145.676392,
+    -38.092014,
+    145.676392,
+    -38.092014
+],
+  "geometry": {"coordinates":[145.67639199999999,-38.092014],"type":"Point"}
 }

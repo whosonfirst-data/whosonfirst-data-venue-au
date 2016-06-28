@@ -2,13 +2,14 @@
   "id": 186407437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.756622,-19.262371,146.756622,-19.262371",
     "geom:latitude":-19.262371,
     "geom:longitude":146.756622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186407437,
-    "wof:lastmodified":1449051869,
+    "wof:lastmodified":1466189430,
     "wof:name":"Lift & Shift Machinery Sales",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [146.756622,-19.262371,146.756622,-19.262371],
-  "geometry": {"coordinates":[146.756622,-19.262371],"type":"Point"}
+  "bbox": [
+    146.756622,
+    -19.262371,
+    146.756622,
+    -19.262371
+],
+  "geometry": {"coordinates":[146.75662199999999,-19.262371],"type":"Point"}
 }

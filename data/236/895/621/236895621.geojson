@@ -2,13 +2,14 @@
   "id": 236895621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.522079,-35.007431,138.522079,-35.007431",
     "geom:latitude":-35.007431,
     "geom:longitude":138.522079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5/ 339 Brighton Rd",
     "sg:city":"North Brighton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236895621,
-    "wof:lastmodified":1449002984,
+    "wof:lastmodified":1466192091,
     "wof:name":"Bedazzled Boutique",
     "wof:parent_id":85779087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boutique"
     ]
 },
-  "bbox": [138.522079,-35.007431,138.522079,-35.007431],
-  "geometry": {"coordinates":[138.522079,-35.007431],"type":"Point"}
+  "bbox": [
+    138.522079,
+    -35.007431,
+    138.522079,
+    -35.007431
+],
+  "geometry": {"coordinates":[138.52207899999999,-35.007431],"type":"Point"}
 }

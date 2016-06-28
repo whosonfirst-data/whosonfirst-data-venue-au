@@ -2,13 +2,14 @@
   "id": 219283833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.155212,-38.20945,146.155212,-38.20945",
     "geom:latitude":-38.20945,
     "geom:longitude":146.155212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Contingent St",
     "sg:city":"Trafalgar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219283833,
-    "wof:lastmodified":1449071446,
+    "wof:lastmodified":1466187397,
     "wof:name":"Ross & Worth Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [146.155212,-38.20945,146.155212,-38.20945],
-  "geometry": {"coordinates":[146.155212,-38.20945],"type":"Point"}
+  "bbox": [
+    146.155212,
+    -38.20945,
+    146.155212,
+    -38.20945
+],
+  "geometry": {"coordinates":[146.15521200000001,-38.20945],"type":"Point"}
 }

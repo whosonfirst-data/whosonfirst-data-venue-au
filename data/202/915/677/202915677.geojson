@@ -2,13 +2,14 @@
   "id": 202915677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.138199,-30.302086,153.138199,-30.302086",
     "geom:latitude":-30.302086,
     "geom:longitude":153.138199,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2/ 15 Orlando St",
     "sg:city":"Coffs Harbour Jetty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202915677,
-    "wof:lastmodified":1449062608,
+    "wof:lastmodified":1466190641,
     "wof:name":"Little Larder The",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organic"
     ]
 },
-  "bbox": [153.138199,-30.302086,153.138199,-30.302086],
-  "geometry": {"coordinates":[153.138199,-30.302086],"type":"Point"}
+  "bbox": [
+    153.138199,
+    -30.302086,
+    153.138199,
+    -30.302086
+],
+  "geometry": {"coordinates":[153.13819899999999,-30.302086],"type":"Point"}
 }

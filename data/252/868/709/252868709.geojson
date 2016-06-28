@@ -2,13 +2,14 @@
   "id": 252868709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.562103,-37.67104,144.562103,-37.67104",
     "geom:latitude":-37.67104,
     "geom:longitude":144.562103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Todmin Crt",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252868709,
-    "wof:lastmodified":1449005446,
+    "wof:lastmodified":1466188710,
     "wof:name":"Psarras Cement Finishes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [144.562103,-37.67104,144.562103,-37.67104],
-  "geometry": {"coordinates":[144.562103,-37.67104],"type":"Point"}
+  "bbox": [
+    144.562103,
+    -37.67104,
+    144.562103,
+    -37.67104
+],
+  "geometry": {"coordinates":[144.56210300000001,-37.67104],"type":"Point"}
 }

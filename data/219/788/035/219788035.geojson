@@ -2,13 +2,14 @@
   "id": 219788035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.729874,-19.31188,146.729874,-19.31188",
     "geom:latitude":-19.31188,
     "geom:longitude":146.729874,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Thuringowa Drv",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219788035,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466191413,
     "wof:name":"House & Land Specialists",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.729874,-19.31188,146.729874,-19.31188],
+  "bbox": [
+    146.729874,
+    -19.31188,
+    146.729874,
+    -19.31188
+],
   "geometry": {"coordinates":[146.729874,-19.31188],"type":"Point"}
 }

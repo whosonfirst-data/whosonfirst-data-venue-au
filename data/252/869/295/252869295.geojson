@@ -2,13 +2,14 @@
   "id": 252869295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.550507,-37.68364,144.550507,-37.68364",
     "geom:latitude":-37.68364,
     "geom:longitude":144.550507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Trethowan Ave",
     "sg:city":"Melton West",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252869295,
-    "wof:lastmodified":1449006423,
+    "wof:lastmodified":1466188715,
     "wof:name":"Superb Leadlights And Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leadlights"
     ]
 },
-  "bbox": [144.550507,-37.68364,144.550507,-37.68364],
-  "geometry": {"coordinates":[144.550507,-37.68364],"type":"Point"}
+  "bbox": [
+    144.550507,
+    -37.68364,
+    144.550507,
+    -37.68364
+],
+  "geometry": {"coordinates":[144.55050700000001,-37.68364],"type":"Point"}
 }

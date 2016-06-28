@@ -2,13 +2,14 @@
   "id": 203119699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.70166,-32.551109,115.70166,-32.551109",
     "geom:latitude":-32.551109,
     "geom:longitude":115.70166,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Old Coast Rd & Peelwood Pde",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203119699,
-    "wof:lastmodified":1449026320,
+    "wof:lastmodified":1466189331,
     "wof:name":"Travelscene",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.70166,-32.551109,115.70166,-32.551109],
+  "bbox": [
+    115.70166,
+    -32.551109,
+    115.70166,
+    -32.551109
+],
   "geometry": {"coordinates":[115.70166,-32.551109],"type":"Point"}
 }

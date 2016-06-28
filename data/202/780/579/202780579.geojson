@@ -2,13 +2,14 @@
   "id": 202780579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.768539,-32.934696,151.768539,-32.934696",
     "geom:latitude":-32.934696,
     "geom:longitude":151.768539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Darby St",
     "sg:city":"Cooks Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202780579,
-    "wof:lastmodified":1449062007,
+    "wof:lastmodified":1466190172,
     "wof:name":"Solid Property Services",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.768539,-32.934696,151.768539,-32.934696],
+  "bbox": [
+    151.768539,
+    -32.934696,
+    151.768539,
+    -32.934696
+],
   "geometry": {"coordinates":[151.768539,-32.934696],"type":"Point"}
 }

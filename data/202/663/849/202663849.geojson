@@ -2,13 +2,14 @@
   "id": 202663849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.029327,-27.427807,153.029327,-27.427807",
     "geom:latitude":-27.427807,
     "geom:longitude":153.029327,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Whish St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202663849,
-    "wof:lastmodified":1449061964,
+    "wof:lastmodified":1466188149,
     "wof:name":"Worx By Windsor",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "desktop"
     ]
 },
-  "bbox": [153.029327,-27.427807,153.029327,-27.427807],
-  "geometry": {"coordinates":[153.029327,-27.427807],"type":"Point"}
+  "bbox": [
+    153.029327,
+    -27.427807,
+    153.029327,
+    -27.427807
+],
+  "geometry": {"coordinates":[153.02932699999999,-27.427807],"type":"Point"}
 }

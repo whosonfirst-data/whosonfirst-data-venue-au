@@ -2,13 +2,14 @@
   "id": 202704891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031296,-27.358236,153.031296,-27.358236",
     "geom:latitude":-27.358236,
     "geom:longitude":153.031296,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Zillmere Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202704891,
-    "wof:lastmodified":1449060776,
+    "wof:lastmodified":1466188922,
     "wof:name":"Fentek Australia Pty Ltd",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wharf"
     ]
 },
-  "bbox": [153.031296,-27.358236,153.031296,-27.358236],
+  "bbox": [
+    153.031296,
+    -27.358236,
+    153.031296,
+    -27.358236
+],
   "geometry": {"coordinates":[153.031296,-27.358236],"type":"Point"}
 }

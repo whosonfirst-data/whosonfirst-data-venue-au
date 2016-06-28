@@ -2,13 +2,14 @@
   "id": 253324109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.288727,-38.055214,145.288727,-38.055214",
     "geom:latitude":-38.055214,
     "geom:longitude":145.288727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Jarvis Crs",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253324109,
-    "wof:lastmodified":1449064540,
+    "wof:lastmodified":1466190920,
     "wof:name":"Lieutier J & I",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.288727,-38.055214,145.288727,-38.055214],
-  "geometry": {"coordinates":[145.288727,-38.055214],"type":"Point"}
+  "bbox": [
+    145.288727,
+    -38.055214,
+    145.288727,
+    -38.055214
+],
+  "geometry": {"coordinates":[145.28872699999999,-38.055214],"type":"Point"}
 }

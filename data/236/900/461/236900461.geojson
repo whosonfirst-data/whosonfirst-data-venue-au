@@ -2,13 +2,14 @@
   "id": 236900461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.515533,-35.017429,138.515533,-35.017429",
     "geom:latitude":-35.017429,
     "geom:longitude":138.515533,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Jetty Rd",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236900461,
-    "wof:lastmodified":1449003007,
+    "wof:lastmodified":1466191993,
     "wof:name":"Caffe Primo",
     "wof:parent_id":85768923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.515533,-35.017429,138.515533,-35.017429],
+  "bbox": [
+    138.515533,
+    -35.017429,
+    138.515533,
+    -35.017429
+],
   "geometry": {"coordinates":[138.515533,-35.017429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186443467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171432,-33.898582,151.171432,-33.898582",
     "geom:latitude":-33.898582,
     "geom:longitude":151.171432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Cambridge St",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186443467,
-    "wof:lastmodified":1449052517,
+    "wof:lastmodified":1466189977,
     "wof:name":"Traveller's Trading Post The",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [151.171432,-33.898582,151.171432,-33.898582],
-  "geometry": {"coordinates":[151.171432,-33.898582],"type":"Point"}
+  "bbox": [
+    151.171432,
+    -33.898582,
+    151.171432,
+    -33.898582
+],
+  "geometry": {"coordinates":[151.17143200000001,-33.898582],"type":"Point"}
 }

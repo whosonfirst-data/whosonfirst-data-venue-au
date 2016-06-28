@@ -2,13 +2,14 @@
   "id": 186363073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.126587,-33.851299,151.126587,-33.851299",
     "geom:latitude":-33.851299,
     "geom:longitude":151.126587,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Charlton St",
     "sg:city":"Abbotsford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186363073,
-    "wof:lastmodified":1449052691,
+    "wof:lastmodified":1466188691,
     "wof:name":"Dynamic Structural Engineering",
     "wof:parent_id":85768649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "structural"
     ]
 },
-  "bbox": [151.126587,-33.851299,151.126587,-33.851299],
+  "bbox": [
+    151.126587,
+    -33.851299,
+    151.126587,
+    -33.851299
+],
   "geometry": {"coordinates":[151.126587,-33.851299],"type":"Point"}
 }

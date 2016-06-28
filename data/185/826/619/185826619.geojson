@@ -2,13 +2,14 @@
   "id": 185826619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.809662,-25.302574,152.809662,-25.302574",
     "geom:latitude":-25.302574,
     "geom:longitude":152.809662,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Maryborough/Hervey Bay Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185826619,
-    "wof:lastmodified":1449007759,
+    "wof:lastmodified":1466187045,
     "wof:name":"Tourism Hervey Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "attractions"
     ]
 },
-  "bbox": [152.809662,-25.302574,152.809662,-25.302574],
+  "bbox": [
+    152.809662,
+    -25.302574,
+    152.809662,
+    -25.302574
+],
   "geometry": {"coordinates":[152.809662,-25.302574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203336535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849304,-37.525589,143.849304,-37.525589",
     "geom:latitude":-37.525589,
     "geom:longitude":143.849304,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20-22 Old Creswick Rd",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203336535,
-    "wof:lastmodified":1449024907,
+    "wof:lastmodified":1466188441,
     "wof:name":"Ballarat Joinery Supplies",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veneer"
     ]
 },
-  "bbox": [143.849304,-37.525589,143.849304,-37.525589],
-  "geometry": {"coordinates":[143.849304,-37.525589],"type":"Point"}
+  "bbox": [
+    143.849304,
+    -37.525589,
+    143.849304,
+    -37.525589
+],
+  "geometry": {"coordinates":[143.84930399999999,-37.525589],"type":"Point"}
 }

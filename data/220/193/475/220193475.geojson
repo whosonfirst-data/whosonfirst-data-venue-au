@@ -2,13 +2,14 @@
   "id": 220193475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.557205,-38.16132,144.557205,-38.16132",
     "geom:latitude":-38.16132,
     "geom:longitude":144.557205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Kawana Crt",
     "sg:city":"Clifton Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220193475,
-    "wof:lastmodified":1449074168,
+    "wof:lastmodified":1466189343,
     "wof:name":"Miller Locksmiths",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "doors"
     ]
 },
-  "bbox": [144.557205,-38.16132,144.557205,-38.16132],
-  "geometry": {"coordinates":[144.557205,-38.16132],"type":"Point"}
+  "bbox": [
+    144.557205,
+    -38.16132,
+    144.557205,
+    -38.16132
+],
+  "geometry": {"coordinates":[144.55720500000001,-38.16132],"type":"Point"}
 }

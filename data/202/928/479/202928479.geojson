@@ -2,13 +2,14 @@
   "id": 202928479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.100281,-30.292938,153.100281,-30.292938",
     "geom:latitude":-30.292938,
     "geom:longitude":153.100281,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Caramba Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202928479,
-    "wof:lastmodified":1449062300,
+    "wof:lastmodified":1466190882,
     "wof:name":"Coffs Meditation Centre",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "meditation"
     ]
 },
-  "bbox": [153.100281,-30.292938,153.100281,-30.292938],
+  "bbox": [
+    153.100281,
+    -30.292938,
+    153.100281,
+    -30.292938
+],
   "geometry": {"coordinates":[153.100281,-30.292938],"type":"Point"}
 }

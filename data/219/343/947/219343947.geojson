@@ -2,13 +2,14 @@
   "id": 219343947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.311203,-14.496144,132.311203,-14.496144",
     "geom:latitude":-14.496144,
     "geom:longitude":132.311203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 5595/ Cragborn Rd",
     "sg:city":"Katherine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219343947,
-    "wof:lastmodified":1449072908,
+    "wof:lastmodified":1466187886,
     "wof:name":"Johnston Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [132.311203,-14.496144,132.311203,-14.496144],
-  "geometry": {"coordinates":[132.311203,-14.496144],"type":"Point"}
+  "bbox": [
+    132.311203,
+    -14.496144,
+    132.311203,
+    -14.496144
+],
+  "geometry": {"coordinates":[132.31120300000001,-14.496144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185818903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.372894,-37.646179,145.372894,-37.646179",
     "geom:latitude":-37.646179,
     "geom:longitude":145.372894,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Ellis Rd",
     "sg:city":"Yarra Glen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185818903,
-    "wof:lastmodified":1449007409,
+    "wof:lastmodified":1466186971,
     "wof:name":"Adam Hutchinson Master Farrier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "farrier"
     ]
 },
-  "bbox": [145.372894,-37.646179,145.372894,-37.646179],
+  "bbox": [
+    145.372894,
+    -37.646179,
+    145.372894,
+    -37.646179
+],
   "geometry": {"coordinates":[145.372894,-37.646179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252722175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.679718,-33.362057,115.679718,-33.362057",
     "geom:latitude":-33.362057,
     "geom:longitude":115.679718,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 McCombe Rd",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252722175,
-    "wof:lastmodified":1449005784,
+    "wof:lastmodified":1466187116,
     "wof:name":"PCH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hoisting"
     ]
 },
-  "bbox": [115.679718,-33.362057,115.679718,-33.362057],
-  "geometry": {"coordinates":[115.679718,-33.362057],"type":"Point"}
+  "bbox": [
+    115.679718,
+    -33.362057,
+    115.679718,
+    -33.362057
+],
+  "geometry": {"coordinates":[115.67971799999999,-33.362057],"type":"Point"}
 }

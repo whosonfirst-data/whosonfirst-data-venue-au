@@ -2,13 +2,14 @@
   "id": 186497007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.76886,-19.2637,146.76886,-19.2637",
     "geom:latitude":-19.2637,
     "geom:longitude":146.76886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Ingham Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186497007,
-    "wof:lastmodified":1449053001,
+    "wof:lastmodified":1466190618,
     "wof:name":"Meteor Body Fabrications",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [146.76886,-19.2637,146.76886,-19.2637],
-  "geometry": {"coordinates":[146.76886,-19.2637],"type":"Point"}
+  "bbox": [
+    146.76886,
+    -19.2637,
+    146.76886,
+    -19.2637
+],
+  "geometry": {"coordinates":[146.76885999999999,-19.2637],"type":"Point"}
 }

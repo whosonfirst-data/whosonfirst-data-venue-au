@@ -2,13 +2,14 @@
   "id": 219741599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.780502,-19.275223,146.780502,-19.275223",
     "geom:latitude":-19.275223,
     "geom:longitude":146.780502,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Bayswater Rd",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219741599,
-    "wof:lastmodified":1449070572,
+    "wof:lastmodified":1466191350,
     "wof:name":"Hyde Park Self Storage",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.780502,-19.275223,146.780502,-19.275223],
-  "geometry": {"coordinates":[146.780502,-19.275223],"type":"Point"}
+  "bbox": [
+    146.780502,
+    -19.275223,
+    146.780502,
+    -19.275223
+],
+  "geometry": {"coordinates":[146.78050200000001,-19.275223],"type":"Point"}
 }

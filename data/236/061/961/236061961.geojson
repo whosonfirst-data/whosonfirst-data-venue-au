@@ -2,13 +2,14 @@
   "id": 236061961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.864853,-37.769234,144.864853,-37.769234",
     "geom:latitude":-37.769234,
     "geom:longitude":144.864853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Military Rd",
     "sg:city":"Avondale Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236061961,
-    "wof:lastmodified":1449004143,
+    "wof:lastmodified":1466187862,
     "wof:name":"La Saluta Pizzeria",
     "wof:parent_id":85775125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.864853,-37.769234,144.864853,-37.769234],
-  "geometry": {"coordinates":[144.864853,-37.769234],"type":"Point"}
+  "bbox": [
+    144.864853,
+    -37.769234,
+    144.864853,
+    -37.769234
+],
+  "geometry": {"coordinates":[144.86485300000001,-37.769234],"type":"Point"}
 }

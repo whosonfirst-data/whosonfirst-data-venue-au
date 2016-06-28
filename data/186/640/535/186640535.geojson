@@ -2,13 +2,14 @@
   "id": 186640535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.051453,-34.28598,146.051453,-34.28598",
     "geom:latitude":-34.28598,
     "geom:longitude":146.051453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Altin St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186640535,
-    "wof:lastmodified":1449051533,
+    "wof:lastmodified":1466191120,
     "wof:name":"Riverina Automatic Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.051453,-34.28598,146.051453,-34.28598],
-  "geometry": {"coordinates":[146.051453,-34.28598],"type":"Point"}
+  "bbox": [
+    146.051453,
+    -34.28598,
+    146.051453,
+    -34.28598
+],
+  "geometry": {"coordinates":[146.05145300000001,-34.28598],"type":"Point"}
 }

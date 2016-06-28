@@ -2,13 +2,14 @@
   "id": 202776035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.784302,-32.928406,151.784302,-32.928406",
     "geom:latitude":-32.928406,
     "geom:longitude":151.784302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Watt St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202776035,
-    "wof:lastmodified":1449060679,
+    "wof:lastmodified":1466190247,
     "wof:name":"Novocastrian Nutrition Advisory Service",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dietitian"
     ]
 },
-  "bbox": [151.784302,-32.928406,151.784302,-32.928406],
+  "bbox": [
+    151.784302,
+    -32.928406,
+    151.784302,
+    -32.928406
+],
   "geometry": {"coordinates":[151.784302,-32.928406],"type":"Point"}
 }

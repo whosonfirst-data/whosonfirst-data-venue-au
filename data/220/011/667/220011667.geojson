@@ -2,13 +2,14 @@
   "id": 220011667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.725723,-36.11681,143.725723,-36.11681",
     "geom:latitude":-36.11681,
     "geom:longitude":143.725723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99A Godfrey St",
     "sg:city":"Boort",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220011667,
-    "wof:lastmodified":1449074703,
+    "wof:lastmodified":1466186975,
     "wof:name":"Henderson Insurance Agencies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.725723,-36.11681,143.725723,-36.11681],
-  "geometry": {"coordinates":[143.725723,-36.11681],"type":"Point"}
+  "bbox": [
+    143.725723,
+    -36.11681,
+    143.725723,
+    -36.11681
+],
+  "geometry": {"coordinates":[143.72572299999999,-36.11681],"type":"Point"}
 }

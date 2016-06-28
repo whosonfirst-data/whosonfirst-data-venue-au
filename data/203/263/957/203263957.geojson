@@ -2,13 +2,14 @@
   "id": 203263957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.006607,-33.386314,148.006607,-33.386314",
     "geom:latitude":-33.386314,
     "geom:longitude":148.006607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Lachlan St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203263957,
-    "wof:lastmodified":1449026821,
+    "wof:lastmodified":1466187676,
     "wof:name":"Post Office Hotel Forbes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [148.006607,-33.386314,148.006607,-33.386314],
+  "bbox": [
+    148.006607,
+    -33.386314,
+    148.006607,
+    -33.386314
+],
   "geometry": {"coordinates":[148.006607,-33.386314],"type":"Point"}
 }

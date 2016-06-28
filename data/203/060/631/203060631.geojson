@@ -2,13 +2,14 @@
   "id": 203060631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.929886,-33.738537,150.929886,-33.738537",
     "geom:latitude":-33.738537,
     "geom:longitude":150.929886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Meurants La",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203060631,
-    "wof:lastmodified":1449026689,
+    "wof:lastmodified":1466188405,
     "wof:name":"Brindalee Design",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [150.929886,-33.738537,150.929886,-33.738537],
-  "geometry": {"coordinates":[150.929886,-33.738537],"type":"Point"}
+  "bbox": [
+    150.929886,
+    -33.738537,
+    150.929886,
+    -33.738537
+],
+  "geometry": {"coordinates":[150.92988600000001,-33.738537],"type":"Point"}
 }

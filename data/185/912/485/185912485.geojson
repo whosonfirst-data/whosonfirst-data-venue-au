@@ -2,13 +2,14 @@
   "id": 185912485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.530807,-33.227337,151.530807,-33.227337",
     "geom:latitude":-33.227337,
     "geom:longitude":151.530807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kyong Ave",
     "sg:city":"Buff Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185912485,
-    "wof:lastmodified":1449007423,
+    "wof:lastmodified":1466188186,
     "wof:name":"McCoy Carpentry & Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [151.530807,-33.227337,151.530807,-33.227337],
-  "geometry": {"coordinates":[151.530807,-33.227337],"type":"Point"}
+  "bbox": [
+    151.530807,
+    -33.227337,
+    151.530807,
+    -33.227337
+],
+  "geometry": {"coordinates":[151.53080700000001,-33.227337],"type":"Point"}
 }

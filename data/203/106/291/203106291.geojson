@@ -2,13 +2,14 @@
   "id": 203106291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.72628,-32.53466,115.72628,-32.53466",
     "geom:latitude":-32.53466,
     "geom:longitude":115.72628,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/86- 88 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203106291,
-    "wof:lastmodified":1449024917,
+    "wof:lastmodified":1466189159,
     "wof:name":"Poolmart Mandurah",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [115.72628,-32.53466,115.72628,-32.53466],
+  "bbox": [
+    115.72628,
+    -32.53466,
+    115.72628,
+    -32.53466
+],
   "geometry": {"coordinates":[115.72628,-32.53466],"type":"Point"}
 }

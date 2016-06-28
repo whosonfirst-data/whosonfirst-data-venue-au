@@ -2,13 +2,14 @@
   "id": 253167109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.904587,-27.550528,151.904587,-27.550528",
     "geom:latitude":-27.550528,
     "geom:longitude":151.904587,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5/ 388 Taylor St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253167109,
-    "wof:lastmodified":1449064357,
+    "wof:lastmodified":1466189925,
     "wof:name":"John L Robertson Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hoisting"
     ]
 },
-  "bbox": [151.904587,-27.550528,151.904587,-27.550528],
-  "geometry": {"coordinates":[151.904587,-27.550528],"type":"Point"}
+  "bbox": [
+    151.904587,
+    -27.550528,
+    151.904587,
+    -27.550528
+],
+  "geometry": {"coordinates":[151.90458699999999,-27.550528],"type":"Point"}
 }

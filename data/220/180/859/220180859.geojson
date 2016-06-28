@@ -2,13 +2,14 @@
   "id": 220180859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.356125,-38.163937,144.356125,-38.163937",
     "geom:latitude":-38.163937,
     "geom:longitude":144.356125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220180859,
-    "wof:lastmodified":1449074089,
+    "wof:lastmodified":1466189205,
     "wof:name":"Central Cutz",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.356125,-38.163937,144.356125,-38.163937],
-  "geometry": {"coordinates":[144.356125,-38.163937],"type":"Point"}
+  "bbox": [
+    144.356125,
+    -38.163937,
+    144.356125,
+    -38.163937
+],
+  "geometry": {"coordinates":[144.35612499999999,-38.163937],"type":"Point"}
 }

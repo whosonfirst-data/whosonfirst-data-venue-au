@@ -2,13 +2,14 @@
   "id": 186562037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156555,-33.890934,151.156555,-33.890934",
     "geom:latitude":-33.890934,
     "geom:longitude":151.156555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Croydon St",
     "sg:city":"Petersham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186562037,
-    "wof:lastmodified":1449051797,
+    "wof:lastmodified":1466190893,
     "wof:name":"MMCS Consultancy Services",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.156555,-33.890934,151.156555,-33.890934],
+  "bbox": [
+    151.156555,
+    -33.890934,
+    151.156555,
+    -33.890934
+],
   "geometry": {"coordinates":[151.156555,-33.890934],"type":"Point"}
 }

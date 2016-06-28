@@ -2,13 +2,14 @@
   "id": 185896003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699417,-25.535633,152.699417,-25.535633",
     "geom:latitude":-25.535633,
     "geom:longitude":152.699417,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Kent St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185896003,
-    "wof:lastmodified":1449007185,
+    "wof:lastmodified":1466188001,
     "wof:name":"Brumby's Bakeries",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [152.699417,-25.535633,152.699417,-25.535633],
-  "geometry": {"coordinates":[152.699417,-25.535633],"type":"Point"}
+  "bbox": [
+    152.699417,
+    -25.535633,
+    152.699417,
+    -25.535633
+],
+  "geometry": {"coordinates":[152.69941700000001,-25.535633],"type":"Point"}
 }

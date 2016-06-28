@@ -2,13 +2,14 @@
   "id": 203357737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.79213,-37.549053,143.79213,-37.549053",
     "geom:latitude":-37.549053,
     "geom:longitude":143.79213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Robertson Drv",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203357737,
-    "wof:lastmodified":1449026630,
+    "wof:lastmodified":1466188811,
     "wof:name":"Gallagher M J",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [143.79213,-37.549053,143.79213,-37.549053],
-  "geometry": {"coordinates":[143.79213,-37.549053],"type":"Point"}
+  "bbox": [
+    143.79213,
+    -37.549053,
+    143.79213,
+    -37.549053
+],
+  "geometry": {"coordinates":[143.79212999999999,-37.549053],"type":"Point"}
 }

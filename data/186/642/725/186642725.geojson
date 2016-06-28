@@ -2,13 +2,14 @@
   "id": 186642725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.046921,-34.299099,146.046921,-34.299099",
     "geom:latitude":-34.299099,
     "geom:longitude":146.046921,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Willandra Ave",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186642725,
-    "wof:lastmodified":1449050418,
+    "wof:lastmodified":1466191127,
     "wof:name":"Woodwize Joinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [146.046921,-34.299099,146.046921,-34.299099],
+  "bbox": [
+    146.046921,
+    -34.299099,
+    146.046921,
+    -34.299099
+],
   "geometry": {"coordinates":[146.046921,-34.299099],"type":"Point"}
 }

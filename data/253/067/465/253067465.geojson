@@ -2,13 +2,14 @@
   "id": 253067465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.772476,-37.770264,144.772476,-37.770264",
     "geom:latitude":-37.770264,
     "geom:longitude":144.772476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Burnside St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253067465,
-    "wof:lastmodified":1449063014,
+    "wof:lastmodified":1466188161,
     "wof:name":"Paradise Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.772476,-37.770264,144.772476,-37.770264],
-  "geometry": {"coordinates":[144.772476,-37.770264],"type":"Point"}
+  "bbox": [
+    144.772476,
+    -37.770264,
+    144.772476,
+    -37.770264
+],
+  "geometry": {"coordinates":[144.77247600000001,-37.770264],"type":"Point"}
 }

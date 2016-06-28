@@ -2,13 +2,14 @@
   "id": 203210067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.906357,-41.051861,145.906357,-41.051861",
     "geom:latitude":-41.051861,
     "geom:longitude":145.906357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Wilson St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203210067,
-    "wof:lastmodified":1449025555,
+    "wof:lastmodified":1466187156,
     "wof:name":"Mind & Body Clinic",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ear"
     ]
 },
-  "bbox": [145.906357,-41.051861,145.906357,-41.051861],
-  "geometry": {"coordinates":[145.906357,-41.051861],"type":"Point"}
+  "bbox": [
+    145.906357,
+    -41.051861,
+    145.906357,
+    -41.051861
+],
+  "geometry": {"coordinates":[145.90635700000001,-41.051861],"type":"Point"}
 }

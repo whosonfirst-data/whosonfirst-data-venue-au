@@ -2,13 +2,14 @@
   "id": 202609819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.704666,-33.753918,150.704666,-33.753918",
     "geom:latitude":-33.753918,
     "geom:longitude":150.704666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Henry St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202609819,
-    "wof:lastmodified":1449061055,
+    "wof:lastmodified":1466187435,
     "wof:name":"SunGard",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [150.704666,-33.753918,150.704666,-33.753918],
+  "bbox": [
+    150.704666,
+    -33.753918,
+    150.704666,
+    -33.753918
+],
   "geometry": {"coordinates":[150.704666,-33.753918],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220124049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.411606,-38.165123,144.411606,-38.165123",
     "geom:latitude":-38.165123,
     "geom:longitude":144.411606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Nobility St",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220124049,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466188193,
     "wof:name":"Dixon Ian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.411606,-38.165123,144.411606,-38.165123],
-  "geometry": {"coordinates":[144.411606,-38.165123],"type":"Point"}
+  "bbox": [
+    144.411606,
+    -38.165123,
+    144.411606,
+    -38.165123
+],
+  "geometry": {"coordinates":[144.41160600000001,-38.165123],"type":"Point"}
 }

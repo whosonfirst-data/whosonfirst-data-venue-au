@@ -2,13 +2,14 @@
   "id": 203151071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.036896,-27.349604,153.036896,-27.349604",
     "geom:latitude":-27.349604,
     "geom:longitude":153.036896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Beans Rd",
     "sg:city":"Taigum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203151071,
-    "wof:lastmodified":1449024955,
+    "wof:lastmodified":1466189676,
     "wof:name":"Red Rooster",
     "wof:parent_id":85773913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [153.036896,-27.349604,153.036896,-27.349604],
-  "geometry": {"coordinates":[153.036896,-27.349604],"type":"Point"}
+  "bbox": [
+    153.036896,
+    -27.349604,
+    153.036896,
+    -27.349604
+],
+  "geometry": {"coordinates":[153.03689600000001,-27.349604],"type":"Point"}
 }

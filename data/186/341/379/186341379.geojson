@@ -2,13 +2,14 @@
   "id": 186341379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.302826,-33.707249,151.302826,-33.707249",
     "geom:latitude":-33.707249,
     "geom:longitude":151.302826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 190 Ocean St",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186341379,
-    "wof:lastmodified":1449052918,
+    "wof:lastmodified":1466188290,
     "wof:name":"Detailed Surveys",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [151.302826,-33.707249,151.302826,-33.707249],
-  "geometry": {"coordinates":[151.302826,-33.707249],"type":"Point"}
+  "bbox": [
+    151.302826,
+    -33.707249,
+    151.302826,
+    -33.707249
+],
+  "geometry": {"coordinates":[151.30282600000001,-33.707249],"type":"Point"}
 }

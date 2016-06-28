@@ -2,13 +2,14 @@
   "id": 253142723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952667,-27.578514,151.952667,-27.578514",
     "geom:latitude":-27.578514,
     "geom:longitude":151.952667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"213 South St",
     "sg:city":"South Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253142723,
-    "wof:lastmodified":1449065178,
+    "wof:lastmodified":1466189472,
     "wof:name":"Ross Lederhose",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.952667,-27.578514,151.952667,-27.578514],
-  "geometry": {"coordinates":[151.952667,-27.578514],"type":"Point"}
+  "bbox": [
+    151.952667,
+    -27.578514,
+    151.952667,
+    -27.578514
+],
+  "geometry": {"coordinates":[151.95266699999999,-27.578514],"type":"Point"}
 }

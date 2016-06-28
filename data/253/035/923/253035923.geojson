@@ -2,13 +2,14 @@
   "id": 253035923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.803879,-37.829765,144.803879,-37.829765",
     "geom:latitude":-37.829765,
     "geom:longitude":144.803879,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 2 Cyanamid St",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253035923,
-    "wof:lastmodified":1449065199,
+    "wof:lastmodified":1466187636,
     "wof:name":"Instant Access",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [144.803879,-37.829765,144.803879,-37.829765],
-  "geometry": {"coordinates":[144.803879,-37.829765],"type":"Point"}
+  "bbox": [
+    144.803879,
+    -37.829765,
+    144.803879,
+    -37.829765
+],
+  "geometry": {"coordinates":[144.80387899999999,-37.829765],"type":"Point"}
 }

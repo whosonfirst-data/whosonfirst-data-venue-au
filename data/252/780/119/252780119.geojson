@@ -2,13 +2,14 @@
   "id": 252780119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.423157,-41.228989,146.423157,-41.228989",
     "geom:latitude":-41.228989,
     "geom:longitude":146.423157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Faulkner Drv",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252780119,
-    "wof:lastmodified":1449006221,
+    "wof:lastmodified":1466187969,
     "wof:name":"Phoenix Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchant"
     ]
 },
-  "bbox": [146.423157,-41.228989,146.423157,-41.228989],
+  "bbox": [
+    146.423157,
+    -41.228989,
+    146.423157,
+    -41.228989
+],
   "geometry": {"coordinates":[146.423157,-41.228989],"type":"Point"}
 }

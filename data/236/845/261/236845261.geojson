@@ -2,13 +2,14 @@
   "id": 236845261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.859528,-34.41608,150.859528,-34.41608",
     "geom:latitude":-34.41608,
     "geom:longitude":150.859528,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Shauna Crs",
     "sg:city":"Mt Keira",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236845261,
-    "wof:lastmodified":1449002079,
+    "wof:lastmodified":1466192032,
     "wof:name":"Alan Gilmore",
     "wof:parent_id":85777205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.859528,-34.41608,150.859528,-34.41608],
-  "geometry": {"coordinates":[150.859528,-34.41608],"type":"Point"}
+  "bbox": [
+    150.859528,
+    -34.41608,
+    150.859528,
+    -34.41608
+],
+  "geometry": {"coordinates":[150.85952800000001,-34.41608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236865953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.225327,-35.318535,148.225327,-35.318535",
     "geom:latitude":-35.318535,
     "geom:longitude":148.225327,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Lambie St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236865953,
-    "wof:lastmodified":1449004271,
+    "wof:lastmodified":1466192066,
     "wof:name":"Tumut Crane Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hire"
     ]
 },
-  "bbox": [148.225327,-35.318535,148.225327,-35.318535],
-  "geometry": {"coordinates":[148.225327,-35.318535],"type":"Point"}
+  "bbox": [
+    148.225327,
+    -35.318535,
+    148.225327,
+    -35.318535
+],
+  "geometry": {"coordinates":[148.22532699999999,-35.318535],"type":"Point"}
 }

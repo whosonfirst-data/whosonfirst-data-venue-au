@@ -2,13 +2,14 @@
   "id": 186290467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.920517,-31.453541,152.920517,-31.453541",
     "geom:latitude":-31.453541,
     "geom:longitude":152.920517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Palmview Pl",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186290467,
-    "wof:lastmodified":1449051526,
+    "wof:lastmodified":1466187700,
     "wof:name":"Kate Harding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "therapist"
     ]
 },
-  "bbox": [152.920517,-31.453541,152.920517,-31.453541],
-  "geometry": {"coordinates":[152.920517,-31.453541],"type":"Point"}
+  "bbox": [
+    152.920517,
+    -31.453541,
+    152.920517,
+    -31.453541
+],
+  "geometry": {"coordinates":[152.92051699999999,-31.453541],"type":"Point"}
 }

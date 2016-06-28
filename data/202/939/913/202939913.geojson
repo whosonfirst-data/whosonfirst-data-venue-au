@@ -2,13 +2,14 @@
   "id": 202939913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.117828,-30.296242,153.117828,-30.296242",
     "geom:latitude":-30.296242,
     "geom:longitude":153.117828,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Gordon St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202939913,
-    "wof:lastmodified":1449060863,
+    "wof:lastmodified":1466190831,
     "wof:name":"GeoLINK",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [153.117828,-30.296242,153.117828,-30.296242],
+  "bbox": [
+    153.117828,
+    -30.296242,
+    153.117828,
+    -30.296242
+],
   "geometry": {"coordinates":[153.117828,-30.296242],"type":"Point"}
 }

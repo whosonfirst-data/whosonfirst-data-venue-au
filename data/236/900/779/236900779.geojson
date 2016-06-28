@@ -2,13 +2,14 @@
   "id": 236900779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.518524,-35.009651,138.518524,-35.009651",
     "geom:latitude":-35.009651,
     "geom:longitude":138.518524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Oxford 35 Hulbert St",
     "sg:city":"Hove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236900779,
-    "wof:lastmodified":1449003006,
+    "wof:lastmodified":1466191994,
     "wof:name":"Eldercare Incorporated",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [138.518524,-35.009651,138.518524,-35.009651],
-  "geometry": {"coordinates":[138.518524,-35.009651],"type":"Point"}
+  "bbox": [
+    138.518524,
+    -35.009651,
+    138.518524,
+    -35.009651
+],
+  "geometry": {"coordinates":[138.51852400000001,-35.009651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252718583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.697701,-33.350109,115.697701,-33.350109",
     "geom:latitude":-33.350109,
     "geom:longitude":115.697701,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Short St & South Western Hwy",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252718583,
-    "wof:lastmodified":1449005658,
+    "wof:lastmodified":1466187047,
     "wof:name":"Bunbury Handy Bins",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rubbish"
     ]
 },
-  "bbox": [115.697701,-33.350109,115.697701,-33.350109],
+  "bbox": [
+    115.697701,
+    -33.350109,
+    115.697701,
+    -33.350109
+],
   "geometry": {"coordinates":[115.697701,-33.350109],"type":"Point"}
 }

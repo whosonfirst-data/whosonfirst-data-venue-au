@@ -2,13 +2,14 @@
   "id": 186312813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.852448,-30.647854,152.852448,-30.647854",
     "geom:latitude":-30.647854,
     "geom:longitude":152.852448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 High St",
     "sg:city":"Bowraville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186312813,
-    "wof:lastmodified":1449051726,
+    "wof:lastmodified":1466187861,
     "wof:name":"Frank Partridge V.C. Military Museum Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.852448,-30.647854,152.852448,-30.647854],
-  "geometry": {"coordinates":[152.852448,-30.647854],"type":"Point"}
+  "bbox": [
+    152.852448,
+    -30.647854,
+    152.852448,
+    -30.647854
+],
+  "geometry": {"coordinates":[152.85244800000001,-30.647854],"type":"Point"}
 }

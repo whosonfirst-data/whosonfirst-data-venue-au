@@ -2,13 +2,14 @@
   "id": 203104507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.740913,-32.536026,115.740913,-32.536026",
     "geom:latitude":-32.536026,
     "geom:longitude":115.740913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mandurah Forum",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203104507,
-    "wof:lastmodified":1449025705,
+    "wof:lastmodified":1466189120,
     "wof:name":"Kmart Tyre & Auto Service",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [115.740913,-32.536026,115.740913,-32.536026],
-  "geometry": {"coordinates":[115.740913,-32.536026],"type":"Point"}
+  "bbox": [
+    115.740913,
+    -32.536026,
+    115.740913,
+    -32.536026
+],
+  "geometry": {"coordinates":[115.74091300000001,-32.536026],"type":"Point"}
 }

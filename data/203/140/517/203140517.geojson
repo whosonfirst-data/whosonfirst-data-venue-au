@@ -2,13 +2,14 @@
   "id": 203140517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752708,-32.511578,115.752708,-32.511578",
     "geom:latitude":-32.511578,
     "geom:longitude":115.752708,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Thornborough Rd & Delmont Pl",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203140517,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466189614,
     "wof:name":"Mandurah Car & Truck Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [115.752708,-32.511578,115.752708,-32.511578],
+  "bbox": [
+    115.752708,
+    -32.511578,
+    115.752708,
+    -32.511578
+],
   "geometry": {"coordinates":[115.752708,-32.511578],"type":"Point"}
 }

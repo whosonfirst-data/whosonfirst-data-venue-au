@@ -2,13 +2,14 @@
   "id": 202655877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031738,-27.430157,153.031738,-27.430157",
     "geom:latitude":-27.430157,
     "geom:longitude":153.031738,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Lutwyche Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202655877,
-    "wof:lastmodified":1449061561,
+    "wof:lastmodified":1466187994,
     "wof:name":"Monte Graniti",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [153.031738,-27.430157,153.031738,-27.430157],
-  "geometry": {"coordinates":[153.031738,-27.430157],"type":"Point"}
+  "bbox": [
+    153.031738,
+    -27.430157,
+    153.031738,
+    -27.430157
+],
+  "geometry": {"coordinates":[153.03173799999999,-27.430157],"type":"Point"}
 }

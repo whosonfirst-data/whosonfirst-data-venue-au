@@ -2,13 +2,14 @@
   "id": 219585225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.029373,-33.934055,151.029373,-33.934055",
     "geom:latitude":-33.934055,
     "geom:longitude":151.029373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 139 Canterbury Rd South",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219585225,
-    "wof:lastmodified":1449072735,
+    "wof:lastmodified":1466190461,
     "wof:name":"CBC Australia (NSW) Pty Ltd",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bushing"
     ]
 },
-  "bbox": [151.029373,-33.934055,151.029373,-33.934055],
-  "geometry": {"coordinates":[151.029373,-33.934055],"type":"Point"}
+  "bbox": [
+    151.029373,
+    -33.934055,
+    151.029373,
+    -33.934055
+],
+  "geometry": {"coordinates":[151.02937299999999,-33.934055],"type":"Point"}
 }

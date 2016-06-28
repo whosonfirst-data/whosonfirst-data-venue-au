@@ -2,13 +2,14 @@
   "id": 219572863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.015823,-33.912537,151.015823,-33.912537",
     "geom:latitude":-33.912537,
     "geom:longitude":151.015823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Saurine St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219572863,
-    "wof:lastmodified":1449072559,
+    "wof:lastmodified":1466190482,
     "wof:name":"Ark Render",
     "wof:parent_id":85774757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cement"
     ]
 },
-  "bbox": [151.015823,-33.912537,151.015823,-33.912537],
-  "geometry": {"coordinates":[151.015823,-33.912537],"type":"Point"}
+  "bbox": [
+    151.015823,
+    -33.912537,
+    151.015823,
+    -33.912537
+],
+  "geometry": {"coordinates":[151.01582300000001,-33.912537],"type":"Point"}
 }

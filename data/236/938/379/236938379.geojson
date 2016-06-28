@@ -2,13 +2,14 @@
   "id": 236938379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.588409,-35.004627,138.588409,-35.004627",
     "geom:latitude":-35.004627,
     "geom:longitude":138.588409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Gunther Pde",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236938379,
-    "wof:lastmodified":1449004233,
+    "wof:lastmodified":1466192142,
     "wof:name":"Pasadena Tiling Service",
     "wof:parent_id":85777539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [138.588409,-35.004627,138.588409,-35.004627],
-  "geometry": {"coordinates":[138.588409,-35.004627],"type":"Point"}
+  "bbox": [
+    138.588409,
+    -35.004627,
+    138.588409,
+    -35.004627
+],
+  "geometry": {"coordinates":[138.58840900000001,-35.004627],"type":"Point"}
 }

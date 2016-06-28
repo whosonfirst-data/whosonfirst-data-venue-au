@@ -2,13 +2,14 @@
   "id": 253327613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.300247,-38.016224,145.300247,-38.016224",
     "geom:latitude":-38.016224,
     "geom:longitude":145.300247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1088, Fountain Gate Magid Drv",
     "sg:city":"Fountain Gate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253327613,
-    "wof:lastmodified":1449063044,
+    "wof:lastmodified":1466190972,
     "wof:name":"Colorado",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [145.300247,-38.016224,145.300247,-38.016224],
-  "geometry": {"coordinates":[145.300247,-38.016224],"type":"Point"}
+  "bbox": [
+    145.300247,
+    -38.016224,
+    145.300247,
+    -38.016224
+],
+  "geometry": {"coordinates":[145.30024700000001,-38.016224],"type":"Point"}
 }

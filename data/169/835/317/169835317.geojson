@@ -2,13 +2,14 @@
   "id": 169835317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.856377,-32.007553,115.856377,-32.007553",
     "geom:latitude":-32.007553,
     "geom:longitude":115.856377,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63B Leonora St",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169835317,
-    "wof:lastmodified":1449033162,
+    "wof:lastmodified":1466189272,
     "wof:name":"Yvette Strawbridge",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [115.856377,-32.007553,115.856377,-32.007553],
-  "geometry": {"coordinates":[115.856377,-32.007553],"type":"Point"}
+  "bbox": [
+    115.856377,
+    -32.007553,
+    115.856377,
+    -32.007553
+],
+  "geometry": {"coordinates":[115.85637699999999,-32.007553],"type":"Point"}
 }

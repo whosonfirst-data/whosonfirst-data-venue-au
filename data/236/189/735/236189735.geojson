@@ -2,13 +2,14 @@
   "id": 236189735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.008293,-30.642017,116.008293,-30.642017",
     "geom:latitude":-30.642017,
     "geom:longitude":116.008293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Padbury St",
     "sg:city":"Moora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236189735,
-    "wof:lastmodified":1449004086,
+    "wof:lastmodified":1466189932,
     "wof:name":"Agro Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [116.008293,-30.642017,116.008293,-30.642017],
-  "geometry": {"coordinates":[116.008293,-30.642017],"type":"Point"}
+  "bbox": [
+    116.008293,
+    -30.642017,
+    116.008293,
+    -30.642017
+],
+  "geometry": {"coordinates":[116.00829299999999,-30.642017],"type":"Point"}
 }

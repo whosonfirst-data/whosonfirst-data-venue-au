@@ -2,13 +2,14 @@
   "id": 203293623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.144806,-33.086201,147.144806,-33.086201",
     "geom:latitude":-33.086201,
     "geom:longitude":147.144806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Melrose St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203293623,
-    "wof:lastmodified":1449025307,
+    "wof:lastmodified":1466187898,
     "wof:name":"Midtown Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.144806,-33.086201,147.144806,-33.086201],
-  "geometry": {"coordinates":[147.144806,-33.086201],"type":"Point"}
+  "bbox": [
+    147.144806,
+    -33.086201,
+    147.144806,
+    -33.086201
+],
+  "geometry": {"coordinates":[147.14480599999999,-33.086201],"type":"Point"}
 }

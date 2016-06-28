@@ -2,13 +2,14 @@
   "id": 185895465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.707275,-25.527288,152.707275,-25.527288",
     "geom:latitude":-25.527288,
     "geom:longitude":152.707275,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Saltwater Creek Rd",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185895465,
-    "wof:lastmodified":1449007288,
+    "wof:lastmodified":1466187965,
     "wof:name":"Paint Doctor The",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [152.707275,-25.527288,152.707275,-25.527288],
-  "geometry": {"coordinates":[152.707275,-25.527288],"type":"Point"}
+  "bbox": [
+    152.707275,
+    -25.527288,
+    152.707275,
+    -25.527288
+],
+  "geometry": {"coordinates":[152.70727500000001,-25.527288],"type":"Point"}
 }

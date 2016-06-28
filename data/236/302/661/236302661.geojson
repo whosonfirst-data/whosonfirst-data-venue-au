@@ -2,13 +2,14 @@
   "id": 236302661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.742767,-32.287331,115.742767,-32.287331",
     "geom:latitude":-32.287331,
     "geom:longitude":115.742767,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Robinson Rd",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236302661,
-    "wof:lastmodified":1449002624,
+    "wof:lastmodified":1466190393,
     "wof:name":"Patton W.D. Dr",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.742767,-32.287331,115.742767,-32.287331],
+  "bbox": [
+    115.742767,
+    -32.287331,
+    115.742767,
+    -32.287331
+],
   "geometry": {"coordinates":[115.742767,-32.287331],"type":"Point"}
 }

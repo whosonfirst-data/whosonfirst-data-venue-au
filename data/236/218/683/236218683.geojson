@@ -2,13 +2,14 @@
   "id": 236218683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.467484,-38.067562,145.467484,-38.067562",
     "geom:latitude":-38.067562,
     "geom:longitude":145.467484,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hanley Crt",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236218683,
-    "wof:lastmodified":1449003798,
+    "wof:lastmodified":1466190126,
     "wof:name":"Custom-Furn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [145.467484,-38.067562,145.467484,-38.067562],
-  "geometry": {"coordinates":[145.467484,-38.067562],"type":"Point"}
+  "bbox": [
+    145.467484,
+    -38.067562,
+    145.467484,
+    -38.067562
+],
+  "geometry": {"coordinates":[145.46748400000001,-38.067562],"type":"Point"}
 }

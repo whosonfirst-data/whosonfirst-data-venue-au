@@ -2,13 +2,14 @@
   "id": 236822711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.872604,-34.434399,150.872604,-34.434399",
     "geom:latitude":-34.434399,
     "geom:longitude":150.872604,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 McArthur Pde",
     "sg:city":"Mangerton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236822711,
-    "wof:lastmodified":1449005127,
+    "wof:lastmodified":1466192065,
     "wof:name":"Ready Resumes",
     "wof:parent_id":85769093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [150.872604,-34.434399,150.872604,-34.434399],
+  "bbox": [
+    150.872604,
+    -34.434399,
+    150.872604,
+    -34.434399
+],
   "geometry": {"coordinates":[150.872604,-34.434399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203220129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.900558,-41.070354,145.900558,-41.070354",
     "geom:latitude":-41.070354,
     "geom:longitude":145.900558,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pine Ave",
     "sg:city":"Upper Burnie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203220129,
-    "wof:lastmodified":1449026803,
+    "wof:lastmodified":1466187303,
     "wof:name":"Family Planning Tasmania Inc",
     "wof:parent_id":85779425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [145.900558,-41.070354,145.900558,-41.070354],
-  "geometry": {"coordinates":[145.900558,-41.070354],"type":"Point"}
+  "bbox": [
+    145.900558,
+    -41.070354,
+    145.900558,
+    -41.070354
+],
+  "geometry": {"coordinates":[145.90055799999999,-41.070354],"type":"Point"}
 }

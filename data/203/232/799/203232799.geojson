@@ -2,13 +2,14 @@
   "id": 203232799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.300583,-36.362438,146.300583,-36.362438",
     "geom:latitude":-36.362438,
     "geom:longitude":146.300583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Gibson St & Sandford Rd",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203232799,
-    "wof:lastmodified":1449025531,
+    "wof:lastmodified":1466187445,
     "wof:name":"Wang Components-Tyco Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "metal"
     ]
 },
-  "bbox": [146.300583,-36.362438,146.300583,-36.362438],
-  "geometry": {"coordinates":[146.300583,-36.362438],"type":"Point"}
+  "bbox": [
+    146.300583,
+    -36.362438,
+    146.300583,
+    -36.362438
+],
+  "geometry": {"coordinates":[146.30058299999999,-36.362438],"type":"Point"}
 }

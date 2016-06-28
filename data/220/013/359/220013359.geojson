@@ -2,13 +2,14 @@
   "id": 220013359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.276123,-36.762554,144.276123,-36.762554",
     "geom:latitude":-36.762554,
     "geom:longitude":144.276123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Short St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220013359,
-    "wof:lastmodified":1449074597,
+    "wof:lastmodified":1466187005,
     "wof:name":"VECCI Apprenticeships Services",
     "wof:parent_id":85780691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.276123,-36.762554,144.276123,-36.762554],
-  "geometry": {"coordinates":[144.276123,-36.762554],"type":"Point"}
+  "bbox": [
+    144.276123,
+    -36.762554,
+    144.276123,
+    -36.762554
+],
+  "geometry": {"coordinates":[144.27612300000001,-36.762554],"type":"Point"}
 }

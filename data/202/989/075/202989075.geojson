@@ -2,13 +2,14 @@
   "id": 202989075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.005432,-36.141171,147.005432,-36.141171",
     "geom:latitude":-36.141171,
     "geom:longitude":147.005432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Murray Valley Hwy",
     "sg:city":"Bonegilla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202989075,
-    "wof:lastmodified":1449061956,
+    "wof:lastmodified":1466191151,
     "wof:name":"Healy Colin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [147.005432,-36.141171,147.005432,-36.141171],
-  "geometry": {"coordinates":[147.005432,-36.141171],"type":"Point"}
+  "bbox": [
+    147.005432,
+    -36.141171,
+    147.005432,
+    -36.141171
+],
+  "geometry": {"coordinates":[147.00543200000001,-36.141171],"type":"Point"}
 }

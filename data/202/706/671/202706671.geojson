@@ -2,13 +2,14 @@
   "id": 202706671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.057571,-27.363506,153.057571,-27.363506",
     "geom:latitude":-27.363506,
     "geom:longitude":153.057571,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Bilsen Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202706671,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466188959,
     "wof:name":"Academy Removals & Storage",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.057571,-27.363506,153.057571,-27.363506],
+  "bbox": [
+    153.057571,
+    -27.363506,
+    153.057571,
+    -27.363506
+],
   "geometry": {"coordinates":[153.057571,-27.363506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203201953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.841095,-41.042027,145.841095,-41.042027",
     "geom:latitude":-41.042027,
     "geom:longitude":145.841095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Scarfe St",
     "sg:city":"Camdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203201953,
-    "wof:lastmodified":1449026608,
+    "wof:lastmodified":1466187029,
     "wof:name":"The Steel Works Pty Ltd",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.841095,-41.042027,145.841095,-41.042027],
+  "bbox": [
+    145.841095,
+    -41.042027,
+    145.841095,
+    -41.042027
+],
   "geometry": {"coordinates":[145.841095,-41.042027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186387469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.835785,-19.340223,146.835785,-19.340223",
     "geom:latitude":-19.340223,
     "geom:longitude":146.835785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Burdell St",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186387469,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466189123,
     "wof:name":"Stabilised Pavements of Australia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [146.835785,-19.340223,146.835785,-19.340223],
-  "geometry": {"coordinates":[146.835785,-19.340223],"type":"Point"}
+  "bbox": [
+    146.835785,
+    -19.340223,
+    146.835785,
+    -19.340223
+],
+  "geometry": {"coordinates":[146.83578499999999,-19.340223],"type":"Point"}
 }

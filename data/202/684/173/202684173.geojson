@@ -2,13 +2,14 @@
   "id": 202684173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.969894,-27.344168,152.969894,-27.344168",
     "geom:latitude":-27.344168,
     "geom:longitude":152.969894,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bowen Ave",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202684173,
-    "wof:lastmodified":1449060750,
+    "wof:lastmodified":1466188537,
     "wof:name":"John Butler Consulting (Qld) Pty Ltd",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.969894,-27.344168,152.969894,-27.344168],
-  "geometry": {"coordinates":[152.969894,-27.344168],"type":"Point"}
+  "bbox": [
+    152.969894,
+    -27.344168,
+    152.969894,
+    -27.344168
+],
+  "geometry": {"coordinates":[152.96989400000001,-27.344168],"type":"Point"}
 }

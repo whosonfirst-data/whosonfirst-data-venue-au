@@ -2,13 +2,14 @@
   "id": 253047271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.85434,-37.823303,144.85434,-37.823303",
     "geom:latitude":-37.823303,
     "geom:longitude":144.85434,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62- 70 Export Drv",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253047271,
-    "wof:lastmodified":1449064742,
+    "wof:lastmodified":1466187852,
     "wof:name":"Bondor",
     "wof:parent_id":85777889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cool"
     ]
 },
-  "bbox": [144.85434,-37.823303,144.85434,-37.823303],
-  "geometry": {"coordinates":[144.85434,-37.823303],"type":"Point"}
+  "bbox": [
+    144.85434,
+    -37.823303,
+    144.85434,
+    -37.823303
+],
+  "geometry": {"coordinates":[144.85434000000001,-37.823303],"type":"Point"}
 }

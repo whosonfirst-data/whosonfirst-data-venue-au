@@ -2,13 +2,14 @@
   "id": 202785245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.769577,-32.928207,151.769577,-32.928207",
     "geom:latitude":-32.928207,
     "geom:longitude":151.769577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"133 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202785245,
-    "wof:lastmodified":1449062229,
+    "wof:lastmodified":1466190040,
     "wof:name":"Daniel Bridget",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.769577,-32.928207,151.769577,-32.928207],
+  "bbox": [
+    151.769577,
+    -32.928207,
+    151.769577,
+    -32.928207
+],
   "geometry": {"coordinates":[151.769577,-32.928207],"type":"Point"}
 }

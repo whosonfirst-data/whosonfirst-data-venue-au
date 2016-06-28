@@ -2,13 +2,14 @@
   "id": 253142747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.898026,-27.556467,151.898026,-27.556467",
     "geom:latitude":-27.556467,
     "geom:longitude":151.898026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Molloy St",
     "sg:city":"Glenvale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253142747,
-    "wof:lastmodified":1449065176,
+    "wof:lastmodified":1466189472,
     "wof:name":"Glenvale Canvas Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.898026,-27.556467,151.898026,-27.556467],
-  "geometry": {"coordinates":[151.898026,-27.556467],"type":"Point"}
+  "bbox": [
+    151.898026,
+    -27.556467,
+    151.898026,
+    -27.556467
+],
+  "geometry": {"coordinates":[151.89802599999999,-27.556467],"type":"Point"}
 }

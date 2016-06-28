@@ -2,13 +2,14 @@
   "id": 202703735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.047165,-27.365541,153.047165,-27.365541",
     "geom:latitude":-27.365541,
     "geom:longitude":153.047165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Fortune St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202703735,
-    "wof:lastmodified":1449060885,
+    "wof:lastmodified":1466188900,
     "wof:name":"Giblins Motor Bodies",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "motor"
     ]
 },
-  "bbox": [153.047165,-27.365541,153.047165,-27.365541],
-  "geometry": {"coordinates":[153.047165,-27.365541],"type":"Point"}
+  "bbox": [
+    153.047165,
+    -27.365541,
+    153.047165,
+    -27.365541
+],
+  "geometry": {"coordinates":[153.04716500000001,-27.365541],"type":"Point"}
 }

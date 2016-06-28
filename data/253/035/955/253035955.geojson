@@ -2,13 +2,14 @@
   "id": 253035955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.823105,-37.818993,144.823105,-37.818993",
     "geom:latitude":-37.818993,
     "geom:longitude":144.823105,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fcty5/ 21 Westside Drv",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253035955,
-    "wof:lastmodified":1449065200,
+    "wof:lastmodified":1466187638,
     "wof:name":"DPS",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "exhibition"
     ]
 },
-  "bbox": [144.823105,-37.818993,144.823105,-37.818993],
+  "bbox": [
+    144.823105,
+    -37.818993,
+    144.823105,
+    -37.818993
+],
   "geometry": {"coordinates":[144.823105,-37.818993],"type":"Point"}
 }

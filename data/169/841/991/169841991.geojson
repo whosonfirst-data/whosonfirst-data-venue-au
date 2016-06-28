@@ -2,13 +2,14 @@
   "id": 169841991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.834106,-32.020767,115.834106,-32.020767",
     "geom:latitude":-32.020767,
     "geom:longitude":115.834106,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7 Riseley Square",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169841991,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1466189330,
     "wof:name":"Murray's Children's Shoe Centre",
     "wof:parent_id":85768683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [115.834106,-32.020767,115.834106,-32.020767],
-  "geometry": {"coordinates":[115.834106,-32.020767],"type":"Point"}
+  "bbox": [
+    115.834106,
+    -32.020767,
+    115.834106,
+    -32.020767
+],
+  "geometry": {"coordinates":[115.83410600000001,-32.020767],"type":"Point"}
 }

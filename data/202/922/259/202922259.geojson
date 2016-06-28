@@ -2,13 +2,14 @@
   "id": 202922259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.136597,-30.297129,153.136597,-30.297129",
     "geom:latitude":-30.297129,
     "geom:longitude":153.136597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 1 / 27 Orlando St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202922259,
-    "wof:lastmodified":1449060341,
+    "wof:lastmodified":1466190941,
     "wof:name":"Coffs Coastal Hearing Service",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hearing"
     ]
 },
-  "bbox": [153.136597,-30.297129,153.136597,-30.297129],
-  "geometry": {"coordinates":[153.136597,-30.297129],"type":"Point"}
+  "bbox": [
+    153.136597,
+    -30.297129,
+    153.136597,
+    -30.297129
+],
+  "geometry": {"coordinates":[153.13659699999999,-30.297129],"type":"Point"}
 }

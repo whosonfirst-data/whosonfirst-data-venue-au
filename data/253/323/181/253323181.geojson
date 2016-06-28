@@ -2,13 +2,14 @@
   "id": 253323181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.290451,-38.028725,145.290451,-38.028725",
     "geom:latitude":-38.028725,
     "geom:longitude":145.290451,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Benmara Crs",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253323181,
-    "wof:lastmodified":1449063070,
+    "wof:lastmodified":1466190922,
     "wof:name":"Straklevski K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.290451,-38.028725,145.290451,-38.028725],
-  "geometry": {"coordinates":[145.290451,-38.028725],"type":"Point"}
+  "bbox": [
+    145.290451,
+    -38.028725,
+    145.290451,
+    -38.028725
+],
+  "geometry": {"coordinates":[145.29045099999999,-38.028725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236676117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.039307,-30.909016,153.039307,-30.909016",
     "geom:latitude":-30.909016,
     "geom:longitude":153.039307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Lindsay Noonan Drv",
     "sg:city":"South West Rocks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236676117,
-    "wof:lastmodified":1449003830,
+    "wof:lastmodified":1466191739,
     "wof:name":"South West Rocks Earthmoving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.039307,-30.909016,153.039307,-30.909016],
-  "geometry": {"coordinates":[153.039307,-30.909016],"type":"Point"}
+  "bbox": [
+    153.039307,
+    -30.909016,
+    153.039307,
+    -30.909016
+],
+  "geometry": {"coordinates":[153.03930700000001,-30.909016],"type":"Point"}
 }

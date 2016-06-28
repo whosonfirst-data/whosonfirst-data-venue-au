@@ -2,13 +2,14 @@
   "id": 253275281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.041992,-27.302353,152.041992,-27.302353",
     "geom:latitude":-27.302353,
     "geom:longitude":152.041992,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"New England Hwy",
     "sg:city":"Pechey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253275281,
-    "wof:lastmodified":1449063774,
+    "wof:lastmodified":1466190539,
     "wof:name":"Granny Smith's Tea & Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.041992,-27.302353,152.041992,-27.302353],
-  "geometry": {"coordinates":[152.041992,-27.302353],"type":"Point"}
+  "bbox": [
+    152.041992,
+    -27.302353,
+    152.041992,
+    -27.302353
+],
+  "geometry": {"coordinates":[152.04199199999999,-27.302353],"type":"Point"}
 }

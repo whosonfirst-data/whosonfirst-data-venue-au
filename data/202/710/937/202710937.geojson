@@ -2,13 +2,14 @@
   "id": 202710937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049225,-27.362684,153.049225,-27.362684",
     "geom:latitude":-27.362684,
     "geom:longitude":153.049225,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Newman Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202710937,
-    "wof:lastmodified":1449060263,
+    "wof:lastmodified":1466189043,
     "wof:name":"Gardner Vaughan Group Pty Ltd",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.049225,-27.362684,153.049225,-27.362684],
-  "geometry": {"coordinates":[153.049225,-27.362684],"type":"Point"}
+  "bbox": [
+    153.049225,
+    -27.362684,
+    153.049225,
+    -27.362684
+],
+  "geometry": {"coordinates":[153.04922500000001,-27.362684],"type":"Point"}
 }

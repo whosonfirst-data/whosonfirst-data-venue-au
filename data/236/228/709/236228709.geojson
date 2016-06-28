@@ -2,13 +2,14 @@
   "id": 236228709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.483017,-38.078587,145.483017,-38.078587",
     "geom:latitude":-38.078587,
     "geom:longitude":145.483017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Main St",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236228709,
-    "wof:lastmodified":1449002522,
+    "wof:lastmodified":1466190011,
     "wof:name":"Mark's Hairdressing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [145.483017,-38.078587,145.483017,-38.078587],
-  "geometry": {"coordinates":[145.483017,-38.078587],"type":"Point"}
+  "bbox": [
+    145.483017,
+    -38.078587,
+    145.483017,
+    -38.078587
+],
+  "geometry": {"coordinates":[145.48301699999999,-38.078587],"type":"Point"}
 }

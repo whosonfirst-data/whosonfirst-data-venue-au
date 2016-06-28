@@ -2,13 +2,14 @@
   "id": 203166799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.981934,-36.550056,145.981934,-36.550056",
     "geom:latitude":-36.550056,
     "geom:longitude":145.981934,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Church St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203166799,
-    "wof:lastmodified":1449026016,
+    "wof:lastmodified":1466189785,
     "wof:name":"Benalla Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.981934,-36.550056,145.981934,-36.550056],
+  "bbox": [
+    145.981934,
+    -36.550056,
+    145.981934,
+    -36.550056
+],
   "geometry": {"coordinates":[145.981934,-36.550056],"type":"Point"}
 }

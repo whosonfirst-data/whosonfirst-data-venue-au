@@ -2,13 +2,14 @@
   "id": 253032497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.775513,-37.871147,144.775513,-37.871147",
     "geom:latitude":-37.871147,
     "geom:longitude":144.775513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32A Central Square 1-23 Central Ave",
     "sg:city":"Altona Meadows",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253032497,
-    "wof:lastmodified":1449064270,
+    "wof:lastmodified":1466187569,
     "wof:name":"Michels Patisserie",
     "wof:parent_id":85777895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [144.775513,-37.871147,144.775513,-37.871147],
-  "geometry": {"coordinates":[144.775513,-37.871147],"type":"Point"}
+  "bbox": [
+    144.775513,
+    -37.871147,
+    144.775513,
+    -37.871147
+],
+  "geometry": {"coordinates":[144.77551299999999,-37.871147],"type":"Point"}
 }

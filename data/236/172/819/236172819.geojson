@@ -2,13 +2,14 @@
   "id": 236172819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.894974,-37.677944,144.894974,-37.677944",
     "geom:latitude":-37.677944,
     "geom:longitude":144.894974,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Riddell St",
     "sg:city":"Westmeadows",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236172819,
-    "wof:lastmodified":1449002892,
+    "wof:lastmodified":1466189772,
     "wof:name":"Westmeadows Primary",
     "wof:parent_id":85777833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [144.894974,-37.677944,144.894974,-37.677944],
-  "geometry": {"coordinates":[144.894974,-37.677944],"type":"Point"}
+  "bbox": [
+    144.894974,
+    -37.677944,
+    144.894974,
+    -37.677944
+],
+  "geometry": {"coordinates":[144.89497399999999,-37.677944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253024521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.706894,-37.879585,144.706894,-37.879585",
     "geom:latitude":-37.879585,
     "geom:longitude":144.706894,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253024521,
-    "wof:lastmodified":1449064245,
+    "wof:lastmodified":1466187406,
     "wof:name":"Monte Villa Conference & Reception Venue",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.706894,-37.879585,144.706894,-37.879585],
-  "geometry": {"coordinates":[144.706894,-37.879585],"type":"Point"}
+  "bbox": [
+    144.706894,
+    -37.879585,
+    144.706894,
+    -37.879585
+],
+  "geometry": {"coordinates":[144.70689400000001,-37.879585],"type":"Point"}
 }

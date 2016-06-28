@@ -2,13 +2,14 @@
   "id": 202388069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.745346,-34.584496,138.745346,-34.584496",
     "geom:latitude":-34.584496,
     "geom:longitude":138.745346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Main North Rd",
     "sg:city":"Willaston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202388069,
-    "wof:lastmodified":1449060193,
+    "wof:lastmodified":1466187321,
     "wof:name":"Gawler Refrigeration & Airconditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [138.745346,-34.584496,138.745346,-34.584496],
-  "geometry": {"coordinates":[138.745346,-34.584496],"type":"Point"}
+  "bbox": [
+    138.745346,
+    -34.584496,
+    138.745346,
+    -34.584496
+],
+  "geometry": {"coordinates":[138.74534600000001,-34.584496],"type":"Point"}
 }

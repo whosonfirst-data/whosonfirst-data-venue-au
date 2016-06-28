@@ -2,13 +2,14 @@
   "id": 236957777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.423798,-37.929375,145.423798,-37.929375",
     "geom:latitude":-37.929375,
     "geom:longitude":145.423798,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"288b Belgrave-Gembrook Rd",
     "sg:city":"Clematis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236957777,
-    "wof:lastmodified":1449004654,
+    "wof:lastmodified":1466192169,
     "wof:name":"Kiss The Sky Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.423798,-37.929375,145.423798,-37.929375],
-  "geometry": {"coordinates":[145.423798,-37.929375],"type":"Point"}
+  "bbox": [
+    145.423798,
+    -37.929375,
+    145.423798,
+    -37.929375
+],
+  "geometry": {"coordinates":[145.42379800000001,-37.929375],"type":"Point"}
 }

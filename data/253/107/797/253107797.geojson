@@ -2,13 +2,14 @@
   "id": 253107797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.830017,-37.769234,144.830017,-37.769234",
     "geom:latitude":-37.769234,
     "geom:longitude":144.830017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Mc Intyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253107797,
-    "wof:lastmodified":1449062837,
+    "wof:lastmodified":1466188893,
     "wof:name":"North Sunshine Newsagency & Post Office",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [144.830017,-37.769234,144.830017,-37.769234],
+  "bbox": [
+    144.830017,
+    -37.769234,
+    144.830017,
+    -37.769234
+],
   "geometry": {"coordinates":[144.830017,-37.769234],"type":"Point"}
 }

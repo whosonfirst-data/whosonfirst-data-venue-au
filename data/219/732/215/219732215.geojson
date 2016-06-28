@@ -2,13 +2,14 @@
   "id": 219732215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.782471,-19.284601,146.782471,-19.284601",
     "geom:latitude":-19.284601,
     "geom:longitude":146.782471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Hugh St",
     "sg:city":"Gulliver",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219732215,
-    "wof:lastmodified":1449074044,
+    "wof:lastmodified":1466191213,
     "wof:name":"Bob Page Drafting",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [146.782471,-19.284601,146.782471,-19.284601],
-  "geometry": {"coordinates":[146.782471,-19.284601],"type":"Point"}
+  "bbox": [
+    146.782471,
+    -19.284601,
+    146.782471,
+    -19.284601
+],
+  "geometry": {"coordinates":[146.78247099999999,-19.284601],"type":"Point"}
 }

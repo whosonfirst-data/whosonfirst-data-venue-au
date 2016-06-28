@@ -2,13 +2,14 @@
   "id": 186352513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.280106,-33.695885,151.280106,-33.695885",
     "geom:latitude":-33.695885,
     "geom:longitude":151.280106,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U 1/ 59 Kalang Rd",
     "sg:city":"Elanora Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186352513,
-    "wof:lastmodified":1449052009,
+    "wof:lastmodified":1466188500,
     "wof:name":"Margaret Body Physiotherapy",
     "wof:parent_id":85776827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.280106,-33.695885,151.280106,-33.695885],
-  "geometry": {"coordinates":[151.280106,-33.695885],"type":"Point"}
+  "bbox": [
+    151.280106,
+    -33.695885,
+    151.280106,
+    -33.695885
+],
+  "geometry": {"coordinates":[151.28010599999999,-33.695885],"type":"Point"}
 }

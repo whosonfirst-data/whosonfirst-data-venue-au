@@ -2,13 +2,14 @@
   "id": 203337735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854752,-37.54652,143.854752,-37.54652",
     "geom:latitude":-37.54652,
     "geom:longitude":143.854752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Crompton St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203337735,
-    "wof:lastmodified":1449025808,
+    "wof:lastmodified":1466188463,
     "wof:name":"Michell Rose",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "assurance"
     ]
 },
-  "bbox": [143.854752,-37.54652,143.854752,-37.54652],
-  "geometry": {"coordinates":[143.854752,-37.54652],"type":"Point"}
+  "bbox": [
+    143.854752,
+    -37.54652,
+    143.854752,
+    -37.54652
+],
+  "geometry": {"coordinates":[143.85475199999999,-37.54652],"type":"Point"}
 }

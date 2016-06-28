@@ -2,13 +2,14 @@
   "id": 235975295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.860382,-36.823273,139.860382,-36.823273",
     "geom:latitude":-36.823273,
     "geom:longitude":139.860382,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Clark St",
     "sg:city":"Kingston SE",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235975295,
-    "wof:lastmodified":1449008551,
+    "wof:lastmodified":1466187460,
     "wof:name":"Neil Martin General Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [139.860382,-36.823273,139.860382,-36.823273],
-  "geometry": {"coordinates":[139.860382,-36.823273],"type":"Point"}
+  "bbox": [
+    139.860382,
+    -36.823273,
+    139.860382,
+    -36.823273
+],
+  "geometry": {"coordinates":[139.86038199999999,-36.823273],"type":"Point"}
 }

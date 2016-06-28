@@ -2,13 +2,14 @@
   "id": 219620297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.164658,-33.911282,151.164658,-33.911282",
     "geom:latitude":-33.911282,
     "geom:longitude":151.164658,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Sydenham Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219620297,
-    "wof:lastmodified":1449073615,
+    "wof:lastmodified":1466190683,
     "wof:name":"Sydney Skylight Systems",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skylight"
     ]
 },
-  "bbox": [151.164658,-33.911282,151.164658,-33.911282],
+  "bbox": [
+    151.164658,
+    -33.911282,
+    151.164658,
+    -33.911282
+],
   "geometry": {"coordinates":[151.164658,-33.911282],"type":"Point"}
 }

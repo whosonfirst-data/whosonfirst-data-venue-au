@@ -2,13 +2,14 @@
   "id": 185951321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.548569,-33.266815,151.548569,-33.266815",
     "geom:latitude":-33.266815,
     "geom:longitude":151.548569,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Ray St",
     "sg:city":"Toukley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185951321,
-    "wof:lastmodified":1449006641,
+    "wof:lastmodified":1466188473,
     "wof:name":"All Car Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [151.548569,-33.266815,151.548569,-33.266815],
-  "geometry": {"coordinates":[151.548569,-33.266815],"type":"Point"}
+  "bbox": [
+    151.548569,
+    -33.266815,
+    151.548569,
+    -33.266815
+],
+  "geometry": {"coordinates":[151.54856899999999,-33.266815],"type":"Point"}
 }

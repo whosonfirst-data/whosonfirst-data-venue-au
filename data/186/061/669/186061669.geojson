@@ -2,13 +2,14 @@
   "id": 186061669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.502823,-33.085026,151.502823,-33.085026",
     "geom:latitude":-33.085026,
     "geom:longitude":151.502823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Bay St",
     "sg:city":"Balcolyn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186061669,
-    "wof:lastmodified":1449052294,
+    "wof:lastmodified":1466188464,
     "wof:name":"Eastern Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.502823,-33.085026,151.502823,-33.085026],
-  "geometry": {"coordinates":[151.502823,-33.085026],"type":"Point"}
+  "bbox": [
+    151.502823,
+    -33.085026,
+    151.502823,
+    -33.085026
+],
+  "geometry": {"coordinates":[151.50282300000001,-33.085026],"type":"Point"}
 }

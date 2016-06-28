@@ -2,13 +2,14 @@
   "id": 253036735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.806,-37.823429,144.806,-37.823429",
     "geom:latitude":-37.823429,
     "geom:longitude":144.806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 7, 63-69 Pipe Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253036735,
-    "wof:lastmodified":1449063469,
+    "wof:lastmodified":1466187653,
     "wof:name":"Melbourne Sitacom",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "commercial"
     ]
 },
-  "bbox": [144.806,-37.823429,144.806,-37.823429],
-  "geometry": {"coordinates":[144.806,-37.823429],"type":"Point"}
+  "bbox": [
+    144.806,
+    -37.823429,
+    144.806,
+    -37.823429
+],
+  "geometry": {"coordinates":[144.80600000000001,-37.823429],"type":"Point"}
 }

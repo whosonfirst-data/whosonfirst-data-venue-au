@@ -2,13 +2,14 @@
   "id": 202634117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.222931,-33.911263,151.222931,-33.911263",
     "geom:latitude":-33.911263,
     "geom:longitude":151.222931,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Anzac Pde",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202634117,
-    "wof:lastmodified":1449061339,
+    "wof:lastmodified":1466187669,
     "wof:name":"Addison Hotel",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.222931,-33.911263,151.222931,-33.911263],
-  "geometry": {"coordinates":[151.222931,-33.911263],"type":"Point"}
+  "bbox": [
+    151.222931,
+    -33.911263,
+    151.222931,
+    -33.911263
+],
+  "geometry": {"coordinates":[151.22293099999999,-33.911263],"type":"Point"}
 }

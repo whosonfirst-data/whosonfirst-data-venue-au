@@ -2,13 +2,14 @@
   "id": 186357499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.138321,-33.857491,151.138321,-33.857491",
     "geom:latitude":-33.857491,
     "geom:longitude":151.138321,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rowley Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186357499,
-    "wof:lastmodified":1449052685,
+    "wof:lastmodified":1466188590,
     "wof:name":"Planpark Pty Ltd",
     "wof:parent_id":85776743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.138321,-33.857491,151.138321,-33.857491],
-  "geometry": {"coordinates":[151.138321,-33.857491],"type":"Point"}
+  "bbox": [
+    151.138321,
+    -33.857491,
+    151.138321,
+    -33.857491
+],
+  "geometry": {"coordinates":[151.13832099999999,-33.857491],"type":"Point"}
 }

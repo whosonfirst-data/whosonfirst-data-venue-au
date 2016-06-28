@@ -2,13 +2,14 @@
   "id": 253099273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.808777,-37.77438,144.808777,-37.77438",
     "geom:latitude":-37.77438,
     "geom:longitude":144.808777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"588 Ballarat Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253099273,
-    "wof:lastmodified":1449064760,
+    "wof:lastmodified":1466188718,
     "wof:name":"Western Farm Service P/L",
     "wof:parent_id":85777915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [144.808777,-37.77438,144.808777,-37.77438],
-  "geometry": {"coordinates":[144.808777,-37.77438],"type":"Point"}
+  "bbox": [
+    144.808777,
+    -37.77438,
+    144.808777,
+    -37.77438
+],
+  "geometry": {"coordinates":[144.80877699999999,-37.77438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236300311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747398,-32.283287,115.747398,-32.283287",
     "geom:latitude":-32.283287,
     "geom:longitude":115.747398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Chalgrove Ave",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236300311,
-    "wof:lastmodified":1449003520,
+    "wof:lastmodified":1466190369,
     "wof:name":"Australian Defence Credit Union Ltd",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "society"
     ]
 },
-  "bbox": [115.747398,-32.283287,115.747398,-32.283287],
+  "bbox": [
+    115.747398,
+    -32.283287,
+    115.747398,
+    -32.283287
+],
   "geometry": {"coordinates":[115.747398,-32.283287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169821883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.860703,-31.977236,115.860703,-31.977236",
     "geom:latitude":-31.977236,
     "geom:longitude":115.860703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3A Forrest St",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169821883,
-    "wof:lastmodified":1449034489,
+    "wof:lastmodified":1466189036,
     "wof:name":"Natural Healings",
     "wof:parent_id":85775807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.860703,-31.977236,115.860703,-31.977236],
+  "bbox": [
+    115.860703,
+    -31.977236,
+    115.860703,
+    -31.977236
+],
   "geometry": {"coordinates":[115.860703,-31.977236],"type":"Point"}
 }

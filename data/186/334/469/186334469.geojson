@@ -2,13 +2,14 @@
   "id": 186334469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.297806,-33.689911,151.297806,-33.689911",
     "geom:latitude":-33.689911,
     "geom:longitude":151.297806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 / 21A Macpherson St",
     "sg:city":"Warriewood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186334469,
-    "wof:lastmodified":1449051163,
+    "wof:lastmodified":1466188167,
     "wof:name":"Horse Drenching",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.297806,-33.689911,151.297806,-33.689911],
-  "geometry": {"coordinates":[151.297806,-33.689911],"type":"Point"}
+  "bbox": [
+    151.297806,
+    -33.689911,
+    151.297806,
+    -33.689911
+],
+  "geometry": {"coordinates":[151.29780600000001,-33.689911],"type":"Point"}
 }

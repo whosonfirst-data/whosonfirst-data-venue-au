@@ -2,13 +2,14 @@
   "id": 220029149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.624649,-34.997852,138.624649,-34.997852",
     "geom:latitude":-34.997852,
     "geom:longitude":138.624649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 10 Belair SA 5052",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220029149,
-    "wof:lastmodified":1449074376,
+    "wof:lastmodified":1466187297,
     "wof:name":"Nyack Pty Ltd",
     "wof:parent_id":85777437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [138.624649,-34.997852,138.624649,-34.997852],
-  "geometry": {"coordinates":[138.624649,-34.997852],"type":"Point"}
+  "bbox": [
+    138.624649,
+    -34.997852,
+    138.624649,
+    -34.997852
+],
+  "geometry": {"coordinates":[138.62464900000001,-34.997852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186409057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.814545,-19.254009,146.814545,-19.254009",
     "geom:latitude":-19.254009,
     "geom:longitude":146.814545,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Denham St & Melton Tce",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186409057,
-    "wof:lastmodified":1449051478,
+    "wof:lastmodified":1466189457,
     "wof:name":"QLD Finance Group",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [146.814545,-19.254009,146.814545,-19.254009],
-  "geometry": {"coordinates":[146.814545,-19.254009],"type":"Point"}
+  "bbox": [
+    146.814545,
+    -19.254009,
+    146.814545,
+    -19.254009
+],
+  "geometry": {"coordinates":[146.81454500000001,-19.254009],"type":"Point"}
 }

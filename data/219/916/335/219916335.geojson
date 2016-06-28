@@ -2,13 +2,14 @@
   "id": 219916335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.908157,-34.353844,150.908157,-34.353844",
     "geom:latitude":-34.353844,
     "geom:longitude":150.908157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Kathleen Cres",
     "sg:city":"Woonona",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219916335,
-    "wof:lastmodified":1449072309,
+    "wof:lastmodified":1466191771,
     "wof:name":"Project Asphalt Pty Ltd",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "asphalt"
     ]
 },
-  "bbox": [150.908157,-34.353844,150.908157,-34.353844],
-  "geometry": {"coordinates":[150.908157,-34.353844],"type":"Point"}
+  "bbox": [
+    150.908157,
+    -34.353844,
+    150.908157,
+    -34.353844
+],
+  "geometry": {"coordinates":[150.90815699999999,-34.353844],"type":"Point"}
 }

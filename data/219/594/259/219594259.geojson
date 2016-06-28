@@ -2,13 +2,14 @@
   "id": 219594259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143555,-33.904228,151.143555,-33.904228",
     "geom:latitude":-33.904228,
     "geom:longitude":151.143555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 7 471- 473 Marrickville Rd",
     "sg:city":"Dulwich Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219594259,
-    "wof:lastmodified":1449070902,
+    "wof:lastmodified":1466190550,
     "wof:name":"ASP",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [151.143555,-33.904228,151.143555,-33.904228],
-  "geometry": {"coordinates":[151.143555,-33.904228],"type":"Point"}
+  "bbox": [
+    151.143555,
+    -33.904228,
+    151.143555,
+    -33.904228
+],
+  "geometry": {"coordinates":[151.14355499999999,-33.904228],"type":"Point"}
 }

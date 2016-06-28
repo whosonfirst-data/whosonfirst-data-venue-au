@@ -2,13 +2,14 @@
   "id": 219319485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.930145,-38.161724,145.930145,-38.161724",
     "geom:latitude":-38.161724,
     "geom:longitude":145.930145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Napier St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219319485,
-    "wof:lastmodified":1449071830,
+    "wof:lastmodified":1466187693,
     "wof:name":"Warragul Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "prescription"
     ]
 },
-  "bbox": [145.930145,-38.161724,145.930145,-38.161724],
-  "geometry": {"coordinates":[145.930145,-38.161724],"type":"Point"}
+  "bbox": [
+    145.930145,
+    -38.161724,
+    145.930145,
+    -38.161724
+],
+  "geometry": {"coordinates":[145.93014500000001,-38.161724],"type":"Point"}
 }

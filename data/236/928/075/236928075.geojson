@@ -2,13 +2,14 @@
   "id": 236928075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.521622,-34.996307,138.521622,-34.996307",
     "geom:latitude":-34.996307,
     "geom:longitude":138.521622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 212 Brighton Rd",
     "sg:city":"Somerton Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236928075,
-    "wof:lastmodified":1449004689,
+    "wof:lastmodified":1466192127,
     "wof:name":"Vanilla Vibe",
     "wof:parent_id":85779087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [138.521622,-34.996307,138.521622,-34.996307],
-  "geometry": {"coordinates":[138.521622,-34.996307],"type":"Point"}
+  "bbox": [
+    138.521622,
+    -34.996307,
+    138.521622,
+    -34.996307
+],
+  "geometry": {"coordinates":[138.52162200000001,-34.996307],"type":"Point"}
 }

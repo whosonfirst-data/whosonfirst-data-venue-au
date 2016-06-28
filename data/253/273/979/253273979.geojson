@@ -2,13 +2,14 @@
   "id": 253273979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950195,-27.457474,151.950195,-27.457474",
     "geom:latitude":-27.457474,
     "geom:longitude":151.950195,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Kuhls Rd",
     "sg:city":"Highfields",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253273979,
-    "wof:lastmodified":1449064357,
+    "wof:lastmodified":1466190530,
     "wof:name":"Highfields Veterinary Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.950195,-27.457474,151.950195,-27.457474],
-  "geometry": {"coordinates":[151.950195,-27.457474],"type":"Point"}
+  "bbox": [
+    151.950195,
+    -27.457474,
+    151.950195,
+    -27.457474
+],
+  "geometry": {"coordinates":[151.95019500000001,-27.457474],"type":"Point"}
 }

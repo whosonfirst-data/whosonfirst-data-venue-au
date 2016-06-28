@@ -2,13 +2,14 @@
   "id": 236620049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.137955,-33.956791,151.137955,-33.956791",
     "geom:latitude":-33.956791,
     "geom:longitude":151.137955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Princes Hwy",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":236620049,
-    "wof:lastmodified":1449004908,
+    "wof:lastmodified":1466191685,
     "wof:name":"Mattress Taylor Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [151.137955,-33.956791,151.137955,-33.956791],
-  "geometry": {"coordinates":[151.137955,-33.956791],"type":"Point"}
+  "bbox": [
+    151.137955,
+    -33.956791,
+    151.137955,
+    -33.956791
+],
+  "geometry": {"coordinates":[151.13795500000001,-33.956791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253321625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.300781,-38.013943,145.300781,-38.013943",
     "geom:latitude":-38.013943,
     "geom:longitude":145.300781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fernwood Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253321625,
-    "wof:lastmodified":1449062894,
+    "wof:lastmodified":1466190810,
     "wof:name":"1st Applied Cleaning",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.300781,-38.013943,145.300781,-38.013943],
+  "bbox": [
+    145.300781,
+    -38.013943,
+    145.300781,
+    -38.013943
+],
   "geometry": {"coordinates":[145.300781,-38.013943],"type":"Point"}
 }

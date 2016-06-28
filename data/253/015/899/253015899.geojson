@@ -2,13 +2,14 @@
   "id": 253015899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.706207,-37.850506,144.706207,-37.850506",
     "geom:latitude":-37.850506,
     "geom:longitude":144.706207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80- 381 Sayers Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253015899,
-    "wof:lastmodified":1449063487,
+    "wof:lastmodified":1466187229,
     "wof:name":"Wyndham Physiotherapy",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.706207,-37.850506,144.706207,-37.850506],
-  "geometry": {"coordinates":[144.706207,-37.850506],"type":"Point"}
+  "bbox": [
+    144.706207,
+    -37.850506,
+    144.706207,
+    -37.850506
+],
+  "geometry": {"coordinates":[144.70620700000001,-37.850506],"type":"Point"}
 }

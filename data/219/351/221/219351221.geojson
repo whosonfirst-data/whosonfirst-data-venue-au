@@ -2,13 +2,14 @@
   "id": 219351221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.290405,-14.47601,132.290405,-14.47601",
     "geom:latitude":-14.47601,
     "geom:longitude":132.290405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Palmer St",
     "sg:city":"Katherine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219351221,
-    "wof:lastmodified":1449073380,
+    "wof:lastmodified":1466187940,
     "wof:name":"Katherine Machining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [132.290405,-14.47601,132.290405,-14.47601],
-  "geometry": {"coordinates":[132.290405,-14.47601],"type":"Point"}
+  "bbox": [
+    132.290405,
+    -14.47601,
+    132.290405,
+    -14.47601
+],
+  "geometry": {"coordinates":[132.29040499999999,-14.47601],"type":"Point"}
 }

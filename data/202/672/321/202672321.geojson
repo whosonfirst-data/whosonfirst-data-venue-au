@@ -2,13 +2,14 @@
   "id": 202672321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.03093,-27.388113,153.03093,-27.388113",
     "geom:latitude":-27.388113,
     "geom:longitude":153.03093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Gympie Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202672321,
-    "wof:lastmodified":1449060272,
+    "wof:lastmodified":1466188314,
     "wof:name":"Pradella R V & G M",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.03093,-27.388113,153.03093,-27.388113],
-  "geometry": {"coordinates":[153.03093,-27.388113],"type":"Point"}
+  "bbox": [
+    153.03093,
+    -27.388113,
+    153.03093,
+    -27.388113
+],
+  "geometry": {"coordinates":[153.03093000000001,-27.388113],"type":"Point"}
 }

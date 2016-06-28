@@ -2,13 +2,14 @@
   "id": 202425285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.964294,-37.850204,144.964294,-37.850204",
     "geom:latitude":-37.850204,
     "geom:longitude":144.964294,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Armstrong St",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202425285,
-    "wof:lastmodified":1449060997,
+    "wof:lastmodified":1466188243,
     "wof:name":"Mortgage Force",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.964294,-37.850204,144.964294,-37.850204],
+  "bbox": [
+    144.964294,
+    -37.850204,
+    144.964294,
+    -37.850204
+],
   "geometry": {"coordinates":[144.964294,-37.850204],"type":"Point"}
 }

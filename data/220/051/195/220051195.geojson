@@ -2,13 +2,14 @@
   "id": 220051195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.146492,-33.353642,116.146492,-33.353642",
     "geom:latitude":-33.353642,
     "geom:longitude":116.146492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 4383 Patstone Rd",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220051195,
-    "wof:lastmodified":1449074533,
+    "wof:lastmodified":1466187512,
     "wof:name":"Saunders Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [116.146492,-33.353642,116.146492,-33.353642],
-  "geometry": {"coordinates":[116.146492,-33.353642],"type":"Point"}
+  "bbox": [
+    116.146492,
+    -33.353642,
+    116.146492,
+    -33.353642
+],
+  "geometry": {"coordinates":[116.14649199999999,-33.353642],"type":"Point"}
 }

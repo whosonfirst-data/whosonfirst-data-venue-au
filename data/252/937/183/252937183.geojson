@@ -2,13 +2,14 @@
   "id": 252937183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.075455,-26.53541,153.075455,-26.53541",
     "geom:latitude":-26.53541,
     "geom:longitude":153.075455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr David Low Hwy & Reservoir Rd",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252937183,
-    "wof:lastmodified":1449005628,
+    "wof:lastmodified":1466189308,
     "wof:name":"&#034;The Point&#034; Marketing Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.075455,-26.53541,153.075455,-26.53541],
-  "geometry": {"coordinates":[153.075455,-26.53541],"type":"Point"}
+  "bbox": [
+    153.075455,
+    -26.53541,
+    153.075455,
+    -26.53541
+],
+  "geometry": {"coordinates":[153.07545500000001,-26.53541],"type":"Point"}
 }

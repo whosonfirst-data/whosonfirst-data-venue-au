@@ -2,13 +2,14 @@
   "id": 202481547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.036987,-37.906353,145.036987,-37.906353",
     "geom:latitude":-37.906353,
     "geom:longitude":145.036987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Anthony St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202481547,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466189248,
     "wof:name":"Binnuk Pty Ltd",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.036987,-37.906353,145.036987,-37.906353],
-  "geometry": {"coordinates":[145.036987,-37.906353],"type":"Point"}
+  "bbox": [
+    145.036987,
+    -37.906353,
+    145.036987,
+    -37.906353
+],
+  "geometry": {"coordinates":[145.03698700000001,-37.906353],"type":"Point"}
 }

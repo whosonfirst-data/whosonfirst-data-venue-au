@@ -2,13 +2,14 @@
   "id": 252870209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.581192,-37.684811,144.581192,-37.684811",
     "geom:latitude":-37.684811,
     "geom:longitude":144.581192,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 McKenzie St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252870209,
-    "wof:lastmodified":1449005708,
+    "wof:lastmodified":1466188723,
     "wof:name":"Body Style Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.581192,-37.684811,144.581192,-37.684811],
-  "geometry": {"coordinates":[144.581192,-37.684811],"type":"Point"}
+  "bbox": [
+    144.581192,
+    -37.684811,
+    144.581192,
+    -37.684811
+],
+  "geometry": {"coordinates":[144.58119199999999,-37.684811],"type":"Point"}
 }

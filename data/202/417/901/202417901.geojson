@@ -2,13 +2,14 @@
   "id": 202417901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.940201,-37.840061,144.940201,-37.840061",
     "geom:latitude":-37.840061,
     "geom:longitude":144.940201,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9/ 97 Graham St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202417901,
-    "wof:lastmodified":1449061147,
+    "wof:lastmodified":1466188078,
     "wof:name":"East West Design Group - Architects",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.940201,-37.840061,144.940201,-37.840061],
+  "bbox": [
+    144.940201,
+    -37.840061,
+    144.940201,
+    -37.840061
+],
   "geometry": {"coordinates":[144.940201,-37.840061],"type":"Point"}
 }

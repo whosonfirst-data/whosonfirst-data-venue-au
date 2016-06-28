@@ -2,13 +2,14 @@
   "id": 253315149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.307938,-38.007629,145.307938,-38.007629",
     "geom:latitude":-38.007629,
     "geom:longitude":145.307938,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Maramba Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253315149,
-    "wof:lastmodified":1449065645,
+    "wof:lastmodified":1466190853,
     "wof:name":"Maramba Primary",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.307938,-38.007629,145.307938,-38.007629],
-  "geometry": {"coordinates":[145.307938,-38.007629],"type":"Point"}
+  "bbox": [
+    145.307938,
+    -38.007629,
+    145.307938,
+    -38.007629
+],
+  "geometry": {"coordinates":[145.30793800000001,-38.007629],"type":"Point"}
 }

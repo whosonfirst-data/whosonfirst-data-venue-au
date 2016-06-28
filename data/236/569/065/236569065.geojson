@@ -2,13 +2,14 @@
   "id": 236569065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.032104,-33.952309,151.032104,-33.952309",
     "geom:latitude":-33.952309,
     "geom:longitude":151.032104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Howard Rd",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236569065,
-    "wof:lastmodified":1449005092,
+    "wof:lastmodified":1466191449,
     "wof:name":"Hair Dynamics",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.032104,-33.952309,151.032104,-33.952309],
+  "bbox": [
+    151.032104,
+    -33.952309,
+    151.032104,
+    -33.952309
+],
   "geometry": {"coordinates":[151.032104,-33.952309],"type":"Point"}
 }

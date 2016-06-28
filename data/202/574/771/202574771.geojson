@@ -2,13 +2,14 @@
   "id": 202574771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.425797,-37.653751,144.425797,-37.653751",
     "geom:latitude":-37.653751,
     "geom:longitude":144.425797,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lewis St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202574771,
-    "wof:lastmodified":1449060095,
+    "wof:lastmodified":1466187082,
     "wof:name":"Niklay Plumbing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.425797,-37.653751,144.425797,-37.653751],
-  "geometry": {"coordinates":[144.425797,-37.653751],"type":"Point"}
+  "bbox": [
+    144.425797,
+    -37.653751,
+    144.425797,
+    -37.653751
+],
+  "geometry": {"coordinates":[144.42579699999999,-37.653751],"type":"Point"}
 }

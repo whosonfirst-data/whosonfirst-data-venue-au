@@ -2,13 +2,14 @@
   "id": 203027811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.160156,-37.675892,145.160156,-37.675892",
     "geom:latitude":-37.675892,
     "geom:longitude":145.160156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Haley St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203027811,
-    "wof:lastmodified":1449025288,
+    "wof:lastmodified":1466187744,
     "wof:name":"De Vos John",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.160156,-37.675892,145.160156,-37.675892],
+  "bbox": [
+    145.160156,
+    -37.675892,
+    145.160156,
+    -37.675892
+],
   "geometry": {"coordinates":[145.160156,-37.675892],"type":"Point"}
 }

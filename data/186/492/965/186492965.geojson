@@ -2,13 +2,14 @@
   "id": 186492965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.758728,-19.267841,146.758728,-19.267841",
     "geom:latitude":-19.267841,
     "geom:longitude":146.758728,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Woolcock St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186492965,
-    "wof:lastmodified":1449050251,
+    "wof:lastmodified":1466190471,
     "wof:name":"CQuip",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machine"
     ]
 },
-  "bbox": [146.758728,-19.267841,146.758728,-19.267841],
-  "geometry": {"coordinates":[146.758728,-19.267841],"type":"Point"}
+  "bbox": [
+    146.758728,
+    -19.267841,
+    146.758728,
+    -19.267841
+],
+  "geometry": {"coordinates":[146.75872799999999,-19.267841],"type":"Point"}
 }

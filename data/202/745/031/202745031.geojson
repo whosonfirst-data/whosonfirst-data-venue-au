@@ -2,13 +2,14 @@
   "id": 202745031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.853828,-32.054893,115.853828,-32.054893",
     "geom:latitude":-32.054893,
     "geom:longitude":115.853828,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Gribble Rd",
     "sg:city":"Bullcreek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202745031,
-    "wof:lastmodified":1449062532,
+    "wof:lastmodified":1466189621,
     "wof:name":"Browns Plumbing Pty Ltd",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.853828,-32.054893,115.853828,-32.054893],
-  "geometry": {"coordinates":[115.853828,-32.054893],"type":"Point"}
+  "bbox": [
+    115.853828,
+    -32.054893,
+    115.853828,
+    -32.054893
+],
+  "geometry": {"coordinates":[115.85382799999999,-32.054893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202933957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.121536,-30.307045,153.121536,-30.307045",
     "geom:latitude":-30.307045,
     "geom:longitude":153.121536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hogbin Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202933957,
-    "wof:lastmodified":1449060632,
+    "wof:lastmodified":1466190902,
     "wof:name":"Coffs Harbour Leagues Club",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rugby"
     ]
 },
-  "bbox": [153.121536,-30.307045,153.121536,-30.307045],
-  "geometry": {"coordinates":[153.121536,-30.307045],"type":"Point"}
+  "bbox": [
+    153.121536,
+    -30.307045,
+    153.121536,
+    -30.307045
+],
+  "geometry": {"coordinates":[153.12153599999999,-30.307045],"type":"Point"}
 }

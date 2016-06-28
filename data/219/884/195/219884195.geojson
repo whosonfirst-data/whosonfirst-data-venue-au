@@ -2,13 +2,14 @@
   "id": 219884195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.90683,-34.383987,150.90683,-34.383987",
     "geom:latitude":-34.383987,
     "geom:longitude":150.90683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Pioneer Rd",
     "sg:city":"Towradgi",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219884195,
-    "wof:lastmodified":1449073249,
+    "wof:lastmodified":1466191536,
     "wof:name":"Wollongong Australian Football Club Venue",
     "wof:parent_id":85770493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rule"
     ]
 },
-  "bbox": [150.90683,-34.383987,150.90683,-34.383987],
-  "geometry": {"coordinates":[150.90683,-34.383987],"type":"Point"}
+  "bbox": [
+    150.90683,
+    -34.383987,
+    150.90683,
+    -34.383987
+],
+  "geometry": {"coordinates":[150.90683000000001,-34.383987],"type":"Point"}
 }

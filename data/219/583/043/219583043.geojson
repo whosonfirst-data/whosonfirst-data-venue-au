@@ -2,13 +2,14 @@
   "id": 219583043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.013596,-33.930168,151.013596,-33.930168",
     "geom:latitude":-33.930168,
     "geom:longitude":151.013596,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Nowill St",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219583043,
-    "wof:lastmodified":1449073188,
+    "wof:lastmodified":1466190577,
     "wof:name":"Displays The Answer",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "exhibition"
     ]
 },
-  "bbox": [151.013596,-33.930168,151.013596,-33.930168],
-  "geometry": {"coordinates":[151.013596,-33.930168],"type":"Point"}
+  "bbox": [
+    151.013596,
+    -33.930168,
+    151.013596,
+    -33.930168
+],
+  "geometry": {"coordinates":[151.01359600000001,-33.930168],"type":"Point"}
 }

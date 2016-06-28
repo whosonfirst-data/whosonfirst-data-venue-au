@@ -2,13 +2,14 @@
   "id": 236517499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166702,-32.570072,151.166702,-32.570072",
     "geom:latitude":-32.570072,
     "geom:longitude":151.166702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Harriet St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236517499,
-    "wof:lastmodified":1449003550,
+    "wof:lastmodified":1466191424,
     "wof:name":"Hunterwide Corporate Relocations",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relocation"
     ]
 },
-  "bbox": [151.166702,-32.570072,151.166702,-32.570072],
-  "geometry": {"coordinates":[151.166702,-32.570072],"type":"Point"}
+  "bbox": [
+    151.166702,
+    -32.570072,
+    151.166702,
+    -32.570072
+],
+  "geometry": {"coordinates":[151.16670199999999,-32.570072],"type":"Point"}
 }

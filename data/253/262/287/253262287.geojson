@@ -2,13 +2,14 @@
   "id": 253262287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.953842,-27.463537,151.953842,-27.463537",
     "geom:latitude":-27.463537,
     "geom:longitude":151.953842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/ 2 Highfields Rd",
     "sg:city":"Highfields",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253262287,
-    "wof:lastmodified":1449064646,
+    "wof:lastmodified":1466190475,
     "wof:name":"Highfields Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.953842,-27.463537,151.953842,-27.463537],
-  "geometry": {"coordinates":[151.953842,-27.463537],"type":"Point"}
+  "bbox": [
+    151.953842,
+    -27.463537,
+    151.953842,
+    -27.463537
+],
+  "geometry": {"coordinates":[151.95384200000001,-27.463537],"type":"Point"}
 }

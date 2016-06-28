@@ -2,13 +2,14 @@
   "id": 202498943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.023895,-37.916519,145.023895,-37.916519",
     "geom:latitude":-37.916519,
     "geom:longitude":145.023895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202498943,
-    "wof:lastmodified":1449062043,
+    "wof:lastmodified":1466189514,
     "wof:name":"Carley Sallyanne",
     "wof:parent_id":85775357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.023895,-37.916519,145.023895,-37.916519],
-  "geometry": {"coordinates":[145.023895,-37.916519],"type":"Point"}
+  "bbox": [
+    145.023895,
+    -37.916519,
+    145.023895,
+    -37.916519
+],
+  "geometry": {"coordinates":[145.02389500000001,-37.916519],"type":"Point"}
 }

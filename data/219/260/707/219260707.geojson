@@ -2,13 +2,14 @@
   "id": 219260707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.361282,-38.159439,146.361282,-38.159439",
     "geom:latitude":-38.159439,
     "geom:longitude":146.361282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 North Rd",
     "sg:city":"Yallourn North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219260707,
-    "wof:lastmodified":1449070976,
+    "wof:lastmodified":1466187204,
     "wof:name":"Northerners Take Away",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [146.361282,-38.159439,146.361282,-38.159439],
-  "geometry": {"coordinates":[146.361282,-38.159439],"type":"Point"}
+  "bbox": [
+    146.361282,
+    -38.159439,
+    146.361282,
+    -38.159439
+],
+  "geometry": {"coordinates":[146.36128199999999,-38.159439],"type":"Point"}
 }

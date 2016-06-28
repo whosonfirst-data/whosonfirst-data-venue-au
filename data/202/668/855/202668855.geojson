@@ -2,13 +2,14 @@
   "id": 202668855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031464,-27.388363,153.031464,-27.388363",
     "geom:latitude":-27.388363,
     "geom:longitude":153.031464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Gympie Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202668855,
-    "wof:lastmodified":1449061865,
+    "wof:lastmodified":1466188244,
     "wof:name":"Revival Hairdressing",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [153.031464,-27.388363,153.031464,-27.388363],
+  "bbox": [
+    153.031464,
+    -27.388363,
+    153.031464,
+    -27.388363
+],
   "geometry": {"coordinates":[153.031464,-27.388363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219486797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.060959,-33.892914,151.060959,-33.892914",
     "geom:latitude":-33.892914,
     "geom:longitude":151.060959,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Waterloo Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219486797,
-    "wof:lastmodified":1449072343,
+    "wof:lastmodified":1466189253,
     "wof:name":"Chullora Bakery",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.060959,-33.892914,151.060959,-33.892914],
+  "bbox": [
+    151.060959,
+    -33.892914,
+    151.060959,
+    -33.892914
+],
   "geometry": {"coordinates":[151.060959,-33.892914],"type":"Point"}
 }

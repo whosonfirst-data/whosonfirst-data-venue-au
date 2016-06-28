@@ -2,13 +2,14 @@
   "id": 236128687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.867096,-37.744316,144.867096,-37.744316",
     "geom:latitude":-37.744316,
     "geom:longitude":144.867096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Dinah Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236128687,
-    "wof:lastmodified":1449002845,
+    "wof:lastmodified":1466189219,
     "wof:name":"Pane E Latte Bakery",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.867096,-37.744316,144.867096,-37.744316],
+  "bbox": [
+    144.867096,
+    -37.744316,
+    144.867096,
+    -37.744316
+],
   "geometry": {"coordinates":[144.867096,-37.744316],"type":"Point"}
 }

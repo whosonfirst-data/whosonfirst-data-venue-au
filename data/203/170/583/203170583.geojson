@@ -2,13 +2,14 @@
   "id": 203170583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.983505,-36.55164,145.983505,-36.55164",
     "geom:latitude":-36.55164,
     "geom:longitude":145.983505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93a Nunn St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203170583,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466189831,
     "wof:name":"Zendos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internet"
     ]
 },
-  "bbox": [145.983505,-36.55164,145.983505,-36.55164],
-  "geometry": {"coordinates":[145.983505,-36.55164],"type":"Point"}
+  "bbox": [
+    145.983505,
+    -36.55164,
+    145.983505,
+    -36.55164
+],
+  "geometry": {"coordinates":[145.98350500000001,-36.55164],"type":"Point"}
 }

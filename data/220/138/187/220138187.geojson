@@ -2,13 +2,14 @@
   "id": 220138187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357513,-38.142815,144.357513,-38.142815",
     "geom:latitude":-38.142815,
     "geom:longitude":144.357513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lt Smythe St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220138187,
-    "wof:lastmodified":1449074247,
+    "wof:lastmodified":1466188351,
     "wof:name":"Katos Fish Supply Pty Ltd",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [144.357513,-38.142815,144.357513,-38.142815],
-  "geometry": {"coordinates":[144.357513,-38.142815],"type":"Point"}
+  "bbox": [
+    144.357513,
+    -38.142815,
+    144.357513,
+    -38.142815
+],
+  "geometry": {"coordinates":[144.35751300000001,-38.142815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219554255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.014114,-33.905457,151.014114,-33.905457",
     "geom:latitude":-33.905457,
     "geom:longitude":151.014114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Hume Hwy",
     "sg:city":"Yagoona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219554255,
-    "wof:lastmodified":1449071124,
+    "wof:lastmodified":1466190306,
     "wof:name":"L.A.N. Mind",
     "wof:parent_id":85774757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [151.014114,-33.905457,151.014114,-33.905457],
-  "geometry": {"coordinates":[151.014114,-33.905457],"type":"Point"}
+  "bbox": [
+    151.014114,
+    -33.905457,
+    151.014114,
+    -33.905457
+],
+  "geometry": {"coordinates":[151.01411400000001,-33.905457],"type":"Point"}
 }

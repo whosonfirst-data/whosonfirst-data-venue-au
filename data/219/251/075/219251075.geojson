@@ -2,13 +2,14 @@
   "id": 219251075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.005753,-37.783936,145.005753,-37.783936",
     "geom:latitude":-37.783936,
     "geom:longitude":145.005753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Heidelberg Rd",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219251075,
-    "wof:lastmodified":1449070435,
+    "wof:lastmodified":1466187084,
     "wof:name":"Chipperfield's Pty Ltd",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [145.005753,-37.783936,145.005753,-37.783936],
+  "bbox": [
+    145.005753,
+    -37.783936,
+    145.005753,
+    -37.783936
+],
   "geometry": {"coordinates":[145.005753,-37.783936],"type":"Point"}
 }

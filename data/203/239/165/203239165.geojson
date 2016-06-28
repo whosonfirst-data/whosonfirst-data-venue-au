@@ -2,13 +2,14 @@
   "id": 203239165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.540497,-38.526402,143.540497,-38.526402",
     "geom:latitude":-38.526402,
     "geom:longitude":143.540497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd",
     "sg:city":"Gellibrand River",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203239165,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466187493,
     "wof:name":"Gellibrand River Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.540497,-38.526402,143.540497,-38.526402],
-  "geometry": {"coordinates":[143.540497,-38.526402],"type":"Point"}
+  "bbox": [
+    143.540497,
+    -38.526402,
+    143.540497,
+    -38.526402
+],
+  "geometry": {"coordinates":[143.54049699999999,-38.526402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186408307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.799118,-19.298618,146.799118,-19.298618",
     "geom:latitude":-19.298618,
     "geom:longitude":146.799118,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 - 74 Bowen Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186408307,
-    "wof:lastmodified":1449050600,
+    "wof:lastmodified":1466189446,
     "wof:name":"Banjo Paterson Motor Inn",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.799118,-19.298618,146.799118,-19.298618],
-  "geometry": {"coordinates":[146.799118,-19.298618],"type":"Point"}
+  "bbox": [
+    146.799118,
+    -19.298618,
+    146.799118,
+    -19.298618
+],
+  "geometry": {"coordinates":[146.79911799999999,-19.298618],"type":"Point"}
 }

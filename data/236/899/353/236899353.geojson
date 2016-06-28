@@ -2,13 +2,14 @@
   "id": 236899353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.527283,-35.00983,138.527283,-35.00983",
     "geom:latitude":-35.00983,
     "geom:longitude":138.527283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Dunrobin Rd",
     "sg:city":"Hove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236899353,
-    "wof:lastmodified":1449005050,
+    "wof:lastmodified":1466192091,
     "wof:name":"PJ Mann Earthmoving",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.527283,-35.00983,138.527283,-35.00983],
-  "geometry": {"coordinates":[138.527283,-35.00983],"type":"Point"}
+  "bbox": [
+    138.527283,
+    -35.00983,
+    138.527283,
+    -35.00983
+],
+  "geometry": {"coordinates":[138.52728300000001,-35.00983],"type":"Point"}
 }

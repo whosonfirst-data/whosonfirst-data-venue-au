@@ -2,13 +2,14 @@
   "id": 219915961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.902756,-34.350754,150.902756,-34.350754",
     "geom:latitude":-34.350754,
     "geom:longitude":150.902756,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Princess Hwy",
     "sg:city":"Woonona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219915961,
-    "wof:lastmodified":1449073877,
+    "wof:lastmodified":1466191836,
     "wof:name":"Greyhorse Stables",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agistment"
     ]
 },
-  "bbox": [150.902756,-34.350754,150.902756,-34.350754],
-  "geometry": {"coordinates":[150.902756,-34.350754],"type":"Point"}
+  "bbox": [
+    150.902756,
+    -34.350754,
+    150.902756,
+    -34.350754
+],
+  "geometry": {"coordinates":[150.90275600000001,-34.350754],"type":"Point"}
 }

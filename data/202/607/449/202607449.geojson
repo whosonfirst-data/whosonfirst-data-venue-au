@@ -2,13 +2,14 @@
   "id": 202607449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.700043,-33.753262,150.700043,-33.753262",
     "geom:latitude":-33.753262,
     "geom:longitude":150.700043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Lawson St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202607449,
-    "wof:lastmodified":1449060442,
+    "wof:lastmodified":1466187390,
     "wof:name":"Barratt & Smith Pathology",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [150.700043,-33.753262,150.700043,-33.753262],
-  "geometry": {"coordinates":[150.700043,-33.753262],"type":"Point"}
+  "bbox": [
+    150.700043,
+    -33.753262,
+    150.700043,
+    -33.753262
+],
+  "geometry": {"coordinates":[150.70004299999999,-33.753262],"type":"Point"}
 }

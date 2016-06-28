@@ -2,13 +2,14 @@
   "id": 236292529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.762878,-32.294498,115.762878,-32.294498",
     "geom:latitude":-32.294498,
     "geom:longitude":115.762878,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rockingham/Kwinana Hospital Elanora Drv",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236292529,
-    "wof:lastmodified":1449001881,
+    "wof:lastmodified":1466190318,
     "wof:name":"Breast Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.762878,-32.294498,115.762878,-32.294498],
+  "bbox": [
+    115.762878,
+    -32.294498,
+    115.762878,
+    -32.294498
+],
   "geometry": {"coordinates":[115.762878,-32.294498],"type":"Point"}
 }

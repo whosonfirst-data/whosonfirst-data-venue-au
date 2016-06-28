@@ -2,13 +2,14 @@
   "id": 219218875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054596,-27.419079,153.054596,-27.419079",
     "geom:latitude":-27.419079,
     "geom:longitude":153.054596,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 9, 690 Sandgate Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219218875,
-    "wof:lastmodified":1449072621,
+    "wof:lastmodified":1466189842,
     "wof:name":"Shurflo",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [153.054596,-27.419079,153.054596,-27.419079],
+  "bbox": [
+    153.054596,
+    -27.419079,
+    153.054596,
+    -27.419079
+],
   "geometry": {"coordinates":[153.054596,-27.419079],"type":"Point"}
 }

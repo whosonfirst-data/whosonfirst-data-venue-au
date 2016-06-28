@@ -2,13 +2,14 @@
   "id": 236911819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.525391,-34.978413,138.525391,-34.978413",
     "geom:latitude":-34.978413,
     "geom:longitude":138.525391,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Fourth Ave",
     "sg:city":"Glenelg East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236911819,
-    "wof:lastmodified":1449004601,
+    "wof:lastmodified":1466192119,
     "wof:name":"Custom Built Steel Industries Pty Ltd",
     "wof:parent_id":85779077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [138.525391,-34.978413,138.525391,-34.978413],
-  "geometry": {"coordinates":[138.525391,-34.978413],"type":"Point"}
+  "bbox": [
+    138.525391,
+    -34.978413,
+    138.525391,
+    -34.978413
+],
+  "geometry": {"coordinates":[138.52539100000001,-34.978413],"type":"Point"}
 }

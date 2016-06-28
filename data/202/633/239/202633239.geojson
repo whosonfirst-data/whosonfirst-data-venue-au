@@ -2,13 +2,14 @@
   "id": 202633239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.222717,-33.907955,151.222717,-33.907955",
     "geom:latitude":-33.907955,
     "geom:longitude":151.222717,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59a Boronia St",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202633239,
-    "wof:lastmodified":1449062617,
+    "wof:lastmodified":1466187651,
     "wof:name":"Macrobiotic Counseller - Ken McLean",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [151.222717,-33.907955,151.222717,-33.907955],
-  "geometry": {"coordinates":[151.222717,-33.907955],"type":"Point"}
+  "bbox": [
+    151.222717,
+    -33.907955,
+    151.222717,
+    -33.907955
+],
+  "geometry": {"coordinates":[151.22271699999999,-33.907955],"type":"Point"}
 }

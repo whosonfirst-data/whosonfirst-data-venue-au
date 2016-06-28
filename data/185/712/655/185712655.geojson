@@ -2,13 +2,14 @@
   "id": 185712655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.857895,-32.729996,151.857895,-32.729996",
     "geom:latitude":-32.729996,
     "geom:longitude":151.857895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Court Rd",
     "sg:city":"Medowie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185712655,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1466189238,
     "wof:name":"Hough Phil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [151.857895,-32.729996,151.857895,-32.729996],
-  "geometry": {"coordinates":[151.857895,-32.729996],"type":"Point"}
+  "bbox": [
+    151.857895,
+    -32.729996,
+    151.857895,
+    -32.729996
+],
+  "geometry": {"coordinates":[151.85789500000001,-32.729996],"type":"Point"}
 }

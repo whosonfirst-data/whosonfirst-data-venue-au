@@ -2,13 +2,14 @@
   "id": 219559763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.033569,-33.918121,151.033569,-33.918121",
     "geom:latitude":-33.918121,
     "geom:longitude":151.033569,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Allingham St",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219559763,
-    "wof:lastmodified":1449073161,
+    "wof:lastmodified":1466190241,
     "wof:name":"Automotive Group Training (NSW)",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.033569,-33.918121,151.033569,-33.918121],
+  "bbox": [
+    151.033569,
+    -33.918121,
+    151.033569,
+    -33.918121
+],
   "geometry": {"coordinates":[151.033569,-33.918121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236007625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.312927,-42.981239,147.312927,-42.981239",
     "geom:latitude":-42.981239,
     "geom:longitude":147.312927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Hutchins St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236007625,
-    "wof:lastmodified":1449004565,
+    "wof:lastmodified":1466186986,
     "wof:name":"B.Nunn",
     "wof:parent_id":85770383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [147.312927,-42.981239,147.312927,-42.981239],
+  "bbox": [
+    147.312927,
+    -42.981239,
+    147.312927,
+    -42.981239
+],
   "geometry": {"coordinates":[147.312927,-42.981239],"type":"Point"}
 }

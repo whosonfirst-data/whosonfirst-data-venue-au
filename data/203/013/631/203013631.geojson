@@ -2,13 +2,14 @@
   "id": 203013631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.498871,-20.729029,139.498871,-20.729029",
     "geom:latitude":-20.729029,
     "geom:longitude":139.498871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Spence St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203013631,
-    "wof:lastmodified":1449026259,
+    "wof:lastmodified":1466187357,
     "wof:name":"Panel Repairs",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [139.498871,-20.729029,139.498871,-20.729029],
-  "geometry": {"coordinates":[139.498871,-20.729029],"type":"Point"}
+  "bbox": [
+    139.498871,
+    -20.729029,
+    139.498871,
+    -20.729029
+],
+  "geometry": {"coordinates":[139.49887100000001,-20.729029],"type":"Point"}
 }

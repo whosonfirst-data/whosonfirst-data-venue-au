@@ -2,13 +2,14 @@
   "id": 253003315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.687103,-37.862865,144.687103,-37.862865",
     "geom:latitude":-37.862865,
     "geom:longitude":144.687103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 150 Hogans Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253003315,
-    "wof:lastmodified":1449065563,
+    "wof:lastmodified":1466186971,
     "wof:name":"Brumby's Bakeries",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.687103,-37.862865,144.687103,-37.862865],
-  "geometry": {"coordinates":[144.687103,-37.862865],"type":"Point"}
+  "bbox": [
+    144.687103,
+    -37.862865,
+    144.687103,
+    -37.862865
+],
+  "geometry": {"coordinates":[144.68710300000001,-37.862865],"type":"Point"}
 }

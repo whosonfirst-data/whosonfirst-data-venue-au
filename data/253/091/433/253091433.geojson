@@ -2,13 +2,14 @@
   "id": 253091433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.798065,-37.744106,144.798065,-37.744106",
     "geom:latitude":-37.744106,
     "geom:longitude":144.798065,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Main Rd",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253091433,
-    "wof:lastmodified":1449063098,
+    "wof:lastmodified":1466188561,
     "wof:name":"Mmm Pizza",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.798065,-37.744106,144.798065,-37.744106],
-  "geometry": {"coordinates":[144.798065,-37.744106],"type":"Point"}
+  "bbox": [
+    144.798065,
+    -37.744106,
+    144.798065,
+    -37.744106
+],
+  "geometry": {"coordinates":[144.79806500000001,-37.744106],"type":"Point"}
 }

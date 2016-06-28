@@ -2,13 +2,14 @@
   "id": 236636475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.994705,-33.935478,150.994705,-33.935478",
     "geom:latitude":-33.935478,
     "geom:longitude":150.994705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Horsley Rd",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236636475,
-    "wof:lastmodified":1449002868,
+    "wof:lastmodified":1466191723,
     "wof:name":"Southern Steel Cash & Carry",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchant"
     ]
 },
-  "bbox": [150.994705,-33.935478,150.994705,-33.935478],
-  "geometry": {"coordinates":[150.994705,-33.935478],"type":"Point"}
+  "bbox": [
+    150.994705,
+    -33.935478,
+    150.994705,
+    -33.935478
+],
+  "geometry": {"coordinates":[150.99470500000001,-33.935478],"type":"Point"}
 }

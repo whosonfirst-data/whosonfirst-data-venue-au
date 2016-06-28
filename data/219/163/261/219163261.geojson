@@ -2,13 +2,14 @@
   "id": 219163261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.476059,-36.179108,146.476059,-36.179108",
     "geom:latitude":-36.179108,
     "geom:longitude":146.476059,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Developmental Rd",
     "sg:city":"Springhurst",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219163261,
-    "wof:lastmodified":1449073831,
+    "wof:lastmodified":1466189705,
     "wof:name":"Dunne B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [146.476059,-36.179108,146.476059,-36.179108],
-  "geometry": {"coordinates":[146.476059,-36.179108],"type":"Point"}
+  "bbox": [
+    146.476059,
+    -36.179108,
+    146.476059,
+    -36.179108
+],
+  "geometry": {"coordinates":[146.47605899999999,-36.179108],"type":"Point"}
 }

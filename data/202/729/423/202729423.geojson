@@ -2,13 +2,14 @@
   "id": 202729423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.009842,-27.32366,153.009842,-27.32366",
     "geom:latitude":-27.32366,
     "geom:longitude":153.009842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2077 Gympie Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202729423,
-    "wof:lastmodified":1449061399,
+    "wof:lastmodified":1466189388,
     "wof:name":"Bald Hills Tavern & Restaurant",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [153.009842,-27.32366,153.009842,-27.32366],
-  "geometry": {"coordinates":[153.009842,-27.32366],"type":"Point"}
+  "bbox": [
+    153.009842,
+    -27.32366,
+    153.009842,
+    -27.32366
+],
+  "geometry": {"coordinates":[153.00984199999999,-27.32366],"type":"Point"}
 }

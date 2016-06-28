@@ -2,13 +2,14 @@
   "id": 169801849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"117.660423,-31.170403,117.660423,-31.170403",
     "geom:latitude":-31.170403,
     "geom:longitude":117.660423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"King St",
     "sg:city":"Yelbeni",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169801849,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1466188722,
     "wof:name":"Yelbeni General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [117.660423,-31.170403,117.660423,-31.170403],
-  "geometry": {"coordinates":[117.660423,-31.170403],"type":"Point"}
+  "bbox": [
+    117.660423,
+    -31.170403,
+    117.660423,
+    -31.170403
+],
+  "geometry": {"coordinates":[117.66042299999999,-31.170403],"type":"Point"}
 }

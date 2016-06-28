@@ -2,13 +2,14 @@
   "id": 253323553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.287506,-38.052902,145.287506,-38.052902",
     "geom:latitude":-38.052902,
     "geom:longitude":145.287506,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"249- 251 Ormond Rd",
     "sg:city":"Narre Warren South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253323553,
-    "wof:lastmodified":1449063067,
+    "wof:lastmodified":1466190927,
     "wof:name":"Amberly Healthcare",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.287506,-38.052902,145.287506,-38.052902],
-  "geometry": {"coordinates":[145.287506,-38.052902],"type":"Point"}
+  "bbox": [
+    145.287506,
+    -38.052902,
+    145.287506,
+    -38.052902
+],
+  "geometry": {"coordinates":[145.28750600000001,-38.052902],"type":"Point"}
 }

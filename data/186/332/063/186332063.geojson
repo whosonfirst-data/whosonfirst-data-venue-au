@@ -2,13 +2,14 @@
   "id": 186332063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.301727,-33.693279,151.301727,-33.693279",
     "geom:latitude":-33.693279,
     "geom:longitude":151.301727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, 1 Vuko Pl",
     "sg:city":"Warriewood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186332063,
-    "wof:lastmodified":1449051870,
+    "wof:lastmodified":1466188124,
     "wof:name":"Jump The Beach",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parachuting"
     ]
 },
-  "bbox": [151.301727,-33.693279,151.301727,-33.693279],
+  "bbox": [
+    151.301727,
+    -33.693279,
+    151.301727,
+    -33.693279
+],
   "geometry": {"coordinates":[151.301727,-33.693279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186582449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.215485,-41.23798,147.215485,-41.23798",
     "geom:latitude":-41.23798,
     "geom:longitude":147.215485,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 White's Mill Rd",
     "sg:city":"Lilydale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186582449,
-    "wof:lastmodified":1449051825,
+    "wof:lastmodified":1466190979,
     "wof:name":"Mt Arthur Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "convention"
     ]
 },
-  "bbox": [147.215485,-41.23798,147.215485,-41.23798],
+  "bbox": [
+    147.215485,
+    -41.23798,
+    147.215485,
+    -41.23798
+],
   "geometry": {"coordinates":[147.215485,-41.23798],"type":"Point"}
 }

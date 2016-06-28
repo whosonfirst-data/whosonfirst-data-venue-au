@@ -2,13 +2,14 @@
   "id": 169768921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.710785,-38.634995,145.710785,-38.634995",
     "geom:latitude":-38.634995,
     "geom:longitude":145.710785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Florida Ave",
     "sg:city":"Inverloch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169768921,
-    "wof:lastmodified":1449033953,
+    "wof:lastmodified":1466188203,
     "wof:name":"Million Dollar You Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [145.710785,-38.634995,145.710785,-38.634995],
-  "geometry": {"coordinates":[145.710785,-38.634995],"type":"Point"}
+  "bbox": [
+    145.710785,
+    -38.634995,
+    145.710785,
+    -38.634995
+],
+  "geometry": {"coordinates":[145.71078499999999,-38.634995],"type":"Point"}
 }

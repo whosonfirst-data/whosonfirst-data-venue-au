@@ -2,13 +2,14 @@
   "id": 202812965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.708649,-32.920509,151.708649,-32.920509",
     "geom:latitude":-32.920509,
     "geom:longitude":151.708649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Clarence Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202812965,
-    "wof:lastmodified":1449060167,
+    "wof:lastmodified":1466190381,
     "wof:name":"Chris Kimber",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herbalist"
     ]
 },
-  "bbox": [151.708649,-32.920509,151.708649,-32.920509],
-  "geometry": {"coordinates":[151.708649,-32.920509],"type":"Point"}
+  "bbox": [
+    151.708649,
+    -32.920509,
+    151.708649,
+    -32.920509
+],
+  "geometry": {"coordinates":[151.70864900000001,-32.920509],"type":"Point"}
 }

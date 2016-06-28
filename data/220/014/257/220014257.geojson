@@ -2,13 +2,14 @@
   "id": 220014257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.318314,-36.766399,144.318314,-36.766399",
     "geom:latitude":-36.766399,
     "geom:longitude":144.318314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Albert Ave",
     "sg:city":"Strathfieldsaye",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220014257,
-    "wof:lastmodified":1449074424,
+    "wof:lastmodified":1466187024,
     "wof:name":"Just Turn Key Solutions",
     "wof:parent_id":85780101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [144.318314,-36.766399,144.318314,-36.766399],
-  "geometry": {"coordinates":[144.318314,-36.766399],"type":"Point"}
+  "bbox": [
+    144.318314,
+    -36.766399,
+    144.318314,
+    -36.766399
+],
+  "geometry": {"coordinates":[144.31831399999999,-36.766399],"type":"Point"}
 }

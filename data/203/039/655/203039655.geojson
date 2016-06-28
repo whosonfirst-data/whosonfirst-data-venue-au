@@ -2,13 +2,14 @@
   "id": 203039655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.676224,-37.506756,145.676224,-37.506756",
     "geom:latitude":-37.506756,
     "geom:longitude":145.676224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1187 Maroondah Hwy",
     "sg:city":"Narbethong",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203039655,
-    "wof:lastmodified":1449026624,
+    "wof:lastmodified":1466188008,
     "wof:name":"Things of Sand & Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sundial"
     ]
 },
-  "bbox": [145.676224,-37.506756,145.676224,-37.506756],
-  "geometry": {"coordinates":[145.676224,-37.506756],"type":"Point"}
+  "bbox": [
+    145.676224,
+    -37.506756,
+    145.676224,
+    -37.506756
+],
+  "geometry": {"coordinates":[145.67622399999999,-37.506756],"type":"Point"}
 }

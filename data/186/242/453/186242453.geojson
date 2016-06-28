@@ -2,13 +2,14 @@
   "id": 186242453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.924393,-31.440168,152.924393,-31.440168",
     "geom:latitude":-31.440168,
     "geom:longitude":152.924393,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Elizabeth St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186242453,
-    "wof:lastmodified":1449052701,
+    "wof:lastmodified":1466187364,
     "wof:name":"GO 4 U Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [152.924393,-31.440168,152.924393,-31.440168],
-  "geometry": {"coordinates":[152.924393,-31.440168],"type":"Point"}
+  "bbox": [
+    152.924393,
+    -31.440168,
+    152.924393,
+    -31.440168
+],
+  "geometry": {"coordinates":[152.92439300000001,-31.440168],"type":"Point"}
 }

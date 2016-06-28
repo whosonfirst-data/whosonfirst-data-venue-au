@@ -2,13 +2,14 @@
   "id": 219719029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.357544,-31.748652,152.357544,-31.748652",
     "geom:latitude":-31.748652,
     "geom:longitude":152.357544,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Mooral Creek Rd",
     "sg:city":"Strathcedar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219719029,
-    "wof:lastmodified":1449070848,
+    "wof:lastmodified":1466191108,
     "wof:name":"De Burca Rory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "removal"
     ]
 },
-  "bbox": [152.357544,-31.748652,152.357544,-31.748652],
-  "geometry": {"coordinates":[152.357544,-31.748652],"type":"Point"}
+  "bbox": [
+    152.357544,
+    -31.748652,
+    152.357544,
+    -31.748652
+],
+  "geometry": {"coordinates":[152.35754399999999,-31.748652],"type":"Point"}
 }

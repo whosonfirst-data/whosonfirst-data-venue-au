@@ -2,13 +2,14 @@
   "id": 202421739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935638,-37.824547,144.935638,-37.824547",
     "geom:latitude":-37.824547,
     "geom:longitude":144.935638,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202421739,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466188162,
     "wof:name":"RW&S Pty Ltd",
     "wof:parent_id":85776037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [144.935638,-37.824547,144.935638,-37.824547],
-  "geometry": {"coordinates":[144.935638,-37.824547],"type":"Point"}
+  "bbox": [
+    144.935638,
+    -37.824547,
+    144.935638,
+    -37.824547
+],
+  "geometry": {"coordinates":[144.93563800000001,-37.824547],"type":"Point"}
 }

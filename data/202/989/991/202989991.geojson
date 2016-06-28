@@ -2,13 +2,14 @@
   "id": 202989991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.89859,-36.13129,146.89859,-36.13129",
     "geom:latitude":-36.13129,
     "geom:longitude":146.89859,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Thomas Mitchell Drv",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202989991,
-    "wof:lastmodified":1449061955,
+    "wof:lastmodified":1466191157,
     "wof:name":"Tradelink Plumbing Centres",
     "wof:parent_id":85780039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [146.89859,-36.13129,146.89859,-36.13129],
-  "geometry": {"coordinates":[146.89859,-36.13129],"type":"Point"}
+  "bbox": [
+    146.89859,
+    -36.13129,
+    146.89859,
+    -36.13129
+],
+  "geometry": {"coordinates":[146.89859000000001,-36.13129],"type":"Point"}
 }

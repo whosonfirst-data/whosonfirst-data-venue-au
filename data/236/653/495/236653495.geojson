@@ -2,13 +2,14 @@
   "id": 236653495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.134033,-33.995335,151.134033,-33.995335",
     "geom:latitude":-33.995335,
     "geom:longitude":151.134033,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Griffiths St",
     "sg:city":"Sans Souci",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236653495,
-    "wof:lastmodified":1449001855,
+    "wof:lastmodified":1466191623,
     "wof:name":"Nellie's Beauty Essentials",
     "wof:parent_id":85770179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.134033,-33.995335,151.134033,-33.995335],
-  "geometry": {"coordinates":[151.134033,-33.995335],"type":"Point"}
+  "bbox": [
+    151.134033,
+    -33.995335,
+    151.134033,
+    -33.995335
+],
+  "geometry": {"coordinates":[151.13403299999999,-33.995335],"type":"Point"}
 }

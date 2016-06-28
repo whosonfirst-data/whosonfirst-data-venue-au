@@ -2,13 +2,14 @@
   "id": 202933333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.121201,-30.289879,153.121201,-30.289879",
     "geom:latitude":-30.289879,
     "geom:longitude":153.121201,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Pacific Highway & Marcia Street",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202933333,
-    "wof:lastmodified":1449060631,
+    "wof:lastmodified":1466190988,
     "wof:name":"Coffs Harbour Rent A Car",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [153.121201,-30.289879,153.121201,-30.289879],
-  "geometry": {"coordinates":[153.121201,-30.289879],"type":"Point"}
+  "bbox": [
+    153.121201,
+    -30.289879,
+    153.121201,
+    -30.289879
+],
+  "geometry": {"coordinates":[153.12120100000001,-30.289879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253294421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.876511,-31.362888,115.876511,-31.362888",
     "geom:latitude":-31.362888,
     "geom:longitude":115.876511,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Coonabidgee Rd",
     "sg:city":"Gingin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253294421,
-    "wof:lastmodified":1449064940,
+    "wof:lastmodified":1466190731,
     "wof:name":"Gingin Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [115.876511,-31.362888,115.876511,-31.362888],
-  "geometry": {"coordinates":[115.876511,-31.362888],"type":"Point"}
+  "bbox": [
+    115.876511,
+    -31.362888,
+    115.876511,
+    -31.362888
+],
+  "geometry": {"coordinates":[115.87651099999999,-31.362888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219316955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.943329,-38.165359,145.943329,-38.165359",
     "geom:latitude":-38.165359,
     "geom:longitude":145.943329,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Pearse St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219316955,
-    "wof:lastmodified":1449072778,
+    "wof:lastmodified":1466187674,
     "wof:name":"Pearse St Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.943329,-38.165359,145.943329,-38.165359],
-  "geometry": {"coordinates":[145.943329,-38.165359],"type":"Point"}
+  "bbox": [
+    145.943329,
+    -38.165359,
+    145.943329,
+    -38.165359
+],
+  "geometry": {"coordinates":[145.94332900000001,-38.165359],"type":"Point"}
 }

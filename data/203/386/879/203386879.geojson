@@ -2,13 +2,14 @@
   "id": 203386879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.839478,-37.572651,143.839478,-37.572651",
     "geom:latitude":-37.572651,
     "geom:longitude":143.839478,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 50R",
     "sg:city":"Redan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203386879,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466189321,
     "wof:name":"RNF Technologies",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [143.839478,-37.572651,143.839478,-37.572651],
-  "geometry": {"coordinates":[143.839478,-37.572651],"type":"Point"}
+  "bbox": [
+    143.839478,
+    -37.572651,
+    143.839478,
+    -37.572651
+],
+  "geometry": {"coordinates":[143.83947800000001,-37.572651],"type":"Point"}
 }

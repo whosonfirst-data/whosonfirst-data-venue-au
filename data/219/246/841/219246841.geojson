@@ -2,13 +2,14 @@
   "id": 219246841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.014999,-37.778786,145.014999,-37.778786",
     "geom:latitude":-37.778786,
     "geom:longitude":145.014999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Clarke St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219246841,
-    "wof:lastmodified":1449070622,
+    "wof:lastmodified":1466187001,
     "wof:name":"Customised OH&S Solutions",
     "wof:parent_id":85775951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [145.014999,-37.778786,145.014999,-37.778786],
-  "geometry": {"coordinates":[145.014999,-37.778786],"type":"Point"}
+  "bbox": [
+    145.014999,
+    -37.778786,
+    145.014999,
+    -37.778786
+],
+  "geometry": {"coordinates":[145.01499899999999,-37.778786],"type":"Point"}
 }

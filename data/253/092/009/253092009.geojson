@@ -2,13 +2,14 @@
   "id": 253092009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.77829,-37.741924,144.77829,-37.741924",
     "geom:latitude":-37.741924,
     "geom:longitude":144.77829,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Main Rd West",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253092009,
-    "wof:lastmodified":1449065212,
+    "wof:lastmodified":1466188569,
     "wof:name":"St Albans Veterinary Clinic",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [144.77829,-37.741924,144.77829,-37.741924],
+  "bbox": [
+    144.77829,
+    -37.741924,
+    144.77829,
+    -37.741924
+],
   "geometry": {"coordinates":[144.77829,-37.741924],"type":"Point"}
 }

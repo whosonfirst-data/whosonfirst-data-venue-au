@@ -2,13 +2,14 @@
   "id": 236892767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.519287,-35.014763,138.519287,-35.014763",
     "geom:latitude":-35.014763,
     "geom:longitude":138.519287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"King George Ave",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236892767,
-    "wof:lastmodified":1449002040,
+    "wof:lastmodified":1466192082,
     "wof:name":"EFM Health Clubs",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [138.519287,-35.014763,138.519287,-35.014763],
-  "geometry": {"coordinates":[138.519287,-35.014763],"type":"Point"}
+  "bbox": [
+    138.519287,
+    -35.014763,
+    138.519287,
+    -35.014763
+],
+  "geometry": {"coordinates":[138.51928699999999,-35.014763],"type":"Point"}
 }

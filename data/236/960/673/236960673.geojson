@@ -2,13 +2,14 @@
   "id": 236960673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.449585,-37.916752,145.449585,-37.916752",
     "geom:latitude":-37.916752,
     "geom:longitude":145.449585,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Emerald-Monbulk Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236960673,
-    "wof:lastmodified":1449004131,
+    "wof:lastmodified":1466192172,
     "wof:name":"Di Stefano Vincent",
     "wof:parent_id":85769507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [145.449585,-37.916752,145.449585,-37.916752],
-  "geometry": {"coordinates":[145.449585,-37.916752],"type":"Point"}
+  "bbox": [
+    145.449585,
+    -37.916752,
+    145.449585,
+    -37.916752
+],
+  "geometry": {"coordinates":[145.44958500000001,-37.916752],"type":"Point"}
 }

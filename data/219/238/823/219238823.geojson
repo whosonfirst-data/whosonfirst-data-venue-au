@@ -2,13 +2,14 @@
   "id": 219238823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.999207,-37.765793,144.999207,-37.765793",
     "geom:latitude":-37.765793,
     "geom:longitude":144.999207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"487 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219238823,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466189937,
     "wof:name":"For The Love Of Pizza",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.999207,-37.765793,144.999207,-37.765793],
-  "geometry": {"coordinates":[144.999207,-37.765793],"type":"Point"}
+  "bbox": [
+    144.999207,
+    -37.765793,
+    144.999207,
+    -37.765793
+],
+  "geometry": {"coordinates":[144.99920700000001,-37.765793],"type":"Point"}
 }

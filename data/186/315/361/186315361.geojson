@@ -2,13 +2,14 @@
   "id": 186315361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.985847,-31.857922,115.985847,-31.857922",
     "geom:latitude":-31.857922,
     "geom:longitude":115.985847,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 5 4040 West Swan Rd",
     "sg:city":"West Swan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186315361,
-    "wof:lastmodified":1449052901,
+    "wof:lastmodified":1466187886,
     "wof:name":"Eureka Organic Compost",
     "wof:parent_id":85777997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organic"
     ]
 },
-  "bbox": [115.985847,-31.857922,115.985847,-31.857922],
-  "geometry": {"coordinates":[115.985847,-31.857922],"type":"Point"}
+  "bbox": [
+    115.985847,
+    -31.857922,
+    115.985847,
+    -31.857922
+],
+  "geometry": {"coordinates":[115.98584700000001,-31.857922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220130123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.447205,-38.184891,144.447205,-38.184891",
     "geom:latitude":-38.184891,
     "geom:longitude":144.447205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"585 Bellarine Hwy",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220130123,
-    "wof:lastmodified":1449074291,
+    "wof:lastmodified":1466188245,
     "wof:name":"Australasian Accredited Certifications Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "assurance"
     ]
 },
-  "bbox": [144.447205,-38.184891,144.447205,-38.184891],
+  "bbox": [
+    144.447205,
+    -38.184891,
+    144.447205,
+    -38.184891
+],
   "geometry": {"coordinates":[144.447205,-38.184891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253210771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.899902,-27.53344,151.899902,-27.53344",
     "geom:latitude":-27.53344,
     "geom:longitude":151.899902,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Bridge St",
     "sg:city":"Toowoomba City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253210771,
-    "wof:lastmodified":1449063826,
+    "wof:lastmodified":1466190180,
     "wof:name":"Bridge Street Pit Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.899902,-27.53344,151.899902,-27.53344],
+  "bbox": [
+    151.899902,
+    -27.53344,
+    151.899902,
+    -27.53344
+],
   "geometry": {"coordinates":[151.899902,-27.53344],"type":"Point"}
 }

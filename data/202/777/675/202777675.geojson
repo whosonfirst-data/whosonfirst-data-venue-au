@@ -2,13 +2,14 @@
   "id": 202777675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.76889,-32.928242,151.76889,-32.928242",
     "geom:latitude":-32.928242,
     "geom:longitude":151.76889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2 & 3, 24 Honeysuckle Drv",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202777675,
-    "wof:lastmodified":1449061444,
+    "wof:lastmodified":1466190141,
     "wof:name":"GHD",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [151.76889,-32.928242,151.76889,-32.928242],
+  "bbox": [
+    151.76889,
+    -32.928242,
+    151.76889,
+    -32.928242
+],
   "geometry": {"coordinates":[151.76889,-32.928242],"type":"Point"}
 }

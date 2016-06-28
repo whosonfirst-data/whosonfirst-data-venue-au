@@ -2,13 +2,14 @@
   "id": 220179323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.359665,-38.143627,144.359665,-38.143627",
     "geom:latitude":-38.143627,
     "geom:longitude":144.359665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Gheringhap St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220179323,
-    "wof:lastmodified":1449074790,
+    "wof:lastmodified":1466189175,
     "wof:name":"Deakin University",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tertiary"
     ]
 },
-  "bbox": [144.359665,-38.143627,144.359665,-38.143627],
-  "geometry": {"coordinates":[144.359665,-38.143627],"type":"Point"}
+  "bbox": [
+    144.359665,
+    -38.143627,
+    144.359665,
+    -38.143627
+],
+  "geometry": {"coordinates":[144.35966500000001,-38.143627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202389267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.77449,-34.601357,138.77449,-34.601357",
     "geom:latitude":-34.601357,
     "geom:longitude":138.77449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Norman Crt",
     "sg:city":"Gawler East",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202389267,
-    "wof:lastmodified":1449062151,
+    "wof:lastmodified":1466187355,
     "wof:name":"Body Re-Balancing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [138.77449,-34.601357,138.77449,-34.601357],
-  "geometry": {"coordinates":[138.77449,-34.601357],"type":"Point"}
+  "bbox": [
+    138.77449,
+    -34.601357,
+    138.77449,
+    -34.601357
+],
+  "geometry": {"coordinates":[138.77448999999999,-34.601357],"type":"Point"}
 }

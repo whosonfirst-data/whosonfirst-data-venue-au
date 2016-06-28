@@ -2,13 +2,14 @@
   "id": 253120183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.816986,-37.782879,144.816986,-37.782879",
     "geom:latitude":-37.782879,
     "geom:longitude":144.816986,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 McLean St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253120183,
-    "wof:lastmodified":1449065348,
+    "wof:lastmodified":1466189147,
     "wof:name":"Halliwell's (Independent)Transport",
     "wof:parent_id":85776625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [144.816986,-37.782879,144.816986,-37.782879],
-  "geometry": {"coordinates":[144.816986,-37.782879],"type":"Point"}
+  "bbox": [
+    144.816986,
+    -37.782879,
+    144.816986,
+    -37.782879
+],
+  "geometry": {"coordinates":[144.81698600000001,-37.782879],"type":"Point"}
 }

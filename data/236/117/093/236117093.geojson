@@ -2,13 +2,14 @@
   "id": 236117093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.905472,-37.772739,144.905472,-37.772739",
     "geom:latitude":-37.772739,
     "geom:longitude":144.905472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3009 Highpoint City Shopng Cntr",
     "sg:city":"Maribyrnong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236117093,
-    "wof:lastmodified":1449003976,
+    "wof:lastmodified":1466188983,
     "wof:name":"Jumbo Chinese Takeaway",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.905472,-37.772739,144.905472,-37.772739],
+  "bbox": [
+    144.905472,
+    -37.772739,
+    144.905472,
+    -37.772739
+],
   "geometry": {"coordinates":[144.905472,-37.772739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202433129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.9646,-37.849846,144.9646,-37.849846",
     "geom:latitude":-37.849846,
     "geom:longitude":144.9646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Armstrong St",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202433129,
-    "wof:lastmodified":1449060400,
+    "wof:lastmodified":1466188469,
     "wof:name":"Isis Restaurant",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.9646,-37.849846,144.9646,-37.849846],
-  "geometry": {"coordinates":[144.9646,-37.849846],"type":"Point"}
+  "bbox": [
+    144.9646,
+    -37.849846,
+    144.9646,
+    -37.849846
+],
+  "geometry": {"coordinates":[144.96459999999999,-37.849846],"type":"Point"}
 }

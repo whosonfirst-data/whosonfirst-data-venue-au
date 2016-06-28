@@ -2,13 +2,14 @@
   "id": 203318467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840714,-37.588051,143.840714,-37.588051",
     "geom:latitude":-37.588051,
     "geom:longitude":143.840714,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Albert St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203318467,
-    "wof:lastmodified":1449025338,
+    "wof:lastmodified":1466188241,
     "wof:name":"Karl Hogenhout Plumbing",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.840714,-37.588051,143.840714,-37.588051],
-  "geometry": {"coordinates":[143.840714,-37.588051],"type":"Point"}
+  "bbox": [
+    143.840714,
+    -37.588051,
+    143.840714,
+    -37.588051
+],
+  "geometry": {"coordinates":[143.84071399999999,-37.588051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220139845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.361099,-38.147179,144.361099,-38.147179",
     "geom:latitude":-38.147179,
     "geom:longitude":144.361099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63- 67 Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220139845,
-    "wof:lastmodified":1449074102,
+    "wof:lastmodified":1466188385,
     "wof:name":"Bank of Queensland",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.361099,-38.147179,144.361099,-38.147179],
+  "bbox": [
+    144.361099,
+    -38.147179,
+    144.361099,
+    -38.147179
+],
   "geometry": {"coordinates":[144.361099,-38.147179],"type":"Point"}
 }

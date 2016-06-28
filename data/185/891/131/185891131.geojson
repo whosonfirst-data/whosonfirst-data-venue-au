@@ -2,13 +2,14 @@
   "id": 185891131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.693665,-25.523563,152.693665,-25.523563",
     "geom:latitude":-25.523563,
     "geom:longitude":152.693665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 North St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185891131,
-    "wof:lastmodified":1449007586,
+    "wof:lastmodified":1466187793,
     "wof:name":"Maryborough West Preschool",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [152.693665,-25.523563,152.693665,-25.523563],
-  "geometry": {"coordinates":[152.693665,-25.523563],"type":"Point"}
+  "bbox": [
+    152.693665,
+    -25.523563,
+    152.693665,
+    -25.523563
+],
+  "geometry": {"coordinates":[152.69366500000001,-25.523563],"type":"Point"}
 }

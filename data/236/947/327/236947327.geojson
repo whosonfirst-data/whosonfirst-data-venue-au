@@ -2,13 +2,14 @@
   "id": 236947327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.596817,-34.976788,138.596817,-34.976788",
     "geom:latitude":-34.976788,
     "geom:longitude":138.596817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Grange Rd",
     "sg:city":"Westbourne Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236947327,
-    "wof:lastmodified":1449004151,
+    "wof:lastmodified":1466192154,
     "wof:name":"Kromer Stephen",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.596817,-34.976788,138.596817,-34.976788],
-  "geometry": {"coordinates":[138.596817,-34.976788],"type":"Point"}
+  "bbox": [
+    138.596817,
+    -34.976788,
+    138.596817,
+    -34.976788
+],
+  "geometry": {"coordinates":[138.59681699999999,-34.976788],"type":"Point"}
 }

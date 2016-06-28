@@ -2,13 +2,14 @@
   "id": 219745805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.779617,-19.274046,146.779617,-19.274046",
     "geom:latitude":-19.274046,
     "geom:longitude":146.779617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Punari St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219745805,
-    "wof:lastmodified":1449073755,
+    "wof:lastmodified":1466191362,
     "wof:name":"PPI Corporation Pty Ltd",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [146.779617,-19.274046,146.779617,-19.274046],
+  "bbox": [
+    146.779617,
+    -19.274046,
+    146.779617,
+    -19.274046
+],
   "geometry": {"coordinates":[146.779617,-19.274046],"type":"Point"}
 }

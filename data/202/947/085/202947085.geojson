@@ -2,13 +2,14 @@
   "id": 202947085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.135315,-30.284775,153.135315,-30.284775",
     "geom:latitude":-30.284775,
     "geom:longitude":153.135315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2, Pacific Bay Resort",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202947085,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466190879,
     "wof:name":"Pacific Bay Hair Studio",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [153.135315,-30.284775,153.135315,-30.284775],
-  "geometry": {"coordinates":[153.135315,-30.284775],"type":"Point"}
+  "bbox": [
+    153.135315,
+    -30.284775,
+    153.135315,
+    -30.284775
+],
+  "geometry": {"coordinates":[153.13531499999999,-30.284775],"type":"Point"}
 }

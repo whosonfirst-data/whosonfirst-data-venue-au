@@ -2,13 +2,14 @@
   "id": 220142675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.364166,-38.148254,144.364166,-38.148254",
     "geom:latitude":-38.148254,
     "geom:longitude":144.364166,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220142675,
-    "wof:lastmodified":1449074678,
+    "wof:lastmodified":1466188442,
     "wof:name":"Office Works",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.364166,-38.148254,144.364166,-38.148254],
-  "geometry": {"coordinates":[144.364166,-38.148254],"type":"Point"}
+  "bbox": [
+    144.364166,
+    -38.148254,
+    144.364166,
+    -38.148254
+],
+  "geometry": {"coordinates":[144.36416600000001,-38.148254],"type":"Point"}
 }

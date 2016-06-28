@@ -2,13 +2,14 @@
   "id": 202521125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.161194,-38.105236,145.161194,-38.105236",
     "geom:latitude":-38.105236,
     "geom:longitude":145.161194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 / 11a Daniel Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202521125,
-    "wof:lastmodified":1449062521,
+    "wof:lastmodified":1466189754,
     "wof:name":"Stockman Products Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trailer"
     ]
 },
-  "bbox": [145.161194,-38.105236,145.161194,-38.105236],
-  "geometry": {"coordinates":[145.161194,-38.105236],"type":"Point"}
+  "bbox": [
+    145.161194,
+    -38.105236,
+    145.161194,
+    -38.105236
+],
+  "geometry": {"coordinates":[145.16119399999999,-38.105236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169834999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.87413,-31.991945,115.87413,-31.991945",
     "geom:latitude":-31.991945,
     "geom:longitude":115.87413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4/ 47 Monash Ave",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169834999,
-    "wof:lastmodified":1449032976,
+    "wof:lastmodified":1466189269,
     "wof:name":"Cohens Lifestyle Clinic",
     "wof:parent_id":85775651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [115.87413,-31.991945,115.87413,-31.991945],
-  "geometry": {"coordinates":[115.87413,-31.991945],"type":"Point"}
+  "bbox": [
+    115.87413,
+    -31.991945,
+    115.87413,
+    -31.991945
+],
+  "geometry": {"coordinates":[115.87412999999999,-31.991945],"type":"Point"}
 }

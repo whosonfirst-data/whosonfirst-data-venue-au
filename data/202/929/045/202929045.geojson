@@ -2,13 +2,14 @@
   "id": 202929045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.014114,-30.289701,153.014114,-30.289701",
     "geom:latitude":-30.289701,
     "geom:longitude":153.014114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"763 Upper Orara Rd",
     "sg:city":"Upper Orara",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202929045,
-    "wof:lastmodified":1449061087,
+    "wof:lastmodified":1466190980,
     "wof:name":"Orara Valley Internet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "internet"
     ]
 },
-  "bbox": [153.014114,-30.289701,153.014114,-30.289701],
-  "geometry": {"coordinates":[153.014114,-30.289701],"type":"Point"}
+  "bbox": [
+    153.014114,
+    -30.289701,
+    153.014114,
+    -30.289701
+],
+  "geometry": {"coordinates":[153.01411400000001,-30.289701],"type":"Point"}
 }

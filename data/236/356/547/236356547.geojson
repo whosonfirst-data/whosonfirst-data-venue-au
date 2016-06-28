@@ -2,13 +2,14 @@
   "id": 236356547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.80088,-32.060345,115.80088,-32.060345",
     "geom:latitude":-32.060345,
     "geom:longitude":115.80088,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Peel Rd",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236356547,
-    "wof:lastmodified":1449004542,
+    "wof:lastmodified":1466190810,
     "wof:name":"O'Connor Rewind Pty Ltd",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairer"
     ]
 },
-  "bbox": [115.80088,-32.060345,115.80088,-32.060345],
-  "geometry": {"coordinates":[115.80088,-32.060345],"type":"Point"}
+  "bbox": [
+    115.80088,
+    -32.060345,
+    115.80088,
+    -32.060345
+],
+  "geometry": {"coordinates":[115.80088000000001,-32.060345],"type":"Point"}
 }

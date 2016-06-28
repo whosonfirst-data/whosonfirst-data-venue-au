@@ -2,13 +2,14 @@
   "id": 202996155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.505386,-20.704453,140.505386,-20.704453",
     "geom:latitude":-20.704453,
     "geom:longitude":140.505386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Sheaffe & Daintree Sts",
     "sg:city":"Cloncurry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202996155,
-    "wof:lastmodified":1449060800,
+    "wof:lastmodified":1466191165,
     "wof:name":"Cloncurry Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.505386,-20.704453,140.505386,-20.704453],
-  "geometry": {"coordinates":[140.505386,-20.704453],"type":"Point"}
+  "bbox": [
+    140.505386,
+    -20.704453,
+    140.505386,
+    -20.704453
+],
+  "geometry": {"coordinates":[140.50538599999999,-20.704453],"type":"Point"}
 }

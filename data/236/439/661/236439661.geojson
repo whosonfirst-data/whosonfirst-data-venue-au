@@ -2,13 +2,14 @@
   "id": 236439661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.172913,-21.092093,149.172913,-21.092093",
     "geom:latitude":-21.092093,
     "geom:longitude":149.172913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Eaglemount Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236439661,
-    "wof:lastmodified":1449002377,
+    "wof:lastmodified":1466191122,
     "wof:name":"Tony Minic Tiler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [149.172913,-21.092093,149.172913,-21.092093],
-  "geometry": {"coordinates":[149.172913,-21.092093],"type":"Point"}
+  "bbox": [
+    149.172913,
+    -21.092093,
+    149.172913,
+    -21.092093
+],
+  "geometry": {"coordinates":[149.17291299999999,-21.092093],"type":"Point"}
 }

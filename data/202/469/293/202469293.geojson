@@ -2,13 +2,14 @@
   "id": 202469293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.967697,-37.832336,144.967697,-37.832336",
     "geom:latitude":-37.832336,
     "geom:longitude":144.967697,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1013- 38 Bank St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202469293,
-    "wof:lastmodified":1449062736,
+    "wof:lastmodified":1466189054,
     "wof:name":"Yarra Capital",
     "wof:parent_id":85782343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [144.967697,-37.832336,144.967697,-37.832336],
-  "geometry": {"coordinates":[144.967697,-37.832336],"type":"Point"}
+  "bbox": [
+    144.967697,
+    -37.832336,
+    144.967697,
+    -37.832336
+],
+  "geometry": {"coordinates":[144.96769699999999,-37.832336],"type":"Point"}
 }

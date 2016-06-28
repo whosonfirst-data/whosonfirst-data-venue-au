@@ -2,13 +2,14 @@
   "id": 202749029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.858589,-32.065224,115.858589,-32.065224",
     "geom:latitude":-32.065224,
     "geom:longitude":115.858589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Benningfield Rd",
     "sg:city":"Bull Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202749029,
-    "wof:lastmodified":1449060846,
+    "wof:lastmodified":1466189695,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [115.858589,-32.065224,115.858589,-32.065224],
-  "geometry": {"coordinates":[115.858589,-32.065224],"type":"Point"}
+  "bbox": [
+    115.858589,
+    -32.065224,
+    115.858589,
+    -32.065224
+],
+  "geometry": {"coordinates":[115.85858899999999,-32.065224],"type":"Point"}
 }

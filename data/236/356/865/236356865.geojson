@@ -2,13 +2,14 @@
   "id": 236356865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.811478,-32.116741,115.811478,-32.116741",
     "geom:latitude":-32.116741,
     "geom:longitude":115.811478,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Barrington St",
     "sg:city":"Bibra Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236356865,
-    "wof:lastmodified":1449004544,
+    "wof:lastmodified":1466190814,
     "wof:name":"Fusion Piping Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument"
     ]
 },
-  "bbox": [115.811478,-32.116741,115.811478,-32.116741],
-  "geometry": {"coordinates":[115.811478,-32.116741],"type":"Point"}
+  "bbox": [
+    115.811478,
+    -32.116741,
+    115.811478,
+    -32.116741
+],
+  "geometry": {"coordinates":[115.81147799999999,-32.116741],"type":"Point"}
 }

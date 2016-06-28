@@ -2,13 +2,14 @@
   "id": 186403511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.803833,-19.268488,146.803833,-19.268488",
     "geom:latitude":-19.268488,
     "geom:longitude":146.803833,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186403511,
-    "wof:lastmodified":1449052643,
+    "wof:lastmodified":1466189363,
     "wof:name":"TADEC",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [146.803833,-19.268488,146.803833,-19.268488],
+  "bbox": [
+    146.803833,
+    -19.268488,
+    146.803833,
+    -19.268488
+],
   "geometry": {"coordinates":[146.803833,-19.268488],"type":"Point"}
 }

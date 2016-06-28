@@ -2,13 +2,14 @@
   "id": 203100275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.737709,-32.545055,115.737709,-32.545055",
     "geom:latitude":-32.545055,
     "geom:longitude":115.737709,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Manildra Drv",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203100275,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1466189056,
     "wof:name":"Mangosteen",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [115.737709,-32.545055,115.737709,-32.545055],
+  "bbox": [
+    115.737709,
+    -32.545055,
+    115.737709,
+    -32.545055
+],
   "geometry": {"coordinates":[115.737709,-32.545055],"type":"Point"}
 }

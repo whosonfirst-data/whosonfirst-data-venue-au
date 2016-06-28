@@ -2,13 +2,14 @@
   "id": 203007993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.493835,-20.722483,139.493835,-20.722483",
     "geom:latitude":-20.722483,
     "geom:longitude":139.493835,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/ 8 Simpson St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203007993,
-    "wof:lastmodified":1449026518,
+    "wof:lastmodified":1466187173,
     "wof:name":"Bare Elegance",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.493835,-20.722483,139.493835,-20.722483],
-  "geometry": {"coordinates":[139.493835,-20.722483],"type":"Point"}
+  "bbox": [
+    139.493835,
+    -20.722483,
+    139.493835,
+    -20.722483
+],
+  "geometry": {"coordinates":[139.49383499999999,-20.722483],"type":"Point"}
 }

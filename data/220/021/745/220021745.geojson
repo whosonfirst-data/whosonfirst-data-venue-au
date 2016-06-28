@@ -2,13 +2,14 @@
   "id": 220021745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.625793,-35.006271,138.625793,-35.006271",
     "geom:latitude":-35.006271,
     "geom:longitude":138.625793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Blackwood Hospital Laffers Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220021745,
-    "wof:lastmodified":1449074558,
+    "wof:lastmodified":1466187169,
     "wof:name":"Australian Foot & Ankle Surgicentre",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [138.625793,-35.006271,138.625793,-35.006271],
-  "geometry": {"coordinates":[138.625793,-35.006271],"type":"Point"}
+  "bbox": [
+    138.625793,
+    -35.006271,
+    138.625793,
+    -35.006271
+],
+  "geometry": {"coordinates":[138.62579299999999,-35.006271],"type":"Point"}
 }

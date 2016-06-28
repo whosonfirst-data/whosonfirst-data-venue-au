@@ -2,13 +2,14 @@
   "id": 186563899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.284454,-33.644852,151.284454,-33.644852",
     "geom:latitude":-33.644852,
     "geom:longitude":151.284454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 409",
     "sg:city":"Church Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186563899,
-    "wof:lastmodified":1449050302,
+    "wof:lastmodified":1466190903,
     "wof:name":"Zen At Work",
     "wof:parent_id":85774673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.284454,-33.644852,151.284454,-33.644852],
-  "geometry": {"coordinates":[151.284454,-33.644852],"type":"Point"}
+  "bbox": [
+    151.284454,
+    -33.644852,
+    151.284454,
+    -33.644852
+],
+  "geometry": {"coordinates":[151.28445400000001,-33.644852],"type":"Point"}
 }

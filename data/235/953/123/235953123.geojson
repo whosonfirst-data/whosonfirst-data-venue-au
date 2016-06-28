@@ -2,13 +2,14 @@
   "id": 235953123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.895004,-12.391852,130.895004,-12.391852",
     "geom:latitude":-12.391852,
     "geom:longitude":130.895004,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Spring Hill St",
     "sg:city":"Anula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235953123,
-    "wof:lastmodified":1449008470,
+    "wof:lastmodified":1466187092,
     "wof:name":"Insitu Concrete",
     "wof:parent_id":85774855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [130.895004,-12.391852,130.895004,-12.391852],
+  "bbox": [
+    130.895004,
+    -12.391852,
+    130.895004,
+    -12.391852
+],
   "geometry": {"coordinates":[130.895004,-12.391852],"type":"Point"}
 }

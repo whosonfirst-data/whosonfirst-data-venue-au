@@ -2,13 +2,14 @@
   "id": 202683809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.965729,-27.345329,152.965729,-27.345329",
     "geom:latitude":-27.345329,
     "geom:longitude":152.965729,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 23, Albany Creek Market Place, 720 Albany Cre",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202683809,
-    "wof:lastmodified":1449061044,
+    "wof:lastmodified":1466188532,
     "wof:name":"Harvey World Travel",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [152.965729,-27.345329,152.965729,-27.345329],
-  "geometry": {"coordinates":[152.965729,-27.345329],"type":"Point"}
+  "bbox": [
+    152.965729,
+    -27.345329,
+    152.965729,
+    -27.345329
+],
+  "geometry": {"coordinates":[152.96572900000001,-27.345329],"type":"Point"}
 }

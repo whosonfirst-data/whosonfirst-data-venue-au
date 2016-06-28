@@ -2,13 +2,14 @@
   "id": 202814087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.709625,-32.924026,151.709625,-32.924026",
     "geom:latitude":-32.924026,
     "geom:longitude":151.709625,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Portland Pl",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202814087,
-    "wof:lastmodified":1449060571,
+    "wof:lastmodified":1466190390,
     "wof:name":"Trimble Lee",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.709625,-32.924026,151.709625,-32.924026],
-  "geometry": {"coordinates":[151.709625,-32.924026],"type":"Point"}
+  "bbox": [
+    151.709625,
+    -32.924026,
+    151.709625,
+    -32.924026
+],
+  "geometry": {"coordinates":[151.70962499999999,-32.924026],"type":"Point"}
 }

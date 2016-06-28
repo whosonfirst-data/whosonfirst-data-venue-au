@@ -2,13 +2,14 @@
   "id": 202944595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.114838,-30.297539,153.114838,-30.297539",
     "geom:latitude":-30.297539,
     "geom:longitude":153.114838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Park Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202944595,
-    "wof:lastmodified":1449061392,
+    "wof:lastmodified":1466191064,
     "wof:name":"Byrne Miller Batey",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [153.114838,-30.297539,153.114838,-30.297539],
-  "geometry": {"coordinates":[153.114838,-30.297539],"type":"Point"}
+  "bbox": [
+    153.114838,
+    -30.297539,
+    153.114838,
+    -30.297539
+],
+  "geometry": {"coordinates":[153.11483799999999,-30.297539],"type":"Point"}
 }

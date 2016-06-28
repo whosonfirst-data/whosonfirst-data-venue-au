@@ -2,13 +2,14 @@
   "id": 202779181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.747559,-32.908562,151.747559,-32.908562",
     "geom:latitude":-32.908562,
     "geom:longitude":151.747559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Maitland Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202779181,
-    "wof:lastmodified":1449060493,
+    "wof:lastmodified":1466190157,
     "wof:name":"Electrical Trades Union Of Aust",
     "wof:parent_id":85777121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [151.747559,-32.908562,151.747559,-32.908562],
+  "bbox": [
+    151.747559,
+    -32.908562,
+    151.747559,
+    -32.908562
+],
   "geometry": {"coordinates":[151.747559,-32.908562],"type":"Point"}
 }

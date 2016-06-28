@@ -2,13 +2,14 @@
   "id": 219522221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.104263,-33.909824,151.104263,-33.909824",
     "geom:latitude":-33.909824,
     "geom:longitude":151.104263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Room 3, 37 North Pde",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219522221,
-    "wof:lastmodified":1449072072,
+    "wof:lastmodified":1466189935,
     "wof:name":"Campsie Podiatry",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [151.104263,-33.909824,151.104263,-33.909824],
+  "bbox": [
+    151.104263,
+    -33.909824,
+    151.104263,
+    -33.909824
+],
   "geometry": {"coordinates":[151.104263,-33.909824],"type":"Point"}
 }

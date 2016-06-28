@@ -2,13 +2,14 @@
   "id": 186420473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.81842,-19.275011,146.81842,-19.275011",
     "geom:latitude":-19.275011,
     "geom:longitude":146.81842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 102 Eleventh Ave",
     "sg:city":"Railway Estate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186420473,
-    "wof:lastmodified":1449051662,
+    "wof:lastmodified":1466189651,
     "wof:name":"Sun City Courier",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [146.81842,-19.275011,146.81842,-19.275011],
+  "bbox": [
+    146.81842,
+    -19.275011,
+    146.81842,
+    -19.275011
+],
   "geometry": {"coordinates":[146.81842,-19.275011],"type":"Point"}
 }

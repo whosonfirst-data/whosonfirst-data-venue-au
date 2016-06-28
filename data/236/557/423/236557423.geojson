@@ -2,13 +2,14 @@
   "id": 236557423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.020813,-33.937527,151.020813,-33.937527",
     "geom:latitude":-33.937527,
     "geom:longitude":151.020813,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Marigold St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236557423,
-    "wof:lastmodified":1449004108,
+    "wof:lastmodified":1466191484,
     "wof:name":"Forparts",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [151.020813,-33.937527,151.020813,-33.937527],
+  "bbox": [
+    151.020813,
+    -33.937527,
+    151.020813,
+    -33.937527
+],
   "geometry": {"coordinates":[151.020813,-33.937527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219723283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.371704,-31.868685,152.371704,-31.868685",
     "geom:latitude":-31.868685,
     "geom:longitude":152.371704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Isabella St",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219723283,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466191198,
     "wof:name":"Wingham Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [152.371704,-31.868685,152.371704,-31.868685],
-  "geometry": {"coordinates":[152.371704,-31.868685],"type":"Point"}
+  "bbox": [
+    152.371704,
+    -31.868685,
+    152.371704,
+    -31.868685
+],
+  "geometry": {"coordinates":[152.37170399999999,-31.868685],"type":"Point"}
 }

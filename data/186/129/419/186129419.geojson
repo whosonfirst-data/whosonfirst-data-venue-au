@@ -2,13 +2,14 @@
   "id": 186129419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.799896,-31.322626,152.799896,-31.322626",
     "geom:latitude":-31.322626,
     "geom:longitude":152.799896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Rollands Plains Rd",
     "sg:city":"Telegraph Point",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186129419,
-    "wof:lastmodified":1449052492,
+    "wof:lastmodified":1466189647,
     "wof:name":"Riverview Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [152.799896,-31.322626,152.799896,-31.322626],
-  "geometry": {"coordinates":[152.799896,-31.322626],"type":"Point"}
+  "bbox": [
+    152.799896,
+    -31.322626,
+    152.799896,
+    -31.322626
+],
+  "geometry": {"coordinates":[152.79989599999999,-31.322626],"type":"Point"}
 }

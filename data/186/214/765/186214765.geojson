@@ -2,13 +2,14 @@
   "id": 186214765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.929764,-31.457939,152.929764,-31.457939",
     "geom:latitude":-31.457939,
     "geom:longitude":152.929764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Pacific Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186214765,
-    "wof:lastmodified":1449052953,
+    "wof:lastmodified":1466187172,
     "wof:name":"Spot-On Painting In The Hastings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wallcovering"
     ]
 },
-  "bbox": [152.929764,-31.457939,152.929764,-31.457939],
-  "geometry": {"coordinates":[152.929764,-31.457939],"type":"Point"}
+  "bbox": [
+    152.929764,
+    -31.457939,
+    152.929764,
+    -31.457939
+],
+  "geometry": {"coordinates":[152.92976400000001,-31.457939],"type":"Point"}
 }

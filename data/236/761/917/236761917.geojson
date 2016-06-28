@@ -2,13 +2,14 @@
   "id": 236761917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.949356,-27.084467,152.949356,-27.084467",
     "geom:latitude":-27.084467,
     "geom:longitude":152.949356,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3 69 King St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236761917,
-    "wof:lastmodified":1449004301,
+    "wof:lastmodified":1466191907,
     "wof:name":"Roberts Bev",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.949356,-27.084467,152.949356,-27.084467],
-  "geometry": {"coordinates":[152.949356,-27.084467],"type":"Point"}
+  "bbox": [
+    152.949356,
+    -27.084467,
+    152.949356,
+    -27.084467
+],
+  "geometry": {"coordinates":[152.94935599999999,-27.084467],"type":"Point"}
 }

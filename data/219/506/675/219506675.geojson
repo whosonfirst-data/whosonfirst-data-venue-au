@@ -2,13 +2,14 @@
   "id": 219506675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.077423,-33.909485,151.077423,-33.909485",
     "geom:latitude":-33.909485,
     "geom:longitude":151.077423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Benaroon Rd",
     "sg:city":"Belmore",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219506675,
-    "wof:lastmodified":1449070446,
+    "wof:lastmodified":1466189635,
     "wof:name":"Alpene Equipment Hire Pty Ltd",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.077423,-33.909485,151.077423,-33.909485],
-  "geometry": {"coordinates":[151.077423,-33.909485],"type":"Point"}
+  "bbox": [
+    151.077423,
+    -33.909485,
+    151.077423,
+    -33.909485
+],
+  "geometry": {"coordinates":[151.07742300000001,-33.909485],"type":"Point"}
 }

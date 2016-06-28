@@ -2,13 +2,14 @@
   "id": 186508419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.767914,-19.263641,146.767914,-19.263641",
     "geom:latitude":-19.263641,
     "geom:longitude":146.767914,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Ingham Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186508419,
-    "wof:lastmodified":1449051887,
+    "wof:lastmodified":1466190593,
     "wof:name":"Boc Ltd",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [146.767914,-19.263641,146.767914,-19.263641],
-  "geometry": {"coordinates":[146.767914,-19.263641],"type":"Point"}
+  "bbox": [
+    146.767914,
+    -19.263641,
+    146.767914,
+    -19.263641
+],
+  "geometry": {"coordinates":[146.76791399999999,-19.263641],"type":"Point"}
 }

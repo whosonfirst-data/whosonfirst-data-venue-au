@@ -2,13 +2,14 @@
   "id": 202922305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.138077,-30.301023,153.138077,-30.301023",
     "geom:latitude":-30.301023,
     "geom:longitude":153.138077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 2/ 49 Grafton St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202922305,
-    "wof:lastmodified":1449060343,
+    "wof:lastmodified":1466190941,
     "wof:name":"Coffs Coastal Hearing Services",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hearing"
     ]
 },
-  "bbox": [153.138077,-30.301023,153.138077,-30.301023],
-  "geometry": {"coordinates":[153.138077,-30.301023],"type":"Point"}
+  "bbox": [
+    153.138077,
+    -30.301023,
+    153.138077,
+    -30.301023
+],
+  "geometry": {"coordinates":[153.13807700000001,-30.301023],"type":"Point"}
 }

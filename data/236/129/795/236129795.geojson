@@ -2,13 +2,14 @@
   "id": 236129795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.873459,-37.742771,144.873459,-37.742771",
     "geom:latitude":-37.742771,
     "geom:longitude":144.873459,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Noga Ave",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236129795,
-    "wof:lastmodified":1449004482,
+    "wof:lastmodified":1466189241,
     "wof:name":"Goetz Building & Carpentry",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.873459,-37.742771,144.873459,-37.742771],
+  "bbox": [
+    144.873459,
+    -37.742771,
+    144.873459,
+    -37.742771
+],
   "geometry": {"coordinates":[144.873459,-37.742771],"type":"Point"}
 }

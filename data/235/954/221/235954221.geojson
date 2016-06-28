@@ -2,13 +2,14 @@
   "id": 235954221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.899353,-12.37833,130.899353,-12.37833",
     "geom:latitude":-12.37833,
     "geom:longitude":130.899353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Savannah Drv",
     "sg:city":"Leanyer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235954221,
-    "wof:lastmodified":1449008561,
+    "wof:lastmodified":1466187116,
     "wof:name":"Franklin & De Ionno",
     "wof:parent_id":85774863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [130.899353,-12.37833,130.899353,-12.37833],
-  "geometry": {"coordinates":[130.899353,-12.37833],"type":"Point"}
+  "bbox": [
+    130.899353,
+    -12.37833,
+    130.899353,
+    -12.37833
+],
+  "geometry": {"coordinates":[130.89935299999999,-12.37833],"type":"Point"}
 }

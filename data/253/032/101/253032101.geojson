@@ -2,13 +2,14 @@
   "id": 253032101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.791489,-37.828629,144.791489,-37.828629",
     "geom:latitude":-37.828629,
     "geom:longitude":144.791489,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dohertys Rd",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253032101,
-    "wof:lastmodified":1449064267,
+    "wof:lastmodified":1466187560,
     "wof:name":"Cummins South Pacific Pty Ltd",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diesel"
     ]
 },
-  "bbox": [144.791489,-37.828629,144.791489,-37.828629],
-  "geometry": {"coordinates":[144.791489,-37.828629],"type":"Point"}
+  "bbox": [
+    144.791489,
+    -37.828629,
+    144.791489,
+    -37.828629
+],
+  "geometry": {"coordinates":[144.79148900000001,-37.828629],"type":"Point"}
 }

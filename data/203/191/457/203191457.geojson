@@ -2,13 +2,14 @@
   "id": 203191457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.721008,-41.010868,145.721008,-41.010868",
     "geom:latitude":-41.010868,
     "geom:longitude":145.721008,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Reservoir Drv",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203191457,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466186936,
     "wof:name":"Wilson's Hatchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.721008,-41.010868,145.721008,-41.010868],
-  "geometry": {"coordinates":[145.721008,-41.010868],"type":"Point"}
+  "bbox": [
+    145.721008,
+    -41.010868,
+    145.721008,
+    -41.010868
+],
+  "geometry": {"coordinates":[145.72100800000001,-41.010868],"type":"Point"}
 }

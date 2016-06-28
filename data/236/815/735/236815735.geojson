@@ -2,13 +2,14 @@
   "id": 236815735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.879578,-34.426174,150.879578,-34.426174",
     "geom:latitude":-34.426174,
     "geom:longitude":150.879578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 425 Crown St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236815735,
-    "wof:lastmodified":1449003210,
+    "wof:lastmodified":1466191978,
     "wof:name":"Bezerkly Automotive",
     "wof:parent_id":85769695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [150.879578,-34.426174,150.879578,-34.426174],
-  "geometry": {"coordinates":[150.879578,-34.426174],"type":"Point"}
+  "bbox": [
+    150.879578,
+    -34.426174,
+    150.879578,
+    -34.426174
+],
+  "geometry": {"coordinates":[150.87957800000001,-34.426174],"type":"Point"}
 }

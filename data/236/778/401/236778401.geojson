@@ -2,13 +2,14 @@
   "id": 236778401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.939423,-27.020367,152.939423,-27.020367",
     "geom:latitude":-27.020367,
     "geom:longitude":152.939423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Kirrang Drv",
     "sg:city":"Elimbah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236778401,
-    "wof:lastmodified":1449001730,
+    "wof:lastmodified":1466191929,
     "wof:name":"Glasshouse Orchids",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.939423,-27.020367,152.939423,-27.020367],
-  "geometry": {"coordinates":[152.939423,-27.020367],"type":"Point"}
+  "bbox": [
+    152.939423,
+    -27.020367,
+    152.939423,
+    -27.020367
+],
+  "geometry": {"coordinates":[152.93942300000001,-27.020367],"type":"Point"}
 }

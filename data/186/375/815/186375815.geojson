@@ -2,13 +2,14 @@
   "id": 186375815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156052,-33.852371,151.156052,-33.852371",
     "geom:latitude":-33.852371,
     "geom:longitude":151.156052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186375815,
-    "wof:lastmodified":1449050363,
+    "wof:lastmodified":1466188926,
     "wof:name":"Just Bathroomware",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.156052,-33.852371,151.156052,-33.852371],
-  "geometry": {"coordinates":[151.156052,-33.852371],"type":"Point"}
+  "bbox": [
+    151.156052,
+    -33.852371,
+    151.156052,
+    -33.852371
+],
+  "geometry": {"coordinates":[151.15605199999999,-33.852371],"type":"Point"}
 }

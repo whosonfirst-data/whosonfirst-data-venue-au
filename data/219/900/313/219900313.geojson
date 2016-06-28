@@ -2,13 +2,14 @@
   "id": 219900313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.889587,-34.385735,150.889587,-34.385735",
     "geom:latitude":-34.385735,
     "geom:longitude":150.889587,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Alexander St",
     "sg:city":"Fairy Meadow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219900313,
-    "wof:lastmodified":1449071905,
+    "wof:lastmodified":1466191680,
     "wof:name":"South Coast Homoeopathic Medicine Centres",
     "wof:parent_id":85770493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homoeopath"
     ]
 },
-  "bbox": [150.889587,-34.385735,150.889587,-34.385735],
-  "geometry": {"coordinates":[150.889587,-34.385735],"type":"Point"}
+  "bbox": [
+    150.889587,
+    -34.385735,
+    150.889587,
+    -34.385735
+],
+  "geometry": {"coordinates":[150.88958700000001,-34.385735],"type":"Point"}
 }

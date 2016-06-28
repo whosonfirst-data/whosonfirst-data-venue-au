@@ -2,13 +2,14 @@
   "id": 236336297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.78064,-32.074772,115.78064,-32.074772",
     "geom:latitude":-32.074772,
     "geom:longitude":115.78064,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Winterfold Rd",
     "sg:city":"Hamilton Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236336297,
-    "wof:lastmodified":1449001628,
+    "wof:lastmodified":1466190718,
     "wof:name":"Quix Food Stores",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.78064,-32.074772,115.78064,-32.074772],
-  "geometry": {"coordinates":[115.78064,-32.074772],"type":"Point"}
+  "bbox": [
+    115.78064,
+    -32.074772,
+    115.78064,
+    -32.074772
+],
+  "geometry": {"coordinates":[115.78064000000001,-32.074772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186543073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.663925,-19.239189,146.663925,-19.239189",
     "geom:latitude":-19.239189,
     "geom:longitude":146.663925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 267",
     "sg:city":"Deeragun",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186543073,
-    "wof:lastmodified":1449050932,
+    "wof:lastmodified":1466190887,
     "wof:name":"Northside Forktrucks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [146.663925,-19.239189,146.663925,-19.239189],
-  "geometry": {"coordinates":[146.663925,-19.239189],"type":"Point"}
+  "bbox": [
+    146.663925,
+    -19.239189,
+    146.663925,
+    -19.239189
+],
+  "geometry": {"coordinates":[146.66392500000001,-19.239189],"type":"Point"}
 }

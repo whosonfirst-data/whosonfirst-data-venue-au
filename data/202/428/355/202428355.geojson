@@ -2,13 +2,14 @@
   "id": 202428355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961945,-37.846516,144.961945,-37.846516",
     "geom:latitude":-37.846516,
     "geom:longitude":144.961945,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Canterbury Rd",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202428355,
-    "wof:lastmodified":1449062469,
+    "wof:lastmodified":1466188368,
     "wof:name":"Antony & Associates Pty Ltd",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.961945,-37.846516,144.961945,-37.846516],
-  "geometry": {"coordinates":[144.961945,-37.846516],"type":"Point"}
+  "bbox": [
+    144.961945,
+    -37.846516,
+    144.961945,
+    -37.846516
+],
+  "geometry": {"coordinates":[144.96194499999999,-37.846516],"type":"Point"}
 }

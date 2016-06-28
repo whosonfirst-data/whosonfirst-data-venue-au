@@ -2,13 +2,14 @@
   "id": 203121443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.748787,-32.511612,115.748787,-32.511612",
     "geom:latitude":-32.511612,
     "geom:longitude":115.748787,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Slade & Hampton Sts",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203121443,
-    "wof:lastmodified":1449026416,
+    "wof:lastmodified":1466189377,
     "wof:name":"Kar Kleen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [115.748787,-32.511612,115.748787,-32.511612],
-  "geometry": {"coordinates":[115.748787,-32.511612],"type":"Point"}
+  "bbox": [
+    115.748787,
+    -32.511612,
+    115.748787,
+    -32.511612
+],
+  "geometry": {"coordinates":[115.74878699999999,-32.511612],"type":"Point"}
 }

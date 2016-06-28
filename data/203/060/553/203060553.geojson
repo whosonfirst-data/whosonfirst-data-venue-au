@@ -2,13 +2,14 @@
   "id": 203060553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.930145,-33.726898,150.930145,-33.726898",
     "geom:latitude":-33.726898,
     "geom:longitude":150.930145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Orchard Pl",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203060553,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466188404,
     "wof:name":"Hills Horticultural Services",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [150.930145,-33.726898,150.930145,-33.726898],
-  "geometry": {"coordinates":[150.930145,-33.726898],"type":"Point"}
+  "bbox": [
+    150.930145,
+    -33.726898,
+    150.930145,
+    -33.726898
+],
+  "geometry": {"coordinates":[150.93014500000001,-33.726898],"type":"Point"}
 }

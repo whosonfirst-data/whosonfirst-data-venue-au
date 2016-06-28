@@ -2,13 +2,14 @@
   "id": 236113567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.932297,-37.780571,144.932297,-37.780571",
     "geom:latitude":-37.780571,
     "geom:longitude":144.932297,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Mt Alexander Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236113567,
-    "wof:lastmodified":1449004923,
+    "wof:lastmodified":1466188909,
     "wof:name":"Variad Pty Ltd",
     "wof:parent_id":85776501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellulose"
     ]
 },
-  "bbox": [144.932297,-37.780571,144.932297,-37.780571],
-  "geometry": {"coordinates":[144.932297,-37.780571],"type":"Point"}
+  "bbox": [
+    144.932297,
+    -37.780571,
+    144.932297,
+    -37.780571
+],
+  "geometry": {"coordinates":[144.93229700000001,-37.780571],"type":"Point"}
 }

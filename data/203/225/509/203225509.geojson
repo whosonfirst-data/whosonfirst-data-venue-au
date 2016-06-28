@@ -2,13 +2,14 @@
   "id": 203225509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.916733,-41.125546,145.916733,-41.125546",
     "geom:latitude":-41.125546,
     "geom:longitude":145.916733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Glance Creek Rd",
     "sg:city":"Stowport",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203225509,
-    "wof:lastmodified":1449025497,
+    "wof:lastmodified":1466187369,
     "wof:name":"Stowport Bulk Meats & Butchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abattoir"
     ]
 },
-  "bbox": [145.916733,-41.125546,145.916733,-41.125546],
-  "geometry": {"coordinates":[145.916733,-41.125546],"type":"Point"}
+  "bbox": [
+    145.916733,
+    -41.125546,
+    145.916733,
+    -41.125546
+],
+  "geometry": {"coordinates":[145.91673299999999,-41.125546],"type":"Point"}
 }

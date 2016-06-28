@@ -2,13 +2,14 @@
   "id": 186465473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156265,-33.87558,151.156265,-33.87558",
     "geom:latitude":-33.87558,
     "geom:longitude":151.156265,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"267- 277 Norton St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186465473,
-    "wof:lastmodified":1449052174,
+    "wof:lastmodified":1466190279,
     "wof:name":"Amatos Liquor Mart",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.156265,-33.87558,151.156265,-33.87558],
-  "geometry": {"coordinates":[151.156265,-33.87558],"type":"Point"}
+  "bbox": [
+    151.156265,
+    -33.87558,
+    151.156265,
+    -33.87558
+],
+  "geometry": {"coordinates":[151.15626499999999,-33.87558],"type":"Point"}
 }

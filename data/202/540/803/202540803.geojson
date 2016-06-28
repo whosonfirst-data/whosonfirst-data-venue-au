@@ -2,13 +2,14 @@
   "id": 202540803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.69249,-33.182579,148.69249,-33.182579",
     "geom:latitude":-33.182579,
     "geom:longitude":148.69249,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Orange St",
     "sg:city":"Manildra",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202540803,
-    "wof:lastmodified":1449061122,
+    "wof:lastmodified":1466189881,
     "wof:name":"AJ & KM Gosper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "grading"
     ]
 },
-  "bbox": [148.69249,-33.182579,148.69249,-33.182579],
-  "geometry": {"coordinates":[148.69249,-33.182579],"type":"Point"}
+  "bbox": [
+    148.69249,
+    -33.182579,
+    148.69249,
+    -33.182579
+],
+  "geometry": {"coordinates":[148.69248999999999,-33.182579],"type":"Point"}
 }

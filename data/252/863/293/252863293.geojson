@@ -2,13 +2,14 @@
   "id": 252863293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.171341,-38.046497,144.171341,-38.046497",
     "geom:latitude":-38.046497,
     "geom:longitude":144.171341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 High St",
     "sg:city":"Bannockburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252863293,
-    "wof:lastmodified":1449006144,
+    "wof:lastmodified":1466188662,
     "wof:name":"Bannockburn Take Away",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [144.171341,-38.046497,144.171341,-38.046497],
-  "geometry": {"coordinates":[144.171341,-38.046497],"type":"Point"}
+  "bbox": [
+    144.171341,
+    -38.046497,
+    144.171341,
+    -38.046497
+],
+  "geometry": {"coordinates":[144.17134100000001,-38.046497],"type":"Point"}
 }

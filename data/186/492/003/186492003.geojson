@@ -2,13 +2,14 @@
   "id": 186492003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.743546,-19.3207,146.743546,-19.3207",
     "geom:latitude":-19.3207,
     "geom:longitude":146.743546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Riverbend Drv",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186492003,
-    "wof:lastmodified":1449050252,
+    "wof:lastmodified":1466190320,
     "wof:name":"PC Mobile Support",
     "wof:parent_id":85779537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [146.743546,-19.3207,146.743546,-19.3207],
-  "geometry": {"coordinates":[146.743546,-19.3207],"type":"Point"}
+  "bbox": [
+    146.743546,
+    -19.3207,
+    146.743546,
+    -19.3207
+],
+  "geometry": {"coordinates":[146.74354600000001,-19.3207],"type":"Point"}
 }

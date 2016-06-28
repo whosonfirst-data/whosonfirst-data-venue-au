@@ -2,13 +2,14 @@
   "id": 185999857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.492203,-33.361267,151.492203,-33.361267",
     "geom:latitude":-33.361267,
     "geom:longitude":151.492203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Stella St",
     "sg:city":"Toowoon Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185999857,
-    "wof:lastmodified":1449008023,
+    "wof:lastmodified":1466188904,
     "wof:name":"Iras Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "relation"
     ]
 },
-  "bbox": [151.492203,-33.361267,151.492203,-33.361267],
-  "geometry": {"coordinates":[151.492203,-33.361267],"type":"Point"}
+  "bbox": [
+    151.492203,
+    -33.361267,
+    151.492203,
+    -33.361267
+],
+  "geometry": {"coordinates":[151.49220299999999,-33.361267],"type":"Point"}
 }

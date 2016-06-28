@@ -2,13 +2,14 @@
   "id": 219396543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.018234,-27.993744,153.018234,-27.993744",
     "geom:latitude":-27.993744,
     "geom:longitude":153.018234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4323 Beaudesert-Nerang Rd",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219396543,
-    "wof:lastmodified":1449072701,
+    "wof:lastmodified":1466188340,
     "wof:name":"Ken Johnstone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "glazier"
     ]
 },
-  "bbox": [153.018234,-27.993744,153.018234,-27.993744],
-  "geometry": {"coordinates":[153.018234,-27.993744],"type":"Point"}
+  "bbox": [
+    153.018234,
+    -27.993744,
+    153.018234,
+    -27.993744
+],
+  "geometry": {"coordinates":[153.01823400000001,-27.993744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220022777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.615753,-35.021446,138.615753,-35.021446",
     "geom:latitude":-35.021446,
     "geom:longitude":138.615753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Shepherds Hill Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220022777,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466187186,
     "wof:name":"Blackwood Lingerie",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sleepwear"
     ]
 },
-  "bbox": [138.615753,-35.021446,138.615753,-35.021446],
-  "geometry": {"coordinates":[138.615753,-35.021446],"type":"Point"}
+  "bbox": [
+    138.615753,
+    -35.021446,
+    138.615753,
+    -35.021446
+],
+  "geometry": {"coordinates":[138.61575300000001,-35.021446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185826355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.818497,-25.253658,152.818497,-25.253658",
     "geom:latitude":-25.253658,
     "geom:longitude":152.818497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Corser St",
     "sg:city":"Point Vernon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185826355,
-    "wof:lastmodified":1449007758,
+    "wof:lastmodified":1466187043,
     "wof:name":"Point Vernon Fiveways",
     "wof:parent_id":85770021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.818497,-25.253658,152.818497,-25.253658],
-  "geometry": {"coordinates":[152.818497,-25.253658],"type":"Point"}
+  "bbox": [
+    152.818497,
+    -25.253658,
+    152.818497,
+    -25.253658
+],
+  "geometry": {"coordinates":[152.81849700000001,-25.253658],"type":"Point"}
 }

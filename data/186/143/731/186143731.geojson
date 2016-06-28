@@ -2,13 +2,14 @@
   "id": 186143731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.733185,-31.461796,152.733185,-31.461796",
     "geom:latitude":-31.461796,
     "geom:longitude":152.733185,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Cameron St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186143731,
-    "wof:lastmodified":1449052554,
+    "wof:lastmodified":1466189737,
     "wof:name":"Wauchope Airconditioning & Refigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [152.733185,-31.461796,152.733185,-31.461796],
-  "geometry": {"coordinates":[152.733185,-31.461796],"type":"Point"}
+  "bbox": [
+    152.733185,
+    -31.461796,
+    152.733185,
+    -31.461796
+],
+  "geometry": {"coordinates":[152.73318499999999,-31.461796],"type":"Point"}
 }

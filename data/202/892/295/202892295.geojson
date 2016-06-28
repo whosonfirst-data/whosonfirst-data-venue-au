@@ -2,13 +2,14 @@
   "id": 202892295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.895966,-30.458139,152.895966,-30.458139",
     "geom:latitude":-30.458139,
     "geom:longitude":152.895966,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rawson St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202892295,
-    "wof:lastmodified":1449060481,
+    "wof:lastmodified":1466190628,
     "wof:name":"Bellingen Building Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [152.895966,-30.458139,152.895966,-30.458139],
-  "geometry": {"coordinates":[152.895966,-30.458139],"type":"Point"}
+  "bbox": [
+    152.895966,
+    -30.458139,
+    152.895966,
+    -30.458139
+],
+  "geometry": {"coordinates":[152.89596599999999,-30.458139],"type":"Point"}
 }

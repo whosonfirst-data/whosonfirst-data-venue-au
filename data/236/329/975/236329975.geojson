@@ -2,13 +2,14 @@
   "id": 236329975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.75016,-32.049461,115.75016,-32.049461",
     "geom:latitude":-32.049461,
     "geom:longitude":115.75016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Queen Victoria St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236329975,
-    "wof:lastmodified":1449002385,
+    "wof:lastmodified":1466190680,
     "wof:name":"Yacht Grot",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "yacht"
     ]
 },
-  "bbox": [115.75016,-32.049461,115.75016,-32.049461],
-  "geometry": {"coordinates":[115.75016,-32.049461],"type":"Point"}
+  "bbox": [
+    115.75016,
+    -32.049461,
+    115.75016,
+    -32.049461
+],
+  "geometry": {"coordinates":[115.75015999999999,-32.049461],"type":"Point"}
 }

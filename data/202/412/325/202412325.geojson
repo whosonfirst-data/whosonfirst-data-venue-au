@@ -2,13 +2,14 @@
   "id": 202412325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.921234,-37.822216,144.921234,-37.822216",
     "geom:latitude":-37.822216,
     "geom:longitude":144.921234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2-4, 290 Salmon St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202412325,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466187958,
     "wof:name":"Gearhouse Melbourne",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [144.921234,-37.822216,144.921234,-37.822216],
+  "bbox": [
+    144.921234,
+    -37.822216,
+    144.921234,
+    -37.822216
+],
   "geometry": {"coordinates":[144.921234,-37.822216],"type":"Point"}
 }

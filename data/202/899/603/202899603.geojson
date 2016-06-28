@@ -2,13 +2,14 @@
   "id": 202899603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.205093,-30.111202,153.205093,-30.111202",
     "geom:latitude":-30.111202,
     "geom:longitude":153.205093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 37 Cassia La",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202899603,
-    "wof:lastmodified":1449062518,
+    "wof:lastmodified":1466190558,
     "wof:name":"John Beer Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.205093,-30.111202,153.205093,-30.111202],
-  "geometry": {"coordinates":[153.205093,-30.111202],"type":"Point"}
+  "bbox": [
+    153.205093,
+    -30.111202,
+    153.205093,
+    -30.111202
+],
+  "geometry": {"coordinates":[153.20509300000001,-30.111202],"type":"Point"}
 }

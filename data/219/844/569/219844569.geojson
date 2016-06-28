@@ -2,13 +2,14 @@
   "id": 219844569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179703,-33.856968,151.179703,-33.856968",
     "geom:latitude":-33.856968,
     "geom:longitude":151.179703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219844569,
-    "wof:lastmodified":1449071892,
+    "wof:lastmodified":1466191600,
     "wof:name":"Butler Paul",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [151.179703,-33.856968,151.179703,-33.856968],
-  "geometry": {"coordinates":[151.179703,-33.856968],"type":"Point"}
+  "bbox": [
+    151.179703,
+    -33.856968,
+    151.179703,
+    -33.856968
+],
+  "geometry": {"coordinates":[151.17970299999999,-33.856968],"type":"Point"}
 }

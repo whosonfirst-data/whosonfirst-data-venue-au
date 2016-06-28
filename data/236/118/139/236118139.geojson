@@ -2,13 +2,14 @@
   "id": 236118139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.886414,-37.771812,144.886414,-37.771812",
     "geom:latitude":-37.771812,
     "geom:longitude":144.886414,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Rosamond Rd",
     "sg:city":"Maribyrnong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236118139,
-    "wof:lastmodified":1449004487,
+    "wof:lastmodified":1466189003,
     "wof:name":"Guardian Medical",
     "wof:parent_id":85771437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.886414,-37.771812,144.886414,-37.771812],
+  "bbox": [
+    144.886414,
+    -37.771812,
+    144.886414,
+    -37.771812
+],
   "geometry": {"coordinates":[144.886414,-37.771812],"type":"Point"}
 }

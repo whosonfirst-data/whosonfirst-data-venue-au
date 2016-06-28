@@ -2,13 +2,14 @@
   "id": 219712831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.360565,-31.876347,152.360565,-31.876347",
     "geom:latitude":-31.876347,
     "geom:longitude":152.360565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rouse St",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219712831,
-    "wof:lastmodified":1449071902,
+    "wof:lastmodified":1466191181,
     "wof:name":"Be Free",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [152.360565,-31.876347,152.360565,-31.876347],
-  "geometry": {"coordinates":[152.360565,-31.876347],"type":"Point"}
+  "bbox": [
+    152.360565,
+    -31.876347,
+    152.360565,
+    -31.876347
+],
+  "geometry": {"coordinates":[152.36056500000001,-31.876347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252765979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.167679,-41.575352,147.167679,-41.575352",
     "geom:latitude":-41.575352,
     "geom:longitude":147.167679,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Charles St",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252765979,
-    "wof:lastmodified":1449006041,
+    "wof:lastmodified":1466187845,
     "wof:name":"Tassie Shearing Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [147.167679,-41.575352,147.167679,-41.575352],
-  "geometry": {"coordinates":[147.167679,-41.575352],"type":"Point"}
+  "bbox": [
+    147.167679,
+    -41.575352,
+    147.167679,
+    -41.575352
+],
+  "geometry": {"coordinates":[147.16767899999999,-41.575352],"type":"Point"}
 }

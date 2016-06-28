@@ -2,13 +2,14 @@
   "id": 252789239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.413956,-41.218121,146.413956,-41.218121",
     "geom:latitude":-41.218121,
     "geom:longitude":146.413956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9025 Bass Hwy",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252789239,
-    "wof:lastmodified":1449005902,
+    "wof:lastmodified":1466188049,
     "wof:name":"Anvers Chocolate Factory - 7 Days",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attractions"
     ]
 },
-  "bbox": [146.413956,-41.218121,146.413956,-41.218121],
-  "geometry": {"coordinates":[146.413956,-41.218121],"type":"Point"}
+  "bbox": [
+    146.413956,
+    -41.218121,
+    146.413956,
+    -41.218121
+],
+  "geometry": {"coordinates":[146.41395600000001,-41.218121],"type":"Point"}
 }

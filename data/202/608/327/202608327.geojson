@@ -2,13 +2,14 @@
   "id": 202608327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.690567,-33.737564,150.690567,-33.737564",
     "geom:latitude":-33.737564,
     "geom:longitude":150.690567,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Borec House, Cnr Henry & Station Sts",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202608327,
-    "wof:lastmodified":1449061200,
+    "wof:lastmodified":1466187407,
     "wof:name":"Westpac Banking Corporation",
     "wof:parent_id":85780579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.690567,-33.737564,150.690567,-33.737564],
-  "geometry": {"coordinates":[150.690567,-33.737564],"type":"Point"}
+  "bbox": [
+    150.690567,
+    -33.737564,
+    150.690567,
+    -33.737564
+],
+  "geometry": {"coordinates":[150.69056699999999,-33.737564],"type":"Point"}
 }

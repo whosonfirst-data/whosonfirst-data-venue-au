@@ -2,13 +2,14 @@
   "id": 219433057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753967,-32.425724,115.753967,-32.425724",
     "geom:latitude":-32.425724,
     "geom:longitude":115.753967,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Golden Bay Medical Centre Yuin St",
     "sg:city":"Golden Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219433057,
-    "wof:lastmodified":1449070797,
+    "wof:lastmodified":1466188777,
     "wof:name":"Golden Bay Physiotherapy Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.753967,-32.425724,115.753967,-32.425724],
+  "bbox": [
+    115.753967,
+    -32.425724,
+    115.753967,
+    -32.425724
+],
   "geometry": {"coordinates":[115.753967,-32.425724],"type":"Point"}
 }

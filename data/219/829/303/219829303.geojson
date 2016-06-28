@@ -2,13 +2,14 @@
   "id": 219829303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.803177,-31.979332,115.803177,-31.979332",
     "geom:latitude":-31.979332,
     "geom:longitude":115.803177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Stirling Hwy",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219829303,
-    "wof:lastmodified":1449073672,
+    "wof:lastmodified":1466191445,
     "wof:name":"Nedlands Veterinary Centre",
     "wof:parent_id":85769859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [115.803177,-31.979332,115.803177,-31.979332],
-  "geometry": {"coordinates":[115.803177,-31.979332],"type":"Point"}
+  "bbox": [
+    115.803177,
+    -31.979332,
+    115.803177,
+    -31.979332
+],
+  "geometry": {"coordinates":[115.80317700000001,-31.979332],"type":"Point"}
 }

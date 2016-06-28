@@ -2,13 +2,14 @@
   "id": 252980021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.124802,-26.747841,153.124802,-26.747841",
     "geom:latitude":-26.747841,
     "geom:longitude":153.124802,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Cutter St",
     "sg:city":"Wurtulla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252980021,
-    "wof:lastmodified":1449005486,
+    "wof:lastmodified":1466189668,
     "wof:name":"Hallmark Homes Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.124802,-26.747841,153.124802,-26.747841],
-  "geometry": {"coordinates":[153.124802,-26.747841],"type":"Point"}
+  "bbox": [
+    153.124802,
+    -26.747841,
+    153.124802,
+    -26.747841
+],
+  "geometry": {"coordinates":[153.12480199999999,-26.747841],"type":"Point"}
 }

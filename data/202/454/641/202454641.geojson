@@ -2,13 +2,14 @@
   "id": 202454641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.950943,-37.830475,144.950943,-37.830475",
     "geom:latitude":-37.830475,
     "geom:longitude":144.950943,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Buckhurst St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202454641,
-    "wof:lastmodified":1449062410,
+    "wof:lastmodified":1466188856,
     "wof:name":"Bertolan S",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.950943,-37.830475,144.950943,-37.830475],
+  "bbox": [
+    144.950943,
+    -37.830475,
+    144.950943,
+    -37.830475
+],
   "geometry": {"coordinates":[144.950943,-37.830475],"type":"Point"}
 }

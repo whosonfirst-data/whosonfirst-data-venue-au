@@ -2,13 +2,14 @@
   "id": 186014499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.49968,-33.35265,151.49968,-33.35265",
     "geom:latitude":-33.35265,
     "geom:longitude":151.49968,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Bay Rd",
     "sg:city":"Blue Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186014499,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466187270,
     "wof:name":"Dolphin Blue Bay Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [151.49968,-33.35265,151.49968,-33.35265],
-  "geometry": {"coordinates":[151.49968,-33.35265],"type":"Point"}
+  "bbox": [
+    151.49968,
+    -33.35265,
+    151.49968,
+    -33.35265
+],
+  "geometry": {"coordinates":[151.49968000000001,-33.35265],"type":"Point"}
 }

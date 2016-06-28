@@ -2,13 +2,14 @@
   "id": 219680201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.513306,-32.180908,152.513306,-32.180908",
     "geom:latitude":-32.180908,
     "geom:longitude":152.513306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sundek Plaza, 13a Wallis St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219680201,
-    "wof:lastmodified":1449072868,
+    "wof:lastmodified":1466191187,
     "wof:name":"Mortgage Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mortgage"
     ]
 },
-  "bbox": [152.513306,-32.180908,152.513306,-32.180908],
+  "bbox": [
+    152.513306,
+    -32.180908,
+    152.513306,
+    -32.180908
+],
   "geometry": {"coordinates":[152.513306,-32.180908],"type":"Point"}
 }

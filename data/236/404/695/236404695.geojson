@@ -2,13 +2,14 @@
   "id": 236404695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.864899,-32.247513,115.864899,-32.247513",
     "geom:latitude":-32.247513,
     "geom:longitude":115.864899,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Nicolas Drv",
     "sg:city":"Casuarina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236404695,
-    "wof:lastmodified":1449003920,
+    "wof:lastmodified":1466191198,
     "wof:name":"Vintage Rod & Custom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [115.864899,-32.247513,115.864899,-32.247513],
-  "geometry": {"coordinates":[115.864899,-32.247513],"type":"Point"}
+  "bbox": [
+    115.864899,
+    -32.247513,
+    115.864899,
+    -32.247513
+],
+  "geometry": {"coordinates":[115.86489899999999,-32.247513],"type":"Point"}
 }

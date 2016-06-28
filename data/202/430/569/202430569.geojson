@@ -2,13 +2,14 @@
   "id": 202430569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.954681,-37.849594,144.954681,-37.849594",
     "geom:latitude":-37.849594,
     "geom:longitude":144.954681,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Ashworth St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202430569,
-    "wof:lastmodified":1449061705,
+    "wof:lastmodified":1466188414,
     "wof:name":"Chrizmic Design",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [144.954681,-37.849594,144.954681,-37.849594],
-  "geometry": {"coordinates":[144.954681,-37.849594],"type":"Point"}
+  "bbox": [
+    144.954681,
+    -37.849594,
+    144.954681,
+    -37.849594
+],
+  "geometry": {"coordinates":[144.95468099999999,-37.849594],"type":"Point"}
 }

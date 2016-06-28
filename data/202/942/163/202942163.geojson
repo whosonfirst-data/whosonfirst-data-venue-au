@@ -2,13 +2,14 @@
   "id": 202942163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.131409,-30.285358,153.131409,-30.285358",
     "geom:latitude":-30.285358,
     "geom:longitude":153.131409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 71",
     "sg:city":"Park Beach Plaza Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202942163,
-    "wof:lastmodified":1449061284,
+    "wof:lastmodified":1466191054,
     "wof:name":"Optus World",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [153.131409,-30.285358,153.131409,-30.285358],
-  "geometry": {"coordinates":[153.131409,-30.285358],"type":"Point"}
+  "bbox": [
+    153.131409,
+    -30.285358,
+    153.131409,
+    -30.285358
+],
+  "geometry": {"coordinates":[153.13140899999999,-30.285358],"type":"Point"}
 }

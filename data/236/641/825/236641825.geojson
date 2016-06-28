@@ -2,13 +2,14 @@
   "id": 236641825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.838242,-32.602905,115.838242,-32.602905",
     "geom:latitude":-32.602905,
     "geom:longitude":115.838242,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"864 Pinjarra Rd",
     "sg:city":"North Yunderup",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236641825,
-    "wof:lastmodified":1449004290,
+    "wof:lastmodified":1466191740,
     "wof:name":"Yunderup Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [115.838242,-32.602905,115.838242,-32.602905],
-  "geometry": {"coordinates":[115.838242,-32.602905],"type":"Point"}
+  "bbox": [
+    115.838242,
+    -32.602905,
+    115.838242,
+    -32.602905
+],
+  "geometry": {"coordinates":[115.83824199999999,-32.602905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236919945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.520203,-34.979958,138.520203,-34.979958",
     "geom:latitude":-34.979958,
     "geom:longitude":138.520203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"278- 288 Brighton Rd",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236919945,
-    "wof:lastmodified":1449004272,
+    "wof:lastmodified":1466192123,
     "wof:name":"HSV",
     "wof:parent_id":85770879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "new"
     ]
 },
-  "bbox": [138.520203,-34.979958,138.520203,-34.979958],
-  "geometry": {"coordinates":[138.520203,-34.979958],"type":"Point"}
+  "bbox": [
+    138.520203,
+    -34.979958,
+    138.520203,
+    -34.979958
+],
+  "geometry": {"coordinates":[138.52020300000001,-34.979958],"type":"Point"}
 }

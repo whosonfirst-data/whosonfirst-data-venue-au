@@ -2,13 +2,14 @@
   "id": 202499791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041519,-37.918678,145.041519,-37.918678",
     "geom:latitude":-37.918678,
     "geom:longitude":145.041519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Jasper Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202499791,
-    "wof:lastmodified":1449060593,
+    "wof:lastmodified":1466189514,
     "wof:name":"Noriko International Pty Ltd",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [145.041519,-37.918678,145.041519,-37.918678],
-  "geometry": {"coordinates":[145.041519,-37.918678],"type":"Point"}
+  "bbox": [
+    145.041519,
+    -37.918678,
+    145.041519,
+    -37.918678
+],
+  "geometry": {"coordinates":[145.04151899999999,-37.918678],"type":"Point"}
 }

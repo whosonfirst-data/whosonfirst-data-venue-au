@@ -2,13 +2,14 @@
   "id": 220159259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355133,-38.150135,144.355133,-38.150135",
     "geom:latitude":-38.150135,
     "geom:longitude":144.355133,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 27- 31 Myers St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220159259,
-    "wof:lastmodified":1449074132,
+    "wof:lastmodified":1466188777,
     "wof:name":"TGM Group Pty Ltd",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.355133,-38.150135,144.355133,-38.150135],
+  "bbox": [
+    144.355133,
+    -38.150135,
+    144.355133,
+    -38.150135
+],
   "geometry": {"coordinates":[144.355133,-38.150135],"type":"Point"}
 }

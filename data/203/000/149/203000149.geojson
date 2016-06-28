@@ -2,13 +2,14 @@
   "id": 203000149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.489685,-20.750654,139.489685,-20.750654",
     "geom:latitude":-20.750654,
     "geom:longitude":139.489685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"144- 152 Old Mica Creek Rd",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203000149,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466186947,
     "wof:name":"Road Trains of Australia Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [139.489685,-20.750654,139.489685,-20.750654],
-  "geometry": {"coordinates":[139.489685,-20.750654],"type":"Point"}
+  "bbox": [
+    139.489685,
+    -20.750654,
+    139.489685,
+    -20.750654
+],
+  "geometry": {"coordinates":[139.48968500000001,-20.750654],"type":"Point"}
 }

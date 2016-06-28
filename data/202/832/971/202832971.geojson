@@ -2,13 +2,14 @@
   "id": 202832971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.146881,-23.52243,148.146881,-23.52243",
     "geom:latitude":-23.52243,
     "geom:longitude":148.146881,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Industrial Drv",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202832971,
-    "wof:lastmodified":1449060119,
+    "wof:lastmodified":1466190312,
     "wof:name":"Emerald Dry Cleaners & Steam Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.146881,-23.52243,148.146881,-23.52243],
-  "geometry": {"coordinates":[148.146881,-23.52243],"type":"Point"}
+  "bbox": [
+    148.146881,
+    -23.52243,
+    148.146881,
+    -23.52243
+],
+  "geometry": {"coordinates":[148.14688100000001,-23.52243],"type":"Point"}
 }

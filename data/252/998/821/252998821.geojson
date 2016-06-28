@@ -2,13 +2,14 @@
   "id": 252998821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.91996,-31.948458,115.91996,-31.948458",
     "geom:latitude":-31.948458,
     "geom:longitude":115.91996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Abernethy Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252998821,
-    "wof:lastmodified":1449005760,
+    "wof:lastmodified":1466189861,
     "wof:name":"Kone",
     "wof:parent_id":85775561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lift"
     ]
 },
-  "bbox": [115.91996,-31.948458,115.91996,-31.948458],
+  "bbox": [
+    115.91996,
+    -31.948458,
+    115.91996,
+    -31.948458
+],
   "geometry": {"coordinates":[115.91996,-31.948458],"type":"Point"}
 }

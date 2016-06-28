@@ -2,13 +2,14 @@
   "id": 186055773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.486984,-33.108765,151.486984,-33.108765",
     "geom:latitude":-33.108765,
     "geom:longitude":151.486984,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 87 Dora St",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186055773,
-    "wof:lastmodified":1449050999,
+    "wof:lastmodified":1466188360,
     "wof:name":"Dowling Real Estate Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.486984,-33.108765,151.486984,-33.108765],
-  "geometry": {"coordinates":[151.486984,-33.108765],"type":"Point"}
+  "bbox": [
+    151.486984,
+    -33.108765,
+    151.486984,
+    -33.108765
+],
+  "geometry": {"coordinates":[151.48698400000001,-33.108765],"type":"Point"}
 }

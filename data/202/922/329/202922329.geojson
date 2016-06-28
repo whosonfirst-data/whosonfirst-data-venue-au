@@ -2,13 +2,14 @@
   "id": 202922329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.132309,-30.28573,153.132309,-30.28573",
     "geom:latitude":-30.28573,
     "geom:longitude":153.132309,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Park Beach Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202922329,
-    "wof:lastmodified":1449060342,
+    "wof:lastmodified":1466190840,
     "wof:name":"Berry N M",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "designer"
     ]
 },
-  "bbox": [153.132309,-30.28573,153.132309,-30.28573],
-  "geometry": {"coordinates":[153.132309,-30.28573],"type":"Point"}
+  "bbox": [
+    153.132309,
+    -30.28573,
+    153.132309,
+    -30.28573
+],
+  "geometry": {"coordinates":[153.13230899999999,-30.28573],"type":"Point"}
 }

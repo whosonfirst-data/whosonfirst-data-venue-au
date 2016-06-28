@@ -2,13 +2,14 @@
   "id": 202795513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.750565,-32.923878,151.750565,-32.923878",
     "geom:latitude":-32.923878,
     "geom:longitude":151.750565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Elcho St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202795513,
-    "wof:lastmodified":1449061610,
+    "wof:lastmodified":1466190264,
     "wof:name":"Mary Axe Pty Ltd",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.750565,-32.923878,151.750565,-32.923878],
-  "geometry": {"coordinates":[151.750565,-32.923878],"type":"Point"}
+  "bbox": [
+    151.750565,
+    -32.923878,
+    151.750565,
+    -32.923878
+],
+  "geometry": {"coordinates":[151.75056499999999,-32.923878],"type":"Point"}
 }

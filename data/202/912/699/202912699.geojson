@@ -2,13 +2,14 @@
   "id": 202912699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.09993,-30.314219,153.09993,-30.314219",
     "geom:latitude":-30.314219,
     "geom:longitude":153.09993,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 48 Fraser Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202912699,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1466190617,
     "wof:name":"Peter Rowan Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.09993,-30.314219,153.09993,-30.314219],
+  "bbox": [
+    153.09993,
+    -30.314219,
+    153.09993,
+    -30.314219
+],
   "geometry": {"coordinates":[153.09993,-30.314219],"type":"Point"}
 }

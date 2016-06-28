@@ -2,13 +2,14 @@
   "id": 185674157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752197,-31.995125,115.752197,-31.995125",
     "geom:latitude":-31.995125,
     "geom:longitude":115.752197,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gil Fraser Reserve, 1 John Street",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185674157,
-    "wof:lastmodified":1449007806,
+    "wof:lastmodified":1466188667,
     "wof:name":"Five Star Fitness Training",
     "wof:parent_id":85769115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [115.752197,-31.995125,115.752197,-31.995125],
+  "bbox": [
+    115.752197,
+    -31.995125,
+    115.752197,
+    -31.995125
+],
   "geometry": {"coordinates":[115.752197,-31.995125],"type":"Point"}
 }

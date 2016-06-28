@@ -2,13 +2,14 @@
   "id": 203109257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.75351,-32.512077,115.75351,-32.512077",
     "geom:latitude":-32.512077,
     "geom:longitude":115.75351,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 6 Quarry Way",
     "sg:city":"Greenfields",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203109257,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466189176,
     "wof:name":"Rod Brown Motor Trimmers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trimmer"
     ]
 },
-  "bbox": [115.75351,-32.512077,115.75351,-32.512077],
-  "geometry": {"coordinates":[115.75351,-32.512077],"type":"Point"}
+  "bbox": [
+    115.75351,
+    -32.512077,
+    115.75351,
+    -32.512077
+],
+  "geometry": {"coordinates":[115.75351000000001,-32.512077],"type":"Point"}
 }

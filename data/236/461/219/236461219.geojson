@@ -2,13 +2,14 @@
   "id": 236461219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.186005,-21.149832,149.186005,-21.149832",
     "geom:latitude":-21.149832,
     "geom:longitude":149.186005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1, First Flr City Court, 41 Sydney St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236461219,
-    "wof:lastmodified":1449002786,
+    "wof:lastmodified":1466191370,
     "wof:name":"Lifestyle Finance (Mackay) Pty Ltd",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [149.186005,-21.149832,149.186005,-21.149832],
-  "geometry": {"coordinates":[149.186005,-21.149832],"type":"Point"}
+  "bbox": [
+    149.186005,
+    -21.149832,
+    149.186005,
+    -21.149832
+],
+  "geometry": {"coordinates":[149.18600499999999,-21.149832],"type":"Point"}
 }

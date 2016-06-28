@@ -2,13 +2,14 @@
   "id": 203366587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.848663,-37.579384,143.848663,-37.579384",
     "geom:latitude":-37.579384,
     "geom:longitude":143.848663,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Tannery La",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203366587,
-    "wof:lastmodified":1449026351,
+    "wof:lastmodified":1466188964,
     "wof:name":"Ballarat Concrete Recyclers",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.848663,-37.579384,143.848663,-37.579384],
-  "geometry": {"coordinates":[143.848663,-37.579384],"type":"Point"}
+  "bbox": [
+    143.848663,
+    -37.579384,
+    143.848663,
+    -37.579384
+],
+  "geometry": {"coordinates":[143.84866299999999,-37.579384],"type":"Point"}
 }

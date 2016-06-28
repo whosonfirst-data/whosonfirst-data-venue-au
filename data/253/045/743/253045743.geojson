@@ -2,13 +2,14 @@
   "id": 253045743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.840057,-37.822723,144.840057,-37.822723",
     "geom:latitude":-37.822723,
     "geom:longitude":144.840057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rowan Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253045743,
-    "wof:lastmodified":1449065430,
+    "wof:lastmodified":1466187823,
     "wof:name":"Quantum Resources",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [144.840057,-37.822723,144.840057,-37.822723],
+  "bbox": [
+    144.840057,
+    -37.822723,
+    144.840057,
+    -37.822723
+],
   "geometry": {"coordinates":[144.840057,-37.822723],"type":"Point"}
 }

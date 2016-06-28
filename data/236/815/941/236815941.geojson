@@ -2,13 +2,14 @@
   "id": 236815941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892151,-34.433254,150.892151,-34.433254",
     "geom:latitude":-34.433254,
     "geom:longitude":150.892151,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Keira St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236815941,
-    "wof:lastmodified":1449003209,
+    "wof:lastmodified":1466191983,
     "wof:name":"DRB Business Advisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "business"
     ]
 },
-  "bbox": [150.892151,-34.433254,150.892151,-34.433254],
-  "geometry": {"coordinates":[150.892151,-34.433254],"type":"Point"}
+  "bbox": [
+    150.892151,
+    -34.433254,
+    150.892151,
+    -34.433254
+],
+  "geometry": {"coordinates":[150.89215100000001,-34.433254],"type":"Point"}
 }

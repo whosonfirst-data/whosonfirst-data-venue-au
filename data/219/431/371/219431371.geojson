@@ -2,13 +2,14 @@
   "id": 219431371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.802429,-32.423271,115.802429,-32.423271",
     "geom:latitude":-32.423271,
     "geom:longitude":115.802429,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 21 Swallow Hill Crt",
     "sg:city":"Karnup",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219431371,
-    "wof:lastmodified":1449070875,
+    "wof:lastmodified":1466188764,
     "wof:name":"Winterton Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.802429,-32.423271,115.802429,-32.423271],
+  "bbox": [
+    115.802429,
+    -32.423271,
+    115.802429,
+    -32.423271
+],
   "geometry": {"coordinates":[115.802429,-32.423271],"type":"Point"}
 }

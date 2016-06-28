@@ -2,13 +2,14 @@
   "id": 236803211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.899597,-34.48418,150.899597,-34.48418",
     "geom:latitude":-34.48418,
     "geom:longitude":150.899597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Keira St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236803211,
-    "wof:lastmodified":1449005293,
+    "wof:lastmodified":1466191946,
     "wof:name":"Hicks I",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [150.899597,-34.48418,150.899597,-34.48418],
+  "bbox": [
+    150.899597,
+    -34.48418,
+    150.899597,
+    -34.48418
+],
   "geometry": {"coordinates":[150.899597,-34.48418],"type":"Point"}
 }

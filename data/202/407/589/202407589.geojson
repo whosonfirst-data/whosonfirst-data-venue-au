@@ -2,13 +2,14 @@
   "id": 202407589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.938446,-37.841354,144.938446,-37.841354",
     "geom:latitude":-37.841354,
     "geom:longitude":144.938446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Rouse St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202407589,
-    "wof:lastmodified":1449061513,
+    "wof:lastmodified":1466187830,
     "wof:name":"Vectrix Australia",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scooter"
     ]
 },
-  "bbox": [144.938446,-37.841354,144.938446,-37.841354],
+  "bbox": [
+    144.938446,
+    -37.841354,
+    144.938446,
+    -37.841354
+],
   "geometry": {"coordinates":[144.938446,-37.841354],"type":"Point"}
 }

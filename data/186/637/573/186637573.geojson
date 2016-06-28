@@ -2,13 +2,14 @@
   "id": 186637573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.048492,-34.289597,146.048492,-34.289597",
     "geom:latitude":-34.289597,
     "geom:longitude":146.048492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Griffin Plz Shopng Cntr Cnr Bonegila Rd & Yambil St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186637573,
-    "wof:lastmodified":1449050256,
+    "wof:lastmodified":1466191120,
     "wof:name":"Liquorland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [146.048492,-34.289597,146.048492,-34.289597],
-  "geometry": {"coordinates":[146.048492,-34.289597],"type":"Point"}
+  "bbox": [
+    146.048492,
+    -34.289597,
+    146.048492,
+    -34.289597
+],
+  "geometry": {"coordinates":[146.04849200000001,-34.289597],"type":"Point"}
 }

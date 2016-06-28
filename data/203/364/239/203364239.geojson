@@ -2,13 +2,14 @@
   "id": 203364239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.848114,-37.557991,143.848114,-37.557991",
     "geom:latitude":-37.557991,
     "geom:longitude":143.848114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Drummond St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203364239,
-    "wof:lastmodified":1449026015,
+    "wof:lastmodified":1466188922,
     "wof:name":"Roberts Penny Dr",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [143.848114,-37.557991,143.848114,-37.557991],
-  "geometry": {"coordinates":[143.848114,-37.557991],"type":"Point"}
+  "bbox": [
+    143.848114,
+    -37.557991,
+    143.848114,
+    -37.557991
+],
+  "geometry": {"coordinates":[143.84811400000001,-37.557991],"type":"Point"}
 }

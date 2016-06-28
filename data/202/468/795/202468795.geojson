@@ -2,13 +2,14 @@
   "id": 202468795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.963547,-37.838436,144.963547,-37.838436",
     "geom:latitude":-37.838436,
     "geom:longitude":144.963547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert Road Centre for Health 31 Albert Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202468795,
-    "wof:lastmodified":1449061915,
+    "wof:lastmodified":1466189053,
     "wof:name":"Bornstein Don Dr",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.963547,-37.838436,144.963547,-37.838436],
-  "geometry": {"coordinates":[144.963547,-37.838436],"type":"Point"}
+  "bbox": [
+    144.963547,
+    -37.838436,
+    144.963547,
+    -37.838436
+],
+  "geometry": {"coordinates":[144.96354700000001,-37.838436],"type":"Point"}
 }

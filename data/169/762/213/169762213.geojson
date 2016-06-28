@@ -2,13 +2,14 @@
   "id": 169762213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.092453,-27.228466,153.092453,-27.228466",
     "geom:latitude":-27.228466,
     "geom:longitude":153.092453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lindel St",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169762213,
-    "wof:lastmodified":1449035004,
+    "wof:lastmodified":1466188078,
     "wof:name":"MRB Laminating",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laminating"
     ]
 },
-  "bbox": [153.092453,-27.228466,153.092453,-27.228466],
-  "geometry": {"coordinates":[153.092453,-27.228466],"type":"Point"}
+  "bbox": [
+    153.092453,
+    -27.228466,
+    153.092453,
+    -27.228466
+],
+  "geometry": {"coordinates":[153.09245300000001,-27.228466],"type":"Point"}
 }

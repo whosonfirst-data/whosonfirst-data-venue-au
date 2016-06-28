@@ -2,13 +2,14 @@
   "id": 185630439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.916039,-32.058914,115.916039,-32.058914",
     "geom:latitude":-32.058914,
     "geom:longitude":115.916039,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 48 Vinnicombe Drv",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185630439,
-    "wof:lastmodified":1449007163,
+    "wof:lastmodified":1466187827,
     "wof:name":"Kelvin Chong",
     "wof:parent_id":85775581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "make-up"
     ]
 },
-  "bbox": [115.916039,-32.058914,115.916039,-32.058914],
+  "bbox": [
+    115.916039,
+    -32.058914,
+    115.916039,
+    -32.058914
+],
   "geometry": {"coordinates":[115.916039,-32.058914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203291065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.166733,-33.148888,148.166733,-33.148888",
     "geom:latitude":-33.148888,
     "geom:longitude":148.166733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Clarke St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203291065,
-    "wof:lastmodified":1449025492,
+    "wof:lastmodified":1466187880,
     "wof:name":"Westcomm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [148.166733,-33.148888,148.166733,-33.148888],
-  "geometry": {"coordinates":[148.166733,-33.148888],"type":"Point"}
+  "bbox": [
+    148.166733,
+    -33.148888,
+    148.166733,
+    -33.148888
+],
+  "geometry": {"coordinates":[148.16673299999999,-33.148888],"type":"Point"}
 }

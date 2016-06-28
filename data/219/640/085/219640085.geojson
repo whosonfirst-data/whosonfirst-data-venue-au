@@ -2,13 +2,14 @@
   "id": 219640085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.117218,-33.958969,151.117218,-33.958969",
     "geom:latitude":-33.958969,
     "geom:longitude":151.117218,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"669 Forest Road (Cnr Albert Street)",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219640085,
-    "wof:lastmodified":1449071920,
+    "wof:lastmodified":1466190931,
     "wof:name":"Baskets.com.au",
     "wof:parent_id":85777013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [151.117218,-33.958969,151.117218,-33.958969],
-  "geometry": {"coordinates":[151.117218,-33.958969],"type":"Point"}
+  "bbox": [
+    151.117218,
+    -33.958969,
+    151.117218,
+    -33.958969
+],
+  "geometry": {"coordinates":[151.11721800000001,-33.958969],"type":"Point"}
 }

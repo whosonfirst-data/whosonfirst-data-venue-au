@@ -2,13 +2,14 @@
   "id": 236065421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.834061,-37.719082,144.834061,-37.719082",
     "geom:latitude":-37.719082,
     "geom:longitude":144.834061,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kennedy St",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236065421,
-    "wof:lastmodified":1449005203,
+    "wof:lastmodified":1466187934,
     "wof:name":"Keilor Primary",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [144.834061,-37.719082,144.834061,-37.719082],
-  "geometry": {"coordinates":[144.834061,-37.719082],"type":"Point"}
+  "bbox": [
+    144.834061,
+    -37.719082,
+    144.834061,
+    -37.719082
+],
+  "geometry": {"coordinates":[144.83406099999999,-37.719082],"type":"Point"}
 }

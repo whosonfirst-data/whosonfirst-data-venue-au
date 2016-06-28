@@ -2,13 +2,14 @@
   "id": 202428217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.952682,-37.841187,144.952682,-37.841187",
     "geom:latitude":-37.841187,
     "geom:longitude":144.952682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Cardigan Pl",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202428217,
-    "wof:lastmodified":1449062470,
+    "wof:lastmodified":1466188365,
     "wof:name":"Design Action",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.952682,-37.841187,144.952682,-37.841187],
-  "geometry": {"coordinates":[144.952682,-37.841187],"type":"Point"}
+  "bbox": [
+    144.952682,
+    -37.841187,
+    144.952682,
+    -37.841187
+],
+  "geometry": {"coordinates":[144.95268200000001,-37.841187],"type":"Point"}
 }

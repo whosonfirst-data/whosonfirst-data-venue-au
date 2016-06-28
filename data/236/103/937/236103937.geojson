@@ -2,13 +2,14 @@
   "id": 236103937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.930298,-37.788334,144.930298,-37.788334",
     "geom:latitude":-37.788334,
     "geom:longitude":144.930298,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Racecourse Rd",
     "sg:city":"Flemington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236103937,
-    "wof:lastmodified":1449003761,
+    "wof:lastmodified":1466188707,
     "wof:name":"Letter Writing Ink",
     "wof:parent_id":85775119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [144.930298,-37.788334,144.930298,-37.788334],
-  "geometry": {"coordinates":[144.930298,-37.788334],"type":"Point"}
+  "bbox": [
+    144.930298,
+    -37.788334,
+    144.930298,
+    -37.788334
+],
+  "geometry": {"coordinates":[144.93029799999999,-37.788334],"type":"Point"}
 }

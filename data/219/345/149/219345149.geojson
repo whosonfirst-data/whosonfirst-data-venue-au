@@ -2,13 +2,14 @@
   "id": 219345149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.264282,-14.464448,132.264282,-14.464448",
     "geom:latitude":-14.464448,
     "geom:longitude":132.264282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 16 First St",
     "sg:city":"Katherine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219345149,
-    "wof:lastmodified":1449073634,
+    "wof:lastmodified":1466187895,
     "wof:name":"Gallop-Thru-Time Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "framing"
     ]
 },
-  "bbox": [132.264282,-14.464448,132.264282,-14.464448],
-  "geometry": {"coordinates":[132.264282,-14.464448],"type":"Point"}
+  "bbox": [
+    132.264282,
+    -14.464448,
+    132.264282,
+    -14.464448
+],
+  "geometry": {"coordinates":[132.26428200000001,-14.464448],"type":"Point"}
 }

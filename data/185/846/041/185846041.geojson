@@ -2,13 +2,14 @@
   "id": 185846041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841248,-25.288742,152.841248,-25.288742",
     "geom:latitude":-25.288742,
     "geom:longitude":152.841248,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185846041,
-    "wof:lastmodified":1449007876,
+    "wof:lastmodified":1466187290,
     "wof:name":"Byrne Bros Pty Ltd",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [152.841248,-25.288742,152.841248,-25.288742],
-  "geometry": {"coordinates":[152.841248,-25.288742],"type":"Point"}
+  "bbox": [
+    152.841248,
+    -25.288742,
+    152.841248,
+    -25.288742
+],
+  "geometry": {"coordinates":[152.84124800000001,-25.288742],"type":"Point"}
 }

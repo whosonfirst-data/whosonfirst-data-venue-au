@@ -2,13 +2,14 @@
   "id": 202492837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041718,-37.917442,145.041718,-37.917442",
     "geom:latitude":-37.917442,
     "geom:longitude":145.041718,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Jasper Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202492837,
-    "wof:lastmodified":1449060108,
+    "wof:lastmodified":1466189446,
     "wof:name":"Bentleigh Garage",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.041718,-37.917442,145.041718,-37.917442],
+  "bbox": [
+    145.041718,
+    -37.917442,
+    145.041718,
+    -37.917442
+],
   "geometry": {"coordinates":[145.041718,-37.917442],"type":"Point"}
 }

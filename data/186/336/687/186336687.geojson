@@ -2,13 +2,14 @@
   "id": 186336687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.297424,-33.723194,151.297424,-33.723194",
     "geom:latitude":-33.723194,
     "geom:longitude":151.297424,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Clarke St",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186336687,
-    "wof:lastmodified":1449050183,
+    "wof:lastmodified":1466188206,
     "wof:name":"The Cottage Counselling Centre",
     "wof:parent_id":85769849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [151.297424,-33.723194,151.297424,-33.723194],
-  "geometry": {"coordinates":[151.297424,-33.723194],"type":"Point"}
+  "bbox": [
+    151.297424,
+    -33.723194,
+    151.297424,
+    -33.723194
+],
+  "geometry": {"coordinates":[151.29742400000001,-33.723194],"type":"Point"}
 }

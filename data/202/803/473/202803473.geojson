@@ -2,13 +2,14 @@
   "id": 202803473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.758438,-32.924988,151.758438,-32.924988",
     "geom:latitude":-32.924988,
     "geom:longitude":151.758438,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"787 Hunter St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202803473,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466190331,
     "wof:name":"Newcastle Regional Museum",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "attractions"
     ]
 },
-  "bbox": [151.758438,-32.924988,151.758438,-32.924988],
-  "geometry": {"coordinates":[151.758438,-32.924988],"type":"Point"}
+  "bbox": [
+    151.758438,
+    -32.924988,
+    151.758438,
+    -32.924988
+],
+  "geometry": {"coordinates":[151.75843800000001,-32.924988],"type":"Point"}
 }

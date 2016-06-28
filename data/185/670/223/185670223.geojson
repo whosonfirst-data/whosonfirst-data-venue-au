@@ -2,13 +2,14 @@
   "id": 185670223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.764511,-32.042034,115.764511,-32.042034",
     "geom:latitude":-32.042034,
     "geom:longitude":115.764511,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Silas St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185670223,
-    "wof:lastmodified":1449006848,
+    "wof:lastmodified":1466188626,
     "wof:name":"MOLE STOP",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.764511,-32.042034,115.764511,-32.042034],
+  "bbox": [
+    115.764511,
+    -32.042034,
+    115.764511,
+    -32.042034
+],
   "geometry": {"coordinates":[115.764511,-32.042034],"type":"Point"}
 }

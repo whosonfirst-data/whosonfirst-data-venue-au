@@ -2,13 +2,14 @@
   "id": 203322945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.844009,-37.592842,143.844009,-37.592842",
     "geom:latitude":-37.592842,
     "geom:longitude":143.844009,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Vickers St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203322945,
-    "wof:lastmodified":1449024923,
+    "wof:lastmodified":1466188301,
     "wof:name":"Ballarat Christian School (primary)",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [143.844009,-37.592842,143.844009,-37.592842],
+  "bbox": [
+    143.844009,
+    -37.592842,
+    143.844009,
+    -37.592842
+],
   "geometry": {"coordinates":[143.844009,-37.592842],"type":"Point"}
 }

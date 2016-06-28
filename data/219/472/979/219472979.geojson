@@ -2,13 +2,14 @@
   "id": 219472979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.117508,-37.514156,145.117508,-37.514156",
     "geom:latitude":-37.514156,
     "geom:longitude":145.117508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Church St",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219472979,
-    "wof:lastmodified":1449070665,
+    "wof:lastmodified":1466189143,
     "wof:name":"Mike Jolley & Associates Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [145.117508,-37.514156,145.117508,-37.514156],
-  "geometry": {"coordinates":[145.117508,-37.514156],"type":"Point"}
+  "bbox": [
+    145.117508,
+    -37.514156,
+    145.117508,
+    -37.514156
+],
+  "geometry": {"coordinates":[145.11750799999999,-37.514156],"type":"Point"}
 }

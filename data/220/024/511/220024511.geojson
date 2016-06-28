@@ -2,13 +2,14 @@
   "id": 220024511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.635468,-35.022545,138.635468,-35.022545",
     "geom:latitude":-35.022545,
     "geom:longitude":138.635468,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Glasgow Rd",
     "sg:city":"Hawthorndene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220024511,
-    "wof:lastmodified":1449074410,
+    "wof:lastmodified":1466187218,
     "wof:name":"Gibbs Laurel Physiotherapy",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [138.635468,-35.022545,138.635468,-35.022545],
+  "bbox": [
+    138.635468,
+    -35.022545,
+    138.635468,
+    -35.022545
+],
   "geometry": {"coordinates":[138.635468,-35.022545],"type":"Point"}
 }

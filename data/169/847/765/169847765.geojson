@@ -2,13 +2,14 @@
   "id": 169847765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.833641,-32.022907,115.833641,-32.022907",
     "geom:latitude":-32.022907,
     "geom:longitude":115.833641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 B McCallum Crs",
     "sg:city":"Ardross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169847765,
-    "wof:lastmodified":1449033889,
+    "wof:lastmodified":1466189421,
     "wof:name":"Ground Water Drilling",
     "wof:parent_id":85775653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.833641,-32.022907,115.833641,-32.022907],
+  "bbox": [
+    115.833641,
+    -32.022907,
+    115.833641,
+    -32.022907
+],
   "geometry": {"coordinates":[115.833641,-32.022907],"type":"Point"}
 }

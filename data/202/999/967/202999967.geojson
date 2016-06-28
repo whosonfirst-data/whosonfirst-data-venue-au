@@ -2,13 +2,14 @@
   "id": 202999967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.498566,-20.70853,139.498566,-20.70853",
     "geom:latitude":-20.70853,
     "geom:longitude":139.498566,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Carbine Ave",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202999967,
-    "wof:lastmodified":1449062343,
+    "wof:lastmodified":1466191092,
     "wof:name":"Hilton Cleaning Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [139.498566,-20.70853,139.498566,-20.70853],
-  "geometry": {"coordinates":[139.498566,-20.70853],"type":"Point"}
+  "bbox": [
+    139.498566,
+    -20.70853,
+    139.498566,
+    -20.70853
+],
+  "geometry": {"coordinates":[139.49856600000001,-20.70853],"type":"Point"}
 }

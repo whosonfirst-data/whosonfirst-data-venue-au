@@ -2,13 +2,14 @@
   "id": 219250263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.003265,-37.781685,145.003265,-37.781685",
     "geom:latitude":-37.781685,
     "geom:longitude":145.003265,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Westgarth St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219250263,
-    "wof:lastmodified":1449072392,
+    "wof:lastmodified":1466187068,
     "wof:name":"Parkwood Supportive Care Home",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [145.003265,-37.781685,145.003265,-37.781685],
+  "bbox": [
+    145.003265,
+    -37.781685,
+    145.003265,
+    -37.781685
+],
   "geometry": {"coordinates":[145.003265,-37.781685],"type":"Point"}
 }

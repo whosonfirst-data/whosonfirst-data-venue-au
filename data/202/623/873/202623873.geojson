@@ -2,13 +2,14 @@
   "id": 202623873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.913055,-28.645544,151.913055,-28.645544",
     "geom:latitude":-28.645544,
     "geom:longitude":151.913055,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 13 Bassel Rd",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202623873,
-    "wof:lastmodified":1449061875,
+    "wof:lastmodified":1466187544,
     "wof:name":"Smith R C & C A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.913055,-28.645544,151.913055,-28.645544],
-  "geometry": {"coordinates":[151.913055,-28.645544],"type":"Point"}
+  "bbox": [
+    151.913055,
+    -28.645544,
+    151.913055,
+    -28.645544
+],
+  "geometry": {"coordinates":[151.91305500000001,-28.645544],"type":"Point"}
 }

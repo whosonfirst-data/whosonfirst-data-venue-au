@@ -2,13 +2,14 @@
   "id": 186462913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15654,-33.881062,151.15654,-33.881062",
     "geom:latitude":-33.881062,
     "geom:longitude":151.15654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 / 2 Macauley St (Cnr Norton St)",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186462913,
-    "wof:lastmodified":1449052935,
+    "wof:lastmodified":1466190274,
     "wof:name":"Allens Vision & Hearing",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.15654,-33.881062,151.15654,-33.881062],
-  "geometry": {"coordinates":[151.15654,-33.881062],"type":"Point"}
+  "bbox": [
+    151.15654,
+    -33.881062,
+    151.15654,
+    -33.881062
+],
+  "geometry": {"coordinates":[151.15654000000001,-33.881062],"type":"Point"}
 }

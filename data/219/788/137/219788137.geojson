@@ -2,13 +2,14 @@
   "id": 219788137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.73439,-19.302092,146.73439,-19.302092",
     "geom:latitude":-19.302092,
     "geom:longitude":146.73439,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Tavern St",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219788137,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466191413,
     "wof:name":"Tavern Fish Bar",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [146.73439,-19.302092,146.73439,-19.302092],
-  "geometry": {"coordinates":[146.73439,-19.302092],"type":"Point"}
+  "bbox": [
+    146.73439,
+    -19.302092,
+    146.73439,
+    -19.302092
+],
+  "geometry": {"coordinates":[146.73438999999999,-19.302092],"type":"Point"}
 }

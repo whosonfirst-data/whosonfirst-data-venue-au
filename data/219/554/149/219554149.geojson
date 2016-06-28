@@ -2,13 +2,14 @@
   "id": 219554149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.036346,-33.903477,151.036346,-33.903477",
     "geom:latitude":-33.903477,
     "geom:longitude":151.036346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Rookwood Rd",
     "sg:city":"Yagoona",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219554149,
-    "wof:lastmodified":1449071119,
+    "wof:lastmodified":1466190305,
     "wof:name":"A Aaapollo Engines",
     "wof:parent_id":85780245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diesel"
     ]
 },
-  "bbox": [151.036346,-33.903477,151.036346,-33.903477],
-  "geometry": {"coordinates":[151.036346,-33.903477],"type":"Point"}
+  "bbox": [
+    151.036346,
+    -33.903477,
+    151.036346,
+    -33.903477
+],
+  "geometry": {"coordinates":[151.03634600000001,-33.903477],"type":"Point"}
 }

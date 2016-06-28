@@ -2,13 +2,14 @@
   "id": 202412281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.925217,-37.827065,144.925217,-37.827065",
     "geom:latitude":-37.827065,
     "geom:longitude":144.925217,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Douglas St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202412281,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466187956,
     "wof:name":"ABB Workforce",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.925217,-37.827065,144.925217,-37.827065],
+  "bbox": [
+    144.925217,
+    -37.827065,
+    144.925217,
+    -37.827065
+],
   "geometry": {"coordinates":[144.925217,-37.827065],"type":"Point"}
 }

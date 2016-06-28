@@ -2,13 +2,14 @@
   "id": 186431203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178452,-33.896431,151.178452,-33.896431",
     "geom:latitude":-33.896431,
     "geom:longitude":151.178452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Australia & Lennox Street /& 208 Australia St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186431203,
-    "wof:lastmodified":1449050695,
+    "wof:lastmodified":1466189835,
     "wof:name":"Glow Girl",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.178452,-33.896431,151.178452,-33.896431],
-  "geometry": {"coordinates":[151.178452,-33.896431],"type":"Point"}
+  "bbox": [
+    151.178452,
+    -33.896431,
+    151.178452,
+    -33.896431
+],
+  "geometry": {"coordinates":[151.17845199999999,-33.896431],"type":"Point"}
 }

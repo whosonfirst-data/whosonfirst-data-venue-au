@@ -2,13 +2,14 @@
   "id": 220143143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357971,-38.148598,144.357971,-38.148598",
     "geom:latitude":-38.148598,
     "geom:longitude":144.357971,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220143143,
-    "wof:lastmodified":1449074725,
+    "wof:lastmodified":1466188452,
     "wof:name":"Room 99",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "discotheque"
     ]
 },
-  "bbox": [144.357971,-38.148598,144.357971,-38.148598],
-  "geometry": {"coordinates":[144.357971,-38.148598],"type":"Point"}
+  "bbox": [
+    144.357971,
+    -38.148598,
+    144.357971,
+    -38.148598
+],
+  "geometry": {"coordinates":[144.35797099999999,-38.148598],"type":"Point"}
 }

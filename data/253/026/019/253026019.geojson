@@ -2,13 +2,14 @@
   "id": 253026019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.769989,-37.867592,144.769989,-37.867592",
     "geom:latitude":-37.867592,
     "geom:longitude":144.769989,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Epsom St",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253026019,
-    "wof:lastmodified":1449064559,
+    "wof:lastmodified":1466187434,
     "wof:name":"Emma Bottomley",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [144.769989,-37.867592,144.769989,-37.867592],
-  "geometry": {"coordinates":[144.769989,-37.867592],"type":"Point"}
+  "bbox": [
+    144.769989,
+    -37.867592,
+    144.769989,
+    -37.867592
+],
+  "geometry": {"coordinates":[144.76998900000001,-37.867592],"type":"Point"}
 }

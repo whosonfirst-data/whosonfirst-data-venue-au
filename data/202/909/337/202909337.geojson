@@ -2,13 +2,14 @@
   "id": 202909337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.202377,-30.111313,153.202377,-30.111313",
     "geom:latitude":-30.111313,
     "geom:longitude":153.202377,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Market St",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202909337,
-    "wof:lastmodified":1449062019,
+    "wof:lastmodified":1466190821,
     "wof:name":"Cathy Benn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [153.202377,-30.111313,153.202377,-30.111313],
-  "geometry": {"coordinates":[153.202377,-30.111313],"type":"Point"}
+  "bbox": [
+    153.202377,
+    -30.111313,
+    153.202377,
+    -30.111313
+],
+  "geometry": {"coordinates":[153.20237700000001,-30.111313],"type":"Point"}
 }

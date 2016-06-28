@@ -2,13 +2,14 @@
   "id": 186526001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.848785,-19.158154,146.848785,-19.158154",
     "geom:latitude":-19.158154,
     "geom:longitude":146.848785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Sooning St",
     "sg:city":"Nelly Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186526001,
-    "wof:lastmodified":1449051195,
+    "wof:lastmodified":1466190842,
     "wof:name":"Magnetic Island Hairport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [146.848785,-19.158154,146.848785,-19.158154],
-  "geometry": {"coordinates":[146.848785,-19.158154],"type":"Point"}
+  "bbox": [
+    146.848785,
+    -19.158154,
+    146.848785,
+    -19.158154
+],
+  "geometry": {"coordinates":[146.84878499999999,-19.158154],"type":"Point"}
 }

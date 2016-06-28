@@ -2,13 +2,14 @@
   "id": 185884823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.674973,-25.528215,152.674973,-25.528215",
     "geom:latitude":-25.528215,
     "geom:longitude":152.674973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Queen St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185884823,
-    "wof:lastmodified":1449007916,
+    "wof:lastmodified":1466187723,
     "wof:name":"Byrne Bros Concrete",
     "wof:parent_id":85768735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [152.674973,-25.528215,152.674973,-25.528215],
-  "geometry": {"coordinates":[152.674973,-25.528215],"type":"Point"}
+  "bbox": [
+    152.674973,
+    -25.528215,
+    152.674973,
+    -25.528215
+],
+  "geometry": {"coordinates":[152.67497299999999,-25.528215],"type":"Point"}
 }

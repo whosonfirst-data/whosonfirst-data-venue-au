@@ -2,13 +2,14 @@
   "id": 219428579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.56749,-34.899223,138.56749,-34.899223",
     "geom:latitude":-34.899223,
     "geom:longitude":138.56749,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 McInnes St",
     "sg:city":"Ridleyton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219428579,
-    "wof:lastmodified":1449073665,
+    "wof:lastmodified":1466188721,
     "wof:name":"P A J Agencies",
     "wof:parent_id":85774917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tiling"
     ]
 },
-  "bbox": [138.56749,-34.899223,138.56749,-34.899223],
-  "geometry": {"coordinates":[138.56749,-34.899223],"type":"Point"}
+  "bbox": [
+    138.56749,
+    -34.899223,
+    138.56749,
+    -34.899223
+],
+  "geometry": {"coordinates":[138.56748999999999,-34.899223],"type":"Point"}
 }

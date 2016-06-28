@@ -2,13 +2,14 @@
   "id": 202795783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.749146,-32.923904,151.749146,-32.923904",
     "geom:latitude":-32.923904,
     "geom:longitude":151.749146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Lawson St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202795783,
-    "wof:lastmodified":1449061608,
+    "wof:lastmodified":1466190269,
     "wof:name":"Marr-Woodland Lyn",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.749146,-32.923904,151.749146,-32.923904],
+  "bbox": [
+    151.749146,
+    -32.923904,
+    151.749146,
+    -32.923904
+],
   "geometry": {"coordinates":[151.749146,-32.923904],"type":"Point"}
 }

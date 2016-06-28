@@ -2,13 +2,14 @@
   "id": 236975681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.36348,-37.852234,145.36348,-37.852234",
     "geom:latitude":-37.852234,
     "geom:longitude":145.36348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Monash Ave",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236975681,
-    "wof:lastmodified":1449004696,
+    "wof:lastmodified":1466192219,
     "wof:name":"Matt Ryan Consulting",
     "wof:parent_id":85770183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.36348,-37.852234,145.36348,-37.852234],
-  "geometry": {"coordinates":[145.36348,-37.852234],"type":"Point"}
+  "bbox": [
+    145.36348,
+    -37.852234,
+    145.36348,
+    -37.852234
+],
+  "geometry": {"coordinates":[145.36348000000001,-37.852234],"type":"Point"}
 }

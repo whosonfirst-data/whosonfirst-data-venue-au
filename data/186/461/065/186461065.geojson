@@ -2,13 +2,14 @@
   "id": 186461065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.159348,-33.885246,151.159348,-33.885246",
     "geom:latitude":-33.885246,
     "geom:longitude":151.159348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Balmain Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186461065,
-    "wof:lastmodified":1449051394,
+    "wof:lastmodified":1466190140,
     "wof:name":"Business & Leisure Travel",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.159348,-33.885246,151.159348,-33.885246],
-  "geometry": {"coordinates":[151.159348,-33.885246],"type":"Point"}
+  "bbox": [
+    151.159348,
+    -33.885246,
+    151.159348,
+    -33.885246
+],
+  "geometry": {"coordinates":[151.15934799999999,-33.885246],"type":"Point"}
 }

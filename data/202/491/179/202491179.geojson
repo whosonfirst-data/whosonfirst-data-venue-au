@@ -2,13 +2,14 @@
   "id": 202491179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.049576,-37.902401,145.049576,-37.902401",
     "geom:latitude":-37.902401,
     "geom:longitude":145.049576,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Parker St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202491179,
-    "wof:lastmodified":1449060073,
+    "wof:lastmodified":1466189411,
     "wof:name":"Southern Heating & Cooling",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [145.049576,-37.902401,145.049576,-37.902401],
+  "bbox": [
+    145.049576,
+    -37.902401,
+    145.049576,
+    -37.902401
+],
   "geometry": {"coordinates":[145.049576,-37.902401],"type":"Point"}
 }

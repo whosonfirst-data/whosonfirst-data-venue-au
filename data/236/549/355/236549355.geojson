@@ -2,13 +2,14 @@
   "id": 236549355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.998611,-33.953815,150.998611,-33.953815",
     "geom:latitude":-33.953815,
     "geom:longitude":150.998611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Anderson Ave",
     "sg:city":"Panania",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236549355,
-    "wof:lastmodified":1449002370,
+    "wof:lastmodified":1466191471,
     "wof:name":"Senior Citizens' Centres",
     "wof:parent_id":85776875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [150.998611,-33.953815,150.998611,-33.953815],
-  "geometry": {"coordinates":[150.998611,-33.953815],"type":"Point"}
+  "bbox": [
+    150.998611,
+    -33.953815,
+    150.998611,
+    -33.953815
+],
+  "geometry": {"coordinates":[150.99861100000001,-33.953815],"type":"Point"}
 }

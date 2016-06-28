@@ -2,13 +2,14 @@
   "id": 186324929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.958679,-31.897413,115.958679,-31.897413",
     "geom:latitude":-31.897413,
     "geom:longitude":115.958679,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Swan St",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186324929,
-    "wof:lastmodified":1449051939,
+    "wof:lastmodified":1466188007,
     "wof:name":"ABC Fencing",
     "wof:parent_id":85769421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.958679,-31.897413,115.958679,-31.897413],
+  "bbox": [
+    115.958679,
+    -31.897413,
+    115.958679,
+    -31.897413
+],
   "geometry": {"coordinates":[115.958679,-31.897413],"type":"Point"}
 }

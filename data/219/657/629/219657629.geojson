@@ -2,13 +2,14 @@
   "id": 219657629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.093765,-33.9389,151.093765,-33.9389",
     "geom:latitude":-33.9389,
     "geom:longitude":151.093765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Garema Crt",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219657629,
-    "wof:lastmodified":1449070784,
+    "wof:lastmodified":1466190954,
     "wof:name":"Movie Source Pty Ltd",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "library"
     ]
 },
-  "bbox": [151.093765,-33.9389,151.093765,-33.9389],
-  "geometry": {"coordinates":[151.093765,-33.9389],"type":"Point"}
+  "bbox": [
+    151.093765,
+    -33.9389,
+    151.093765,
+    -33.9389
+],
+  "geometry": {"coordinates":[151.09376499999999,-33.9389],"type":"Point"}
 }

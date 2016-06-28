@@ -2,13 +2,14 @@
   "id": 203107017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.662201,-32.581303,115.662201,-32.581303",
     "geom:latitude":-32.581303,
     "geom:longitude":115.662201,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, Falcon Grove Shopping Centre, Old Coast Rd",
     "sg:city":"Falcon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203107017,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466189998,
     "wof:name":"Liquor Baron Falcon",
     "wof:parent_id":85770815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [115.662201,-32.581303,115.662201,-32.581303],
+  "bbox": [
+    115.662201,
+    -32.581303,
+    115.662201,
+    -32.581303
+],
   "geometry": {"coordinates":[115.662201,-32.581303],"type":"Point"}
 }

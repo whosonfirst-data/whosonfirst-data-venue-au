@@ -2,13 +2,14 @@
   "id": 203248697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.224945,-36.463676,146.224945,-36.463676",
     "geom:latitude":-36.463676,
     "geom:longitude":146.224945,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Gladstone St",
     "sg:city":"Glenrowan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203248697,
-    "wof:lastmodified":1449025983,
+    "wof:lastmodified":1466187561,
     "wof:name":"Buffalo Mountain Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [146.224945,-36.463676,146.224945,-36.463676],
-  "geometry": {"coordinates":[146.224945,-36.463676],"type":"Point"}
+  "bbox": [
+    146.224945,
+    -36.463676,
+    146.224945,
+    -36.463676
+],
+  "geometry": {"coordinates":[146.22494499999999,-36.463676],"type":"Point"}
 }

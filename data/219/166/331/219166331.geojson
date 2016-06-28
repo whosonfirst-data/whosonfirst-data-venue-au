@@ -2,13 +2,14 @@
   "id": 219166331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055389,-27.41872,153.055389,-27.41872",
     "geom:latitude":-27.41872,
     "geom:longitude":153.055389,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Sandgate Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219166331,
-    "wof:lastmodified":1449072345,
+    "wof:lastmodified":1466189732,
     "wof:name":"Clayfield Jewellery",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reproduction"
     ]
 },
-  "bbox": [153.055389,-27.41872,153.055389,-27.41872],
-  "geometry": {"coordinates":[153.055389,-27.41872],"type":"Point"}
+  "bbox": [
+    153.055389,
+    -27.41872,
+    153.055389,
+    -27.41872
+],
+  "geometry": {"coordinates":[153.05538899999999,-27.41872],"type":"Point"}
 }

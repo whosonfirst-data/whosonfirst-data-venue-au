@@ -2,13 +2,14 @@
   "id": 185729627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.998703,-32.768147,151.998703,-32.768147",
     "geom:latitude":-32.768147,
     "geom:longitude":151.998703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Marsh Rd",
     "sg:city":"Bobs Farm",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185729627,
-    "wof:lastmodified":1449007444,
+    "wof:lastmodified":1466189399,
     "wof:name":"Altec Consulting Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.998703,-32.768147,151.998703,-32.768147],
-  "geometry": {"coordinates":[151.998703,-32.768147],"type":"Point"}
+  "bbox": [
+    151.998703,
+    -32.768147,
+    151.998703,
+    -32.768147
+],
+  "geometry": {"coordinates":[151.99870300000001,-32.768147],"type":"Point"}
 }

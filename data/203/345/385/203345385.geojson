@@ -2,13 +2,14 @@
   "id": 203345385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.851974,-37.559826,143.851974,-37.559826",
     "geom:latitude":-37.559826,
     "geom:longitude":143.851974,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Lyons St",
     "sg:city":"(Nth) Ballarat",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203345385,
-    "wof:lastmodified":1449026717,
+    "wof:lastmodified":1466188597,
     "wof:name":"Anne T Tudor",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [143.851974,-37.559826,143.851974,-37.559826],
-  "geometry": {"coordinates":[143.851974,-37.559826],"type":"Point"}
+  "bbox": [
+    143.851974,
+    -37.559826,
+    143.851974,
+    -37.559826
+],
+  "geometry": {"coordinates":[143.85197400000001,-37.559826],"type":"Point"}
 }

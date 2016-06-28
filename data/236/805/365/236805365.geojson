@@ -2,13 +2,14 @@
   "id": 236805365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.90329,-34.481243,150.90329,-34.481243",
     "geom:latitude":-34.481243,
     "geom:longitude":150.90329,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Military Rd",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236805365,
-    "wof:lastmodified":1449002606,
+    "wof:lastmodified":1466192052,
     "wof:name":"Plast-O-Weld",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfrs"
     ]
 },
-  "bbox": [150.90329,-34.481243,150.90329,-34.481243],
+  "bbox": [
+    150.90329,
+    -34.481243,
+    150.90329,
+    -34.481243
+],
   "geometry": {"coordinates":[150.90329,-34.481243],"type":"Point"}
 }

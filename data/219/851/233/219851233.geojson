@@ -2,13 +2,14 @@
   "id": 219851233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175018,-33.858158,151.175018,-33.858158",
     "geom:latitude":-33.858158,
     "geom:longitude":151.175018,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Elliott St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219851233,
-    "wof:lastmodified":1449072712,
+    "wof:lastmodified":1466191514,
     "wof:name":"Aged Care Accommodation & Advisory Services Pty Ltd",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aged"
     ]
 },
-  "bbox": [151.175018,-33.858158,151.175018,-33.858158],
-  "geometry": {"coordinates":[151.175018,-33.858158],"type":"Point"}
+  "bbox": [
+    151.175018,
+    -33.858158,
+    151.175018,
+    -33.858158
+],
+  "geometry": {"coordinates":[151.17501799999999,-33.858158],"type":"Point"}
 }

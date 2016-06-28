@@ -2,13 +2,14 @@
   "id": 253107749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.832138,-37.759399,144.832138,-37.759399",
     "geom:latitude":-37.759399,
     "geom:longitude":144.832138,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 McIntyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253107749,
-    "wof:lastmodified":1449062836,
+    "wof:lastmodified":1466188891,
     "wof:name":"Balfour Timber Pty Ltd",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [144.832138,-37.759399,144.832138,-37.759399],
-  "geometry": {"coordinates":[144.832138,-37.759399],"type":"Point"}
+  "bbox": [
+    144.832138,
+    -37.759399,
+    144.832138,
+    -37.759399
+],
+  "geometry": {"coordinates":[144.83213799999999,-37.759399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236973215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.354416,-37.861721,145.354416,-37.861721",
     "geom:latitude":-37.861721,
     "geom:longitude":145.354416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Mount Dandenong Tourist Rd",
     "sg:city":"Sassafras",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236973215,
-    "wof:lastmodified":1449003663,
+    "wof:lastmodified":1466192177,
     "wof:name":"Sassafras Gully Postal Services",
     "wof:parent_id":85770183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [145.354416,-37.861721,145.354416,-37.861721],
-  "geometry": {"coordinates":[145.354416,-37.861721],"type":"Point"}
+  "bbox": [
+    145.354416,
+    -37.861721,
+    145.354416,
+    -37.861721
+],
+  "geometry": {"coordinates":[145.35441599999999,-37.861721],"type":"Point"}
 }

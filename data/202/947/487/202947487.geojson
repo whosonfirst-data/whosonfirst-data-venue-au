@@ -2,13 +2,14 @@
   "id": 202947487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.130371,-30.30526,153.130371,-30.30526",
     "geom:latitude":-30.30526,
     "geom:longitude":153.130371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"The Promenade 321 Harbour Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202947487,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466190887,
     "wof:name":"Sensara Gallery",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [153.130371,-30.30526,153.130371,-30.30526],
+  "bbox": [
+    153.130371,
+    -30.30526,
+    153.130371,
+    -30.30526
+],
   "geometry": {"coordinates":[153.130371,-30.30526],"type":"Point"}
 }

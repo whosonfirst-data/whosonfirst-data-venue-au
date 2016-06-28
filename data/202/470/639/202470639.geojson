@@ -2,13 +2,14 @@
   "id": 202470639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.969666,-37.832745,144.969666,-37.832745",
     "geom:latitude":-37.832745,
     "geom:longitude":144.969666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Park St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202470639,
-    "wof:lastmodified":1449060729,
+    "wof:lastmodified":1466189079,
     "wof:name":"VTAC",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tertiary"
     ]
 },
-  "bbox": [144.969666,-37.832745,144.969666,-37.832745],
-  "geometry": {"coordinates":[144.969666,-37.832745],"type":"Point"}
+  "bbox": [
+    144.969666,
+    -37.832745,
+    144.969666,
+    -37.832745
+],
+  "geometry": {"coordinates":[144.96966599999999,-37.832745],"type":"Point"}
 }

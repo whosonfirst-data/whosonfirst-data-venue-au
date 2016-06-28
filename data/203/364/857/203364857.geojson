@@ -2,13 +2,14 @@
   "id": 203364857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.848663,-37.56057,143.848663,-37.56057",
     "geom:latitude":-37.56057,
     "geom:longitude":143.848663,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203364857,
-    "wof:lastmodified":1449026018,
+    "wof:lastmodified":1466188933,
     "wof:name":"Emmerson Financial Group",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [143.848663,-37.56057,143.848663,-37.56057],
-  "geometry": {"coordinates":[143.848663,-37.56057],"type":"Point"}
+  "bbox": [
+    143.848663,
+    -37.56057,
+    143.848663,
+    -37.56057
+],
+  "geometry": {"coordinates":[143.84866299999999,-37.56057],"type":"Point"}
 }

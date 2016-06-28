@@ -2,13 +2,14 @@
   "id": 235939853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.954681,-32.759464,149.954681,-32.759464",
     "geom:latitude":-32.759464,
     "geom:longitude":149.954681,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Windles La",
     "sg:city":"Rylstone",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235939853,
-    "wof:lastmodified":1449008352,
+    "wof:lastmodified":1466186978,
     "wof:name":"Woongarra Texels & Poll Dorsets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [149.954681,-32.759464,149.954681,-32.759464],
-  "geometry": {"coordinates":[149.954681,-32.759464],"type":"Point"}
+  "bbox": [
+    149.954681,
+    -32.759464,
+    149.954681,
+    -32.759464
+],
+  "geometry": {"coordinates":[149.95468099999999,-32.759464],"type":"Point"}
 }

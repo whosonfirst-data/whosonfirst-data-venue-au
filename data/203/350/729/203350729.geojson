@@ -2,13 +2,14 @@
   "id": 203350729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.895645,-37.570152,143.895645,-37.570152",
     "geom:latitude":-37.570152,
     "geom:longitude":143.895645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Stockade St",
     "sg:city":"Ballarat East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203350729,
-    "wof:lastmodified":1449025893,
+    "wof:lastmodified":1466188689,
     "wof:name":"Ballarat Metal Polishing",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polisher"
     ]
 },
-  "bbox": [143.895645,-37.570152,143.895645,-37.570152],
+  "bbox": [
+    143.895645,
+    -37.570152,
+    143.895645,
+    -37.570152
+],
   "geometry": {"coordinates":[143.895645,-37.570152],"type":"Point"}
 }

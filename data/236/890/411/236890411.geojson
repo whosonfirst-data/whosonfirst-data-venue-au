@@ -2,13 +2,14 @@
   "id": 236890411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.54184,-35.032162,138.54184,-35.032162",
     "geom:latitude":-35.032162,
     "geom:longitude":138.54184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cadell St",
     "sg:city":"Seaview Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236890411,
-    "wof:lastmodified":1449002216,
+    "wof:lastmodified":1466192082,
     "wof:name":"McGovern's Plastering",
     "wof:parent_id":85777531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plasterer"
     ]
 },
-  "bbox": [138.54184,-35.032162,138.54184,-35.032162],
-  "geometry": {"coordinates":[138.54184,-35.032162],"type":"Point"}
+  "bbox": [
+    138.54184,
+    -35.032162,
+    138.54184,
+    -35.032162
+],
+  "geometry": {"coordinates":[138.54184000000001,-35.032162],"type":"Point"}
 }

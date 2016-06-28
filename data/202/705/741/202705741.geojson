@@ -2,13 +2,14 @@
   "id": 202705741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.048721,-27.363781,153.048721,-27.363781",
     "geom:latitude":-27.363781,
     "geom:longitude":153.048721,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Newman Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202705741,
-    "wof:lastmodified":1449062662,
+    "wof:lastmodified":1466188940,
     "wof:name":"Havestock Pty Ltd",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grating"
     ]
 },
-  "bbox": [153.048721,-27.363781,153.048721,-27.363781],
+  "bbox": [
+    153.048721,
+    -27.363781,
+    153.048721,
+    -27.363781
+],
   "geometry": {"coordinates":[153.048721,-27.363781],"type":"Point"}
 }

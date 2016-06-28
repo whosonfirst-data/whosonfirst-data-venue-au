@@ -2,13 +2,14 @@
   "id": 203101723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.722687,-32.548725,115.722687,-32.548725",
     "geom:latitude":-32.548725,
     "geom:longitude":115.722687,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Waterside Drv",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203101723,
-    "wof:lastmodified":1449025942,
+    "wof:lastmodified":1466189066,
     "wof:name":"Murray River Houseboats",
     "wof:parent_id":85770887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drive"
     ]
 },
-  "bbox": [115.722687,-32.548725,115.722687,-32.548725],
-  "geometry": {"coordinates":[115.722687,-32.548725],"type":"Point"}
+  "bbox": [
+    115.722687,
+    -32.548725,
+    115.722687,
+    -32.548725
+],
+  "geometry": {"coordinates":[115.72268699999999,-32.548725],"type":"Point"}
 }

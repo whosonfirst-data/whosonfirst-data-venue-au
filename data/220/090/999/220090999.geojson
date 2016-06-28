@@ -2,13 +2,14 @@
   "id": 220090999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.618362,-38.275501,144.618362,-38.275501",
     "geom:latitude":-38.275501,
     "geom:longitude":144.618362,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Point Lonsdale Rd",
     "sg:city":"Point Lonsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220090999,
-    "wof:lastmodified":1449074674,
+    "wof:lastmodified":1466187856,
     "wof:name":"Queenscliff Cemetery Trust",
     "wof:parent_id":85770017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [144.618362,-38.275501,144.618362,-38.275501],
-  "geometry": {"coordinates":[144.618362,-38.275501],"type":"Point"}
+  "bbox": [
+    144.618362,
+    -38.275501,
+    144.618362,
+    -38.275501
+],
+  "geometry": {"coordinates":[144.61836199999999,-38.275501],"type":"Point"}
 }

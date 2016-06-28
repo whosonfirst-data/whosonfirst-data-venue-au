@@ -2,13 +2,14 @@
   "id": 236562099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.012726,-33.936798,151.012726,-33.936798",
     "geom:latitude":-33.936798,
     "geom:longitude":151.012726,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 80 Milperra Rd",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236562099,
-    "wof:lastmodified":1449003395,
+    "wof:lastmodified":1466191511,
     "wof:name":"Revesby Tyre Centre",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [151.012726,-33.936798,151.012726,-33.936798],
-  "geometry": {"coordinates":[151.012726,-33.936798],"type":"Point"}
+  "bbox": [
+    151.012726,
+    -33.936798,
+    151.012726,
+    -33.936798
+],
+  "geometry": {"coordinates":[151.01272599999999,-33.936798],"type":"Point"}
 }

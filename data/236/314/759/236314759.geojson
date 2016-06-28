@@ -2,13 +2,14 @@
   "id": 236314759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.754562,-32.052074,115.754562,-32.052074",
     "geom:latitude":-32.052074,
     "geom:longitude":115.754562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 High St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236314759,
-    "wof:lastmodified":1449005084,
+    "wof:lastmodified":1466190584,
     "wof:name":"Travel Doctor TMVC",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "safety"
     ]
 },
-  "bbox": [115.754562,-32.052074,115.754562,-32.052074],
-  "geometry": {"coordinates":[115.754562,-32.052074],"type":"Point"}
+  "bbox": [
+    115.754562,
+    -32.052074,
+    115.754562,
+    -32.052074
+],
+  "geometry": {"coordinates":[115.75456200000001,-32.052074],"type":"Point"}
 }

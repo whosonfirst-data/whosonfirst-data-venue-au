@@ -2,13 +2,14 @@
   "id": 202431737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.952209,-37.847984,144.952209,-37.847984",
     "geom:latitude":-37.847984,
     "geom:longitude":144.952209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"188b Kerferd Rd",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202431737,
-    "wof:lastmodified":1449060451,
+    "wof:lastmodified":1466188446,
     "wof:name":"Jobforce Consulting",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.952209,-37.847984,144.952209,-37.847984],
-  "geometry": {"coordinates":[144.952209,-37.847984],"type":"Point"}
+  "bbox": [
+    144.952209,
+    -37.847984,
+    144.952209,
+    -37.847984
+],
+  "geometry": {"coordinates":[144.95220900000001,-37.847984],"type":"Point"}
 }

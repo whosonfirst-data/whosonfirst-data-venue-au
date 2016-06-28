@@ -2,13 +2,14 @@
   "id": 202982345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.186295,-33.795452,151.186295,-33.795452",
     "geom:latitude":-33.795452,
     "geom:longitude":151.186295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Victoria Ave",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202982345,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466191142,
     "wof:name":"Travelex",
     "wof:parent_id":85769015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "foreign"
     ]
 },
-  "bbox": [151.186295,-33.795452,151.186295,-33.795452],
+  "bbox": [
+    151.186295,
+    -33.795452,
+    151.186295,
+    -33.795452
+],
   "geometry": {"coordinates":[151.186295,-33.795452],"type":"Point"}
 }

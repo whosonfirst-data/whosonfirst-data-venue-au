@@ -2,13 +2,14 @@
   "id": 236173091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.886826,-37.677036,144.886826,-37.677036",
     "geom:latitude":-37.677036,
     "geom:longitude":144.886826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Fawkner St",
     "sg:city":"Westmeadows",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236173091,
-    "wof:lastmodified":1449002154,
+    "wof:lastmodified":1466189777,
     "wof:name":"Westmeadows Service Centre",
     "wof:parent_id":85777833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.886826,-37.677036,144.886826,-37.677036],
-  "geometry": {"coordinates":[144.886826,-37.677036],"type":"Point"}
+  "bbox": [
+    144.886826,
+    -37.677036,
+    144.886826,
+    -37.677036
+],
+  "geometry": {"coordinates":[144.88682600000001,-37.677036],"type":"Point"}
 }

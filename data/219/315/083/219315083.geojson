@@ -2,13 +2,14 @@
   "id": 219315083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.920486,-38.168484,145.920486,-38.168484",
     "geom:latitude":-38.168484,
     "geom:longitude":145.920486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Wills St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219315083,
-    "wof:lastmodified":1449073725,
+    "wof:lastmodified":1466187658,
     "wof:name":"Gippsland Apprenticeship Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [145.920486,-38.168484,145.920486,-38.168484],
-  "geometry": {"coordinates":[145.920486,-38.168484],"type":"Point"}
+  "bbox": [
+    145.920486,
+    -38.168484,
+    145.920486,
+    -38.168484
+],
+  "geometry": {"coordinates":[145.92048600000001,-38.168484],"type":"Point"}
 }

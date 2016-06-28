@@ -2,13 +2,14 @@
   "id": 236142717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.850128,-34.743931,135.850128,-34.743931",
     "geom:latitude":-34.743931,
     "geom:longitude":135.850128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 14 Proper Bay Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236142717,
-    "wof:lastmodified":1449004450,
+    "wof:lastmodified":1466189439,
     "wof:name":"Kym Clarke Constructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [135.850128,-34.743931,135.850128,-34.743931],
-  "geometry": {"coordinates":[135.850128,-34.743931],"type":"Point"}
+  "bbox": [
+    135.850128,
+    -34.743931,
+    135.850128,
+    -34.743931
+],
+  "geometry": {"coordinates":[135.85012800000001,-34.743931],"type":"Point"}
 }

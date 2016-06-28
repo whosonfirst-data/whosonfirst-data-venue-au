@@ -2,13 +2,14 @@
   "id": 185790095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.435623,-37.729141,145.435623,-37.729141",
     "geom:latitude":-37.729141,
     "geom:longitude":145.435623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Killara Rd",
     "sg:city":"Gruyere",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185790095,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1466190024,
     "wof:name":"M L Farrow Insurances Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.435623,-37.729141,145.435623,-37.729141],
-  "geometry": {"coordinates":[145.435623,-37.729141],"type":"Point"}
+  "bbox": [
+    145.435623,
+    -37.729141,
+    145.435623,
+    -37.729141
+],
+  "geometry": {"coordinates":[145.43562299999999,-37.729141],"type":"Point"}
 }

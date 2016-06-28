@@ -2,13 +2,14 @@
   "id": 236759423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.981537,-27.083824,152.981537,-27.083824",
     "geom:latitude":-27.083824,
     "geom:longitude":152.981537,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 2, 1-5 Piper St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236759423,
-    "wof:lastmodified":1449005307,
+    "wof:lastmodified":1466191995,
     "wof:name":"AMS Mechanical",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.981537,-27.083824,152.981537,-27.083824],
+  "bbox": [
+    152.981537,
+    -27.083824,
+    152.981537,
+    -27.083824
+],
   "geometry": {"coordinates":[152.981537,-27.083824],"type":"Point"}
 }

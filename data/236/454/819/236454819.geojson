@@ -2,13 +2,14 @@
   "id": 236454819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.149246,-21.122732,149.149246,-21.122732",
     "geom:latitude":-21.122732,
     "geom:longitude":149.149246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Richmond-Glenella Rd",
     "sg:city":"Glenella",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236454819,
-    "wof:lastmodified":1449004872,
+    "wof:lastmodified":1466191270,
     "wof:name":"Talhire Pty Ltd",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machine"
     ]
 },
-  "bbox": [149.149246,-21.122732,149.149246,-21.122732],
-  "geometry": {"coordinates":[149.149246,-21.122732],"type":"Point"}
+  "bbox": [
+    149.149246,
+    -21.122732,
+    149.149246,
+    -21.122732
+],
+  "geometry": {"coordinates":[149.14924600000001,-21.122732],"type":"Point"}
 }

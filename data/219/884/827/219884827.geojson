@@ -2,13 +2,14 @@
   "id": 219884827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.911285,-34.364063,150.911285,-34.364063",
     "geom:latitude":-34.364063,
     "geom:longitude":150.911285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 9 Pioneer Rd",
     "sg:city":"Bellambi",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219884827,
-    "wof:lastmodified":1449073248,
+    "wof:lastmodified":1466191620,
     "wof:name":"Builder Carlo Correani",
     "wof:parent_id":85776199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.911285,-34.364063,150.911285,-34.364063],
-  "geometry": {"coordinates":[150.911285,-34.364063],"type":"Point"}
+  "bbox": [
+    150.911285,
+    -34.364063,
+    150.911285,
+    -34.364063
+],
+  "geometry": {"coordinates":[150.91128499999999,-34.364063],"type":"Point"}
 }

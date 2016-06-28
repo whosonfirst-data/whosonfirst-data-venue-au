@@ -2,13 +2,14 @@
   "id": 236635385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.981277,-33.940533,150.981277,-33.940533",
     "geom:latitude":-33.940533,
     "geom:longitude":150.981277,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Eynham Rd",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236635385,
-    "wof:lastmodified":1449003018,
+    "wof:lastmodified":1466191721,
     "wof:name":"JL Combined Air",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [150.981277,-33.940533,150.981277,-33.940533],
-  "geometry": {"coordinates":[150.981277,-33.940533],"type":"Point"}
+  "bbox": [
+    150.981277,
+    -33.940533,
+    150.981277,
+    -33.940533
+],
+  "geometry": {"coordinates":[150.98127700000001,-33.940533],"type":"Point"}
 }

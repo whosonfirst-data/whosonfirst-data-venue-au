@@ -2,13 +2,14 @@
   "id": 253327055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.305573,-38.031204,145.305573,-38.031204",
     "geom:latitude":-38.031204,
     "geom:longitude":145.305573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"F4 Fullard Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253327055,
-    "wof:lastmodified":1449063042,
+    "wof:lastmodified":1466190858,
     "wof:name":"Aussie Nappies Pty Ltd",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nappy"
     ]
 },
-  "bbox": [145.305573,-38.031204,145.305573,-38.031204],
-  "geometry": {"coordinates":[145.305573,-38.031204],"type":"Point"}
+  "bbox": [
+    145.305573,
+    -38.031204,
+    145.305573,
+    -38.031204
+],
+  "geometry": {"coordinates":[145.30557300000001,-38.031204],"type":"Point"}
 }

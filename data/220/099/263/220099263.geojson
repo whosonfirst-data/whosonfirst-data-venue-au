@@ -2,13 +2,14 @@
   "id": 220099263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.455292,-38.196251,144.455292,-38.196251",
     "geom:latitude":-38.196251,
     "geom:longitude":144.455292,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Reedy Lakes Crt",
     "sg:city":"Leopold",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220099263,
-    "wof:lastmodified":1449074579,
+    "wof:lastmodified":1466187954,
     "wof:name":"Hamilton Hill Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.455292,-38.196251,144.455292,-38.196251],
-  "geometry": {"coordinates":[144.455292,-38.196251],"type":"Point"}
+  "bbox": [
+    144.455292,
+    -38.196251,
+    144.455292,
+    -38.196251
+],
+  "geometry": {"coordinates":[144.45529199999999,-38.196251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203080067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.234833,-41.316055,148.234833,-41.316055",
     "geom:latitude":-41.316055,
     "geom:longitude":148.234833,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Tully St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203080067,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466188758,
     "wof:name":"Fishquip Australia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "conveying"
     ]
 },
-  "bbox": [148.234833,-41.316055,148.234833,-41.316055],
-  "geometry": {"coordinates":[148.234833,-41.316055],"type":"Point"}
+  "bbox": [
+    148.234833,
+    -41.316055,
+    148.234833,
+    -41.316055
+],
+  "geometry": {"coordinates":[148.23483300000001,-41.316055],"type":"Point"}
 }

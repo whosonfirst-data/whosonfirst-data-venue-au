@@ -2,13 +2,14 @@
   "id": 252828007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.596832,-32.599045,149.596832,-32.599045",
     "geom:latitude":-32.599045,
     "geom:longitude":149.596832,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Avisford Crt",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252828007,
-    "wof:lastmodified":1449005977,
+    "wof:lastmodified":1466188369,
     "wof:name":"Barlow Constructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [149.596832,-32.599045,149.596832,-32.599045],
-  "geometry": {"coordinates":[149.596832,-32.599045],"type":"Point"}
+  "bbox": [
+    149.596832,
+    -32.599045,
+    149.596832,
+    -32.599045
+],
+  "geometry": {"coordinates":[149.59683200000001,-32.599045],"type":"Point"}
 }

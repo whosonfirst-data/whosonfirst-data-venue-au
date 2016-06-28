@@ -2,13 +2,14 @@
   "id": 220158615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.352921,-38.121243,144.352921,-38.121243",
     "geom:latitude":-38.121243,
     "geom:longitude":144.352921,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 216 Bay City Shopping Centre",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220158615,
-    "wof:lastmodified":1449074589,
+    "wof:lastmodified":1466188765,
     "wof:name":"Jesters",
     "wof:parent_id":85776481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.352921,-38.121243,144.352921,-38.121243],
-  "geometry": {"coordinates":[144.352921,-38.121243],"type":"Point"}
+  "bbox": [
+    144.352921,
+    -38.121243,
+    144.352921,
+    -38.121243
+],
+  "geometry": {"coordinates":[144.35292100000001,-38.121243],"type":"Point"}
 }

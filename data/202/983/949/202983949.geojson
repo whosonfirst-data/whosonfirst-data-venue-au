@@ -2,13 +2,14 @@
   "id": 202983949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.208237,-33.840591,151.208237,-33.840591",
     "geom:latitude":-33.840591,
     "geom:longitude":151.208237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6/ 80 Pacific Hwy",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202983949,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466191225,
     "wof:name":"Rob Tresidder T/A Sealand Consultancies",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [151.208237,-33.840591,151.208237,-33.840591],
+  "bbox": [
+    151.208237,
+    -33.840591,
+    151.208237,
+    -33.840591
+],
   "geometry": {"coordinates":[151.208237,-33.840591],"type":"Point"}
 }

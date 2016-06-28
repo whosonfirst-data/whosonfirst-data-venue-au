@@ -2,13 +2,14 @@
   "id": 236561703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.002686,-33.93914,151.002686,-33.93914",
     "geom:latitude":-33.93914,
     "geom:longitude":151.002686,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Fitzpatrick St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236561703,
-    "wof:lastmodified":1449004092,
+    "wof:lastmodified":1466191519,
     "wof:name":"Johnston & Smith Engineering Pty Ltd",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.002686,-33.93914,151.002686,-33.93914],
-  "geometry": {"coordinates":[151.002686,-33.93914],"type":"Point"}
+  "bbox": [
+    151.002686,
+    -33.93914,
+    151.002686,
+    -33.93914
+],
+  "geometry": {"coordinates":[151.00268600000001,-33.93914],"type":"Point"}
 }

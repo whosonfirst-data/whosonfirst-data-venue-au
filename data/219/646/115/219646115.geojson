@@ -2,13 +2,14 @@
   "id": 219646115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.11322,-33.940182,151.11322,-33.940182",
     "geom:latitude":-33.940182,
     "geom:longitude":151.11322,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Fortescue St",
     "sg:city":"Bexley North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219646115,
-    "wof:lastmodified":1449070293,
+    "wof:lastmodified":1466190978,
     "wof:name":"Roddan Electrical Service",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.11322,-33.940182,151.11322,-33.940182],
-  "geometry": {"coordinates":[151.11322,-33.940182],"type":"Point"}
+  "bbox": [
+    151.11322,
+    -33.940182,
+    151.11322,
+    -33.940182
+],
+  "geometry": {"coordinates":[151.11322000000001,-33.940182],"type":"Point"}
 }

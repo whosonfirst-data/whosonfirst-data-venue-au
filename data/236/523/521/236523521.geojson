@@ -2,13 +2,14 @@
   "id": 236523521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165787,-32.566853,151.165787,-32.566853",
     "geom:latitude":-32.566853,
     "geom:longitude":151.165787,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236523521,
-    "wof:lastmodified":1449003572,
+    "wof:lastmodified":1466191536,
     "wof:name":"ProVision Optometrists",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.165787,-32.566853,151.165787,-32.566853],
-  "geometry": {"coordinates":[151.165787,-32.566853],"type":"Point"}
+  "bbox": [
+    151.165787,
+    -32.566853,
+    151.165787,
+    -32.566853
+],
+  "geometry": {"coordinates":[151.16578699999999,-32.566853],"type":"Point"}
 }

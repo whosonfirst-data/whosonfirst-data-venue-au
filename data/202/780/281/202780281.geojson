@@ -2,13 +2,14 @@
   "id": 202780281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.767578,-32.935707,151.767578,-32.935707",
     "geom:latitude":-32.935707,
     "geom:longitude":151.767578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Darby St",
     "sg:city":"Cooks Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202780281,
-    "wof:lastmodified":1449062009,
+    "wof:lastmodified":1466190168,
     "wof:name":"Darby St Sandwich & Deli",
     "wof:parent_id":85777089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [151.767578,-32.935707,151.767578,-32.935707],
-  "geometry": {"coordinates":[151.767578,-32.935707],"type":"Point"}
+  "bbox": [
+    151.767578,
+    -32.935707,
+    151.767578,
+    -32.935707
+],
+  "geometry": {"coordinates":[151.76757799999999,-32.935707],"type":"Point"}
 }

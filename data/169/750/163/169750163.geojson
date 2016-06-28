@@ -2,13 +2,14 @@
   "id": 169750163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.108337,-27.220278,153.108337,-27.220278",
     "geom:latitude":-27.220278,
     "geom:longitude":153.108337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Steven St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":169750163,
-    "wof:lastmodified":1449034678,
+    "wof:lastmodified":1466187843,
     "wof:name":"Colin Roe Building Designer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [153.108337,-27.220278,153.108337,-27.220278],
-  "geometry": {"coordinates":[153.108337,-27.220278],"type":"Point"}
+  "bbox": [
+    153.108337,
+    -27.220278,
+    153.108337,
+    -27.220278
+],
+  "geometry": {"coordinates":[153.10833700000001,-27.220278],"type":"Point"}
 }

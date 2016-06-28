@@ -2,13 +2,14 @@
   "id": 219637097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.125107,-33.926262,151.125107,-33.926262",
     "geom:latitude":-33.926262,
     "geom:longitude":151.125107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Clarke St",
     "sg:city":"Earlwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219637097,
-    "wof:lastmodified":1449070381,
+    "wof:lastmodified":1466190932,
     "wof:name":"Building By Degree Pty Ltd",
     "wof:parent_id":85769211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.125107,-33.926262,151.125107,-33.926262],
-  "geometry": {"coordinates":[151.125107,-33.926262],"type":"Point"}
+  "bbox": [
+    151.125107,
+    -33.926262,
+    151.125107,
+    -33.926262
+],
+  "geometry": {"coordinates":[151.12510700000001,-33.926262],"type":"Point"}
 }

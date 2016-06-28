@@ -2,13 +2,14 @@
   "id": 253028215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.769608,-37.878605,144.769608,-37.878605",
     "geom:latitude":-37.878605,
     "geom:longitude":144.769608,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Cations Crt",
     "sg:city":"Altona Meadows",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253028215,
-    "wof:lastmodified":1449064434,
+    "wof:lastmodified":1466187478,
     "wof:name":"Altona Bay Bookkeeping",
     "wof:parent_id":85780023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [144.769608,-37.878605,144.769608,-37.878605],
-  "geometry": {"coordinates":[144.769608,-37.878605],"type":"Point"}
+  "bbox": [
+    144.769608,
+    -37.878605,
+    144.769608,
+    -37.878605
+],
+  "geometry": {"coordinates":[144.76960800000001,-37.878605],"type":"Point"}
 }

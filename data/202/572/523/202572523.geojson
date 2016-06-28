@@ -2,13 +2,14 @@
   "id": 202572523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.420837,-37.66967,144.420837,-37.66967",
     "geom:latitude":-37.66967,
     "geom:longitude":144.420837,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 39/ Bacchus Marsh S/Ctre",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202572523,
-    "wof:lastmodified":1449061678,
+    "wof:lastmodified":1466187063,
     "wof:name":"Baghouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sack"
     ]
 },
-  "bbox": [144.420837,-37.66967,144.420837,-37.66967],
-  "geometry": {"coordinates":[144.420837,-37.66967],"type":"Point"}
+  "bbox": [
+    144.420837,
+    -37.66967,
+    144.420837,
+    -37.66967
+],
+  "geometry": {"coordinates":[144.42083700000001,-37.66967],"type":"Point"}
 }

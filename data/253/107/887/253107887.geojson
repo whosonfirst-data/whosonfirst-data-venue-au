@@ -2,13 +2,14 @@
   "id": 253107887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.828018,-37.777332,144.828018,-37.777332",
     "geom:latitude":-37.777332,
     "geom:longitude":144.828018,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Ballarat Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253107887,
-    "wof:lastmodified":1449062837,
+    "wof:lastmodified":1466188895,
     "wof:name":"Cosma Enterprises",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [144.828018,-37.777332,144.828018,-37.777332],
-  "geometry": {"coordinates":[144.828018,-37.777332],"type":"Point"}
+  "bbox": [
+    144.828018,
+    -37.777332,
+    144.828018,
+    -37.777332
+],
+  "geometry": {"coordinates":[144.82801799999999,-37.777332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202773431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.781662,-32.928829,151.781662,-32.928829",
     "geom:latitude":-32.928829,
     "geom:longitude":151.781662,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl1/ 41 Newcomen St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202773431,
-    "wof:lastmodified":1449060423,
+    "wof:lastmodified":1466190094,
     "wof:name":"People Check Pty Ltd",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.781662,-32.928829,151.781662,-32.928829],
-  "geometry": {"coordinates":[151.781662,-32.928829],"type":"Point"}
+  "bbox": [
+    151.781662,
+    -32.928829,
+    151.781662,
+    -32.928829
+],
+  "geometry": {"coordinates":[151.78166200000001,-32.928829],"type":"Point"}
 }

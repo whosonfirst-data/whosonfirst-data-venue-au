@@ -2,13 +2,14 @@
   "id": 202918211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.097183,-30.314667,153.097183,-30.314667",
     "geom:latitude":-30.314667,
     "geom:longitude":153.097183,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 5 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202918211,
-    "wof:lastmodified":1449061808,
+    "wof:lastmodified":1466190910,
     "wof:name":"Ward's Auto Paint Supplies",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [153.097183,-30.314667,153.097183,-30.314667],
+  "bbox": [
+    153.097183,
+    -30.314667,
+    153.097183,
+    -30.314667
+],
   "geometry": {"coordinates":[153.097183,-30.314667],"type":"Point"}
 }

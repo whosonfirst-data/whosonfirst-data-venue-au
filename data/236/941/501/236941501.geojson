@@ -2,13 +2,14 @@
   "id": 236941501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.575287,-35.001232,138.575287,-35.001232",
     "geom:latitude":-35.001232,
     "geom:longitude":138.575287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1234A South Rd",
     "sg:city":"Clovelly Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236941501,
-    "wof:lastmodified":1449003654,
+    "wof:lastmodified":1466192148,
     "wof:name":"H&R Block",
     "wof:parent_id":85777539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [138.575287,-35.001232,138.575287,-35.001232],
+  "bbox": [
+    138.575287,
+    -35.001232,
+    138.575287,
+    -35.001232
+],
   "geometry": {"coordinates":[138.575287,-35.001232],"type":"Point"}
 }

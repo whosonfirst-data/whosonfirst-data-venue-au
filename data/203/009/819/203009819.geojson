@@ -2,13 +2,14 @@
   "id": 203009819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485825,-20.727293,139.485825,-20.727293",
     "geom:latitude":-20.727293,
     "geom:longitude":139.485825,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 2545",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203009819,
-    "wof:lastmodified":1449026840,
+    "wof:lastmodified":1466187230,
     "wof:name":"Watkins Group Pty Ltd",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [139.485825,-20.727293,139.485825,-20.727293],
-  "geometry": {"coordinates":[139.485825,-20.727293],"type":"Point"}
+  "bbox": [
+    139.485825,
+    -20.727293,
+    139.485825,
+    -20.727293
+],
+  "geometry": {"coordinates":[139.48582500000001,-20.727293],"type":"Point"}
 }

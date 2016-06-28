@@ -2,13 +2,14 @@
   "id": 219772745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.158951,-33.926849,151.158951,-33.926849",
     "geom:latitude":-33.926849,
     "geom:longitude":151.158951,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Princes Hwy",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219772745,
-    "wof:lastmodified":1449071982,
+    "wof:lastmodified":1466191302,
     "wof:name":"GDA",
     "wof:parent_id":85776153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "screen"
     ]
 },
-  "bbox": [151.158951,-33.926849,151.158951,-33.926849],
+  "bbox": [
+    151.158951,
+    -33.926849,
+    151.158951,
+    -33.926849
+],
   "geometry": {"coordinates":[151.158951,-33.926849],"type":"Point"}
 }

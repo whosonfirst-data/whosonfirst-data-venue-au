@@ -2,13 +2,14 @@
   "id": 253005491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.708542,-37.847775,144.708542,-37.847775",
     "geom:latitude":-37.847775,
     "geom:longitude":144.708542,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 St Patricks Pl",
     "sg:city":"Tarneit",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253005491,
-    "wof:lastmodified":1449065550,
+    "wof:lastmodified":1466187014,
     "wof:name":"Advance Learning Centre",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [144.708542,-37.847775,144.708542,-37.847775],
-  "geometry": {"coordinates":[144.708542,-37.847775],"type":"Point"}
+  "bbox": [
+    144.708542,
+    -37.847775,
+    144.708542,
+    -37.847775
+],
+  "geometry": {"coordinates":[144.70854199999999,-37.847775],"type":"Point"}
 }

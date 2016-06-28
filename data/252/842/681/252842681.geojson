@@ -2,13 +2,14 @@
   "id": 252842681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.578888,-32.600819,149.578888,-32.600819",
     "geom:latitude":-32.600819,
     "geom:longitude":149.578888,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"South Side Plaza Shop 4/ Oporto Rd",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252842681,
-    "wof:lastmodified":1449005492,
+    "wof:lastmodified":1466188491,
     "wof:name":"Down Under Communications P/L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.578888,-32.600819,149.578888,-32.600819],
-  "geometry": {"coordinates":[149.578888,-32.600819],"type":"Point"}
+  "bbox": [
+    149.578888,
+    -32.600819,
+    149.578888,
+    -32.600819
+],
+  "geometry": {"coordinates":[149.57888800000001,-32.600819],"type":"Point"}
 }

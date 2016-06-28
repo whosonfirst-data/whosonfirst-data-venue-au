@@ -2,13 +2,14 @@
   "id": 202805903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.708496,-32.930943,151.708496,-32.930943",
     "geom:latitude":-32.930943,
     "geom:longitude":151.708496,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Jean St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202805903,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466190229,
     "wof:name":"Slevin Peter Pty Ltd",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [151.708496,-32.930943,151.708496,-32.930943],
+  "bbox": [
+    151.708496,
+    -32.930943,
+    151.708496,
+    -32.930943
+],
   "geometry": {"coordinates":[151.708496,-32.930943],"type":"Point"}
 }

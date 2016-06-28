@@ -2,13 +2,14 @@
   "id": 220132049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.492767,-38.275051,144.492767,-38.275051",
     "geom:latitude":-38.275051,
     "geom:longitude":144.492767,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Private Mail Bag 2",
     "sg:city":"Geelong MC",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220132049,
-    "wof:lastmodified":1449074416,
+    "wof:lastmodified":1466188263,
     "wof:name":"Ark Catholic Religious Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "church"
     ]
 },
-  "bbox": [144.492767,-38.275051,144.492767,-38.275051],
-  "geometry": {"coordinates":[144.492767,-38.275051],"type":"Point"}
+  "bbox": [
+    144.492767,
+    -38.275051,
+    144.492767,
+    -38.275051
+],
+  "geometry": {"coordinates":[144.49276699999999,-38.275051],"type":"Point"}
 }

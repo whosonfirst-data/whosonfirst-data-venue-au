@@ -2,13 +2,14 @@
   "id": 186317615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.97052,-31.899506,115.97052,-31.899506",
     "geom:latitude":-31.899506,
     "geom:longitude":115.97052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 121 James St",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186317615,
-    "wof:lastmodified":1449051594,
+    "wof:lastmodified":1466187912,
     "wof:name":"Guildford Chiropractic Clinic",
     "wof:parent_id":85769421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.97052,-31.899506,115.97052,-31.899506],
-  "geometry": {"coordinates":[115.97052,-31.899506],"type":"Point"}
+  "bbox": [
+    115.97052,
+    -31.899506,
+    115.97052,
+    -31.899506
+],
+  "geometry": {"coordinates":[115.97051999999999,-31.899506],"type":"Point"}
 }

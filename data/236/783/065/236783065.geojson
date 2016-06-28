@@ -2,13 +2,14 @@
   "id": 236783065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.783127,-26.941502,152.783127,-26.941502",
     "geom:latitude":-26.941502,
     "geom:longitude":152.783127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Windsor St",
     "sg:city":"Woodford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236783065,
-    "wof:lastmodified":1449001761,
+    "wof:lastmodified":1466192035,
     "wof:name":"Twin Oaks Winery & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [152.783127,-26.941502,152.783127,-26.941502],
-  "geometry": {"coordinates":[152.783127,-26.941502],"type":"Point"}
+  "bbox": [
+    152.783127,
+    -26.941502,
+    152.783127,
+    -26.941502
+],
+  "geometry": {"coordinates":[152.78312700000001,-26.941502],"type":"Point"}
 }

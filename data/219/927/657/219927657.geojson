@@ -2,13 +2,14 @@
   "id": 219927657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.754623,-36.111275,144.754623,-36.111275",
     "geom:latitude":-36.111275,
     "geom:longitude":144.754623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Meninya St",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219927657,
-    "wof:lastmodified":1449073545,
+    "wof:lastmodified":1466191846,
     "wof:name":"Moama Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.754623,-36.111275,144.754623,-36.111275],
-  "geometry": {"coordinates":[144.754623,-36.111275],"type":"Point"}
+  "bbox": [
+    144.754623,
+    -36.111275,
+    144.754623,
+    -36.111275
+],
+  "geometry": {"coordinates":[144.75462300000001,-36.111275],"type":"Point"}
 }

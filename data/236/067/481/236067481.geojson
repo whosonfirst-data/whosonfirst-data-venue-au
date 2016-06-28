@@ -2,13 +2,14 @@
   "id": 236067481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.852905,-37.737602,144.852905,-37.737602",
     "geom:latitude":-37.737602,
     "geom:longitude":144.852905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Slater Pde",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236067481,
-    "wof:lastmodified":1449001840,
+    "wof:lastmodified":1466187981,
     "wof:name":"Uniflex (Aust) P/L",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blower"
     ]
 },
-  "bbox": [144.852905,-37.737602,144.852905,-37.737602],
-  "geometry": {"coordinates":[144.852905,-37.737602],"type":"Point"}
+  "bbox": [
+    144.852905,
+    -37.737602,
+    144.852905,
+    -37.737602
+],
+  "geometry": {"coordinates":[144.85290499999999,-37.737602],"type":"Point"}
 }

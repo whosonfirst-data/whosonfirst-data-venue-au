@@ -2,13 +2,14 @@
   "id": 219879575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.77002,-27.333647,152.77002,-27.333647",
     "geom:latitude":-27.333647,
     "geom:longitude":152.77002,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 Parkview Ave",
     "sg:city":"Mt Glorious",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219879575,
-    "wof:lastmodified":1449070403,
+    "wof:lastmodified":1466191617,
     "wof:name":"Samford Water Carriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [152.77002,-27.333647,152.77002,-27.333647],
-  "geometry": {"coordinates":[152.77002,-27.333647],"type":"Point"}
+  "bbox": [
+    152.77002,
+    -27.333647,
+    152.77002,
+    -27.333647
+],
+  "geometry": {"coordinates":[152.77001999999999,-27.333647],"type":"Point"}
 }

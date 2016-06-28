@@ -2,13 +2,14 @@
   "id": 203223747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.860031,-41.112015,145.860031,-41.112015",
     "geom:latitude":-41.112015,
     "geom:longitude":145.860031,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Mooreville Rd",
     "sg:city":"Mooreville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203223747,
-    "wof:lastmodified":1449025066,
+    "wof:lastmodified":1466187355,
     "wof:name":"Butler Gerald Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.860031,-41.112015,145.860031,-41.112015],
-  "geometry": {"coordinates":[145.860031,-41.112015],"type":"Point"}
+  "bbox": [
+    145.860031,
+    -41.112015,
+    145.860031,
+    -41.112015
+],
+  "geometry": {"coordinates":[145.86003099999999,-41.112015],"type":"Point"}
 }

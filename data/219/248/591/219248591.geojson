@@ -2,13 +2,14 @@
   "id": 219248591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.998306,-37.773628,144.998306,-37.773628",
     "geom:latitude":-37.773628,
     "geom:longitude":144.998306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"220 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219248591,
-    "wof:lastmodified":1449072316,
+    "wof:lastmodified":1466187037,
     "wof:name":"Natasha Varga",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.998306,-37.773628,144.998306,-37.773628],
-  "geometry": {"coordinates":[144.998306,-37.773628],"type":"Point"}
+  "bbox": [
+    144.998306,
+    -37.773628,
+    144.998306,
+    -37.773628
+],
+  "geometry": {"coordinates":[144.99830600000001,-37.773628],"type":"Point"}
 }

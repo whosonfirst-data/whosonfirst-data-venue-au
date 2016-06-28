@@ -2,13 +2,14 @@
   "id": 186526941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.848312,-19.16238,146.848312,-19.16238",
     "geom:latitude":-19.16238,
     "geom:longitude":146.848312,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Warboys St",
     "sg:city":"Magnetic Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186526941,
-    "wof:lastmodified":1449051198,
+    "wof:lastmodified":1466190718,
     "wof:name":"Oceania Maritime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pollution"
     ]
 },
-  "bbox": [146.848312,-19.16238,146.848312,-19.16238],
-  "geometry": {"coordinates":[146.848312,-19.16238],"type":"Point"}
+  "bbox": [
+    146.848312,
+    -19.16238,
+    146.848312,
+    -19.16238
+],
+  "geometry": {"coordinates":[146.84831199999999,-19.16238],"type":"Point"}
 }

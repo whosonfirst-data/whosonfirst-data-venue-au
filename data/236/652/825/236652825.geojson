@@ -2,13 +2,14 @@
   "id": 236652825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.138702,-33.986389,151.138702,-33.986389",
     "geom:latitude":-33.986389,
     "geom:longitude":151.138702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Park Rd",
     "sg:city":"Sans Souci",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236652825,
-    "wof:lastmodified":1449003843,
+    "wof:lastmodified":1466191826,
     "wof:name":"Ullman Sails Aust",
     "wof:parent_id":85770051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maker"
     ]
 },
-  "bbox": [151.138702,-33.986389,151.138702,-33.986389],
-  "geometry": {"coordinates":[151.138702,-33.986389],"type":"Point"}
+  "bbox": [
+    151.138702,
+    -33.986389,
+    151.138702,
+    -33.986389
+],
+  "geometry": {"coordinates":[151.13870199999999,-33.986389],"type":"Point"}
 }

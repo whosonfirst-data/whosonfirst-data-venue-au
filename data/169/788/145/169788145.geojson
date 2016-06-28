@@ -2,13 +2,14 @@
   "id": 169788145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.597961,-38.616444,145.597961,-38.616444",
     "geom:latitude":-38.616444,
     "geom:longitude":145.597961,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Billison St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169788145,
-    "wof:lastmodified":1449034383,
+    "wof:lastmodified":1466188501,
     "wof:name":"Australian Christian Meditation Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "meditation"
     ]
 },
-  "bbox": [145.597961,-38.616444,145.597961,-38.616444],
+  "bbox": [
+    145.597961,
+    -38.616444,
+    145.597961,
+    -38.616444
+],
   "geometry": {"coordinates":[145.597961,-38.616444],"type":"Point"}
 }

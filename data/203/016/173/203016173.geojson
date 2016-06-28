@@ -2,13 +2,14 @@
   "id": 203016173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.142365,-20.730761,143.142365,-20.730761",
     "geom:latitude":-20.730761,
     "geom:longitude":143.142365,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Goldring St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203016173,
-    "wof:lastmodified":1449025274,
+    "wof:lastmodified":1466187451,
     "wof:name":"Richmond Buy-Rite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [143.142365,-20.730761,143.142365,-20.730761],
-  "geometry": {"coordinates":[143.142365,-20.730761],"type":"Point"}
+  "bbox": [
+    143.142365,
+    -20.730761,
+    143.142365,
+    -20.730761
+],
+  "geometry": {"coordinates":[143.14236500000001,-20.730761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202537207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.159378,-38.118,145.159378,-38.118",
     "geom:latitude":-38.118,
     "geom:longitude":145.159378,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Bouvardia Crs",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202537207,
-    "wof:lastmodified":1449060743,
+    "wof:lastmodified":1466189862,
     "wof:name":"Centaur Graphix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [145.159378,-38.118,145.159378,-38.118],
+  "bbox": [
+    145.159378,
+    -38.118,
+    145.159378,
+    -38.118
+],
   "geometry": {"coordinates":[145.159378,-38.118],"type":"Point"}
 }

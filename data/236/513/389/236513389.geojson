@@ -2,13 +2,14 @@
   "id": 236513389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.174759,-32.561592,151.174759,-32.561592",
     "geom:latitude":-32.561592,
     "geom:longitude":151.174759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 George St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236513389,
-    "wof:lastmodified":1449003912,
+    "wof:lastmodified":1466191343,
     "wof:name":"Watermans Paint Supplies Pty Ltd",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.174759,-32.561592,151.174759,-32.561592],
-  "geometry": {"coordinates":[151.174759,-32.561592],"type":"Point"}
+  "bbox": [
+    151.174759,
+    -32.561592,
+    151.174759,
+    -32.561592
+],
+  "geometry": {"coordinates":[151.17475899999999,-32.561592],"type":"Point"}
 }

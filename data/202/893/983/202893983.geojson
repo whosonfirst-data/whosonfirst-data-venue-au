@@ -2,13 +2,14 @@
   "id": 202893983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.898453,-30.452513,152.898453,-30.452513",
     "geom:latitude":-30.452513,
     "geom:longitude":152.898453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Hyde St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202893983,
-    "wof:lastmodified":1449062190,
+    "wof:lastmodified":1466190530,
     "wof:name":"Bellingen Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.898453,-30.452513,152.898453,-30.452513],
-  "geometry": {"coordinates":[152.898453,-30.452513],"type":"Point"}
+  "bbox": [
+    152.898453,
+    -30.452513,
+    152.898453,
+    -30.452513
+],
+  "geometry": {"coordinates":[152.89845299999999,-30.452513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202797511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.746628,-32.931679,151.746628,-32.931679",
     "geom:latitude":-32.931679,
     "geom:longitude":151.746628,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Jenner Pde",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202797511,
-    "wof:lastmodified":1449062398,
+    "wof:lastmodified":1466190289,
     "wof:name":"Bilpine Pty Ltd",
     "wof:parent_id":85778067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [151.746628,-32.931679,151.746628,-32.931679],
-  "geometry": {"coordinates":[151.746628,-32.931679],"type":"Point"}
+  "bbox": [
+    151.746628,
+    -32.931679,
+    151.746628,
+    -32.931679
+],
+  "geometry": {"coordinates":[151.74662799999999,-32.931679],"type":"Point"}
 }

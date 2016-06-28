@@ -2,13 +2,14 @@
   "id": 169810273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.872421,-31.97595,115.872421,-31.97595",
     "geom:latitude":-31.97595,
     "geom:longitude":115.872421,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4 38 Meadowvale Ave",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169810273,
-    "wof:lastmodified":1449033644,
+    "wof:lastmodified":1466188909,
     "wof:name":"Lew Kwong M Dr",
     "wof:parent_id":85775647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.872421,-31.97595,115.872421,-31.97595],
+  "bbox": [
+    115.872421,
+    -31.97595,
+    115.872421,
+    -31.97595
+],
   "geometry": {"coordinates":[115.872421,-31.97595],"type":"Point"}
 }

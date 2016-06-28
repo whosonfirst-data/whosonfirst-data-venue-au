@@ -2,13 +2,14 @@
   "id": 236340805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.820671,-32.075714,115.820671,-32.075714",
     "geom:latitude":-32.075714,
     "geom:longitude":115.820671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Farrington Rd",
     "sg:city":"North Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236340805,
-    "wof:lastmodified":1449004339,
+    "wof:lastmodified":1466190771,
     "wof:name":"IFAP",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [115.820671,-32.075714,115.820671,-32.075714],
+  "bbox": [
+    115.820671,
+    -32.075714,
+    115.820671,
+    -32.075714
+],
   "geometry": {"coordinates":[115.820671,-32.075714],"type":"Point"}
 }

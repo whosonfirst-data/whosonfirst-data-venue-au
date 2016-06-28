@@ -2,13 +2,14 @@
   "id": 202927789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112213,-30.287111,153.112213,-30.287111",
     "geom:latitude":-30.287111,
     "geom:longitude":153.112213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Zara Pl",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202927789,
-    "wof:lastmodified":1449062380,
+    "wof:lastmodified":1466190761,
     "wof:name":"Knight I & D",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.112213,-30.287111,153.112213,-30.287111],
+  "bbox": [
+    153.112213,
+    -30.287111,
+    153.112213,
+    -30.287111
+],
   "geometry": {"coordinates":[153.112213,-30.287111],"type":"Point"}
 }

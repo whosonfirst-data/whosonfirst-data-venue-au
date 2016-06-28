@@ -2,13 +2,14 @@
   "id": 236234581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.682617,-38.093803,145.682617,-38.093803",
     "geom:latitude":-38.093803,
     "geom:longitude":145.682617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Nar Nar Goon-Longwarry Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236234581,
-    "wof:lastmodified":1449005031,
+    "wof:lastmodified":1466190169,
     "wof:name":"Nick's Bakehouse Garfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [145.682617,-38.093803,145.682617,-38.093803],
-  "geometry": {"coordinates":[145.682617,-38.093803],"type":"Point"}
+  "bbox": [
+    145.682617,
+    -38.093803,
+    145.682617,
+    -38.093803
+],
+  "geometry": {"coordinates":[145.68261699999999,-38.093803],"type":"Point"}
 }

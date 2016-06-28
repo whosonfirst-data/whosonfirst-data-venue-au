@@ -2,13 +2,14 @@
   "id": 253257361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.935196,-27.607407,151.935196,-27.607407",
     "geom:latitude":-27.607407,
     "geom:longitude":151.935196,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 7246",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253257361,
-    "wof:lastmodified":1449063683,
+    "wof:lastmodified":1466190572,
     "wof:name":"Crest Realty",
     "wof:parent_id":85780331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.935196,-27.607407,151.935196,-27.607407],
-  "geometry": {"coordinates":[151.935196,-27.607407],"type":"Point"}
+  "bbox": [
+    151.935196,
+    -27.607407,
+    151.935196,
+    -27.607407
+],
+  "geometry": {"coordinates":[151.93519599999999,-27.607407],"type":"Point"}
 }

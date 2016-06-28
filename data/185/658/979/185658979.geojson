@@ -2,13 +2,14 @@
   "id": 185658979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.793404,-32.032322,115.793404,-32.032322",
     "geom:latitude":-32.032322,
     "geom:longitude":115.793404,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Stock Rd",
     "sg:city":"Bicton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185658979,
-    "wof:lastmodified":1449006566,
+    "wof:lastmodified":1466188426,
     "wof:name":"Craigview Grove",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [115.793404,-32.032322,115.793404,-32.032322],
+  "bbox": [
+    115.793404,
+    -32.032322,
+    115.793404,
+    -32.032322
+],
   "geometry": {"coordinates":[115.793404,-32.032322],"type":"Point"}
 }

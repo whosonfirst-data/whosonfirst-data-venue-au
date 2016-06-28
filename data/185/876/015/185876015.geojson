@@ -2,13 +2,14 @@
   "id": 185876015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699753,-25.540596,152.699753,-25.540596",
     "geom:latitude":-25.540596,
     "geom:longitude":152.699753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Adelaide St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185876015,
-    "wof:lastmodified":1449006939,
+    "wof:lastmodified":1466187633,
     "wof:name":"Watkins Electrical Service",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.699753,-25.540596,152.699753,-25.540596],
-  "geometry": {"coordinates":[152.699753,-25.540596],"type":"Point"}
+  "bbox": [
+    152.699753,
+    -25.540596,
+    152.699753,
+    -25.540596
+],
+  "geometry": {"coordinates":[152.69975299999999,-25.540596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253105463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.809937,-37.771275,144.809937,-37.771275",
     "geom:latitude":-37.771275,
     "geom:longitude":144.809937,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Carrington Drv",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253105463,
-    "wof:lastmodified":1449063968,
+    "wof:lastmodified":1466188846,
     "wof:name":"Ace Karts",
     "wof:parent_id":85777915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "go-kart"
     ]
 },
-  "bbox": [144.809937,-37.771275,144.809937,-37.771275],
-  "geometry": {"coordinates":[144.809937,-37.771275],"type":"Point"}
+  "bbox": [
+    144.809937,
+    -37.771275,
+    144.809937,
+    -37.771275
+],
+  "geometry": {"coordinates":[144.80993699999999,-37.771275],"type":"Point"}
 }

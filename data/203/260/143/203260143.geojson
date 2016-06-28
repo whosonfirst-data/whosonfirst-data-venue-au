@@ -2,13 +2,14 @@
   "id": 203260143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.009613,-33.383205,148.009613,-33.383205",
     "geom:latitude":-33.383205,
     "geom:longitude":148.009613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Cross St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203260143,
-    "wof:lastmodified":1449025262,
+    "wof:lastmodified":1466187649,
     "wof:name":"Country Mile Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.009613,-33.383205,148.009613,-33.383205],
+  "bbox": [
+    148.009613,
+    -33.383205,
+    148.009613,
+    -33.383205
+],
   "geometry": {"coordinates":[148.009613,-33.383205],"type":"Point"}
 }

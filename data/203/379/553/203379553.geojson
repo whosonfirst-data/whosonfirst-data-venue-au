@@ -2,13 +2,14 @@
   "id": 203379553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849716,-37.580643,143.849716,-37.580643",
     "geom:latitude":-37.580643,
     "geom:longitude":143.849716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Humffray St South",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203379553,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466189190,
     "wof:name":"Paul Norton",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.849716,-37.580643,143.849716,-37.580643],
+  "bbox": [
+    143.849716,
+    -37.580643,
+    143.849716,
+    -37.580643
+],
   "geometry": {"coordinates":[143.849716,-37.580643],"type":"Point"}
 }

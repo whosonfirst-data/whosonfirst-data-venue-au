@@ -2,13 +2,14 @@
   "id": 253314907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.300583,-38.022427,145.300583,-38.022427",
     "geom:latitude":-38.022427,
     "geom:longitude":145.300583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Princes Hwy",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253314907,
-    "wof:lastmodified":1449065675,
+    "wof:lastmodified":1466190865,
     "wof:name":"Rod Nieuwenhuizen",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [145.300583,-38.022427,145.300583,-38.022427],
-  "geometry": {"coordinates":[145.300583,-38.022427],"type":"Point"}
+  "bbox": [
+    145.300583,
+    -38.022427,
+    145.300583,
+    -38.022427
+],
+  "geometry": {"coordinates":[145.30058299999999,-38.022427],"type":"Point"}
 }

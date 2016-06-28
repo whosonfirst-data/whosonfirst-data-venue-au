@@ -2,13 +2,14 @@
   "id": 203388449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.851807,-37.542515,143.851807,-37.542515",
     "geom:latitude":-37.542515,
     "geom:longitude":143.851807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Howitt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203388449,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466189348,
     "wof:name":"Selkirk Bricks & Pavers",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brick"
     ]
 },
-  "bbox": [143.851807,-37.542515,143.851807,-37.542515],
-  "geometry": {"coordinates":[143.851807,-37.542515],"type":"Point"}
+  "bbox": [
+    143.851807,
+    -37.542515,
+    143.851807,
+    -37.542515
+],
+  "geometry": {"coordinates":[143.85180700000001,-37.542515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202669237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.015182,-27.386602,153.015182,-27.386602",
     "geom:latitude":-27.386602,
     "geom:longitude":153.015182,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Pullford St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202669237,
-    "wof:lastmodified":1449060395,
+    "wof:lastmodified":1466188252,
     "wof:name":"Webb John R & Associates Pty Ltd",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [153.015182,-27.386602,153.015182,-27.386602],
-  "geometry": {"coordinates":[153.015182,-27.386602],"type":"Point"}
+  "bbox": [
+    153.015182,
+    -27.386602,
+    153.015182,
+    -27.386602
+],
+  "geometry": {"coordinates":[153.01518200000001,-27.386602],"type":"Point"}
 }

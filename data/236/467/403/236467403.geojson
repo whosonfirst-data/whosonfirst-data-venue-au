@@ -2,13 +2,14 @@
   "id": 236467403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.174759,-21.162329,149.174759,-21.162329",
     "geom:latitude":-21.162329,
     "geom:longitude":149.174759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Nella Drv",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236467403,
-    "wof:lastmodified":1449004396,
+    "wof:lastmodified":1466191298,
     "wof:name":"Doug MacKenzie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [149.174759,-21.162329,149.174759,-21.162329],
-  "geometry": {"coordinates":[149.174759,-21.162329],"type":"Point"}
+  "bbox": [
+    149.174759,
+    -21.162329,
+    149.174759,
+    -21.162329
+],
+  "geometry": {"coordinates":[149.17475899999999,-21.162329],"type":"Point"}
 }

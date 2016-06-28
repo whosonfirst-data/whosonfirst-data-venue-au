@@ -2,13 +2,14 @@
   "id": 203008633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.491287,-20.7272,139.491287,-20.7272",
     "geom:latitude":-20.7272,
     "geom:longitude":139.491287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 9 Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203008633,
-    "wof:lastmodified":1449025511,
+    "wof:lastmodified":1466187196,
     "wof:name":"Jetset",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [139.491287,-20.7272,139.491287,-20.7272],
+  "bbox": [
+    139.491287,
+    -20.7272,
+    139.491287,
+    -20.7272
+],
   "geometry": {"coordinates":[139.491287,-20.7272],"type":"Point"}
 }

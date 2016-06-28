@@ -2,13 +2,14 @@
   "id": 219821293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.719681,-19.372511,146.719681,-19.372511",
     "geom:latitude":-19.372511,
     "geom:longitude":146.719681,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Shetland Pl",
     "sg:city":"Kelso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219821293,
-    "wof:lastmodified":1449072296,
+    "wof:lastmodified":1466191431,
     "wof:name":"M & D Auto Air",
     "wof:parent_id":85779703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [146.719681,-19.372511,146.719681,-19.372511],
-  "geometry": {"coordinates":[146.719681,-19.372511],"type":"Point"}
+  "bbox": [
+    146.719681,
+    -19.372511,
+    146.719681,
+    -19.372511
+],
+  "geometry": {"coordinates":[146.71968100000001,-19.372511],"type":"Point"}
 }

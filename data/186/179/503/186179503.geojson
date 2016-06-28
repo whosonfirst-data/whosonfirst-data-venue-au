@@ -2,13 +2,14 @@
   "id": 186179503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.911926,-31.428486,152.911926,-31.428486",
     "geom:latitude":-31.428486,
     "geom:longitude":152.911926,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Munster St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186179503,
-    "wof:lastmodified":1449052747,
+    "wof:lastmodified":1466186929,
     "wof:name":"Brave Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.911926,-31.428486,152.911926,-31.428486],
-  "geometry": {"coordinates":[152.911926,-31.428486],"type":"Point"}
+  "bbox": [
+    152.911926,
+    -31.428486,
+    152.911926,
+    -31.428486
+],
+  "geometry": {"coordinates":[152.91192599999999,-31.428486],"type":"Point"}
 }

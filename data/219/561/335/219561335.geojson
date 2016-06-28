@@ -2,13 +2,14 @@
   "id": 219561335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.00087,-33.921093,151.00087,-33.921093",
     "geom:latitude":-33.921093,
     "geom:longitude":151.00087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Townsend St",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219561335,
-    "wof:lastmodified":1449072902,
+    "wof:lastmodified":1466190357,
     "wof:name":"George Vassallo",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.00087,-33.921093,151.00087,-33.921093],
-  "geometry": {"coordinates":[151.00087,-33.921093],"type":"Point"}
+  "bbox": [
+    151.00087,
+    -33.921093,
+    151.00087,
+    -33.921093
+],
+  "geometry": {"coordinates":[151.00086999999999,-33.921093],"type":"Point"}
 }

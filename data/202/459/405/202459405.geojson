@@ -2,13 +2,14 @@
   "id": 202459405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.964554,-37.831978,144.964554,-37.831978",
     "geom:latitude":-37.831978,
     "geom:longitude":144.964554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Dorcas St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202459405,
-    "wof:lastmodified":1449061144,
+    "wof:lastmodified":1466188922,
     "wof:name":"Cafe Lovebites",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.964554,-37.831978,144.964554,-37.831978],
-  "geometry": {"coordinates":[144.964554,-37.831978],"type":"Point"}
+  "bbox": [
+    144.964554,
+    -37.831978,
+    144.964554,
+    -37.831978
+],
+  "geometry": {"coordinates":[144.96455399999999,-37.831978],"type":"Point"}
 }

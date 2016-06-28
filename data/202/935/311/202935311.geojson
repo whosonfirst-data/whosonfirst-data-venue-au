@@ -2,13 +2,14 @@
   "id": 202935311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.116165,-30.299458,153.116165,-30.299458",
     "geom:latitude":-30.299458,
     "geom:longitude":153.116165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1, 36 Park Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202935311,
-    "wof:lastmodified":1449062214,
+    "wof:lastmodified":1466191002,
     "wof:name":"Andersens",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.116165,-30.299458,153.116165,-30.299458],
+  "bbox": [
+    153.116165,
+    -30.299458,
+    153.116165,
+    -30.299458
+],
   "geometry": {"coordinates":[153.116165,-30.299458],"type":"Point"}
 }

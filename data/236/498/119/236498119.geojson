@@ -2,13 +2,14 @@
   "id": 236498119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.186127,-21.123301,149.186127,-21.123301",
     "geom:latitude":-21.123301,
     "geom:longitude":149.186127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Evans Ave",
     "sg:city":"North Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236498119,
-    "wof:lastmodified":1449004285,
+    "wof:lastmodified":1466191423,
     "wof:name":"Tacoma Plumbing & Drainage Pty Ltd",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [149.186127,-21.123301,149.186127,-21.123301],
+  "bbox": [
+    149.186127,
+    -21.123301,
+    149.186127,
+    -21.123301
+],
   "geometry": {"coordinates":[149.186127,-21.123301],"type":"Point"}
 }

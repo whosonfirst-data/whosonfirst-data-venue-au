@@ -2,13 +2,14 @@
   "id": 202811995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.720551,-32.922703,151.720551,-32.922703",
     "geom:latitude":-32.922703,
     "geom:longitude":151.720551,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Lambton Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202811995,
-    "wof:lastmodified":1449061355,
+    "wof:lastmodified":1466190380,
     "wof:name":"Jumping Jacks Community Pre-School",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [151.720551,-32.922703,151.720551,-32.922703],
+  "bbox": [
+    151.720551,
+    -32.922703,
+    151.720551,
+    -32.922703
+],
   "geometry": {"coordinates":[151.720551,-32.922703],"type":"Point"}
 }

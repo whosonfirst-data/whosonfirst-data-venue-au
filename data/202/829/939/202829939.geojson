@@ -2,13 +2,14 @@
   "id": 202829939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.157593,-23.49773,148.157593,-23.49773",
     "geom:latitude":-23.49773,
     "geom:longitude":148.157593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rodeo Crt",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202829939,
-    "wof:lastmodified":1449062477,
+    "wof:lastmodified":1466190430,
     "wof:name":"Springsure Electrical Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [148.157593,-23.49773,148.157593,-23.49773],
-  "geometry": {"coordinates":[148.157593,-23.49773],"type":"Point"}
+  "bbox": [
+    148.157593,
+    -23.49773,
+    148.157593,
+    -23.49773
+],
+  "geometry": {"coordinates":[148.15759299999999,-23.49773],"type":"Point"}
 }

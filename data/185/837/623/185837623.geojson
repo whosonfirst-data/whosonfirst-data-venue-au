@@ -2,13 +2,14 @@
   "id": 185837623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.852127,-25.286278,152.852127,-25.286278",
     "geom:latitude":-25.286278,
     "geom:longitude":152.852127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 119 Torquay Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185837623,
-    "wof:lastmodified":1449006867,
+    "wof:lastmodified":1466187181,
     "wof:name":"Stacey Carson Physiotherapy",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.852127,-25.286278,152.852127,-25.286278],
+  "bbox": [
+    152.852127,
+    -25.286278,
+    152.852127,
+    -25.286278
+],
   "geometry": {"coordinates":[152.852127,-25.286278],"type":"Point"}
 }

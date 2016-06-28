@@ -2,13 +2,14 @@
   "id": 202522161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.197647,-38.096584,145.197647,-38.096584",
     "geom:latitude":-38.096584,
     "geom:longitude":145.197647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Brumbys Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202522161,
-    "wof:lastmodified":1449061334,
+    "wof:lastmodified":1466189755,
     "wof:name":"Ultraseal Roof Restorations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roof"
     ]
 },
-  "bbox": [145.197647,-38.096584,145.197647,-38.096584],
-  "geometry": {"coordinates":[145.197647,-38.096584],"type":"Point"}
+  "bbox": [
+    145.197647,
+    -38.096584,
+    145.197647,
+    -38.096584
+],
+  "geometry": {"coordinates":[145.19764699999999,-38.096584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202440297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.963333,-37.834846,144.963333,-37.834846",
     "geom:latitude":-37.834846,
     "geom:longitude":144.963333,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste 206 153-161 Park St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202440297,
-    "wof:lastmodified":1449061000,
+    "wof:lastmodified":1466188593,
     "wof:name":"Nationalcorp Home Loans",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.963333,-37.834846,144.963333,-37.834846],
-  "geometry": {"coordinates":[144.963333,-37.834846],"type":"Point"}
+  "bbox": [
+    144.963333,
+    -37.834846,
+    144.963333,
+    -37.834846
+],
+  "geometry": {"coordinates":[144.96333300000001,-37.834846],"type":"Point"}
 }

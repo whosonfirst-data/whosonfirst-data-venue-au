@@ -2,13 +2,14 @@
   "id": 235959221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.425705,-33.374062,138.425705,-33.374062",
     "geom:latitude":-33.374062,
     "geom:longitude":138.425705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 51",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235959221,
-    "wof:lastmodified":1449008578,
+    "wof:lastmodified":1466187195,
     "wof:name":"Georgetown Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nsw"
     ]
 },
-  "bbox": [138.425705,-33.374062,138.425705,-33.374062],
-  "geometry": {"coordinates":[138.425705,-33.374062],"type":"Point"}
+  "bbox": [
+    138.425705,
+    -33.374062,
+    138.425705,
+    -33.374062
+],
+  "geometry": {"coordinates":[138.42570499999999,-33.374062],"type":"Point"}
 }

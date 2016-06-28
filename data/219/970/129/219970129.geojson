@@ -2,13 +2,14 @@
   "id": 219970129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.787933,-37.828499,140.787933,-37.828499",
     "geom:latitude":-37.828499,
     "geom:longitude":140.787933,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Crouch St North",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219970129,
-    "wof:lastmodified":1449073853,
+    "wof:lastmodified":1466191832,
     "wof:name":"Mt. Gambier Chiropractic Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.787933,-37.828499,140.787933,-37.828499],
-  "geometry": {"coordinates":[140.787933,-37.828499],"type":"Point"}
+  "bbox": [
+    140.787933,
+    -37.828499,
+    140.787933,
+    -37.828499
+],
+  "geometry": {"coordinates":[140.78793300000001,-37.828499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202744351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.860199,-32.065849,115.860199,-32.065849",
     "geom:latitude":-32.065849,
     "geom:longitude":115.860199,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Crn South St & Calley Drv",
     "sg:city":"Leeming",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202744351,
-    "wof:lastmodified":1449061026,
+    "wof:lastmodified":1466189608,
     "wof:name":"Kennedy Chris Dr",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.860199,-32.065849,115.860199,-32.065849],
-  "geometry": {"coordinates":[115.860199,-32.065849],"type":"Point"}
+  "bbox": [
+    115.860199,
+    -32.065849,
+    115.860199,
+    -32.065849
+],
+  "geometry": {"coordinates":[115.86019899999999,-32.065849],"type":"Point"}
 }

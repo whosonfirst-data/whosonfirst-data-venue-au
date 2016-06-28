@@ -2,13 +2,14 @@
   "id": 236370761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.765778,-32.063606,115.765778,-32.063606",
     "geom:latitude":-32.063606,
     "geom:longitude":115.765778,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Field St",
     "sg:city":"Beaconsfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236370761,
-    "wof:lastmodified":1449003462,
+    "wof:lastmodified":1466190995,
     "wof:name":"Middle Earth",
     "wof:parent_id":85775683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "perfume"
     ]
 },
-  "bbox": [115.765778,-32.063606,115.765778,-32.063606],
+  "bbox": [
+    115.765778,
+    -32.063606,
+    115.765778,
+    -32.063606
+],
   "geometry": {"coordinates":[115.765778,-32.063606],"type":"Point"}
 }

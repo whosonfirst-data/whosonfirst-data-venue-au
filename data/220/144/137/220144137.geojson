@@ -2,13 +2,14 @@
   "id": 220144137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355835,-38.151402,144.355835,-38.151402",
     "geom:latitude":-38.151402,
     "geom:longitude":144.355835,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gheringhap St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220144137,
-    "wof:lastmodified":1449074638,
+    "wof:lastmodified":1466188471,
     "wof:name":"Hovey Brendan",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [144.355835,-38.151402,144.355835,-38.151402],
-  "geometry": {"coordinates":[144.355835,-38.151402],"type":"Point"}
+  "bbox": [
+    144.355835,
+    -38.151402,
+    144.355835,
+    -38.151402
+],
+  "geometry": {"coordinates":[144.35583500000001,-38.151402],"type":"Point"}
 }

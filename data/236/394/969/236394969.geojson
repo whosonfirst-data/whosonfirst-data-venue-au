@@ -2,13 +2,14 @@
   "id": 236394969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.795578,-32.240692,115.795578,-32.240692",
     "geom:latitude":-32.240692,
     "geom:longitude":115.795578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Gentle Rd",
     "sg:city":"Medina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236394969,
-    "wof:lastmodified":1449002156,
+    "wof:lastmodified":1466191103,
     "wof:name":"FWF Welding Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [115.795578,-32.240692,115.795578,-32.240692],
-  "geometry": {"coordinates":[115.795578,-32.240692],"type":"Point"}
+  "bbox": [
+    115.795578,
+    -32.240692,
+    115.795578,
+    -32.240692
+],
+  "geometry": {"coordinates":[115.79557800000001,-32.240692],"type":"Point"}
 }

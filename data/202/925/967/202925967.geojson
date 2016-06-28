@@ -2,13 +2,14 @@
   "id": 202925967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.110031,-30.30278,153.110031,-30.30278",
     "geom:latitude":-30.30278,
     "geom:longitude":153.110031,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Pacific Hwy",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202925967,
-    "wof:lastmodified":1449060132,
+    "wof:lastmodified":1466190743,
     "wof:name":"The Windmill Restaurant",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [153.110031,-30.30278,153.110031,-30.30278],
-  "geometry": {"coordinates":[153.110031,-30.30278],"type":"Point"}
+  "bbox": [
+    153.110031,
+    -30.30278,
+    153.110031,
+    -30.30278
+],
+  "geometry": {"coordinates":[153.11003099999999,-30.30278],"type":"Point"}
 }

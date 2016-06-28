@@ -2,13 +2,14 @@
   "id": 202472405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.941208,-37.839573,144.941208,-37.839573",
     "geom:latitude":-37.839573,
     "geom:longitude":144.941208,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Bay St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202472405,
-    "wof:lastmodified":1449060311,
+    "wof:lastmodified":1466189121,
     "wof:name":"Biggin & Scott",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.941208,-37.839573,144.941208,-37.839573],
-  "geometry": {"coordinates":[144.941208,-37.839573],"type":"Point"}
+  "bbox": [
+    144.941208,
+    -37.839573,
+    144.941208,
+    -37.839573
+],
+  "geometry": {"coordinates":[144.94120799999999,-37.839573],"type":"Point"}
 }

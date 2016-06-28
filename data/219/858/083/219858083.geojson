@@ -2,13 +2,14 @@
   "id": 219858083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179794,-33.851856,151.179794,-33.851856",
     "geom:latitude":-33.851856,
     "geom:longitude":151.179794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Cove St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219858083,
-    "wof:lastmodified":1449070739,
+    "wof:lastmodified":1466191556,
     "wof:name":"John Holcombe Plumbing",
     "wof:parent_id":85776711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.179794,-33.851856,151.179794,-33.851856],
-  "geometry": {"coordinates":[151.179794,-33.851856],"type":"Point"}
+  "bbox": [
+    151.179794,
+    -33.851856,
+    151.179794,
+    -33.851856
+],
+  "geometry": {"coordinates":[151.17979399999999,-33.851856],"type":"Point"}
 }

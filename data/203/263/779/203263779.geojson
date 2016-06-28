@@ -2,13 +2,14 @@
   "id": 203263779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.005051,-33.374977,148.005051,-33.374977",
     "geom:latitude":-33.374977,
     "geom:longitude":148.005051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Barton St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203263779,
-    "wof:lastmodified":1449026818,
+    "wof:lastmodified":1466187675,
     "wof:name":"Dunn G.S. & F.M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [148.005051,-33.374977,148.005051,-33.374977],
-  "geometry": {"coordinates":[148.005051,-33.374977],"type":"Point"}
+  "bbox": [
+    148.005051,
+    -33.374977,
+    148.005051,
+    -33.374977
+],
+  "geometry": {"coordinates":[148.00505100000001,-33.374977],"type":"Point"}
 }

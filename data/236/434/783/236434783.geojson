@@ -2,13 +2,14 @@
   "id": 236434783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.172913,-21.170816,149.172913,-21.170816",
     "geom:latitude":-21.170816,
     "geom:longitude":149.172913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Heinrich Crt",
     "sg:city":"South Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236434783,
-    "wof:lastmodified":1449002211,
+    "wof:lastmodified":1466191182,
     "wof:name":"Frater Removals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [149.172913,-21.170816,149.172913,-21.170816],
-  "geometry": {"coordinates":[149.172913,-21.170816],"type":"Point"}
+  "bbox": [
+    149.172913,
+    -21.170816,
+    149.172913,
+    -21.170816
+],
+  "geometry": {"coordinates":[149.17291299999999,-21.170816],"type":"Point"}
 }

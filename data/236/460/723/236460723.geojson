@@ -2,13 +2,14 @@
   "id": 236460723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.195099,-21.119539,149.195099,-21.119539",
     "geom:latitude":-21.119539,
     "geom:longitude":149.195099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 McColloch St",
     "sg:city":"North Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236460723,
-    "wof:lastmodified":1449005026,
+    "wof:lastmodified":1466191196,
     "wof:name":"John James Engineering Services",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [149.195099,-21.119539,149.195099,-21.119539],
+  "bbox": [
+    149.195099,
+    -21.119539,
+    149.195099,
+    -21.119539
+],
   "geometry": {"coordinates":[149.195099,-21.119539],"type":"Point"}
 }

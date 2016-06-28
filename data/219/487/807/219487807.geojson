@@ -2,13 +2,14 @@
   "id": 219487807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.052856,-33.899868,151.052856,-33.899868",
     "geom:latitude":-33.899868,
     "geom:longitude":151.052856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Northcote Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219487807,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1466189274,
     "wof:name":"Daly E R",
     "wof:parent_id":85769039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carrier"
     ]
 },
-  "bbox": [151.052856,-33.899868,151.052856,-33.899868],
-  "geometry": {"coordinates":[151.052856,-33.899868],"type":"Point"}
+  "bbox": [
+    151.052856,
+    -33.899868,
+    151.052856,
+    -33.899868
+],
+  "geometry": {"coordinates":[151.05285599999999,-33.899868],"type":"Point"}
 }

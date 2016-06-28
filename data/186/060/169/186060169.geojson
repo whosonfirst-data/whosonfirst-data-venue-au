@@ -2,13 +2,14 @@
   "id": 186060169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.503189,-33.109833,151.503189,-33.109833",
     "geom:latitude":-33.109833,
     "geom:longitude":151.503189,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Fishery Point Rd",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186060169,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466188437,
     "wof:name":"South Lakes Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.503189,-33.109833,151.503189,-33.109833],
-  "geometry": {"coordinates":[151.503189,-33.109833],"type":"Point"}
+  "bbox": [
+    151.503189,
+    -33.109833,
+    151.503189,
+    -33.109833
+],
+  "geometry": {"coordinates":[151.50318899999999,-33.109833],"type":"Point"}
 }

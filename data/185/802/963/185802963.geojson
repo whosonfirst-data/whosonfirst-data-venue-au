@@ -2,13 +2,14 @@
   "id": 185802963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.548492,-37.690868,145.548492,-37.690868",
     "geom:latitude":-37.690868,
     "geom:longitude":145.548492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Old Don Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185802963,
-    "wof:lastmodified":1449007926,
+    "wof:lastmodified":1466189936,
     "wof:name":"All Purpose Drainage & Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "foundation"
     ]
 },
-  "bbox": [145.548492,-37.690868,145.548492,-37.690868],
-  "geometry": {"coordinates":[145.548492,-37.690868],"type":"Point"}
+  "bbox": [
+    145.548492,
+    -37.690868,
+    145.548492,
+    -37.690868
+],
+  "geometry": {"coordinates":[145.54849200000001,-37.690868],"type":"Point"}
 }

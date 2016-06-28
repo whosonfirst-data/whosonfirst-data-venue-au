@@ -2,13 +2,14 @@
   "id": 202763669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.780685,-32.926422,151.780685,-32.926422",
     "geom:latitude":-32.926422,
     "geom:longitude":151.780685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 4, 175 Scott St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202763669,
-    "wof:lastmodified":1449062635,
+    "wof:lastmodified":1466189913,
     "wof:name":"New Horizons",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [151.780685,-32.926422,151.780685,-32.926422],
-  "geometry": {"coordinates":[151.780685,-32.926422],"type":"Point"}
+  "bbox": [
+    151.780685,
+    -32.926422,
+    151.780685,
+    -32.926422
+],
+  "geometry": {"coordinates":[151.78068500000001,-32.926422],"type":"Point"}
 }

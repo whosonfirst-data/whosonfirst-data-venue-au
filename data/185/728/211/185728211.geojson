@@ -2,13 +2,14 @@
   "id": 185728211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.069916,-32.751888,152.069916,-32.751888",
     "geom:latitude":-32.751888,
     "geom:longitude":152.069916,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Shearwater Drv",
     "sg:city":"Taylors Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185728211,
-    "wof:lastmodified":1449006988,
+    "wof:lastmodified":1466189382,
     "wof:name":"Redback Campers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [152.069916,-32.751888,152.069916,-32.751888],
-  "geometry": {"coordinates":[152.069916,-32.751888],"type":"Point"}
+  "bbox": [
+    152.069916,
+    -32.751888,
+    152.069916,
+    -32.751888
+],
+  "geometry": {"coordinates":[152.06991600000001,-32.751888],"type":"Point"}
 }

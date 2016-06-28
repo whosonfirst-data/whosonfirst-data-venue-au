@@ -2,13 +2,14 @@
   "id": 236370461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.760033,-32.071938,115.760033,-32.071938",
     "geom:latitude":-32.071938,
     "geom:longitude":115.760033,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 19 Strang Crt",
     "sg:city":"Beaconsfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236370461,
-    "wof:lastmodified":1449003458,
+    "wof:lastmodified":1466191082,
     "wof:name":"BLA",
     "wof:parent_id":85775677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "yacht"
     ]
 },
-  "bbox": [115.760033,-32.071938,115.760033,-32.071938],
-  "geometry": {"coordinates":[115.760033,-32.071938],"type":"Point"}
+  "bbox": [
+    115.760033,
+    -32.071938,
+    115.760033,
+    -32.071938
+],
+  "geometry": {"coordinates":[115.76003300000001,-32.071938],"type":"Point"}
 }

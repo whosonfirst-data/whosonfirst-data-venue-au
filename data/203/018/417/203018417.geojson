@@ -2,13 +2,14 @@
   "id": 203018417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.248169,-20.101198,146.248169,-20.101198",
     "geom:latitude":-20.101198,
     "geom:longitude":146.248169,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Flinders Hwy",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203018417,
-    "wof:lastmodified":1449025872,
+    "wof:lastmodified":1466187514,
     "wof:name":"Dalrymple Shire Council Municipal Saleyards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "saleyards"
     ]
 },
-  "bbox": [146.248169,-20.101198,146.248169,-20.101198],
-  "geometry": {"coordinates":[146.248169,-20.101198],"type":"Point"}
+  "bbox": [
+    146.248169,
+    -20.101198,
+    146.248169,
+    -20.101198
+],
+  "geometry": {"coordinates":[146.24816899999999,-20.101198],"type":"Point"}
 }

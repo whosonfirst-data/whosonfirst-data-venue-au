@@ -2,13 +2,14 @@
   "id": 202580185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.439499,-37.686295,144.439499,-37.686295",
     "geom:latitude":-37.686295,
     "geom:longitude":144.439499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Park St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202580185,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466187126,
     "wof:name":"R & R Engineering Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.439499,-37.686295,144.439499,-37.686295],
-  "geometry": {"coordinates":[144.439499,-37.686295],"type":"Point"}
+  "bbox": [
+    144.439499,
+    -37.686295,
+    144.439499,
+    -37.686295
+],
+  "geometry": {"coordinates":[144.43949900000001,-37.686295],"type":"Point"}
 }

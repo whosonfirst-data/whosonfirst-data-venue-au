@@ -2,13 +2,14 @@
   "id": 202923275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.095947,-30.28249,153.095947,-30.28249",
     "geom:latitude":-30.28249,
     "geom:longitude":153.095947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lyle Campbell St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202923275,
-    "wof:lastmodified":1449062557,
+    "wof:lastmodified":1466190703,
     "wof:name":"MLL Services",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [153.095947,-30.28249,153.095947,-30.28249],
+  "bbox": [
+    153.095947,
+    -30.28249,
+    153.095947,
+    -30.28249
+],
   "geometry": {"coordinates":[153.095947,-30.28249],"type":"Point"}
 }

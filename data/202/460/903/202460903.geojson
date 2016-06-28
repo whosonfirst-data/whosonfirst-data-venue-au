@@ -2,13 +2,14 @@
   "id": 202460903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.968185,-37.836868,144.968185,-37.836868",
     "geom:latitude":-37.836868,
     "geom:longitude":144.968185,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4 182 Albert Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202460903,
-    "wof:lastmodified":1449062506,
+    "wof:lastmodified":1466188949,
     "wof:name":"Victorian Bookmakers Association Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [144.968185,-37.836868,144.968185,-37.836868],
-  "geometry": {"coordinates":[144.968185,-37.836868],"type":"Point"}
+  "bbox": [
+    144.968185,
+    -37.836868,
+    144.968185,
+    -37.836868
+],
+  "geometry": {"coordinates":[144.96818500000001,-37.836868],"type":"Point"}
 }

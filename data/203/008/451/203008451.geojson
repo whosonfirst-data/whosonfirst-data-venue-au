@@ -2,13 +2,14 @@
   "id": 203008451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.498077,-20.734035,139.498077,-20.734035",
     "geom:latitude":-20.734035,
     "geom:longitude":139.498077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Spence & Pamela Sts",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203008451,
-    "wof:lastmodified":1449025509,
+    "wof:lastmodified":1466187193,
     "wof:name":"Travellers Haven",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [139.498077,-20.734035,139.498077,-20.734035],
-  "geometry": {"coordinates":[139.498077,-20.734035],"type":"Point"}
+  "bbox": [
+    139.498077,
+    -20.734035,
+    139.498077,
+    -20.734035
+],
+  "geometry": {"coordinates":[139.49807699999999,-20.734035],"type":"Point"}
 }

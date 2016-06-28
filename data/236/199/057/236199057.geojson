@@ -2,13 +2,14 @@
   "id": 236199057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.609314,-38.030521,145.609314,-38.030521",
     "geom:latitude":-38.030521,
     "geom:longitude":145.609314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Fogarty Rd",
     "sg:city":"Maryknoll",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236199057,
-    "wof:lastmodified":1449001930,
+    "wof:lastmodified":1466190058,
     "wof:name":"Kooloos Engineering & Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.609314,-38.030521,145.609314,-38.030521],
-  "geometry": {"coordinates":[145.609314,-38.030521],"type":"Point"}
+  "bbox": [
+    145.609314,
+    -38.030521,
+    145.609314,
+    -38.030521
+],
+  "geometry": {"coordinates":[145.60931400000001,-38.030521],"type":"Point"}
 }

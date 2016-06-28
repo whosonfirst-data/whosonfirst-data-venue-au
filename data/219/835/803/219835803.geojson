@@ -2,13 +2,14 @@
   "id": 219835803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.792358,-31.979172,115.792358,-31.979172",
     "geom:latitude":-31.979172,
     "geom:longitude":115.792358,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Loftus St",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219835803,
-    "wof:lastmodified":1449070903,
+    "wof:lastmodified":1466191475,
     "wof:name":"Bio Tech Consulting Services Pty Ltd",
     "wof:parent_id":85769859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.792358,-31.979172,115.792358,-31.979172],
-  "geometry": {"coordinates":[115.792358,-31.979172],"type":"Point"}
+  "bbox": [
+    115.792358,
+    -31.979172,
+    115.792358,
+    -31.979172
+],
+  "geometry": {"coordinates":[115.79235799999999,-31.979172],"type":"Point"}
 }

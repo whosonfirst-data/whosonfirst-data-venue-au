@@ -2,13 +2,14 @@
   "id": 219317313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.931763,-38.154507,145.931763,-38.154507",
     "geom:latitude":-38.154507,
     "geom:longitude":145.931763,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Caton St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219317313,
-    "wof:lastmodified":1449072008,
+    "wof:lastmodified":1466187675,
     "wof:name":"Bongiornos Painting Pty. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [145.931763,-38.154507,145.931763,-38.154507],
-  "geometry": {"coordinates":[145.931763,-38.154507],"type":"Point"}
+  "bbox": [
+    145.931763,
+    -38.154507,
+    145.931763,
+    -38.154507
+],
+  "geometry": {"coordinates":[145.93176299999999,-38.154507],"type":"Point"}
 }

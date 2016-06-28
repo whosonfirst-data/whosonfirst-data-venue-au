@@ -2,13 +2,14 @@
   "id": 185844729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.880859,-25.2915,152.880859,-25.2915",
     "geom:latitude":-25.2915,
     "geom:longitude":152.880859,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Julie Ann St",
     "sg:city":"Urraween",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185844729,
-    "wof:lastmodified":1449007291,
+    "wof:lastmodified":1466187272,
     "wof:name":"Kwik Kerb Scarness",
     "wof:parent_id":85770489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.880859,-25.2915,152.880859,-25.2915],
-  "geometry": {"coordinates":[152.880859,-25.2915],"type":"Point"}
+  "bbox": [
+    152.880859,
+    -25.2915,
+    152.880859,
+    -25.2915
+],
+  "geometry": {"coordinates":[152.88085899999999,-25.2915],"type":"Point"}
 }

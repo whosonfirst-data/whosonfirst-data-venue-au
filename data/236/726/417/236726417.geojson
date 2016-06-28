@@ -2,13 +2,14 @@
   "id": 236726417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.461227,-31.910933,152.461227,-31.910933",
     "geom:latitude":-31.910933,
     "geom:longitude":152.461227,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 45 Albert St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236726417,
-    "wof:lastmodified":1449004000,
+    "wof:lastmodified":1466191963,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [152.461227,-31.910933,152.461227,-31.910933],
-  "geometry": {"coordinates":[152.461227,-31.910933],"type":"Point"}
+  "bbox": [
+    152.461227,
+    -31.910933,
+    152.461227,
+    -31.910933
+],
+  "geometry": {"coordinates":[152.46122700000001,-31.910933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202942387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.1203,-30.287434,153.1203,-30.287434",
     "geom:latitude":-30.287434,
     "geom:longitude":153.1203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bailey Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202942387,
-    "wof:lastmodified":1449061285,
+    "wof:lastmodified":1466190951,
     "wof:name":"Coffs Harbour Bushland Regeneration Group",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [153.1203,-30.287434,153.1203,-30.287434],
-  "geometry": {"coordinates":[153.1203,-30.287434],"type":"Point"}
+  "bbox": [
+    153.1203,
+    -30.287434,
+    153.1203,
+    -30.287434
+],
+  "geometry": {"coordinates":[153.12029999999999,-30.287434],"type":"Point"}
 }

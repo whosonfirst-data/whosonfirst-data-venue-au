@@ -2,13 +2,14 @@
   "id": 253224671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950607,-27.601625,151.950607,-27.601625",
     "geom:latitude":-27.601625,
     "geom:longitude":151.950607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"The Ridge Shopping Centre 445-455 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253224671,
-    "wof:lastmodified":1449064989,
+    "wof:lastmodified":1466190386,
     "wof:name":"Niko Okin",
     "wof:parent_id":85779701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.950607,-27.601625,151.950607,-27.601625],
-  "geometry": {"coordinates":[151.950607,-27.601625],"type":"Point"}
+  "bbox": [
+    151.950607,
+    -27.601625,
+    151.950607,
+    -27.601625
+],
+  "geometry": {"coordinates":[151.95060699999999,-27.601625],"type":"Point"}
 }

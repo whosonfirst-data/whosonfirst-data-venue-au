@@ -2,13 +2,14 @@
   "id": 236476277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.176285,-21.048691,149.176285,-21.048691",
     "geom:latitude":-21.048691,
     "geom:longitude":149.176285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 / 15 Carl St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236476277,
-    "wof:lastmodified":1449002899,
+    "wof:lastmodified":1466191323,
     "wof:name":"Northern Beaches Auto Electrical & Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [149.176285,-21.048691,149.176285,-21.048691],
-  "geometry": {"coordinates":[149.176285,-21.048691],"type":"Point"}
+  "bbox": [
+    149.176285,
+    -21.048691,
+    149.176285,
+    -21.048691
+],
+  "geometry": {"coordinates":[149.17628500000001,-21.048691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203399867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.755951,-37.52911,143.755951,-37.52911",
     "geom:latitude":-37.52911,
     "geom:longitude":143.755951,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RMB 8129",
     "sg:city":"Cardigan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203399867,
-    "wof:lastmodified":1449025278,
+    "wof:lastmodified":1466189482,
     "wof:name":"Rod Palmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kerb"
     ]
 },
-  "bbox": [143.755951,-37.52911,143.755951,-37.52911],
-  "geometry": {"coordinates":[143.755951,-37.52911],"type":"Point"}
+  "bbox": [
+    143.755951,
+    -37.52911,
+    143.755951,
+    -37.52911
+],
+  "geometry": {"coordinates":[143.75595100000001,-37.52911],"type":"Point"}
 }

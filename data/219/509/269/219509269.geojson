@@ -2,13 +2,14 @@
   "id": 219509269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.12085,-33.91087,151.12085,-33.91087",
     "geom:latitude":-33.91087,
     "geom:longitude":151.12085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2, 125 Canterbury Rd",
     "sg:city":"Canterbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219509269,
-    "wof:lastmodified":1449070517,
+    "wof:lastmodified":1466189687,
     "wof:name":"Jan Crystal Enterprises",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.12085,-33.91087,151.12085,-33.91087],
-  "geometry": {"coordinates":[151.12085,-33.91087],"type":"Point"}
+  "bbox": [
+    151.12085,
+    -33.91087,
+    151.12085,
+    -33.91087
+],
+  "geometry": {"coordinates":[151.12084999999999,-33.91087],"type":"Point"}
 }

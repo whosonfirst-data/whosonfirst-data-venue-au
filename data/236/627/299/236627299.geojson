@@ -2,13 +2,14 @@
   "id": 236627299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160095,-33.951302,151.160095,-33.951302",
     "geom:latitude":-33.951302,
     "geom:longitude":151.160095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Bestic St",
     "sg:city":"Brighton-le-Sands",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236627299,
-    "wof:lastmodified":1449005330,
+    "wof:lastmodified":1466191700,
     "wof:name":"Andy's Seafood",
     "wof:parent_id":85769575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [151.160095,-33.951302,151.160095,-33.951302],
-  "geometry": {"coordinates":[151.160095,-33.951302],"type":"Point"}
+  "bbox": [
+    151.160095,
+    -33.951302,
+    151.160095,
+    -33.951302
+],
+  "geometry": {"coordinates":[151.16009500000001,-33.951302],"type":"Point"}
 }

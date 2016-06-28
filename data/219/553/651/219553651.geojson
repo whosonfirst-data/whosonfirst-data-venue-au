@@ -2,13 +2,14 @@
   "id": 219553651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.037354,-33.899933,151.037354,-33.899933",
     "geom:latitude":-33.899933,
     "geom:longitude":151.037354,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6/ 165 Rookwood Rd",
     "sg:city":"Yagoona",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219553651,
-    "wof:lastmodified":1449070392,
+    "wof:lastmodified":1466190300,
     "wof:name":"Stemco Truck Products",
     "wof:parent_id":85780245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [151.037354,-33.899933,151.037354,-33.899933],
-  "geometry": {"coordinates":[151.037354,-33.899933],"type":"Point"}
+  "bbox": [
+    151.037354,
+    -33.899933,
+    151.037354,
+    -33.899933
+],
+  "geometry": {"coordinates":[151.03735399999999,-33.899933],"type":"Point"}
 }

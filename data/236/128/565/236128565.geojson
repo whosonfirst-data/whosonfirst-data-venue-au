@@ -2,13 +2,14 @@
   "id": 236128565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.870346,-37.741493,144.870346,-37.741493",
     "geom:latitude":-37.741493,
     "geom:longitude":144.870346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Noga Ave",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236128565,
-    "wof:lastmodified":1449002848,
+    "wof:lastmodified":1466189218,
     "wof:name":"Sparks K G",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.870346,-37.741493,144.870346,-37.741493],
-  "geometry": {"coordinates":[144.870346,-37.741493],"type":"Point"}
+  "bbox": [
+    144.870346,
+    -37.741493,
+    144.870346,
+    -37.741493
+],
+  "geometry": {"coordinates":[144.87034600000001,-37.741493],"type":"Point"}
 }

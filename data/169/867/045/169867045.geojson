@@ -2,13 +2,14 @@
   "id": 169867045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.824806,-32.042927,115.824806,-32.042927",
     "geom:latitude":-32.042927,
     "geom:longitude":115.824806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Pitt Way",
     "sg:city":"Booragoon",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169867045,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466189586,
     "wof:name":"AVI Pty Ltd",
     "wof:parent_id":85775779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teleconferencing"
     ]
 },
-  "bbox": [115.824806,-32.042927,115.824806,-32.042927],
+  "bbox": [
+    115.824806,
+    -32.042927,
+    115.824806,
+    -32.042927
+],
   "geometry": {"coordinates":[115.824806,-32.042927],"type":"Point"}
 }

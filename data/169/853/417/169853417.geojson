@@ -2,13 +2,14 @@
   "id": 169853417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.834663,-32.010307,115.834663,-32.010307",
     "geom:latitude":-32.010307,
     "geom:longitude":115.834663,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Ardross St",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169853417,
-    "wof:lastmodified":1449034011,
+    "wof:lastmodified":1466189458,
     "wof:name":"Apple Fresh",
     "wof:parent_id":85768683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [115.834663,-32.010307,115.834663,-32.010307],
-  "geometry": {"coordinates":[115.834663,-32.010307],"type":"Point"}
+  "bbox": [
+    115.834663,
+    -32.010307,
+    115.834663,
+    -32.010307
+],
+  "geometry": {"coordinates":[115.83466300000001,-32.010307],"type":"Point"}
 }

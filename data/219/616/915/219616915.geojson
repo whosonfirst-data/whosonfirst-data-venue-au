@@ -2,13 +2,14 @@
   "id": 219616915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160095,-33.904781,151.160095,-33.904781",
     "geom:latitude":-33.904781,
     "geom:longitude":151.160095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Holmesdale St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219616915,
-    "wof:lastmodified":1449072998,
+    "wof:lastmodified":1466190658,
     "wof:name":"Fearnhead Mfg Pty Ltd",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [151.160095,-33.904781,151.160095,-33.904781],
-  "geometry": {"coordinates":[151.160095,-33.904781],"type":"Point"}
+  "bbox": [
+    151.160095,
+    -33.904781,
+    151.160095,
+    -33.904781
+],
+  "geometry": {"coordinates":[151.16009500000001,-33.904781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236481215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.179626,-21.147888,149.179626,-21.147888",
     "geom:latitude":-21.147888,
     "geom:longitude":149.179626,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Wellington St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236481215,
-    "wof:lastmodified":1449004741,
+    "wof:lastmodified":1466191333,
     "wof:name":"Cablefind",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [149.179626,-21.147888,149.179626,-21.147888],
-  "geometry": {"coordinates":[149.179626,-21.147888],"type":"Point"}
+  "bbox": [
+    149.179626,
+    -21.147888,
+    149.179626,
+    -21.147888
+],
+  "geometry": {"coordinates":[149.17962600000001,-21.147888],"type":"Point"}
 }

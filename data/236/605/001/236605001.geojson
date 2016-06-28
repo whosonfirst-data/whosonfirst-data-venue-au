@@ -2,13 +2,14 @@
   "id": 236605001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.14743,-33.976639,151.14743,-33.976639",
     "geom:latitude":-33.976639,
     "geom:longitude":151.14743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Pasadena St",
     "sg:city":"Ramsgate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236605001,
-    "wof:lastmodified":1449003216,
+    "wof:lastmodified":1466191782,
     "wof:name":"Parr K V Pty Ltd",
     "wof:parent_id":85770051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.14743,-33.976639,151.14743,-33.976639],
-  "geometry": {"coordinates":[151.14743,-33.976639],"type":"Point"}
+  "bbox": [
+    151.14743,
+    -33.976639,
+    151.14743,
+    -33.976639
+],
+  "geometry": {"coordinates":[151.14743000000001,-33.976639],"type":"Point"}
 }

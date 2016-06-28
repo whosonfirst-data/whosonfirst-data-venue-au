@@ -2,13 +2,14 @@
   "id": 253245103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952332,-27.568018,151.952332,-27.568018",
     "geom:latitude":-27.568018,
     "geom:longitude":151.952332,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Herries & Prescott St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253245103,
-    "wof:lastmodified":1449065702,
+    "wof:lastmodified":1466190384,
     "wof:name":"Len Patti Mitsubishi",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [151.952332,-27.568018,151.952332,-27.568018],
-  "geometry": {"coordinates":[151.952332,-27.568018],"type":"Point"}
+  "bbox": [
+    151.952332,
+    -27.568018,
+    151.952332,
+    -27.568018
+],
+  "geometry": {"coordinates":[151.95233200000001,-27.568018],"type":"Point"}
 }

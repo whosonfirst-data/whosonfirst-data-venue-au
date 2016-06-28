@@ -2,13 +2,14 @@
   "id": 203214265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.880524,-41.064369,145.880524,-41.064369",
     "geom:latitude":-41.064369,
     "geom:longitude":145.880524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Nairana Ave",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203214265,
-    "wof:lastmodified":1449026817,
+    "wof:lastmodified":1466187217,
     "wof:name":"McCarthy J D & K F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [145.880524,-41.064369,145.880524,-41.064369],
-  "geometry": {"coordinates":[145.880524,-41.064369],"type":"Point"}
+  "bbox": [
+    145.880524,
+    -41.064369,
+    145.880524,
+    -41.064369
+],
+  "geometry": {"coordinates":[145.88052400000001,-41.064369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202779707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.767715,-32.935558,151.767715,-32.935558",
     "geom:latitude":-32.935558,
     "geom:longitude":151.767715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Darby St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202779707,
-    "wof:lastmodified":1449060494,
+    "wof:lastmodified":1466190018,
     "wof:name":"Trevor Williams Agencies Pty Ltd",
     "wof:parent_id":85777089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.767715,-32.935558,151.767715,-32.935558],
-  "geometry": {"coordinates":[151.767715,-32.935558],"type":"Point"}
+  "bbox": [
+    151.767715,
+    -32.935558,
+    151.767715,
+    -32.935558
+],
+  "geometry": {"coordinates":[151.76771500000001,-32.935558],"type":"Point"}
 }

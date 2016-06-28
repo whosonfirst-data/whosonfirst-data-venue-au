@@ -2,13 +2,14 @@
   "id": 219518051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.102448,-33.908272,151.102448,-33.908272",
     "geom:latitude":-33.908272,
     "geom:longitude":151.102448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 14, 15-21 Ninth Ave",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219518051,
-    "wof:lastmodified":1449072372,
+    "wof:lastmodified":1466189855,
     "wof:name":"Campsie Physiotherapy & Rehabilitation Centre",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.102448,-33.908272,151.102448,-33.908272],
-  "geometry": {"coordinates":[151.102448,-33.908272],"type":"Point"}
+  "bbox": [
+    151.102448,
+    -33.908272,
+    151.102448,
+    -33.908272
+],
+  "geometry": {"coordinates":[151.10244800000001,-33.908272],"type":"Point"}
 }

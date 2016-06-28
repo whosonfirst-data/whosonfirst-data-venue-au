@@ -2,13 +2,14 @@
   "id": 236035405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.810547,-37.719326,144.810547,-37.719326",
     "geom:latitude":-37.719326,
     "geom:longitude":144.810547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cadiz Pl",
     "sg:city":"Keilor Downs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236035405,
-    "wof:lastmodified":1449004487,
+    "wof:lastmodified":1466187325,
     "wof:name":"Mel Brice",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [144.810547,-37.719326,144.810547,-37.719326],
-  "geometry": {"coordinates":[144.810547,-37.719326],"type":"Point"}
+  "bbox": [
+    144.810547,
+    -37.719326,
+    144.810547,
+    -37.719326
+],
+  "geometry": {"coordinates":[144.81054700000001,-37.719326],"type":"Point"}
 }

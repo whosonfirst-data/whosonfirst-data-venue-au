@@ -2,13 +2,14 @@
   "id": 252999321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.918983,-32.001781,115.918983,-32.001781",
     "geom:latitude":-32.001781,
     "geom:longitude":115.918983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 167",
     "sg:city":"Bentley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252999321,
-    "wof:lastmodified":1449006380,
+    "wof:lastmodified":1466189872,
     "wof:name":"Stadium Sportsbar",
     "wof:parent_id":85780093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [115.918983,-32.001781,115.918983,-32.001781],
+  "bbox": [
+    115.918983,
+    -32.001781,
+    115.918983,
+    -32.001781
+],
   "geometry": {"coordinates":[115.918983,-32.001781],"type":"Point"}
 }

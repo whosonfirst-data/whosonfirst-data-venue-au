@@ -2,13 +2,14 @@
   "id": 185671275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.771378,-32.046169,115.771378,-32.046169",
     "geom:latitude":-32.046169,
     "geom:longitude":115.771378,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Dalgety St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185671275,
-    "wof:lastmodified":1449006981,
+    "wof:lastmodified":1466188636,
     "wof:name":"Sander Design",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [115.771378,-32.046169,115.771378,-32.046169],
+  "bbox": [
+    115.771378,
+    -32.046169,
+    115.771378,
+    -32.046169
+],
   "geometry": {"coordinates":[115.771378,-32.046169],"type":"Point"}
 }

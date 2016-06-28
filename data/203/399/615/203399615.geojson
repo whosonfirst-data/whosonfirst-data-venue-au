@@ -2,13 +2,14 @@
   "id": 203399615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.865829,-37.527496,143.865829,-37.527496",
     "geom:latitude":-37.527496,
     "geom:longitude":143.865829,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Kestral Crt",
     "sg:city":"Invermay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203399615,
-    "wof:lastmodified":1449025277,
+    "wof:lastmodified":1466189479,
     "wof:name":"Porter Don",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.865829,-37.527496,143.865829,-37.527496],
-  "geometry": {"coordinates":[143.865829,-37.527496],"type":"Point"}
+  "bbox": [
+    143.865829,
+    -37.527496,
+    143.865829,
+    -37.527496
+],
+  "geometry": {"coordinates":[143.86582899999999,-37.527496],"type":"Point"}
 }

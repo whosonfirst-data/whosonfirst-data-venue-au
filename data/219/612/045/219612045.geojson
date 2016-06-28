@@ -2,13 +2,14 @@
   "id": 219612045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.163544,-33.902397,151.163544,-33.902397",
     "geom:latitude":-33.902397,
     "geom:longitude":151.163544,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Addison Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219612045,
-    "wof:lastmodified":1449071955,
+    "wof:lastmodified":1466190634,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.163544,-33.902397,151.163544,-33.902397],
+  "bbox": [
+    151.163544,
+    -33.902397,
+    151.163544,
+    -33.902397
+],
   "geometry": {"coordinates":[151.163544,-33.902397],"type":"Point"}
 }

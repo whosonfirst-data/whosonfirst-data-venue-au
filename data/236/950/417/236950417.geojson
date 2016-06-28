@@ -2,13 +2,14 @@
   "id": 236950417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.591888,-34.977009,138.591888,-34.977009",
     "geom:latitude":-34.977009,
     "geom:longitude":138.591888,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Goodwood Rd",
     "sg:city":"Westbourne Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236950417,
-    "wof:lastmodified":1449002838,
+    "wof:lastmodified":1466192210,
     "wof:name":"Cottage Rose",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [138.591888,-34.977009,138.591888,-34.977009],
-  "geometry": {"coordinates":[138.591888,-34.977009],"type":"Point"}
+  "bbox": [
+    138.591888,
+    -34.977009,
+    138.591888,
+    -34.977009
+],
+  "geometry": {"coordinates":[138.59188800000001,-34.977009],"type":"Point"}
 }

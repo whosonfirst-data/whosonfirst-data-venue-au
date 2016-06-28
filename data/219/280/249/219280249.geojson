@@ -2,13 +2,14 @@
   "id": 219280249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.335709,-38.178516,146.335709,-38.178516",
     "geom:latitude":-38.178516,
     "geom:longitude":146.335709,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Eastern Rd",
     "sg:city":"Yallourn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219280249,
-    "wof:lastmodified":1449072113,
+    "wof:lastmodified":1466187367,
     "wof:name":"Yallourn Energy Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplier"
     ]
 },
-  "bbox": [146.335709,-38.178516,146.335709,-38.178516],
-  "geometry": {"coordinates":[146.335709,-38.178516],"type":"Point"}
+  "bbox": [
+    146.335709,
+    -38.178516,
+    146.335709,
+    -38.178516
+],
+  "geometry": {"coordinates":[146.33570900000001,-38.178516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186168241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.918213,-30.708063,152.918213,-30.708063",
     "geom:latitude":-30.708063,
     "geom:longitude":152.918213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Wallace St",
     "sg:city":"Macksville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186168241,
-    "wof:lastmodified":1449051775,
+    "wof:lastmodified":1466189893,
     "wof:name":"Neighbour Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [152.918213,-30.708063,152.918213,-30.708063],
-  "geometry": {"coordinates":[152.918213,-30.708063],"type":"Point"}
+  "bbox": [
+    152.918213,
+    -30.708063,
+    152.918213,
+    -30.708063
+],
+  "geometry": {"coordinates":[152.91821300000001,-30.708063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236614265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143555,-33.975262,151.143555,-33.975262",
     "geom:latitude":-33.975262,
     "geom:longitude":151.143555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Monterey St",
     "sg:city":"Monterey",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236614265,
-    "wof:lastmodified":1449005359,
+    "wof:lastmodified":1466191671,
     "wof:name":"Aussie Super Stretch Limousines",
     "wof:parent_id":85770051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "limousine"
     ]
 },
-  "bbox": [151.143555,-33.975262,151.143555,-33.975262],
-  "geometry": {"coordinates":[151.143555,-33.975262],"type":"Point"}
+  "bbox": [
+    151.143555,
+    -33.975262,
+    151.143555,
+    -33.975262
+],
+  "geometry": {"coordinates":[151.14355499999999,-33.975262],"type":"Point"}
 }

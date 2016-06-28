@@ -2,13 +2,14 @@
   "id": 253233823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.928223,-27.589245,151.928223,-27.589245",
     "geom:latitude":-27.589245,
     "geom:longitude":151.928223,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 180",
     "sg:city":", Smithfield S/C, Cnr Captain Cook & Kennedy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253233823,
-    "wof:lastmodified":1449065852,
+    "wof:lastmodified":1466190419,
     "wof:name":"Hairhouse Warehouse",
     "wof:parent_id":85780331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ear"
     ]
 },
-  "bbox": [151.928223,-27.589245,151.928223,-27.589245],
+  "bbox": [
+    151.928223,
+    -27.589245,
+    151.928223,
+    -27.589245
+],
   "geometry": {"coordinates":[151.928223,-27.589245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219413219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.849884,-33.761074,150.849884,-33.761074",
     "geom:latitude":-33.761074,
     "geom:longitude":150.849884,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, 597 Woodstock Ave",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219413219,
-    "wof:lastmodified":1449070949,
+    "wof:lastmodified":1466188496,
     "wof:name":"Reece Pty Ltd",
     "wof:parent_id":85769193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [150.849884,-33.761074,150.849884,-33.761074],
+  "bbox": [
+    150.849884,
+    -33.761074,
+    150.849884,
+    -33.761074
+],
   "geometry": {"coordinates":[150.849884,-33.761074],"type":"Point"}
 }

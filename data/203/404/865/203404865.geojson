@@ -2,13 +2,14 @@
   "id": 203404865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.951645,-37.565224,143.951645,-37.565224",
     "geom:latitude":-37.565224,
     "geom:longitude":143.951645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"972 Mahers Rd",
     "sg:city":"Warrenheip",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203404865,
-    "wof:lastmodified":1449026241,
+    "wof:lastmodified":1466189520,
     "wof:name":"Adam Giles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.951645,-37.565224,143.951645,-37.565224],
-  "geometry": {"coordinates":[143.951645,-37.565224],"type":"Point"}
+  "bbox": [
+    143.951645,
+    -37.565224,
+    143.951645,
+    -37.565224
+],
+  "geometry": {"coordinates":[143.95164500000001,-37.565224],"type":"Point"}
 }

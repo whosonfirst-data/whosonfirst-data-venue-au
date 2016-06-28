@@ -2,13 +2,14 @@
   "id": 202740679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.923241,-32.039188,115.923241,-32.039188",
     "geom:latitude":-32.039188,
     "geom:longitude":115.923241,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Crofton Pl",
     "sg:city":"Lynwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202740679,
-    "wof:lastmodified":1449061282,
+    "wof:lastmodified":1466189544,
     "wof:name":"Dowsett Bricklaying",
     "wof:parent_id":85778007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.923241,-32.039188,115.923241,-32.039188],
+  "bbox": [
+    115.923241,
+    -32.039188,
+    115.923241,
+    -32.039188
+],
   "geometry": {"coordinates":[115.923241,-32.039188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203060101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.93541,-33.722733,150.93541,-33.722733",
     "geom:latitude":-33.722733,
     "geom:longitude":150.93541,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66- 68",
     "sg:city":"Rothwell Cct Parklea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203060101,
-    "wof:lastmodified":1449026689,
+    "wof:lastmodified":1466188396,
     "wof:name":"Valliant Homes Pty Ltd",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [150.93541,-33.722733,150.93541,-33.722733],
-  "geometry": {"coordinates":[150.93541,-33.722733],"type":"Point"}
+  "bbox": [
+    150.93541,
+    -33.722733,
+    150.93541,
+    -33.722733
+],
+  "geometry": {"coordinates":[150.93540999999999,-33.722733],"type":"Point"}
 }

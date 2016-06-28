@@ -2,13 +2,14 @@
   "id": 203385949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.816208,-37.56955,143.816208,-37.56955",
     "geom:latitude":-37.56955,
     "geom:longitude":143.816208,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gillies St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203385949,
-    "wof:lastmodified":1449026074,
+    "wof:lastmodified":1466189303,
     "wof:name":"Argyle Lodge (Q.E.G.B)",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [143.816208,-37.56955,143.816208,-37.56955],
-  "geometry": {"coordinates":[143.816208,-37.56955],"type":"Point"}
+  "bbox": [
+    143.816208,
+    -37.56955,
+    143.816208,
+    -37.56955
+],
+  "geometry": {"coordinates":[143.81620799999999,-37.56955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186460521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.149948,-33.878235,151.149948,-33.878235",
     "geom:latitude":-33.878235,
     "geom:longitude":151.149948,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19/ 272a Flood St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186460521,
-    "wof:lastmodified":1449052882,
+    "wof:lastmodified":1466190246,
     "wof:name":"Carver Frances",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [151.149948,-33.878235,151.149948,-33.878235],
-  "geometry": {"coordinates":[151.149948,-33.878235],"type":"Point"}
+  "bbox": [
+    151.149948,
+    -33.878235,
+    151.149948,
+    -33.878235
+],
+  "geometry": {"coordinates":[151.14994799999999,-33.878235],"type":"Point"}
 }

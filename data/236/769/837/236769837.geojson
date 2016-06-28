@@ -2,13 +2,14 @@
   "id": 236769837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.989319,-27.074154,152.989319,-27.074154",
     "geom:latitude":-27.074154,
     "geom:longitude":152.989319,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hangar 102 McNaught Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236769837,
-    "wof:lastmodified":1449002601,
+    "wof:lastmodified":1466192001,
     "wof:name":"Sandora Aviation Pty Ltd",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [152.989319,-27.074154,152.989319,-27.074154],
-  "geometry": {"coordinates":[152.989319,-27.074154],"type":"Point"}
+  "bbox": [
+    152.989319,
+    -27.074154,
+    152.989319,
+    -27.074154
+],
+  "geometry": {"coordinates":[152.98931899999999,-27.074154],"type":"Point"}
 }

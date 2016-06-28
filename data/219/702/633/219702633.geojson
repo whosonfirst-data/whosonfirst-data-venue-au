@@ -2,13 +2,14 @@
   "id": 219702633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.527786,-32.188725,152.527786,-32.188725",
     "geom:latitude":-32.188725,
     "geom:longitude":152.527786,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Boundary St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219702633,
-    "wof:lastmodified":1449072142,
+    "wof:lastmodified":1466191161,
     "wof:name":"Barclay P L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "farmer"
     ]
 },
-  "bbox": [152.527786,-32.188725,152.527786,-32.188725],
-  "geometry": {"coordinates":[152.527786,-32.188725],"type":"Point"}
+  "bbox": [
+    152.527786,
+    -32.188725,
+    152.527786,
+    -32.188725
+],
+  "geometry": {"coordinates":[152.52778599999999,-32.188725],"type":"Point"}
 }

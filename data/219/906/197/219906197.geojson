@@ -2,13 +2,14 @@
   "id": 219906197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.929047,-34.304756,150.929047,-34.304756",
     "geom:latitude":-34.304756,
     "geom:longitude":150.929047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Balfour Rd",
     "sg:city":"Austinmer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219906197,
-    "wof:lastmodified":1449071733,
+    "wof:lastmodified":1466191749,
     "wof:name":"Ron Forbes Building Design",
     "wof:parent_id":85768721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [150.929047,-34.304756,150.929047,-34.304756],
+  "bbox": [
+    150.929047,
+    -34.304756,
+    150.929047,
+    -34.304756
+],
   "geometry": {"coordinates":[150.929047,-34.304756],"type":"Point"}
 }

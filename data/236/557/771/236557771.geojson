@@ -2,13 +2,14 @@
   "id": 236557771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.005859,-33.936352,151.005859,-33.936352",
     "geom:latitude":-33.936352,
     "geom:longitude":151.005859,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Violet St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236557771,
-    "wof:lastmodified":1449004112,
+    "wof:lastmodified":1466191486,
     "wof:name":"Fanelec Group Pty Ltd",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.005859,-33.936352,151.005859,-33.936352],
-  "geometry": {"coordinates":[151.005859,-33.936352],"type":"Point"}
+  "bbox": [
+    151.005859,
+    -33.936352,
+    151.005859,
+    -33.936352
+],
+  "geometry": {"coordinates":[151.00585899999999,-33.936352],"type":"Point"}
 }

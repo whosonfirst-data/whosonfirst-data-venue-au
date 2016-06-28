@@ -2,13 +2,14 @@
   "id": 236809397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.886353,-34.485325,150.886353,-34.485325",
     "geom:latitude":-34.485325,
     "geom:longitude":150.886353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"232a Cowper St",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236809397,
-    "wof:lastmodified":1449004533,
+    "wof:lastmodified":1466191964,
     "wof:name":"Thanos L",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.886353,-34.485325,150.886353,-34.485325],
-  "geometry": {"coordinates":[150.886353,-34.485325],"type":"Point"}
+  "bbox": [
+    150.886353,
+    -34.485325,
+    150.886353,
+    -34.485325
+],
+  "geometry": {"coordinates":[150.88635300000001,-34.485325],"type":"Point"}
 }

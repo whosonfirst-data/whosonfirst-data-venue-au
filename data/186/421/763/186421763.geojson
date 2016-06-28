@@ -2,13 +2,14 @@
   "id": 186421763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.796844,-19.267746,146.796844,-19.267746",
     "geom:latitude":-19.267746,
     "geom:longitude":146.796844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Ingham Rd",
     "sg:city":"West End",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186421763,
-    "wof:lastmodified":1449052080,
+    "wof:lastmodified":1466189672,
     "wof:name":"Townsville Secondhand & New Tyres",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tyre"
     ]
 },
-  "bbox": [146.796844,-19.267746,146.796844,-19.267746],
-  "geometry": {"coordinates":[146.796844,-19.267746],"type":"Point"}
+  "bbox": [
+    146.796844,
+    -19.267746,
+    146.796844,
+    -19.267746
+],
+  "geometry": {"coordinates":[146.79684399999999,-19.267746],"type":"Point"}
 }

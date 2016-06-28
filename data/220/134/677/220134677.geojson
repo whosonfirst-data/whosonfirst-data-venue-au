@@ -2,13 +2,14 @@
   "id": 220134677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.535904,-38.219398,144.535904,-38.219398",
     "geom:latitude":-38.219398,
     "geom:longitude":144.535904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Homestead Ave",
     "sg:city":"Wallington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220134677,
-    "wof:lastmodified":1449074843,
+    "wof:lastmodified":1466188285,
     "wof:name":"Homestead Lakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [144.535904,-38.219398,144.535904,-38.219398],
-  "geometry": {"coordinates":[144.535904,-38.219398],"type":"Point"}
+  "bbox": [
+    144.535904,
+    -38.219398,
+    144.535904,
+    -38.219398
+],
+  "geometry": {"coordinates":[144.53590399999999,-38.219398],"type":"Point"}
 }

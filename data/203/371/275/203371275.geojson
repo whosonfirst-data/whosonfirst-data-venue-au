@@ -2,13 +2,14 @@
   "id": 203371275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.866013,-37.566082,143.866013,-37.566082",
     "geom:latitude":-37.566082,
     "geom:longitude":143.866013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Eastwood St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203371275,
-    "wof:lastmodified":1449026407,
+    "wof:lastmodified":1466189048,
     "wof:name":"Ballarat Exhaust Systems",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [143.866013,-37.566082,143.866013,-37.566082],
-  "geometry": {"coordinates":[143.866013,-37.566082],"type":"Point"}
+  "bbox": [
+    143.866013,
+    -37.566082,
+    143.866013,
+    -37.566082
+],
+  "geometry": {"coordinates":[143.86601300000001,-37.566082],"type":"Point"}
 }

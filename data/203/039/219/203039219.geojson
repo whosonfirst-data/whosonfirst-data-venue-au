@@ -2,13 +2,14 @@
   "id": 203039219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.657822,-37.559284,145.657822,-37.559284",
     "geom:latitude":-37.559284,
     "geom:longitude":145.657822,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Maroondah Highway",
     "sg:city":"Narbethong",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203039219,
-    "wof:lastmodified":1449026626,
+    "wof:lastmodified":1466188003,
     "wof:name":"Highwood Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "retreat"
     ]
 },
-  "bbox": [145.657822,-37.559284,145.657822,-37.559284],
-  "geometry": {"coordinates":[145.657822,-37.559284],"type":"Point"}
+  "bbox": [
+    145.657822,
+    -37.559284,
+    145.657822,
+    -37.559284
+],
+  "geometry": {"coordinates":[145.65782200000001,-37.559284],"type":"Point"}
 }

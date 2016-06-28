@@ -2,13 +2,14 @@
   "id": 219781115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143204,-33.888355,151.143204,-33.888355",
     "geom:latitude":-33.888355,
     "geom:longitude":151.143204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17- 23 Parramatta Rd",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219781115,
-    "wof:lastmodified":1449071054,
+    "wof:lastmodified":1466191317,
     "wof:name":"RGV Systems International",
     "wof:parent_id":85774547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.143204,-33.888355,151.143204,-33.888355],
+  "bbox": [
+    151.143204,
+    -33.888355,
+    151.143204,
+    -33.888355
+],
   "geometry": {"coordinates":[151.143204,-33.888355],"type":"Point"}
 }

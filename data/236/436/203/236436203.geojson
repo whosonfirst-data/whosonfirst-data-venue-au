@@ -2,13 +2,14 @@
   "id": 236436203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.182617,-21.123739,149.182617,-21.123739",
     "geom:latitude":-21.123739,
     "geom:longitude":149.182617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 3212",
     "sg:city":"North Mackay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236436203,
-    "wof:lastmodified":1449004869,
+    "wof:lastmodified":1466191261,
     "wof:name":"Creen & Illman Architects Pty Ltd",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.182617,-21.123739,149.182617,-21.123739],
-  "geometry": {"coordinates":[149.182617,-21.123739],"type":"Point"}
+  "bbox": [
+    149.182617,
+    -21.123739,
+    149.182617,
+    -21.123739
+],
+  "geometry": {"coordinates":[149.18261699999999,-21.123739],"type":"Point"}
 }

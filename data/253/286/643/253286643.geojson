@@ -2,13 +2,14 @@
   "id": 253286643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.024414,-27.553505,152.024414,-27.553505",
     "geom:latitude":-27.553505,
     "geom:longitude":152.024414,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2/ 8585 Warrego Hwy",
     "sg:city":"Withcott",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253286643,
-    "wof:lastmodified":1449063594,
+    "wof:lastmodified":1466190584,
     "wof:name":"Mar-ians Hairdressing Withcott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.024414,-27.553505,152.024414,-27.553505],
-  "geometry": {"coordinates":[152.024414,-27.553505],"type":"Point"}
+  "bbox": [
+    152.024414,
+    -27.553505,
+    152.024414,
+    -27.553505
+],
+  "geometry": {"coordinates":[152.02441400000001,-27.553505],"type":"Point"}
 }

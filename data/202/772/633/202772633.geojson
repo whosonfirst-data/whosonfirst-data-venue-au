@@ -2,13 +2,14 @@
   "id": 202772633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.777283,-32.926998,151.777283,-32.926998",
     "geom:latitude":-32.926998,
     "geom:longitude":151.777283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202772633,
-    "wof:lastmodified":1449061266,
+    "wof:lastmodified":1466190091,
     "wof:name":"Menzies Tom Jewellers",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.777283,-32.926998,151.777283,-32.926998],
-  "geometry": {"coordinates":[151.777283,-32.926998],"type":"Point"}
+  "bbox": [
+    151.777283,
+    -32.926998,
+    151.777283,
+    -32.926998
+],
+  "geometry": {"coordinates":[151.77728300000001,-32.926998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186312343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.85257,-30.64716,152.85257,-30.64716",
     "geom:latitude":-30.64716,
     "geom:longitude":152.85257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 High St",
     "sg:city":"Bowraville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186312343,
-    "wof:lastmodified":1449051727,
+    "wof:lastmodified":1466187857,
     "wof:name":"Royal Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [152.85257,-30.64716,152.85257,-30.64716],
-  "geometry": {"coordinates":[152.85257,-30.64716],"type":"Point"}
+  "bbox": [
+    152.85257,
+    -30.64716,
+    152.85257,
+    -30.64716
+],
+  "geometry": {"coordinates":[152.85256999999999,-30.64716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253319423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.291916,-38.017925,145.291916,-38.017925",
     "geom:latitude":-38.017925,
     "geom:longitude":145.291916,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Springfield Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253319423,
-    "wof:lastmodified":1449064033,
+    "wof:lastmodified":1466190782,
     "wof:name":"Chrome Gekko",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [145.291916,-38.017925,145.291916,-38.017925],
-  "geometry": {"coordinates":[145.291916,-38.017925],"type":"Point"}
+  "bbox": [
+    145.291916,
+    -38.017925,
+    145.291916,
+    -38.017925
+],
+  "geometry": {"coordinates":[145.29191599999999,-38.017925],"type":"Point"}
 }

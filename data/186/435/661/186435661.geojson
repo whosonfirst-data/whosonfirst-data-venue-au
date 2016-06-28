@@ -2,13 +2,14 @@
   "id": 186435661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175507,-33.898762,151.175507,-33.898762",
     "geom:latitude":-33.898762,
     "geom:longitude":151.175507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Enmore Rd",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186435661,
-    "wof:lastmodified":1449052776,
+    "wof:lastmodified":1466189920,
     "wof:name":"Saray Pizza",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.175507,-33.898762,151.175507,-33.898762],
-  "geometry": {"coordinates":[151.175507,-33.898762],"type":"Point"}
+  "bbox": [
+    151.175507,
+    -33.898762,
+    151.175507,
+    -33.898762
+],
+  "geometry": {"coordinates":[151.17550700000001,-33.898762],"type":"Point"}
 }

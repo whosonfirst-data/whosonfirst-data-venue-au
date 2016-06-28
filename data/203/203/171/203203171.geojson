@@ -2,13 +2,14 @@
   "id": 203203171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.911133,-41.062412,145.911133,-41.062412",
     "geom:latitude":-41.062412,
     "geom:longitude":145.911133,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hopkinson St",
     "sg:city":"South Burnie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203203171,
-    "wof:lastmodified":1449025754,
+    "wof:lastmodified":1466187050,
     "wof:name":"Supreme Detailing",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [145.911133,-41.062412,145.911133,-41.062412],
-  "geometry": {"coordinates":[145.911133,-41.062412],"type":"Point"}
+  "bbox": [
+    145.911133,
+    -41.062412,
+    145.911133,
+    -41.062412
+],
+  "geometry": {"coordinates":[145.91113300000001,-41.062412],"type":"Point"}
 }

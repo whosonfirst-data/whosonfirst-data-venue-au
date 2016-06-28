@@ -2,13 +2,14 @@
   "id": 219425143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.559738,-34.888126,138.559738,-34.888126",
     "geom:latitude":-34.888126,
     "geom:longitude":138.559738,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rosetta St",
     "sg:city":"West Croydon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219425143,
-    "wof:lastmodified":1449071634,
+    "wof:lastmodified":1466188653,
     "wof:name":"Eastwood G",
     "wof:parent_id":85774911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guttering"
     ]
 },
-  "bbox": [138.559738,-34.888126,138.559738,-34.888126],
-  "geometry": {"coordinates":[138.559738,-34.888126],"type":"Point"}
+  "bbox": [
+    138.559738,
+    -34.888126,
+    138.559738,
+    -34.888126
+],
+  "geometry": {"coordinates":[138.55973800000001,-34.888126],"type":"Point"}
 }

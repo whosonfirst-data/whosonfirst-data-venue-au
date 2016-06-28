@@ -2,13 +2,14 @@
   "id": 220028531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.630188,-35.000278,138.630188,-35.000278",
     "geom:latitude":-35.000278,
     "geom:longitude":138.630188,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Monalta Drv",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220028531,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466187286,
     "wof:name":"Geospatial International Pty Ltd",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [138.630188,-35.000278,138.630188,-35.000278],
+  "bbox": [
+    138.630188,
+    -35.000278,
+    138.630188,
+    -35.000278
+],
   "geometry": {"coordinates":[138.630188,-35.000278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253084741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.811066,-37.760185,144.811066,-37.760185",
     "geom:latitude":-37.760185,
     "geom:longitude":144.811066,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Willaton St St",
     "sg:city":"Albans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253084741,
-    "wof:lastmodified":1449063132,
+    "wof:lastmodified":1466188447,
     "wof:name":"Cheeers",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.811066,-37.760185,144.811066,-37.760185],
-  "geometry": {"coordinates":[144.811066,-37.760185],"type":"Point"}
+  "bbox": [
+    144.811066,
+    -37.760185,
+    144.811066,
+    -37.760185
+],
+  "geometry": {"coordinates":[144.81106600000001,-37.760185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186596293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.393494,-41.002468,147.393494,-41.002468",
     "geom:latitude":-41.002468,
     "geom:longitude":147.393494,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Main St",
     "sg:city":"Bridport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186596293,
-    "wof:lastmodified":1449051743,
+    "wof:lastmodified":1466191023,
     "wof:name":"Bridport Coffee Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.393494,-41.002468,147.393494,-41.002468],
+  "bbox": [
+    147.393494,
+    -41.002468,
+    147.393494,
+    -41.002468
+],
   "geometry": {"coordinates":[147.393494,-41.002468],"type":"Point"}
 }

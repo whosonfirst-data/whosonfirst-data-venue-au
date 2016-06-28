@@ -2,13 +2,14 @@
   "id": 186280743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.89212,-31.457548,152.89212,-31.457548",
     "geom:latitude":-31.457548,
     "geom:longitude":152.89212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Green Meadows Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186280743,
-    "wof:lastmodified":1449051701,
+    "wof:lastmodified":1466187629,
     "wof:name":"Doak Graeme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [152.89212,-31.457548,152.89212,-31.457548],
-  "geometry": {"coordinates":[152.89212,-31.457548],"type":"Point"}
+  "bbox": [
+    152.89212,
+    -31.457548,
+    152.89212,
+    -31.457548
+],
+  "geometry": {"coordinates":[152.89212000000001,-31.457548],"type":"Point"}
 }

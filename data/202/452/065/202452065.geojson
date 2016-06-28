@@ -2,13 +2,14 @@
   "id": 202452065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.960495,-37.825096,144.960495,-37.825096",
     "geom:latitude":-37.825096,
     "geom:longitude":144.960495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Queensbridge St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202452065,
-    "wof:lastmodified":1449060707,
+    "wof:lastmodified":1466188821,
     "wof:name":"Combined Acceptance",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [144.960495,-37.825096,144.960495,-37.825096],
-  "geometry": {"coordinates":[144.960495,-37.825096],"type":"Point"}
+  "bbox": [
+    144.960495,
+    -37.825096,
+    144.960495,
+    -37.825096
+],
+  "geometry": {"coordinates":[144.96049500000001,-37.825096],"type":"Point"}
 }

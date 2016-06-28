@@ -2,13 +2,14 @@
   "id": 253080277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.762573,-37.746124,144.762573,-37.746124",
     "geom:latitude":-37.746124,
     "geom:longitude":144.762573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Tarlee Drv",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253080277,
-    "wof:lastmodified":1449065716,
+    "wof:lastmodified":1466188367,
     "wof:name":"IFOS Linking Languages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "translation"
     ]
 },
-  "bbox": [144.762573,-37.746124,144.762573,-37.746124],
+  "bbox": [
+    144.762573,
+    -37.746124,
+    144.762573,
+    -37.746124
+],
   "geometry": {"coordinates":[144.762573,-37.746124],"type":"Point"}
 }

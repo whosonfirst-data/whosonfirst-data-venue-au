@@ -2,13 +2,14 @@
   "id": 236072461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.766693,-37.701641,144.766693,-37.701641",
     "geom:latitude":-37.701641,
     "geom:longitude":144.766693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Innkeeper Pl",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236072461,
-    "wof:lastmodified":1449003380,
+    "wof:lastmodified":1466188076,
     "wof:name":"The Mark Bonelli Consultancy Group",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.766693,-37.701641,144.766693,-37.701641],
+  "bbox": [
+    144.766693,
+    -37.701641,
+    144.766693,
+    -37.701641
+],
   "geometry": {"coordinates":[144.766693,-37.701641],"type":"Point"}
 }

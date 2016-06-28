@@ -2,13 +2,14 @@
   "id": 186121293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.787506,-31.054129,152.787506,-31.054129",
     "geom:latitude":-31.054129,
     "geom:longitude":152.787506,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Sherwood Rd",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186121293,
-    "wof:lastmodified":1449052410,
+    "wof:lastmodified":1466189601,
     "wof:name":"Flo - Pro Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pumping"
     ]
 },
-  "bbox": [152.787506,-31.054129,152.787506,-31.054129],
-  "geometry": {"coordinates":[152.787506,-31.054129],"type":"Point"}
+  "bbox": [
+    152.787506,
+    -31.054129,
+    152.787506,
+    -31.054129
+],
+  "geometry": {"coordinates":[152.78750600000001,-31.054129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219762105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.211517,-32.406746,152.211517,-32.406746",
     "geom:latitude":-32.406746,
     "geom:longitude":152.211517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Pacific Hwy",
     "sg:city":"Bulahdelah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219762105,
-    "wof:lastmodified":1449072887,
+    "wof:lastmodified":1466191194,
     "wof:name":"Caltex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.211517,-32.406746,152.211517,-32.406746],
-  "geometry": {"coordinates":[152.211517,-32.406746],"type":"Point"}
+  "bbox": [
+    152.211517,
+    -32.406746,
+    152.211517,
+    -32.406746
+],
+  "geometry": {"coordinates":[152.21151699999999,-32.406746],"type":"Point"}
 }

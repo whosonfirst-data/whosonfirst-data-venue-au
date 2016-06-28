@@ -2,13 +2,14 @@
   "id": 202880821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.460846,-35.394611,138.460846,-35.394611",
     "geom:latitude":-35.394611,
     "geom:longitude":138.460846,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 39",
     "sg:city":"Myponga",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202880821,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466190593,
     "wof:name":"Adelaide Speedo & Gauge Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument"
     ]
 },
-  "bbox": [138.460846,-35.394611,138.460846,-35.394611],
+  "bbox": [
+    138.460846,
+    -35.394611,
+    138.460846,
+    -35.394611
+],
   "geometry": {"coordinates":[138.460846,-35.394611],"type":"Point"}
 }

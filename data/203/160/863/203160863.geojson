@@ -2,13 +2,14 @@
   "id": 203160863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.973923,-36.555809,145.973923,-36.555809",
     "geom:latitude":-36.555809,
     "geom:longitude":145.973923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bridge St West",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203160863,
-    "wof:lastmodified":1449026543,
+    "wof:lastmodified":1466189729,
     "wof:name":"Avondel Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.973923,-36.555809,145.973923,-36.555809],
-  "geometry": {"coordinates":[145.973923,-36.555809],"type":"Point"}
+  "bbox": [
+    145.973923,
+    -36.555809,
+    145.973923,
+    -36.555809
+],
+  "geometry": {"coordinates":[145.97392300000001,-36.555809],"type":"Point"}
 }

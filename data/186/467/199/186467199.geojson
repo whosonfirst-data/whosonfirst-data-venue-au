@@ -2,13 +2,14 @@
   "id": 186467199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.153793,-33.875275,151.153793,-33.875275",
     "geom:latitude":-33.875275,
     "geom:longitude":151.153793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Darley Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186467199,
-    "wof:lastmodified":1449052431,
+    "wof:lastmodified":1466190284,
     "wof:name":"Corrugated Roofing Supply",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [151.153793,-33.875275,151.153793,-33.875275],
-  "geometry": {"coordinates":[151.153793,-33.875275],"type":"Point"}
+  "bbox": [
+    151.153793,
+    -33.875275,
+    151.153793,
+    -33.875275
+],
+  "geometry": {"coordinates":[151.15379300000001,-33.875275],"type":"Point"}
 }

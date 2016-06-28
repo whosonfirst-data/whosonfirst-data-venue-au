@@ -2,13 +2,14 @@
   "id": 203021175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.257706,-20.078423,146.257706,-20.078423",
     "geom:latitude":-20.078423,
     "geom:longitude":146.257706,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Deane St",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203021175,
-    "wof:lastmodified":1449026158,
+    "wof:lastmodified":1466187596,
     "wof:name":"Towers Engineering Works Pty Ltd",
     "wof:parent_id":85779767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [146.257706,-20.078423,146.257706,-20.078423],
-  "geometry": {"coordinates":[146.257706,-20.078423],"type":"Point"}
+  "bbox": [
+    146.257706,
+    -20.078423,
+    146.257706,
+    -20.078423
+],
+  "geometry": {"coordinates":[146.25770600000001,-20.078423],"type":"Point"}
 }

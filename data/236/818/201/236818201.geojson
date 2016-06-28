@@ -2,13 +2,14 @@
   "id": 236818201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.893051,-34.424545,150.893051,-34.424545",
     "geom:latitude":-34.424545,
     "geom:longitude":150.893051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Keira St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236818201,
-    "wof:lastmodified":1449003215,
+    "wof:lastmodified":1466191973,
     "wof:name":"Rebecca's Nails",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artificial"
     ]
 },
-  "bbox": [150.893051,-34.424545,150.893051,-34.424545],
-  "geometry": {"coordinates":[150.893051,-34.424545],"type":"Point"}
+  "bbox": [
+    150.893051,
+    -34.424545,
+    150.893051,
+    -34.424545
+],
+  "geometry": {"coordinates":[150.89305100000001,-34.424545],"type":"Point"}
 }

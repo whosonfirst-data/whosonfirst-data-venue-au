@@ -2,13 +2,14 @@
   "id": 220161461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.344849,-38.159626,144.344849,-38.159626",
     "geom:latitude":-38.159626,
     "geom:longitude":144.344849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 West Fyans St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220161461,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466188822,
     "wof:name":"John R. Salt Pty Ltd",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [144.344849,-38.159626,144.344849,-38.159626],
-  "geometry": {"coordinates":[144.344849,-38.159626],"type":"Point"}
+  "bbox": [
+    144.344849,
+    -38.159626,
+    144.344849,
+    -38.159626
+],
+  "geometry": {"coordinates":[144.34484900000001,-38.159626],"type":"Point"}
 }

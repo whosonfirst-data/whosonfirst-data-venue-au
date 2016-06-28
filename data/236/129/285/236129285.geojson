@@ -2,13 +2,14 @@
   "id": 236129285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.867554,-37.744549,144.867554,-37.744549",
     "geom:latitude":-37.744549,
     "geom:longitude":144.867554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Dinah Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236129285,
-    "wof:lastmodified":1449004480,
+    "wof:lastmodified":1466189231,
     "wof:name":"Studio No. 1 Hair Design",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.867554,-37.744549,144.867554,-37.744549],
-  "geometry": {"coordinates":[144.867554,-37.744549],"type":"Point"}
+  "bbox": [
+    144.867554,
+    -37.744549,
+    144.867554,
+    -37.744549
+],
+  "geometry": {"coordinates":[144.86755400000001,-37.744549],"type":"Point"}
 }

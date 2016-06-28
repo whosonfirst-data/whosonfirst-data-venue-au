@@ -2,13 +2,14 @@
   "id": 219893725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.88652,-34.375858,150.88652,-34.375858",
     "geom:latitude":-34.375858,
     "geom:longitude":150.88652,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 12B Stockland Corrimal Crt",
     "sg:city":"Corrimal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219893725,
-    "wof:lastmodified":1449073257,
+    "wof:lastmodified":1466191774,
     "wof:name":"Proust Dom",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.88652,-34.375858,150.88652,-34.375858],
-  "geometry": {"coordinates":[150.88652,-34.375858],"type":"Point"}
+  "bbox": [
+    150.88652,
+    -34.375858,
+    150.88652,
+    -34.375858
+],
+  "geometry": {"coordinates":[150.88651999999999,-34.375858],"type":"Point"}
 }

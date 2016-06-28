@@ -2,13 +2,14 @@
   "id": 203322397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.836395,-37.599941,143.836395,-37.599941",
     "geom:latitude":-37.599941,
     "geom:longitude":143.836395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kelvin Ave",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203322397,
-    "wof:lastmodified":1449024923,
+    "wof:lastmodified":1466188295,
     "wof:name":"Ballarat Security Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "doors"
     ]
 },
-  "bbox": [143.836395,-37.599941,143.836395,-37.599941],
-  "geometry": {"coordinates":[143.836395,-37.599941],"type":"Point"}
+  "bbox": [
+    143.836395,
+    -37.599941,
+    143.836395,
+    -37.599941
+],
+  "geometry": {"coordinates":[143.83639500000001,-37.599941],"type":"Point"}
 }

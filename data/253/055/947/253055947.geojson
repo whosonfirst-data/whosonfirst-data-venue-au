@@ -2,13 +2,14 @@
   "id": 253055947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.625427,-37.890495,144.625427,-37.890495",
     "geom:latitude":-37.890495,
     "geom:longitude":144.625427,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 Honour Ave",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253055947,
-    "wof:lastmodified":1449063473,
+    "wof:lastmodified":1466188011,
     "wof:name":"Wyndham Vale Pizza",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [144.625427,-37.890495,144.625427,-37.890495],
+  "bbox": [
+    144.625427,
+    -37.890495,
+    144.625427,
+    -37.890495
+],
   "geometry": {"coordinates":[144.625427,-37.890495],"type":"Point"}
 }

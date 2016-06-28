@@ -2,13 +2,14 @@
   "id": 220089715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.121353,-40.848877,145.121353,-40.848877",
     "geom:latitude":-40.848877,
     "geom:longitude":145.121353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Nelson St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220089715,
-    "wof:lastmodified":1449074207,
+    "wof:lastmodified":1466187831,
     "wof:name":"Cape Country Rural",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [145.121353,-40.848877,145.121353,-40.848877],
+  "bbox": [
+    145.121353,
+    -40.848877,
+    145.121353,
+    -40.848877
+],
   "geometry": {"coordinates":[145.121353,-40.848877],"type":"Point"}
 }

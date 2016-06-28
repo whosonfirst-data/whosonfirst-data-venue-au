@@ -2,13 +2,14 @@
   "id": 202583665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.618896,-33.846565,138.618896,-33.846565",
     "geom:latitude":-33.846565,
     "geom:longitude":138.618896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202583665,
-    "wof:lastmodified":1449062128,
+    "wof:lastmodified":1466187154,
     "wof:name":"Earle's Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [138.618896,-33.846565,138.618896,-33.846565],
-  "geometry": {"coordinates":[138.618896,-33.846565],"type":"Point"}
+  "bbox": [
+    138.618896,
+    -33.846565,
+    138.618896,
+    -33.846565
+],
+  "geometry": {"coordinates":[138.61889600000001,-33.846565],"type":"Point"}
 }

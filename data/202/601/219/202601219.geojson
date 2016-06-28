@@ -2,13 +2,14 @@
   "id": 202601219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.992889,-33.758598,150.992889,-33.758598",
     "geom:latitude":-33.758598,
     "geom:longitude":150.992889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 684",
     "sg:city":"Baulkham Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601219,
-    "wof:lastmodified":1449061259,
+    "wof:lastmodified":1466187308,
     "wof:name":"Bear N&#039; Hampers",
     "wof:parent_id":85768775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [150.992889,-33.758598,150.992889,-33.758598],
-  "geometry": {"coordinates":[150.992889,-33.758598],"type":"Point"}
+  "bbox": [
+    150.992889,
+    -33.758598,
+    150.992889,
+    -33.758598
+],
+  "geometry": {"coordinates":[150.99288899999999,-33.758598],"type":"Point"}
 }

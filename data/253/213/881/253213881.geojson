@@ -2,13 +2,14 @@
   "id": 253213881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.955093,-27.60556,151.955093,-27.60556",
     "geom:latitude":-27.60556,
     "geom:longitude":151.955093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Chifley Crt",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253213881,
-    "wof:lastmodified":1449062853,
+    "wof:lastmodified":1466190206,
     "wof:name":"De Meur R & D Gasfitter",
     "wof:parent_id":85780311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [151.955093,-27.60556,151.955093,-27.60556],
-  "geometry": {"coordinates":[151.955093,-27.60556],"type":"Point"}
+  "bbox": [
+    151.955093,
+    -27.60556,
+    151.955093,
+    -27.60556
+],
+  "geometry": {"coordinates":[151.95509300000001,-27.60556],"type":"Point"}
 }

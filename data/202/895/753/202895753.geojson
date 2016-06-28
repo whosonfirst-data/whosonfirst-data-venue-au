@@ -2,13 +2,14 @@
   "id": 202895753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.198288,-30.020502,153.198288,-30.020502",
     "geom:latitude":-30.020502,
     "geom:longitude":153.198288,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Redrock Rd",
     "sg:city":"Corindi Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202895753,
-    "wof:lastmodified":1449061190,
+    "wof:lastmodified":1466190537,
     "wof:name":"Active Campers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "campervans"
     ]
 },
-  "bbox": [153.198288,-30.020502,153.198288,-30.020502],
-  "geometry": {"coordinates":[153.198288,-30.020502],"type":"Point"}
+  "bbox": [
+    153.198288,
+    -30.020502,
+    153.198288,
+    -30.020502
+],
+  "geometry": {"coordinates":[153.19828799999999,-30.020502],"type":"Point"}
 }

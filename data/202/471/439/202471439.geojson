@@ -2,13 +2,14 @@
   "id": 202471439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.964005,-37.832752,144.964005,-37.832752",
     "geom:latitude":-37.832752,
     "geom:longitude":144.964005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Tope St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202471439,
-    "wof:lastmodified":1449061132,
+    "wof:lastmodified":1466189094,
     "wof:name":"Fueltronics",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [144.964005,-37.832752,144.964005,-37.832752],
-  "geometry": {"coordinates":[144.964005,-37.832752],"type":"Point"}
+  "bbox": [
+    144.964005,
+    -37.832752,
+    144.964005,
+    -37.832752
+],
+  "geometry": {"coordinates":[144.96400499999999,-37.832752],"type":"Point"}
 }

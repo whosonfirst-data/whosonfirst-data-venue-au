@@ -2,13 +2,14 @@
   "id": 202970941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177139,-33.89415,151.177139,-33.89415",
     "geom:latitude":-33.89415,
     "geom:longitude":151.177139,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Australia St",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202970941,
-    "wof:lastmodified":1449062590,
+    "wof:lastmodified":1466191084,
     "wof:name":"Wealthcheck Finance Pty Ltd",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [151.177139,-33.89415,151.177139,-33.89415],
-  "geometry": {"coordinates":[151.177139,-33.89415],"type":"Point"}
+  "bbox": [
+    151.177139,
+    -33.89415,
+    151.177139,
+    -33.89415
+],
+  "geometry": {"coordinates":[151.17713900000001,-33.89415],"type":"Point"}
 }

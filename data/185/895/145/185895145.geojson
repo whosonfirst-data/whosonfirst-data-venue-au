@@ -2,13 +2,14 @@
   "id": 185895145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.710541,-25.486073,152.710541,-25.486073",
     "geom:latitude":-25.486073,
     "geom:longitude":152.710541,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot12/ Lucas Crt",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185895145,
-    "wof:lastmodified":1449007286,
+    "wof:lastmodified":1466187949,
     "wof:name":"Attachment Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [152.710541,-25.486073,152.710541,-25.486073],
-  "geometry": {"coordinates":[152.710541,-25.486073],"type":"Point"}
+  "bbox": [
+    152.710541,
+    -25.486073,
+    152.710541,
+    -25.486073
+],
+  "geometry": {"coordinates":[152.71054100000001,-25.486073],"type":"Point"}
 }

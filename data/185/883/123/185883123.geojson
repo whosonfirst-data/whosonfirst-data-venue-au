@@ -2,13 +2,14 @@
   "id": 185883123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699371,-25.535608,152.699371,-25.535608",
     "geom:latitude":-25.535608,
     "geom:longitude":152.699371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Kent St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185883123,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1466187704,
     "wof:name":"Maryborough Health Foods",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [152.699371,-25.535608,152.699371,-25.535608],
-  "geometry": {"coordinates":[152.699371,-25.535608],"type":"Point"}
+  "bbox": [
+    152.699371,
+    -25.535608,
+    152.699371,
+    -25.535608
+],
+  "geometry": {"coordinates":[152.69937100000001,-25.535608],"type":"Point"}
 }

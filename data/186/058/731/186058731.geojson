@@ -2,13 +2,14 @@
   "id": 186058731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.488388,-33.108139,151.488388,-33.108139",
     "geom:latitude":-33.108139,
     "geom:longitude":151.488388,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 499",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186058731,
-    "wof:lastmodified":1449050788,
+    "wof:lastmodified":1466188407,
     "wof:name":"Basquetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [151.488388,-33.108139,151.488388,-33.108139],
-  "geometry": {"coordinates":[151.488388,-33.108139],"type":"Point"}
+  "bbox": [
+    151.488388,
+    -33.108139,
+    151.488388,
+    -33.108139
+],
+  "geometry": {"coordinates":[151.48838799999999,-33.108139],"type":"Point"}
 }

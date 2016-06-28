@@ -2,13 +2,14 @@
   "id": 253069005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.79007,-37.757854,144.79007,-37.757854",
     "geom:latitude":-37.757854,
     "geom:longitude":144.79007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Furlong Rd",
     "sg:city":"Cairnlea",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253069005,
-    "wof:lastmodified":1449064692,
+    "wof:lastmodified":1466188181,
     "wof:name":"Nguyen T",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.79007,-37.757854,144.79007,-37.757854],
-  "geometry": {"coordinates":[144.79007,-37.757854],"type":"Point"}
+  "bbox": [
+    144.79007,
+    -37.757854,
+    144.79007,
+    -37.757854
+],
+  "geometry": {"coordinates":[144.79006999999999,-37.757854],"type":"Point"}
 }

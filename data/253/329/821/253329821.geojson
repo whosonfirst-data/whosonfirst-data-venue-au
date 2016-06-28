@@ -2,13 +2,14 @@
   "id": 253329821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.316467,-38.030762,145.316467,-38.030762",
     "geom:latitude":-38.030762,
     "geom:longitude":145.316467,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Roston Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253329821,
-    "wof:lastmodified":1449063636,
+    "wof:lastmodified":1466191085,
     "wof:name":"Casey Clinical Massage",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [145.316467,-38.030762,145.316467,-38.030762],
-  "geometry": {"coordinates":[145.316467,-38.030762],"type":"Point"}
+  "bbox": [
+    145.316467,
+    -38.030762,
+    145.316467,
+    -38.030762
+],
+  "geometry": {"coordinates":[145.31646699999999,-38.030762],"type":"Point"}
 }

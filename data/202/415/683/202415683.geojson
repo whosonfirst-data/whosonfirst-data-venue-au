@@ -2,13 +2,14 @@
   "id": 202415683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.920364,-37.837055,144.920364,-37.837055",
     "geom:latitude":-37.837055,
     "geom:longitude":144.920364,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Centre Ave",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202415683,
-    "wof:lastmodified":1449061928,
+    "wof:lastmodified":1466188024,
     "wof:name":"JanCan Catering",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [144.920364,-37.837055,144.920364,-37.837055],
-  "geometry": {"coordinates":[144.920364,-37.837055],"type":"Point"}
+  "bbox": [
+    144.920364,
+    -37.837055,
+    144.920364,
+    -37.837055
+],
+  "geometry": {"coordinates":[144.92036400000001,-37.837055],"type":"Point"}
 }

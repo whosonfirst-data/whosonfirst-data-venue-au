@@ -2,13 +2,14 @@
   "id": 185775827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.356583,-32.096958,152.356583,-32.096958",
     "geom:latitude":-32.096958,
     "geom:longitude":152.356583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3819 Wallanbah Rd",
     "sg:city":"Nabiac",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185775827,
-    "wof:lastmodified":1449007787,
+    "wof:lastmodified":1466189749,
     "wof:name":"Nabcrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [152.356583,-32.096958,152.356583,-32.096958],
+  "bbox": [
+    152.356583,
+    -32.096958,
+    152.356583,
+    -32.096958
+],
   "geometry": {"coordinates":[152.356583,-32.096958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236232257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.76796,-38.112255,145.76796,-38.112255",
     "geom:latitude":-38.112255,
     "geom:longitude":145.76796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Kennedy St",
     "sg:city":"Longwarry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236232257,
-    "wof:lastmodified":1449002561,
+    "wof:lastmodified":1466190167,
     "wof:name":"Longwarry Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [145.76796,-38.112255,145.76796,-38.112255],
-  "geometry": {"coordinates":[145.76796,-38.112255],"type":"Point"}
+  "bbox": [
+    145.76796,
+    -38.112255,
+    145.76796,
+    -38.112255
+],
+  "geometry": {"coordinates":[145.76795999999999,-38.112255],"type":"Point"}
 }

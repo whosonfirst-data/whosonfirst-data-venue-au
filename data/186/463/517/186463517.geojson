@@ -2,13 +2,14 @@
   "id": 186463517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157883,-33.873543,151.157883,-33.873543",
     "geom:latitude":-33.873543,
     "geom:longitude":151.157883,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Emmerick St",
     "sg:city":"Lilyfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186463517,
-    "wof:lastmodified":1449052232,
+    "wof:lastmodified":1466190266,
     "wof:name":"Philadelphia Philpot",
     "wof:parent_id":85776737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "millinery"
     ]
 },
-  "bbox": [151.157883,-33.873543,151.157883,-33.873543],
+  "bbox": [
+    151.157883,
+    -33.873543,
+    151.157883,
+    -33.873543
+],
   "geometry": {"coordinates":[151.157883,-33.873543],"type":"Point"}
 }

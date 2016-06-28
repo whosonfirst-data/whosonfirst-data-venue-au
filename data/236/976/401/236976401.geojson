@@ -2,13 +2,14 @@
   "id": 236976401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.358597,-37.884472,145.358597,-37.884472",
     "geom:latitude":-37.884472,
     "geom:longitude":145.358597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Sherbrooke Lodge Rd",
     "sg:city":"Sherbrooke",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236976401,
-    "wof:lastmodified":1449002936,
+    "wof:lastmodified":1466192072,
     "wof:name":"ACE Technical Consulting",
     "wof:parent_id":85770233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [145.358597,-37.884472,145.358597,-37.884472],
+  "bbox": [
+    145.358597,
+    -37.884472,
+    145.358597,
+    -37.884472
+],
   "geometry": {"coordinates":[145.358597,-37.884472],"type":"Point"}
 }

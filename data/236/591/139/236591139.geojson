@@ -2,13 +2,14 @@
   "id": 236591139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.058655,-33.95295,151.058655,-33.95295",
     "geom:latitude":-33.95295,
     "geom:longitude":151.058655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Bonds Rd & Romilly St",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236591139,
-    "wof:lastmodified":1449003414,
+    "wof:lastmodified":1466191492,
     "wof:name":"Mobil Oil Australia Pty Ltd",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.058655,-33.95295,151.058655,-33.95295],
-  "geometry": {"coordinates":[151.058655,-33.95295],"type":"Point"}
+  "bbox": [
+    151.058655,
+    -33.95295,
+    151.058655,
+    -33.95295
+],
+  "geometry": {"coordinates":[151.05865499999999,-33.95295],"type":"Point"}
 }

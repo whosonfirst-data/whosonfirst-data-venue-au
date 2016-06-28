@@ -2,13 +2,14 @@
   "id": 253275593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.002899,-27.389776,152.002899,-27.389776",
     "geom:latitude":-27.389776,
     "geom:longitude":152.002899,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9625 New England Hwy",
     "sg:city":"Geham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253275593,
-    "wof:lastmodified":1449063773,
+    "wof:lastmodified":1466190541,
     "wof:name":"Geham Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nsw"
     ]
 },
-  "bbox": [152.002899,-27.389776,152.002899,-27.389776],
-  "geometry": {"coordinates":[152.002899,-27.389776],"type":"Point"}
+  "bbox": [
+    152.002899,
+    -27.389776,
+    152.002899,
+    -27.389776
+],
+  "geometry": {"coordinates":[152.00289900000001,-27.389776],"type":"Point"}
 }

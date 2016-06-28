@@ -2,13 +2,14 @@
   "id": 186626285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.052307,-34.286064,146.052307,-34.286064",
     "geom:latitude":-34.286064,
     "geom:longitude":146.052307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"128-130 Wakaden St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186626285,
-    "wof:lastmodified":1449053027,
+    "wof:lastmodified":1466190991,
     "wof:name":"Town & Country Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [146.052307,-34.286064,146.052307,-34.286064],
-  "geometry": {"coordinates":[146.052307,-34.286064],"type":"Point"}
+  "bbox": [
+    146.052307,
+    -34.286064,
+    146.052307,
+    -34.286064
+],
+  "geometry": {"coordinates":[146.05230700000001,-34.286064],"type":"Point"}
 }

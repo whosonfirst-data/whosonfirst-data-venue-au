@@ -2,13 +2,14 @@
   "id": 203209727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.875015,-41.040649,145.875015,-41.040649",
     "geom:latitude":-41.040649,
     "geom:longitude":145.875015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Bass Hwy",
     "sg:city":"Cooee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203209727,
-    "wof:lastmodified":1449026665,
+    "wof:lastmodified":1466187151,
     "wof:name":"Dowling McCarthy Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [145.875015,-41.040649,145.875015,-41.040649],
-  "geometry": {"coordinates":[145.875015,-41.040649],"type":"Point"}
+  "bbox": [
+    145.875015,
+    -41.040649,
+    145.875015,
+    -41.040649
+],
+  "geometry": {"coordinates":[145.87501499999999,-41.040649],"type":"Point"}
 }

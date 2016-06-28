@@ -2,13 +2,14 @@
   "id": 253174393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952286,-27.568256,151.952286,-27.568256",
     "geom:latitude":-27.568256,
     "geom:longitude":151.952286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 8, Heritage Plaza Arcade 400 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253174393,
-    "wof:lastmodified":1449063221,
+    "wof:lastmodified":1466190045,
     "wof:name":"Aspire Financial Consulting Pty Ltd",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.952286,-27.568256,151.952286,-27.568256],
-  "geometry": {"coordinates":[151.952286,-27.568256],"type":"Point"}
+  "bbox": [
+    151.952286,
+    -27.568256,
+    151.952286,
+    -27.568256
+],
+  "geometry": {"coordinates":[151.95228599999999,-27.568256],"type":"Point"}
 }

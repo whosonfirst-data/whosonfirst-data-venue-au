@@ -2,13 +2,14 @@
   "id": 253098863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833374,-37.752388,144.833374,-37.752388",
     "geom:latitude":-37.752388,
     "geom:longitude":144.833374,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"248 McIntyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253098863,
-    "wof:lastmodified":1449065467,
+    "wof:lastmodified":1466188709,
     "wof:name":"Spot On Panels Pty Ltd",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [144.833374,-37.752388,144.833374,-37.752388],
-  "geometry": {"coordinates":[144.833374,-37.752388],"type":"Point"}
+  "bbox": [
+    144.833374,
+    -37.752388,
+    144.833374,
+    -37.752388
+],
+  "geometry": {"coordinates":[144.83337399999999,-37.752388],"type":"Point"}
 }

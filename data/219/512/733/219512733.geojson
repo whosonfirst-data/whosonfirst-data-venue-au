@@ -2,13 +2,14 @@
   "id": 219512733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.120728,-33.898296,151.120728,-33.898296",
     "geom:latitude":-33.898296,
     "geom:longitude":151.120728,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 King St",
     "sg:city":"Ashbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219512733,
-    "wof:lastmodified":1449072968,
+    "wof:lastmodified":1466189755,
     "wof:name":"Teresa's Boutique",
     "wof:parent_id":85776855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dressmaker"
     ]
 },
-  "bbox": [151.120728,-33.898296,151.120728,-33.898296],
-  "geometry": {"coordinates":[151.120728,-33.898296],"type":"Point"}
+  "bbox": [
+    151.120728,
+    -33.898296,
+    151.120728,
+    -33.898296
+],
+  "geometry": {"coordinates":[151.12072800000001,-33.898296],"type":"Point"}
 }

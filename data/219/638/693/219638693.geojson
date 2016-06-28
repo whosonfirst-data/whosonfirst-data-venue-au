@@ -2,13 +2,14 @@
   "id": 219638693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.123398,-33.928028,151.123398,-33.928028",
     "geom:latitude":-33.928028,
     "geom:longitude":151.123398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Homer St",
     "sg:city":"Earlwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219638693,
-    "wof:lastmodified":1449070573,
+    "wof:lastmodified":1466190936,
     "wof:name":"Austin B & D",
     "wof:parent_id":85769211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "distributors"
     ]
 },
-  "bbox": [151.123398,-33.928028,151.123398,-33.928028],
-  "geometry": {"coordinates":[151.123398,-33.928028],"type":"Point"}
+  "bbox": [
+    151.123398,
+    -33.928028,
+    151.123398,
+    -33.928028
+],
+  "geometry": {"coordinates":[151.12339800000001,-33.928028],"type":"Point"}
 }

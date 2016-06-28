@@ -2,13 +2,14 @@
   "id": 253118199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.841553,-37.771362,144.841553,-37.771362",
     "geom:latitude":-37.771362,
     "geom:longitude":144.841553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Northumberland Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253118199,
-    "wof:lastmodified":1449065201,
+    "wof:lastmodified":1466189106,
     "wof:name":"Masto H",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.841553,-37.771362,144.841553,-37.771362],
+  "bbox": [
+    144.841553,
+    -37.771362,
+    144.841553,
+    -37.771362
+],
   "geometry": {"coordinates":[144.841553,-37.771362],"type":"Point"}
 }

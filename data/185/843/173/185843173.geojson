@@ -2,13 +2,14 @@
   "id": 185843173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841064,-25.288721,152.841064,-25.288721",
     "geom:latitude":-25.288721,
     "geom:longitude":152.841064,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 8 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185843173,
-    "wof:lastmodified":1449006745,
+    "wof:lastmodified":1466187252,
     "wof:name":"Delux Portables",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "portable"
     ]
 },
-  "bbox": [152.841064,-25.288721,152.841064,-25.288721],
-  "geometry": {"coordinates":[152.841064,-25.288721],"type":"Point"}
+  "bbox": [
+    152.841064,
+    -25.288721,
+    152.841064,
+    -25.288721
+],
+  "geometry": {"coordinates":[152.84106399999999,-25.288721],"type":"Point"}
 }

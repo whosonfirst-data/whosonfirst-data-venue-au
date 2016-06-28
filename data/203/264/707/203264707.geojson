@@ -2,13 +2,14 @@
   "id": 203264707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.020966,-33.370792,148.020966,-33.370792",
     "geom:latitude":-33.370792,
     "geom:longitude":148.020966,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Tobias St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203264707,
-    "wof:lastmodified":1449026210,
+    "wof:lastmodified":1466187682,
     "wof:name":"Jemalong Wool Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [148.020966,-33.370792,148.020966,-33.370792],
-  "geometry": {"coordinates":[148.020966,-33.370792],"type":"Point"}
+  "bbox": [
+    148.020966,
+    -33.370792,
+    148.020966,
+    -33.370792
+],
+  "geometry": {"coordinates":[148.02096599999999,-33.370792],"type":"Point"}
 }

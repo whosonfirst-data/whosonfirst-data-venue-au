@@ -2,13 +2,14 @@
   "id": 235959927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.356598,-33.267448,138.356598,-33.267448",
     "geom:latitude":-33.267448,
     "geom:longitude":138.356598,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Gladstone St",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235959927,
-    "wof:lastmodified":1449008580,
+    "wof:lastmodified":1466187200,
     "wof:name":"Repco Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [138.356598,-33.267448,138.356598,-33.267448],
-  "geometry": {"coordinates":[138.356598,-33.267448],"type":"Point"}
+  "bbox": [
+    138.356598,
+    -33.267448,
+    138.356598,
+    -33.267448
+],
+  "geometry": {"coordinates":[138.35659799999999,-33.267448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202500939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.04068,-37.916706,145.04068,-37.916706",
     "geom:latitude":-37.916706,
     "geom:longitude":145.04068,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hayes St",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202500939,
-    "wof:lastmodified":1449060752,
+    "wof:lastmodified":1466189530,
     "wof:name":"VoTech Training Services",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [145.04068,-37.916706,145.04068,-37.916706],
-  "geometry": {"coordinates":[145.04068,-37.916706],"type":"Point"}
+  "bbox": [
+    145.04068,
+    -37.916706,
+    145.04068,
+    -37.916706
+],
+  "geometry": {"coordinates":[145.04068000000001,-37.916706],"type":"Point"}
 }

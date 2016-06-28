@@ -2,13 +2,14 @@
   "id": 236494531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.155594,-21.181395,149.155594,-21.181395",
     "geom:latitude":-21.181395,
     "geom:longitude":149.155594,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Southgate Drv",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236494531,
-    "wof:lastmodified":1449004804,
+    "wof:lastmodified":1466191359,
     "wof:name":"Cummins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "generator"
     ]
 },
-  "bbox": [149.155594,-21.181395,149.155594,-21.181395],
-  "geometry": {"coordinates":[149.155594,-21.181395],"type":"Point"}
+  "bbox": [
+    149.155594,
+    -21.181395,
+    149.155594,
+    -21.181395
+],
+  "geometry": {"coordinates":[149.15559400000001,-21.181395],"type":"Point"}
 }

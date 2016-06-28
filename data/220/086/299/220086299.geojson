@@ -2,13 +2,14 @@
   "id": 220086299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.127625,-40.84214,145.127625,-40.84214",
     "geom:latitude":-40.84214,
     "geom:longitude":145.127625,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Smith St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220086299,
-    "wof:lastmodified":1449074593,
+    "wof:lastmodified":1466187805,
     "wof:name":"Wyndarra Community & Resource Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [145.127625,-40.84214,145.127625,-40.84214],
-  "geometry": {"coordinates":[145.127625,-40.84214],"type":"Point"}
+  "bbox": [
+    145.127625,
+    -40.84214,
+    145.127625,
+    -40.84214
+],
+  "geometry": {"coordinates":[145.12762499999999,-40.84214],"type":"Point"}
 }

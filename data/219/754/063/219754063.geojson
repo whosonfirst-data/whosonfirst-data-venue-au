@@ -2,13 +2,14 @@
   "id": 219754063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.618546,-32.599339,151.618546,-32.599339",
     "geom:latitude":-32.599339,
     "geom:longitude":151.618546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 King St",
     "sg:city":"Paterson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219754063,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466191268,
     "wof:name":"CBC Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.618546,-32.599339,151.618546,-32.599339],
-  "geometry": {"coordinates":[151.618546,-32.599339],"type":"Point"}
+  "bbox": [
+    151.618546,
+    -32.599339,
+    151.618546,
+    -32.599339
+],
+  "geometry": {"coordinates":[151.61854600000001,-32.599339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236260067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.33062,-31.232437,119.33062,-31.232437",
     "geom:latitude":-31.232437,
     "geom:longitude":119.33062,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Spica St",
     "sg:city":"Southern Cross",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236260067,
-    "wof:lastmodified":1449002086,
+    "wof:lastmodified":1466190113,
     "wof:name":"Southern Cross Tyre Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [119.33062,-31.232437,119.33062,-31.232437],
+  "bbox": [
+    119.33062,
+    -31.232437,
+    119.33062,
+    -31.232437
+],
   "geometry": {"coordinates":[119.33062,-31.232437],"type":"Point"}
 }

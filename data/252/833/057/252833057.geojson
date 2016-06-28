@@ -2,13 +2,14 @@
   "id": 252833057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.601044,-32.607704,149.601044,-32.607704",
     "geom:latitude":-32.607704,
     "geom:longitude":149.601044,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 13 Industrial Ave",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252833057,
-    "wof:lastmodified":1449005540,
+    "wof:lastmodified":1466188411,
     "wof:name":"Kelly's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [149.601044,-32.607704,149.601044,-32.607704],
+  "bbox": [
+    149.601044,
+    -32.607704,
+    149.601044,
+    -32.607704
+],
   "geometry": {"coordinates":[149.601044,-32.607704],"type":"Point"}
 }

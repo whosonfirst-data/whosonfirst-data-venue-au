@@ -2,13 +2,14 @@
   "id": 253314975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.293091,-38.020523,145.293091,-38.020523",
     "geom:latitude":-38.020523,
     "geom:longitude":145.293091,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fact. 3 28 Vesper Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253314975,
-    "wof:lastmodified":1449065675,
+    "wof:lastmodified":1466190866,
     "wof:name":"Able Traffic Management",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "traffic"
     ]
 },
-  "bbox": [145.293091,-38.020523,145.293091,-38.020523],
+  "bbox": [
+    145.293091,
+    -38.020523,
+    145.293091,
+    -38.020523
+],
   "geometry": {"coordinates":[145.293091,-38.020523],"type":"Point"}
 }

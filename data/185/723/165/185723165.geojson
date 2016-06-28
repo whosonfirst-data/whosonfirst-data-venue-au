@@ -2,13 +2,14 @@
   "id": 185723165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.011536,-32.729301,152.011536,-32.729301",
     "geom:latitude":-32.729301,
     "geom:longitude":152.011536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Fairlands Rd",
     "sg:city":"Mallabula",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185723165,
-    "wof:lastmodified":1449007556,
+    "wof:lastmodified":1466189361,
     "wof:name":"Michael Lindsay Spear Points",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.011536,-32.729301,152.011536,-32.729301],
-  "geometry": {"coordinates":[152.011536,-32.729301],"type":"Point"}
+  "bbox": [
+    152.011536,
+    -32.729301,
+    152.011536,
+    -32.729301
+],
+  "geometry": {"coordinates":[152.01153600000001,-32.729301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253089429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.770935,-37.728455,144.770935,-37.728455",
     "geom:latitude":-37.728455,
     "geom:longitude":144.770935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Kurung Drv",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253089429,
-    "wof:lastmodified":1449063414,
+    "wof:lastmodified":1466188528,
     "wof:name":"Falcon Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.770935,-37.728455,144.770935,-37.728455],
-  "geometry": {"coordinates":[144.770935,-37.728455],"type":"Point"}
+  "bbox": [
+    144.770935,
+    -37.728455,
+    144.770935,
+    -37.728455
+],
+  "geometry": {"coordinates":[144.77093500000001,-37.728455],"type":"Point"}
 }

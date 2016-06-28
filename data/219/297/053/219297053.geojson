@@ -2,13 +2,14 @@
   "id": 219297053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.930237,-38.172504,145.930237,-38.172504",
     "geom:latitude":-38.172504,
     "geom:longitude":145.930237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"West Gippsland Hospital Landsborough Rd",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219297053,
-    "wof:lastmodified":1449072626,
+    "wof:lastmodified":1466187502,
     "wof:name":"Gippsland Psychiatric Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.930237,-38.172504,145.930237,-38.172504],
-  "geometry": {"coordinates":[145.930237,-38.172504],"type":"Point"}
+  "bbox": [
+    145.930237,
+    -38.172504,
+    145.930237,
+    -38.172504
+],
+  "geometry": {"coordinates":[145.93023700000001,-38.172504],"type":"Point"}
 }

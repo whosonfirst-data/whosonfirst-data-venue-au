@@ -2,13 +2,14 @@
   "id": 236824571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.888168,-34.425911,150.888168,-34.425911",
     "geom:latitude":-34.425911,
     "geom:longitude":150.888168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Crown St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236824571,
-    "wof:lastmodified":1449002696,
+    "wof:lastmodified":1466191993,
     "wof:name":"Vax-D Spinal Institute",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [150.888168,-34.425911,150.888168,-34.425911],
-  "geometry": {"coordinates":[150.888168,-34.425911],"type":"Point"}
+  "bbox": [
+    150.888168,
+    -34.425911,
+    150.888168,
+    -34.425911
+],
+  "geometry": {"coordinates":[150.88816800000001,-34.425911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185893453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699417,-25.539408,152.699417,-25.539408",
     "geom:latitude":-25.539408,
     "geom:longitude":152.699417,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Square Lennox St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185893453,
-    "wof:lastmodified":1449007924,
+    "wof:lastmodified":1466187855,
     "wof:name":"Wide Bay Australia Ltd",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.699417,-25.539408,152.699417,-25.539408],
-  "geometry": {"coordinates":[152.699417,-25.539408],"type":"Point"}
+  "bbox": [
+    152.699417,
+    -25.539408,
+    152.699417,
+    -25.539408
+],
+  "geometry": {"coordinates":[152.69941700000001,-25.539408],"type":"Point"}
 }

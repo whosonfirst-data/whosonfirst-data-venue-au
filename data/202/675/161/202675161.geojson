@@ -2,13 +2,14 @@
   "id": 202675161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.021057,-27.387636,153.021057,-27.387636",
     "geom:latitude":-27.387636,
     "geom:longitude":153.021057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Webster Rd",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202675161,
-    "wof:lastmodified":1449061413,
+    "wof:lastmodified":1466188369,
     "wof:name":"Lawson Electrical",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.021057,-27.387636,153.021057,-27.387636],
-  "geometry": {"coordinates":[153.021057,-27.387636],"type":"Point"}
+  "bbox": [
+    153.021057,
+    -27.387636,
+    153.021057,
+    -27.387636
+],
+  "geometry": {"coordinates":[153.02105700000001,-27.387636],"type":"Point"}
 }

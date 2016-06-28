@@ -2,13 +2,14 @@
   "id": 219357345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.551224,-35.337917,143.551224,-35.337917",
     "geom:latitude":-35.337917,
     "geom:longitude":143.551224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Pritchard St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219357345,
-    "wof:lastmodified":1449073486,
+    "wof:lastmodified":1466187991,
     "wof:name":"Ross Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tuition"
     ]
 },
-  "bbox": [143.551224,-35.337917,143.551224,-35.337917],
-  "geometry": {"coordinates":[143.551224,-35.337917],"type":"Point"}
+  "bbox": [
+    143.551224,
+    -35.337917,
+    143.551224,
+    -35.337917
+],
+  "geometry": {"coordinates":[143.55122399999999,-35.337917],"type":"Point"}
 }

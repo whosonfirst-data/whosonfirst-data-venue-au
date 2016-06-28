@@ -2,13 +2,14 @@
   "id": 236484355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.215622,-21.075609,149.215622,-21.075609",
     "geom:latitude":-21.075609,
     "geom:longitude":149.215622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kookaburra St",
     "sg:city":"Slade Point",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236484355,
-    "wof:lastmodified":1449005023,
+    "wof:lastmodified":1466191403,
     "wof:name":"Anything Earthmoving",
     "wof:parent_id":85780459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.215622,-21.075609,149.215622,-21.075609],
+  "bbox": [
+    149.215622,
+    -21.075609,
+    149.215622,
+    -21.075609
+],
   "geometry": {"coordinates":[149.215622,-21.075609],"type":"Point"}
 }

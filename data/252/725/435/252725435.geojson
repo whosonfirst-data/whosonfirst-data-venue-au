@@ -2,13 +2,14 @@
   "id": 252725435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.649582,-33.337238,115.649582,-33.337238",
     "geom:latitude":-33.337238,
     "geom:longitude":115.649582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Denning Rd",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252725435,
-    "wof:lastmodified":1449005692,
+    "wof:lastmodified":1466187174,
     "wof:name":"Ausdens",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glazier"
     ]
 },
-  "bbox": [115.649582,-33.337238,115.649582,-33.337238],
+  "bbox": [
+    115.649582,
+    -33.337238,
+    115.649582,
+    -33.337238
+],
   "geometry": {"coordinates":[115.649582,-33.337238],"type":"Point"}
 }

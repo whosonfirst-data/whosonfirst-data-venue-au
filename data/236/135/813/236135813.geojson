@@ -2,13 +2,14 @@
   "id": 236135813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.853806,-37.736256,144.853806,-37.736256",
     "geom:latitude":-37.736256,
     "geom:longitude":144.853806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236135813,
-    "wof:lastmodified":1449002817,
+    "wof:lastmodified":1466189365,
     "wof:name":"Infinity Trading Group Pty Ltd",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "wear"
     ]
 },
-  "bbox": [144.853806,-37.736256,144.853806,-37.736256],
-  "geometry": {"coordinates":[144.853806,-37.736256],"type":"Point"}
+  "bbox": [
+    144.853806,
+    -37.736256,
+    144.853806,
+    -37.736256
+],
+  "geometry": {"coordinates":[144.85380599999999,-37.736256],"type":"Point"}
 }

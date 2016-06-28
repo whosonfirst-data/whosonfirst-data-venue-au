@@ -2,13 +2,14 @@
   "id": 203328799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.751648,-37.585697,143.751648,-37.585697",
     "geom:latitude":-37.585697,
     "geom:longitude":143.751648,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Finchs Rd",
     "sg:city":"Smythes Creek",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203328799,
-    "wof:lastmodified":1449026061,
+    "wof:lastmodified":1466188362,
     "wof:name":"Nicholls R & S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [143.751648,-37.585697,143.751648,-37.585697],
-  "geometry": {"coordinates":[143.751648,-37.585697],"type":"Point"}
+  "bbox": [
+    143.751648,
+    -37.585697,
+    143.751648,
+    -37.585697
+],
+  "geometry": {"coordinates":[143.75164799999999,-37.585697],"type":"Point"}
 }

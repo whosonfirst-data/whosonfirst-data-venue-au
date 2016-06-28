@@ -2,13 +2,14 @@
   "id": 253016267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.717865,-37.875546,144.717865,-37.875546",
     "geom:latitude":-37.875546,
     "geom:longitude":144.717865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 194- 210 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253016267,
-    "wof:lastmodified":1449063333,
+    "wof:lastmodified":1466187238,
     "wof:name":"Autobarn Pty Ltd",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [144.717865,-37.875546,144.717865,-37.875546],
-  "geometry": {"coordinates":[144.717865,-37.875546],"type":"Point"}
+  "bbox": [
+    144.717865,
+    -37.875546,
+    144.717865,
+    -37.875546
+],
+  "geometry": {"coordinates":[144.71786499999999,-37.875546],"type":"Point"}
 }

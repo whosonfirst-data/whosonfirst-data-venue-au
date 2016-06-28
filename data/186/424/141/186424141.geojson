@@ -2,13 +2,14 @@
   "id": 186424141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.796387,-19.266211,146.796387,-19.266211",
     "geom:latitude":-19.266211,
     "geom:longitude":146.796387,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Echlin St",
     "sg:city":"West End (Townsville)",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186424141,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466189711,
     "wof:name":"Angelo's Barber Shop",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [146.796387,-19.266211,146.796387,-19.266211],
-  "geometry": {"coordinates":[146.796387,-19.266211],"type":"Point"}
+  "bbox": [
+    146.796387,
+    -19.266211,
+    146.796387,
+    -19.266211
+],
+  "geometry": {"coordinates":[146.79638700000001,-19.266211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252750777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.648109,-33.338131,115.648109,-33.338131",
     "geom:latitude":-33.338131,
     "geom:longitude":115.648109,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Albert Rd",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252750777,
-    "wof:lastmodified":1449006093,
+    "wof:lastmodified":1466187651,
     "wof:name":"WA Shelving & Storage",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [115.648109,-33.338131,115.648109,-33.338131],
-  "geometry": {"coordinates":[115.648109,-33.338131],"type":"Point"}
+  "bbox": [
+    115.648109,
+    -33.338131,
+    115.648109,
+    -33.338131
+],
+  "geometry": {"coordinates":[115.64810900000001,-33.338131],"type":"Point"}
 }

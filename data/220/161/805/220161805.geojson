@@ -2,13 +2,14 @@
   "id": 220161805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358536,-38.151386,144.358536,-38.151386",
     "geom:latitude":-38.151386,
     "geom:longitude":144.358536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Myers St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220161805,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466188829,
     "wof:name":"Bell & Fulton",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.358536,-38.151386,144.358536,-38.151386],
-  "geometry": {"coordinates":[144.358536,-38.151386],"type":"Point"}
+  "bbox": [
+    144.358536,
+    -38.151386,
+    144.358536,
+    -38.151386
+],
+  "geometry": {"coordinates":[144.35853599999999,-38.151386],"type":"Point"}
 }

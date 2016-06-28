@@ -2,13 +2,14 @@
   "id": 219565883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.037155,-33.930622,151.037155,-33.930622",
     "geom:latitude":-33.930622,
     "geom:longitude":151.037155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Arkley St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219565883,
-    "wof:lastmodified":1449073606,
+    "wof:lastmodified":1466190295,
     "wof:name":"Tegrin Pty Ltd",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [151.037155,-33.930622,151.037155,-33.930622],
-  "geometry": {"coordinates":[151.037155,-33.930622],"type":"Point"}
+  "bbox": [
+    151.037155,
+    -33.930622,
+    151.037155,
+    -33.930622
+],
+  "geometry": {"coordinates":[151.03715500000001,-33.930622],"type":"Point"}
 }

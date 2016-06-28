@@ -2,13 +2,14 @@
   "id": 236555045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.999176,-33.940254,150.999176,-33.940254",
     "geom:latitude":-33.940254,
     "geom:longitude":150.999176,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Marigold St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236555045,
-    "wof:lastmodified":1449004680,
+    "wof:lastmodified":1466191594,
     "wof:name":"Cosmoluce Pty Ltd",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [150.999176,-33.940254,150.999176,-33.940254],
-  "geometry": {"coordinates":[150.999176,-33.940254],"type":"Point"}
+  "bbox": [
+    150.999176,
+    -33.940254,
+    150.999176,
+    -33.940254
+],
+  "geometry": {"coordinates":[150.99917600000001,-33.940254],"type":"Point"}
 }

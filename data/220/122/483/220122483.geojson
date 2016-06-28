@@ -2,13 +2,14 @@
   "id": 220122483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.254059,-38.083645,144.254059,-38.083645",
     "geom:latitude":-38.083645,
     "geom:longitude":144.254059,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Bates Crt",
     "sg:city":"Batesford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220122483,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466188179,
     "wof:name":"Anna Ferguson's Hair & Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.254059,-38.083645,144.254059,-38.083645],
-  "geometry": {"coordinates":[144.254059,-38.083645],"type":"Point"}
+  "bbox": [
+    144.254059,
+    -38.083645,
+    144.254059,
+    -38.083645
+],
+  "geometry": {"coordinates":[144.25405900000001,-38.083645],"type":"Point"}
 }

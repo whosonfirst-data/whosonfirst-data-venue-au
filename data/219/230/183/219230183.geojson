@@ -2,13 +2,14 @@
   "id": 219230183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935745,-37.657745,144.935745,-37.657745",
     "geom:latitude":-37.657745,
     "geom:longitude":144.935745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Kyabram St",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219230183,
-    "wof:lastmodified":1449073021,
+    "wof:lastmodified":1466189898,
     "wof:name":"Renton Engineering Pty Ltd",
     "wof:parent_id":85777809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [144.935745,-37.657745,144.935745,-37.657745],
+  "bbox": [
+    144.935745,
+    -37.657745,
+    144.935745,
+    -37.657745
+],
   "geometry": {"coordinates":[144.935745,-37.657745],"type":"Point"}
 }

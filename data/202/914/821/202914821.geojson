@@ -2,13 +2,14 @@
   "id": 202914821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.105591,-30.285347,153.105591,-30.285347",
     "geom:latitude":-30.285347,
     "geom:longitude":153.105591,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Beryl St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202914821,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466190765,
     "wof:name":"Palazzi Plumbing Service",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.105591,-30.285347,153.105591,-30.285347],
+  "bbox": [
+    153.105591,
+    -30.285347,
+    153.105591,
+    -30.285347
+],
   "geometry": {"coordinates":[153.105591,-30.285347],"type":"Point"}
 }

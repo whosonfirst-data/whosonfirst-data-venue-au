@@ -2,13 +2,14 @@
   "id": 186589903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.517059,-41.15807,147.517059,-41.15807",
     "geom:latitude":-41.15807,
     "geom:longitude":147.517059,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21- 23 George St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186589903,
-    "wof:lastmodified":1449051803,
+    "wof:lastmodified":1466190999,
     "wof:name":"Barnett Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [147.517059,-41.15807,147.517059,-41.15807],
-  "geometry": {"coordinates":[147.517059,-41.15807],"type":"Point"}
+  "bbox": [
+    147.517059,
+    -41.15807,
+    147.517059,
+    -41.15807
+],
+  "geometry": {"coordinates":[147.51705899999999,-41.15807],"type":"Point"}
 }

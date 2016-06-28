@@ -2,13 +2,14 @@
   "id": 236038695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.811554,-37.722496,144.811554,-37.722496",
     "geom:latitude":-37.722496,
     "geom:longitude":144.811554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Elba Pl",
     "sg:city":"Keilor Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236038695,
-    "wof:lastmodified":1449003825,
+    "wof:lastmodified":1466187386,
     "wof:name":"Westvale School Of Music",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [144.811554,-37.722496,144.811554,-37.722496],
+  "bbox": [
+    144.811554,
+    -37.722496,
+    144.811554,
+    -37.722496
+],
   "geometry": {"coordinates":[144.811554,-37.722496],"type":"Point"}
 }

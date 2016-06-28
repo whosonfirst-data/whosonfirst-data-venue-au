@@ -2,13 +2,14 @@
   "id": 202833349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.16684,-23.521128,148.16684,-23.521128",
     "geom:latitude":-23.521128,
     "geom:longitude":148.16684,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Esmond St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202833349,
-    "wof:lastmodified":1449060428,
+    "wof:lastmodified":1466190445,
     "wof:name":"Smith's Welding & Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [148.16684,-23.521128,148.16684,-23.521128],
-  "geometry": {"coordinates":[148.16684,-23.521128],"type":"Point"}
+  "bbox": [
+    148.16684,
+    -23.521128,
+    148.16684,
+    -23.521128
+],
+  "geometry": {"coordinates":[148.16684000000001,-23.521128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219409239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.986023,-28.001348,152.986023,-28.001348",
     "geom:latitude":-28.001348,
     "geom:longitude":152.986023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mt Lindesay Hwy",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219409239,
-    "wof:lastmodified":1449071836,
+    "wof:lastmodified":1466188445,
     "wof:name":"Beaudesert High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nsw"
     ]
 },
-  "bbox": [152.986023,-28.001348,152.986023,-28.001348],
-  "geometry": {"coordinates":[152.986023,-28.001348],"type":"Point"}
+  "bbox": [
+    152.986023,
+    -28.001348,
+    152.986023,
+    -28.001348
+],
+  "geometry": {"coordinates":[152.98602299999999,-28.001348],"type":"Point"}
 }

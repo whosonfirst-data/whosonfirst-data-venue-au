@@ -2,13 +2,14 @@
   "id": 202496541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.052292,-37.905579,145.052292,-37.905579",
     "geom:latitude":-37.905579,
     "geom:longitude":145.052292,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"740 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202496541,
-    "wof:lastmodified":1449062274,
+    "wof:lastmodified":1466189493,
     "wof:name":"Express Catering The Kebab",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [145.052292,-37.905579,145.052292,-37.905579],
-  "geometry": {"coordinates":[145.052292,-37.905579],"type":"Point"}
+  "bbox": [
+    145.052292,
+    -37.905579,
+    145.052292,
+    -37.905579
+],
+  "geometry": {"coordinates":[145.05229199999999,-37.905579],"type":"Point"}
 }

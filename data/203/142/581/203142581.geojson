@@ -2,13 +2,14 @@
   "id": 203142581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.706161,-32.52869,115.706161,-32.52869",
     "geom:latitude":-32.52869,
     "geom:longitude":115.706161,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Leighton Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203142581,
-    "wof:lastmodified":1449026453,
+    "wof:lastmodified":1466189621,
     "wof:name":"Halls Cottage",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "attractions"
     ]
 },
-  "bbox": [115.706161,-32.52869,115.706161,-32.52869],
-  "geometry": {"coordinates":[115.706161,-32.52869],"type":"Point"}
+  "bbox": [
+    115.706161,
+    -32.52869,
+    115.706161,
+    -32.52869
+],
+  "geometry": {"coordinates":[115.70616099999999,-32.52869],"type":"Point"}
 }

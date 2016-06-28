@@ -2,13 +2,14 @@
   "id": 203034497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.152893,-37.670589,145.152893,-37.670589",
     "geom:latitude":-37.670589,
     "geom:longitude":145.152893,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ness St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203034497,
-    "wof:lastmodified":1449025155,
+    "wof:lastmodified":1466187897,
     "wof:name":"Ness Reserve Preschool Assoc Inc",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [145.152893,-37.670589,145.152893,-37.670589],
-  "geometry": {"coordinates":[145.152893,-37.670589],"type":"Point"}
+  "bbox": [
+    145.152893,
+    -37.670589,
+    145.152893,
+    -37.670589
+],
+  "geometry": {"coordinates":[145.15289300000001,-37.670589],"type":"Point"}
 }

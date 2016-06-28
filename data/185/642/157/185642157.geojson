@@ -2,13 +2,14 @@
   "id": 185642157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.914673,-32.066677,115.914673,-32.066677",
     "geom:latitude":-32.066677,
     "geom:longitude":115.914673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4/ 24 Baile Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185642157,
-    "wof:lastmodified":1449006689,
+    "wof:lastmodified":1466188116,
     "wof:name":"A S H Electrical",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.914673,-32.066677,115.914673,-32.066677],
-  "geometry": {"coordinates":[115.914673,-32.066677],"type":"Point"}
+  "bbox": [
+    115.914673,
+    -32.066677,
+    115.914673,
+    -32.066677
+],
+  "geometry": {"coordinates":[115.91467299999999,-32.066677],"type":"Point"}
 }

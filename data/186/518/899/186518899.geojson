@@ -2,13 +2,14 @@
   "id": 186518899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.753464,-19.300863,146.753464,-19.300863",
     "geom:latitude":-19.300863,
     "geom:longitude":146.753464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Baralga St",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186518899,
-    "wof:lastmodified":1449051898,
+    "wof:lastmodified":1466190795,
     "wof:name":"Grimaldi Constructions Pty Ltd",
     "wof:parent_id":85779483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.753464,-19.300863,146.753464,-19.300863],
-  "geometry": {"coordinates":[146.753464,-19.300863],"type":"Point"}
+  "bbox": [
+    146.753464,
+    -19.300863,
+    146.753464,
+    -19.300863
+],
+  "geometry": {"coordinates":[146.75346400000001,-19.300863],"type":"Point"}
 }

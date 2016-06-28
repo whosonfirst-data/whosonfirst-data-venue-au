@@ -2,13 +2,14 @@
   "id": 185924445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.566986,-33.281876,151.566986,-33.281876",
     "geom:latitude":-33.281876,
     "geom:longitude":151.566986,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Soldiers Point Drv",
     "sg:city":"Norah Head",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185924445,
-    "wof:lastmodified":1449007050,
+    "wof:lastmodified":1466188272,
     "wof:name":"Sencon Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.566986,-33.281876,151.566986,-33.281876],
-  "geometry": {"coordinates":[151.566986,-33.281876],"type":"Point"}
+  "bbox": [
+    151.566986,
+    -33.281876,
+    151.566986,
+    -33.281876
+],
+  "geometry": {"coordinates":[151.56698600000001,-33.281876],"type":"Point"}
 }

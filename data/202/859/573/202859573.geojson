@@ -2,13 +2,14 @@
   "id": 202859573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.960632,-36.727039,146.960632,-36.727039",
     "geom:latitude":-36.727039,
     "geom:longitude":146.960632,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 111 Gavan St",
     "sg:city":"Bright",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202859573,
-    "wof:lastmodified":1449061913,
+    "wof:lastmodified":1466190403,
     "wof:name":"Savoie Patisserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pastry"
     ]
 },
-  "bbox": [146.960632,-36.727039,146.960632,-36.727039],
+  "bbox": [
+    146.960632,
+    -36.727039,
+    146.960632,
+    -36.727039
+],
   "geometry": {"coordinates":[146.960632,-36.727039],"type":"Point"}
 }

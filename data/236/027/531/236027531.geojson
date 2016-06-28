@@ -2,13 +2,14 @@
   "id": 236027531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.258362,-43.065033,147.258362,-43.065033",
     "geom:latitude":-43.065033,
     "geom:longitude":147.258362,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Beach Rd",
     "sg:city":"Snug",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236027531,
-    "wof:lastmodified":1449002136,
+    "wof:lastmodified":1466187229,
     "wof:name":"Island Herbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "herb"
     ]
 },
-  "bbox": [147.258362,-43.065033,147.258362,-43.065033],
-  "geometry": {"coordinates":[147.258362,-43.065033],"type":"Point"}
+  "bbox": [
+    147.258362,
+    -43.065033,
+    147.258362,
+    -43.065033
+],
+  "geometry": {"coordinates":[147.25836200000001,-43.065033],"type":"Point"}
 }

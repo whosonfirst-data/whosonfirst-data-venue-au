@@ -2,13 +2,14 @@
   "id": 186499497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.784241,-19.312458,146.784241,-19.312458",
     "geom:latitude":-19.312458,
     "geom:longitude":146.784241,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3",
     "sg:city":"Macuthur Drive Annandale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186499497,
-    "wof:lastmodified":1449050918,
+    "wof:lastmodified":1466190513,
     "wof:name":"Brumbys Bakeries",
     "wof:parent_id":85779361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [146.784241,-19.312458,146.784241,-19.312458],
-  "geometry": {"coordinates":[146.784241,-19.312458],"type":"Point"}
+  "bbox": [
+    146.784241,
+    -19.312458,
+    146.784241,
+    -19.312458
+],
+  "geometry": {"coordinates":[146.78424100000001,-19.312458],"type":"Point"}
 }

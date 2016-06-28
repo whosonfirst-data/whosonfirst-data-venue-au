@@ -2,13 +2,14 @@
   "id": 202661497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.034607,-27.430658,153.034607,-27.430658",
     "geom:latitude":-27.430658,
     "geom:longitude":153.034607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Hadfield St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202661497,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1466188103,
     "wof:name":"Gary Starr Plumbing",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.034607,-27.430658,153.034607,-27.430658],
-  "geometry": {"coordinates":[153.034607,-27.430658],"type":"Point"}
+  "bbox": [
+    153.034607,
+    -27.430658,
+    153.034607,
+    -27.430658
+],
+  "geometry": {"coordinates":[153.03460699999999,-27.430658],"type":"Point"}
 }

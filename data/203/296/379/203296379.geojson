@@ -2,13 +2,14 @@
   "id": 203296379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.140305,-33.085377,147.140305,-33.085377",
     "geom:latitude":-33.085377,
     "geom:longitude":147.140305,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Fay St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203296379,
-    "wof:lastmodified":1449026486,
+    "wof:lastmodified":1466187918,
     "wof:name":"Baxter A N & M K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.140305,-33.085377,147.140305,-33.085377],
-  "geometry": {"coordinates":[147.140305,-33.085377],"type":"Point"}
+  "bbox": [
+    147.140305,
+    -33.085377,
+    147.140305,
+    -33.085377
+],
+  "geometry": {"coordinates":[147.14030500000001,-33.085377],"type":"Point"}
 }

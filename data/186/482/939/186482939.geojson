@@ -2,13 +2,14 @@
   "id": 186482939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.772476,-19.311508,146.772476,-19.311508",
     "geom:latitude":-19.311508,
     "geom:longitude":146.772476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Magnolia Crt",
     "sg:city":"Annandale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186482939,
-    "wof:lastmodified":1449051346,
+    "wof:lastmodified":1466190417,
     "wof:name":"Barry Switzer Drafting Service",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [146.772476,-19.311508,146.772476,-19.311508],
-  "geometry": {"coordinates":[146.772476,-19.311508],"type":"Point"}
+  "bbox": [
+    146.772476,
+    -19.311508,
+    146.772476,
+    -19.311508
+],
+  "geometry": {"coordinates":[146.77247600000001,-19.311508],"type":"Point"}
 }

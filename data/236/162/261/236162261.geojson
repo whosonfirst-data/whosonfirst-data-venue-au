@@ -2,13 +2,14 @@
   "id": 236162261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.864548,-34.736778,135.864548,-34.736778",
     "geom:latitude":-34.736778,
     "geom:longitude":135.864548,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Ravendale Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236162261,
-    "wof:lastmodified":1449004667,
+    "wof:lastmodified":1466189610,
     "wof:name":"Q Mechanical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [135.864548,-34.736778,135.864548,-34.736778],
-  "geometry": {"coordinates":[135.864548,-34.736778],"type":"Point"}
+  "bbox": [
+    135.864548,
+    -34.736778,
+    135.864548,
+    -34.736778
+],
+  "geometry": {"coordinates":[135.86454800000001,-34.736778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220067737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.332565,-38.317131,144.332565,-38.317131",
     "geom:latitude":-38.317131,
     "geom:longitude":144.332565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Loch Ard Drv",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220067737,
-    "wof:lastmodified":1449074090,
+    "wof:lastmodified":1466190079,
     "wof:name":"Comb Research & Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "processing"
     ]
 },
-  "bbox": [144.332565,-38.317131,144.332565,-38.317131],
-  "geometry": {"coordinates":[144.332565,-38.317131],"type":"Point"}
+  "bbox": [
+    144.332565,
+    -38.317131,
+    144.332565,
+    -38.317131
+],
+  "geometry": {"coordinates":[144.33256499999999,-38.317131],"type":"Point"}
 }

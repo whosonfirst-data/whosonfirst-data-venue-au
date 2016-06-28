@@ -2,13 +2,14 @@
   "id": 236130033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.875656,-37.751408,144.875656,-37.751408",
     "geom:latitude":-37.751408,
     "geom:longitude":144.875656,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Surrey Drv",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236130033,
-    "wof:lastmodified":1449002646,
+    "wof:lastmodified":1466189246,
     "wof:name":"Intertiling",
     "wof:parent_id":85777819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [144.875656,-37.751408,144.875656,-37.751408],
-  "geometry": {"coordinates":[144.875656,-37.751408],"type":"Point"}
+  "bbox": [
+    144.875656,
+    -37.751408,
+    144.875656,
+    -37.751408
+],
+  "geometry": {"coordinates":[144.87565599999999,-37.751408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219668615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.512573,-32.18108,152.512573,-32.18108",
     "geom:latitude":-32.18108,
     "geom:longitude":152.512573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 10 Forster Tower 12 Wallis St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219668615,
-    "wof:lastmodified":1449072852,
+    "wof:lastmodified":1466191093,
     "wof:name":"AcroCert Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "management"
     ]
 },
-  "bbox": [152.512573,-32.18108,152.512573,-32.18108],
+  "bbox": [
+    152.512573,
+    -32.18108,
+    152.512573,
+    -32.18108
+],
   "geometry": {"coordinates":[152.512573,-32.18108],"type":"Point"}
 }

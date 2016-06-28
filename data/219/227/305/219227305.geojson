@@ -2,13 +2,14 @@
   "id": 219227305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.937256,-37.665455,144.937256,-37.665455",
     "geom:latitude":-37.665455,
     "geom:longitude":144.937256,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Barry Rd & Maffra St",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227305,
-    "wof:lastmodified":1449071176,
+    "wof:lastmodified":1466189877,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.937256,-37.665455,144.937256,-37.665455],
-  "geometry": {"coordinates":[144.937256,-37.665455],"type":"Point"}
+  "bbox": [
+    144.937256,
+    -37.665455,
+    144.937256,
+    -37.665455
+],
+  "geometry": {"coordinates":[144.93725599999999,-37.665455],"type":"Point"}
 }

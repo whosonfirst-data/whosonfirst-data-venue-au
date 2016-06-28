@@ -2,13 +2,14 @@
   "id": 236139279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.470825,-34.623711,135.470825,-34.623711",
     "geom:latitude":-34.623711,
     "geom:longitude":135.470825,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Flinders Ave",
     "sg:city":"Coffin Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236139279,
-    "wof:lastmodified":1449001907,
+    "wof:lastmodified":1466189408,
     "wof:name":"Coffin Bay Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [135.470825,-34.623711,135.470825,-34.623711],
-  "geometry": {"coordinates":[135.470825,-34.623711],"type":"Point"}
+  "bbox": [
+    135.470825,
+    -34.623711,
+    135.470825,
+    -34.623711
+],
+  "geometry": {"coordinates":[135.47082499999999,-34.623711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235980475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.839905,-37.377628,140.839905,-37.377628",
     "geom:latitude":-37.377628,
     "geom:longitude":140.839905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20b Arthur St",
     "sg:city":"Penola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235980475,
-    "wof:lastmodified":1449008305,
+    "wof:lastmodified":1466187506,
     "wof:name":"P.K. & I.J. Franck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "decorator"
     ]
 },
-  "bbox": [140.839905,-37.377628,140.839905,-37.377628],
-  "geometry": {"coordinates":[140.839905,-37.377628],"type":"Point"}
+  "bbox": [
+    140.839905,
+    -37.377628,
+    140.839905,
+    -37.377628
+],
+  "geometry": {"coordinates":[140.83990499999999,-37.377628],"type":"Point"}
 }

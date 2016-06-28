@@ -2,13 +2,14 @@
   "id": 203223257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.901398,-41.06905,145.901398,-41.06905",
     "geom:latitude":-41.06905,
     "geom:longitude":145.901398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Ridgley Hwy",
     "sg:city":"Ridgley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203223257,
-    "wof:lastmodified":1449025066,
+    "wof:lastmodified":1466187352,
     "wof:name":"X Cuts",
     "wof:parent_id":85779425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [145.901398,-41.06905,145.901398,-41.06905],
+  "bbox": [
+    145.901398,
+    -41.06905,
+    145.901398,
+    -41.06905
+],
   "geometry": {"coordinates":[145.901398,-41.06905],"type":"Point"}
 }

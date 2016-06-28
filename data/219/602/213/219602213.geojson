@@ -2,13 +2,14 @@
   "id": 219602213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154846,-33.90995,151.154846,-33.90995",
     "geom:latitude":-33.90995,
     "geom:longitude":151.154846,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Marrickville Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219602213,
-    "wof:lastmodified":1449072048,
+    "wof:lastmodified":1466190703,
     "wof:name":"Vina World Travel",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.154846,-33.90995,151.154846,-33.90995],
-  "geometry": {"coordinates":[151.154846,-33.90995],"type":"Point"}
+  "bbox": [
+    151.154846,
+    -33.90995,
+    151.154846,
+    -33.90995
+],
+  "geometry": {"coordinates":[151.15484599999999,-33.90995],"type":"Point"}
 }

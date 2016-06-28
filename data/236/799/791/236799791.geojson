@@ -2,13 +2,14 @@
   "id": 236799791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.858749,-34.48008,150.858749,-34.48008",
     "geom:latitude":-34.48008,
     "geom:longitude":150.858749,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Flagstaff Rd",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236799791,
-    "wof:lastmodified":1449005271,
+    "wof:lastmodified":1466191951,
     "wof:name":"J Janssen",
     "wof:parent_id":85768827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [150.858749,-34.48008,150.858749,-34.48008],
-  "geometry": {"coordinates":[150.858749,-34.48008],"type":"Point"}
+  "bbox": [
+    150.858749,
+    -34.48008,
+    150.858749,
+    -34.48008
+],
+  "geometry": {"coordinates":[150.85874899999999,-34.48008],"type":"Point"}
 }

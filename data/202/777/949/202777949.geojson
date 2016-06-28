@@ -2,13 +2,14 @@
   "id": 202777949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.778442,-32.926563,151.778442,-32.926563",
     "geom:latitude":-32.926563,
     "geom:longitude":151.778442,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 199 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202777949,
-    "wof:lastmodified":1449061443,
+    "wof:lastmodified":1466190145,
     "wof:name":"St.George Bank Home Loan Centres",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.778442,-32.926563,151.778442,-32.926563],
-  "geometry": {"coordinates":[151.778442,-32.926563],"type":"Point"}
+  "bbox": [
+    151.778442,
+    -32.926563,
+    151.778442,
+    -32.926563
+],
+  "geometry": {"coordinates":[151.77844200000001,-32.926563],"type":"Point"}
 }

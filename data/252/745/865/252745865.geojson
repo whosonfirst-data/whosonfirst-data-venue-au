@@ -2,13 +2,14 @@
   "id": 252745865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.66243,-33.345592,115.66243,-33.345592",
     "geom:latitude":-33.345592,
     "geom:longitude":115.66243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wollaston Shopng Ctr/ Shp1/ Henley Drv",
     "sg:city":"East Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252745865,
-    "wof:lastmodified":1449006454,
+    "wof:lastmodified":1466187560,
     "wof:name":"Wollaston Fish & Chip Shop",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [115.66243,-33.345592,115.66243,-33.345592],
+  "bbox": [
+    115.66243,
+    -33.345592,
+    115.66243,
+    -33.345592
+],
   "geometry": {"coordinates":[115.66243,-33.345592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236234631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.677582,-38.092342,145.677582,-38.092342",
     "geom:latitude":-38.092342,
     "geom:longitude":145.677582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Main St",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236234631,
-    "wof:lastmodified":1449005033,
+    "wof:lastmodified":1466190170,
     "wof:name":"Garfield Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.677582,-38.092342,145.677582,-38.092342],
+  "bbox": [
+    145.677582,
+    -38.092342,
+    145.677582,
+    -38.092342
+],
   "geometry": {"coordinates":[145.677582,-38.092342],"type":"Point"}
 }

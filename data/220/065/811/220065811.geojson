@@ -2,13 +2,14 @@
   "id": 220065811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.303436,-38.345089,144.303436,-38.345089",
     "geom:latitude":-38.345089,
     "geom:longitude":144.303436,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Castaway Crs",
     "sg:city":"Jan Juc",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220065811,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466187644,
     "wof:name":"Display Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "exhibition"
     ]
 },
-  "bbox": [144.303436,-38.345089,144.303436,-38.345089],
+  "bbox": [
+    144.303436,
+    -38.345089,
+    144.303436,
+    -38.345089
+],
   "geometry": {"coordinates":[144.303436,-38.345089],"type":"Point"}
 }

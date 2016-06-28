@@ -2,13 +2,14 @@
   "id": 220129053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.32515,-38.08979,144.32515,-38.08979",
     "geom:latitude":-38.08979,
     "geom:longitude":144.32515,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Rollins Rd",
     "sg:city":"Lovely Banks",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220129053,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1466188235,
     "wof:name":"Mini-Tankers Geelong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "spirit"
     ]
 },
-  "bbox": [144.32515,-38.08979,144.32515,-38.08979],
-  "geometry": {"coordinates":[144.32515,-38.08979],"type":"Point"}
+  "bbox": [
+    144.32515,
+    -38.08979,
+    144.32515,
+    -38.08979
+],
+  "geometry": {"coordinates":[144.32515000000001,-38.08979],"type":"Point"}
 }

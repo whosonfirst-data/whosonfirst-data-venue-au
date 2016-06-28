@@ -2,13 +2,14 @@
   "id": 202965287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091293,-30.352848,153.091293,-30.352848",
     "geom:latitude":-30.352848,
     "geom:longitude":153.091293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 4 Minorca Pl",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202965287,
-    "wof:lastmodified":1449061866,
+    "wof:lastmodified":1466191058,
     "wof:name":"Toormina Computers & Music",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "musical"
     ]
 },
-  "bbox": [153.091293,-30.352848,153.091293,-30.352848],
-  "geometry": {"coordinates":[153.091293,-30.352848],"type":"Point"}
+  "bbox": [
+    153.091293,
+    -30.352848,
+    153.091293,
+    -30.352848
+],
+  "geometry": {"coordinates":[153.09129300000001,-30.352848],"type":"Point"}
 }

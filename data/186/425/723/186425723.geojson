@@ -2,13 +2,14 @@
   "id": 186425723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.755463,-19.2351,146.755463,-19.2351",
     "geom:latitude":-19.2351,
     "geom:longitude":146.755463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 576",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186425723,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466189735,
     "wof:name":"Barrier Reef Orchestra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "orchestra"
     ]
 },
-  "bbox": [146.755463,-19.2351,146.755463,-19.2351],
-  "geometry": {"coordinates":[146.755463,-19.2351],"type":"Point"}
+  "bbox": [
+    146.755463,
+    -19.2351,
+    146.755463,
+    -19.2351
+],
+  "geometry": {"coordinates":[146.75546299999999,-19.2351],"type":"Point"}
 }

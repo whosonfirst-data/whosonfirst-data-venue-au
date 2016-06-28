@@ -2,13 +2,14 @@
   "id": 186496237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.765472,-19.273392,146.765472,-19.273392",
     "geom:latitude":-19.273392,
     "geom:longitude":146.765472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186496237,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466190378,
     "wof:name":"Verns Crash Repairs",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [146.765472,-19.273392,146.765472,-19.273392],
-  "geometry": {"coordinates":[146.765472,-19.273392],"type":"Point"}
+  "bbox": [
+    146.765472,
+    -19.273392,
+    146.765472,
+    -19.273392
+],
+  "geometry": {"coordinates":[146.76547199999999,-19.273392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253059297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.773956,-37.770439,144.773956,-37.770439",
     "geom:latitude":-37.770439,
     "geom:longitude":144.773956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"807a Ballarat Rd",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253059297,
-    "wof:lastmodified":1449063625,
+    "wof:lastmodified":1466188057,
     "wof:name":"Bake Place The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.773956,-37.770439,144.773956,-37.770439],
+  "bbox": [
+    144.773956,
+    -37.770439,
+    144.773956,
+    -37.770439
+],
   "geometry": {"coordinates":[144.773956,-37.770439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236327075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.74617,-32.054157,115.74617,-32.054157",
     "geom:latitude":-32.054157,
     "geom:longitude":115.74617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Market St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236327075,
-    "wof:lastmodified":1449001863,
+    "wof:lastmodified":1466190547,
     "wof:name":"The Home Provedore",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [115.74617,-32.054157,115.74617,-32.054157],
-  "geometry": {"coordinates":[115.74617,-32.054157],"type":"Point"}
+  "bbox": [
+    115.74617,
+    -32.054157,
+    115.74617,
+    -32.054157
+],
+  "geometry": {"coordinates":[115.74617000000001,-32.054157],"type":"Point"}
 }

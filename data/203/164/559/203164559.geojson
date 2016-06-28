@@ -2,13 +2,14 @@
   "id": 203164559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.995422,-36.556477,145.995422,-36.556477",
     "geom:latitude":-36.556477,
     "geom:longitude":145.995422,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Community Care, 45 Coster St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203164559,
-    "wof:lastmodified":1449025170,
+    "wof:lastmodified":1466189754,
     "wof:name":"Benalla Denture Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "prosthetist"
     ]
 },
-  "bbox": [145.995422,-36.556477,145.995422,-36.556477],
-  "geometry": {"coordinates":[145.995422,-36.556477],"type":"Point"}
+  "bbox": [
+    145.995422,
+    -36.556477,
+    145.995422,
+    -36.556477
+],
+  "geometry": {"coordinates":[145.99542199999999,-36.556477],"type":"Point"}
 }

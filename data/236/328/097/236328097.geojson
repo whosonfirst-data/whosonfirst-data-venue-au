@@ -2,13 +2,14 @@
   "id": 236328097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.748299,-32.051746,115.748299,-32.051746",
     "geom:latitude":-32.051746,
     "geom:longitude":115.748299,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Point St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236328097,
-    "wof:lastmodified":1449003619,
+    "wof:lastmodified":1466190558,
     "wof:name":"Artificial Flower Importer & Wildflower Factory",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [115.748299,-32.051746,115.748299,-32.051746],
+  "bbox": [
+    115.748299,
+    -32.051746,
+    115.748299,
+    -32.051746
+],
   "geometry": {"coordinates":[115.748299,-32.051746],"type":"Point"}
 }

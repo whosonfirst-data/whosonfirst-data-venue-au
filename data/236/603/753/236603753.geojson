@@ -2,13 +2,14 @@
   "id": 236603753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.136826,-33.977905,151.136826,-33.977905",
     "geom:latitude":-33.977905,
     "geom:longitude":151.136826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"140- 150 Rocky Point Rd",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236603753,
-    "wof:lastmodified":1449004632,
+    "wof:lastmodified":1466191650,
     "wof:name":"Manchester Warehouse",
     "wof:parent_id":85770051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "good"
     ]
 },
-  "bbox": [151.136826,-33.977905,151.136826,-33.977905],
-  "geometry": {"coordinates":[151.136826,-33.977905],"type":"Point"}
+  "bbox": [
+    151.136826,
+    -33.977905,
+    151.136826,
+    -33.977905
+],
+  "geometry": {"coordinates":[151.13682600000001,-33.977905],"type":"Point"}
 }

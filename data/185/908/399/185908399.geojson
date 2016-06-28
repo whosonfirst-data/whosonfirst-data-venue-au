@@ -2,13 +2,14 @@
   "id": 185908399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.550385,-33.226151,151.550385,-33.226151",
     "geom:latitude":-33.226151,
     "geom:longitude":151.550385,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Delia Ave",
     "sg:city":"Budgewoi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185908399,
-    "wof:lastmodified":1449007517,
+    "wof:lastmodified":1466188155,
     "wof:name":"Anne Dawson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [151.550385,-33.226151,151.550385,-33.226151],
-  "geometry": {"coordinates":[151.550385,-33.226151],"type":"Point"}
+  "bbox": [
+    151.550385,
+    -33.226151,
+    151.550385,
+    -33.226151
+],
+  "geometry": {"coordinates":[151.55038500000001,-33.226151],"type":"Point"}
 }

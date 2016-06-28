@@ -2,13 +2,14 @@
   "id": 202965763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.069809,-30.350939,153.069809,-30.350939",
     "geom:latitude":-30.350939,
     "geom:longitude":153.069809,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Kestrel Pl",
     "sg:city":"Boambee East",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202965763,
-    "wof:lastmodified":1449061871,
+    "wof:lastmodified":1466191061,
     "wof:name":"Dig it With a Dingo",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.069809,-30.350939,153.069809,-30.350939],
-  "geometry": {"coordinates":[153.069809,-30.350939],"type":"Point"}
+  "bbox": [
+    153.069809,
+    -30.350939,
+    153.069809,
+    -30.350939
+],
+  "geometry": {"coordinates":[153.06980899999999,-30.350939],"type":"Point"}
 }

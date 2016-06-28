@@ -2,13 +2,14 @@
   "id": 203108775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752792,-32.512474,115.752792,-32.512474",
     "geom:latitude":-32.512474,
     "geom:longitude":115.752792,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Thornborough Rd & Quarry Way",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203108775,
-    "wof:lastmodified":1449024981,
+    "wof:lastmodified":1466189178,
     "wof:name":"Mandurah Roller Door Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [115.752792,-32.512474,115.752792,-32.512474],
+  "bbox": [
+    115.752792,
+    -32.512474,
+    115.752792,
+    -32.512474
+],
   "geometry": {"coordinates":[115.752792,-32.512474],"type":"Point"}
 }

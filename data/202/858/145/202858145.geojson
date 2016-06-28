@@ -2,13 +2,14 @@
   "id": 202858145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.021835,-36.732601,147.021835,-36.732601",
     "geom:latitude":-36.732601,
     "geom:longitude":147.021835,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RSD 111 Tawonga Gap Rd",
     "sg:city":"Bright",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202858145,
-    "wof:lastmodified":1449060366,
+    "wof:lastmodified":1466190395,
     "wof:name":"WD Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.021835,-36.732601,147.021835,-36.732601],
-  "geometry": {"coordinates":[147.021835,-36.732601],"type":"Point"}
+  "bbox": [
+    147.021835,
+    -36.732601,
+    147.021835,
+    -36.732601
+],
+  "geometry": {"coordinates":[147.02183500000001,-36.732601],"type":"Point"}
 }

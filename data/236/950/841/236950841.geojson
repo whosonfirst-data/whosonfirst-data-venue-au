@@ -2,13 +2,14 @@
   "id": 236950841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.584793,-34.982559,138.584793,-34.982559",
     "geom:latitude":-34.982559,
     "geom:longitude":138.584793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Penang Ave",
     "sg:city":"Colonel Light Gardens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236950841,
-    "wof:lastmodified":1449002836,
+    "wof:lastmodified":1466192211,
     "wof:name":"Inside Vibe",
     "wof:parent_id":85775943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [138.584793,-34.982559,138.584793,-34.982559],
-  "geometry": {"coordinates":[138.584793,-34.982559],"type":"Point"}
+  "bbox": [
+    138.584793,
+    -34.982559,
+    138.584793,
+    -34.982559
+],
+  "geometry": {"coordinates":[138.58479299999999,-34.982559],"type":"Point"}
 }

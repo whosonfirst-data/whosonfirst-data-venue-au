@@ -2,13 +2,14 @@
   "id": 220034893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.895844,-33.080261,115.895844,-33.080261",
     "geom:latitude":-33.080261,
     "geom:longitude":115.895844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hayward St",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220034893,
-    "wof:lastmodified":1449074122,
+    "wof:lastmodified":1466187375,
     "wof:name":"Golden Scissors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.895844,-33.080261,115.895844,-33.080261],
+  "bbox": [
+    115.895844,
+    -33.080261,
+    115.895844,
+    -33.080261
+],
   "geometry": {"coordinates":[115.895844,-33.080261],"type":"Point"}
 }

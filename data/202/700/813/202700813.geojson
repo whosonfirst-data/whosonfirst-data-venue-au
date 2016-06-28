@@ -2,13 +2,14 @@
   "id": 202700813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.040512,-27.352785,153.040512,-27.352785",
     "geom:latitude":-27.352785,
     "geom:longitude":153.040512,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Hawk St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202700813,
-    "wof:lastmodified":1449062431,
+    "wof:lastmodified":1466188842,
     "wof:name":"Taps &#039;N&#039; Toilets",
     "wof:parent_id":85773913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.040512,-27.352785,153.040512,-27.352785],
-  "geometry": {"coordinates":[153.040512,-27.352785],"type":"Point"}
+  "bbox": [
+    153.040512,
+    -27.352785,
+    153.040512,
+    -27.352785
+],
+  "geometry": {"coordinates":[153.04051200000001,-27.352785],"type":"Point"}
 }

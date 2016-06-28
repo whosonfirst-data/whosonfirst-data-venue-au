@@ -2,13 +2,14 @@
   "id": 202623713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.940201,-28.651587,151.940201,-28.651587",
     "geom:latitude":-28.651587,
     "geom:longitude":151.940201,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp12/ High St",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202623713,
-    "wof:lastmodified":1449061876,
+    "wof:lastmodified":1466187542,
     "wof:name":"Castle Glen Cellars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.940201,-28.651587,151.940201,-28.651587],
+  "bbox": [
+    151.940201,
+    -28.651587,
+    151.940201,
+    -28.651587
+],
   "geometry": {"coordinates":[151.940201,-28.651587],"type":"Point"}
 }

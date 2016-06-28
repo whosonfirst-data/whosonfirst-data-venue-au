@@ -2,13 +2,14 @@
   "id": 236068373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.832611,-37.720863,144.832611,-37.720863",
     "geom:latitude":-37.720863,
     "geom:longitude":144.832611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Church St",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236068373,
-    "wof:lastmodified":1449003331,
+    "wof:lastmodified":1466187997,
     "wof:name":"Clem Tech",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [144.832611,-37.720863,144.832611,-37.720863],
-  "geometry": {"coordinates":[144.832611,-37.720863],"type":"Point"}
+  "bbox": [
+    144.832611,
+    -37.720863,
+    144.832611,
+    -37.720863
+],
+  "geometry": {"coordinates":[144.83261100000001,-37.720863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219560979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.956665,-33.878559,150.956665,-33.878559",
     "geom:latitude":-33.878559,
     "geom:longitude":150.956665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1/Room 7, Compass Shopping Centre, 83",
     "sg:city":"-85 North Terrace Bankstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219560979,
-    "wof:lastmodified":1449073095,
+    "wof:lastmodified":1466190499,
     "wof:name":"A Healthwize Naturopathic",
     "wof:parent_id":85771163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [150.956665,-33.878559,150.956665,-33.878559],
-  "geometry": {"coordinates":[150.956665,-33.878559],"type":"Point"}
+  "bbox": [
+    150.956665,
+    -33.878559,
+    150.956665,
+    -33.878559
+],
+  "geometry": {"coordinates":[150.95666499999999,-33.878559],"type":"Point"}
 }

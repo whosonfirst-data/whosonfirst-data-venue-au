@@ -2,13 +2,14 @@
   "id": 202498937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041458,-37.918652,145.041458,-37.918652",
     "geom:latitude":-37.918652,
     "geom:longitude":145.041458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202498937,
-    "wof:lastmodified":1449062042,
+    "wof:lastmodified":1466189513,
     "wof:name":"Carl Janz",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.041458,-37.918652,145.041458,-37.918652],
-  "geometry": {"coordinates":[145.041458,-37.918652],"type":"Point"}
+  "bbox": [
+    145.041458,
+    -37.918652,
+    145.041458,
+    -37.918652
+],
+  "geometry": {"coordinates":[145.04145800000001,-37.918652],"type":"Point"}
 }

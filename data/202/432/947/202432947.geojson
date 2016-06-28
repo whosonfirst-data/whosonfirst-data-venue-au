@@ -2,13 +2,14 @@
   "id": 202432947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961487,-37.849483,144.961487,-37.849483",
     "geom:latitude":-37.849483,
     "geom:longitude":144.961487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Richardson St",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202432947,
-    "wof:lastmodified":1449060064,
+    "wof:lastmodified":1466188467,
     "wof:name":"Ely Anna",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.961487,-37.849483,144.961487,-37.849483],
-  "geometry": {"coordinates":[144.961487,-37.849483],"type":"Point"}
+  "bbox": [
+    144.961487,
+    -37.849483,
+    144.961487,
+    -37.849483
+],
+  "geometry": {"coordinates":[144.96148700000001,-37.849483],"type":"Point"}
 }

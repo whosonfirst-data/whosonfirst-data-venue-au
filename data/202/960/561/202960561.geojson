@@ -2,13 +2,14 @@
   "id": 202960561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091415,-30.360897,153.091415,-30.360897",
     "geom:latitude":-30.360897,
     "geom:longitude":153.091415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Newcastle Drv",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202960561,
-    "wof:lastmodified":1449061922,
+    "wof:lastmodified":1466190941,
     "wof:name":"Monier Wunderlich",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "roofing"
     ]
 },
-  "bbox": [153.091415,-30.360897,153.091415,-30.360897],
-  "geometry": {"coordinates":[153.091415,-30.360897],"type":"Point"}
+  "bbox": [
+    153.091415,
+    -30.360897,
+    153.091415,
+    -30.360897
+],
+  "geometry": {"coordinates":[153.09141500000001,-30.360897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252800013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.425507,-41.347401,146.425507,-41.347401",
     "geom:latitude":-41.347401,
     "geom:longitude":146.425507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 Kimberley Rd",
     "sg:city":"Mersey Lea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252800013,
-    "wof:lastmodified":1449005496,
+    "wof:lastmodified":1466188140,
     "wof:name":"Seattle Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [146.425507,-41.347401,146.425507,-41.347401],
-  "geometry": {"coordinates":[146.425507,-41.347401],"type":"Point"}
+  "bbox": [
+    146.425507,
+    -41.347401,
+    146.425507,
+    -41.347401
+],
+  "geometry": {"coordinates":[146.42550700000001,-41.347401],"type":"Point"}
 }

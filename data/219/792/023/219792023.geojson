@@ -2,13 +2,14 @@
   "id": 219792023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.729263,-19.302055,146.729263,-19.302055",
     "geom:latitude":-19.302055,
     "geom:longitude":146.729263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Tottenham Crt",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219792023,
-    "wof:lastmodified":1449071155,
+    "wof:lastmodified":1466191371,
     "wof:name":"Pacific Plasterers",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceiling"
     ]
 },
-  "bbox": [146.729263,-19.302055,146.729263,-19.302055],
+  "bbox": [
+    146.729263,
+    -19.302055,
+    146.729263,
+    -19.302055
+],
   "geometry": {"coordinates":[146.729263,-19.302055],"type":"Point"}
 }

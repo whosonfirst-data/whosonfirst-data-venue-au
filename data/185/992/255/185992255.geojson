@@ -2,13 +2,14 @@
   "id": 185992255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.435638,-33.336617,151.435638,-33.336617",
     "geom:latitude":-33.336617,
     "geom:longitude":151.435638,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Kingsford Smith Drv",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185992255,
-    "wof:lastmodified":1449007372,
+    "wof:lastmodified":1466188843,
     "wof:name":"Bellwood G & J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixer"
     ]
 },
-  "bbox": [151.435638,-33.336617,151.435638,-33.336617],
-  "geometry": {"coordinates":[151.435638,-33.336617],"type":"Point"}
+  "bbox": [
+    151.435638,
+    -33.336617,
+    151.435638,
+    -33.336617
+],
+  "geometry": {"coordinates":[151.43563800000001,-33.336617],"type":"Point"}
 }

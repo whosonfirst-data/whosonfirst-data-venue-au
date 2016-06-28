@@ -2,13 +2,14 @@
   "id": 186267607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.891205,-31.430439,152.891205,-31.430439",
     "geom:latitude":-31.430439,
     "geom:longitude":152.891205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shops 24 & 25 Bellbowrie Pk",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186267607,
-    "wof:lastmodified":1449052780,
+    "wof:lastmodified":1466187533,
     "wof:name":"Bellbowrie Appliance Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [152.891205,-31.430439,152.891205,-31.430439],
-  "geometry": {"coordinates":[152.891205,-31.430439],"type":"Point"}
+  "bbox": [
+    152.891205,
+    -31.430439,
+    152.891205,
+    -31.430439
+],
+  "geometry": {"coordinates":[152.89120500000001,-31.430439],"type":"Point"}
 }

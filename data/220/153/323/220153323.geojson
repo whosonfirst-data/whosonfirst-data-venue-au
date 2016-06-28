@@ -2,13 +2,14 @@
   "id": 220153323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363586,-38.150173,144.363586,-38.150173",
     "geom:latitude":-38.150173,
     "geom:longitude":144.363586,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2, 235 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220153323,
-    "wof:lastmodified":1449074607,
+    "wof:lastmodified":1466188659,
     "wof:name":"Earth Tech",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [144.363586,-38.150173,144.363586,-38.150173],
+  "bbox": [
+    144.363586,
+    -38.150173,
+    144.363586,
+    -38.150173
+],
   "geometry": {"coordinates":[144.363586,-38.150173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236832683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.886475,-34.437561,150.886475,-34.437561",
     "geom:latitude":-34.437561,
     "geom:longitude":150.886475,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Miller St",
     "sg:city":"Coniston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236832683,
-    "wof:lastmodified":1449001687,
+    "wof:lastmodified":1466192006,
     "wof:name":"St Vincent De Paul House",
     "wof:parent_id":85769093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [150.886475,-34.437561,150.886475,-34.437561],
-  "geometry": {"coordinates":[150.886475,-34.437561],"type":"Point"}
+  "bbox": [
+    150.886475,
+    -34.437561,
+    150.886475,
+    -34.437561
+],
+  "geometry": {"coordinates":[150.88647499999999,-34.437561],"type":"Point"}
 }

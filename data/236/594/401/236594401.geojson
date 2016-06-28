@@ -2,13 +2,14 @@
   "id": 236594401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.054443,-33.970882,151.054443,-33.970882",
     "geom:latitude":-33.970882,
     "geom:longitude":151.054443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Pindari Rd",
     "sg:city":"Peakhurst",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236594401,
-    "wof:lastmodified":1449002031,
+    "wof:lastmodified":1466191607,
     "wof:name":"Pindari Physiotherapy",
     "wof:parent_id":85780429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.054443,-33.970882,151.054443,-33.970882],
-  "geometry": {"coordinates":[151.054443,-33.970882],"type":"Point"}
+  "bbox": [
+    151.054443,
+    -33.970882,
+    151.054443,
+    -33.970882
+],
+  "geometry": {"coordinates":[151.05444299999999,-33.970882],"type":"Point"}
 }

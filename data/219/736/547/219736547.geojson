@@ -2,13 +2,14 @@
   "id": 219736547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.796432,-19.293917,146.796432,-19.293917",
     "geom:latitude":-19.293917,
     "geom:longitude":146.796432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bowen St",
     "sg:city":"Rosslea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219736547,
-    "wof:lastmodified":1449073871,
+    "wof:lastmodified":1466191219,
     "wof:name":"Aon Risk Services",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [146.796432,-19.293917,146.796432,-19.293917],
-  "geometry": {"coordinates":[146.796432,-19.293917],"type":"Point"}
+  "bbox": [
+    146.796432,
+    -19.293917,
+    146.796432,
+    -19.293917
+],
+  "geometry": {"coordinates":[146.79643200000001,-19.293917],"type":"Point"}
 }

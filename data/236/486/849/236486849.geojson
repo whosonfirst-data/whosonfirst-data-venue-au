@@ -2,13 +2,14 @@
   "id": 236486849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.187347,-21.147505,149.187347,-21.147505",
     "geom:latitude":-21.147505,
     "geom:longitude":149.187347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"148A Wood St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236486849,
-    "wof:lastmodified":1449003503,
+    "wof:lastmodified":1466191407,
     "wof:name":"Premier Fire (NQ) Pty Ltd",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [149.187347,-21.147505,149.187347,-21.147505],
-  "geometry": {"coordinates":[149.187347,-21.147505],"type":"Point"}
+  "bbox": [
+    149.187347,
+    -21.147505,
+    149.187347,
+    -21.147505
+],
+  "geometry": {"coordinates":[149.18734699999999,-21.147505],"type":"Point"}
 }

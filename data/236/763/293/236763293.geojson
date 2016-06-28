@@ -2,13 +2,14 @@
   "id": 236763293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.950104,-27.081636,152.950104,-27.081636",
     "geom:latitude":-27.081636,
     "geom:longitude":152.950104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Annie St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236763293,
-    "wof:lastmodified":1449005232,
+    "wof:lastmodified":1466191998,
     "wof:name":"Ian Barnes And Associates Pty Ltd",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigation"
     ]
 },
-  "bbox": [152.950104,-27.081636,152.950104,-27.081636],
-  "geometry": {"coordinates":[152.950104,-27.081636],"type":"Point"}
+  "bbox": [
+    152.950104,
+    -27.081636,
+    152.950104,
+    -27.081636
+],
+  "geometry": {"coordinates":[152.95010400000001,-27.081636],"type":"Point"}
 }

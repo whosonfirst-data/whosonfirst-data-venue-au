@@ -2,13 +2,14 @@
   "id": 203057831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.929138,-33.719429,150.929138,-33.719429",
     "geom:latitude":-33.719429,
     "geom:longitude":150.929138,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Majestic Drv",
     "sg:city":"Parklea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203057831,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466188338,
     "wof:name":"Maszluch & Lambeth Pty Ltd",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [150.929138,-33.719429,150.929138,-33.719429],
-  "geometry": {"coordinates":[150.929138,-33.719429],"type":"Point"}
+  "bbox": [
+    150.929138,
+    -33.719429,
+    150.929138,
+    -33.719429
+],
+  "geometry": {"coordinates":[150.92913799999999,-33.719429],"type":"Point"}
 }

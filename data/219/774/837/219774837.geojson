@@ -2,13 +2,14 @@
   "id": 219774837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177521,-33.910515,151.177521,-33.910515",
     "geom:latitude":-33.910515,
     "geom:longitude":151.177521,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60- 68 Hutchinson St",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219774837,
-    "wof:lastmodified":1449071755,
+    "wof:lastmodified":1466191395,
     "wof:name":"Viva Events Pty Ltd",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [151.177521,-33.910515,151.177521,-33.910515],
-  "geometry": {"coordinates":[151.177521,-33.910515],"type":"Point"}
+  "bbox": [
+    151.177521,
+    -33.910515,
+    151.177521,
+    -33.910515
+],
+  "geometry": {"coordinates":[151.17752100000001,-33.910515],"type":"Point"}
 }

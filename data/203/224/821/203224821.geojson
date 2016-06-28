@@ -2,13 +2,14 @@
   "id": 203224821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.471176,-40.887737,145.471176,-40.887737",
     "geom:latitude":-40.887737,
     "geom:longitude":145.471176,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Port View Rd",
     "sg:city":"Rocky Cape",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203224821,
-    "wof:lastmodified":1449026354,
+    "wof:lastmodified":1466187365,
     "wof:name":"Dial A Digger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.471176,-40.887737,145.471176,-40.887737],
-  "geometry": {"coordinates":[145.471176,-40.887737],"type":"Point"}
+  "bbox": [
+    145.471176,
+    -40.887737,
+    145.471176,
+    -40.887737
+],
+  "geometry": {"coordinates":[145.47117600000001,-40.887737],"type":"Point"}
 }

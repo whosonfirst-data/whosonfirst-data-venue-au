@@ -2,13 +2,14 @@
   "id": 236505839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.150345,-21.130989,149.150345,-21.130989",
     "geom:latitude":-21.130989,
     "geom:longitude":149.150345,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Fursden St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236505839,
-    "wof:lastmodified":1449004596,
+    "wof:lastmodified":1466191457,
     "wof:name":"Water & Rust Solutions",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [149.150345,-21.130989,149.150345,-21.130989],
-  "geometry": {"coordinates":[149.150345,-21.130989],"type":"Point"}
+  "bbox": [
+    149.150345,
+    -21.130989,
+    149.150345,
+    -21.130989
+],
+  "geometry": {"coordinates":[149.15034499999999,-21.130989],"type":"Point"}
 }

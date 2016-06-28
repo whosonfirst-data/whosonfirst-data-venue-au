@@ -2,13 +2,14 @@
   "id": 236110105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.932007,-37.787552,144.932007,-37.787552",
     "geom:latitude":-37.787552,
     "geom:longitude":144.932007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Shield St",
     "sg:city":"Flemington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236110105,
-    "wof:lastmodified":1449002582,
+    "wof:lastmodified":1466188833,
     "wof:name":"Garry Ginivan Attractions",
     "wof:parent_id":85776501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [144.932007,-37.787552,144.932007,-37.787552],
+  "bbox": [
+    144.932007,
+    -37.787552,
+    144.932007,
+    -37.787552
+],
   "geometry": {"coordinates":[144.932007,-37.787552],"type":"Point"}
 }

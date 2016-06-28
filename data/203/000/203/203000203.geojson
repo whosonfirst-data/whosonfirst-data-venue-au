@@ -2,13 +2,14 @@
   "id": 203000203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.49649,-20.701508,139.49649,-20.701508",
     "geom:latitude":-20.701508,
     "geom:longitude":139.49649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1453",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203000203,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466186949,
     "wof:name":"First Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [139.49649,-20.701508,139.49649,-20.701508],
-  "geometry": {"coordinates":[139.49649,-20.701508],"type":"Point"}
+  "bbox": [
+    139.49649,
+    -20.701508,
+    139.49649,
+    -20.701508
+],
+  "geometry": {"coordinates":[139.49648999999999,-20.701508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236897115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.530975,-35.021259,138.530975,-35.021259",
     "geom:latitude":-35.021259,
     "geom:longitude":138.530975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Gemmell Rd",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236897115,
-    "wof:lastmodified":1449004606,
+    "wof:lastmodified":1466192084,
     "wof:name":"Hallmark Plumbing & Gas",
     "wof:parent_id":85777535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [138.530975,-35.021259,138.530975,-35.021259],
-  "geometry": {"coordinates":[138.530975,-35.021259],"type":"Point"}
+  "bbox": [
+    138.530975,
+    -35.021259,
+    138.530975,
+    -35.021259
+],
+  "geometry": {"coordinates":[138.53097500000001,-35.021259],"type":"Point"}
 }

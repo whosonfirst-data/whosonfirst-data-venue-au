@@ -2,13 +2,14 @@
   "id": 203058335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.929489,-33.715496,150.929489,-33.715496",
     "geom:latitude":-33.715496,
     "geom:longitude":150.929489,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 264",
     "sg:city":"Stanhope Gardens",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203058335,
-    "wof:lastmodified":1449025215,
+    "wof:lastmodified":1466188353,
     "wof:name":"Rock & Earth Exchange",
     "wof:parent_id":85781937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.929489,-33.715496,150.929489,-33.715496],
-  "geometry": {"coordinates":[150.929489,-33.715496],"type":"Point"}
+  "bbox": [
+    150.929489,
+    -33.715496,
+    150.929489,
+    -33.715496
+],
+  "geometry": {"coordinates":[150.92948899999999,-33.715496],"type":"Point"}
 }

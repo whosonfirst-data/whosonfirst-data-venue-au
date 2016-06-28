@@ -2,13 +2,14 @@
   "id": 219321393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.936615,-38.160748,145.936615,-38.160748",
     "geom:latitude":-38.160748,
     "geom:longitude":145.936615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Albert St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219321393,
-    "wof:lastmodified":1449070449,
+    "wof:lastmodified":1466187707,
     "wof:name":"Warragul Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.936615,-38.160748,145.936615,-38.160748],
-  "geometry": {"coordinates":[145.936615,-38.160748],"type":"Point"}
+  "bbox": [
+    145.936615,
+    -38.160748,
+    145.936615,
+    -38.160748
+],
+  "geometry": {"coordinates":[145.93661499999999,-38.160748],"type":"Point"}
 }

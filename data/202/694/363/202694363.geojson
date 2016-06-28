@@ -2,13 +2,14 @@
   "id": 202694363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.04776,-27.368959,153.04776,-27.368959",
     "geom:latitude":-27.368959,
     "geom:longitude":153.04776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Newman Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202694363,
-    "wof:lastmodified":1449060837,
+    "wof:lastmodified":1466188717,
     "wof:name":"Lifeline Clothing Shops",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [153.04776,-27.368959,153.04776,-27.368959],
-  "geometry": {"coordinates":[153.04776,-27.368959],"type":"Point"}
+  "bbox": [
+    153.04776,
+    -27.368959,
+    153.04776,
+    -27.368959
+],
+  "geometry": {"coordinates":[153.04776000000001,-27.368959],"type":"Point"}
 }

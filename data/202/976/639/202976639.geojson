@@ -2,13 +2,14 @@
   "id": 202976639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177567,-33.888809,151.177567,-33.888809",
     "geom:latitude":-33.888809,
     "geom:longitude":151.177567,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Mallett St",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202976639,
-    "wof:lastmodified":1449061164,
+    "wof:lastmodified":1466191111,
     "wof:name":"The Centre For English Teaching",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "language"
     ]
 },
-  "bbox": [151.177567,-33.888809,151.177567,-33.888809],
-  "geometry": {"coordinates":[151.177567,-33.888809],"type":"Point"}
+  "bbox": [
+    151.177567,
+    -33.888809,
+    151.177567,
+    -33.888809
+],
+  "geometry": {"coordinates":[151.17756700000001,-33.888809],"type":"Point"}
 }

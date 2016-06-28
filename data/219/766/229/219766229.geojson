@@ -2,13 +2,14 @@
   "id": 219766229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.162689,-33.922203,151.162689,-33.922203",
     "geom:latitude":-33.922203,
     "geom:longitude":151.162689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Brooklyn St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219766229,
-    "wof:lastmodified":1449070334,
+    "wof:lastmodified":1466191368,
     "wof:name":"Leonard Martin",
     "wof:parent_id":85770407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.162689,-33.922203,151.162689,-33.922203],
+  "bbox": [
+    151.162689,
+    -33.922203,
+    151.162689,
+    -33.922203
+],
   "geometry": {"coordinates":[151.162689,-33.922203],"type":"Point"}
 }

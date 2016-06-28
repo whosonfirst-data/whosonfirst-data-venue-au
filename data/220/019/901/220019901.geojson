@@ -2,13 +2,14 @@
   "id": 220019901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.629837,-35.021637,138.629837,-35.021637",
     "geom:latitude":-35.021637,
     "geom:longitude":138.629837,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Maple Rd",
     "sg:city":"Hawthorndene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220019901,
-    "wof:lastmodified":1449074512,
+    "wof:lastmodified":1466187136,
     "wof:name":"Hancock Wes",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [138.629837,-35.021637,138.629837,-35.021637],
-  "geometry": {"coordinates":[138.629837,-35.021637],"type":"Point"}
+  "bbox": [
+    138.629837,
+    -35.021637,
+    138.629837,
+    -35.021637
+],
+  "geometry": {"coordinates":[138.62983700000001,-35.021637],"type":"Point"}
 }

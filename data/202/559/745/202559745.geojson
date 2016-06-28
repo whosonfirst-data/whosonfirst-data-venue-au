@@ -2,13 +2,14 @@
   "id": 202559745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.228973,-37.598969,144.228973,-37.598969",
     "geom:latitude":-37.598969,
     "geom:longitude":144.228973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Simpson St",
     "sg:city":"Ballan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202559745,
-    "wof:lastmodified":1449062105,
+    "wof:lastmodified":1466186967,
     "wof:name":"Ballan Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.228973,-37.598969,144.228973,-37.598969],
+  "bbox": [
+    144.228973,
+    -37.598969,
+    144.228973,
+    -37.598969
+],
   "geometry": {"coordinates":[144.228973,-37.598969],"type":"Point"}
 }

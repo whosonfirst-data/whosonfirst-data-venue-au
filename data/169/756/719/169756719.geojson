@@ -2,13 +2,14 @@
   "id": 169756719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.114639,-27.204691,153.114639,-27.204691",
     "geom:latitude":-27.204691,
     "geom:longitude":153.114639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Murphy St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169756719,
-    "wof:lastmodified":1449034661,
+    "wof:lastmodified":1466187971,
     "wof:name":"Walker Q J",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.114639,-27.204691,153.114639,-27.204691],
-  "geometry": {"coordinates":[153.114639,-27.204691],"type":"Point"}
+  "bbox": [
+    153.114639,
+    -27.204691,
+    153.114639,
+    -27.204691
+],
+  "geometry": {"coordinates":[153.11463900000001,-27.204691],"type":"Point"}
 }

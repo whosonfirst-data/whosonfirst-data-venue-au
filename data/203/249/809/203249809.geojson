@@ -2,13 +2,14 @@
   "id": 203249809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.243256,-32.275398,147.243256,-32.275398",
     "geom:latitude":-32.275398,
     "geom:longitude":147.243256,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 Mate St",
     "sg:city":"Albert",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203249809,
-    "wof:lastmodified":1449025053,
+    "wof:lastmodified":1466187572,
     "wof:name":"Bee Burton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [147.243256,-32.275398,147.243256,-32.275398],
+  "bbox": [
+    147.243256,
+    -32.275398,
+    147.243256,
+    -32.275398
+],
   "geometry": {"coordinates":[147.243256,-32.275398],"type":"Point"}
 }

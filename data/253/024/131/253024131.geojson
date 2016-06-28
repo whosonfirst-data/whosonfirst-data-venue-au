@@ -2,13 +2,14 @@
   "id": 253024131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.680817,-37.877487,144.680817,-37.877487",
     "geom:latitude":-37.877487,
     "geom:longitude":144.680817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Heaths Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253024131,
-    "wof:lastmodified":1449064242,
+    "wof:lastmodified":1466187399,
     "wof:name":"Riley McGlade D'Adamo Orthodontics",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.680817,-37.877487,144.680817,-37.877487],
-  "geometry": {"coordinates":[144.680817,-37.877487],"type":"Point"}
+  "bbox": [
+    144.680817,
+    -37.877487,
+    144.680817,
+    -37.877487
+],
+  "geometry": {"coordinates":[144.68081699999999,-37.877487],"type":"Point"}
 }

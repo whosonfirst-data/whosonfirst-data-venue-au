@@ -2,13 +2,14 @@
   "id": 203317269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.827682,-37.577553,143.827682,-37.577553",
     "geom:latitude":-37.577553,
     "geom:longitude":143.827682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Sutton St",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203317269,
-    "wof:lastmodified":1449025776,
+    "wof:lastmodified":1466188223,
     "wof:name":"Sandwith Industrial Services",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [143.827682,-37.577553,143.827682,-37.577553],
-  "geometry": {"coordinates":[143.827682,-37.577553],"type":"Point"}
+  "bbox": [
+    143.827682,
+    -37.577553,
+    143.827682,
+    -37.577553
+],
+  "geometry": {"coordinates":[143.82768200000001,-37.577553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186586457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.870728,-36.576599,143.870728,-36.576599",
     "geom:latitude":-36.576599,
     "geom:longitude":143.870728,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Grant St",
     "sg:city":"Inglewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186586457,
-    "wof:lastmodified":1449052714,
+    "wof:lastmodified":1466190895,
     "wof:name":"Inglewood Outdoor Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitness"
     ]
 },
-  "bbox": [143.870728,-36.576599,143.870728,-36.576599],
-  "geometry": {"coordinates":[143.870728,-36.576599],"type":"Point"}
+  "bbox": [
+    143.870728,
+    -36.576599,
+    143.870728,
+    -36.576599
+],
+  "geometry": {"coordinates":[143.87072800000001,-36.576599],"type":"Point"}
 }

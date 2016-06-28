@@ -2,13 +2,14 @@
   "id": 236930437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.559677,-34.991493,138.559677,-34.991493",
     "geom:latitude":-34.991493,
     "geom:longitude":138.559677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Second Ave",
     "sg:city":"Ascot Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236930437,
-    "wof:lastmodified":1449002547,
+    "wof:lastmodified":1466192133,
     "wof:name":"KR Painting & Decorating",
     "wof:parent_id":85777523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [138.559677,-34.991493,138.559677,-34.991493],
-  "geometry": {"coordinates":[138.559677,-34.991493],"type":"Point"}
+  "bbox": [
+    138.559677,
+    -34.991493,
+    138.559677,
+    -34.991493
+],
+  "geometry": {"coordinates":[138.55967699999999,-34.991493],"type":"Point"}
 }

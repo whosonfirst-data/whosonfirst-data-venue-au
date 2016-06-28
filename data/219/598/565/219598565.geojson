@@ -2,13 +2,14 @@
   "id": 219598565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171524,-33.908684,151.171524,-33.908684",
     "geom:latitude":-33.908684,
     "geom:longitude":151.171524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 102 Edinburgh Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219598565,
-    "wof:lastmodified":1449070566,
+    "wof:lastmodified":1466190818,
     "wof:name":"Nice Products Pty Ltd",
     "wof:parent_id":85774763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [151.171524,-33.908684,151.171524,-33.908684],
-  "geometry": {"coordinates":[151.171524,-33.908684],"type":"Point"}
+  "bbox": [
+    151.171524,
+    -33.908684,
+    151.171524,
+    -33.908684
+],
+  "geometry": {"coordinates":[151.17152400000001,-33.908684],"type":"Point"}
 }

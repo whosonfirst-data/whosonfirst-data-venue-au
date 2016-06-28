@@ -2,13 +2,14 @@
   "id": 219740423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.790054,-19.279488,146.790054,-19.279488",
     "geom:latitude":-19.279488,
     "geom:longitude":146.790054,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 French St",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219740423,
-    "wof:lastmodified":1449071995,
+    "wof:lastmodified":1466191168,
     "wof:name":"Buildworks NQ",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [146.790054,-19.279488,146.790054,-19.279488],
+  "bbox": [
+    146.790054,
+    -19.279488,
+    146.790054,
+    -19.279488
+],
   "geometry": {"coordinates":[146.790054,-19.279488],"type":"Point"}
 }

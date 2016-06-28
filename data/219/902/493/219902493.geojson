@@ -2,13 +2,14 @@
   "id": 219902493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.898254,-34.388561,150.898254,-34.388561",
     "geom:latitude":-34.388561,
     "geom:longitude":150.898254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Jardine St",
     "sg:city":"Fairy Meadow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219902493,
-    "wof:lastmodified":1449073018,
+    "wof:lastmodified":1466191681,
     "wof:name":"Illawarra Diesel Servicing",
     "wof:parent_id":85770493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [150.898254,-34.388561,150.898254,-34.388561],
-  "geometry": {"coordinates":[150.898254,-34.388561],"type":"Point"}
+  "bbox": [
+    150.898254,
+    -34.388561,
+    150.898254,
+    -34.388561
+],
+  "geometry": {"coordinates":[150.89825400000001,-34.388561],"type":"Point"}
 }

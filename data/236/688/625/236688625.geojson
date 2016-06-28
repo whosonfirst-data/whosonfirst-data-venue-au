@@ -2,13 +2,14 @@
   "id": 236688625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.432007,-31.881447,152.432007,-31.881447",
     "geom:latitude":-31.881447,
     "geom:longitude":152.432007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayo Healthcare Centre 2 Potoroo Drv",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236688625,
-    "wof:lastmodified":1449002775,
+    "wof:lastmodified":1466191829,
     "wof:name":"Manning Remedial Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [152.432007,-31.881447,152.432007,-31.881447],
+  "bbox": [
+    152.432007,
+    -31.881447,
+    152.432007,
+    -31.881447
+],
   "geometry": {"coordinates":[152.432007,-31.881447],"type":"Point"}
 }

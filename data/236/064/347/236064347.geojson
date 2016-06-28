@@ -2,13 +2,14 @@
   "id": 236064347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.860519,-37.759071,144.860519,-37.759071",
     "geom:latitude":-37.759071,
     "geom:longitude":144.860519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Military Rd",
     "sg:city":"Avondale Heights",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236064347,
-    "wof:lastmodified":1449002678,
+    "wof:lastmodified":1466187910,
     "wof:name":"Wonderkindy",
     "wof:parent_id":85775129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.860519,-37.759071,144.860519,-37.759071],
-  "geometry": {"coordinates":[144.860519,-37.759071],"type":"Point"}
+  "bbox": [
+    144.860519,
+    -37.759071,
+    144.860519,
+    -37.759071
+],
+  "geometry": {"coordinates":[144.86051900000001,-37.759071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203068767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.188583,-41.578529,148.188583,-41.578529",
     "geom:latitude":-41.578529,
     "geom:longitude":148.188583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Main St St",
     "sg:city":"Marys",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203068767,
-    "wof:lastmodified":1449025903,
+    "wof:lastmodified":1466188549,
     "wof:name":"Faulkner J R & M C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.188583,-41.578529,148.188583,-41.578529],
-  "geometry": {"coordinates":[148.188583,-41.578529],"type":"Point"}
+  "bbox": [
+    148.188583,
+    -41.578529,
+    148.188583,
+    -41.578529
+],
+  "geometry": {"coordinates":[148.18858299999999,-41.578529],"type":"Point"}
 }

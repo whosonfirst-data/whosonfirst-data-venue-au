@@ -2,13 +2,14 @@
   "id": 219500237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.083496,-33.902302,151.083496,-33.902302",
     "geom:latitude":-33.902302,
     "geom:longitude":151.083496,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Burwood Rd",
     "sg:city":"Belfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219500237,
-    "wof:lastmodified":1449071278,
+    "wof:lastmodified":1466189512,
     "wof:name":"Belfield Hotel",
     "wof:parent_id":85774713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.083496,-33.902302,151.083496,-33.902302],
+  "bbox": [
+    151.083496,
+    -33.902302,
+    151.083496,
+    -33.902302
+],
   "geometry": {"coordinates":[151.083496,-33.902302],"type":"Point"}
 }

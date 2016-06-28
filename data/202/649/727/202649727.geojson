@@ -2,13 +2,14 @@
   "id": 202649727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.032135,-27.408009,153.032135,-27.408009",
     "geom:latitude":-27.408009,
     "geom:longitude":153.032135,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Gympie Rd",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202649727,
-    "wof:lastmodified":1449061814,
+    "wof:lastmodified":1466187875,
     "wof:name":"Kedron Veterinary Clinic",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [153.032135,-27.408009,153.032135,-27.408009],
-  "geometry": {"coordinates":[153.032135,-27.408009],"type":"Point"}
+  "bbox": [
+    153.032135,
+    -27.408009,
+    153.032135,
+    -27.408009
+],
+  "geometry": {"coordinates":[153.03213500000001,-27.408009],"type":"Point"}
 }

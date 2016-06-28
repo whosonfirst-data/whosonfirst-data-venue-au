@@ -2,13 +2,14 @@
   "id": 202836585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.145508,-23.521872,148.145508,-23.521872",
     "geom:latitude":-23.521872,
     "geom:longitude":148.145508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 McKenzie St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202836585,
-    "wof:lastmodified":1449061759,
+    "wof:lastmodified":1466190453,
     "wof:name":"Thursby Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [148.145508,-23.521872,148.145508,-23.521872],
-  "geometry": {"coordinates":[148.145508,-23.521872],"type":"Point"}
+  "bbox": [
+    148.145508,
+    -23.521872,
+    148.145508,
+    -23.521872
+],
+  "geometry": {"coordinates":[148.14550800000001,-23.521872],"type":"Point"}
 }

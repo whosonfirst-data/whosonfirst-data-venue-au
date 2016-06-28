@@ -2,13 +2,14 @@
   "id": 236457373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.178406,-21.144421,149.178406,-21.144421",
     "geom:latitude":-21.144421,
     "geom:longitude":149.178406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"unit 5 43 cnr Gregory & Alfred Sts",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236457373,
-    "wof:lastmodified":1449003947,
+    "wof:lastmodified":1466191267,
     "wof:name":"MJS Floorcoverings",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [149.178406,-21.144421,149.178406,-21.144421],
+  "bbox": [
+    149.178406,
+    -21.144421,
+    149.178406,
+    -21.144421
+],
   "geometry": {"coordinates":[149.178406,-21.144421],"type":"Point"}
 }

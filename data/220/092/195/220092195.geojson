@@ -2,13 +2,14 @@
   "id": 220092195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.578583,-38.26712,144.578583,-38.26712",
     "geom:latitude":-38.26712,
     "geom:longitude":144.578583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"391 Shell Rd (Between Point Lonsdale & Ocean Grove)",
     "sg:city":"Point Lonsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220092195,
-    "wof:lastmodified":1449074700,
+    "wof:lastmodified":1466187881,
     "wof:name":"WormLovers",
     "wof:parent_id":85770017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worm"
     ]
 },
-  "bbox": [144.578583,-38.26712,144.578583,-38.26712],
-  "geometry": {"coordinates":[144.578583,-38.26712],"type":"Point"}
+  "bbox": [
+    144.578583,
+    -38.26712,
+    144.578583,
+    -38.26712
+],
+  "geometry": {"coordinates":[144.57858300000001,-38.26712],"type":"Point"}
 }

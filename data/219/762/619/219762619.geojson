@@ -2,13 +2,14 @@
   "id": 219762619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.211517,-32.406769,152.211517,-32.406769",
     "geom:latitude":-32.406769,
     "geom:longitude":152.211517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Markwell Rd",
     "sg:city":"Bulahdelah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219762619,
-    "wof:lastmodified":1449072888,
+    "wof:lastmodified":1466191275,
     "wof:name":"MRM Powerline Construction & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "power"
     ]
 },
-  "bbox": [152.211517,-32.406769,152.211517,-32.406769],
-  "geometry": {"coordinates":[152.211517,-32.406769],"type":"Point"}
+  "bbox": [
+    152.211517,
+    -32.406769,
+    152.211517,
+    -32.406769
+],
+  "geometry": {"coordinates":[152.21151699999999,-32.406769],"type":"Point"}
 }

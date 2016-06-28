@@ -2,13 +2,14 @@
   "id": 236055887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.925949,-37.769627,144.925949,-37.769627",
     "geom:latitude":-37.769627,
     "geom:longitude":144.925949,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Mt Alexander Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236055887,
-    "wof:lastmodified":1449002236,
+    "wof:lastmodified":1466187736,
     "wof:name":"Moonee Ponds Tyre Service",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [144.925949,-37.769627,144.925949,-37.769627],
+  "bbox": [
+    144.925949,
+    -37.769627,
+    144.925949,
+    -37.769627
+],
   "geometry": {"coordinates":[144.925949,-37.769627],"type":"Point"}
 }

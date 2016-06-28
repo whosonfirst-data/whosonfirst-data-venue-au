@@ -2,13 +2,14 @@
   "id": 236043273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.795654,-37.70546,144.795654,-37.70546",
     "geom:latitude":-37.70546,
     "geom:longitude":144.795654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Grimes Ave",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236043273,
-    "wof:lastmodified":1449004239,
+    "wof:lastmodified":1466187477,
     "wof:name":"Repair-A-Dent",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [144.795654,-37.70546,144.795654,-37.70546],
-  "geometry": {"coordinates":[144.795654,-37.70546],"type":"Point"}
+  "bbox": [
+    144.795654,
+    -37.70546,
+    144.795654,
+    -37.70546
+],
+  "geometry": {"coordinates":[144.79565400000001,-37.70546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219620599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160568,-33.926563,151.160568,-33.926563",
     "geom:latitude":-33.926563,
     "geom:longitude":151.160568,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Station St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219620599,
-    "wof:lastmodified":1449073615,
+    "wof:lastmodified":1466190686,
     "wof:name":"Ozi-Land",
     "wof:parent_id":85776153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [151.160568,-33.926563,151.160568,-33.926563],
-  "geometry": {"coordinates":[151.160568,-33.926563],"type":"Point"}
+  "bbox": [
+    151.160568,
+    -33.926563,
+    151.160568,
+    -33.926563
+],
+  "geometry": {"coordinates":[151.16056800000001,-33.926563],"type":"Point"}
 }

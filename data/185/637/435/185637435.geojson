@@ -2,13 +2,14 @@
   "id": 185637435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.926842,-32.07523,115.926842,-32.07523",
     "geom:latitude":-32.07523,
     "geom:longitude":115.926842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Daniel Drv",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185637435,
-    "wof:lastmodified":1449006596,
+    "wof:lastmodified":1466188001,
     "wof:name":"Agafor Computers",
     "wof:parent_id":85775827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [115.926842,-32.07523,115.926842,-32.07523],
-  "geometry": {"coordinates":[115.926842,-32.07523],"type":"Point"}
+  "bbox": [
+    115.926842,
+    -32.07523,
+    115.926842,
+    -32.07523
+],
+  "geometry": {"coordinates":[115.92684199999999,-32.07523],"type":"Point"}
 }

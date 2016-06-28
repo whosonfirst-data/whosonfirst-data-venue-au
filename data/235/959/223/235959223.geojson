@@ -2,13 +2,14 @@
   "id": 235959223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.488037,-37.980427,143.488037,-37.980427",
     "geom:latitude":-37.980427,
     "geom:longitude":143.488037,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Berrybank-Foxhow Rd",
     "sg:city":"Berrybank",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235959223,
-    "wof:lastmodified":1449008577,
+    "wof:lastmodified":1466187196,
     "wof:name":"Turner R B & M M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [143.488037,-37.980427,143.488037,-37.980427],
-  "geometry": {"coordinates":[143.488037,-37.980427],"type":"Point"}
+  "bbox": [
+    143.488037,
+    -37.980427,
+    143.488037,
+    -37.980427
+],
+  "geometry": {"coordinates":[143.48803699999999,-37.980427],"type":"Point"}
 }

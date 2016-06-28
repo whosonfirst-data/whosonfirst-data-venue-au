@@ -2,13 +2,14 @@
   "id": 186362675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130417,-33.865139,151.130417,-33.865139",
     "geom:latitude":-33.865139,
     "geom:longitude":151.130417,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Grand North Rd,",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186362675,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466188682,
     "wof:name":"Five Dock Physiotherapy & Sports Injury Centre",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.130417,-33.865139,151.130417,-33.865139],
-  "geometry": {"coordinates":[151.130417,-33.865139],"type":"Point"}
+  "bbox": [
+    151.130417,
+    -33.865139,
+    151.130417,
+    -33.865139
+],
+  "geometry": {"coordinates":[151.13041699999999,-33.865139],"type":"Point"}
 }

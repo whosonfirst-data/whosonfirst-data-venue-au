@@ -2,13 +2,14 @@
   "id": 235967725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.071503,-27.43202,153.071503,-27.43202",
     "geom:latitude":-27.43202,
     "geom:longitude":153.071503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Nudgee Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":235967725,
-    "wof:lastmodified":1449008592,
+    "wof:lastmodified":1466187340,
     "wof:name":"Albion Appliance Service",
     "wof:parent_id":85776243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [153.071503,-27.43202,153.071503,-27.43202],
-  "geometry": {"coordinates":[153.071503,-27.43202],"type":"Point"}
+  "bbox": [
+    153.071503,
+    -27.43202,
+    153.071503,
+    -27.43202
+],
+  "geometry": {"coordinates":[153.07150300000001,-27.43202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202585515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.616287,-33.829517,138.616287,-33.829517",
     "geom:latitude":-33.829517,
     "geom:longitude":138.616287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 New Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202585515,
-    "wof:lastmodified":1449061775,
+    "wof:lastmodified":1466187169,
     "wof:name":"Peter Lowe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [138.616287,-33.829517,138.616287,-33.829517],
+  "bbox": [
+    138.616287,
+    -33.829517,
+    138.616287,
+    -33.829517
+],
   "geometry": {"coordinates":[138.616287,-33.829517],"type":"Point"}
 }

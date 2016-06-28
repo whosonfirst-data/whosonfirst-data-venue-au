@@ -2,13 +2,14 @@
   "id": 186015899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.473404,-33.380699,151.473404,-33.380699",
     "geom:latitude":-33.380699,
     "geom:longitude":151.473404,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr The Entrance Rd & Mossman Ave (cnr Mossman Ave)",
     "sg:city":"Bateau Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186015899,
-    "wof:lastmodified":1449051012,
+    "wof:lastmodified":1466187305,
     "wof:name":"Barling T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.473404,-33.380699,151.473404,-33.380699],
-  "geometry": {"coordinates":[151.473404,-33.380699],"type":"Point"}
+  "bbox": [
+    151.473404,
+    -33.380699,
+    151.473404,
+    -33.380699
+],
+  "geometry": {"coordinates":[151.47340399999999,-33.380699],"type":"Point"}
 }

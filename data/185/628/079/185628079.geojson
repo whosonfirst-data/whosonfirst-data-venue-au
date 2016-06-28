@@ -2,13 +2,14 @@
   "id": 185628079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.88723,-32.041573,115.88723,-32.041573",
     "geom:latitude":-32.041573,
     "geom:longitude":115.88723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Kembla Way",
     "sg:city":"Willetton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185628079,
-    "wof:lastmodified":1449007920,
+    "wof:lastmodified":1466187770,
     "wof:name":"Build West",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.88723,-32.041573,115.88723,-32.041573],
+  "bbox": [
+    115.88723,
+    -32.041573,
+    115.88723,
+    -32.041573
+],
   "geometry": {"coordinates":[115.88723,-32.041573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185645011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.88134,-32.055344,115.88134,-32.055344",
     "geom:latitude":-32.055344,
     "geom:longitude":115.88134,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 65",
     "sg:city":"Southlands Blvd Shopping Centre, Burrendah Bl",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185645011,
-    "wof:lastmodified":1449006779,
+    "wof:lastmodified":1466189979,
     "wof:name":"Harvey World Travel",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.88134,-32.055344,115.88134,-32.055344],
-  "geometry": {"coordinates":[115.88134,-32.055344],"type":"Point"}
+  "bbox": [
+    115.88134,
+    -32.055344,
+    115.88134,
+    -32.055344
+],
+  "geometry": {"coordinates":[115.88133999999999,-32.055344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235942369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.98175,-33.35305,149.98175,-33.35305",
     "geom:latitude":-33.35305,
     "geom:longitude":149.98175,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 30",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235942369,
-    "wof:lastmodified":1449008408,
+    "wof:lastmodified":1466186999,
     "wof:name":"James Civil & Plant Hire Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.98175,-33.35305,149.98175,-33.35305],
-  "geometry": {"coordinates":[149.98175,-33.35305],"type":"Point"}
+  "bbox": [
+    149.98175,
+    -33.35305,
+    149.98175,
+    -33.35305
+],
+  "geometry": {"coordinates":[149.98175000000001,-33.35305],"type":"Point"}
 }

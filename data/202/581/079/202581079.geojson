@@ -2,13 +2,14 @@
   "id": 202581079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.434647,-37.675426,144.434647,-37.675426",
     "geom:latitude":-37.675426,
     "geom:longitude":144.434647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Main St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202581079,
-    "wof:lastmodified":1449060655,
+    "wof:lastmodified":1466187133,
     "wof:name":"Spurr & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grower"
     ]
 },
-  "bbox": [144.434647,-37.675426,144.434647,-37.675426],
-  "geometry": {"coordinates":[144.434647,-37.675426],"type":"Point"}
+  "bbox": [
+    144.434647,
+    -37.675426,
+    144.434647,
+    -37.675426
+],
+  "geometry": {"coordinates":[144.43464700000001,-37.675426],"type":"Point"}
 }

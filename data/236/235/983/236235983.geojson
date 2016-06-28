@@ -2,13 +2,14 @@
   "id": 236235983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.678452,-38.092476,145.678452,-38.092476",
     "geom:latitude":-38.092476,
     "geom:longitude":145.678452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Main St",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236235983,
-    "wof:lastmodified":1449002100,
+    "wof:lastmodified":1466190173,
     "wof:name":"Van Den Broek H & J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.678452,-38.092476,145.678452,-38.092476],
-  "geometry": {"coordinates":[145.678452,-38.092476],"type":"Point"}
+  "bbox": [
+    145.678452,
+    -38.092476,
+    145.678452,
+    -38.092476
+],
+  "geometry": {"coordinates":[145.67845199999999,-38.092476],"type":"Point"}
 }

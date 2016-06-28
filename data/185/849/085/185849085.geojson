@@ -2,13 +2,14 @@
   "id": 185849085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.837555,-25.2904,152.837555,-25.2904",
     "geom:latitude":-25.2904,
     "geom:longitude":152.837555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17A Main St",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185849085,
-    "wof:lastmodified":1449006914,
+    "wof:lastmodified":1466187330,
     "wof:name":"Ellas On Main",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [152.837555,-25.2904,152.837555,-25.2904],
-  "geometry": {"coordinates":[152.837555,-25.2904],"type":"Point"}
+  "bbox": [
+    152.837555,
+    -25.2904,
+    152.837555,
+    -25.2904
+],
+  "geometry": {"coordinates":[152.83755500000001,-25.2904],"type":"Point"}
 }

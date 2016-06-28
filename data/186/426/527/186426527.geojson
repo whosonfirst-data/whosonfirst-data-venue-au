@@ -2,13 +2,14 @@
   "id": 186426527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809128,-19.267042,146.809128,-19.267042",
     "geom:latitude":-19.267042,
     "geom:longitude":146.809128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Flinders St (West)",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186426527,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466189749,
     "wof:name":"Townsville Car Care Centre",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "rustproofing"
     ]
 },
-  "bbox": [146.809128,-19.267042,146.809128,-19.267042],
-  "geometry": {"coordinates":[146.809128,-19.267042],"type":"Point"}
+  "bbox": [
+    146.809128,
+    -19.267042,
+    146.809128,
+    -19.267042
+],
+  "geometry": {"coordinates":[146.80912799999999,-19.267042],"type":"Point"}
 }

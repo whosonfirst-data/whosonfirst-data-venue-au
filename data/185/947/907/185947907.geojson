@@ -2,13 +2,14 @@
   "id": 185947907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.499893,-33.254593,151.499893,-33.254593",
     "geom:latitude":-33.254593,
     "geom:longitude":151.499893,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Wallarah Rd",
     "sg:city":"Gorokan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185947907,
-    "wof:lastmodified":1449007760,
+    "wof:lastmodified":1466188446,
     "wof:name":"Bob Warran Pty. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.499893,-33.254593,151.499893,-33.254593],
-  "geometry": {"coordinates":[151.499893,-33.254593],"type":"Point"}
+  "bbox": [
+    151.499893,
+    -33.254593,
+    151.499893,
+    -33.254593
+],
+  "geometry": {"coordinates":[151.49989299999999,-33.254593],"type":"Point"}
 }

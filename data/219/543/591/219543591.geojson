@@ -2,13 +2,14 @@
   "id": 219543591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.055664,-33.935028,151.055664,-33.935028",
     "geom:latitude":-33.935028,
     "geom:longitude":151.055664,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Belmore Rd",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219543591,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466190225,
     "wof:name":"Forever Joinery & Spraypainting Pty Ltd",
     "wof:parent_id":85774747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [151.055664,-33.935028,151.055664,-33.935028],
-  "geometry": {"coordinates":[151.055664,-33.935028],"type":"Point"}
+  "bbox": [
+    151.055664,
+    -33.935028,
+    151.055664,
+    -33.935028
+],
+  "geometry": {"coordinates":[151.05566400000001,-33.935028],"type":"Point"}
 }

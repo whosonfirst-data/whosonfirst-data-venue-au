@@ -2,13 +2,14 @@
   "id": 252878311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.567505,-37.686913,144.567505,-37.686913",
     "geom:latitude":-37.686913,
     "geom:longitude":144.567505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"145-147 Coburns Road",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252878311,
-    "wof:lastmodified":1449005986,
+    "wof:lastmodified":1466188786,
     "wof:name":"7-Eleven Stores Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.567505,-37.686913,144.567505,-37.686913],
-  "geometry": {"coordinates":[144.567505,-37.686913],"type":"Point"}
+  "bbox": [
+    144.567505,
+    -37.686913,
+    144.567505,
+    -37.686913
+],
+  "geometry": {"coordinates":[144.56750500000001,-37.686913],"type":"Point"}
 }

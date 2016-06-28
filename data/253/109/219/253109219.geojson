@@ -2,13 +2,14 @@
   "id": 253109219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.829483,-37.773823,144.829483,-37.773823",
     "geom:latitude":-37.773823,
     "geom:longitude":144.829483,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5/34- 36 McIntyre Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253109219,
-    "wof:lastmodified":1449063854,
+    "wof:lastmodified":1466188921,
     "wof:name":"M & M Services (Aust) Pty Ltd",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "partition"
     ]
 },
-  "bbox": [144.829483,-37.773823,144.829483,-37.773823],
-  "geometry": {"coordinates":[144.829483,-37.773823],"type":"Point"}
+  "bbox": [
+    144.829483,
+    -37.773823,
+    144.829483,
+    -37.773823
+],
+  "geometry": {"coordinates":[144.82948300000001,-37.773823],"type":"Point"}
 }

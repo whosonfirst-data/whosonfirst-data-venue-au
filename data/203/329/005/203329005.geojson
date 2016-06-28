@@ -2,13 +2,14 @@
   "id": 203329005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.50325,-37.627766,143.50325,-37.627766",
     "geom:latitude":-37.627766,
     "geom:longitude":143.50325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Kennedys Rd",
     "sg:city":"Chepstowe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203329005,
-    "wof:lastmodified":1449025433,
+    "wof:lastmodified":1466188364,
     "wof:name":"Tony Frosts Rural Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.50325,-37.627766,143.50325,-37.627766],
-  "geometry": {"coordinates":[143.50325,-37.627766],"type":"Point"}
+  "bbox": [
+    143.50325,
+    -37.627766,
+    143.50325,
+    -37.627766
+],
+  "geometry": {"coordinates":[143.50325000000001,-37.627766],"type":"Point"}
 }

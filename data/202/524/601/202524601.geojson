@@ -2,13 +2,14 @@
   "id": 202524601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.167862,-38.104176,145.167862,-38.104176",
     "geom:latitude":-38.104176,
     "geom:longitude":145.167862,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Aster Ave",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202524601,
-    "wof:lastmodified":1449060086,
+    "wof:lastmodified":1466189766,
     "wof:name":"Cretec Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.167862,-38.104176,145.167862,-38.104176],
-  "geometry": {"coordinates":[145.167862,-38.104176],"type":"Point"}
+  "bbox": [
+    145.167862,
+    -38.104176,
+    145.167862,
+    -38.104176
+],
+  "geometry": {"coordinates":[145.16786200000001,-38.104176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203325285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840607,-37.583218,143.840607,-37.583218",
     "geom:latitude":-37.583218,
     "geom:longitude":143.840607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Albert St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203325285,
-    "wof:lastmodified":1449025651,
+    "wof:lastmodified":1466188331,
     "wof:name":"David Chestnut Outdoor Power Equipment",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brushcutters"
     ]
 },
-  "bbox": [143.840607,-37.583218,143.840607,-37.583218],
-  "geometry": {"coordinates":[143.840607,-37.583218],"type":"Point"}
+  "bbox": [
+    143.840607,
+    -37.583218,
+    143.840607,
+    -37.583218
+],
+  "geometry": {"coordinates":[143.84060700000001,-37.583218],"type":"Point"}
 }

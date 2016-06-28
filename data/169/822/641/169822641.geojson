@@ -2,13 +2,14 @@
   "id": 169822641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.853912,-31.973757,115.853912,-31.973757",
     "geom:latitude":-31.973757,
     "geom:longitude":115.853912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Darley St",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169822641,
-    "wof:lastmodified":1449035866,
+    "wof:lastmodified":1466189074,
     "wof:name":"Landwest Estate Agency",
     "wof:parent_id":85775807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.853912,-31.973757,115.853912,-31.973757],
-  "geometry": {"coordinates":[115.853912,-31.973757],"type":"Point"}
+  "bbox": [
+    115.853912,
+    -31.973757,
+    115.853912,
+    -31.973757
+],
+  "geometry": {"coordinates":[115.85391199999999,-31.973757],"type":"Point"}
 }

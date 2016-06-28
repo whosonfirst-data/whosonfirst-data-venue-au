@@ -2,13 +2,14 @@
   "id": 202728329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.009674,-27.304703,153.009674,-27.304703",
     "geom:latitude":-27.304703,
     "geom:longitude":153.009674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Rushworth St",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202728329,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466189368,
     "wof:name":"Dolcroft Pty Ltd",
     "wof:parent_id":85773917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.009674,-27.304703,153.009674,-27.304703],
-  "geometry": {"coordinates":[153.009674,-27.304703],"type":"Point"}
+  "bbox": [
+    153.009674,
+    -27.304703,
+    153.009674,
+    -27.304703
+],
+  "geometry": {"coordinates":[153.00967399999999,-27.304703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253118453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.816528,-37.779488,144.816528,-37.779488",
     "geom:latitude":-37.779488,
     "geom:longitude":144.816528,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 dubbo St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253118453,
-    "wof:lastmodified":1449065203,
+    "wof:lastmodified":1466189110,
     "wof:name":"G.R. Mowing & Maintenance",
     "wof:parent_id":85776625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [144.816528,-37.779488,144.816528,-37.779488],
-  "geometry": {"coordinates":[144.816528,-37.779488],"type":"Point"}
+  "bbox": [
+    144.816528,
+    -37.779488,
+    144.816528,
+    -37.779488
+],
+  "geometry": {"coordinates":[144.81652800000001,-37.779488],"type":"Point"}
 }

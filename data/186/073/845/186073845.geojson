@@ -2,13 +2,14 @@
   "id": 186073845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.53656,-33.118446,151.53656,-33.118446",
     "geom:latitude":-33.118446,
     "geom:longitude":151.53656,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 A Lakeview Rd",
     "sg:city":"Morisset Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186073845,
-    "wof:lastmodified":1449050722,
+    "wof:lastmodified":1466188737,
     "wof:name":"Mcfarlane M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [151.53656,-33.118446,151.53656,-33.118446],
-  "geometry": {"coordinates":[151.53656,-33.118446],"type":"Point"}
+  "bbox": [
+    151.53656,
+    -33.118446,
+    151.53656,
+    -33.118446
+],
+  "geometry": {"coordinates":[151.53656000000001,-33.118446],"type":"Point"}
 }

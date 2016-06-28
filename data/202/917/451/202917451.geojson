@@ -2,13 +2,14 @@
   "id": 202917451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.113052,-30.294676,153.113052,-30.294676",
     "geom:latitude":-30.294676,
     "geom:longitude":153.113052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, 62-64 Monee St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202917451,
-    "wof:lastmodified":1449062321,
+    "wof:lastmodified":1466190793,
     "wof:name":"Skin Alert Skin Cancer Clinics",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.113052,-30.294676,153.113052,-30.294676],
-  "geometry": {"coordinates":[153.113052,-30.294676],"type":"Point"}
+  "bbox": [
+    153.113052,
+    -30.294676,
+    153.113052,
+    -30.294676
+],
+  "geometry": {"coordinates":[153.11305200000001,-30.294676],"type":"Point"}
 }

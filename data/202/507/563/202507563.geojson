@@ -2,13 +2,14 @@
   "id": 202507563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.177353,-38.093327,145.177353,-38.093327",
     "geom:latitude":-38.093327,
     "geom:longitude":145.177353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Frankston-Dandenong Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202507563,
-    "wof:lastmodified":1449061420,
+    "wof:lastmodified":1466189632,
     "wof:name":"A & M Garages & Sheds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shed"
     ]
 },
-  "bbox": [145.177353,-38.093327,145.177353,-38.093327],
-  "geometry": {"coordinates":[145.177353,-38.093327],"type":"Point"}
+  "bbox": [
+    145.177353,
+    -38.093327,
+    145.177353,
+    -38.093327
+],
+  "geometry": {"coordinates":[145.17735300000001,-38.093327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202757227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.123962,-27.545458,152.123962,-27.545458",
     "geom:latitude":-27.545458,
     "geom:longitude":152.123962,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 William St",
     "sg:city":"Helidon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202757227,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466189832,
     "wof:name":"Helidon Gravel & Water Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [152.123962,-27.545458,152.123962,-27.545458],
-  "geometry": {"coordinates":[152.123962,-27.545458],"type":"Point"}
+  "bbox": [
+    152.123962,
+    -27.545458,
+    152.123962,
+    -27.545458
+],
+  "geometry": {"coordinates":[152.12396200000001,-27.545458],"type":"Point"}
 }

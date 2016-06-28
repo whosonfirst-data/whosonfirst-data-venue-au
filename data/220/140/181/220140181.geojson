@@ -2,13 +2,14 @@
   "id": 220140181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.322662,-38.155869,144.322662,-38.155869",
     "geom:latitude":-38.155869,
     "geom:longitude":144.322662,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Craigie Rd",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220140181,
-    "wof:lastmodified":1449074144,
+    "wof:lastmodified":1466188391,
     "wof:name":"Biscuit",
     "wof:parent_id":85769889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [144.322662,-38.155869,144.322662,-38.155869],
-  "geometry": {"coordinates":[144.322662,-38.155869],"type":"Point"}
+  "bbox": [
+    144.322662,
+    -38.155869,
+    144.322662,
+    -38.155869
+],
+  "geometry": {"coordinates":[144.32266200000001,-38.155869],"type":"Point"}
 }

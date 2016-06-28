@@ -2,13 +2,14 @@
   "id": 253297531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.859283,-31.954174,115.859283,-31.954174",
     "geom:latitude":-31.954174,
     "geom:longitude":115.859283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"644 Hay St",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253297531,
-    "wof:lastmodified":1449064707,
+    "wof:lastmodified":1466190759,
     "wof:name":"Betts",
     "wof:parent_id":85782273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [115.859283,-31.954174,115.859283,-31.954174],
+  "bbox": [
+    115.859283,
+    -31.954174,
+    115.859283,
+    -31.954174
+],
   "geometry": {"coordinates":[115.859283,-31.954174],"type":"Point"}
 }

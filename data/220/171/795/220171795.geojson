@@ -2,13 +2,14 @@
   "id": 220171795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355011,-38.161777,144.355011,-38.161777",
     "geom:latitude":-38.161777,
     "geom:longitude":144.355011,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Fyans St",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220171795,
-    "wof:lastmodified":1449074885,
+    "wof:lastmodified":1466189031,
     "wof:name":"Colonial Lodge Motel",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.355011,-38.161777,144.355011,-38.161777],
-  "geometry": {"coordinates":[144.355011,-38.161777],"type":"Point"}
+  "bbox": [
+    144.355011,
+    -38.161777,
+    144.355011,
+    -38.161777
+],
+  "geometry": {"coordinates":[144.35501099999999,-38.161777],"type":"Point"}
 }

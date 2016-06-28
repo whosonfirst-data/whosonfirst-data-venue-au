@@ -2,13 +2,14 @@
   "id": 253005257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.68219,-37.882866,144.68219,-37.882866",
     "geom:latitude":-37.882866,
     "geom:longitude":144.68219,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Derrimut Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253005257,
-    "wof:lastmodified":1449065550,
+    "wof:lastmodified":1466187008,
     "wof:name":"Wyndham Events Centre",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.68219,-37.882866,144.68219,-37.882866],
-  "geometry": {"coordinates":[144.68219,-37.882866],"type":"Point"}
+  "bbox": [
+    144.68219,
+    -37.882866,
+    144.68219,
+    -37.882866
+],
+  "geometry": {"coordinates":[144.68218999999999,-37.882866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253153153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.925583,-27.540754,151.925583,-27.540754",
     "geom:latitude":-27.540754,
     "geom:longitude":151.925583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Fitzpatrick St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253153153,
-    "wof:lastmodified":1449064883,
+    "wof:lastmodified":1466189664,
     "wof:name":"O R & J C Ost",
     "wof:parent_id":85779897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "solar"
     ]
 },
-  "bbox": [151.925583,-27.540754,151.925583,-27.540754],
-  "geometry": {"coordinates":[151.925583,-27.540754],"type":"Point"}
+  "bbox": [
+    151.925583,
+    -27.540754,
+    151.925583,
+    -27.540754
+],
+  "geometry": {"coordinates":[151.92558299999999,-27.540754],"type":"Point"}
 }

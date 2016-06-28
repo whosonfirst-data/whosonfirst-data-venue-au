@@ -2,13 +2,14 @@
   "id": 202700009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.037735,-27.359379,153.037735,-27.359379",
     "geom:latitude":-27.359379,
     "geom:longitude":153.037735,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Zillmere Cnr Zillmere & Newman Rds",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202700009,
-    "wof:lastmodified":1449062432,
+    "wof:lastmodified":1466188826,
     "wof:name":"Independent Fuel Supplies",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [153.037735,-27.359379,153.037735,-27.359379],
+  "bbox": [
+    153.037735,
+    -27.359379,
+    153.037735,
+    -27.359379
+],
   "geometry": {"coordinates":[153.037735,-27.359379],"type":"Point"}
 }

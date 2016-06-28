@@ -2,13 +2,14 @@
   "id": 236356897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.799461,-32.060078,115.799461,-32.060078",
     "geom:latitude":-32.060078,
     "geom:longitude":115.799461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52d Peel Rd",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236356897,
-    "wof:lastmodified":1449004547,
+    "wof:lastmodified":1466190920,
     "wof:name":"Accord Glass",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "screen"
     ]
 },
-  "bbox": [115.799461,-32.060078,115.799461,-32.060078],
-  "geometry": {"coordinates":[115.799461,-32.060078],"type":"Point"}
+  "bbox": [
+    115.799461,
+    -32.060078,
+    115.799461,
+    -32.060078
+],
+  "geometry": {"coordinates":[115.79946099999999,-32.060078],"type":"Point"}
 }

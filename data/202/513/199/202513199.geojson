@@ -2,13 +2,14 @@
   "id": 202513199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.189316,-38.10144,145.189316,-38.10144",
     "geom:latitude":-38.10144,
     "geom:longitude":145.189316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Hall Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202513199,
-    "wof:lastmodified":1449061761,
+    "wof:lastmodified":1466189692,
     "wof:name":"Carrum Downs Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.189316,-38.10144,145.189316,-38.10144],
-  "geometry": {"coordinates":[145.189316,-38.10144],"type":"Point"}
+  "bbox": [
+    145.189316,
+    -38.10144,
+    145.189316,
+    -38.10144
+],
+  "geometry": {"coordinates":[145.18931599999999,-38.10144],"type":"Point"}
 }

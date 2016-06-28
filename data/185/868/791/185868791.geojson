@@ -2,13 +2,14 @@
   "id": 185868791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.836655,-25.306761,152.836655,-25.306761",
     "geom:latitude":-25.306761,
     "geom:longitude":152.836655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Victor Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185868791,
-    "wof:lastmodified":1449006648,
+    "wof:lastmodified":1466187554,
     "wof:name":"Mead Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [152.836655,-25.306761,152.836655,-25.306761],
-  "geometry": {"coordinates":[152.836655,-25.306761],"type":"Point"}
+  "bbox": [
+    152.836655,
+    -25.306761,
+    152.836655,
+    -25.306761
+],
+  "geometry": {"coordinates":[152.83665500000001,-25.306761],"type":"Point"}
 }

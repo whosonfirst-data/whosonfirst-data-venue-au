@@ -2,13 +2,14 @@
   "id": 219487217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.039993,-33.900894,151.039993,-33.900894",
     "geom:latitude":-33.900894,
     "geom:longitude":151.039993,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Beresford Ave",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219487217,
-    "wof:lastmodified":1449071553,
+    "wof:lastmodified":1466189262,
     "wof:name":"ESE Metal Products Pty Ltd",
     "wof:parent_id":85780245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "worker"
     ]
 },
-  "bbox": [151.039993,-33.900894,151.039993,-33.900894],
-  "geometry": {"coordinates":[151.039993,-33.900894],"type":"Point"}
+  "bbox": [
+    151.039993,
+    -33.900894,
+    151.039993,
+    -33.900894
+],
+  "geometry": {"coordinates":[151.03999300000001,-33.900894],"type":"Point"}
 }

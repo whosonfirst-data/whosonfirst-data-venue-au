@@ -2,13 +2,14 @@
   "id": 236540795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.937653,-26.240574,151.937653,-26.240574",
     "geom:latitude":-26.240574,
     "geom:longitude":151.937653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Lamb St",
     "sg:city":"Murgon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236540795,
-    "wof:lastmodified":1449002857,
+    "wof:lastmodified":1466191460,
     "wof:name":"Pats Tyres Murgon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [151.937653,-26.240574,151.937653,-26.240574],
-  "geometry": {"coordinates":[151.937653,-26.240574],"type":"Point"}
+  "bbox": [
+    151.937653,
+    -26.240574,
+    151.937653,
+    -26.240574
+],
+  "geometry": {"coordinates":[151.93765300000001,-26.240574],"type":"Point"}
 }

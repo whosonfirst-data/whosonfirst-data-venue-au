@@ -2,13 +2,14 @@
   "id": 236820413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892593,-34.432133,150.892593,-34.432133",
     "geom:latitude":-34.432133,
     "geom:longitude":150.892593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Keira St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236820413,
-    "wof:lastmodified":1449003338,
+    "wof:lastmodified":1466191979,
     "wof:name":"N.E.C. Telephone Systems",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [150.892593,-34.432133,150.892593,-34.432133],
-  "geometry": {"coordinates":[150.892593,-34.432133],"type":"Point"}
+  "bbox": [
+    150.892593,
+    -34.432133,
+    150.892593,
+    -34.432133
+],
+  "geometry": {"coordinates":[150.89259300000001,-34.432133],"type":"Point"}
 }

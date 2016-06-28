@@ -2,13 +2,14 @@
   "id": 219627015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.152115,-33.934311,151.152115,-33.934311",
     "geom:latitude":-33.934311,
     "geom:longitude":151.152115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1/ 2",
     "sg:city":"Magdalene Tce Wolli Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219627015,
-    "wof:lastmodified":1449074004,
+    "wof:lastmodified":1466190723,
     "wof:name":"Daniel H Dr",
     "wof:parent_id":85776153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.152115,-33.934311,151.152115,-33.934311],
-  "geometry": {"coordinates":[151.152115,-33.934311],"type":"Point"}
+  "bbox": [
+    151.152115,
+    -33.934311,
+    151.152115,
+    -33.934311
+],
+  "geometry": {"coordinates":[151.15211500000001,-33.934311],"type":"Point"}
 }

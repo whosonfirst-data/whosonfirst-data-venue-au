@@ -2,13 +2,14 @@
   "id": 203111231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.751472,-32.516773,115.751472,-32.516773",
     "geom:latitude":-32.516773,
     "geom:longitude":115.751472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U3/ 31 Thornborough Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203111231,
-    "wof:lastmodified":1449026905,
+    "wof:lastmodified":1466189212,
     "wof:name":"Classic Security",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "doors"
     ]
 },
-  "bbox": [115.751472,-32.516773,115.751472,-32.516773],
-  "geometry": {"coordinates":[115.751472,-32.516773],"type":"Point"}
+  "bbox": [
+    115.751472,
+    -32.516773,
+    115.751472,
+    -32.516773
+],
+  "geometry": {"coordinates":[115.75147200000001,-32.516773],"type":"Point"}
 }

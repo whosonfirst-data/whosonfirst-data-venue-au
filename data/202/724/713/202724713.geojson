@@ -2,13 +2,14 @@
   "id": 202724713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051971,-27.375015,153.051971,-27.375015",
     "geom:latitude":-27.375015,
     "geom:longitude":153.051971,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Pinewood St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202724713,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466189302,
     "wof:name":"Brisbane Badminton Association Inc.",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "badminton"
     ]
 },
-  "bbox": [153.051971,-27.375015,153.051971,-27.375015],
-  "geometry": {"coordinates":[153.051971,-27.375015],"type":"Point"}
+  "bbox": [
+    153.051971,
+    -27.375015,
+    153.051971,
+    -27.375015
+],
+  "geometry": {"coordinates":[153.05197100000001,-27.375015],"type":"Point"}
 }

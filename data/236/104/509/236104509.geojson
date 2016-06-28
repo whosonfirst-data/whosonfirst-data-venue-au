@@ -2,13 +2,14 @@
   "id": 236104509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.932465,-37.781052,144.932465,-37.781052",
     "geom:latitude":-37.781052,
     "geom:longitude":144.932465,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mt Alexander Rd",
     "sg:city":"Flemington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236104509,
-    "wof:lastmodified":1449002926,
+    "wof:lastmodified":1466188719,
     "wof:name":"Flemington Primary",
     "wof:parent_id":85776501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [144.932465,-37.781052,144.932465,-37.781052],
-  "geometry": {"coordinates":[144.932465,-37.781052],"type":"Point"}
+  "bbox": [
+    144.932465,
+    -37.781052,
+    144.932465,
+    -37.781052
+],
+  "geometry": {"coordinates":[144.93246500000001,-37.781052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219834093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.814423,-31.987207,115.814423,-31.987207",
     "geom:latitude":-31.987207,
     "geom:longitude":115.814423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3, 141",
     "sg:city":"Broadway, Nedlands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219834093,
-    "wof:lastmodified":1449070715,
+    "wof:lastmodified":1466191583,
     "wof:name":"Baverstock Murphy & Associates",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "designer"
     ]
 },
-  "bbox": [115.814423,-31.987207,115.814423,-31.987207],
-  "geometry": {"coordinates":[115.814423,-31.987207],"type":"Point"}
+  "bbox": [
+    115.814423,
+    -31.987207,
+    115.814423,
+    -31.987207
+],
+  "geometry": {"coordinates":[115.81442300000001,-31.987207],"type":"Point"}
 }

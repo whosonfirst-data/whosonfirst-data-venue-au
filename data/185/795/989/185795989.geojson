@@ -2,13 +2,14 @@
   "id": 185795989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.515594,-37.654308,145.515594,-37.654308",
     "geom:latitude":-37.654308,
     "geom:longitude":145.515594,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Maroondah Hwy",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185795989,
-    "wof:lastmodified":1449007565,
+    "wof:lastmodified":1466189904,
     "wof:name":"Cherry Tree Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [145.515594,-37.654308,145.515594,-37.654308],
-  "geometry": {"coordinates":[145.515594,-37.654308],"type":"Point"}
+  "bbox": [
+    145.515594,
+    -37.654308,
+    145.515594,
+    -37.654308
+],
+  "geometry": {"coordinates":[145.51559399999999,-37.654308],"type":"Point"}
 }

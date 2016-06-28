@@ -2,13 +2,14 @@
   "id": 202930147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.062225,-30.326227,153.062225,-30.326227",
     "geom:latitude":-30.326227,
     "geom:longitude":153.062225,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4/ 70 First Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202930147,
-    "wof:lastmodified":1449060922,
+    "wof:lastmodified":1466190878,
     "wof:name":"Craftsman Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.062225,-30.326227,153.062225,-30.326227],
-  "geometry": {"coordinates":[153.062225,-30.326227],"type":"Point"}
+  "bbox": [
+    153.062225,
+    -30.326227,
+    153.062225,
+    -30.326227
+],
+  "geometry": {"coordinates":[153.06222500000001,-30.326227],"type":"Point"}
 }

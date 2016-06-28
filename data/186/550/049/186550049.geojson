@@ -2,13 +2,14 @@
   "id": 186550049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160355,-33.893391,151.160355,-33.893391",
     "geom:latitude":-33.893391,
     "geom:longitude":151.160355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Douglas St",
     "sg:city":"Stanmore",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186550049,
-    "wof:lastmodified":1449051837,
+    "wof:lastmodified":1466190800,
     "wof:name":"Jacob P",
     "wof:parent_id":85770309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cardboard"
     ]
 },
-  "bbox": [151.160355,-33.893391,151.160355,-33.893391],
-  "geometry": {"coordinates":[151.160355,-33.893391],"type":"Point"}
+  "bbox": [
+    151.160355,
+    -33.893391,
+    151.160355,
+    -33.893391
+],
+  "geometry": {"coordinates":[151.16035500000001,-33.893391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203118553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.773911,-32.547787,115.773911,-32.547787",
     "geom:latitude":-32.547787,
     "geom:longitude":115.773911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 5/ 323 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203118553,
-    "wof:lastmodified":1449026474,
+    "wof:lastmodified":1466189324,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [115.773911,-32.547787,115.773911,-32.547787],
+  "bbox": [
+    115.773911,
+    -32.547787,
+    115.773911,
+    -32.547787
+],
   "geometry": {"coordinates":[115.773911,-32.547787],"type":"Point"}
 }

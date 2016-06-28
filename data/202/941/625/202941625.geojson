@@ -2,13 +2,14 @@
   "id": 202941625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.138245,-30.303209,153.138245,-30.303209",
     "geom:latitude":-30.303209,
     "geom:longitude":153.138245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Marina Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202941625,
-    "wof:lastmodified":1449061636,
+    "wof:lastmodified":1466190944,
     "wof:name":"Coffs Harbour International Marina Pty Ltd",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.138245,-30.303209,153.138245,-30.303209],
-  "geometry": {"coordinates":[153.138245,-30.303209],"type":"Point"}
+  "bbox": [
+    153.138245,
+    -30.303209,
+    153.138245,
+    -30.303209
+],
+  "geometry": {"coordinates":[153.13824500000001,-30.303209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236890631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.538345,-35.035854,138.538345,-35.035854",
     "geom:latitude":-35.035854,
     "geom:longitude":138.538345,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Morgan Ave",
     "sg:city":"Seaview Downs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236890631,
-    "wof:lastmodified":1449002218,
+    "wof:lastmodified":1466192087,
     "wof:name":"McDonald Excavations & Drainage",
     "wof:parent_id":85777531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.538345,-35.035854,138.538345,-35.035854],
-  "geometry": {"coordinates":[138.538345,-35.035854],"type":"Point"}
+  "bbox": [
+    138.538345,
+    -35.035854,
+    138.538345,
+    -35.035854
+],
+  "geometry": {"coordinates":[138.53834499999999,-35.035854],"type":"Point"}
 }

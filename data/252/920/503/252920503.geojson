@@ -2,13 +2,14 @@
   "id": 252920503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.773712,-36.311115,140.773712,-36.311115",
     "geom:latitude":-36.311115,
     "geom:longitude":140.773712,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Woolshed St",
     "sg:city":"Bordertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252920503,
-    "wof:lastmodified":1449006265,
+    "wof:lastmodified":1466189173,
     "wof:name":"Fitzys Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [140.773712,-36.311115,140.773712,-36.311115],
-  "geometry": {"coordinates":[140.773712,-36.311115],"type":"Point"}
+  "bbox": [
+    140.773712,
+    -36.311115,
+    140.773712,
+    -36.311115
+],
+  "geometry": {"coordinates":[140.77371199999999,-36.311115],"type":"Point"}
 }

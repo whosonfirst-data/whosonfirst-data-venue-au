@@ -2,13 +2,14 @@
   "id": 202578535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.44165,-37.676441,144.44165,-37.676441",
     "geom:latitude":-37.676441,
     "geom:longitude":144.44165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Main St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202578535,
-    "wof:lastmodified":1449060754,
+    "wof:lastmodified":1466187113,
     "wof:name":"B.M. Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.44165,-37.676441,144.44165,-37.676441],
-  "geometry": {"coordinates":[144.44165,-37.676441],"type":"Point"}
+  "bbox": [
+    144.44165,
+    -37.676441,
+    144.44165,
+    -37.676441
+],
+  "geometry": {"coordinates":[144.44165000000001,-37.676441],"type":"Point"}
 }

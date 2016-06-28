@@ -2,13 +2,14 @@
   "id": 252740371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.650482,-33.336128,115.650482,-33.336128",
     "geom:latitude":-33.336128,
     "geom:longitude":115.650482,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60A Strickland St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252740371,
-    "wof:lastmodified":1449005912,
+    "wof:lastmodified":1466187456,
     "wof:name":"Dynamic Print",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [115.650482,-33.336128,115.650482,-33.336128],
+  "bbox": [
+    115.650482,
+    -33.336128,
+    115.650482,
+    -33.336128
+],
   "geometry": {"coordinates":[115.650482,-33.336128],"type":"Point"}
 }

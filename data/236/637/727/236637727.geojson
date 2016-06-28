@@ -2,13 +2,14 @@
   "id": 236637727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.986115,-33.941547,150.986115,-33.941547",
     "geom:latitude":-33.941547,
     "geom:longitude":150.986115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Dernancourt Pde",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236637727,
-    "wof:lastmodified":1449001676,
+    "wof:lastmodified":1466191606,
     "wof:name":"Bridge Scrap Metals",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [150.986115,-33.941547,150.986115,-33.941547],
-  "geometry": {"coordinates":[150.986115,-33.941547],"type":"Point"}
+  "bbox": [
+    150.986115,
+    -33.941547,
+    150.986115,
+    -33.941547
+],
+  "geometry": {"coordinates":[150.98611500000001,-33.941547],"type":"Point"}
 }

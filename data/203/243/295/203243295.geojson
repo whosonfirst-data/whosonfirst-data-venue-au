@@ -2,13 +2,14 @@
   "id": 203243295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.052216,-26.759516,153.052216,-26.759516",
     "geom:latitude":-26.759516,
     "geom:longitude":153.052216,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Greenhaven Drv",
     "sg:city":"Palmview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203243295,
-    "wof:lastmodified":1449025534,
+    "wof:lastmodified":1466187523,
     "wof:name":"Chetwins Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.052216,-26.759516,153.052216,-26.759516],
-  "geometry": {"coordinates":[153.052216,-26.759516],"type":"Point"}
+  "bbox": [
+    153.052216,
+    -26.759516,
+    153.052216,
+    -26.759516
+],
+  "geometry": {"coordinates":[153.05221599999999,-26.759516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203347745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.877136,-37.557995,143.877136,-37.557995",
     "geom:latitude":-37.557995,
     "geom:longitude":143.877136,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Scott Pde",
     "sg:city":"Ballarat East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203347745,
-    "wof:lastmodified":1449025833,
+    "wof:lastmodified":1466188640,
     "wof:name":"B W & H E McDonald",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [143.877136,-37.557995,143.877136,-37.557995],
-  "geometry": {"coordinates":[143.877136,-37.557995],"type":"Point"}
+  "bbox": [
+    143.877136,
+    -37.557995,
+    143.877136,
+    -37.557995
+],
+  "geometry": {"coordinates":[143.87713600000001,-37.557995],"type":"Point"}
 }

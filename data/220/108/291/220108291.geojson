@@ -2,13 +2,14 @@
   "id": 220108291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.537964,-38.251022,144.537964,-38.251022",
     "geom:latitude":-38.251022,
     "geom:longitude":144.537964,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8-10 Marine Pde",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220108291,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466188036,
     "wof:name":"Hold Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.537964,-38.251022,144.537964,-38.251022],
-  "geometry": {"coordinates":[144.537964,-38.251022],"type":"Point"}
+  "bbox": [
+    144.537964,
+    -38.251022,
+    144.537964,
+    -38.251022
+],
+  "geometry": {"coordinates":[144.53796399999999,-38.251022],"type":"Point"}
 }

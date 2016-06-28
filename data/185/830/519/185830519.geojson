@@ -2,13 +2,14 @@
   "id": 185830519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.831497,-25.285179,152.831497,-25.285179",
     "geom:latitude":-25.285179,
     "geom:longitude":152.831497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 45 Islander Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185830519,
-    "wof:lastmodified":1449006959,
+    "wof:lastmodified":1466187096,
     "wof:name":"GW Electrical Service",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.831497,-25.285179,152.831497,-25.285179],
-  "geometry": {"coordinates":[152.831497,-25.285179],"type":"Point"}
+  "bbox": [
+    152.831497,
+    -25.285179,
+    152.831497,
+    -25.285179
+],
+  "geometry": {"coordinates":[152.83149700000001,-25.285179],"type":"Point"}
 }

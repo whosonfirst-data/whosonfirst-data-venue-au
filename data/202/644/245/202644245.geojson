@@ -2,13 +2,14 @@
   "id": 202644245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.030426,-27.405403,153.030426,-27.405403",
     "geom:latitude":-27.405403,
     "geom:longitude":153.030426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Ida St",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202644245,
-    "wof:lastmodified":1449061552,
+    "wof:lastmodified":1466187773,
     "wof:name":"C & D Electrical",
     "wof:parent_id":85774043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.030426,-27.405403,153.030426,-27.405403],
-  "geometry": {"coordinates":[153.030426,-27.405403],"type":"Point"}
+  "bbox": [
+    153.030426,
+    -27.405403,
+    153.030426,
+    -27.405403
+],
+  "geometry": {"coordinates":[153.03042600000001,-27.405403],"type":"Point"}
 }

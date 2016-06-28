@@ -2,13 +2,14 @@
   "id": 236971541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.479935,-37.945621,145.479935,-37.945621",
     "geom:latitude":-37.945621,
     "geom:longitude":145.479935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Paternoster Rd",
     "sg:city":"Cockatoo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236971541,
-    "wof:lastmodified":1449003294,
+    "wof:lastmodified":1466192174,
     "wof:name":"B & C Cook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.479935,-37.945621,145.479935,-37.945621],
-  "geometry": {"coordinates":[145.479935,-37.945621],"type":"Point"}
+  "bbox": [
+    145.479935,
+    -37.945621,
+    145.479935,
+    -37.945621
+],
+  "geometry": {"coordinates":[145.47993500000001,-37.945621],"type":"Point"}
 }

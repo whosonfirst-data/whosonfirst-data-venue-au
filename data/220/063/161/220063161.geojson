@@ -2,13 +2,14 @@
   "id": 220063161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.318573,-38.337517,144.318573,-38.337517",
     "geom:latitude":-38.337517,
     "geom:longitude":144.318573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Great Ocean Rd",
     "sg:city":"Bellbrae",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220063161,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1466187623,
     "wof:name":"Ferg's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.318573,-38.337517,144.318573,-38.337517],
-  "geometry": {"coordinates":[144.318573,-38.337517],"type":"Point"}
+  "bbox": [
+    144.318573,
+    -38.337517,
+    144.318573,
+    -38.337517
+],
+  "geometry": {"coordinates":[144.31857299999999,-38.337517],"type":"Point"}
 }

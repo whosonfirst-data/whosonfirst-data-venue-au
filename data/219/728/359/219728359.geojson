@@ -2,13 +2,14 @@
   "id": 219728359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.781403,-19.271963,146.781403,-19.271963",
     "geom:latitude":-19.271963,
     "geom:longitude":146.781403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2- 4 Lucas St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219728359,
-    "wof:lastmodified":1449071213,
+    "wof:lastmodified":1466191288,
     "wof:name":"Reece Pty Ltd",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [146.781403,-19.271963,146.781403,-19.271963],
-  "geometry": {"coordinates":[146.781403,-19.271963],"type":"Point"}
+  "bbox": [
+    146.781403,
+    -19.271963,
+    146.781403,
+    -19.271963
+],
+  "geometry": {"coordinates":[146.78140300000001,-19.271963],"type":"Point"}
 }

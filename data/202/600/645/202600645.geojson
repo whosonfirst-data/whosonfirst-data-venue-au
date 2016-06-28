@@ -2,13 +2,14 @@
   "id": 202600645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.975403,-33.761982,150.975403,-33.761982",
     "geom:latitude":-33.761982,
     "geom:longitude":150.975403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 936",
     "sg:city":"Baulkham Hills BC",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202600645,
-    "wof:lastmodified":1449060348,
+    "wof:lastmodified":1466187298,
     "wof:name":"Tassell John & Associates Pty Ltd",
     "wof:parent_id":85768775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.975403,-33.761982,150.975403,-33.761982],
+  "bbox": [
+    150.975403,
+    -33.761982,
+    150.975403,
+    -33.761982
+],
   "geometry": {"coordinates":[150.975403,-33.761982],"type":"Point"}
 }

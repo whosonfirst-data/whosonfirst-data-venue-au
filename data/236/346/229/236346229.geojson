@@ -2,13 +2,14 @@
   "id": 236346229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.784233,-32.058098,115.784233,-32.058098",
     "geom:latitude":-32.058098,
     "geom:longitude":115.784233,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14/B Hines Rd",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236346229,
-    "wof:lastmodified":1449001664,
+    "wof:lastmodified":1466190841,
     "wof:name":"C-Tech Engineering",
     "wof:parent_id":85775683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [115.784233,-32.058098,115.784233,-32.058098],
+  "bbox": [
+    115.784233,
+    -32.058098,
+    115.784233,
+    -32.058098
+],
   "geometry": {"coordinates":[115.784233,-32.058098],"type":"Point"}
 }

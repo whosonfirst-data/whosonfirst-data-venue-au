@@ -2,13 +2,14 @@
   "id": 236204077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.51239,-38.083717,145.51239,-38.083717",
     "geom:latitude":-38.083717,
     "geom:longitude":145.51239,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Ryan Rd",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236204077,
-    "wof:lastmodified":1449005362,
+    "wof:lastmodified":1466190083,
     "wof:name":"P & T Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.51239,-38.083717,145.51239,-38.083717],
-  "geometry": {"coordinates":[145.51239,-38.083717],"type":"Point"}
+  "bbox": [
+    145.51239,
+    -38.083717,
+    145.51239,
+    -38.083717
+],
+  "geometry": {"coordinates":[145.51239000000001,-38.083717],"type":"Point"}
 }

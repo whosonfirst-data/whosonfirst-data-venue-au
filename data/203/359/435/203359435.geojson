@@ -2,13 +2,14 @@
   "id": 203359435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.813065,-37.572594,143.813065,-37.572594",
     "geom:latitude":-37.572594,
     "geom:longitude":143.813065,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Lewers Crt",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203359435,
-    "wof:lastmodified":1449024915,
+    "wof:lastmodified":1466188841,
     "wof:name":"Regional Brass Industries",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "brass"
     ]
 },
-  "bbox": [143.813065,-37.572594,143.813065,-37.572594],
-  "geometry": {"coordinates":[143.813065,-37.572594],"type":"Point"}
+  "bbox": [
+    143.813065,
+    -37.572594,
+    143.813065,
+    -37.572594
+],
+  "geometry": {"coordinates":[143.81306499999999,-37.572594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219864941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.799896,-27.126179,152.799896,-27.126179",
     "geom:latitude":-27.126179,
     "geom:longitude":152.799896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 Mt Mee Rd",
     "sg:city":"Mt Mee",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219864941,
-    "wof:lastmodified":1449073972,
+    "wof:lastmodified":1466191489,
     "wof:name":"Munchkins Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [152.799896,-27.126179,152.799896,-27.126179],
-  "geometry": {"coordinates":[152.799896,-27.126179],"type":"Point"}
+  "bbox": [
+    152.799896,
+    -27.126179,
+    152.799896,
+    -27.126179
+],
+  "geometry": {"coordinates":[152.79989599999999,-27.126179],"type":"Point"}
 }

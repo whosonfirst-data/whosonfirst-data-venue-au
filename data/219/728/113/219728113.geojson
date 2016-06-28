@@ -2,13 +2,14 @@
   "id": 219728113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.794449,-19.283587,146.794449,-19.283587",
     "geom:latitude":-19.283587,
     "geom:longitude":146.794449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Buck St",
     "sg:city":"Mysterton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219728113,
-    "wof:lastmodified":1449071216,
+    "wof:lastmodified":1466191286,
     "wof:name":"Woodstock Worms",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worm"
     ]
 },
-  "bbox": [146.794449,-19.283587,146.794449,-19.283587],
-  "geometry": {"coordinates":[146.794449,-19.283587],"type":"Point"}
+  "bbox": [
+    146.794449,
+    -19.283587,
+    146.794449,
+    -19.283587
+],
+  "geometry": {"coordinates":[146.79444899999999,-19.283587],"type":"Point"}
 }

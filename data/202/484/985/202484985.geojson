@@ -2,13 +2,14 @@
   "id": 202484985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.032547,-37.917564,145.032547,-37.917564",
     "geom:latitude":-37.917564,
     "geom:longitude":145.032547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5/6 271 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484985,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466189286,
     "wof:name":"Grapevine The",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [145.032547,-37.917564,145.032547,-37.917564],
-  "geometry": {"coordinates":[145.032547,-37.917564],"type":"Point"}
+  "bbox": [
+    145.032547,
+    -37.917564,
+    145.032547,
+    -37.917564
+],
+  "geometry": {"coordinates":[145.03254699999999,-37.917564],"type":"Point"}
 }

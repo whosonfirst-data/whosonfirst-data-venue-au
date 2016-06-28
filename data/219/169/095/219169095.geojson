@@ -2,13 +2,14 @@
   "id": 219169095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055145,-27.418961,153.055145,-27.418961",
     "geom:latitude":-27.418961,
     "geom:longitude":153.055145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1-2 699a Sandgate Rd, Clayfield Courtyard",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219169095,
-    "wof:lastmodified":1449072576,
+    "wof:lastmodified":1466189758,
     "wof:name":"Cosi Ristorante Italiano",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.055145,-27.418961,153.055145,-27.418961],
-  "geometry": {"coordinates":[153.055145,-27.418961],"type":"Point"}
+  "bbox": [
+    153.055145,
+    -27.418961,
+    153.055145,
+    -27.418961
+],
+  "geometry": {"coordinates":[153.05514500000001,-27.418961],"type":"Point"}
 }

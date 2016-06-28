@@ -2,13 +2,14 @@
   "id": 186518665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.75293,-19.305664,146.75293,-19.305664",
     "geom:latitude":-19.305664,
     "geom:longitude":146.75293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Barellan St",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186518665,
-    "wof:lastmodified":1449051897,
+    "wof:lastmodified":1466190661,
     "wof:name":"Miles Floors",
     "wof:parent_id":85779483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [146.75293,-19.305664,146.75293,-19.305664],
-  "geometry": {"coordinates":[146.75293,-19.305664],"type":"Point"}
+  "bbox": [
+    146.75293,
+    -19.305664,
+    146.75293,
+    -19.305664
+],
+  "geometry": {"coordinates":[146.75292999999999,-19.305664],"type":"Point"}
 }

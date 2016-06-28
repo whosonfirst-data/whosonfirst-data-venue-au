@@ -2,13 +2,14 @@
   "id": 236010901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.321747,-42.980312,147.321747,-42.980312",
     "geom:latitude":-42.980312,
     "geom:longitude":147.321747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Beach Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236010901,
-    "wof:lastmodified":1449003758,
+    "wof:lastmodified":1466187032,
     "wof:name":"Sweet G.N.",
     "wof:parent_id":85770383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.321747,-42.980312,147.321747,-42.980312],
-  "geometry": {"coordinates":[147.321747,-42.980312],"type":"Point"}
+  "bbox": [
+    147.321747,
+    -42.980312,
+    147.321747,
+    -42.980312
+],
+  "geometry": {"coordinates":[147.32174699999999,-42.980312],"type":"Point"}
 }

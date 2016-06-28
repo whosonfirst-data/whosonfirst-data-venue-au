@@ -2,13 +2,14 @@
   "id": 236523791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143555,-32.560387,151.143555,-32.560387",
     "geom:latitude":-32.560387,
     "geom:longitude":151.143555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Hambledon Hill Rd",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236523791,
-    "wof:lastmodified":1449003573,
+    "wof:lastmodified":1466191432,
     "wof:name":"Bower's Cranes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [151.143555,-32.560387,151.143555,-32.560387],
-  "geometry": {"coordinates":[151.143555,-32.560387],"type":"Point"}
+  "bbox": [
+    151.143555,
+    -32.560387,
+    151.143555,
+    -32.560387
+],
+  "geometry": {"coordinates":[151.14355499999999,-32.560387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220013029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.314758,-36.711155,144.314758,-36.711155",
     "geom:latitude":-36.711155,
     "geom:longitude":144.314758,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Midland Hwy",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220013029,
-    "wof:lastmodified":1449074599,
+    "wof:lastmodified":1466187000,
     "wof:name":"Elders Ltd",
     "wof:parent_id":85770811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stock"
     ]
 },
-  "bbox": [144.314758,-36.711155,144.314758,-36.711155],
-  "geometry": {"coordinates":[144.314758,-36.711155],"type":"Point"}
+  "bbox": [
+    144.314758,
+    -36.711155,
+    144.314758,
+    -36.711155
+],
+  "geometry": {"coordinates":[144.31475800000001,-36.711155],"type":"Point"}
 }

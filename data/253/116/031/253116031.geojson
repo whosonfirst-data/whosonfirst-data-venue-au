@@ -2,13 +2,14 @@
   "id": 253116031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.832535,-37.757145,144.832535,-37.757145",
     "geom:latitude":-37.757145,
     "geom:longitude":144.832535,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"188 McIntyre Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253116031,
-    "wof:lastmodified":1449063248,
+    "wof:lastmodified":1466189059,
     "wof:name":"Sunshine Joinery",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [144.832535,-37.757145,144.832535,-37.757145],
-  "geometry": {"coordinates":[144.832535,-37.757145],"type":"Point"}
+  "bbox": [
+    144.832535,
+    -37.757145,
+    144.832535,
+    -37.757145
+],
+  "geometry": {"coordinates":[144.83253500000001,-37.757145],"type":"Point"}
 }

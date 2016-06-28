@@ -2,13 +2,14 @@
   "id": 202951591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112732,-30.298092,153.112732,-30.298092",
     "geom:latitude":-30.298092,
     "geom:longitude":153.112732,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Grafton St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202951591,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466191014,
     "wof:name":"Fitzroy Motors",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [153.112732,-30.298092,153.112732,-30.298092],
-  "geometry": {"coordinates":[153.112732,-30.298092],"type":"Point"}
+  "bbox": [
+    153.112732,
+    -30.298092,
+    153.112732,
+    -30.298092
+],
+  "geometry": {"coordinates":[153.11273199999999,-30.298092],"type":"Point"}
 }

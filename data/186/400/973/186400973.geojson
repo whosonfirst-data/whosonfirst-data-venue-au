@@ -2,13 +2,14 @@
   "id": 186400973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.799652,-19.282095,146.799652,-19.282095",
     "geom:latitude":-19.282095,
     "geom:longitude":146.799652,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1/ 58 The Strnd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186400973,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466189326,
     "wof:name":"Eagle Boys Pizza - North Ward",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [146.799652,-19.282095,146.799652,-19.282095],
-  "geometry": {"coordinates":[146.799652,-19.282095],"type":"Point"}
+  "bbox": [
+    146.799652,
+    -19.282095,
+    146.799652,
+    -19.282095
+],
+  "geometry": {"coordinates":[146.79965200000001,-19.282095],"type":"Point"}
 }

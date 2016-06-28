@@ -2,13 +2,14 @@
   "id": 186319751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.969353,-31.897156,115.969353,-31.897156",
     "geom:latitude":-31.897156,
     "geom:longitude":115.969353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hall Gallery 105 Swan St",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186319751,
-    "wof:lastmodified":1449051469,
+    "wof:lastmodified":1466187941,
     "wof:name":"MWDesign",
     "wof:parent_id":85769421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [115.969353,-31.897156,115.969353,-31.897156],
+  "bbox": [
+    115.969353,
+    -31.897156,
+    115.969353,
+    -31.897156
+],
   "geometry": {"coordinates":[115.969353,-31.897156],"type":"Point"}
 }

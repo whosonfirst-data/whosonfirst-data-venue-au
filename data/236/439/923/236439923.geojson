@@ -2,13 +2,14 @@
   "id": 236439923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.169373,-21.157,149.169373,-21.157",
     "geom:latitude":-21.157,
     "geom:longitude":149.169373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wilson St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236439923,
-    "wof:lastmodified":1449002377,
+    "wof:lastmodified":1466191126,
     "wof:name":"Complete Environmental Services",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [149.169373,-21.157,149.169373,-21.157],
-  "geometry": {"coordinates":[149.169373,-21.157],"type":"Point"}
+  "bbox": [
+    149.169373,
+    -21.157,
+    149.169373,
+    -21.157
+],
+  "geometry": {"coordinates":[149.16937300000001,-21.157],"type":"Point"}
 }

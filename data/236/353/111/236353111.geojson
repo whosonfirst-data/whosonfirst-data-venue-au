@@ -2,13 +2,14 @@
   "id": 236353111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.800392,-32.065014,115.800392,-32.065014",
     "geom:latitude":-32.065014,
     "geom:longitude":115.800392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"390 South St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236353111,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466190898,
     "wof:name":"Red Rooster",
     "wof:parent_id":85777955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [115.800392,-32.065014,115.800392,-32.065014],
+  "bbox": [
+    115.800392,
+    -32.065014,
+    115.800392,
+    -32.065014
+],
   "geometry": {"coordinates":[115.800392,-32.065014],"type":"Point"}
 }

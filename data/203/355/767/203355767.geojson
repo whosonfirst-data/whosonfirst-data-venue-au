@@ -2,13 +2,14 @@
   "id": 203355767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.861282,-37.568092,143.861282,-37.568092",
     "geom:latitude":-37.568092,
     "geom:longitude":143.861282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"946 Humffray St",
     "sg:city":"Ballarat South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203355767,
-    "wof:lastmodified":1449025435,
+    "wof:lastmodified":1466188775,
     "wof:name":"Windscreen Power",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [143.861282,-37.568092,143.861282,-37.568092],
-  "geometry": {"coordinates":[143.861282,-37.568092],"type":"Point"}
+  "bbox": [
+    143.861282,
+    -37.568092,
+    143.861282,
+    -37.568092
+],
+  "geometry": {"coordinates":[143.86128199999999,-37.568092],"type":"Point"}
 }

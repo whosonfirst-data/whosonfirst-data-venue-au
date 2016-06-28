@@ -2,13 +2,14 @@
   "id": 253052245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.826126,-37.838341,144.826126,-37.838341",
     "geom:latitude":-37.838341,
     "geom:longitude":144.826126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Geelong Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253052245,
-    "wof:lastmodified":1449064162,
+    "wof:lastmodified":1466187943,
     "wof:name":"A N Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.826126,-37.838341,144.826126,-37.838341],
-  "geometry": {"coordinates":[144.826126,-37.838341],"type":"Point"}
+  "bbox": [
+    144.826126,
+    -37.838341,
+    144.826126,
+    -37.838341
+],
+  "geometry": {"coordinates":[144.82612599999999,-37.838341],"type":"Point"}
 }

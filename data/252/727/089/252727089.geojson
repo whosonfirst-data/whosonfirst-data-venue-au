@@ -2,13 +2,14 @@
   "id": 252727089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.627441,-33.375229,115.627441,-33.375229",
     "geom:latitude":-33.375229,
     "geom:longitude":115.627441,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Breen Pl Glen Padden",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252727089,
-    "wof:lastmodified":1449005568,
+    "wof:lastmodified":1466187204,
     "wof:name":"Elizabeth Marwood",
     "wof:parent_id":85780137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [115.627441,-33.375229,115.627441,-33.375229],
+  "bbox": [
+    115.627441,
+    -33.375229,
+    115.627441,
+    -33.375229
+],
   "geometry": {"coordinates":[115.627441,-33.375229],"type":"Point"}
 }

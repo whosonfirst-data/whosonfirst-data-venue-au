@@ -2,13 +2,14 @@
   "id": 202550241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.048187,-42.752029,147.048187,-42.752029",
     "geom:latitude":-42.752029,
     "geom:longitude":147.048187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Daniels Rd",
     "sg:city":"New Norfolk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202550241,
-    "wof:lastmodified":1449061483,
+    "wof:lastmodified":1466189924,
     "wof:name":"MSD Constructions Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.048187,-42.752029,147.048187,-42.752029],
-  "geometry": {"coordinates":[147.048187,-42.752029],"type":"Point"}
+  "bbox": [
+    147.048187,
+    -42.752029,
+    147.048187,
+    -42.752029
+],
+  "geometry": {"coordinates":[147.04818700000001,-42.752029],"type":"Point"}
 }

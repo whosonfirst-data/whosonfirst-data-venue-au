@@ -2,13 +2,14 @@
   "id": 252708321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.823029,-33.575748,115.823029,-33.575748",
     "geom:latitude":-33.575748,
     "geom:longitude":115.823029,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bentley St",
     "sg:city":"Donnybrook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252708321,
-    "wof:lastmodified":1449005582,
+    "wof:lastmodified":1466186933,
     "wof:name":"Donnybrook-Balingup Shire Of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "local"
     ]
 },
-  "bbox": [115.823029,-33.575748,115.823029,-33.575748],
-  "geometry": {"coordinates":[115.823029,-33.575748],"type":"Point"}
+  "bbox": [
+    115.823029,
+    -33.575748,
+    115.823029,
+    -33.575748
+],
+  "geometry": {"coordinates":[115.82302900000001,-33.575748],"type":"Point"}
 }

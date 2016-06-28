@@ -2,13 +2,14 @@
   "id": 202915653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.097107,-30.290379,153.097107,-30.290379",
     "geom:latitude":-30.290379,
     "geom:longitude":153.097107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 4 Shepherds La",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202915653,
-    "wof:lastmodified":1449062607,
+    "wof:lastmodified":1466190766,
     "wof:name":"Borsato A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grower"
     ]
 },
-  "bbox": [153.097107,-30.290379,153.097107,-30.290379],
-  "geometry": {"coordinates":[153.097107,-30.290379],"type":"Point"}
+  "bbox": [
+    153.097107,
+    -30.290379,
+    153.097107,
+    -30.290379
+],
+  "geometry": {"coordinates":[153.09710699999999,-30.290379],"type":"Point"}
 }

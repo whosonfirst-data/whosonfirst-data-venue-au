@@ -2,13 +2,14 @@
   "id": 236799735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.840164,-34.476566,150.840164,-34.476566",
     "geom:latitude":-34.476566,
     "geom:longitude":150.840164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Kelly St",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236799735,
-    "wof:lastmodified":1449005271,
+    "wof:lastmodified":1466192043,
     "wof:name":"Dream Fitness",
     "wof:parent_id":85768827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [150.840164,-34.476566,150.840164,-34.476566],
-  "geometry": {"coordinates":[150.840164,-34.476566],"type":"Point"}
+  "bbox": [
+    150.840164,
+    -34.476566,
+    150.840164,
+    -34.476566
+],
+  "geometry": {"coordinates":[150.84016399999999,-34.476566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252740413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.654419,-33.342239,115.654419,-33.342239",
     "geom:latitude":-33.342239,
     "geom:longitude":115.654419,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Hawkins St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252740413,
-    "wof:lastmodified":1449005909,
+    "wof:lastmodified":1466187457,
     "wof:name":"Blue Water Marine",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [115.654419,-33.342239,115.654419,-33.342239],
+  "bbox": [
+    115.654419,
+    -33.342239,
+    115.654419,
+    -33.342239
+],
   "geometry": {"coordinates":[115.654419,-33.342239],"type":"Point"}
 }

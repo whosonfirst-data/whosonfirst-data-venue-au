@@ -2,13 +2,14 @@
   "id": 203088911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.930893,-32.842506,115.930893,-32.842506",
     "geom:latitude":-32.842506,
     "geom:longitude":115.930893,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill St",
     "sg:city":"Waroona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203088911,
-    "wof:lastmodified":1449026413,
+    "wof:lastmodified":1466188867,
     "wof:name":"Waroona Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [115.930893,-32.842506,115.930893,-32.842506],
+  "bbox": [
+    115.930893,
+    -32.842506,
+    115.930893,
+    -32.842506
+],
   "geometry": {"coordinates":[115.930893,-32.842506],"type":"Point"}
 }

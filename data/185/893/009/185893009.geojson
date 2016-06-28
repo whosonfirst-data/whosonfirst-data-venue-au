@@ -2,13 +2,14 @@
   "id": 185893009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.859619,-25.292583,152.859619,-25.292583",
     "geom:latitude":-25.292583,
     "geom:longitude":152.859619,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Moonbi St",
     "sg:city":"Scarness",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185893009,
-    "wof:lastmodified":1449007925,
+    "wof:lastmodified":1466187830,
     "wof:name":"Drivers R Us",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pooling"
     ]
 },
-  "bbox": [152.859619,-25.292583,152.859619,-25.292583],
-  "geometry": {"coordinates":[152.859619,-25.292583],"type":"Point"}
+  "bbox": [
+    152.859619,
+    -25.292583,
+    152.859619,
+    -25.292583
+],
+  "geometry": {"coordinates":[152.85961900000001,-25.292583],"type":"Point"}
 }

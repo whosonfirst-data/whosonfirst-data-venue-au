@@ -2,13 +2,14 @@
   "id": 202659229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.033295,-27.424368,153.033295,-27.424368",
     "geom:latitude":-27.424368,
     "geom:longitude":153.033295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Lutwyche Rd",
     "sg:city":"Lutwyche",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202659229,
-    "wof:lastmodified":1449060378,
+    "wof:lastmodified":1466188060,
     "wof:name":"Mater Hill Shoe Store",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [153.033295,-27.424368,153.033295,-27.424368],
-  "geometry": {"coordinates":[153.033295,-27.424368],"type":"Point"}
+  "bbox": [
+    153.033295,
+    -27.424368,
+    153.033295,
+    -27.424368
+],
+  "geometry": {"coordinates":[153.03329500000001,-27.424368],"type":"Point"}
 }

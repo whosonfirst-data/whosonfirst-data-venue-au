@@ -2,13 +2,14 @@
   "id": 236580905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.060242,-33.943802,151.060242,-33.943802",
     "geom:latitude":-33.943802,
     "geom:longitude":151.060242,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Bonds Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236580905,
-    "wof:lastmodified":1449003952,
+    "wof:lastmodified":1466191649,
     "wof:name":"Electrolux Home Products Pty Ltd",
     "wof:parent_id":85774767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [151.060242,-33.943802,151.060242,-33.943802],
-  "geometry": {"coordinates":[151.060242,-33.943802],"type":"Point"}
+  "bbox": [
+    151.060242,
+    -33.943802,
+    151.060242,
+    -33.943802
+],
+  "geometry": {"coordinates":[151.06024199999999,-33.943802],"type":"Point"}
 }

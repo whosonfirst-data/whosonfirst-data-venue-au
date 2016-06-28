@@ -2,13 +2,14 @@
   "id": 186416445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.828156,-19.262646,146.828156,-19.262646",
     "geom:latitude":-19.262646,
     "geom:longitude":146.828156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"No. 38 Macrossan & Cannan Sts",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186416445,
-    "wof:lastmodified":1449051578,
+    "wof:lastmodified":1466189583,
     "wof:name":"SSAF Sheetmetal",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [146.828156,-19.262646,146.828156,-19.262646],
-  "geometry": {"coordinates":[146.828156,-19.262646],"type":"Point"}
+  "bbox": [
+    146.828156,
+    -19.262646,
+    146.828156,
+    -19.262646
+],
+  "geometry": {"coordinates":[146.82815600000001,-19.262646],"type":"Point"}
 }

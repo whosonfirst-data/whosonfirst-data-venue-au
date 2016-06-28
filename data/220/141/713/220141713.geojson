@@ -2,13 +2,14 @@
   "id": 220141713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357117,-38.149338,144.357117,-38.149338",
     "geom:latitude":-38.149338,
     "geom:longitude":144.357117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 63 Gheringhap St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220141713,
-    "wof:lastmodified":1449074305,
+    "wof:lastmodified":1466188422,
     "wof:name":"SCALE:",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [144.357117,-38.149338,144.357117,-38.149338],
-  "geometry": {"coordinates":[144.357117,-38.149338],"type":"Point"}
+  "bbox": [
+    144.357117,
+    -38.149338,
+    144.357117,
+    -38.149338
+],
+  "geometry": {"coordinates":[144.35711699999999,-38.149338],"type":"Point"}
 }

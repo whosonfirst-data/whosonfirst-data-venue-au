@@ -2,13 +2,14 @@
   "id": 236370379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753143,-32.071873,115.753143,-32.071873",
     "geom:latitude":-32.071873,
     "geom:longitude":115.753143,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Orient St",
     "sg:city":"South Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236370379,
-    "wof:lastmodified":1449003458,
+    "wof:lastmodified":1466190990,
     "wof:name":"Pratt Sandra",
     "wof:parent_id":85775677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.753143,-32.071873,115.753143,-32.071873],
-  "geometry": {"coordinates":[115.753143,-32.071873],"type":"Point"}
+  "bbox": [
+    115.753143,
+    -32.071873,
+    115.753143,
+    -32.071873
+],
+  "geometry": {"coordinates":[115.75314299999999,-32.071873],"type":"Point"}
 }

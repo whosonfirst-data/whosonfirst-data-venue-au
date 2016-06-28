@@ -2,13 +2,14 @@
   "id": 219782877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.141113,-33.885166,151.141113,-33.885166",
     "geom:latitude":-33.885166,
     "geom:longitude":151.141113,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Stanton Rd",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219782877,
-    "wof:lastmodified":1449070365,
+    "wof:lastmodified":1466191331,
     "wof:name":"A. Abetta Roof Appeal",
     "wof:parent_id":85774547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [151.141113,-33.885166,151.141113,-33.885166],
-  "geometry": {"coordinates":[151.141113,-33.885166],"type":"Point"}
+  "bbox": [
+    151.141113,
+    -33.885166,
+    151.141113,
+    -33.885166
+],
+  "geometry": {"coordinates":[151.14111299999999,-33.885166],"type":"Point"}
 }

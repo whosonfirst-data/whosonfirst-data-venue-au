@@ -2,13 +2,14 @@
   "id": 203356567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.816696,-37.565964,143.816696,-37.565964",
     "geom:latitude":-37.565964,
     "geom:longitude":143.816696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Gillies St South",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203356567,
-    "wof:lastmodified":1449026503,
+    "wof:lastmodified":1466188788,
     "wof:name":"Westar Pty Ltd",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [143.816696,-37.565964,143.816696,-37.565964],
-  "geometry": {"coordinates":[143.816696,-37.565964],"type":"Point"}
+  "bbox": [
+    143.816696,
+    -37.565964,
+    143.816696,
+    -37.565964
+],
+  "geometry": {"coordinates":[143.81669600000001,-37.565964],"type":"Point"}
 }

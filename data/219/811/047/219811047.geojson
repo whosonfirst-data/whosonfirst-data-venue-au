@@ -2,13 +2,14 @@
   "id": 219811047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.897324,-36.118271,146.897324,-36.118271",
     "geom:latitude":-36.118271,
     "geom:longitude":146.897324,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 4 Queen St",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219811047,
-    "wof:lastmodified":1449072091,
+    "wof:lastmodified":1466191506,
     "wof:name":"National Fleet Network",
     "wof:parent_id":85780039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [146.897324,-36.118271,146.897324,-36.118271],
+  "bbox": [
+    146.897324,
+    -36.118271,
+    146.897324,
+    -36.118271
+],
   "geometry": {"coordinates":[146.897324,-36.118271],"type":"Point"}
 }

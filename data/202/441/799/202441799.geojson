@@ -2,13 +2,14 @@
   "id": 202441799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.964752,-37.831383,144.964752,-37.831383",
     "geom:latitude":-37.831383,
     "geom:longitude":144.964752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Eastern Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202441799,
-    "wof:lastmodified":1449060308,
+    "wof:lastmodified":1466188614,
     "wof:name":"BSCAA",
     "wof:parent_id":85782343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [144.964752,-37.831383,144.964752,-37.831383],
+  "bbox": [
+    144.964752,
+    -37.831383,
+    144.964752,
+    -37.831383
+],
   "geometry": {"coordinates":[144.964752,-37.831383],"type":"Point"}
 }

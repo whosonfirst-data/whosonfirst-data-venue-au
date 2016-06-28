@@ -2,13 +2,14 @@
   "id": 253045685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.836533,-37.841927,144.836533,-37.841927",
     "geom:latitude":-37.841927,
     "geom:longitude":144.836533,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"CRT Resource Centre 21- 43 Barnes Rd",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253045685,
-    "wof:lastmodified":1449065431,
+    "wof:lastmodified":1466187821,
     "wof:name":"Habitat Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "conservation"
     ]
 },
-  "bbox": [144.836533,-37.841927,144.836533,-37.841927],
+  "bbox": [
+    144.836533,
+    -37.841927,
+    144.836533,
+    -37.841927
+],
   "geometry": {"coordinates":[144.836533,-37.841927],"type":"Point"}
 }

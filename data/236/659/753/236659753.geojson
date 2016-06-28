@@ -2,13 +2,14 @@
   "id": 236659753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.123215,-33.967964,151.123215,-33.967964",
     "geom:latitude":-33.967964,
     "geom:longitude":151.123215,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Carlton Pde",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236659753,
-    "wof:lastmodified":1449001940,
+    "wof:lastmodified":1466191853,
     "wof:name":"Carlton Family Medical Practice",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.123215,-33.967964,151.123215,-33.967964],
-  "geometry": {"coordinates":[151.123215,-33.967964],"type":"Point"}
+  "bbox": [
+    151.123215,
+    -33.967964,
+    151.123215,
+    -33.967964
+],
+  "geometry": {"coordinates":[151.12321499999999,-33.967964],"type":"Point"}
 }

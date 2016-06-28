@@ -2,13 +2,14 @@
   "id": 236045287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.923981,-37.766373,144.923981,-37.766373",
     "geom:latitude":-37.766373,
     "geom:longitude":144.923981,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hall St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236045287,
-    "wof:lastmodified":1449004780,
+    "wof:lastmodified":1466187520,
     "wof:name":"Spherion Education",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [144.923981,-37.766373,144.923981,-37.766373],
+  "bbox": [
+    144.923981,
+    -37.766373,
+    144.923981,
+    -37.766373
+],
   "geometry": {"coordinates":[144.923981,-37.766373],"type":"Point"}
 }

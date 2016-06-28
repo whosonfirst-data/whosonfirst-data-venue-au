@@ -2,13 +2,14 @@
   "id": 186370473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130829,-33.85651,151.130829,-33.85651",
     "geom:latitude":-33.85651,
     "geom:longitude":151.130829,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Great North Rd",
     "sg:city":"Wareemba",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186370473,
-    "wof:lastmodified":1449051842,
+    "wof:lastmodified":1466188827,
     "wof:name":"Dolcetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.130829,-33.85651,151.130829,-33.85651],
-  "geometry": {"coordinates":[151.130829,-33.85651],"type":"Point"}
+  "bbox": [
+    151.130829,
+    -33.85651,
+    151.130829,
+    -33.85651
+],
+  "geometry": {"coordinates":[151.13082900000001,-33.85651],"type":"Point"}
 }

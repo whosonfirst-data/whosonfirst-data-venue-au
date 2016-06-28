@@ -2,13 +2,14 @@
   "id": 185964847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.442886,-33.424873,151.442886,-33.424873",
     "geom:latitude":-33.424873,
     "geom:longitude":151.442886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Ocean View Drv",
     "sg:city":"Wamberal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185964847,
-    "wof:lastmodified":1449007821,
+    "wof:lastmodified":1466188589,
     "wof:name":"Schindler Lifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lift"
     ]
 },
-  "bbox": [151.442886,-33.424873,151.442886,-33.424873],
-  "geometry": {"coordinates":[151.442886,-33.424873],"type":"Point"}
+  "bbox": [
+    151.442886,
+    -33.424873,
+    151.442886,
+    -33.424873
+],
+  "geometry": {"coordinates":[151.44288599999999,-33.424873],"type":"Point"}
 }

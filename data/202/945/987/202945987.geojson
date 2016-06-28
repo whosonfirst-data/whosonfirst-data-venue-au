@@ -2,13 +2,14 @@
   "id": 202945987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.124344,-30.283075,153.124344,-30.283075",
     "geom:latitude":-30.283075,
     "geom:longitude":153.124344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4/1 Bray St (cnr Bray St)",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202945987,
-    "wof:lastmodified":1449060332,
+    "wof:lastmodified":1466190972,
     "wof:name":"Zea Angelina",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.124344,-30.283075,153.124344,-30.283075],
-  "geometry": {"coordinates":[153.124344,-30.283075],"type":"Point"}
+  "bbox": [
+    153.124344,
+    -30.283075,
+    153.124344,
+    -30.283075
+],
+  "geometry": {"coordinates":[153.12434400000001,-30.283075],"type":"Point"}
 }

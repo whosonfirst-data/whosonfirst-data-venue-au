@@ -2,13 +2,14 @@
   "id": 185803341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.516495,-37.656475,145.516495,-37.656475",
     "geom:latitude":-37.656475,
     "geom:longitude":145.516495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"View St",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185803341,
-    "wof:lastmodified":1449008227,
+    "wof:lastmodified":1466189940,
     "wof:name":"Healsville Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.516495,-37.656475,145.516495,-37.656475],
-  "geometry": {"coordinates":[145.516495,-37.656475],"type":"Point"}
+  "bbox": [
+    145.516495,
+    -37.656475,
+    145.516495,
+    -37.656475
+],
+  "geometry": {"coordinates":[145.51649499999999,-37.656475],"type":"Point"}
 }

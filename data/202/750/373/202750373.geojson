@@ -2,13 +2,14 @@
   "id": 202750373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.932381,-32.02977,115.932381,-32.02977",
     "geom:latitude":-32.02977,
     "geom:longitude":115.932381,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Kinlock Ave",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202750373,
-    "wof:lastmodified":1449061659,
+    "wof:lastmodified":1466189722,
     "wof:name":"Scape To Paradise",
     "wof:parent_id":85771361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [115.932381,-32.02977,115.932381,-32.02977],
-  "geometry": {"coordinates":[115.932381,-32.02977],"type":"Point"}
+  "bbox": [
+    115.932381,
+    -32.02977,
+    115.932381,
+    -32.02977
+],
+  "geometry": {"coordinates":[115.93238100000001,-32.02977],"type":"Point"}
 }

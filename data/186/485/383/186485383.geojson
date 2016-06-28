@@ -2,13 +2,14 @@
   "id": 186485383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.730667,-19.273575,146.730667,-19.273575",
     "geom:latitude":-19.273575,
     "geom:longitude":146.730667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kato Pl",
     "sg:city":"Mt Louisa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186485383,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466190431,
     "wof:name":"Panache Illustration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [146.730667,-19.273575,146.730667,-19.273575],
-  "geometry": {"coordinates":[146.730667,-19.273575],"type":"Point"}
+  "bbox": [
+    146.730667,
+    -19.273575,
+    146.730667,
+    -19.273575
+],
+  "geometry": {"coordinates":[146.73066700000001,-19.273575],"type":"Point"}
 }

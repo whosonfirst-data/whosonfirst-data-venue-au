@@ -2,13 +2,14 @@
   "id": 202918829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.130997,-30.289461,153.130997,-30.289461",
     "geom:latitude":-30.289461,
     "geom:longitude":153.130997,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Jetty Village Shopping Centre Orlando St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202918829,
-    "wof:lastmodified":1449061812,
+    "wof:lastmodified":1466190807,
     "wof:name":"Coffs Harbour Jetty Cellars",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [153.130997,-30.289461,153.130997,-30.289461],
-  "geometry": {"coordinates":[153.130997,-30.289461],"type":"Point"}
+  "bbox": [
+    153.130997,
+    -30.289461,
+    153.130997,
+    -30.289461
+],
+  "geometry": {"coordinates":[153.13099700000001,-30.289461],"type":"Point"}
 }

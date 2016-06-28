@@ -2,13 +2,14 @@
   "id": 186453019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176239,-33.903835,151.176239,-33.903835",
     "geom:latitude":-33.903835,
     "geom:longitude":151.176239,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Alice St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186453019,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466190023,
     "wof:name":"Fenech Victor",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [151.176239,-33.903835,151.176239,-33.903835],
-  "geometry": {"coordinates":[151.176239,-33.903835],"type":"Point"}
+  "bbox": [
+    151.176239,
+    -33.903835,
+    151.176239,
+    -33.903835
+],
+  "geometry": {"coordinates":[151.17623900000001,-33.903835],"type":"Point"}
 }

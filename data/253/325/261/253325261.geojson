@@ -2,13 +2,14 @@
   "id": 253325261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.273209,-38.006775,145.273209,-38.006775",
     "geom:latitude":-38.006775,
     "geom:longitude":145.273209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 5229",
     "sg:city":",Hallam Business Centre,Hallam,3803 Narre War",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253325261,
-    "wof:lastmodified":1449063979,
+    "wof:lastmodified":1466190831,
     "wof:name":"Trailer Image",
     "wof:parent_id":85770883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trailer"
     ]
 },
-  "bbox": [145.273209,-38.006775,145.273209,-38.006775],
-  "geometry": {"coordinates":[145.273209,-38.006775],"type":"Point"}
+  "bbox": [
+    145.273209,
+    -38.006775,
+    145.273209,
+    -38.006775
+],
+  "geometry": {"coordinates":[145.27320900000001,-38.006775],"type":"Point"}
 }

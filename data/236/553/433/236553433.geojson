@@ -2,13 +2,14 @@
   "id": 236553433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.015305,-33.951305,151.015305,-33.951305",
     "geom:latitude":-33.951305,
     "geom:longitude":151.015305,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Selems Pde",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236553433,
-    "wof:lastmodified":1449001688,
+    "wof:lastmodified":1466191596,
     "wof:name":"Parkers Shoes & Handbags",
     "wof:parent_id":85770077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [151.015305,-33.951305,151.015305,-33.951305],
-  "geometry": {"coordinates":[151.015305,-33.951305],"type":"Point"}
+  "bbox": [
+    151.015305,
+    -33.951305,
+    151.015305,
+    -33.951305
+],
+  "geometry": {"coordinates":[151.01530500000001,-33.951305],"type":"Point"}
 }

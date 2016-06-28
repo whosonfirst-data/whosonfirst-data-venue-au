@@ -2,13 +2,14 @@
   "id": 203199971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.996246,-36.554218,145.996246,-36.554218",
     "geom:latitude":-36.554218,
     "geom:longitude":145.996246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Samaria Rd",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203199971,
-    "wof:lastmodified":1449025130,
+    "wof:lastmodified":1466187001,
     "wof:name":"Benalla Performing Arts & Convention Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [145.996246,-36.554218,145.996246,-36.554218],
-  "geometry": {"coordinates":[145.996246,-36.554218],"type":"Point"}
+  "bbox": [
+    145.996246,
+    -36.554218,
+    145.996246,
+    -36.554218
+],
+  "geometry": {"coordinates":[145.99624600000001,-36.554218],"type":"Point"}
 }

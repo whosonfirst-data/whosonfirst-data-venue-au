@@ -2,13 +2,14 @@
   "id": 252747109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.65107,-33.336399,115.65107,-33.336399",
     "geom:latitude":-33.336399,
     "geom:longitude":115.65107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Strickland St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252747109,
-    "wof:lastmodified":1449005606,
+    "wof:lastmodified":1466187584,
     "wof:name":"Bunbury Radiators",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [115.65107,-33.336399,115.65107,-33.336399],
+  "bbox": [
+    115.65107,
+    -33.336399,
+    115.65107,
+    -33.336399
+],
   "geometry": {"coordinates":[115.65107,-33.336399],"type":"Point"}
 }

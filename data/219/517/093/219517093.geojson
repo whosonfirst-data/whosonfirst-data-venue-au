@@ -2,13 +2,14 @@
   "id": 219517093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.099426,-33.910423,151.099426,-33.910423",
     "geom:latitude":-33.910423,
     "geom:longitude":151.099426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 15 Cnr 6th & 9th Ave",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219517093,
-    "wof:lastmodified":1449072393,
+    "wof:lastmodified":1466189837,
     "wof:name":"Campsie 9th Avenue X-Ray",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.099426,-33.910423,151.099426,-33.910423],
-  "geometry": {"coordinates":[151.099426,-33.910423],"type":"Point"}
+  "bbox": [
+    151.099426,
+    -33.910423,
+    151.099426,
+    -33.910423
+],
+  "geometry": {"coordinates":[151.09942599999999,-33.910423],"type":"Point"}
 }

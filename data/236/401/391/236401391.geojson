@@ -2,13 +2,14 @@
   "id": 236401391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.782768,-32.245159,115.782768,-32.245159",
     "geom:latitude":-32.245159,
     "geom:longitude":115.782768,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 435 Beach St",
     "sg:city":"Kwinana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236401391,
-    "wof:lastmodified":1449004659,
+    "wof:lastmodified":1466191122,
     "wof:name":"Whitford Fertilisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [115.782768,-32.245159,115.782768,-32.245159],
+  "bbox": [
+    115.782768,
+    -32.245159,
+    115.782768,
+    -32.245159
+],
   "geometry": {"coordinates":[115.782768,-32.245159],"type":"Point"}
 }

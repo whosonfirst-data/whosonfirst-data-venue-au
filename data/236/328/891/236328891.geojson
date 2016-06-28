@@ -2,13 +2,14 @@
   "id": 236328891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.757973,-32.044796,115.757973,-32.044796",
     "geom:latitude":-32.044796,
     "geom:longitude":115.757973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 East St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236328891,
-    "wof:lastmodified":1449003618,
+    "wof:lastmodified":1466190571,
     "wof:name":"Quaterdeck Deli",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [115.757973,-32.044796,115.757973,-32.044796],
-  "geometry": {"coordinates":[115.757973,-32.044796],"type":"Point"}
+  "bbox": [
+    115.757973,
+    -32.044796,
+    115.757973,
+    -32.044796
+],
+  "geometry": {"coordinates":[115.75797300000001,-32.044796],"type":"Point"}
 }

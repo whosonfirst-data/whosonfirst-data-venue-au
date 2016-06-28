@@ -2,13 +2,14 @@
   "id": 203401805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.139145,-37.888802,144.139145,-37.888802",
     "geom:latitude":-37.888802,
     "geom:longitude":144.139145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 SEC Rd",
     "sg:city":"Warrenheip",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203401805,
-    "wof:lastmodified":1449026567,
+    "wof:lastmodified":1466189496,
     "wof:name":"Ballard Electrics Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.139145,-37.888802,144.139145,-37.888802],
-  "geometry": {"coordinates":[144.139145,-37.888802],"type":"Point"}
+  "bbox": [
+    144.139145,
+    -37.888802,
+    144.139145,
+    -37.888802
+],
+  "geometry": {"coordinates":[144.13914500000001,-37.888802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236330981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.795212,-32.06152,115.795212,-32.06152",
     "geom:latitude":-32.06152,
     "geom:longitude":115.795212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Keegan St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236330981,
-    "wof:lastmodified":1449003270,
+    "wof:lastmodified":1466190586,
     "wof:name":"McLernon's Supply & Demand",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hire"
     ]
 },
-  "bbox": [115.795212,-32.06152,115.795212,-32.06152],
-  "geometry": {"coordinates":[115.795212,-32.06152],"type":"Point"}
+  "bbox": [
+    115.795212,
+    -32.06152,
+    115.795212,
+    -32.06152
+],
+  "geometry": {"coordinates":[115.79521200000001,-32.06152],"type":"Point"}
 }

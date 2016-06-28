@@ -2,13 +2,14 @@
   "id": 220135111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358871,-38.150982,144.358871,-38.150982",
     "geom:latitude":-38.150982,
     "geom:longitude":144.358871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220135111,
-    "wof:lastmodified":1449074343,
+    "wof:lastmodified":1466188293,
     "wof:name":"Pack & Send Geelong",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [144.358871,-38.150982,144.358871,-38.150982],
-  "geometry": {"coordinates":[144.358871,-38.150982],"type":"Point"}
+  "bbox": [
+    144.358871,
+    -38.150982,
+    144.358871,
+    -38.150982
+],
+  "geometry": {"coordinates":[144.35887099999999,-38.150982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219490979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.066696,-33.895576,151.066696,-33.895576",
     "geom:latitude":-33.895576,
     "geom:longitude":151.066696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Norfolk Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219490979,
-    "wof:lastmodified":1449073562,
+    "wof:lastmodified":1466189337,
     "wof:name":"Wizard Mechanical Services",
     "wof:parent_id":85776095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.066696,-33.895576,151.066696,-33.895576],
-  "geometry": {"coordinates":[151.066696,-33.895576],"type":"Point"}
+  "bbox": [
+    151.066696,
+    -33.895576,
+    151.066696,
+    -33.895576
+],
+  "geometry": {"coordinates":[151.06669600000001,-33.895576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220012579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.311066,-36.759342,144.311066,-36.759342",
     "geom:latitude":-36.759342,
     "geom:longitude":144.311066,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"178 McIvor Rd",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220012579,
-    "wof:lastmodified":1449074795,
+    "wof:lastmodified":1466186989,
     "wof:name":"Dennis Family Homes",
     "wof:parent_id":85780101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.311066,-36.759342,144.311066,-36.759342],
-  "geometry": {"coordinates":[144.311066,-36.759342],"type":"Point"}
+  "bbox": [
+    144.311066,
+    -36.759342,
+    144.311066,
+    -36.759342
+],
+  "geometry": {"coordinates":[144.31106600000001,-36.759342],"type":"Point"}
 }

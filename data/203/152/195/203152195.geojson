@@ -2,13 +2,14 @@
   "id": 203152195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.983276,-36.551949,145.983276,-36.551949",
     "geom:latitude":-36.551949,
     "geom:longitude":145.983276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Bridge St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203152195,
-    "wof:lastmodified":1449026392,
+    "wof:lastmodified":1466189679,
     "wof:name":"ANZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.983276,-36.551949,145.983276,-36.551949],
-  "geometry": {"coordinates":[145.983276,-36.551949],"type":"Point"}
+  "bbox": [
+    145.983276,
+    -36.551949,
+    145.983276,
+    -36.551949
+],
+  "geometry": {"coordinates":[145.98327599999999,-36.551949],"type":"Point"}
 }

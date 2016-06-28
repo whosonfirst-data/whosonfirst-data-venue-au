@@ -2,13 +2,14 @@
   "id": 202684395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.983063,-27.346928,152.983063,-27.346928",
     "geom:latitude":-27.346928,
     "geom:longitude":152.983063,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Tiverton Pl",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202684395,
-    "wof:lastmodified":1449060751,
+    "wof:lastmodified":1466188541,
     "wof:name":"Wombaroo Food Products",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [152.983063,-27.346928,152.983063,-27.346928],
-  "geometry": {"coordinates":[152.983063,-27.346928],"type":"Point"}
+  "bbox": [
+    152.983063,
+    -27.346928,
+    152.983063,
+    -27.346928
+],
+  "geometry": {"coordinates":[152.98306299999999,-27.346928],"type":"Point"}
 }

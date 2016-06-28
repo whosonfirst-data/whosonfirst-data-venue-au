@@ -2,13 +2,14 @@
   "id": 186366913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.129929,-33.867859,151.129929,-33.867859",
     "geom:latitude":-33.867859,
     "geom:longitude":151.129929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96a Great North Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186366913,
-    "wof:lastmodified":1449052314,
+    "wof:lastmodified":1466188759,
     "wof:name":"OPSM Pty Ltd",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prescription"
     ]
 },
-  "bbox": [151.129929,-33.867859,151.129929,-33.867859],
+  "bbox": [
+    151.129929,
+    -33.867859,
+    151.129929,
+    -33.867859
+],
   "geometry": {"coordinates":[151.129929,-33.867859],"type":"Point"}
 }

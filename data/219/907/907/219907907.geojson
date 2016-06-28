@@ -2,13 +2,14 @@
   "id": 219907907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.916519,-34.319439,150.916519,-34.319439",
     "geom:latitude":-34.319439,
     "geom:longitude":150.916519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Wrexham Rd",
     "sg:city":"Thirroul",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219907907,
-    "wof:lastmodified":1449073643,
+    "wof:lastmodified":1466191759,
     "wof:name":"Seaside Roofing",
     "wof:parent_id":85770735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roof"
     ]
 },
-  "bbox": [150.916519,-34.319439,150.916519,-34.319439],
-  "geometry": {"coordinates":[150.916519,-34.319439],"type":"Point"}
+  "bbox": [
+    150.916519,
+    -34.319439,
+    150.916519,
+    -34.319439
+],
+  "geometry": {"coordinates":[150.91651899999999,-34.319439],"type":"Point"}
 }

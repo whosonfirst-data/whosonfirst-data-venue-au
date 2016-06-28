@@ -2,13 +2,14 @@
   "id": 203339127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.837448,-37.567448,143.837448,-37.567448",
     "geom:latitude":-37.567448,
     "geom:longitude":143.837448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Pleasant St South",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203339127,
-    "wof:lastmodified":1449025760,
+    "wof:lastmodified":1466188487,
     "wof:name":"Pleasant St Sth Take Away",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [143.837448,-37.567448,143.837448,-37.567448],
-  "geometry": {"coordinates":[143.837448,-37.567448],"type":"Point"}
+  "bbox": [
+    143.837448,
+    -37.567448,
+    143.837448,
+    -37.567448
+],
+  "geometry": {"coordinates":[143.83744799999999,-37.567448],"type":"Point"}
 }

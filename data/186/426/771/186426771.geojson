@@ -2,13 +2,14 @@
   "id": 186426771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.802124,-19.271746,146.802124,-19.271746",
     "geom:latitude":-19.271746,
     "geom:longitude":146.802124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Sturt St",
     "sg:city":"West End",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186426771,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466189755,
     "wof:name":"Eclipse Window Tinting",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [146.802124,-19.271746,146.802124,-19.271746],
-  "geometry": {"coordinates":[146.802124,-19.271746],"type":"Point"}
+  "bbox": [
+    146.802124,
+    -19.271746,
+    146.802124,
+    -19.271746
+],
+  "geometry": {"coordinates":[146.80212399999999,-19.271746],"type":"Point"}
 }

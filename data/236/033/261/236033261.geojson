@@ -2,13 +2,14 @@
   "id": 236033261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.015892,-32.114059,116.015892,-32.114059",
     "geom:latitude":-32.114059,
     "geom:longitude":116.015892,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 6",
     "sg:city":"Kelmscott PO Boxes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236033261,
-    "wof:lastmodified":1449002182,
+    "wof:lastmodified":1466187288,
     "wof:name":"Comteque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [116.015892,-32.114059,116.015892,-32.114059],
-  "geometry": {"coordinates":[116.015892,-32.114059],"type":"Point"}
+  "bbox": [
+    116.015892,
+    -32.114059,
+    116.015892,
+    -32.114059
+],
+  "geometry": {"coordinates":[116.01589199999999,-32.114059],"type":"Point"}
 }

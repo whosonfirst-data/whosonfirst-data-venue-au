@@ -2,13 +2,14 @@
   "id": 219723151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.799255,-19.299643,146.799255,-19.299643",
     "geom:latitude":-19.299643,
     "geom:longitude":146.799255,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Bowen Rd",
     "sg:city":"Rosslea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219723151,
-    "wof:lastmodified":1449072444,
+    "wof:lastmodified":1466191277,
     "wof:name":"Obsession Hair & Beauty",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artificial"
     ]
 },
-  "bbox": [146.799255,-19.299643,146.799255,-19.299643],
-  "geometry": {"coordinates":[146.799255,-19.299643],"type":"Point"}
+  "bbox": [
+    146.799255,
+    -19.299643,
+    146.799255,
+    -19.299643
+],
+  "geometry": {"coordinates":[146.79925499999999,-19.299643],"type":"Point"}
 }

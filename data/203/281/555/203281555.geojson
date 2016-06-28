@@ -2,13 +2,14 @@
   "id": 203281555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.166702,-33.127293,148.166702,-33.127293",
     "geom:latitude":-33.127293,
     "geom:longitude":148.166702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Farrer St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203281555,
-    "wof:lastmodified":1449026561,
+    "wof:lastmodified":1466187809,
     "wof:name":"Darren Lydford Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [148.166702,-33.127293,148.166702,-33.127293],
-  "geometry": {"coordinates":[148.166702,-33.127293],"type":"Point"}
+  "bbox": [
+    148.166702,
+    -33.127293,
+    148.166702,
+    -33.127293
+],
+  "geometry": {"coordinates":[148.16670199999999,-33.127293],"type":"Point"}
 }

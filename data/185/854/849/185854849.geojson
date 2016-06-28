@@ -2,13 +2,14 @@
   "id": 185854849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.838242,-25.286774,152.838242,-25.286774",
     "geom:latitude":-25.286774,
     "geom:longitude":152.838242,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 162 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185854849,
-    "wof:lastmodified":1449008131,
+    "wof:lastmodified":1466187402,
     "wof:name":"Hervey Bay Veterinary Surgery",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [152.838242,-25.286774,152.838242,-25.286774],
-  "geometry": {"coordinates":[152.838242,-25.286774],"type":"Point"}
+  "bbox": [
+    152.838242,
+    -25.286774,
+    152.838242,
+    -25.286774
+],
+  "geometry": {"coordinates":[152.83824200000001,-25.286774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203236923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.322647,-36.354946,146.322647,-36.354946",
     "geom:latitude":-36.354946,
     "geom:longitude":146.322647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Docker St",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203236923,
-    "wof:lastmodified":1449025146,
+    "wof:lastmodified":1466187475,
     "wof:name":"The University of Melbourne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tertiary"
     ]
 },
-  "bbox": [146.322647,-36.354946,146.322647,-36.354946],
-  "geometry": {"coordinates":[146.322647,-36.354946],"type":"Point"}
+  "bbox": [
+    146.322647,
+    -36.354946,
+    146.322647,
+    -36.354946
+],
+  "geometry": {"coordinates":[146.32264699999999,-36.354946],"type":"Point"}
 }

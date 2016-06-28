@@ -2,13 +2,14 @@
   "id": 252899749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.579163,-37.694981,144.579163,-37.694981",
     "geom:latitude":-37.694981,
     "geom:longitude":144.579163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Andrew St",
     "sg:city":"Melton South",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252899749,
-    "wof:lastmodified":1449006443,
+    "wof:lastmodified":1466188992,
     "wof:name":"Hird's Valves & Fittings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "valves"
     ]
 },
-  "bbox": [144.579163,-37.694981,144.579163,-37.694981],
-  "geometry": {"coordinates":[144.579163,-37.694981],"type":"Point"}
+  "bbox": [
+    144.579163,
+    -37.694981,
+    144.579163,
+    -37.694981
+],
+  "geometry": {"coordinates":[144.57916299999999,-37.694981],"type":"Point"}
 }

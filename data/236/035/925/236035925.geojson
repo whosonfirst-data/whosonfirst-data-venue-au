@@ -2,13 +2,14 @@
   "id": 236035925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.774887,-37.72287,144.774887,-37.72287",
     "geom:latitude":-37.72287,
     "geom:longitude":144.774887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Milne Crt",
     "sg:city":"Keilor Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236035925,
-    "wof:lastmodified":1449004483,
+    "wof:lastmodified":1466187336,
     "wof:name":"HSV Grange Car Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.774887,-37.72287,144.774887,-37.72287],
-  "geometry": {"coordinates":[144.774887,-37.72287],"type":"Point"}
+  "bbox": [
+    144.774887,
+    -37.72287,
+    144.774887,
+    -37.72287
+],
+  "geometry": {"coordinates":[144.77488700000001,-37.72287],"type":"Point"}
 }

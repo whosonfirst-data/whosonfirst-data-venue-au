@@ -2,13 +2,14 @@
   "id": 219364545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.559845,-35.335461,143.559845,-35.335461",
     "geom:latitude":-35.335461,
     "geom:longitude":143.559845,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Curlewis St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219364545,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466188050,
     "wof:name":"Northern Ice Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [143.559845,-35.335461,143.559845,-35.335461],
+  "bbox": [
+    143.559845,
+    -35.335461,
+    143.559845,
+    -35.335461
+],
   "geometry": {"coordinates":[143.559845,-35.335461],"type":"Point"}
 }

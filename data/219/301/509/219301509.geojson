@@ -2,13 +2,14 @@
   "id": 219301509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.931335,-38.161583,145.931335,-38.161583",
     "geom:latitude":-38.161583,
     "geom:longitude":145.931335,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Palmerston St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219301509,
-    "wof:lastmodified":1449071295,
+    "wof:lastmodified":1466187540,
     "wof:name":"Clover Health Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [145.931335,-38.161583,145.931335,-38.161583],
-  "geometry": {"coordinates":[145.931335,-38.161583],"type":"Point"}
+  "bbox": [
+    145.931335,
+    -38.161583,
+    145.931335,
+    -38.161583
+],
+  "geometry": {"coordinates":[145.93133499999999,-38.161583],"type":"Point"}
 }

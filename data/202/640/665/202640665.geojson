@@ -2,13 +2,14 @@
   "id": 202640665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.955811,-37.949139,145.955811,-37.949139",
     "geom:latitude":-37.949139,
     "geom:longitude":145.955811,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2495 Main Rd",
     "sg:city":"Neerim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202640665,
-    "wof:lastmodified":1449061220,
+    "wof:lastmodified":1466187740,
     "wof:name":"Doug. Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "swimming"
     ]
 },
-  "bbox": [145.955811,-37.949139,145.955811,-37.949139],
-  "geometry": {"coordinates":[145.955811,-37.949139],"type":"Point"}
+  "bbox": [
+    145.955811,
+    -37.949139,
+    145.955811,
+    -37.949139
+],
+  "geometry": {"coordinates":[145.95581100000001,-37.949139],"type":"Point"}
 }

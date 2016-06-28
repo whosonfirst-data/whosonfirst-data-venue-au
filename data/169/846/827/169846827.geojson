@@ -2,13 +2,14 @@
   "id": 169846827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.834877,-32.010624,115.834877,-32.010624",
     "geom:latitude":-32.010624,
     "geom:longitude":115.834877,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41b Ardross St",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169846827,
-    "wof:lastmodified":1449035215,
+    "wof:lastmodified":1466189400,
     "wof:name":"Lizzy's Boutique",
     "wof:parent_id":85768683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boutique"
     ]
 },
-  "bbox": [115.834877,-32.010624,115.834877,-32.010624],
-  "geometry": {"coordinates":[115.834877,-32.010624],"type":"Point"}
+  "bbox": [
+    115.834877,
+    -32.010624,
+    115.834877,
+    -32.010624
+],
+  "geometry": {"coordinates":[115.83487700000001,-32.010624],"type":"Point"}
 }

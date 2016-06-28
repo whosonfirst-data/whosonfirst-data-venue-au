@@ -2,13 +2,14 @@
   "id": 203021279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.263153,-20.0774,146.263153,-20.0774",
     "geom:latitude":-20.0774,
     "geom:longitude":146.263153,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1966",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203021279,
-    "wof:lastmodified":1449026157,
+    "wof:lastmodified":1466187597,
     "wof:name":"JD Dodds Plant & Machinery Valuers",
     "wof:parent_id":85779767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [146.263153,-20.0774,146.263153,-20.0774],
-  "geometry": {"coordinates":[146.263153,-20.0774],"type":"Point"}
+  "bbox": [
+    146.263153,
+    -20.0774,
+    146.263153,
+    -20.0774
+],
+  "geometry": {"coordinates":[146.26315299999999,-20.0774],"type":"Point"}
 }

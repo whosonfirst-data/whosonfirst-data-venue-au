@@ -2,13 +2,14 @@
   "id": 203310933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.843384,-37.545307,143.843384,-37.545307",
     "geom:latitude":-37.545307,
     "geom:longitude":143.843384,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Wendouree Pde",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310933,
-    "wof:lastmodified":1449026105,
+    "wof:lastmodified":1466188119,
     "wof:name":"Jones Peter Pty Ltd",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.843384,-37.545307,143.843384,-37.545307],
-  "geometry": {"coordinates":[143.843384,-37.545307],"type":"Point"}
+  "bbox": [
+    143.843384,
+    -37.545307,
+    143.843384,
+    -37.545307
+],
+  "geometry": {"coordinates":[143.84338399999999,-37.545307],"type":"Point"}
 }

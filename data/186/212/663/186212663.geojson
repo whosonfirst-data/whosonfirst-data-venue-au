@@ -2,13 +2,14 @@
   "id": 186212663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.923401,-31.474277,152.923401,-31.474277",
     "geom:latitude":-31.474277,
     "geom:longitude":152.923401,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 The Summit Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186212663,
-    "wof:lastmodified":1449052113,
+    "wof:lastmodified":1466187159,
     "wof:name":"Port Macquarie Property Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [152.923401,-31.474277,152.923401,-31.474277],
-  "geometry": {"coordinates":[152.923401,-31.474277],"type":"Point"}
+  "bbox": [
+    152.923401,
+    -31.474277,
+    152.923401,
+    -31.474277
+],
+  "geometry": {"coordinates":[152.92340100000001,-31.474277],"type":"Point"}
 }

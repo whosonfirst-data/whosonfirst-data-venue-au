@@ -2,13 +2,14 @@
   "id": 185681157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.246017,-23.443886,144.246017,-23.443886",
     "geom:latitude":-23.443886,
     "geom:longitude":144.246017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Pelican St",
     "sg:city":"Longreach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185681157,
-    "wof:lastmodified":1449007601,
+    "wof:lastmodified":1466188794,
     "wof:name":"Longreach Auto Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [144.246017,-23.443886,144.246017,-23.443886],
-  "geometry": {"coordinates":[144.246017,-23.443886],"type":"Point"}
+  "bbox": [
+    144.246017,
+    -23.443886,
+    144.246017,
+    -23.443886
+],
+  "geometry": {"coordinates":[144.24601699999999,-23.443886],"type":"Point"}
 }

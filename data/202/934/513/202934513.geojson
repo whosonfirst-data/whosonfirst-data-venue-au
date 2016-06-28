@@ -2,13 +2,14 @@
   "id": 202934513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112915,-30.297565,153.112915,-30.297565",
     "geom:latitude":-30.297565,
     "geom:longitude":153.112915,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2 47 Grafton St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202934513,
-    "wof:lastmodified":1449060231,
+    "wof:lastmodified":1466190787,
     "wof:name":"H&R Block",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [153.112915,-30.297565,153.112915,-30.297565],
-  "geometry": {"coordinates":[153.112915,-30.297565],"type":"Point"}
+  "bbox": [
+    153.112915,
+    -30.297565,
+    153.112915,
+    -30.297565
+],
+  "geometry": {"coordinates":[153.11291499999999,-30.297565],"type":"Point"}
 }

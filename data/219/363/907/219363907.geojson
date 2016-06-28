@@ -2,13 +2,14 @@
   "id": 219363907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.541061,-35.326885,143.541061,-35.326885",
     "geom:latitude":-35.326885,
     "geom:longitude":143.541061,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Richards Rd",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219363907,
-    "wof:lastmodified":1449073494,
+    "wof:lastmodified":1466188045,
     "wof:name":"Murphy's Tarp Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tarpaulin"
     ]
 },
-  "bbox": [143.541061,-35.326885,143.541061,-35.326885],
-  "geometry": {"coordinates":[143.541061,-35.326885],"type":"Point"}
+  "bbox": [
+    143.541061,
+    -35.326885,
+    143.541061,
+    -35.326885
+],
+  "geometry": {"coordinates":[143.54106100000001,-35.326885],"type":"Point"}
 }

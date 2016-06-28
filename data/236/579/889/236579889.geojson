@@ -2,13 +2,14 @@
   "id": 236579889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.041107,-33.984791,151.041107,-33.984791",
     "geom:latitude":-33.984791,
     "geom:longitude":151.041107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Moons Ave",
     "sg:city":"Lugarno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236579889,
-    "wof:lastmodified":1449002541,
+    "wof:lastmodified":1466191572,
     "wof:name":"Harris Greg",
     "wof:parent_id":85769655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.041107,-33.984791,151.041107,-33.984791],
-  "geometry": {"coordinates":[151.041107,-33.984791],"type":"Point"}
+  "bbox": [
+    151.041107,
+    -33.984791,
+    151.041107,
+    -33.984791
+],
+  "geometry": {"coordinates":[151.04110700000001,-33.984791],"type":"Point"}
 }

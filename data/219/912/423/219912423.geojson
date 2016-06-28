@@ -2,13 +2,14 @@
   "id": 219912423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.914551,-34.343452,150.914551,-34.343452",
     "geom:latitude":-34.343452,
     "geom:longitude":150.914551,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3, 50 Campbell St",
     "sg:city":"Woonona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219912423,
-    "wof:lastmodified":1449072123,
+    "wof:lastmodified":1466191757,
     "wof:name":"Leisure Coast Fencing",
     "wof:parent_id":85776199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gate"
     ]
 },
-  "bbox": [150.914551,-34.343452,150.914551,-34.343452],
-  "geometry": {"coordinates":[150.914551,-34.343452],"type":"Point"}
+  "bbox": [
+    150.914551,
+    -34.343452,
+    150.914551,
+    -34.343452
+],
+  "geometry": {"coordinates":[150.91455099999999,-34.343452],"type":"Point"}
 }

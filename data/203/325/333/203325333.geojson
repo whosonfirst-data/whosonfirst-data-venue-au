@@ -2,13 +2,14 @@
   "id": 203325333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.822601,-37.571232,143.822601,-37.571232",
     "geom:latitude":-37.571232,
     "geom:longitude":143.822601,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Westend St",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203325333,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466188333,
     "wof:name":"Pelchen Robert Pty Ltd",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [143.822601,-37.571232,143.822601,-37.571232],
-  "geometry": {"coordinates":[143.822601,-37.571232],"type":"Point"}
+  "bbox": [
+    143.822601,
+    -37.571232,
+    143.822601,
+    -37.571232
+],
+  "geometry": {"coordinates":[143.82260099999999,-37.571232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252797539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.653397,-41.524883,146.653397,-41.524883",
     "geom:latitude":-41.524883,
     "geom:longitude":146.653397,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Emu Bay Rd",
     "sg:city":"Deloraine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252797539,
-    "wof:lastmodified":1449006410,
+    "wof:lastmodified":1466188118,
     "wof:name":"Deloraine First National Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.653397,-41.524883,146.653397,-41.524883],
-  "geometry": {"coordinates":[146.653397,-41.524883],"type":"Point"}
+  "bbox": [
+    146.653397,
+    -41.524883,
+    146.653397,
+    -41.524883
+],
+  "geometry": {"coordinates":[146.65339700000001,-41.524883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253117121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.829453,-37.772072,144.829453,-37.772072",
     "geom:latitude":-37.772072,
     "geom:longitude":144.829453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 McIntyre Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253117121,
-    "wof:lastmodified":1449064853,
+    "wof:lastmodified":1466189084,
     "wof:name":"Westend Hotel",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [144.829453,-37.772072,144.829453,-37.772072],
+  "bbox": [
+    144.829453,
+    -37.772072,
+    144.829453,
+    -37.772072
+],
   "geometry": {"coordinates":[144.829453,-37.772072],"type":"Point"}
 }

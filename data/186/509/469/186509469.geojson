@@ -2,13 +2,14 @@
   "id": 186509469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.767456,-19.2953,146.767456,-19.2953",
     "geom:latitude":-19.2953,
     "geom:longitude":146.767456,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 414",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186509469,
-    "wof:lastmodified":1449050385,
+    "wof:lastmodified":1466190599,
     "wof:name":"Tysons Bobcat & Truck Hire",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.767456,-19.2953,146.767456,-19.2953],
-  "geometry": {"coordinates":[146.767456,-19.2953],"type":"Point"}
+  "bbox": [
+    146.767456,
+    -19.2953,
+    146.767456,
+    -19.2953
+],
+  "geometry": {"coordinates":[146.76745600000001,-19.2953],"type":"Point"}
 }

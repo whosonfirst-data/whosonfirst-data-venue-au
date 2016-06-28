@@ -2,13 +2,14 @@
   "id": 253052405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.861435,-37.807526,144.861435,-37.807526",
     "geom:latitude":-37.807526,
     "geom:longitude":144.861435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3, 19- 23 Paramount Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253052405,
-    "wof:lastmodified":1449064163,
+    "wof:lastmodified":1466187947,
     "wof:name":"Simply Containers",
     "wof:parent_id":85775109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.861435,-37.807526,144.861435,-37.807526],
+  "bbox": [
+    144.861435,
+    -37.807526,
+    144.861435,
+    -37.807526
+],
   "geometry": {"coordinates":[144.861435,-37.807526],"type":"Point"}
 }

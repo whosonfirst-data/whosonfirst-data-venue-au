@@ -2,13 +2,14 @@
   "id": 252770471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.120728,-41.589706,147.120728,-41.589706",
     "geom:latitude":-41.589706,
     "geom:longitude":147.120728,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Wellington St",
     "sg:city":"Longford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252770471,
-    "wof:lastmodified":1449006539,
+    "wof:lastmodified":1466187883,
     "wof:name":"Chugg Des Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [147.120728,-41.589706,147.120728,-41.589706],
-  "geometry": {"coordinates":[147.120728,-41.589706],"type":"Point"}
+  "bbox": [
+    147.120728,
+    -41.589706,
+    147.120728,
+    -41.589706
+],
+  "geometry": {"coordinates":[147.12072800000001,-41.589706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203106835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.724609,-32.5247,115.724609,-32.5247",
     "geom:latitude":-32.5247,
     "geom:longitude":115.724609,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 115 Mandurah Forum Shopping Centre",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203106835,
-    "wof:lastmodified":1449024916,
+    "wof:lastmodified":1466189168,
     "wof:name":"Parent Link Home Visiting Service",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [115.724609,-32.5247,115.724609,-32.5247],
+  "bbox": [
+    115.724609,
+    -32.5247,
+    115.724609,
+    -32.5247
+],
   "geometry": {"coordinates":[115.724609,-32.5247],"type":"Point"}
 }

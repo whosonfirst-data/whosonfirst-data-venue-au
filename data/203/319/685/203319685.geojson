@@ -2,13 +2,14 @@
   "id": 203319685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840775,-37.598759,143.840775,-37.598759",
     "geom:latitude":-37.598759,
     "geom:longitude":143.840775,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 327",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319685,
-    "wof:lastmodified":1449025692,
+    "wof:lastmodified":1466188260,
     "wof:name":"Urbanwave Inc.",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [143.840775,-37.598759,143.840775,-37.598759],
-  "geometry": {"coordinates":[143.840775,-37.598759],"type":"Point"}
+  "bbox": [
+    143.840775,
+    -37.598759,
+    143.840775,
+    -37.598759
+],
+  "geometry": {"coordinates":[143.84077500000001,-37.598759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186160895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.915833,-30.708057,152.915833,-30.708057",
     "geom:latitude":-30.708057,
     "geom:longitude":152.915833,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Campus West St",
     "sg:city":"Macksville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186160895,
-    "wof:lastmodified":1449052577,
+    "wof:lastmodified":1466189853,
     "wof:name":"TAFE NSW - North Coast Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [152.915833,-30.708057,152.915833,-30.708057],
-  "geometry": {"coordinates":[152.915833,-30.708057],"type":"Point"}
+  "bbox": [
+    152.915833,
+    -30.708057,
+    152.915833,
+    -30.708057
+],
+  "geometry": {"coordinates":[152.91583299999999,-30.708057],"type":"Point"}
 }

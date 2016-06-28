@@ -2,13 +2,14 @@
   "id": 219784911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.128174,-33.874599,151.128174,-33.874599",
     "geom:latitude":-33.874599,
     "geom:longitude":151.128174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Parramatta Rd",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219784911,
-    "wof:lastmodified":1449072743,
+    "wof:lastmodified":1466191405,
     "wof:name":"Don Victor Car Rentals",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [151.128174,-33.874599,151.128174,-33.874599],
+  "bbox": [
+    151.128174,
+    -33.874599,
+    151.128174,
+    -33.874599
+],
   "geometry": {"coordinates":[151.128174,-33.874599],"type":"Point"}
 }

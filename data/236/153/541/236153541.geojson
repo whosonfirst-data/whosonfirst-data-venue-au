@@ -2,13 +2,14 @@
   "id": 236153541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.852188,-34.702518,135.852188,-34.702518",
     "geom:latitude":-34.702518,
     "geom:longitude":135.852188,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lindsay Ave",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236153541,
-    "wof:lastmodified":1449004015,
+    "wof:lastmodified":1466189535,
     "wof:name":"Hall D W & Y M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fisherman"
     ]
 },
-  "bbox": [135.852188,-34.702518,135.852188,-34.702518],
-  "geometry": {"coordinates":[135.852188,-34.702518],"type":"Point"}
+  "bbox": [
+    135.852188,
+    -34.702518,
+    135.852188,
+    -34.702518
+],
+  "geometry": {"coordinates":[135.85218800000001,-34.702518],"type":"Point"}
 }

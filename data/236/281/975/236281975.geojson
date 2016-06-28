@@ -2,13 +2,14 @@
   "id": 236281975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.74231,-32.324127,115.74231,-32.324127",
     "geom:latitude":-32.324127,
     "geom:longitude":115.74231,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Warnbro Beach Rd",
     "sg:city":"Waikiki",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236281975,
-    "wof:lastmodified":1449004644,
+    "wof:lastmodified":1466190343,
     "wof:name":"Wincanton Enterprises",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [115.74231,-32.324127,115.74231,-32.324127],
+  "bbox": [
+    115.74231,
+    -32.324127,
+    115.74231,
+    -32.324127
+],
   "geometry": {"coordinates":[115.74231,-32.324127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235984929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.747498,-36.960091,140.747498,-36.960091",
     "geom:latitude":-36.960091,
     "geom:longitude":140.747498,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Memorial Drv",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235984929,
-    "wof:lastmodified":1449008436,
+    "wof:lastmodified":1466187542,
     "wof:name":"Shane Hayes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [140.747498,-36.960091,140.747498,-36.960091],
-  "geometry": {"coordinates":[140.747498,-36.960091],"type":"Point"}
+  "bbox": [
+    140.747498,
+    -36.960091,
+    140.747498,
+    -36.960091
+],
+  "geometry": {"coordinates":[140.74749800000001,-36.960091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202436417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.955429,-37.833584,144.955429,-37.833584",
     "geom:latitude":-37.833584,
     "geom:longitude":144.955429,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Ferrars St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202436417,
-    "wof:lastmodified":1449062404,
+    "wof:lastmodified":1466188529,
     "wof:name":"Passionfoods",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organic"
     ]
 },
-  "bbox": [144.955429,-37.833584,144.955429,-37.833584],
-  "geometry": {"coordinates":[144.955429,-37.833584],"type":"Point"}
+  "bbox": [
+    144.955429,
+    -37.833584,
+    144.955429,
+    -37.833584
+],
+  "geometry": {"coordinates":[144.95542900000001,-37.833584],"type":"Point"}
 }

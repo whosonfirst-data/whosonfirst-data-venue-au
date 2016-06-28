@@ -2,13 +2,14 @@
   "id": 236719211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.475037,-31.905266,152.475037,-31.905266",
     "geom:latitude":-31.905266,
     "geom:longitude":152.475037,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Pacific Hwy",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236719211,
-    "wof:lastmodified":1449001995,
+    "wof:lastmodified":1466191861,
     "wof:name":"Chelmsford Farm Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [152.475037,-31.905266,152.475037,-31.905266],
-  "geometry": {"coordinates":[152.475037,-31.905266],"type":"Point"}
+  "bbox": [
+    152.475037,
+    -31.905266,
+    152.475037,
+    -31.905266
+],
+  "geometry": {"coordinates":[152.47503699999999,-31.905266],"type":"Point"}
 }

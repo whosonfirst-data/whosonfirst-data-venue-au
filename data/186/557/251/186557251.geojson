@@ -2,13 +2,14 @@
   "id": 186557251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143707,-33.894669,151.143707,-33.894669",
     "geom:latitude":-33.894669,
     "geom:longitude":151.143707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 McGill St",
     "sg:city":"Lewisham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186557251,
-    "wof:lastmodified":1449052271,
+    "wof:lastmodified":1466190738,
     "wof:name":"The T Shirt Printers Pty. Ltd.",
     "wof:parent_id":85774561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [151.143707,-33.894669,151.143707,-33.894669],
-  "geometry": {"coordinates":[151.143707,-33.894669],"type":"Point"}
+  "bbox": [
+    151.143707,
+    -33.894669,
+    151.143707,
+    -33.894669
+],
+  "geometry": {"coordinates":[151.14370700000001,-33.894669],"type":"Point"}
 }

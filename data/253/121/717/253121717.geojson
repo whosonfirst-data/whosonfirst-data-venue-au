@@ -2,13 +2,14 @@
   "id": 253121717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.205719,-33.87772,151.205719,-33.87772",
     "geom:latitude":-33.87772,
     "geom:longitude":151.205719,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1457",
     "sg:city":"Sydney South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253121717,
-    "wof:lastmodified":1449065104,
+    "wof:lastmodified":1466189179,
     "wof:name":"Brilliant Access",
     "wof:parent_id":85774353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [151.205719,-33.87772,151.205719,-33.87772],
-  "geometry": {"coordinates":[151.205719,-33.87772],"type":"Point"}
+  "bbox": [
+    151.205719,
+    -33.87772,
+    151.205719,
+    -33.87772
+],
+  "geometry": {"coordinates":[151.20571899999999,-33.87772],"type":"Point"}
 }

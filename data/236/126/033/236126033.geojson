@@ -2,13 +2,14 @@
   "id": 236126033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.886475,-37.769112,144.886475,-37.769112",
     "geom:latitude":-37.769112,
     "geom:longitude":144.886475,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"S3157 Level 3 High Point Shopping Centre",
     "sg:city":"Maribyrnong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236126033,
-    "wof:lastmodified":1449002749,
+    "wof:lastmodified":1466189167,
     "wof:name":"Noni B",
     "wof:parent_id":85771437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [144.886475,-37.769112,144.886475,-37.769112],
-  "geometry": {"coordinates":[144.886475,-37.769112],"type":"Point"}
+  "bbox": [
+    144.886475,
+    -37.769112,
+    144.886475,
+    -37.769112
+],
+  "geometry": {"coordinates":[144.88647499999999,-37.769112],"type":"Point"}
 }

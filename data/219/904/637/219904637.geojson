@@ -2,13 +2,14 @@
   "id": 219904637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.925079,-34.315948,150.925079,-34.315948",
     "geom:latitude":-34.315948,
     "geom:longitude":150.925079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Bath St",
     "sg:city":"Thirroul",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219904637,
-    "wof:lastmodified":1449074006,
+    "wof:lastmodified":1466191725,
     "wof:name":"Ken Ambrey",
     "wof:parent_id":85770439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [150.925079,-34.315948,150.925079,-34.315948],
-  "geometry": {"coordinates":[150.925079,-34.315948],"type":"Point"}
+  "bbox": [
+    150.925079,
+    -34.315948,
+    150.925079,
+    -34.315948
+],
+  "geometry": {"coordinates":[150.92507900000001,-34.315948],"type":"Point"}
 }

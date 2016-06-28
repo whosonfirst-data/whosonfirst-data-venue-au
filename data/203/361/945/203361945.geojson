@@ -2,13 +2,14 @@
   "id": 203361945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.833069,-37.563255,143.833069,-37.563255",
     "geom:latitude":-37.563255,
     "geom:longitude":143.833069,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 Eyre St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203361945,
-    "wof:lastmodified":1449026345,
+    "wof:lastmodified":1466188883,
     "wof:name":"Remax Real Estate Solutions",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.833069,-37.563255,143.833069,-37.563255],
-  "geometry": {"coordinates":[143.833069,-37.563255],"type":"Point"}
+  "bbox": [
+    143.833069,
+    -37.563255,
+    143.833069,
+    -37.563255
+],
+  "geometry": {"coordinates":[143.83306899999999,-37.563255],"type":"Point"}
 }

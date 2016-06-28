@@ -2,13 +2,14 @@
   "id": 203184701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.729813,-40.988693,145.729813,-40.988693",
     "geom:latitude":-40.988693,
     "geom:longitude":145.729813,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Goldie St",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203184701,
-    "wof:lastmodified":1449025266,
+    "wof:lastmodified":1466189936,
     "wof:name":"AJ's Bikes N More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [145.729813,-40.988693,145.729813,-40.988693],
-  "geometry": {"coordinates":[145.729813,-40.988693],"type":"Point"}
+  "bbox": [
+    145.729813,
+    -40.988693,
+    145.729813,
+    -40.988693
+],
+  "geometry": {"coordinates":[145.72981300000001,-40.988693],"type":"Point"}
 }

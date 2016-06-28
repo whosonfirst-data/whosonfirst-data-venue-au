@@ -2,13 +2,14 @@
   "id": 202685217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.991745,-27.365467,152.991745,-27.365467",
     "geom:latitude":-27.365467,
     "geom:longitude":152.991745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Becketts Rd",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202685217,
-    "wof:lastmodified":1449062570,
+    "wof:lastmodified":1466188555,
     "wof:name":"Elliott R G & P O",
     "wof:parent_id":85774013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [152.991745,-27.365467,152.991745,-27.365467],
-  "geometry": {"coordinates":[152.991745,-27.365467],"type":"Point"}
+  "bbox": [
+    152.991745,
+    -27.365467,
+    152.991745,
+    -27.365467
+],
+  "geometry": {"coordinates":[152.99174500000001,-27.365467],"type":"Point"}
 }

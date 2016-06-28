@@ -2,13 +2,14 @@
   "id": 169845043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.848801,-32.011234,115.848801,-32.011234",
     "geom:latitude":-32.011234,
     "geom:longitude":115.848801,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 5 16 Moreau Mews",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169845043,
-    "wof:lastmodified":1449033236,
+    "wof:lastmodified":1466189373,
     "wof:name":"Landlords Advisory Service",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [115.848801,-32.011234,115.848801,-32.011234],
-  "geometry": {"coordinates":[115.848801,-32.011234],"type":"Point"}
+  "bbox": [
+    115.848801,
+    -32.011234,
+    115.848801,
+    -32.011234
+],
+  "geometry": {"coordinates":[115.84880099999999,-32.011234],"type":"Point"}
 }

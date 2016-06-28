@@ -2,13 +2,14 @@
   "id": 202795429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.74472,-32.935284,151.74472,-32.935284",
     "geom:latitude":-32.935284,
     "geom:longitude":151.74472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Beaumont St",
     "sg:city":"Hamilton South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202795429,
-    "wof:lastmodified":1449061612,
+    "wof:lastmodified":1466190262,
     "wof:name":"Domicile Drafting",
     "wof:parent_id":85778067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [151.74472,-32.935284,151.74472,-32.935284],
+  "bbox": [
+    151.74472,
+    -32.935284,
+    151.74472,
+    -32.935284
+],
   "geometry": {"coordinates":[151.74472,-32.935284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186404385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.751175,-19.261934,146.751175,-19.261934",
     "geom:latitude":-19.261934,
     "geom:longitude":146.751175,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186404385,
-    "wof:lastmodified":1449052149,
+    "wof:lastmodified":1466189380,
     "wof:name":"Pioneer Road Services Pty Ltd",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "asphalt"
     ]
 },
-  "bbox": [146.751175,-19.261934,146.751175,-19.261934],
-  "geometry": {"coordinates":[146.751175,-19.261934],"type":"Point"}
+  "bbox": [
+    146.751175,
+    -19.261934,
+    146.751175,
+    -19.261934
+],
+  "geometry": {"coordinates":[146.75117499999999,-19.261934],"type":"Point"}
 }

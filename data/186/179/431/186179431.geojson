@@ -2,13 +2,14 @@
   "id": 186179431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.916306,-31.468609,152.916306,-31.468609",
     "geom:latitude":-31.468609,
     "geom:longitude":152.916306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Wiruna Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186179431,
-    "wof:lastmodified":1449052741,
+    "wof:lastmodified":1466186929,
     "wof:name":"Ianthe Paterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [152.916306,-31.468609,152.916306,-31.468609],
-  "geometry": {"coordinates":[152.916306,-31.468609],"type":"Point"}
+  "bbox": [
+    152.916306,
+    -31.468609,
+    152.916306,
+    -31.468609
+],
+  "geometry": {"coordinates":[152.91630599999999,-31.468609],"type":"Point"}
 }

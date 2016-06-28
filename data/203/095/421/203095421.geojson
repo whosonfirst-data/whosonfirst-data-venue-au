@@ -2,13 +2,14 @@
   "id": 203095421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.784737,-32.509258,115.784737,-32.509258",
     "geom:latitude":-32.509258,
     "geom:longitude":115.784737,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Ewing Crs",
     "sg:city":"Dawesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203095421,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466188979,
     "wof:name":"South Mandurah Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.784737,-32.509258,115.784737,-32.509258],
-  "geometry": {"coordinates":[115.784737,-32.509258],"type":"Point"}
+  "bbox": [
+    115.784737,
+    -32.509258,
+    115.784737,
+    -32.509258
+],
+  "geometry": {"coordinates":[115.78473700000001,-32.509258],"type":"Point"}
 }

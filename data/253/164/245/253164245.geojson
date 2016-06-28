@@ -2,13 +2,14 @@
   "id": 253164245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.944214,-27.572363,151.944214,-27.572363",
     "geom:latitude":-27.572363,
     "geom:longitude":151.944214,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Diagonal St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253164245,
-    "wof:lastmodified":1449063177,
+    "wof:lastmodified":1466189871,
     "wof:name":"Water Magic International Pty Ltd",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drinking"
     ]
 },
-  "bbox": [151.944214,-27.572363,151.944214,-27.572363],
-  "geometry": {"coordinates":[151.944214,-27.572363],"type":"Point"}
+  "bbox": [
+    151.944214,
+    -27.572363,
+    151.944214,
+    -27.572363
+],
+  "geometry": {"coordinates":[151.94421399999999,-27.572363],"type":"Point"}
 }

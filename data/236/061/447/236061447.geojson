@@ -2,13 +2,14 @@
   "id": 236061447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.919052,-37.75798,144.919052,-37.75798",
     "geom:latitude":-37.75798,
     "geom:longitude":144.919052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Mt Alexander Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236061447,
-    "wof:lastmodified":1449004143,
+    "wof:lastmodified":1466187853,
     "wof:name":"Essendon & Moonee Ponds Massage Centre",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [144.919052,-37.75798,144.919052,-37.75798],
-  "geometry": {"coordinates":[144.919052,-37.75798],"type":"Point"}
+  "bbox": [
+    144.919052,
+    -37.75798,
+    144.919052,
+    -37.75798
+],
+  "geometry": {"coordinates":[144.91905199999999,-37.75798],"type":"Point"}
 }

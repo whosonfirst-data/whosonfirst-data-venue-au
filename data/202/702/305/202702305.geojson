@@ -2,13 +2,14 @@
   "id": 202702305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.052536,-27.366547,153.052536,-27.366547",
     "geom:latitude":-27.366547,
     "geom:longitude":153.052536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Delta St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202702305,
-    "wof:lastmodified":1449061384,
+    "wof:lastmodified":1466188871,
     "wof:name":"Rentals To Go",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [153.052536,-27.366547,153.052536,-27.366547],
+  "bbox": [
+    153.052536,
+    -27.366547,
+    153.052536,
+    -27.366547
+],
   "geometry": {"coordinates":[153.052536,-27.366547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219566895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.030212,-33.915169,151.030212,-33.915169",
     "geom:latitude":-33.915169,
     "geom:longitude":151.030212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Gordon St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219566895,
-    "wof:lastmodified":1449070441,
+    "wof:lastmodified":1466190306,
     "wof:name":"Urban Demolition",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.030212,-33.915169,151.030212,-33.915169],
-  "geometry": {"coordinates":[151.030212,-33.915169],"type":"Point"}
+  "bbox": [
+    151.030212,
+    -33.915169,
+    151.030212,
+    -33.915169
+],
+  "geometry": {"coordinates":[151.03021200000001,-33.915169],"type":"Point"}
 }

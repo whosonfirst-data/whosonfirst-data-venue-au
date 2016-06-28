@@ -2,13 +2,14 @@
   "id": 185668163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.762527,-32.041119,115.762527,-32.041119",
     "geom:latitude":-32.041119,
     "geom:longitude":115.762527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Canning Hwy",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185668163,
-    "wof:lastmodified":1449007716,
+    "wof:lastmodified":1466188576,
     "wof:name":"East Fremantle Town Council",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "local"
     ]
 },
-  "bbox": [115.762527,-32.041119,115.762527,-32.041119],
-  "geometry": {"coordinates":[115.762527,-32.041119],"type":"Point"}
+  "bbox": [
+    115.762527,
+    -32.041119,
+    115.762527,
+    -32.041119
+],
+  "geometry": {"coordinates":[115.76252700000001,-32.041119],"type":"Point"}
 }

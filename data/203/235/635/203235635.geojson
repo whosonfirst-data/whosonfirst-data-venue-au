@@ -2,13 +2,14 @@
   "id": 203235635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.324036,-36.351936,146.324036,-36.351936",
     "geom:latitude":-36.351936,
     "geom:longitude":146.324036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Templeton St",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203235635,
-    "wof:lastmodified":1449025272,
+    "wof:lastmodified":1466187465,
     "wof:name":"Workways Association Inc. Employment Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.324036,-36.351936,146.324036,-36.351936],
-  "geometry": {"coordinates":[146.324036,-36.351936],"type":"Point"}
+  "bbox": [
+    146.324036,
+    -36.351936,
+    146.324036,
+    -36.351936
+],
+  "geometry": {"coordinates":[146.32403600000001,-36.351936],"type":"Point"}
 }

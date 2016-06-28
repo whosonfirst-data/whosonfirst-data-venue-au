@@ -2,13 +2,14 @@
   "id": 236217495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.503098,-38.061546,145.503098,-38.061546",
     "geom:latitude":-38.061546,
     "geom:longitude":145.503098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Jamie Crt",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236217495,
-    "wof:lastmodified":1449005013,
+    "wof:lastmodified":1466190125,
     "wof:name":"Adlib Young Performers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tuition"
     ]
 },
-  "bbox": [145.503098,-38.061546,145.503098,-38.061546],
-  "geometry": {"coordinates":[145.503098,-38.061546],"type":"Point"}
+  "bbox": [
+    145.503098,
+    -38.061546,
+    145.503098,
+    -38.061546
+],
+  "geometry": {"coordinates":[145.50309799999999,-38.061546],"type":"Point"}
 }

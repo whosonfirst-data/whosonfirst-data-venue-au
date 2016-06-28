@@ -2,13 +2,14 @@
   "id": 202659015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.029602,-27.441328,153.029602,-27.441328",
     "geom:latitude":-27.441328,
     "geom:longitude":153.029602,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Victoria St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202659015,
-    "wof:lastmodified":1449060376,
+    "wof:lastmodified":1466188055,
     "wof:name":"Big Chiefs",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pictures"
     ]
 },
-  "bbox": [153.029602,-27.441328,153.029602,-27.441328],
-  "geometry": {"coordinates":[153.029602,-27.441328],"type":"Point"}
+  "bbox": [
+    153.029602,
+    -27.441328,
+    153.029602,
+    -27.441328
+],
+  "geometry": {"coordinates":[153.02960200000001,-27.441328],"type":"Point"}
 }

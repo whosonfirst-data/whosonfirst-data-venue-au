@@ -2,13 +2,14 @@
   "id": 236114247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915802,-37.773117,144.915802,-37.773117",
     "geom:latitude":-37.773117,
     "geom:longitude":144.915802,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Union Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236114247,
-    "wof:lastmodified":1449002947,
+    "wof:lastmodified":1466188923,
     "wof:name":"Bakers Delight Ltd",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.915802,-37.773117,144.915802,-37.773117],
-  "geometry": {"coordinates":[144.915802,-37.773117],"type":"Point"}
+  "bbox": [
+    144.915802,
+    -37.773117,
+    144.915802,
+    -37.773117
+],
+  "geometry": {"coordinates":[144.91580200000001,-37.773117],"type":"Point"}
 }

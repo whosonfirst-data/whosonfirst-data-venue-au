@@ -2,13 +2,14 @@
   "id": 202770051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.768509,-32.931103,151.768509,-32.931103",
     "geom:latitude":-32.931103,
     "geom:longitude":151.768509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Bull St",
     "sg:city":"Cooks Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202770051,
-    "wof:lastmodified":1449062705,
+    "wof:lastmodified":1466190038,
     "wof:name":"Back To Back Galleries",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.768509,-32.931103,151.768509,-32.931103],
-  "geometry": {"coordinates":[151.768509,-32.931103],"type":"Point"}
+  "bbox": [
+    151.768509,
+    -32.931103,
+    151.768509,
+    -32.931103
+],
+  "geometry": {"coordinates":[151.76850899999999,-32.931103],"type":"Point"}
 }

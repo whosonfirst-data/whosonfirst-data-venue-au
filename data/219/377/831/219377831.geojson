@@ -2,13 +2,14 @@
   "id": 219377831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.546646,-35.326649,143.546646,-35.326649",
     "geom:latitude":-35.326649,
     "geom:longitude":143.546646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Karinie St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219377831,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466188173,
     "wof:name":"Swan Hill Powderkote",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "powder"
     ]
 },
-  "bbox": [143.546646,-35.326649,143.546646,-35.326649],
-  "geometry": {"coordinates":[143.546646,-35.326649],"type":"Point"}
+  "bbox": [
+    143.546646,
+    -35.326649,
+    143.546646,
+    -35.326649
+],
+  "geometry": {"coordinates":[143.54664600000001,-35.326649],"type":"Point"}
 }

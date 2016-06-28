@@ -2,13 +2,14 @@
   "id": 185668035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.767097,-32.03656,115.767097,-32.03656",
     "geom:latitude":-32.03656,
     "geom:longitude":115.767097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7A Silas Street East Fremantle Shopng Cntr",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185668035,
-    "wof:lastmodified":1449007716,
+    "wof:lastmodified":1466188575,
     "wof:name":"Davies Mark J Dr",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.767097,-32.03656,115.767097,-32.03656],
-  "geometry": {"coordinates":[115.767097,-32.03656],"type":"Point"}
+  "bbox": [
+    115.767097,
+    -32.03656,
+    115.767097,
+    -32.03656
+],
+  "geometry": {"coordinates":[115.76709700000001,-32.03656],"type":"Point"}
 }

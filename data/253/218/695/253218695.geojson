@@ -2,13 +2,14 @@
   "id": 253218695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.949966,-27.568565,151.949966,-27.568565",
     "geom:latitude":-27.568565,
     "geom:longitude":151.949966,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"174A James St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253218695,
-    "wof:lastmodified":1449064702,
+    "wof:lastmodified":1466190350,
     "wof:name":"Budget",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [151.949966,-27.568565,151.949966,-27.568565],
-  "geometry": {"coordinates":[151.949966,-27.568565],"type":"Point"}
+  "bbox": [
+    151.949966,
+    -27.568565,
+    151.949966,
+    -27.568565
+],
+  "geometry": {"coordinates":[151.94996599999999,-27.568565],"type":"Point"}
 }

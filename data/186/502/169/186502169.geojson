@@ -2,13 +2,14 @@
   "id": 186502169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.76622,-19.267794,146.76622,-19.267794",
     "geom:latitude":-19.267794,
     "geom:longitude":146.76622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Jackson St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186502169,
-    "wof:lastmodified":1449051598,
+    "wof:lastmodified":1466190399,
     "wof:name":"Australian Chemicals Pty. Ltd.",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [146.76622,-19.267794,146.76622,-19.267794],
+  "bbox": [
+    146.76622,
+    -19.267794,
+    146.76622,
+    -19.267794
+],
   "geometry": {"coordinates":[146.76622,-19.267794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186023291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.430557,-33.326565,151.430557,-33.326565",
     "geom:latitude":-33.326565,
     "geom:longitude":151.430557,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Chittaway Rd",
     "sg:city":"Chittaway Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186023291,
-    "wof:lastmodified":1449052756,
+    "wof:lastmodified":1466187569,
     "wof:name":"Chittaway Bay Public School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [151.430557,-33.326565,151.430557,-33.326565],
-  "geometry": {"coordinates":[151.430557,-33.326565],"type":"Point"}
+  "bbox": [
+    151.430557,
+    -33.326565,
+    151.430557,
+    -33.326565
+],
+  "geometry": {"coordinates":[151.43055699999999,-33.326565],"type":"Point"}
 }

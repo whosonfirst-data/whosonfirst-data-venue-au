@@ -2,13 +2,14 @@
   "id": 169792939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.591064,-38.606556,145.591064,-38.606556",
     "geom:latitude":-38.606556,
     "geom:longitude":145.591064,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 McBride Ave",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169792939,
-    "wof:lastmodified":1449033392,
+    "wof:lastmodified":1466188585,
     "wof:name":"Countrywide Retirement & Investment Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "retirement"
     ]
 },
-  "bbox": [145.591064,-38.606556,145.591064,-38.606556],
-  "geometry": {"coordinates":[145.591064,-38.606556],"type":"Point"}
+  "bbox": [
+    145.591064,
+    -38.606556,
+    145.591064,
+    -38.606556
+],
+  "geometry": {"coordinates":[145.59106399999999,-38.606556],"type":"Point"}
 }

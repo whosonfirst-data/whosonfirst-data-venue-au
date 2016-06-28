@@ -2,13 +2,14 @@
   "id": 236120829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915726,-37.773571,144.915726,-37.773571",
     "geom:latitude":-37.773571,
     "geom:longitude":144.915726,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Union Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236120829,
-    "wof:lastmodified":1449004678,
+    "wof:lastmodified":1466189061,
     "wof:name":"Alisun",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [144.915726,-37.773571,144.915726,-37.773571],
-  "geometry": {"coordinates":[144.915726,-37.773571],"type":"Point"}
+  "bbox": [
+    144.915726,
+    -37.773571,
+    144.915726,
+    -37.773571
+],
+  "geometry": {"coordinates":[144.91572600000001,-37.773571],"type":"Point"}
 }

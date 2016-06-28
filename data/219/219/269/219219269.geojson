@@ -2,13 +2,14 @@
   "id": 219219269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.06427,-27.418489,153.06427,-27.418489",
     "geom:latitude":-27.418489,
     "geom:longitude":153.06427,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Zillman Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219219269,
-    "wof:lastmodified":1449073770,
+    "wof:lastmodified":1466189836,
     "wof:name":"LA Spina Angela",
     "wof:parent_id":85774101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [153.06427,-27.418489,153.06427,-27.418489],
-  "geometry": {"coordinates":[153.06427,-27.418489],"type":"Point"}
+  "bbox": [
+    153.06427,
+    -27.418489,
+    153.06427,
+    -27.418489
+],
+  "geometry": {"coordinates":[153.06426999999999,-27.418489],"type":"Point"}
 }

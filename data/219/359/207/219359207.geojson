@@ -2,13 +2,14 @@
   "id": 219359207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.549973,-35.337868,143.549973,-35.337868",
     "geom:latitude":-35.337868,
     "geom:longitude":143.549973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Pritchard St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219359207,
-    "wof:lastmodified":1449070332,
+    "wof:lastmodified":1466188004,
     "wof:name":"Romeo L & G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.549973,-35.337868,143.549973,-35.337868],
-  "geometry": {"coordinates":[143.549973,-35.337868],"type":"Point"}
+  "bbox": [
+    143.549973,
+    -35.337868,
+    143.549973,
+    -35.337868
+],
+  "geometry": {"coordinates":[143.54997299999999,-35.337868],"type":"Point"}
 }

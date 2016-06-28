@@ -2,13 +2,14 @@
   "id": 219782287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143112,-33.888287,151.143112,-33.888287",
     "geom:latitude":-33.888287,
     "geom:longitude":151.143112,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Parramatta Rd",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219782287,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466191396,
     "wof:name":"Exel Car Rental",
     "wof:parent_id":85774547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [151.143112,-33.888287,151.143112,-33.888287],
+  "bbox": [
+    151.143112,
+    -33.888287,
+    151.143112,
+    -33.888287
+],
   "geometry": {"coordinates":[151.143112,-33.888287],"type":"Point"}
 }

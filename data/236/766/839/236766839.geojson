@@ -2,13 +2,14 @@
   "id": 236766839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.05455,-27.127567,153.05455,-27.127567",
     "geom:latitude":-27.127567,
     "geom:longitude":153.05455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Coronation Ave",
     "sg:city":"Beachmere",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236766839,
-    "wof:lastmodified":1449001645,
+    "wof:lastmodified":1466191918,
     "wof:name":"Frank McCrae Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.05455,-27.127567,153.05455,-27.127567],
-  "geometry": {"coordinates":[153.05455,-27.127567],"type":"Point"}
+  "bbox": [
+    153.05455,
+    -27.127567,
+    153.05455,
+    -27.127567
+],
+  "geometry": {"coordinates":[153.05455000000001,-27.127567],"type":"Point"}
 }

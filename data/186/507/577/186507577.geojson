@@ -2,13 +2,14 @@
   "id": 186507577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.775085,-19.312553,146.775085,-19.312553",
     "geom:latitude":-19.312553,
     "geom:longitude":146.775085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Lupin Crt",
     "sg:city":"Annandale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186507577,
-    "wof:lastmodified":1449051748,
+    "wof:lastmodified":1466190587,
     "wof:name":"Cutmore J A & M R",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.775085,-19.312553,146.775085,-19.312553],
-  "geometry": {"coordinates":[146.775085,-19.312553],"type":"Point"}
+  "bbox": [
+    146.775085,
+    -19.312553,
+    146.775085,
+    -19.312553
+],
+  "geometry": {"coordinates":[146.77508499999999,-19.312553],"type":"Point"}
 }

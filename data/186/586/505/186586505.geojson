@@ -2,13 +2,14 @@
   "id": 186586505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.865585,-36.570686,143.865585,-36.570686",
     "geom:latitude":-36.570686,
     "geom:longitude":143.865585,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Calder Hwy",
     "sg:city":"Inglewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186586505,
-    "wof:lastmodified":1449052714,
+    "wof:lastmodified":1466190988,
     "wof:name":"Inglewood Motel & Caravan Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.865585,-36.570686,143.865585,-36.570686],
-  "geometry": {"coordinates":[143.865585,-36.570686],"type":"Point"}
+  "bbox": [
+    143.865585,
+    -36.570686,
+    143.865585,
+    -36.570686
+],
+  "geometry": {"coordinates":[143.86558500000001,-36.570686],"type":"Point"}
 }

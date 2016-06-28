@@ -2,13 +2,14 @@
   "id": 202752449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.872253,-32.041752,115.872253,-32.041752",
     "geom:latitude":-32.041752,
     "geom:longitude":115.872253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Wilber St",
     "sg:city":"Rossmoyne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202752449,
-    "wof:lastmodified":1449060525,
+    "wof:lastmodified":1466189764,
     "wof:name":"Rossmoyne Dental Centre",
     "wof:parent_id":85775621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.872253,-32.041752,115.872253,-32.041752],
+  "bbox": [
+    115.872253,
+    -32.041752,
+    115.872253,
+    -32.041752
+],
   "geometry": {"coordinates":[115.872253,-32.041752],"type":"Point"}
 }

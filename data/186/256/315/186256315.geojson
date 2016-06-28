@@ -2,13 +2,14 @@
   "id": 186256315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.883102,-31.426914,152.883102,-31.426914",
     "geom:latitude":-31.426914,
     "geom:longitude":152.883102,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Hibbard Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186256315,
-    "wof:lastmodified":1449052373,
+    "wof:lastmodified":1466187458,
     "wof:name":"Heather Tchan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "therapist"
     ]
 },
-  "bbox": [152.883102,-31.426914,152.883102,-31.426914],
-  "geometry": {"coordinates":[152.883102,-31.426914],"type":"Point"}
+  "bbox": [
+    152.883102,
+    -31.426914,
+    152.883102,
+    -31.426914
+],
+  "geometry": {"coordinates":[152.88310200000001,-31.426914],"type":"Point"}
 }

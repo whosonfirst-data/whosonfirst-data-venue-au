@@ -2,13 +2,14 @@
   "id": 236534143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.871796,-26.318108,151.871796,-26.318108",
     "geom:latitude":-26.318108,
     "geom:longitude":151.871796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Haly St",
     "sg:city":"Wondai",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236534143,
-    "wof:lastmodified":1449002323,
+    "wof:lastmodified":1466191373,
     "wof:name":"Mobil Service Centre Wondai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.871796,-26.318108,151.871796,-26.318108],
-  "geometry": {"coordinates":[151.871796,-26.318108],"type":"Point"}
+  "bbox": [
+    151.871796,
+    -26.318108,
+    151.871796,
+    -26.318108
+],
+  "geometry": {"coordinates":[151.87179599999999,-26.318108],"type":"Point"}
 }

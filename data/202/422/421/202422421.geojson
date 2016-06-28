@@ -2,13 +2,14 @@
   "id": 202422421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942764,-37.844173,144.942764,-37.844173",
     "geom:latitude":-37.844173,
     "geom:longitude":144.942764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Johnston St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202422421,
-    "wof:lastmodified":1449060286,
+    "wof:lastmodified":1466188178,
     "wof:name":"Westbay Management Group Pty Ltd",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [144.942764,-37.844173,144.942764,-37.844173],
-  "geometry": {"coordinates":[144.942764,-37.844173],"type":"Point"}
+  "bbox": [
+    144.942764,
+    -37.844173,
+    144.942764,
+    -37.844173
+],
+  "geometry": {"coordinates":[144.94276400000001,-37.844173],"type":"Point"}
 }

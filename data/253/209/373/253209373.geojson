@@ -2,13 +2,14 @@
   "id": 253209373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.924072,-27.541397,151.924072,-27.541397",
     "geom:latitude":-27.541397,
     "geom:longitude":151.924072,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilsonton Medical Centre, Richmond Drv",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253209373,
-    "wof:lastmodified":1449065465,
+    "wof:lastmodified":1466190167,
     "wof:name":"CROZIER Julie Dr",
     "wof:parent_id":85779897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.924072,-27.541397,151.924072,-27.541397],
+  "bbox": [
+    151.924072,
+    -27.541397,
+    151.924072,
+    -27.541397
+],
   "geometry": {"coordinates":[151.924072,-27.541397],"type":"Point"}
 }

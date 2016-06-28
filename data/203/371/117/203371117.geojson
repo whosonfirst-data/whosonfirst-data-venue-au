@@ -2,13 +2,14 @@
   "id": 203371117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.883499,-37.557312,143.883499,-37.557312",
     "geom:latitude":-37.557312,
     "geom:longitude":143.883499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Scott Pde",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203371117,
-    "wof:lastmodified":1449026407,
+    "wof:lastmodified":1466189045,
     "wof:name":"McCanns Dairy Centre Pty Ltd",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.883499,-37.557312,143.883499,-37.557312],
+  "bbox": [
+    143.883499,
+    -37.557312,
+    143.883499,
+    -37.557312
+],
   "geometry": {"coordinates":[143.883499,-37.557312],"type":"Point"}
 }

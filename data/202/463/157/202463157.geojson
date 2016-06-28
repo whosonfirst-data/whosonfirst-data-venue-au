@@ -2,13 +2,14 @@
   "id": 202463157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959671,-37.82962,144.959671,-37.82962",
     "geom:latitude":-37.82962,
     "geom:longitude":144.959671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2, 47 Market St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202463157,
-    "wof:lastmodified":1449061856,
+    "wof:lastmodified":1466188975,
     "wof:name":"Annells & Associates Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [144.959671,-37.82962,144.959671,-37.82962],
-  "geometry": {"coordinates":[144.959671,-37.82962],"type":"Point"}
+  "bbox": [
+    144.959671,
+    -37.82962,
+    144.959671,
+    -37.82962
+],
+  "geometry": {"coordinates":[144.95967099999999,-37.82962],"type":"Point"}
 }

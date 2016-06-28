@@ -2,13 +2,14 @@
   "id": 236682425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.555023,-31.879387,152.555023,-31.879387",
     "geom:latitude":-31.879387,
     "geom:longitude":152.555023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot1/ Moto Rd",
     "sg:city":"Ghinni Ghinni",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236682425,
-    "wof:lastmodified":1449002106,
+    "wof:lastmodified":1466191903,
     "wof:name":"The Other Side Gallery Tea House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.555023,-31.879387,152.555023,-31.879387],
-  "geometry": {"coordinates":[152.555023,-31.879387],"type":"Point"}
+  "bbox": [
+    152.555023,
+    -31.879387,
+    152.555023,
+    -31.879387
+],
+  "geometry": {"coordinates":[152.55502300000001,-31.879387],"type":"Point"}
 }

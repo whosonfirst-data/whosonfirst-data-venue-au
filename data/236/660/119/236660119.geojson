@@ -2,13 +2,14 @@
   "id": 236660119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.117554,-33.968311,151.117554,-33.968311",
     "geom:latitude":-33.968311,
     "geom:longitude":151.117554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Botany St",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236660119,
-    "wof:lastmodified":1449004835,
+    "wof:lastmodified":1466191783,
     "wof:name":"Wilkinson Lance",
     "wof:parent_id":85774241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [151.117554,-33.968311,151.117554,-33.968311],
-  "geometry": {"coordinates":[151.117554,-33.968311],"type":"Point"}
+  "bbox": [
+    151.117554,
+    -33.968311,
+    151.117554,
+    -33.968311
+],
+  "geometry": {"coordinates":[151.11755400000001,-33.968311],"type":"Point"}
 }

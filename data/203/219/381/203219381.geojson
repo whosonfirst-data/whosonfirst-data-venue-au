@@ -2,13 +2,14 @@
   "id": 203219381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.903503,-41.051632,145.903503,-41.051632",
     "geom:latitude":-41.051632,
     "geom:longitude":145.903503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Alexander St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203219381,
-    "wof:lastmodified":1449026795,
+    "wof:lastmodified":1466187293,
     "wof:name":"Alexander Beetle House",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [145.903503,-41.051632,145.903503,-41.051632],
+  "bbox": [
+    145.903503,
+    -41.051632,
+    145.903503,
+    -41.051632
+],
   "geometry": {"coordinates":[145.903503,-41.051632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253271175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.961685,-27.549694,151.961685,-27.549694",
     "geom:latitude":-27.549694,
     "geom:longitude":151.961685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Francis St",
     "sg:city":"Acland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253271175,
-    "wof:lastmodified":1449064372,
+    "wof:lastmodified":1466190627,
     "wof:name":"Starline Industries",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [151.961685,-27.549694,151.961685,-27.549694],
-  "geometry": {"coordinates":[151.961685,-27.549694],"type":"Point"}
+  "bbox": [
+    151.961685,
+    -27.549694,
+    151.961685,
+    -27.549694
+],
+  "geometry": {"coordinates":[151.96168499999999,-27.549694],"type":"Point"}
 }

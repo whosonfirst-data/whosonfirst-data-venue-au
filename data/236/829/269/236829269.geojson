@@ -2,13 +2,14 @@
   "id": 236829269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.891754,-34.429745,150.891754,-34.429745",
     "geom:latitude":-34.429745,
     "geom:longitude":150.891754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Ellen St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236829269,
-    "wof:lastmodified":1449004992,
+    "wof:lastmodified":1466192008,
     "wof:name":"Kenwalls Fencing Centre",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gate"
     ]
 },
-  "bbox": [150.891754,-34.429745,150.891754,-34.429745],
-  "geometry": {"coordinates":[150.891754,-34.429745],"type":"Point"}
+  "bbox": [
+    150.891754,
+    -34.429745,
+    150.891754,
+    -34.429745
+],
+  "geometry": {"coordinates":[150.89175399999999,-34.429745],"type":"Point"}
 }

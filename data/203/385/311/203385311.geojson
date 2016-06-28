@@ -2,13 +2,14 @@
   "id": 203385311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.858139,-37.550816,143.858139,-37.550816",
     "geom:latitude":-37.550816,
     "geom:longitude":143.858139,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"402A Macarthur St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203385311,
-    "wof:lastmodified":1449026071,
+    "wof:lastmodified":1466189292,
     "wof:name":"Peak Software",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [143.858139,-37.550816,143.858139,-37.550816],
-  "geometry": {"coordinates":[143.858139,-37.550816],"type":"Point"}
+  "bbox": [
+    143.858139,
+    -37.550816,
+    143.858139,
+    -37.550816
+],
+  "geometry": {"coordinates":[143.85813899999999,-37.550816],"type":"Point"}
 }

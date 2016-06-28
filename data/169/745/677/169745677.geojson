@@ -2,13 +2,14 @@
   "id": 169745677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.111374,-27.203474,153.111374,-27.203474",
     "geom:latitude":-27.203474,
     "geom:longitude":153.111374,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Turner St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169745677,
-    "wof:lastmodified":1449035812,
+    "wof:lastmodified":1466187718,
     "wof:name":"Bruhn Rebecca",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [153.111374,-27.203474,153.111374,-27.203474],
-  "geometry": {"coordinates":[153.111374,-27.203474],"type":"Point"}
+  "bbox": [
+    153.111374,
+    -27.203474,
+    153.111374,
+    -27.203474
+],
+  "geometry": {"coordinates":[153.11137400000001,-27.203474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169738575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.990479,-12.469663,130.990479,-12.469663",
     "geom:latitude":-12.469663,
     "geom:longitude":130.990479,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U2/ 2 Pierssene Rd",
     "sg:city":"Yarrawonga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169738575,
-    "wof:lastmodified":1449035095,
+    "wof:lastmodified":1466187563,
     "wof:name":"Darwin Marine Painting",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [130.990479,-12.469663,130.990479,-12.469663],
-  "geometry": {"coordinates":[130.990479,-12.469663],"type":"Point"}
+  "bbox": [
+    130.990479,
+    -12.469663,
+    130.990479,
+    -12.469663
+],
+  "geometry": {"coordinates":[130.99047899999999,-12.469663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202729971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.643173,-34.783688,138.643173,-34.783688",
     "geom:latitude":-34.783688,
     "geom:longitude":138.643173,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pentland Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202729971,
-    "wof:lastmodified":1449061400,
+    "wof:lastmodified":1466189398,
     "wof:name":"Antrim Upholstery",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [138.643173,-34.783688,138.643173,-34.783688],
-  "geometry": {"coordinates":[138.643173,-34.783688],"type":"Point"}
+  "bbox": [
+    138.643173,
+    -34.783688,
+    138.643173,
+    -34.783688
+],
+  "geometry": {"coordinates":[138.64317299999999,-34.783688],"type":"Point"}
 }

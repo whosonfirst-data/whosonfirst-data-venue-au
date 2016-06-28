@@ -2,13 +2,14 @@
   "id": 203095569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.688911,-32.554157,115.688911,-32.554157",
     "geom:latitude":-32.554157,
     "geom:longitude":115.688911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Muntries Pl",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203095569,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466188981,
     "wof:name":"PKB Limousines",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "limousine"
     ]
 },
-  "bbox": [115.688911,-32.554157,115.688911,-32.554157],
+  "bbox": [
+    115.688911,
+    -32.554157,
+    115.688911,
+    -32.554157
+],
   "geometry": {"coordinates":[115.688911,-32.554157],"type":"Point"}
 }

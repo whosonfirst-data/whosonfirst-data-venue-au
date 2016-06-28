@@ -2,13 +2,14 @@
   "id": 236613545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.131592,-33.965714,151.131592,-33.965714",
     "geom:latitude":-33.965714,
     "geom:longitude":151.131592,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Railway Pde",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236613545,
-    "wof:lastmodified":1449003135,
+    "wof:lastmodified":1466191673,
     "wof:name":"Family Hair Care",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.131592,-33.965714,151.131592,-33.965714],
-  "geometry": {"coordinates":[151.131592,-33.965714],"type":"Point"}
+  "bbox": [
+    151.131592,
+    -33.965714,
+    151.131592,
+    -33.965714
+],
+  "geometry": {"coordinates":[151.13159200000001,-33.965714],"type":"Point"}
 }

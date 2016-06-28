@@ -2,13 +2,14 @@
   "id": 203365493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.859665,-37.561859,143.859665,-37.561859",
     "geom:latitude":-37.561859,
     "geom:longitude":143.859665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203365493,
-    "wof:lastmodified":1449025243,
+    "wof:lastmodified":1466188945,
     "wof:name":"Rock, Lock & Roll Car Sound & Security",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alarm"
     ]
 },
-  "bbox": [143.859665,-37.561859,143.859665,-37.561859],
-  "geometry": {"coordinates":[143.859665,-37.561859],"type":"Point"}
+  "bbox": [
+    143.859665,
+    -37.561859,
+    143.859665,
+    -37.561859
+],
+  "geometry": {"coordinates":[143.85966500000001,-37.561859],"type":"Point"}
 }

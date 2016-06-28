@@ -2,13 +2,14 @@
   "id": 219508719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.132996,-33.910351,151.132996,-33.910351",
     "geom:latitude":-33.910351,
     "geom:longitude":151.132996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Floss St",
     "sg:city":"Hurlstone Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219508719,
-    "wof:lastmodified":1449072353,
+    "wof:lastmodified":1466189677,
     "wof:name":"Porter's Liquor",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.132996,-33.910351,151.132996,-33.910351],
-  "geometry": {"coordinates":[151.132996,-33.910351],"type":"Point"}
+  "bbox": [
+    151.132996,
+    -33.910351,
+    151.132996,
+    -33.910351
+],
+  "geometry": {"coordinates":[151.13299599999999,-33.910351],"type":"Point"}
 }

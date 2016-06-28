@@ -2,13 +2,14 @@
   "id": 186284829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.898743,-31.43495,152.898743,-31.43495",
     "geom:latitude":-31.43495,
     "geom:longitude":152.898743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Oxley Hwy",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186284829,
-    "wof:lastmodified":1449052032,
+    "wof:lastmodified":1466187659,
     "wof:name":"Port Macquarie Racecourse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "racing"
     ]
 },
-  "bbox": [152.898743,-31.43495,152.898743,-31.43495],
+  "bbox": [
+    152.898743,
+    -31.43495,
+    152.898743,
+    -31.43495
+],
   "geometry": {"coordinates":[152.898743,-31.43495],"type":"Point"}
 }

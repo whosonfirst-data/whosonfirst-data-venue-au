@@ -2,13 +2,14 @@
   "id": 219649241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.113724,-33.949024,151.113724,-33.949024",
     "geom:latitude":-33.949024,
     "geom:longitude":151.113724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Stoney Creek Rd",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219649241,
-    "wof:lastmodified":1449072792,
+    "wof:lastmodified":1466190901,
     "wof:name":"Katholos",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [151.113724,-33.949024,151.113724,-33.949024],
-  "geometry": {"coordinates":[151.113724,-33.949024],"type":"Point"}
+  "bbox": [
+    151.113724,
+    -33.949024,
+    151.113724,
+    -33.949024
+],
+  "geometry": {"coordinates":[151.11372399999999,-33.949024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186511639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.761124,-19.299479,146.761124,-19.299479",
     "geom:latitude":-19.299479,
     "geom:longitude":146.761124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Nathan St",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186511639,
-    "wof:lastmodified":1449051615,
+    "wof:lastmodified":1466190619,
     "wof:name":"Walkers Hot Bread (T'Ville)",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [146.761124,-19.299479,146.761124,-19.299479],
+  "bbox": [
+    146.761124,
+    -19.299479,
+    146.761124,
+    -19.299479
+],
   "geometry": {"coordinates":[146.761124,-19.299479],"type":"Point"}
 }

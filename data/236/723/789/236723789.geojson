@@ -2,13 +2,14 @@
   "id": 236723789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.456696,-31.914343,152.456696,-31.914343",
     "geom:latitude":-31.914343,
     "geom:longitude":152.456696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Commerce St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236723789,
-    "wof:lastmodified":1449003602,
+    "wof:lastmodified":1466191872,
     "wof:name":"Wardle Custom Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [152.456696,-31.914343,152.456696,-31.914343],
-  "geometry": {"coordinates":[152.456696,-31.914343],"type":"Point"}
+  "bbox": [
+    152.456696,
+    -31.914343,
+    152.456696,
+    -31.914343
+],
+  "geometry": {"coordinates":[152.45669599999999,-31.914343],"type":"Point"}
 }

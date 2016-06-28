@@ -2,13 +2,14 @@
   "id": 236394559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.782692,-32.24514,115.782692,-32.24514",
     "geom:latitude":-32.24514,
     "geom:longitude":115.782692,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, Lot 430 Beach St",
     "sg:city":"Kwinana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236394559,
-    "wof:lastmodified":1449002158,
+    "wof:lastmodified":1466191102,
     "wof:name":"Skilled",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.782692,-32.24514,115.782692,-32.24514],
+  "bbox": [
+    115.782692,
+    -32.24514,
+    115.782692,
+    -32.24514
+],
   "geometry": {"coordinates":[115.782692,-32.24514],"type":"Point"}
 }

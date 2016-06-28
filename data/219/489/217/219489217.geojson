@@ -2,13 +2,14 @@
   "id": 219489217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.059448,-33.900673,151.059448,-33.900673",
     "geom:latitude":-33.900673,
     "geom:longitude":151.059448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Pandora St",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219489217,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466189304,
     "wof:name":"Precision Waste Management",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rubbish"
     ]
 },
-  "bbox": [151.059448,-33.900673,151.059448,-33.900673],
+  "bbox": [
+    151.059448,
+    -33.900673,
+    151.059448,
+    -33.900673
+],
   "geometry": {"coordinates":[151.059448,-33.900673],"type":"Point"}
 }

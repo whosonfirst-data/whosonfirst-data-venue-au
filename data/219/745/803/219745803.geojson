@@ -2,13 +2,14 @@
   "id": 219745803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.771454,-19.282581,146.771454,-19.282581",
     "geom:latitude":-19.282581,
     "geom:longitude":146.771454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Mooney St",
     "sg:city":"Gulliver",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219745803,
-    "wof:lastmodified":1449073757,
+    "wof:lastmodified":1466191267,
     "wof:name":"A Acrylic Affair",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artificial"
     ]
 },
-  "bbox": [146.771454,-19.282581,146.771454,-19.282581],
-  "geometry": {"coordinates":[146.771454,-19.282581],"type":"Point"}
+  "bbox": [
+    146.771454,
+    -19.282581,
+    146.771454,
+    -19.282581
+],
+  "geometry": {"coordinates":[146.77145400000001,-19.282581],"type":"Point"}
 }

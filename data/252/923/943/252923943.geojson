@@ -2,13 +2,14 @@
   "id": 252923943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.77269,-36.319847,140.77269,-36.319847",
     "geom:latitude":-36.319847,
     "geom:longitude":140.77269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 South Ave",
     "sg:city":"Bordertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252923943,
-    "wof:lastmodified":1449006463,
+    "wof:lastmodified":1466189204,
     "wof:name":"Scofield Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [140.77269,-36.319847,140.77269,-36.319847],
-  "geometry": {"coordinates":[140.77269,-36.319847],"type":"Point"}
+  "bbox": [
+    140.77269,
+    -36.319847,
+    140.77269,
+    -36.319847
+],
+  "geometry": {"coordinates":[140.77269000000001,-36.319847],"type":"Point"}
 }

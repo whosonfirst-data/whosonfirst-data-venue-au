@@ -2,13 +2,14 @@
   "id": 202932167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.090927,-30.317938,153.090927,-30.317938",
     "geom:latitude":-30.317938,
     "geom:longitude":153.090927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Pacific Hwy",
     "sg:city":"Coffs Harbour North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202932167,
-    "wof:lastmodified":1449061051,
+    "wof:lastmodified":1466190767,
     "wof:name":"Stickerman Signs & Banners",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [153.090927,-30.317938,153.090927,-30.317938],
-  "geometry": {"coordinates":[153.090927,-30.317938],"type":"Point"}
+  "bbox": [
+    153.090927,
+    -30.317938,
+    153.090927,
+    -30.317938
+],
+  "geometry": {"coordinates":[153.09092699999999,-30.317938],"type":"Point"}
 }

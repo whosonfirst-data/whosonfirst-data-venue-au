@@ -2,13 +2,14 @@
   "id": 235951671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.949844,-30.094824,145.949844,-30.094824",
     "geom:latitude":-30.094824,
     "geom:longitude":145.949844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Denman St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235951671,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466187074,
     "wof:name":"Mourais Sam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contracting"
     ]
 },
-  "bbox": [145.949844,-30.094824,145.949844,-30.094824],
-  "geometry": {"coordinates":[145.949844,-30.094824],"type":"Point"}
+  "bbox": [
+    145.949844,
+    -30.094824,
+    145.949844,
+    -30.094824
+],
+  "geometry": {"coordinates":[145.94984400000001,-30.094824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185711251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.861191,-32.735611,151.861191,-32.735611",
     "geom:latitude":-32.735611,
     "geom:longitude":151.861191,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Kirrang Drive St",
     "sg:city":"Medowie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185711251,
-    "wof:lastmodified":1449007929,
+    "wof:lastmodified":1466189234,
     "wof:name":"G E D Training Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.861191,-32.735611,151.861191,-32.735611],
-  "geometry": {"coordinates":[151.861191,-32.735611],"type":"Point"}
+  "bbox": [
+    151.861191,
+    -32.735611,
+    151.861191,
+    -32.735611
+],
+  "geometry": {"coordinates":[151.86119099999999,-32.735611],"type":"Point"}
 }

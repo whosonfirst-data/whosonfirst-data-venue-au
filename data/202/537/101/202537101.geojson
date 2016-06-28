@@ -2,13 +2,14 @@
   "id": 202537101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.148453,-38.124763,145.148453,-38.124763",
     "geom:latitude":-38.124763,
     "geom:longitude":145.148453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Monterey Secondary College Silvertop St",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202537101,
-    "wof:lastmodified":1449060742,
+    "wof:lastmodified":1466189861,
     "wof:name":"Seaford Badminton Club Inc.",
     "wof:parent_id":85776451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "badminton"
     ]
 },
-  "bbox": [145.148453,-38.124763,145.148453,-38.124763],
-  "geometry": {"coordinates":[145.148453,-38.124763],"type":"Point"}
+  "bbox": [
+    145.148453,
+    -38.124763,
+    145.148453,
+    -38.124763
+],
+  "geometry": {"coordinates":[145.14845299999999,-38.124763],"type":"Point"}
 }

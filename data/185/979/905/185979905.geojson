@@ -2,13 +2,14 @@
   "id": 185979905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.434525,-33.435196,151.434525,-33.435196",
     "geom:latitude":-33.435196,
     "geom:longitude":151.434525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Woodland Rd",
     "sg:city":"Terrigal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185979905,
-    "wof:lastmodified":1449007735,
+    "wof:lastmodified":1466188728,
     "wof:name":"Crystal Workplace Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.434525,-33.435196,151.434525,-33.435196],
-  "geometry": {"coordinates":[151.434525,-33.435196],"type":"Point"}
+  "bbox": [
+    151.434525,
+    -33.435196,
+    151.434525,
+    -33.435196
+],
+  "geometry": {"coordinates":[151.43452500000001,-33.435196],"type":"Point"}
 }

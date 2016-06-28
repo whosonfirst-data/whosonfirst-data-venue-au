@@ -2,13 +2,14 @@
   "id": 235957225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.916092,-12.401486,130.916092,-12.401486",
     "geom:latitude":-12.401486,
     "geom:longitude":130.916092,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 37 Kalymnos Drv",
     "sg:city":"Karama",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235957225,
-    "wof:lastmodified":1449008546,
+    "wof:lastmodified":1466187178,
     "wof:name":"Lyndall's Hair Care",
     "wof:parent_id":85774849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [130.916092,-12.401486,130.916092,-12.401486],
-  "geometry": {"coordinates":[130.916092,-12.401486],"type":"Point"}
+  "bbox": [
+    130.916092,
+    -12.401486,
+    130.916092,
+    -12.401486
+],
+  "geometry": {"coordinates":[130.91609199999999,-12.401486],"type":"Point"}
 }

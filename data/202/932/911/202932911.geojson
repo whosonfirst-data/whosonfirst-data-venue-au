@@ -2,13 +2,14 @@
   "id": 202932911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.12149,-30.302303,153.12149,-30.302303",
     "geom:latitude":-30.302303,
     "geom:longitude":153.12149,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Salamander St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202932911,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466190779,
     "wof:name":"Coffs Harbour Public School",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [153.12149,-30.302303,153.12149,-30.302303],
-  "geometry": {"coordinates":[153.12149,-30.302303],"type":"Point"}
+  "bbox": [
+    153.12149,
+    -30.302303,
+    153.12149,
+    -30.302303
+],
+  "geometry": {"coordinates":[153.12148999999999,-30.302303],"type":"Point"}
 }

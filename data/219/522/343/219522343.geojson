@@ -2,13 +2,14 @@
   "id": 219522343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.109299,-33.903736,151.109299,-33.903736",
     "geom:latitude":-33.903736,
     "geom:longitude":151.109299,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Adam St",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219522343,
-    "wof:lastmodified":1449072073,
+    "wof:lastmodified":1466189939,
     "wof:name":"ARC Floor Services",
     "wof:parent_id":85776855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [151.109299,-33.903736,151.109299,-33.903736],
-  "geometry": {"coordinates":[151.109299,-33.903736],"type":"Point"}
+  "bbox": [
+    151.109299,
+    -33.903736,
+    151.109299,
+    -33.903736
+],
+  "geometry": {"coordinates":[151.10929899999999,-33.903736],"type":"Point"}
 }

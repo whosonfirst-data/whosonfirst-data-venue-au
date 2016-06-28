@@ -2,13 +2,14 @@
   "id": 236765845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.948715,-27.084805,152.948715,-27.084805",
     "geom:latitude":-27.084805,
     "geom:longitude":152.948715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiosk K1 Caboolture Park Shopping Centre, 60 - 78 King St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236765845,
-    "wof:lastmodified":1449003574,
+    "wof:lastmodified":1466191920,
     "wof:name":"Mister Minit",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [152.948715,-27.084805,152.948715,-27.084805],
-  "geometry": {"coordinates":[152.948715,-27.084805],"type":"Point"}
+  "bbox": [
+    152.948715,
+    -27.084805,
+    152.948715,
+    -27.084805
+],
+  "geometry": {"coordinates":[152.94871499999999,-27.084805],"type":"Point"}
 }

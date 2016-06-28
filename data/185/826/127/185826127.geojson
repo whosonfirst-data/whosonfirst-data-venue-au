@@ -2,13 +2,14 @@
   "id": 185826127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.820465,-25.258533,152.820465,-25.258533",
     "geom:latitude":-25.258533,
     "geom:longitude":152.820465,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Paul Drv",
     "sg:city":"Point Vernon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185826127,
-    "wof:lastmodified":1449007763,
+    "wof:lastmodified":1466187040,
     "wof:name":"Central Qld Alignment & Suspensions",
     "wof:parent_id":85770021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [152.820465,-25.258533,152.820465,-25.258533],
-  "geometry": {"coordinates":[152.820465,-25.258533],"type":"Point"}
+  "bbox": [
+    152.820465,
+    -25.258533,
+    152.820465,
+    -25.258533
+],
+  "geometry": {"coordinates":[152.82046500000001,-25.258533],"type":"Point"}
 }

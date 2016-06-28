@@ -2,13 +2,14 @@
   "id": 186095993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.829666,-31.080248,152.829666,-31.080248",
     "geom:latitude":-31.080248,
     "geom:longitude":152.829666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Elbow St",
     "sg:city":"West Kempsey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186095993,
-    "wof:lastmodified":1449051730,
+    "wof:lastmodified":1466189209,
     "wof:name":"Holmes Kim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [152.829666,-31.080248,152.829666,-31.080248],
+  "bbox": [
+    152.829666,
+    -31.080248,
+    152.829666,
+    -31.080248
+],
   "geometry": {"coordinates":[152.829666,-31.080248],"type":"Point"}
 }

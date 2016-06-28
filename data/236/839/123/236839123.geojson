@@ -2,13 +2,14 @@
   "id": 236839123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892853,-34.41396,150.892853,-34.41396",
     "geom:latitude":-34.41396,
     "geom:longitude":150.892853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Bourke & Flinders Sts",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236839123,
-    "wof:lastmodified":1449003666,
+    "wof:lastmodified":1466192013,
     "wof:name":"Wollongong City Motors",
     "wof:parent_id":85776197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [150.892853,-34.41396,150.892853,-34.41396],
+  "bbox": [
+    150.892853,
+    -34.41396,
+    150.892853,
+    -34.41396
+],
   "geometry": {"coordinates":[150.892853,-34.41396],"type":"Point"}
 }

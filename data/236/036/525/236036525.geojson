@@ -2,13 +2,14 @@
   "id": 236036525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.777939,-37.696384,144.777939,-37.696384",
     "geom:latitude":-37.696384,
     "geom:longitude":144.777939,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 3, 460 Melton Hwy",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236036525,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466187349,
     "wof:name":"Godfreys",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [144.777939,-37.696384,144.777939,-37.696384],
+  "bbox": [
+    144.777939,
+    -37.696384,
+    144.777939,
+    -37.696384
+],
   "geometry": {"coordinates":[144.777939,-37.696384],"type":"Point"}
 }

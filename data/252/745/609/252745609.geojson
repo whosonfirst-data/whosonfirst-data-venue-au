@@ -2,13 +2,14 @@
   "id": 252745609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.672882,-33.35397,115.672882,-33.35397",
     "geom:latitude":-33.35397,
     "geom:longitude":115.672882,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Craigie St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252745609,
-    "wof:lastmodified":1449006452,
+    "wof:lastmodified":1466187555,
     "wof:name":"The Apprentice & Traineeship Company",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [115.672882,-33.35397,115.672882,-33.35397],
+  "bbox": [
+    115.672882,
+    -33.35397,
+    115.672882,
+    -33.35397
+],
   "geometry": {"coordinates":[115.672882,-33.35397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203319475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.831543,-37.606556,143.831543,-37.606556",
     "geom:latitude":-37.606556,
     "geom:longitude":143.831543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Howard St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319475,
-    "wof:lastmodified":1449025690,
+    "wof:lastmodified":1466188257,
     "wof:name":"Wynalla House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [143.831543,-37.606556,143.831543,-37.606556],
-  "geometry": {"coordinates":[143.831543,-37.606556],"type":"Point"}
+  "bbox": [
+    143.831543,
+    -37.606556,
+    143.831543,
+    -37.606556
+],
+  "geometry": {"coordinates":[143.83154300000001,-37.606556],"type":"Point"}
 }

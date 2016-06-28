@@ -2,13 +2,14 @@
   "id": 236396603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.879463,-32.25119,115.879463,-32.25119",
     "geom:latitude":-32.25119,
     "geom:longitude":115.879463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Lavery Drv",
     "sg:city":"Casuarina",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236396603,
-    "wof:lastmodified":1449003891,
+    "wof:lastmodified":1466191105,
     "wof:name":"Tune-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.879463,-32.25119,115.879463,-32.25119],
+  "bbox": [
+    115.879463,
+    -32.25119,
+    115.879463,
+    -32.25119
+],
   "geometry": {"coordinates":[115.879463,-32.25119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186502711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.783142,-19.266331,146.783142,-19.266331",
     "geom:latitude":-19.266331,
     "geom:longitude":146.783142,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 148",
     "sg:city":"Garbutt East",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186502711,
-    "wof:lastmodified":1449051597,
+    "wof:lastmodified":1466190531,
     "wof:name":"APE Lifting",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.783142,-19.266331,146.783142,-19.266331],
+  "bbox": [
+    146.783142,
+    -19.266331,
+    146.783142,
+    -19.266331
+],
   "geometry": {"coordinates":[146.783142,-19.266331],"type":"Point"}
 }

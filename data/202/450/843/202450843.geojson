@@ -2,13 +2,14 @@
   "id": 202450843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.971085,-37.834663,144.971085,-37.834663",
     "geom:latitude":-37.834663,
     "geom:longitude":144.971085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 4/ 66 Albert Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202450843,
-    "wof:lastmodified":1449062268,
+    "wof:lastmodified":1466188789,
     "wof:name":"Cavill Mayor",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.971085,-37.834663,144.971085,-37.834663],
-  "geometry": {"coordinates":[144.971085,-37.834663],"type":"Point"}
+  "bbox": [
+    144.971085,
+    -37.834663,
+    144.971085,
+    -37.834663
+],
+  "geometry": {"coordinates":[144.97108499999999,-37.834663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186588165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.507156,-41.167164,147.507156,-41.167164",
     "geom:latitude":-41.167164,
     "geom:longitude":147.507156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 King St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186588165,
-    "wof:lastmodified":1449052485,
+    "wof:lastmodified":1466190995,
     "wof:name":"Scottsdale Forest Ecocentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attractions"
     ]
 },
-  "bbox": [147.507156,-41.167164,147.507156,-41.167164],
-  "geometry": {"coordinates":[147.507156,-41.167164],"type":"Point"}
+  "bbox": [
+    147.507156,
+    -41.167164,
+    147.507156,
+    -41.167164
+],
+  "geometry": {"coordinates":[147.50715600000001,-41.167164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202505075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.081024,-37.953457,145.081024,-37.953457",
     "geom:latitude":-37.953457,
     "geom:longitude":145.081024,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Kingston Rd",
     "sg:city":"Heatherton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202505075,
-    "wof:lastmodified":1449062240,
+    "wof:lastmodified":1466189588,
     "wof:name":"Cheeers",
     "wof:parent_id":85771461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [145.081024,-37.953457,145.081024,-37.953457],
-  "geometry": {"coordinates":[145.081024,-37.953457],"type":"Point"}
+  "bbox": [
+    145.081024,
+    -37.953457,
+    145.081024,
+    -37.953457
+],
+  "geometry": {"coordinates":[145.08102400000001,-37.953457],"type":"Point"}
 }

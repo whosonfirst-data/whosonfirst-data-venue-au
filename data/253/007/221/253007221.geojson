@@ -2,13 +2,14 @@
   "id": 253007221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.707047,-37.864136,144.707047,-37.864136",
     "geom:latitude":-37.864136,
     "geom:longitude":144.707047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Watton St",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253007221,
-    "wof:lastmodified":1449065259,
+    "wof:lastmodified":1466187048,
     "wof:name":"Indoor Outdoor Renovations",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.707047,-37.864136,144.707047,-37.864136],
-  "geometry": {"coordinates":[144.707047,-37.864136],"type":"Point"}
+  "bbox": [
+    144.707047,
+    -37.864136,
+    144.707047,
+    -37.864136
+],
+  "geometry": {"coordinates":[144.70704699999999,-37.864136],"type":"Point"}
 }

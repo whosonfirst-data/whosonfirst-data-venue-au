@@ -2,13 +2,14 @@
   "id": 236488973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.152664,-21.063915,149.152664,-21.063915",
     "geom:latitude":-21.063915,
     "geom:longitude":149.152664,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 McCormack Ave",
     "sg:city":"Rural View",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236488973,
-    "wof:lastmodified":1449005147,
+    "wof:lastmodified":1466191346,
     "wof:name":"Anne Lowe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "decorator"
     ]
 },
-  "bbox": [149.152664,-21.063915,149.152664,-21.063915],
-  "geometry": {"coordinates":[149.152664,-21.063915],"type":"Point"}
+  "bbox": [
+    149.152664,
+    -21.063915,
+    149.152664,
+    -21.063915
+],
+  "geometry": {"coordinates":[149.15266399999999,-21.063915],"type":"Point"}
 }

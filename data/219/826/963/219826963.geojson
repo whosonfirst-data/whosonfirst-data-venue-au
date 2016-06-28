@@ -2,13 +2,14 @@
   "id": 219826963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.81398,-31.977015,115.81398,-31.977015",
     "geom:latitude":-31.977015,
     "geom:longitude":115.81398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Stirling Hwy",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219826963,
-    "wof:lastmodified":1449072961,
+    "wof:lastmodified":1466191545,
     "wof:name":"Nedlands Office Centre",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "serviced"
     ]
 },
-  "bbox": [115.81398,-31.977015,115.81398,-31.977015],
+  "bbox": [
+    115.81398,
+    -31.977015,
+    115.81398,
+    -31.977015
+],
   "geometry": {"coordinates":[115.81398,-31.977015],"type":"Point"}
 }

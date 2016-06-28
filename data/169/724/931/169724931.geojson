@@ -2,13 +2,14 @@
   "id": 169724931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"131.10025,-12.57369,131.10025,-12.57369",
     "geom:latitude":-12.57369,
     "geom:longitude":131.10025,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp4/ 12 Vereker St",
     "sg:city":"Humpty Doo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169724931,
-    "wof:lastmodified":1449035901,
+    "wof:lastmodified":1466187238,
     "wof:name":"Humpty Dumpty Pizza & Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [131.10025,-12.57369,131.10025,-12.57369],
-  "geometry": {"coordinates":[131.10025,-12.57369],"type":"Point"}
+  "bbox": [
+    131.10025,
+    -12.57369,
+    131.10025,
+    -12.57369
+],
+  "geometry": {"coordinates":[131.10024999999999,-12.57369],"type":"Point"}
 }

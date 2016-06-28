@@ -2,13 +2,14 @@
   "id": 219273879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.26123,-38.174,146.26123,-38.174",
     "geom:latitude":-38.174,
     "geom:longitude":146.26123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 44 Moore St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219273879,
-    "wof:lastmodified":1449072211,
+    "wof:lastmodified":1466187311,
     "wof:name":"James PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [146.26123,-38.174,146.26123,-38.174],
-  "geometry": {"coordinates":[146.26123,-38.174],"type":"Point"}
+  "bbox": [
+    146.26123,
+    -38.174,
+    146.26123,
+    -38.174
+],
+  "geometry": {"coordinates":[146.26123000000001,-38.174],"type":"Point"}
 }

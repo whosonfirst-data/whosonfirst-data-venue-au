@@ -2,13 +2,14 @@
   "id": 219940581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.768051,-37.819542,140.768051,-37.819542",
     "geom:latitude":-37.819542,
     "geom:longitude":140.768051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Spehr St",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219940581,
-    "wof:lastmodified":1449071257,
+    "wof:lastmodified":1466191707,
     "wof:name":"Harmony In Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leadlights"
     ]
 },
-  "bbox": [140.768051,-37.819542,140.768051,-37.819542],
-  "geometry": {"coordinates":[140.768051,-37.819542],"type":"Point"}
+  "bbox": [
+    140.768051,
+    -37.819542,
+    140.768051,
+    -37.819542
+],
+  "geometry": {"coordinates":[140.76805100000001,-37.819542],"type":"Point"}
 }

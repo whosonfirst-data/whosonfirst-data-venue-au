@@ -2,13 +2,14 @@
   "id": 220200469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.556168,-38.165062,144.556168,-38.165062",
     "geom:latitude":-38.165062,
     "geom:longitude":144.556168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ada St",
     "sg:city":"Drysdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220200469,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466189400,
     "wof:name":"Central Garage Door Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [144.556168,-38.165062,144.556168,-38.165062],
-  "geometry": {"coordinates":[144.556168,-38.165062],"type":"Point"}
+  "bbox": [
+    144.556168,
+    -38.165062,
+    144.556168,
+    -38.165062
+],
+  "geometry": {"coordinates":[144.55616800000001,-38.165062],"type":"Point"}
 }

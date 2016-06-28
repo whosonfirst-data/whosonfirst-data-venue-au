@@ -2,13 +2,14 @@
   "id": 202886947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.894684,-30.45273,152.894684,-30.45273",
     "geom:latitude":-30.45273,
     "geom:longitude":152.894684,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 William St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202886947,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1466190610,
     "wof:name":"Duff James M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.894684,-30.45273,152.894684,-30.45273],
-  "geometry": {"coordinates":[152.894684,-30.45273],"type":"Point"}
+  "bbox": [
+    152.894684,
+    -30.45273,
+    152.894684,
+    -30.45273
+],
+  "geometry": {"coordinates":[152.89468400000001,-30.45273],"type":"Point"}
 }

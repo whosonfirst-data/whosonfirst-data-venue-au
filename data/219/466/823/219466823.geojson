@@ -2,13 +2,14 @@
   "id": 219466823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.106903,-37.591148,145.106903,-37.591148",
     "geom:latitude":-37.591148,
     "geom:longitude":145.106903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Johnsons Rd",
     "sg:city":"Mernda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219466823,
-    "wof:lastmodified":1449071462,
+    "wof:lastmodified":1466189095,
     "wof:name":"Shining Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [145.106903,-37.591148,145.106903,-37.591148],
-  "geometry": {"coordinates":[145.106903,-37.591148],"type":"Point"}
+  "bbox": [
+    145.106903,
+    -37.591148,
+    145.106903,
+    -37.591148
+],
+  "geometry": {"coordinates":[145.10690299999999,-37.591148],"type":"Point"}
 }

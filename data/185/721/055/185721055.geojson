@@ -2,13 +2,14 @@
   "id": 185721055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.991043,-32.720886,151.991043,-32.720886",
     "geom:latitude":-32.720886,
     "geom:longitude":151.991043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Admiralty Ave",
     "sg:city":"Tanilba Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185721055,
-    "wof:lastmodified":1449008205,
+    "wof:lastmodified":1466189337,
     "wof:name":"David Robinson Courier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [151.991043,-32.720886,151.991043,-32.720886],
-  "geometry": {"coordinates":[151.991043,-32.720886],"type":"Point"}
+  "bbox": [
+    151.991043,
+    -32.720886,
+    151.991043,
+    -32.720886
+],
+  "geometry": {"coordinates":[151.99104299999999,-32.720886],"type":"Point"}
 }

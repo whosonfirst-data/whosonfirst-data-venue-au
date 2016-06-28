@@ -2,13 +2,14 @@
   "id": 219159197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"141.909256,-34.109837,141.909256,-34.109837",
     "geom:latitude":-34.109837,
     "geom:longitude":141.909256,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Cadell St",
     "sg:city":"Wentworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219159197,
-    "wof:lastmodified":1449070815,
+    "wof:lastmodified":1466189689,
     "wof:name":"Ian Smith Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "restoration"
     ]
 },
-  "bbox": [141.909256,-34.109837,141.909256,-34.109837],
+  "bbox": [
+    141.909256,
+    -34.109837,
+    141.909256,
+    -34.109837
+],
   "geometry": {"coordinates":[141.909256,-34.109837],"type":"Point"}
 }

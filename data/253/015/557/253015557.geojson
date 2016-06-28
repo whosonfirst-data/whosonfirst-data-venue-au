@@ -2,13 +2,14 @@
   "id": 253015557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.690582,-37.84882,144.690582,-37.84882",
     "geom:latitude":-37.84882,
     "geom:longitude":144.690582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"573 Sayers Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253015557,
-    "wof:lastmodified":1449063484,
+    "wof:lastmodified":1466187223,
     "wof:name":"Eganmay Haulage",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.690582,-37.84882,144.690582,-37.84882],
-  "geometry": {"coordinates":[144.690582,-37.84882],"type":"Point"}
+  "bbox": [
+    144.690582,
+    -37.84882,
+    144.690582,
+    -37.84882
+],
+  "geometry": {"coordinates":[144.69058200000001,-37.84882],"type":"Point"}
 }

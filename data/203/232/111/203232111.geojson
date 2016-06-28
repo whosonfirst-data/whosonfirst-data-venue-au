@@ -2,13 +2,14 @@
   "id": 203232111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.324539,-36.354008,146.324539,-36.354008",
     "geom:latitude":-36.354008,
     "geom:longitude":146.324539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Ovens & Reids Sts",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203232111,
-    "wof:lastmodified":1449025531,
+    "wof:lastmodified":1466187440,
     "wof:name":"The Rusty Dog Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.324539,-36.354008,146.324539,-36.354008],
-  "geometry": {"coordinates":[146.324539,-36.354008],"type":"Point"}
+  "bbox": [
+    146.324539,
+    -36.354008,
+    146.324539,
+    -36.354008
+],
+  "geometry": {"coordinates":[146.32453899999999,-36.354008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219725795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.781464,-19.272623,146.781464,-19.272623",
     "geom:latitude":-19.272623,
     "geom:longitude":146.781464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Keane St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219725795,
-    "wof:lastmodified":1449071254,
+    "wof:lastmodified":1466191211,
     "wof:name":"Marshall's Diesel Service",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diesel"
     ]
 },
-  "bbox": [146.781464,-19.272623,146.781464,-19.272623],
+  "bbox": [
+    146.781464,
+    -19.272623,
+    146.781464,
+    -19.272623
+],
   "geometry": {"coordinates":[146.781464,-19.272623],"type":"Point"}
 }

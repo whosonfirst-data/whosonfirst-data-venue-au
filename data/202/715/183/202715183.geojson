@@ -2,13 +2,14 @@
   "id": 202715183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.048645,-27.368708,153.048645,-27.368708",
     "geom:latitude":-27.368708,
     "geom:longitude":153.048645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Robinson Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202715183,
-    "wof:lastmodified":1449062153,
+    "wof:lastmodified":1466189122,
     "wof:name":"Heritage Motor Body Trimmers",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trimmer"
     ]
 },
-  "bbox": [153.048645,-27.368708,153.048645,-27.368708],
-  "geometry": {"coordinates":[153.048645,-27.368708],"type":"Point"}
+  "bbox": [
+    153.048645,
+    -27.368708,
+    153.048645,
+    -27.368708
+],
+  "geometry": {"coordinates":[153.04864499999999,-27.368708],"type":"Point"}
 }

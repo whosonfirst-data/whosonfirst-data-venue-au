@@ -2,13 +2,14 @@
   "id": 236786941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.565643,-26.946152,152.565643,-26.946152",
     "geom:latitude":-26.946152,
     "geom:longitude":152.565643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mary St",
     "sg:city":"Kilcoy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236786941,
-    "wof:lastmodified":1449001998,
+    "wof:lastmodified":1466192039,
     "wof:name":"Shapiro Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.565643,-26.946152,152.565643,-26.946152],
-  "geometry": {"coordinates":[152.565643,-26.946152],"type":"Point"}
+  "bbox": [
+    152.565643,
+    -26.946152,
+    152.565643,
+    -26.946152
+],
+  "geometry": {"coordinates":[152.56564299999999,-26.946152],"type":"Point"}
 }

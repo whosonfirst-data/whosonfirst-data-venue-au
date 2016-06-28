@@ -2,13 +2,14 @@
   "id": 186442687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177429,-33.894768,151.177429,-33.894768",
     "geom:latitude":-33.894768,
     "geom:longitude":151.177429,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Australia St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186442687,
-    "wof:lastmodified":1449051550,
+    "wof:lastmodified":1466190073,
     "wof:name":"Cohoe Marine Products",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [151.177429,-33.894768,151.177429,-33.894768],
-  "geometry": {"coordinates":[151.177429,-33.894768],"type":"Point"}
+  "bbox": [
+    151.177429,
+    -33.894768,
+    151.177429,
+    -33.894768
+],
+  "geometry": {"coordinates":[151.17742899999999,-33.894768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202401227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.918106,-37.822838,144.918106,-37.822838",
     "geom:latitude":-37.822838,
     "geom:longitude":144.918106,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33/ 3 Westside Av",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202401227,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466187701,
     "wof:name":"Esite Connect Pty Ltd",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [144.918106,-37.822838,144.918106,-37.822838],
-  "geometry": {"coordinates":[144.918106,-37.822838],"type":"Point"}
+  "bbox": [
+    144.918106,
+    -37.822838,
+    144.918106,
+    -37.822838
+],
+  "geometry": {"coordinates":[144.91810599999999,-37.822838],"type":"Point"}
 }

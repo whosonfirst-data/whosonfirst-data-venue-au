@@ -2,13 +2,14 @@
   "id": 219688359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.500671,-32.170353,152.500671,-32.170353",
     "geom:latitude":-32.170353,
     "geom:longitude":152.500671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Parkes St",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219688359,
-    "wof:lastmodified":1449071703,
+    "wof:lastmodified":1466191114,
     "wof:name":"Moran H E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "farmer"
     ]
 },
-  "bbox": [152.500671,-32.170353,152.500671,-32.170353],
-  "geometry": {"coordinates":[152.500671,-32.170353],"type":"Point"}
+  "bbox": [
+    152.500671,
+    -32.170353,
+    152.500671,
+    -32.170353
+],
+  "geometry": {"coordinates":[152.50067100000001,-32.170353],"type":"Point"}
 }

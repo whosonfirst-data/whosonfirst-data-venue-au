@@ -2,13 +2,14 @@
   "id": 253244769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.964264,-27.560854,151.964264,-27.560854",
     "geom:latitude":-27.560854,
     "geom:longitude":151.964264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Lindsay St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253244769,
-    "wof:lastmodified":1449064001,
+    "wof:lastmodified":1466190382,
     "wof:name":"David Tait",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exc"
     ]
 },
-  "bbox": [151.964264,-27.560854,151.964264,-27.560854],
-  "geometry": {"coordinates":[151.964264,-27.560854],"type":"Point"}
+  "bbox": [
+    151.964264,
+    -27.560854,
+    151.964264,
+    -27.560854
+],
+  "geometry": {"coordinates":[151.96426399999999,-27.560854],"type":"Point"}
 }

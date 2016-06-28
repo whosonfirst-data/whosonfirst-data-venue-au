@@ -2,13 +2,14 @@
   "id": 203104119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.740143,-32.512173,115.740143,-32.512173",
     "geom:latitude":-32.512173,
     "geom:longitude":115.740143,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Fitzgerald Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203104119,
-    "wof:lastmodified":1449025708,
+    "wof:lastmodified":1466189114,
     "wof:name":"Tradelink Plumbing Centres",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [115.740143,-32.512173,115.740143,-32.512173],
+  "bbox": [
+    115.740143,
+    -32.512173,
+    115.740143,
+    -32.512173
+],
   "geometry": {"coordinates":[115.740143,-32.512173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236934615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.538834,-34.990261,138.538834,-34.990261",
     "geom:latitude":-34.990261,
     "geom:longitude":138.538834,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 2078",
     "sg:city":"Morphettville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236934615,
-    "wof:lastmodified":1449001800,
+    "wof:lastmodified":1466192201,
     "wof:name":"Solar Pool Heating SA",
     "wof:parent_id":85777519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "solar"
     ]
 },
-  "bbox": [138.538834,-34.990261,138.538834,-34.990261],
-  "geometry": {"coordinates":[138.538834,-34.990261],"type":"Point"}
+  "bbox": [
+    138.538834,
+    -34.990261,
+    138.538834,
+    -34.990261
+],
+  "geometry": {"coordinates":[138.53883400000001,-34.990261],"type":"Point"}
 }

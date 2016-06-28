@@ -2,13 +2,14 @@
   "id": 186406331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.822357,-19.261583,146.822357,-19.261583",
     "geom:latitude":-19.261583,
     "geom:longitude":146.822357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Plume & Palmer Sts",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186406331,
-    "wof:lastmodified":1449051814,
+    "wof:lastmodified":1466189411,
     "wof:name":"Townsville Slipways",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repairer"
     ]
 },
-  "bbox": [146.822357,-19.261583,146.822357,-19.261583],
-  "geometry": {"coordinates":[146.822357,-19.261583],"type":"Point"}
+  "bbox": [
+    146.822357,
+    -19.261583,
+    146.822357,
+    -19.261583
+],
+  "geometry": {"coordinates":[146.82235700000001,-19.261583],"type":"Point"}
 }

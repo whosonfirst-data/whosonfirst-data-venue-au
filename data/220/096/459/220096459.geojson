@@ -2,13 +2,14 @@
   "id": 220096459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.46254,-38.196381,144.46254,-38.196381",
     "geom:latitude":-38.196381,
     "geom:longitude":144.46254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Cypress Crs",
     "sg:city":"Leopold",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220096459,
-    "wof:lastmodified":1449074278,
+    "wof:lastmodified":1466187929,
     "wof:name":"N. & S. Watkins Roofing Pty. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roof"
     ]
 },
-  "bbox": [144.46254,-38.196381,144.46254,-38.196381],
-  "geometry": {"coordinates":[144.46254,-38.196381],"type":"Point"}
+  "bbox": [
+    144.46254,
+    -38.196381,
+    144.46254,
+    -38.196381
+],
+  "geometry": {"coordinates":[144.46253999999999,-38.196381],"type":"Point"}
 }

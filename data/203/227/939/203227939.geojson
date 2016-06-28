@@ -2,13 +2,14 @@
   "id": 203227939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.826035,-41.038155,145.826035,-41.038155",
     "geom:latitude":-41.038155,
     "geom:longitude":145.826035,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Beaufort St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203227939,
-    "wof:lastmodified":1449025330,
+    "wof:lastmodified":1466187395,
     "wof:name":"Mobile Prickle Farm The",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carver"
     ]
 },
-  "bbox": [145.826035,-41.038155,145.826035,-41.038155],
-  "geometry": {"coordinates":[145.826035,-41.038155],"type":"Point"}
+  "bbox": [
+    145.826035,
+    -41.038155,
+    145.826035,
+    -41.038155
+],
+  "geometry": {"coordinates":[145.82603499999999,-41.038155],"type":"Point"}
 }

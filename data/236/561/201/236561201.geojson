@@ -2,13 +2,14 @@
   "id": 236561201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.999512,-33.937881,150.999512,-33.937881",
     "geom:latitude":-33.937881,
     "geom:longitude":150.999512,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 11, 39- 41 Marigold St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236561201,
-    "wof:lastmodified":1449004093,
+    "wof:lastmodified":1466191511,
     "wof:name":"Restor-A-Dash",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trimmer"
     ]
 },
-  "bbox": [150.999512,-33.937881,150.999512,-33.937881],
-  "geometry": {"coordinates":[150.999512,-33.937881],"type":"Point"}
+  "bbox": [
+    150.999512,
+    -33.937881,
+    150.999512,
+    -33.937881
+],
+  "geometry": {"coordinates":[150.99951200000001,-33.937881],"type":"Point"}
 }

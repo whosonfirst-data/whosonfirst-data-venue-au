@@ -2,13 +2,14 @@
   "id": 253084125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.825546,-37.743504,144.825546,-37.743504",
     "geom:latitude":-37.743504,
     "geom:longitude":144.825546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Marshall Ave",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253084125,
-    "wof:lastmodified":1449063135,
+    "wof:lastmodified":1466188437,
     "wof:name":"Asia Leadlight",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leadlights"
     ]
 },
-  "bbox": [144.825546,-37.743504,144.825546,-37.743504],
+  "bbox": [
+    144.825546,
+    -37.743504,
+    144.825546,
+    -37.743504
+],
   "geometry": {"coordinates":[144.825546,-37.743504],"type":"Point"}
 }

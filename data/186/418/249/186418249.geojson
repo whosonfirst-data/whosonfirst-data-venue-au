@@ -2,13 +2,14 @@
   "id": 186418249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.824722,-19.265491,146.824722,-19.265491",
     "geom:latitude":-19.265491,
     "geom:longitude":146.824722,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12A Morey St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186418249,
-    "wof:lastmodified":1449052422,
+    "wof:lastmodified":1466189613,
     "wof:name":"TOWNSVILLE HAULAGE PTY LTD",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carrier"
     ]
 },
-  "bbox": [146.824722,-19.265491,146.824722,-19.265491],
-  "geometry": {"coordinates":[146.824722,-19.265491],"type":"Point"}
+  "bbox": [
+    146.824722,
+    -19.265491,
+    146.824722,
+    -19.265491
+],
+  "geometry": {"coordinates":[146.82472200000001,-19.265491],"type":"Point"}
 }

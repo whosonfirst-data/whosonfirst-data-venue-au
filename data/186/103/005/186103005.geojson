@@ -2,13 +2,14 @@
   "id": 186103005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.852295,-31.097477,152.852295,-31.097477",
     "geom:latitude":-31.097477,
     "geom:longitude":152.852295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5, 21- 39 Angus McNeil Crs",
     "sg:city":"South Kempsey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186103005,
-    "wof:lastmodified":1449052045,
+    "wof:lastmodified":1466190004,
     "wof:name":"Kempsey Sheds & Carports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shed"
     ]
 },
-  "bbox": [152.852295,-31.097477,152.852295,-31.097477],
+  "bbox": [
+    152.852295,
+    -31.097477,
+    152.852295,
+    -31.097477
+],
   "geometry": {"coordinates":[152.852295,-31.097477],"type":"Point"}
 }

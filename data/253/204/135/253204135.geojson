@@ -2,13 +2,14 @@
   "id": 253204135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.97348,-27.565977,151.97348,-27.565977",
     "geom:latitude":-27.565977,
     "geom:longitude":151.97348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor, Entrance 2, St. Vincents Hospital 22-36 Scott St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253204135,
-    "wof:lastmodified":1449065881,
+    "wof:lastmodified":1466190242,
     "wof:name":"Gibson Dr. E. David",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.97348,-27.565977,151.97348,-27.565977],
+  "bbox": [
+    151.97348,
+    -27.565977,
+    151.97348,
+    -27.565977
+],
   "geometry": {"coordinates":[151.97348,-27.565977],"type":"Point"}
 }

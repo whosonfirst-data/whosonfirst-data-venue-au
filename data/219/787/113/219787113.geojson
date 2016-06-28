@@ -2,13 +2,14 @@
   "id": 219787113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.741104,-19.303793,146.741104,-19.303793",
     "geom:latitude":-19.303793,
     "geom:longitude":146.741104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 14 Parkside Plaza 148 Bamford La",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219787113,
-    "wof:lastmodified":1449071996,
+    "wof:lastmodified":1466191246,
     "wof:name":"Superior Photos",
     "wof:parent_id":85770141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [146.741104,-19.303793,146.741104,-19.303793],
-  "geometry": {"coordinates":[146.741104,-19.303793],"type":"Point"}
+  "bbox": [
+    146.741104,
+    -19.303793,
+    146.741104,
+    -19.303793
+],
+  "geometry": {"coordinates":[146.74110400000001,-19.303793],"type":"Point"}
 }

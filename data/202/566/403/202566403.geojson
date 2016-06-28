@@ -2,13 +2,14 @@
   "id": 202566403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.421936,-37.688843,144.421936,-37.688843",
     "geom:latitude":-37.688843,
     "geom:longitude":144.421936,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Hillside St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202566403,
-    "wof:lastmodified":1449060158,
+    "wof:lastmodified":1466187017,
     "wof:name":"Ivers Liquid Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "waste"
     ]
 },
-  "bbox": [144.421936,-37.688843,144.421936,-37.688843],
-  "geometry": {"coordinates":[144.421936,-37.688843],"type":"Point"}
+  "bbox": [
+    144.421936,
+    -37.688843,
+    144.421936,
+    -37.688843
+],
+  "geometry": {"coordinates":[144.42193599999999,-37.688843],"type":"Point"}
 }

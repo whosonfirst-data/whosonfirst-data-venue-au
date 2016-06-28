@@ -2,13 +2,14 @@
   "id": 253200281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.917938,-27.559193,151.917938,-27.559193",
     "geom:latitude":-27.559193,
     "geom:longitude":151.917938,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cressbrook Crt",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253200281,
-    "wof:lastmodified":1449064014,
+    "wof:lastmodified":1466190087,
     "wof:name":"Tezzas Towing Services",
     "wof:parent_id":85779897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [151.917938,-27.559193,151.917938,-27.559193],
-  "geometry": {"coordinates":[151.917938,-27.559193],"type":"Point"}
+  "bbox": [
+    151.917938,
+    -27.559193,
+    151.917938,
+    -27.559193
+],
+  "geometry": {"coordinates":[151.91793799999999,-27.559193],"type":"Point"}
 }

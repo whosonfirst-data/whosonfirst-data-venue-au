@@ -2,13 +2,14 @@
   "id": 202823651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.156265,-23.513033,148.156265,-23.513033",
     "geom:latitude":-23.513033,
     "geom:longitude":148.156265,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4/5 41 Ruby St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202823651,
-    "wof:lastmodified":1449062612,
+    "wof:lastmodified":1466190530,
     "wof:name":"Central Western Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [148.156265,-23.513033,148.156265,-23.513033],
-  "geometry": {"coordinates":[148.156265,-23.513033],"type":"Point"}
+  "bbox": [
+    148.156265,
+    -23.513033,
+    148.156265,
+    -23.513033
+],
+  "geometry": {"coordinates":[148.15626499999999,-23.513033],"type":"Point"}
 }

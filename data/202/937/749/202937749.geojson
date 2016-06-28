@@ -2,13 +2,14 @@
   "id": 202937749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115936,-30.29847,153.115936,-30.29847",
     "geom:latitude":-30.29847,
     "geom:longitude":153.115936,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Park Ave & Gordon St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202937749,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466190918,
     "wof:name":"Liquorland",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [153.115936,-30.29847,153.115936,-30.29847],
+  "bbox": [
+    153.115936,
+    -30.29847,
+    153.115936,
+    -30.29847
+],
   "geometry": {"coordinates":[153.115936,-30.29847],"type":"Point"}
 }

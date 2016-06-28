@@ -2,13 +2,14 @@
   "id": 253070141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.758987,-37.766327,144.758987,-37.766327",
     "geom:latitude":-37.766327,
     "geom:longitude":144.758987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Lee St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253070141,
-    "wof:lastmodified":1449064256,
+    "wof:lastmodified":1466188195,
     "wof:name":"Colonial Landscapes",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [144.758987,-37.766327,144.758987,-37.766327],
-  "geometry": {"coordinates":[144.758987,-37.766327],"type":"Point"}
+  "bbox": [
+    144.758987,
+    -37.766327,
+    144.758987,
+    -37.766327
+],
+  "geometry": {"coordinates":[144.75898699999999,-37.766327],"type":"Point"}
 }

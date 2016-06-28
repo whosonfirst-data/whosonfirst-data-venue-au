@@ -2,13 +2,14 @@
   "id": 219869017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.928162,-27.44346,152.928162,-27.44346",
     "geom:latitude":-27.44346,
     "geom:longitude":152.928162,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 7 Mt Nebo Rd",
     "sg:city":"Mt Nebo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219869017,
-    "wof:lastmodified":1449073632,
+    "wof:lastmodified":1466191504,
     "wof:name":"Nelsons Renovations",
     "wof:parent_id":85773837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [152.928162,-27.44346,152.928162,-27.44346],
-  "geometry": {"coordinates":[152.928162,-27.44346],"type":"Point"}
+  "bbox": [
+    152.928162,
+    -27.44346,
+    152.928162,
+    -27.44346
+],
+  "geometry": {"coordinates":[152.92816199999999,-27.44346],"type":"Point"}
 }

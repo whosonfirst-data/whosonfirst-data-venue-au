@@ -2,13 +2,14 @@
   "id": 202888775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.897034,-30.451456,152.897034,-30.451456",
     "geom:latitude":-30.451456,
     "geom:longitude":152.897034,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7d Church St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202888775,
-    "wof:lastmodified":1449061689,
+    "wof:lastmodified":1466190503,
     "wof:name":"Technicality",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [152.897034,-30.451456,152.897034,-30.451456],
-  "geometry": {"coordinates":[152.897034,-30.451456],"type":"Point"}
+  "bbox": [
+    152.897034,
+    -30.451456,
+    152.897034,
+    -30.451456
+],
+  "geometry": {"coordinates":[152.89703399999999,-30.451456],"type":"Point"}
 }

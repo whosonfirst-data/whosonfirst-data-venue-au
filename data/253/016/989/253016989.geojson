@@ -2,13 +2,14 @@
   "id": 253016989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.729111,-37.873085,144.729111,-37.873085",
     "geom:latitude":-37.873085,
     "geom:longitude":144.729111,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1- 5 Lentini St",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253016989,
-    "wof:lastmodified":1449063328,
+    "wof:lastmodified":1466187253,
     "wof:name":"Civiquip",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "traffic"
     ]
 },
-  "bbox": [144.729111,-37.873085,144.729111,-37.873085],
-  "geometry": {"coordinates":[144.729111,-37.873085],"type":"Point"}
+  "bbox": [
+    144.729111,
+    -37.873085,
+    144.729111,
+    -37.873085
+],
+  "geometry": {"coordinates":[144.72911099999999,-37.873085],"type":"Point"}
 }

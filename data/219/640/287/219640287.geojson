@@ -2,13 +2,14 @@
   "id": 219640287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.124695,-33.95155,151.124695,-33.95155",
     "geom:latitude":-33.95155,
     "geom:longitude":151.124695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"302a Forest Rd",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219640287,
-    "wof:lastmodified":1449071920,
+    "wof:lastmodified":1466190935,
     "wof:name":"Gradacon Building Solutions",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.124695,-33.95155,151.124695,-33.95155],
+  "bbox": [
+    151.124695,
+    -33.95155,
+    151.124695,
+    -33.95155
+],
   "geometry": {"coordinates":[151.124695,-33.95155],"type":"Point"}
 }

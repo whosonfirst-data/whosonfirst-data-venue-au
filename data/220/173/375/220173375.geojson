@@ -2,13 +2,14 @@
   "id": 220173375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.349548,-38.162827,144.349548,-38.162827",
     "geom:latitude":-38.162827,
     "geom:longitude":144.349548,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220173375,
-    "wof:lastmodified":1449074193,
+    "wof:lastmodified":1466189061,
     "wof:name":"Rally Carb",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "carburettor"
     ]
 },
-  "bbox": [144.349548,-38.162827,144.349548,-38.162827],
+  "bbox": [
+    144.349548,
+    -38.162827,
+    144.349548,
+    -38.162827
+],
   "geometry": {"coordinates":[144.349548,-38.162827],"type":"Point"}
 }

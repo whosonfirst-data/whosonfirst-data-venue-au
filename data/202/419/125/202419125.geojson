@@ -2,13 +2,14 @@
   "id": 202419125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.927856,-37.821175,144.927856,-37.821175",
     "geom:latitude":-37.821175,
     "geom:longitude":144.927856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Warehouse B, 768 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202419125,
-    "wof:lastmodified":1449062586,
+    "wof:lastmodified":1466188108,
     "wof:name":"Staging Rentals & Construction Services",
     "wof:parent_id":85776037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.927856,-37.821175,144.927856,-37.821175],
-  "geometry": {"coordinates":[144.927856,-37.821175],"type":"Point"}
+  "bbox": [
+    144.927856,
+    -37.821175,
+    144.927856,
+    -37.821175
+],
+  "geometry": {"coordinates":[144.92785599999999,-37.821175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202807277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.724655,-32.917408,151.724655,-32.917408",
     "geom:latitude":-32.917408,
     "geom:longitude":151.724655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Turton Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202807277,
-    "wof:lastmodified":1449060762,
+    "wof:lastmodified":1466190346,
     "wof:name":"Innocente A",
     "wof:parent_id":85778069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.724655,-32.917408,151.724655,-32.917408],
-  "geometry": {"coordinates":[151.724655,-32.917408],"type":"Point"}
+  "bbox": [
+    151.724655,
+    -32.917408,
+    151.724655,
+    -32.917408
+],
+  "geometry": {"coordinates":[151.72465500000001,-32.917408],"type":"Point"}
 }

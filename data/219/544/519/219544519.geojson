@@ -2,13 +2,14 @@
   "id": 219544519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.063217,-33.931133,151.063217,-33.931133",
     "geom:latitude":-33.931133,
     "geom:longitude":151.063217,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Dudley St",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219544519,
-    "wof:lastmodified":1449073913,
+    "wof:lastmodified":1466190222,
     "wof:name":"Karnak Video",
     "wof:parent_id":85774751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "library"
     ]
 },
-  "bbox": [151.063217,-33.931133,151.063217,-33.931133],
-  "geometry": {"coordinates":[151.063217,-33.931133],"type":"Point"}
+  "bbox": [
+    151.063217,
+    -33.931133,
+    151.063217,
+    -33.931133
+],
+  "geometry": {"coordinates":[151.06321700000001,-33.931133],"type":"Point"}
 }

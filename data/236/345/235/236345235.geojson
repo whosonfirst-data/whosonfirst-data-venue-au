@@ -2,13 +2,14 @@
   "id": 236345235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.819443,-32.067749,115.819443,-32.067749",
     "geom:latitude":-32.067749,
     "geom:longitude":115.819443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Philmore Crs",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236345235,
-    "wof:lastmodified":1449004934,
+    "wof:lastmodified":1466190693,
     "wof:name":"Prestige Lawn & Garden Service",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [115.819443,-32.067749,115.819443,-32.067749],
-  "geometry": {"coordinates":[115.819443,-32.067749],"type":"Point"}
+  "bbox": [
+    115.819443,
+    -32.067749,
+    115.819443,
+    -32.067749
+],
+  "geometry": {"coordinates":[115.81944300000001,-32.067749],"type":"Point"}
 }

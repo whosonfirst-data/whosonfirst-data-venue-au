@@ -2,13 +2,14 @@
   "id": 336963765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.730087,-31.484974,152.730087,-31.484974",
     "geom:latitude":-31.484974,
     "geom:longitude":152.730087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Depot St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336963765,
-    "wof:lastmodified":1448997038,
+    "wof:lastmodified":1466186977,
     "wof:name":"Hastings Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [152.730087,-31.484974,152.730087,-31.484974],
+  "bbox": [
+    152.730087,
+    -31.484974,
+    152.730087,
+    -31.484974
+],
   "geometry": {"coordinates":[152.730087,-31.484974],"type":"Point"}
 }

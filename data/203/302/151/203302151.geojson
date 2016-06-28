@@ -2,13 +2,14 @@
   "id": 203302151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.841873,-37.53223,143.841873,-37.53223",
     "geom:latitude":-37.53223,
     "geom:longitude":143.841873,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Dowling St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203302151,
-    "wof:lastmodified":1449025550,
+    "wof:lastmodified":1466187970,
     "wof:name":"Steelcrest Garages",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [143.841873,-37.53223,143.841873,-37.53223],
-  "geometry": {"coordinates":[143.841873,-37.53223],"type":"Point"}
+  "bbox": [
+    143.841873,
+    -37.53223,
+    143.841873,
+    -37.53223
+],
+  "geometry": {"coordinates":[143.84187299999999,-37.53223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186519301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.760117,-19.267315,146.760117,-19.267315",
     "geom:latitude":-19.267315,
     "geom:longitude":146.760117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Duckworth St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186519301,
-    "wof:lastmodified":1449052854,
+    "wof:lastmodified":1466190554,
     "wof:name":"Four Wheel Drive Hire Service",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [146.760117,-19.267315,146.760117,-19.267315],
-  "geometry": {"coordinates":[146.760117,-19.267315],"type":"Point"}
+  "bbox": [
+    146.760117,
+    -19.267315,
+    146.760117,
+    -19.267315
+],
+  "geometry": {"coordinates":[146.76011700000001,-19.267315],"type":"Point"}
 }

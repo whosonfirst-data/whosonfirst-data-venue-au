@@ -2,13 +2,14 @@
   "id": 202732553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.64296,-34.783539,138.64296,-34.783539",
     "geom:latitude":-34.783539,
     "geom:longitude":138.64296,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Pentland Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202732553,
-    "wof:lastmodified":1449062749,
+    "wof:lastmodified":1466189448,
     "wof:name":"Parafield Instrument Facilities Pty Ltd",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [138.64296,-34.783539,138.64296,-34.783539],
-  "geometry": {"coordinates":[138.64296,-34.783539],"type":"Point"}
+  "bbox": [
+    138.64296,
+    -34.783539,
+    138.64296,
+    -34.783539
+],
+  "geometry": {"coordinates":[138.64295999999999,-34.783539],"type":"Point"}
 }

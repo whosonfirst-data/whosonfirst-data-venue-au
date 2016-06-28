@@ -2,13 +2,14 @@
   "id": 202611553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.842957,-28.802027,151.842957,-28.802027",
     "geom:latitude":-28.802027,
     "geom:longitude":151.842957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Eukey Rd",
     "sg:city":"Ballandean",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202611553,
-    "wof:lastmodified":1449062120,
+    "wof:lastmodified":1466187444,
     "wof:name":"Hidden Creek Vineyard-Winery-Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [151.842957,-28.802027,151.842957,-28.802027],
-  "geometry": {"coordinates":[151.842957,-28.802027],"type":"Point"}
+  "bbox": [
+    151.842957,
+    -28.802027,
+    151.842957,
+    -28.802027
+],
+  "geometry": {"coordinates":[151.84295700000001,-28.802027],"type":"Point"}
 }

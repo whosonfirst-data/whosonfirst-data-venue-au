@@ -2,13 +2,14 @@
   "id": 202958551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091125,-30.352833,153.091125,-30.352833",
     "geom:latitude":-30.352833,
     "geom:longitude":153.091125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3, 6 Minorca Pl",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202958551,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466191036,
     "wof:name":"Blueberry Bakery",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [153.091125,-30.352833,153.091125,-30.352833],
-  "geometry": {"coordinates":[153.091125,-30.352833],"type":"Point"}
+  "bbox": [
+    153.091125,
+    -30.352833,
+    153.091125,
+    -30.352833
+],
+  "geometry": {"coordinates":[153.09112500000001,-30.352833],"type":"Point"}
 }

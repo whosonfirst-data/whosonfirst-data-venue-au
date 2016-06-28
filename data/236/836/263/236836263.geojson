@@ -2,13 +2,14 @@
   "id": 236836263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.860428,-34.423401,150.860428,-34.423401",
     "geom:latitude":-34.423401,
     "geom:longitude":150.860428,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Euroka St",
     "sg:city":"West Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236836263,
-    "wof:lastmodified":1449003912,
+    "wof:lastmodified":1466192016,
     "wof:name":"Australian Industrial Engineering Pty Ltd",
     "wof:parent_id":85777205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [150.860428,-34.423401,150.860428,-34.423401],
-  "geometry": {"coordinates":[150.860428,-34.423401],"type":"Point"}
+  "bbox": [
+    150.860428,
+    -34.423401,
+    150.860428,
+    -34.423401
+],
+  "geometry": {"coordinates":[150.86042800000001,-34.423401],"type":"Point"}
 }

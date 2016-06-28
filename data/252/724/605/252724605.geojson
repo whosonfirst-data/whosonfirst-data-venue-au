@@ -2,13 +2,14 @@
   "id": 252724605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.635849,-33.320141,115.635849,-33.320141",
     "geom:latitude":-33.320141,
     "geom:longitude":115.635849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Carey St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252724605,
-    "wof:lastmodified":1449006476,
+    "wof:lastmodified":1466187160,
     "wof:name":"Southern Independent Property Valuations",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [115.635849,-33.320141,115.635849,-33.320141],
-  "geometry": {"coordinates":[115.635849,-33.320141],"type":"Point"}
+  "bbox": [
+    115.635849,
+    -33.320141,
+    115.635849,
+    -33.320141
+],
+  "geometry": {"coordinates":[115.63584899999999,-33.320141],"type":"Point"}
 }

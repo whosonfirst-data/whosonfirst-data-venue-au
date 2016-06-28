@@ -2,13 +2,14 @@
   "id": 203338495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.861343,-37.564758,143.861343,-37.564758",
     "geom:latitude":-37.564758,
     "geom:longitude":143.861343,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Eastwood St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203338495,
-    "wof:lastmodified":1449025573,
+    "wof:lastmodified":1466188476,
     "wof:name":"Williams Frank",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [143.861343,-37.564758,143.861343,-37.564758],
-  "geometry": {"coordinates":[143.861343,-37.564758],"type":"Point"}
+  "bbox": [
+    143.861343,
+    -37.564758,
+    143.861343,
+    -37.564758
+],
+  "geometry": {"coordinates":[143.86134300000001,-37.564758],"type":"Point"}
 }

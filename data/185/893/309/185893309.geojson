@@ -2,13 +2,14 @@
   "id": 185893309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.666107,-25.558594,152.666107,-25.558594",
     "geom:latitude":-25.558594,
     "geom:longitude":152.666107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Bluebell Road West",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185893309,
-    "wof:lastmodified":1449007922,
+    "wof:lastmodified":1466187841,
     "wof:name":"A.S.A.P Scale & Slicer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "weighbridge"
     ]
 },
-  "bbox": [152.666107,-25.558594,152.666107,-25.558594],
-  "geometry": {"coordinates":[152.666107,-25.558594],"type":"Point"}
+  "bbox": [
+    152.666107,
+    -25.558594,
+    152.666107,
+    -25.558594
+],
+  "geometry": {"coordinates":[152.66610700000001,-25.558594],"type":"Point"}
 }

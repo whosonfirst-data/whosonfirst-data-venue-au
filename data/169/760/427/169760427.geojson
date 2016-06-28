@@ -2,13 +2,14 @@
   "id": 169760427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.080276,-27.21719,153.080276,-27.21719",
     "geom:latitude":-27.21719,
     "geom:longitude":153.080276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 402",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169760427,
-    "wof:lastmodified":1449035837,
+    "wof:lastmodified":1466188036,
     "wof:name":"Delta Stream",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.080276,-27.21719,153.080276,-27.21719],
+  "bbox": [
+    153.080276,
+    -27.21719,
+    153.080276,
+    -27.21719
+],
   "geometry": {"coordinates":[153.080276,-27.21719],"type":"Point"}
 }

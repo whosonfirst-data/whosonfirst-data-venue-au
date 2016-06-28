@@ -2,13 +2,14 @@
   "id": 202395283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.725174,-34.602512,138.725174,-34.602512",
     "geom:latitude":-34.602512,
     "geom:longitude":138.725174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Weaver Rd",
     "sg:city":"Gawler West",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202395283,
-    "wof:lastmodified":1449062286,
+    "wof:lastmodified":1466187546,
     "wof:name":"Gawler Harness Racing Club Incorporated",
     "wof:parent_id":85780765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "racing"
     ]
 },
-  "bbox": [138.725174,-34.602512,138.725174,-34.602512],
-  "geometry": {"coordinates":[138.725174,-34.602512],"type":"Point"}
+  "bbox": [
+    138.725174,
+    -34.602512,
+    138.725174,
+    -34.602512
+],
+  "geometry": {"coordinates":[138.72517400000001,-34.602512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219668601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.521561,-32.203743,152.521561,-32.203743",
     "geom:latitude":-32.203743,
     "geom:longitude":152.521561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Hind Ave",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219668601,
-    "wof:lastmodified":1449072852,
+    "wof:lastmodified":1466191177,
     "wof:name":"Maher Col",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.521561,-32.203743,152.521561,-32.203743],
-  "geometry": {"coordinates":[152.521561,-32.203743],"type":"Point"}
+  "bbox": [
+    152.521561,
+    -32.203743,
+    152.521561,
+    -32.203743
+],
+  "geometry": {"coordinates":[152.52156099999999,-32.203743],"type":"Point"}
 }

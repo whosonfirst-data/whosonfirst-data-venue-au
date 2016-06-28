@@ -2,13 +2,14 @@
   "id": 253177717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.980194,-27.572521,151.980194,-27.572521",
     "geom:latitude":-27.572521,
     "geom:longitude":151.980194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2D James St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253177717,
-    "wof:lastmodified":1449065804,
+    "wof:lastmodified":1466190072,
     "wof:name":"O&#039;Gormans",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [151.980194,-27.572521,151.980194,-27.572521],
-  "geometry": {"coordinates":[151.980194,-27.572521],"type":"Point"}
+  "bbox": [
+    151.980194,
+    -27.572521,
+    151.980194,
+    -27.572521
+],
+  "geometry": {"coordinates":[151.98019400000001,-27.572521],"type":"Point"}
 }

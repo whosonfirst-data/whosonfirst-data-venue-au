@@ -2,13 +2,14 @@
   "id": 220164793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.326431,-38.155743,144.326431,-38.155743",
     "geom:latitude":-38.155743,
     "geom:longitude":144.326431,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Elcho St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220164793,
-    "wof:lastmodified":1449074128,
+    "wof:lastmodified":1466188889,
     "wof:name":"Atlas Refrigeration Repairs",
     "wof:parent_id":85769889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retail"
     ]
 },
-  "bbox": [144.326431,-38.155743,144.326431,-38.155743],
-  "geometry": {"coordinates":[144.326431,-38.155743],"type":"Point"}
+  "bbox": [
+    144.326431,
+    -38.155743,
+    144.326431,
+    -38.155743
+],
+  "geometry": {"coordinates":[144.32643100000001,-38.155743],"type":"Point"}
 }

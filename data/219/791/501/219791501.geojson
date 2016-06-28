@@ -2,13 +2,14 @@
   "id": 219791501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.730057,-19.312334,146.730057,-19.312334",
     "geom:latitude":-19.312334,
     "geom:longitude":146.730057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Thuringowa Drv",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219791501,
-    "wof:lastmodified":1449073117,
+    "wof:lastmodified":1466191282,
     "wof:name":"Printer Re-Inking North Queensland",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.730057,-19.312334,146.730057,-19.312334],
-  "geometry": {"coordinates":[146.730057,-19.312334],"type":"Point"}
+  "bbox": [
+    146.730057,
+    -19.312334,
+    146.730057,
+    -19.312334
+],
+  "geometry": {"coordinates":[146.73005699999999,-19.312334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186346873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.301788,-33.695744,151.301788,-33.695744",
     "geom:latitude":-33.695744,
     "geom:longitude":151.301788,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 2/ 1429 Pittwater Rd",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186346873,
-    "wof:lastmodified":1449050238,
+    "wof:lastmodified":1466188396,
     "wof:name":"Fuzz Hair Dressing",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.301788,-33.695744,151.301788,-33.695744],
-  "geometry": {"coordinates":[151.301788,-33.695744],"type":"Point"}
+  "bbox": [
+    151.301788,
+    -33.695744,
+    151.301788,
+    -33.695744
+],
+  "geometry": {"coordinates":[151.30178799999999,-33.695744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236243539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.842133,-38.125675,145.842133,-38.125675",
     "geom:latitude":-38.125675,
     "geom:longitude":145.842133,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 McClure St",
     "sg:city":"Drouin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236243539,
-    "wof:lastmodified":1449002574,
+    "wof:lastmodified":1466190036,
     "wof:name":"Herbal Lite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [145.842133,-38.125675,145.842133,-38.125675],
-  "geometry": {"coordinates":[145.842133,-38.125675],"type":"Point"}
+  "bbox": [
+    145.842133,
+    -38.125675,
+    145.842133,
+    -38.125675
+],
+  "geometry": {"coordinates":[145.84213299999999,-38.125675],"type":"Point"}
 }

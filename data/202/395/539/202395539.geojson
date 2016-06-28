@@ -2,13 +2,14 @@
   "id": 202395539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.749237,-34.596657,138.749237,-34.596657",
     "geom:latitude":-34.596657,
     "geom:longitude":138.749237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Julian Tce",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202395539,
-    "wof:lastmodified":1449062289,
+    "wof:lastmodified":1466187549,
     "wof:name":"Flower Wagon",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [138.749237,-34.596657,138.749237,-34.596657],
-  "geometry": {"coordinates":[138.749237,-34.596657],"type":"Point"}
+  "bbox": [
+    138.749237,
+    -34.596657,
+    138.749237,
+    -34.596657
+],
+  "geometry": {"coordinates":[138.74923699999999,-34.596657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253295333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.904953,-31.344181,115.904953,-31.344181",
     "geom:latitude":-31.344181,
     "geom:longitude":115.904953,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Robinson St",
     "sg:city":"Gingin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253295333,
-    "wof:lastmodified":1449064028,
+    "wof:lastmodified":1466190737,
     "wof:name":"Gingin Physiotherapy Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.904953,-31.344181,115.904953,-31.344181],
-  "geometry": {"coordinates":[115.904953,-31.344181],"type":"Point"}
+  "bbox": [
+    115.904953,
+    -31.344181,
+    115.904953,
+    -31.344181
+],
+  "geometry": {"coordinates":[115.90495300000001,-31.344181],"type":"Point"}
 }

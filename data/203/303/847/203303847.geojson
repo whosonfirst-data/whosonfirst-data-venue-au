@@ -2,13 +2,14 @@
   "id": 203303847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.818146,-37.54697,143.818146,-37.54697",
     "geom:latitude":-37.54697,
     "geom:longitude":143.818146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 st helens Ave",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203303847,
-    "wof:lastmodified":1449024950,
+    "wof:lastmodified":1466187999,
     "wof:name":"PJ&AV Ritchie",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.818146,-37.54697,143.818146,-37.54697],
-  "geometry": {"coordinates":[143.818146,-37.54697],"type":"Point"}
+  "bbox": [
+    143.818146,
+    -37.54697,
+    143.818146,
+    -37.54697
+],
+  "geometry": {"coordinates":[143.81814600000001,-37.54697],"type":"Point"}
 }

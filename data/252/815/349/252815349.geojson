@@ -2,13 +2,14 @@
   "id": 252815349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.605789,-38.340931,143.605789,-38.340931",
     "geom:latitude":-38.340931,
     "geom:longitude":143.605789,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 colac Forest Rd",
     "sg:city":"Colac East",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252815349,
-    "wof:lastmodified":1449005937,
+    "wof:lastmodified":1466188265,
     "wof:name":"Colac Electrical Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.605789,-38.340931,143.605789,-38.340931],
-  "geometry": {"coordinates":[143.605789,-38.340931],"type":"Point"}
+  "bbox": [
+    143.605789,
+    -38.340931,
+    143.605789,
+    -38.340931
+],
+  "geometry": {"coordinates":[143.60578899999999,-38.340931],"type":"Point"}
 }

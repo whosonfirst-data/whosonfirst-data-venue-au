@@ -2,13 +2,14 @@
   "id": 252719903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.638458,-33.320698,115.638458,-33.320698",
     "geom:latitude":-33.320698,
     "geom:longitude":115.638458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Casuarina Drv",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252719903,
-    "wof:lastmodified":1449005542,
+    "wof:lastmodified":1466187072,
     "wof:name":"Bunbury Port Authority",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [115.638458,-33.320698,115.638458,-33.320698],
+  "bbox": [
+    115.638458,
+    -33.320698,
+    115.638458,
+    -33.320698
+],
   "geometry": {"coordinates":[115.638458,-33.320698],"type":"Point"}
 }

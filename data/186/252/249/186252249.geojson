@@ -2,13 +2,14 @@
   "id": 186252249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.906509,-31.442259,152.906509,-31.442259",
     "geom:latitude":-31.442259,
     "geom:longitude":152.906509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Wyandra Crescent,",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186252249,
-    "wof:lastmodified":1449050658,
+    "wof:lastmodified":1466187430,
     "wof:name":"Fizzsport Physiotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.906509,-31.442259,152.906509,-31.442259],
+  "bbox": [
+    152.906509,
+    -31.442259,
+    152.906509,
+    -31.442259
+],
   "geometry": {"coordinates":[152.906509,-31.442259],"type":"Point"}
 }

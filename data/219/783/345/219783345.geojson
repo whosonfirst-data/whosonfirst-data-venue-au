@@ -2,13 +2,14 @@
   "id": 219783345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.13559,-33.876163,151.13559,-33.876163",
     "geom:latitude":-33.876163,
     "geom:longitude":151.13559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Ramsay St",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219783345,
-    "wof:lastmodified":1449070486,
+    "wof:lastmodified":1466191325,
     "wof:name":"Saya Paul",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [151.13559,-33.876163,151.13559,-33.876163],
-  "geometry": {"coordinates":[151.13559,-33.876163],"type":"Point"}
+  "bbox": [
+    151.13559,
+    -33.876163,
+    151.13559,
+    -33.876163
+],
+  "geometry": {"coordinates":[151.13559000000001,-33.876163],"type":"Point"}
 }

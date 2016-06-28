@@ -2,13 +2,14 @@
   "id": 219166799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.073715,-27.413883,153.073715,-27.413883",
     "geom:latitude":-27.413883,
     "geom:longitude":153.073715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U1/ 191 Hedley Ave",
     "sg:city":"Hendra",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219166799,
-    "wof:lastmodified":1449072347,
+    "wof:lastmodified":1466189741,
     "wof:name":"Stor-a-Bag (division of Marmanton Pty Ltd)",
     "wof:parent_id":85774049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.073715,-27.413883,153.073715,-27.413883],
-  "geometry": {"coordinates":[153.073715,-27.413883],"type":"Point"}
+  "bbox": [
+    153.073715,
+    -27.413883,
+    153.073715,
+    -27.413883
+],
+  "geometry": {"coordinates":[153.07371499999999,-27.413883],"type":"Point"}
 }

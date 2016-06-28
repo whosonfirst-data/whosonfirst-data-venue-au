@@ -2,13 +2,14 @@
   "id": 203002871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.486557,-20.723848,139.486557,-20.723848",
     "geom:latitude":-20.723848,
     "geom:longitude":139.486557,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Barkly Hwy",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203002871,
-    "wof:lastmodified":1449026496,
+    "wof:lastmodified":1466187032,
     "wof:name":"Primac Limited",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stock"
     ]
 },
-  "bbox": [139.486557,-20.723848,139.486557,-20.723848],
+  "bbox": [
+    139.486557,
+    -20.723848,
+    139.486557,
+    -20.723848
+],
   "geometry": {"coordinates":[139.486557,-20.723848],"type":"Point"}
 }

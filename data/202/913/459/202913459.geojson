@@ -2,13 +2,14 @@
   "id": 202913459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.106308,-30.286751,153.106308,-30.286751",
     "geom:latitude":-30.286751,
     "geom:longitude":153.106308,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Gundagai St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202913459,
-    "wof:lastmodified":1449061095,
+    "wof:lastmodified":1466190745,
     "wof:name":"Environmental Oil Absorbent Products",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "spill"
     ]
 },
-  "bbox": [153.106308,-30.286751,153.106308,-30.286751],
-  "geometry": {"coordinates":[153.106308,-30.286751],"type":"Point"}
+  "bbox": [
+    153.106308,
+    -30.286751,
+    153.106308,
+    -30.286751
+],
+  "geometry": {"coordinates":[153.10630800000001,-30.286751],"type":"Point"}
 }

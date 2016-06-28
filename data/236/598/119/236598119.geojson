@@ -2,13 +2,14 @@
   "id": 236598119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.131927,-33.962353,151.131927,-33.962353",
     "geom:latitude":-33.962353,
     "geom:longitude":151.131927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Station St",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236598119,
-    "wof:lastmodified":1449001807,
+    "wof:lastmodified":1466191629,
     "wof:name":"Sydney Town Chorus",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [151.131927,-33.962353,151.131927,-33.962353],
-  "geometry": {"coordinates":[151.131927,-33.962353],"type":"Point"}
+  "bbox": [
+    151.131927,
+    -33.962353,
+    151.131927,
+    -33.962353
+],
+  "geometry": {"coordinates":[151.13192699999999,-33.962353],"type":"Point"}
 }

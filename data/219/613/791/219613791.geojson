@@ -2,13 +2,14 @@
   "id": 219613791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165741,-33.912163,151.165741,-33.912163",
     "geom:latitude":-33.912163,
     "geom:longitude":151.165741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Sydenham Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219613791,
-    "wof:lastmodified":1449072039,
+    "wof:lastmodified":1466190782,
     "wof:name":"Snap Printing",
     "wof:parent_id":85776747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [151.165741,-33.912163,151.165741,-33.912163],
+  "bbox": [
+    151.165741,
+    -33.912163,
+    151.165741,
+    -33.912163
+],
   "geometry": {"coordinates":[151.165741,-33.912163],"type":"Point"}
 }

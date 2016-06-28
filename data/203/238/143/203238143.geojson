@@ -2,13 +2,14 @@
   "id": 203238143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.326645,-36.355549,146.326645,-36.355549",
     "geom:latitude":-36.355549,
     "geom:longitude":146.326645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33A Reid St",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203238143,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466187485,
     "wof:name":"The Tax Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [146.326645,-36.355549,146.326645,-36.355549],
-  "geometry": {"coordinates":[146.326645,-36.355549],"type":"Point"}
+  "bbox": [
+    146.326645,
+    -36.355549,
+    146.326645,
+    -36.355549
+],
+  "geometry": {"coordinates":[146.32664500000001,-36.355549],"type":"Point"}
 }

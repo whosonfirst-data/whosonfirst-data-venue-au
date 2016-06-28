@@ -2,13 +2,14 @@
   "id": 185710055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.822525,-32.766991,151.822525,-32.766991",
     "geom:latitude":-32.766991,
     "geom:longitude":151.822525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Richardson Rd",
     "sg:city":"Campvale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185710055,
-    "wof:lastmodified":1449006693,
+    "wof:lastmodified":1466189229,
     "wof:name":"Hunter Valley Mushrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mushroom"
     ]
 },
-  "bbox": [151.822525,-32.766991,151.822525,-32.766991],
-  "geometry": {"coordinates":[151.822525,-32.766991],"type":"Point"}
+  "bbox": [
+    151.822525,
+    -32.766991,
+    151.822525,
+    -32.766991
+],
+  "geometry": {"coordinates":[151.82252500000001,-32.766991],"type":"Point"}
 }

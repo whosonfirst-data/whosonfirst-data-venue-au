@@ -2,13 +2,14 @@
   "id": 203017015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"141.741867,-20.658659,141.741867,-20.658659",
     "geom:latitude":-20.658659,
     "geom:longitude":141.741867,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Goldring St",
     "sg:city":"Julia Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203017015,
-    "wof:lastmodified":1449025948,
+    "wof:lastmodified":1466189969,
     "wof:name":"Oakley Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [141.741867,-20.658659,141.741867,-20.658659],
-  "geometry": {"coordinates":[141.741867,-20.658659],"type":"Point"}
+  "bbox": [
+    141.741867,
+    -20.658659,
+    141.741867,
+    -20.658659
+],
+  "geometry": {"coordinates":[141.74186700000001,-20.658659],"type":"Point"}
 }

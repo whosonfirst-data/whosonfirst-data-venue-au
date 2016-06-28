@@ -2,13 +2,14 @@
   "id": 219164881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.058578,-27.415539,153.058578,-27.415539",
     "geom:latitude":-27.415539,
     "geom:longitude":153.058578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Sandgate Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219164881,
-    "wof:lastmodified":1449070811,
+    "wof:lastmodified":1466189721,
     "wof:name":"Chicken Magic",
     "wof:parent_id":85774211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [153.058578,-27.415539,153.058578,-27.415539],
-  "geometry": {"coordinates":[153.058578,-27.415539],"type":"Point"}
+  "bbox": [
+    153.058578,
+    -27.415539,
+    153.058578,
+    -27.415539
+],
+  "geometry": {"coordinates":[153.05857800000001,-27.415539],"type":"Point"}
 }

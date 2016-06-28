@@ -2,13 +2,14 @@
   "id": 236638615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.988724,-33.937546,150.988724,-33.937546",
     "geom:latitude":-33.937546,
     "geom:longitude":150.988724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bullecourt Ave",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236638615,
-    "wof:lastmodified":1449001812,
+    "wof:lastmodified":1466191739,
     "wof:name":"BP Australia Pty Ltd",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.988724,-33.937546,150.988724,-33.937546],
-  "geometry": {"coordinates":[150.988724,-33.937546],"type":"Point"}
+  "bbox": [
+    150.988724,
+    -33.937546,
+    150.988724,
+    -33.937546
+],
+  "geometry": {"coordinates":[150.98872399999999,-33.937546],"type":"Point"}
 }

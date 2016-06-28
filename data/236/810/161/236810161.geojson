@@ -2,13 +2,14 @@
   "id": 236810161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.872055,-34.46825,150.872055,-34.46825",
     "geom:latitude":-34.46825,
     "geom:longitude":150.872055,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Lake Ave",
     "sg:city":"Cringila",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236810161,
-    "wof:lastmodified":1449002434,
+    "wof:lastmodified":1466192061,
     "wof:name":"Cringila HACC Respite Centre",
     "wof:parent_id":85769125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aged"
     ]
 },
-  "bbox": [150.872055,-34.46825,150.872055,-34.46825],
-  "geometry": {"coordinates":[150.872055,-34.46825],"type":"Point"}
+  "bbox": [
+    150.872055,
+    -34.46825,
+    150.872055,
+    -34.46825
+],
+  "geometry": {"coordinates":[150.87205499999999,-34.46825],"type":"Point"}
 }

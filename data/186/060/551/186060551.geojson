@@ -2,13 +2,14 @@
   "id": 186060551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.474442,-33.115578,151.474442,-33.115578",
     "geom:latitude":-33.115578,
     "geom:longitude":151.474442,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Alliance Ave",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186060551,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466188441,
     "wof:name":"Morisset Outboard Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [151.474442,-33.115578,151.474442,-33.115578],
-  "geometry": {"coordinates":[151.474442,-33.115578],"type":"Point"}
+  "bbox": [
+    151.474442,
+    -33.115578,
+    151.474442,
+    -33.115578
+],
+  "geometry": {"coordinates":[151.47444200000001,-33.115578],"type":"Point"}
 }

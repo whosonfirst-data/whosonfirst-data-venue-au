@@ -2,13 +2,14 @@
   "id": 202944851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.121765,-30.29924,153.121765,-30.29924",
     "geom:latitude":-30.29924,
     "geom:longitude":153.121765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 North St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202944851,
-    "wof:lastmodified":1449061389,
+    "wof:lastmodified":1466190971,
     "wof:name":"Colour me Simple",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [153.121765,-30.29924,153.121765,-30.29924],
-  "geometry": {"coordinates":[153.121765,-30.29924],"type":"Point"}
+  "bbox": [
+    153.121765,
+    -30.29924,
+    153.121765,
+    -30.29924
+],
+  "geometry": {"coordinates":[153.12176500000001,-30.29924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219827635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.805901,-31.976019,115.805901,-31.976019",
     "geom:latitude":-31.976019,
     "geom:longitude":115.805901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Smyth Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219827635,
-    "wof:lastmodified":1449071656,
+    "wof:lastmodified":1466191451,
     "wof:name":"Consortium Builders Pty Ltd",
     "wof:parent_id":85769859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.805901,-31.976019,115.805901,-31.976019],
-  "geometry": {"coordinates":[115.805901,-31.976019],"type":"Point"}
+  "bbox": [
+    115.805901,
+    -31.976019,
+    115.805901,
+    -31.976019
+],
+  "geometry": {"coordinates":[115.80590100000001,-31.976019],"type":"Point"}
 }

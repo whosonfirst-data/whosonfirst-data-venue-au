@@ -2,13 +2,14 @@
   "id": 186375147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160095,-33.856506,151.160095,-33.856506",
     "geom:latitude":-33.856506,
     "geom:longitude":151.160095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186375147,
-    "wof:lastmodified":1449050365,
+    "wof:lastmodified":1466188914,
     "wof:name":"Bodymove Physiotherapy",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.160095,-33.856506,151.160095,-33.856506],
-  "geometry": {"coordinates":[151.160095,-33.856506],"type":"Point"}
+  "bbox": [
+    151.160095,
+    -33.856506,
+    151.160095,
+    -33.856506
+],
+  "geometry": {"coordinates":[151.16009500000001,-33.856506],"type":"Point"}
 }

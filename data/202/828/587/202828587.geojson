@@ -2,13 +2,14 @@
   "id": 202828587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.166229,-23.516222,148.166229,-23.516222",
     "geom:latitude":-23.516222,
     "geom:longitude":148.166229,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 McKendry St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202828587,
-    "wof:lastmodified":1449061409,
+    "wof:lastmodified":1466190301,
     "wof:name":"Tony Grant Electrician & Trencher Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [148.166229,-23.516222,148.166229,-23.516222],
-  "geometry": {"coordinates":[148.166229,-23.516222],"type":"Point"}
+  "bbox": [
+    148.166229,
+    -23.516222,
+    148.166229,
+    -23.516222
+],
+  "geometry": {"coordinates":[148.16622899999999,-23.516222],"type":"Point"}
 }

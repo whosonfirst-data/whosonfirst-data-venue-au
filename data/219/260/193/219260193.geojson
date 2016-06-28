@@ -2,13 +2,14 @@
   "id": 219260193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.255554,-38.19091,146.255554,-38.19091",
     "geom:latitude":-38.19091,
     "geom:longitude":146.255554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Griffin St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219260193,
-    "wof:lastmodified":1449070973,
+    "wof:lastmodified":1466187203,
     "wof:name":"Hersey Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.255554,-38.19091,146.255554,-38.19091],
-  "geometry": {"coordinates":[146.255554,-38.19091],"type":"Point"}
+  "bbox": [
+    146.255554,
+    -38.19091,
+    146.255554,
+    -38.19091
+],
+  "geometry": {"coordinates":[146.25555399999999,-38.19091],"type":"Point"}
 }

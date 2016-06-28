@@ -2,13 +2,14 @@
   "id": 202445259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.957367,-37.832405,144.957367,-37.832405",
     "geom:latitude":-37.832405,
     "geom:longitude":144.957367,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 14-15 / 116 Cecil St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202445259,
-    "wof:lastmodified":1449060444,
+    "wof:lastmodified":1466188698,
     "wof:name":"Steve's Deli",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [144.957367,-37.832405,144.957367,-37.832405],
+  "bbox": [
+    144.957367,
+    -37.832405,
+    144.957367,
+    -37.832405
+],
   "geometry": {"coordinates":[144.957367,-37.832405],"type":"Point"}
 }

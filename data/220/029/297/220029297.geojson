@@ -2,13 +2,14 @@
   "id": 220029297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.603561,-35.008125,138.603561,-35.008125",
     "geom:latitude":-35.008125,
     "geom:longitude":138.603561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Mead St",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220029297,
-    "wof:lastmodified":1449074379,
+    "wof:lastmodified":1466187300,
     "wof:name":"Cognisage Australia",
     "wof:parent_id":85777437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relation"
     ]
 },
-  "bbox": [138.603561,-35.008125,138.603561,-35.008125],
-  "geometry": {"coordinates":[138.603561,-35.008125],"type":"Point"}
+  "bbox": [
+    138.603561,
+    -35.008125,
+    138.603561,
+    -35.008125
+],
+  "geometry": {"coordinates":[138.60356100000001,-35.008125],"type":"Point"}
 }

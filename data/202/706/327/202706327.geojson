@@ -2,13 +2,14 @@
   "id": 202706327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.059433,-27.343382,153.059433,-27.343382",
     "geom:latitude":-27.343382,
     "geom:longitude":153.059433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2270 Sandgate Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202706327,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466188950,
     "wof:name":"Boondall Veterinary Surgery",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [153.059433,-27.343382,153.059433,-27.343382],
-  "geometry": {"coordinates":[153.059433,-27.343382],"type":"Point"}
+  "bbox": [
+    153.059433,
+    -27.343382,
+    153.059433,
+    -27.343382
+],
+  "geometry": {"coordinates":[153.05943300000001,-27.343382],"type":"Point"}
 }

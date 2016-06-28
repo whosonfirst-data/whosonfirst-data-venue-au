@@ -2,13 +2,14 @@
   "id": 220143991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.367859,-38.167473,144.367859,-38.167473",
     "geom:latitude":-38.167473,
     "geom:longitude":144.367859,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Dowsett & Crown Sts",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220143991,
-    "wof:lastmodified":1449074723,
+    "wof:lastmodified":1466188469,
     "wof:name":"Robert Lange Engineering Pty Ltd",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.367859,-38.167473,144.367859,-38.167473],
-  "geometry": {"coordinates":[144.367859,-38.167473],"type":"Point"}
+  "bbox": [
+    144.367859,
+    -38.167473,
+    144.367859,
+    -38.167473
+],
+  "geometry": {"coordinates":[144.36785900000001,-38.167473],"type":"Point"}
 }

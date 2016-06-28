@@ -2,13 +2,14 @@
   "id": 186405969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.805832,-19.266497,146.805832,-19.266497",
     "geom:latitude":-19.266497,
     "geom:longitude":146.805832,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Maryvale St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186405969,
-    "wof:lastmodified":1449052795,
+    "wof:lastmodified":1466189405,
     "wof:name":"Gardner Gary",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [146.805832,-19.266497,146.805832,-19.266497],
-  "geometry": {"coordinates":[146.805832,-19.266497],"type":"Point"}
+  "bbox": [
+    146.805832,
+    -19.266497,
+    146.805832,
+    -19.266497
+],
+  "geometry": {"coordinates":[146.80583200000001,-19.266497],"type":"Point"}
 }

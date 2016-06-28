@@ -2,13 +2,14 @@
   "id": 219166341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.05899,-27.412111,153.05899,-27.412111",
     "geom:latitude":-27.412111,
     "geom:longitude":153.05899,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fig Trees Shopping Centre 531 Cnr Sandgate & Oriel Rds",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219166341,
-    "wof:lastmodified":1449072348,
+    "wof:lastmodified":1466189733,
     "wof:name":"Queensland Heart Clinic",
     "wof:parent_id":85774211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.05899,-27.412111,153.05899,-27.412111],
-  "geometry": {"coordinates":[153.05899,-27.412111],"type":"Point"}
+  "bbox": [
+    153.05899,
+    -27.412111,
+    153.05899,
+    -27.412111
+],
+  "geometry": {"coordinates":[153.05898999999999,-27.412111],"type":"Point"}
 }

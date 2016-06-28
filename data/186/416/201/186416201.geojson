@@ -2,13 +2,14 @@
   "id": 186416201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.820374,-19.253895,146.820374,-19.253895",
     "geom:latitude":-19.253895,
     "geom:longitude":146.820374,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"The Arcade, 390 Flinders Mall",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186416201,
-    "wof:lastmodified":1449051582,
+    "wof:lastmodified":1466189579,
     "wof:name":"Revolver Compact Discs",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "musical"
     ]
 },
-  "bbox": [146.820374,-19.253895,146.820374,-19.253895],
-  "geometry": {"coordinates":[146.820374,-19.253895],"type":"Point"}
+  "bbox": [
+    146.820374,
+    -19.253895,
+    146.820374,
+    -19.253895
+],
+  "geometry": {"coordinates":[146.82037399999999,-19.253895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202481171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.03479,-37.917824,145.03479,-37.917824",
     "geom:latitude":-37.917824,
     "geom:longitude":145.03479,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202481171,
-    "wof:lastmodified":1449062336,
+    "wof:lastmodified":1466189240,
     "wof:name":"Mackie Family Vet Clinic",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.03479,-37.917824,145.03479,-37.917824],
-  "geometry": {"coordinates":[145.03479,-37.917824],"type":"Point"}
+  "bbox": [
+    145.03479,
+    -37.917824,
+    145.03479,
+    -37.917824
+],
+  "geometry": {"coordinates":[145.03478999999999,-37.917824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253163215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952286,-27.568304,151.952286,-27.568304",
     "geom:latitude":-27.568304,
     "geom:longitude":151.952286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253163215,
-    "wof:lastmodified":1449065743,
+    "wof:lastmodified":1466189851,
     "wof:name":"Optical Warehouse",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.952286,-27.568304,151.952286,-27.568304],
-  "geometry": {"coordinates":[151.952286,-27.568304],"type":"Point"}
+  "bbox": [
+    151.952286,
+    -27.568304,
+    151.952286,
+    -27.568304
+],
+  "geometry": {"coordinates":[151.95228599999999,-27.568304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219709659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.520554,-32.215382,152.520554,-32.215382",
     "geom:latitude":-32.215382,
     "geom:longitude":152.520554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"86 King George Pde",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219709659,
-    "wof:lastmodified":1449071096,
+    "wof:lastmodified":1466191172,
     "wof:name":"Integral Building Investigations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [152.520554,-32.215382,152.520554,-32.215382],
+  "bbox": [
+    152.520554,
+    -32.215382,
+    152.520554,
+    -32.215382
+],
   "geometry": {"coordinates":[152.520554,-32.215382],"type":"Point"}
 }

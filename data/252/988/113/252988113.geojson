@@ -2,13 +2,14 @@
   "id": 252988113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.129868,-26.736151,153.129868,-26.736151",
     "geom:latitude":-26.736151,
     "geom:longitude":153.129868,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Kookaburra Crs",
     "sg:city":"Bokarina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252988113,
-    "wof:lastmodified":1449005778,
+    "wof:lastmodified":1466189738,
     "wof:name":"Pelican Carriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [153.129868,-26.736151,153.129868,-26.736151],
-  "geometry": {"coordinates":[153.129868,-26.736151],"type":"Point"}
+  "bbox": [
+    153.129868,
+    -26.736151,
+    153.129868,
+    -26.736151
+],
+  "geometry": {"coordinates":[153.12986799999999,-26.736151],"type":"Point"}
 }

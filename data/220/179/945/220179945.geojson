@@ -2,13 +2,14 @@
   "id": 220179945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.360657,-38.164539,144.360657,-38.164539",
     "geom:latitude":-38.164539,
     "geom:longitude":144.360657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Little Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220179945,
-    "wof:lastmodified":1449074790,
+    "wof:lastmodified":1466189187,
     "wof:name":"M.A.P. Kerb & Channelling Pty Ltd",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.360657,-38.164539,144.360657,-38.164539],
+  "bbox": [
+    144.360657,
+    -38.164539,
+    144.360657,
+    -38.164539
+],
   "geometry": {"coordinates":[144.360657,-38.164539],"type":"Point"}
 }

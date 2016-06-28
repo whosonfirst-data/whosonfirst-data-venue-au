@@ -2,13 +2,14 @@
   "id": 219858725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177139,-33.859924,151.177139,-33.859924",
     "geom:latitude":-33.859924,
     "geom:longitude":151.177139,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Mullens St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219858725,
-    "wof:lastmodified":1449070737,
+    "wof:lastmodified":1466191570,
     "wof:name":"Flatout Australia",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.177139,-33.859924,151.177139,-33.859924],
-  "geometry": {"coordinates":[151.177139,-33.859924],"type":"Point"}
+  "bbox": [
+    151.177139,
+    -33.859924,
+    151.177139,
+    -33.859924
+],
+  "geometry": {"coordinates":[151.17713900000001,-33.859924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202487075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.051575,-37.90559,145.051575,-37.90559",
     "geom:latitude":-37.90559,
     "geom:longitude":145.051575,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"732 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202487075,
-    "wof:lastmodified":1449060935,
+    "wof:lastmodified":1466189337,
     "wof:name":"WATTS FENCING",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.051575,-37.90559,145.051575,-37.90559],
-  "geometry": {"coordinates":[145.051575,-37.90559],"type":"Point"}
+  "bbox": [
+    145.051575,
+    -37.90559,
+    145.051575,
+    -37.90559
+],
+  "geometry": {"coordinates":[145.05157500000001,-37.90559],"type":"Point"}
 }

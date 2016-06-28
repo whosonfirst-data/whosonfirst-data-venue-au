@@ -2,13 +2,14 @@
   "id": 202650511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.028336,-27.417809,153.028336,-27.417809",
     "geom:latitude":-27.417809,
     "geom:longitude":153.028336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Gordon St",
     "sg:city":"Gordon Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202650511,
-    "wof:lastmodified":1449061669,
+    "wof:lastmodified":1466187889,
     "wof:name":"Fast Car Transport",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [153.028336,-27.417809,153.028336,-27.417809],
+  "bbox": [
+    153.028336,
+    -27.417809,
+    153.028336,
+    -27.417809
+],
   "geometry": {"coordinates":[153.028336,-27.417809],"type":"Point"}
 }

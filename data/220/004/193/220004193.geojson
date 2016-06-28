@@ -2,13 +2,14 @@
   "id": 220004193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.780838,-37.828163,140.780838,-37.828163",
     "geom:latitude":-37.828163,
     "geom:longitude":140.780838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Penola Rd",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220004193,
-    "wof:lastmodified":1449074318,
+    "wof:lastmodified":1466186915,
     "wof:name":"South Pacific Seeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "grading"
     ]
 },
-  "bbox": [140.780838,-37.828163,140.780838,-37.828163],
-  "geometry": {"coordinates":[140.780838,-37.828163],"type":"Point"}
+  "bbox": [
+    140.780838,
+    -37.828163,
+    140.780838,
+    -37.828163
+],
+  "geometry": {"coordinates":[140.78083799999999,-37.828163],"type":"Point"}
 }

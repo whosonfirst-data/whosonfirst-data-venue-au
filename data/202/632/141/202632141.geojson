@@ -2,13 +2,14 @@
   "id": 202632141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.223206,-33.908768,151.223206,-33.908768",
     "geom:latitude":-33.908768,
     "geom:longitude":151.223206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97- 101 Anzac Pde",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202632141,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1466187629,
     "wof:name":"Grotta Capri Restaurant",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [151.223206,-33.908768,151.223206,-33.908768],
+  "bbox": [
+    151.223206,
+    -33.908768,
+    151.223206,
+    -33.908768
+],
   "geometry": {"coordinates":[151.223206,-33.908768],"type":"Point"}
 }

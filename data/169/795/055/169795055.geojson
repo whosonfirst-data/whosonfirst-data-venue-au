@@ -2,13 +2,14 @@
   "id": 169795055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.589706,-38.606327,145.589706,-38.606327",
     "geom:latitude":-38.606327,
     "geom:longitude":145.589706,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 McBride Ave",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169795055,
-    "wof:lastmodified":1449034641,
+    "wof:lastmodified":1466188618,
     "wof:name":"Jean Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jean"
     ]
 },
-  "bbox": [145.589706,-38.606327,145.589706,-38.606327],
-  "geometry": {"coordinates":[145.589706,-38.606327],"type":"Point"}
+  "bbox": [
+    145.589706,
+    -38.606327,
+    145.589706,
+    -38.606327
+],
+  "geometry": {"coordinates":[145.58970600000001,-38.606327],"type":"Point"}
 }

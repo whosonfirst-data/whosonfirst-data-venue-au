@@ -2,13 +2,14 @@
   "id": 236947159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.595245,-34.990803,138.595245,-34.990803",
     "geom:latitude":-34.990803,
     "geom:longitude":138.595245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Springbank Rd",
     "sg:city":"Panorama",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236947159,
-    "wof:lastmodified":1449004149,
+    "wof:lastmodified":1466192151,
     "wof:name":"Fish Bites & Chargrill",
     "wof:parent_id":85777437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [138.595245,-34.990803,138.595245,-34.990803],
-  "geometry": {"coordinates":[138.595245,-34.990803],"type":"Point"}
+  "bbox": [
+    138.595245,
+    -34.990803,
+    138.595245,
+    -34.990803
+],
+  "geometry": {"coordinates":[138.59524500000001,-34.990803],"type":"Point"}
 }

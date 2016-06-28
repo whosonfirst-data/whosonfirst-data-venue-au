@@ -2,13 +2,14 @@
   "id": 253216471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.928253,-27.538267,151.928253,-27.538267",
     "geom:latitude":-27.538267,
     "geom:longitude":151.928253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"252 North St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253216471,
-    "wof:lastmodified":1449065439,
+    "wof:lastmodified":1466190226,
     "wof:name":"staytoowoomba.com.au",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.928253,-27.538267,151.928253,-27.538267],
-  "geometry": {"coordinates":[151.928253,-27.538267],"type":"Point"}
+  "bbox": [
+    151.928253,
+    -27.538267,
+    151.928253,
+    -27.538267
+],
+  "geometry": {"coordinates":[151.92825300000001,-27.538267],"type":"Point"}
 }

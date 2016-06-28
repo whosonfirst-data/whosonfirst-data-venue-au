@@ -2,13 +2,14 @@
   "id": 253162135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950546,-27.578003,151.950546,-27.578003",
     "geom:latitude":-27.578003,
     "geom:longitude":151.950546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253162135,
-    "wof:lastmodified":1449065341,
+    "wof:lastmodified":1466189831,
     "wof:name":"Villa Nova Motel",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.950546,-27.578003,151.950546,-27.578003],
+  "bbox": [
+    151.950546,
+    -27.578003,
+    151.950546,
+    -27.578003
+],
   "geometry": {"coordinates":[151.950546,-27.578003],"type":"Point"}
 }

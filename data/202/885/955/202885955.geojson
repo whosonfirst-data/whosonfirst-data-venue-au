@@ -2,13 +2,14 @@
   "id": 202885955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.897354,-30.452316,152.897354,-30.452316",
     "geom:latitude":-30.452316,
     "geom:longitude":152.897354,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Hyde St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202885955,
-    "wof:lastmodified":1449061460,
+    "wof:lastmodified":1466190498,
     "wof:name":"Robards & Associates Public Accountants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [152.897354,-30.452316,152.897354,-30.452316],
-  "geometry": {"coordinates":[152.897354,-30.452316],"type":"Point"}
+  "bbox": [
+    152.897354,
+    -30.452316,
+    152.897354,
+    -30.452316
+],
+  "geometry": {"coordinates":[152.89735400000001,-30.452316],"type":"Point"}
 }

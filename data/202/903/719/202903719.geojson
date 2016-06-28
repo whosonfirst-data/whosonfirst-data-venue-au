@@ -2,13 +2,14 @@
   "id": 202903719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.197769,-30.076603,153.197769,-30.076603",
     "geom:latitude":-30.076603,
     "geom:longitude":153.197769,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Mullaway Drv",
     "sg:city":"Mullaway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202903719,
-    "wof:lastmodified":1449060257,
+    "wof:lastmodified":1466190577,
     "wof:name":"SKEE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "canoe"
     ]
 },
-  "bbox": [153.197769,-30.076603,153.197769,-30.076603],
-  "geometry": {"coordinates":[153.197769,-30.076603],"type":"Point"}
+  "bbox": [
+    153.197769,
+    -30.076603,
+    153.197769,
+    -30.076603
+],
+  "geometry": {"coordinates":[153.19776899999999,-30.076603],"type":"Point"}
 }

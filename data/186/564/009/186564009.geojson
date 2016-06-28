@@ -2,13 +2,14 @@
   "id": 186564009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.286926,-33.648182,151.286926,-33.648182",
     "geom:latitude":-33.648182,
     "geom:longitude":151.286926,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Baroona Rd",
     "sg:city":"Church Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186564009,
-    "wof:lastmodified":1449052876,
+    "wof:lastmodified":1466190792,
     "wof:name":"Altona Architects Group Pty Ltd",
     "wof:parent_id":85774673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.286926,-33.648182,151.286926,-33.648182],
-  "geometry": {"coordinates":[151.286926,-33.648182],"type":"Point"}
+  "bbox": [
+    151.286926,
+    -33.648182,
+    151.286926,
+    -33.648182
+],
+  "geometry": {"coordinates":[151.28692599999999,-33.648182],"type":"Point"}
 }

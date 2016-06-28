@@ -2,13 +2,14 @@
   "id": 253217659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951263,-27.561199,151.951263,-27.561199",
     "geom:latitude":-27.561199,
     "geom:longitude":151.951263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Victoria St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253217659,
-    "wof:lastmodified":1449065613,
+    "wof:lastmodified":1466190233,
     "wof:name":"Senior Citizens Day Respite Centre",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aged"
     ]
 },
-  "bbox": [151.951263,-27.561199,151.951263,-27.561199],
-  "geometry": {"coordinates":[151.951263,-27.561199],"type":"Point"}
+  "bbox": [
+    151.951263,
+    -27.561199,
+    151.951263,
+    -27.561199
+],
+  "geometry": {"coordinates":[151.95126300000001,-27.561199],"type":"Point"}
 }

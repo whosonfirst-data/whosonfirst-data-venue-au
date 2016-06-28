@@ -2,13 +2,14 @@
   "id": 202418609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.936554,-37.82436,144.936554,-37.82436",
     "geom:latitude":-37.82436,
     "geom:longitude":144.936554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rogers St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202418609,
-    "wof:lastmodified":1449062107,
+    "wof:lastmodified":1466188099,
     "wof:name":"Gunns Limited",
     "wof:parent_id":85776037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [144.936554,-37.82436,144.936554,-37.82436],
+  "bbox": [
+    144.936554,
+    -37.82436,
+    144.936554,
+    -37.82436
+],
   "geometry": {"coordinates":[144.936554,-37.82436],"type":"Point"}
 }

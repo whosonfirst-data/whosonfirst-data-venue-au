@@ -2,13 +2,14 @@
   "id": 186617199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.051117,-34.290096,146.051117,-34.290096",
     "geom:latitude":-34.290096,
     "geom:longitude":146.051117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Yambil St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186617199,
-    "wof:lastmodified":1449050355,
+    "wof:lastmodified":1466190964,
     "wof:name":"Iris Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [146.051117,-34.290096,146.051117,-34.290096],
+  "bbox": [
+    146.051117,
+    -34.290096,
+    146.051117,
+    -34.290096
+],
   "geometry": {"coordinates":[146.051117,-34.290096],"type":"Point"}
 }

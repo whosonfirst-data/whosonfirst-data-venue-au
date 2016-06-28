@@ -2,13 +2,14 @@
   "id": 202393147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.751526,-34.596375,138.751526,-34.596375",
     "geom:latitude":-34.596375,
     "geom:longitude":138.751526,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Lyndoch Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202393147,
-    "wof:lastmodified":1449060902,
+    "wof:lastmodified":1466187475,
     "wof:name":"Immanuel Lutheran School Gawler",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [138.751526,-34.596375,138.751526,-34.596375],
-  "geometry": {"coordinates":[138.751526,-34.596375],"type":"Point"}
+  "bbox": [
+    138.751526,
+    -34.596375,
+    138.751526,
+    -34.596375
+],
+  "geometry": {"coordinates":[138.75152600000001,-34.596375],"type":"Point"}
 }

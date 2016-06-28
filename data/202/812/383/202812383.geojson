@@ -2,13 +2,14 @@
   "id": 202812383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.704285,-32.922039,151.704285,-32.922039",
     "geom:latitude":-32.922039,
     "geom:longitude":151.704285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Russell Rd",
     "sg:city":"New Lambton Heights",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202812383,
-    "wof:lastmodified":1449060168,
+    "wof:lastmodified":1466190370,
     "wof:name":"Heritage Stained Glass",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [151.704285,-32.922039,151.704285,-32.922039],
+  "bbox": [
+    151.704285,
+    -32.922039,
+    151.704285,
+    -32.922039
+],
   "geometry": {"coordinates":[151.704285,-32.922039],"type":"Point"}
 }

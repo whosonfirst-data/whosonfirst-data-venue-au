@@ -2,13 +2,14 @@
   "id": 203124911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.696121,-32.544991,115.696121,-32.544991",
     "geom:latitude":-32.544991,
     "geom:longitude":115.696121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Peelwood Pde",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203124911,
-    "wof:lastmodified":1449026729,
+    "wof:lastmodified":1466189454,
     "wof:name":"Lukes Cleaning Service",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.696121,-32.544991,115.696121,-32.544991],
-  "geometry": {"coordinates":[115.696121,-32.544991],"type":"Point"}
+  "bbox": [
+    115.696121,
+    -32.544991,
+    115.696121,
+    -32.544991
+],
+  "geometry": {"coordinates":[115.69612100000001,-32.544991],"type":"Point"}
 }

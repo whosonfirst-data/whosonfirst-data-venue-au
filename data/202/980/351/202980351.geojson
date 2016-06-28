@@ -2,13 +2,14 @@
   "id": 202980351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.187393,-33.796539,151.187393,-33.796539",
     "geom:latitude":-33.796539,
     "geom:longitude":151.187393,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13/ 46 Neridah St",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202980351,
-    "wof:lastmodified":1449060283,
+    "wof:lastmodified":1466191136,
     "wof:name":"Dunn, Rebecca",
     "wof:parent_id":85769015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [151.187393,-33.796539,151.187393,-33.796539],
-  "geometry": {"coordinates":[151.187393,-33.796539],"type":"Point"}
+  "bbox": [
+    151.187393,
+    -33.796539,
+    151.187393,
+    -33.796539
+],
+  "geometry": {"coordinates":[151.18739299999999,-33.796539],"type":"Point"}
 }

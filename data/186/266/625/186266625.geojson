@@ -2,13 +2,14 @@
   "id": 186266625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.903824,-31.434772,152.903824,-31.434772",
     "geom:latitude":-31.434772,
     "geom:longitude":152.903824,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 122 Gordon St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186266625,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466187526,
     "wof:name":"Port Sewing & Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [152.903824,-31.434772,152.903824,-31.434772],
-  "geometry": {"coordinates":[152.903824,-31.434772],"type":"Point"}
+  "bbox": [
+    152.903824,
+    -31.434772,
+    152.903824,
+    -31.434772
+],
+  "geometry": {"coordinates":[152.90382399999999,-31.434772],"type":"Point"}
 }

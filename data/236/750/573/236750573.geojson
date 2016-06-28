@@ -2,13 +2,14 @@
   "id": 236750573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.949509,-27.096134,152.949509,-27.096134",
     "geom:latitude":-27.096134,
     "geom:longitude":152.949509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Studio 10 The Terraces 87 Morayfield Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236750573,
-    "wof:lastmodified":1449003684,
+    "wof:lastmodified":1466191991,
     "wof:name":"Coast Chiropractic Centre",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.949509,-27.096134,152.949509,-27.096134],
-  "geometry": {"coordinates":[152.949509,-27.096134],"type":"Point"}
+  "bbox": [
+    152.949509,
+    -27.096134,
+    152.949509,
+    -27.096134
+],
+  "geometry": {"coordinates":[152.94950900000001,-27.096134],"type":"Point"}
 }

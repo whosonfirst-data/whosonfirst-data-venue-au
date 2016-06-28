@@ -2,13 +2,14 @@
   "id": 236518287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176834,-32.558765,151.176834,-32.558765",
     "geom:latitude":-32.558765,
     "geom:longitude":151.176834,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Civic Ave",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236518287,
-    "wof:lastmodified":1449003529,
+    "wof:lastmodified":1466191531,
     "wof:name":"Singleton Gym & Swim",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [151.176834,-32.558765,151.176834,-32.558765],
-  "geometry": {"coordinates":[151.176834,-32.558765],"type":"Point"}
+  "bbox": [
+    151.176834,
+    -32.558765,
+    151.176834,
+    -32.558765
+],
+  "geometry": {"coordinates":[151.17683400000001,-32.558765],"type":"Point"}
 }

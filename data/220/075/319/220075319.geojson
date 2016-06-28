@@ -2,13 +2,14 @@
   "id": 220075319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.318115,-38.329899,144.318115,-38.329899",
     "geom:latitude":-38.329899,
     "geom:longitude":144.318115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 554",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220075319,
-    "wof:lastmodified":1449074491,
+    "wof:lastmodified":1466187717,
     "wof:name":"Aireys Inlet Slashing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [144.318115,-38.329899,144.318115,-38.329899],
-  "geometry": {"coordinates":[144.318115,-38.329899],"type":"Point"}
+  "bbox": [
+    144.318115,
+    -38.329899,
+    144.318115,
+    -38.329899
+],
+  "geometry": {"coordinates":[144.31811500000001,-38.329899],"type":"Point"}
 }

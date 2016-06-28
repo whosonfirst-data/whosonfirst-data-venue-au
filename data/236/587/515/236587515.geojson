@@ -2,13 +2,14 @@
   "id": 236587515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.062103,-33.940117,151.062103,-33.940117",
     "geom:latitude":-33.940117,
     "geom:longitude":151.062103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Skinner Ave",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236587515,
-    "wof:lastmodified":1449002642,
+    "wof:lastmodified":1466191586,
     "wof:name":"Elume",
     "wof:parent_id":85774767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [151.062103,-33.940117,151.062103,-33.940117],
-  "geometry": {"coordinates":[151.062103,-33.940117],"type":"Point"}
+  "bbox": [
+    151.062103,
+    -33.940117,
+    151.062103,
+    -33.940117
+],
+  "geometry": {"coordinates":[151.06210300000001,-33.940117],"type":"Point"}
 }

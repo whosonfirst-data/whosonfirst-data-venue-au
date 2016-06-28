@@ -2,13 +2,14 @@
   "id": 219735305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.778915,-19.273975,146.778915,-19.273975",
     "geom:latitude":-19.273975,
     "geom:longitude":146.778915,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Punari St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219735305,
-    "wof:lastmodified":1449073830,
+    "wof:lastmodified":1466191214,
     "wof:name":"Rev Cranes",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hire"
     ]
 },
-  "bbox": [146.778915,-19.273975,146.778915,-19.273975],
-  "geometry": {"coordinates":[146.778915,-19.273975],"type":"Point"}
+  "bbox": [
+    146.778915,
+    -19.273975,
+    146.778915,
+    -19.273975
+],
+  "geometry": {"coordinates":[146.77891500000001,-19.273975],"type":"Point"}
 }

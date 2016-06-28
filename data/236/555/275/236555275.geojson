@@ -2,13 +2,14 @@
   "id": 236555275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.025406,-33.934811,151.025406,-33.934811",
     "geom:latitude":-33.934811,
     "geom:longitude":151.025406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Milperra Rd",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236555275,
-    "wof:lastmodified":1449004678,
+    "wof:lastmodified":1466191487,
     "wof:name":"NEC Australia Pty Ltd",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [151.025406,-33.934811,151.025406,-33.934811],
+  "bbox": [
+    151.025406,
+    -33.934811,
+    151.025406,
+    -33.934811
+],
   "geometry": {"coordinates":[151.025406,-33.934811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203015289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.142929,-20.730898,143.142929,-20.730898",
     "geom:latitude":-20.730898,
     "geom:longitude":143.142929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Goldring St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203015289,
-    "wof:lastmodified":1449025370,
+    "wof:lastmodified":1466187418,
     "wof:name":"Rosevale Veterinary Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [143.142929,-20.730898,143.142929,-20.730898],
-  "geometry": {"coordinates":[143.142929,-20.730898],"type":"Point"}
+  "bbox": [
+    143.142929,
+    -20.730898,
+    143.142929,
+    -20.730898
+],
+  "geometry": {"coordinates":[143.14292900000001,-20.730898],"type":"Point"}
 }

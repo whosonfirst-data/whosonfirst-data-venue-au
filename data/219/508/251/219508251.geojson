@@ -2,13 +2,14 @@
   "id": 219508251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.120941,-33.910809,151.120941,-33.910809",
     "geom:latitude":-33.910809,
     "geom:longitude":151.120941,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Canterbury Rd",
     "sg:city":"Canterbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219508251,
-    "wof:lastmodified":1449072353,
+    "wof:lastmodified":1466189668,
     "wof:name":"Canterbury Licensed Post Office",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [151.120941,-33.910809,151.120941,-33.910809],
-  "geometry": {"coordinates":[151.120941,-33.910809],"type":"Point"}
+  "bbox": [
+    151.120941,
+    -33.910809,
+    151.120941,
+    -33.910809
+],
+  "geometry": {"coordinates":[151.12094099999999,-33.910809],"type":"Point"}
 }

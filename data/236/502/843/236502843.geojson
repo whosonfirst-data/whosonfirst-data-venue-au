@@ -2,13 +2,14 @@
   "id": 236502843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.164932,-21.181355,149.164932,-21.181355",
     "geom:latitude":-21.181355,
     "geom:longitude":149.164932,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Commercial Ave",
     "sg:city":"Paget",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236502843,
-    "wof:lastmodified":1449003105,
+    "wof:lastmodified":1466191454,
     "wof:name":"VM Motori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "diesel"
     ]
 },
-  "bbox": [149.164932,-21.181355,149.164932,-21.181355],
-  "geometry": {"coordinates":[149.164932,-21.181355],"type":"Point"}
+  "bbox": [
+    149.164932,
+    -21.181355,
+    149.164932,
+    -21.181355
+],
+  "geometry": {"coordinates":[149.16493199999999,-21.181355],"type":"Point"}
 }

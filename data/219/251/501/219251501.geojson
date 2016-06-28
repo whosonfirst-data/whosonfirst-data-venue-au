@@ -2,13 +2,14 @@
   "id": 219251501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.98732,-37.771259,144.98732,-37.771259",
     "geom:latitude":-37.771259,
     "geom:longitude":144.98732,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Sumner Ave",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219251501,
-    "wof:lastmodified":1449070435,
+    "wof:lastmodified":1466187092,
     "wof:name":"M V Motor Trimming",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trimmer"
     ]
 },
-  "bbox": [144.98732,-37.771259,144.98732,-37.771259],
-  "geometry": {"coordinates":[144.98732,-37.771259],"type":"Point"}
+  "bbox": [
+    144.98732,
+    -37.771259,
+    144.98732,
+    -37.771259
+],
+  "geometry": {"coordinates":[144.98732000000001,-37.771259],"type":"Point"}
 }

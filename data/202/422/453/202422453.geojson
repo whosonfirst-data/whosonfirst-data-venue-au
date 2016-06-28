@@ -2,13 +2,14 @@
   "id": 202422453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.929779,-37.834377,144.929779,-37.834377",
     "geom:latitude":-37.834377,
     "geom:longitude":144.929779,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Beacon Rd",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202422453,
-    "wof:lastmodified":1449060286,
+    "wof:lastmodified":1466188179,
     "wof:name":"Word Shop The",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [144.929779,-37.834377,144.929779,-37.834377],
+  "bbox": [
+    144.929779,
+    -37.834377,
+    144.929779,
+    -37.834377
+],
   "geometry": {"coordinates":[144.929779,-37.834377],"type":"Point"}
 }

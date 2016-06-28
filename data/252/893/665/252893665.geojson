@@ -2,13 +2,14 @@
   "id": 252893665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.602219,-37.689659,144.602219,-37.689659",
     "geom:latitude":-37.689659,
     "geom:longitude":144.602219,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 2 Norton Drv",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252893665,
-    "wof:lastmodified":1449006301,
+    "wof:lastmodified":1466188918,
     "wof:name":"Specialized Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [144.602219,-37.689659,144.602219,-37.689659],
-  "geometry": {"coordinates":[144.602219,-37.689659],"type":"Point"}
+  "bbox": [
+    144.602219,
+    -37.689659,
+    144.602219,
+    -37.689659
+],
+  "geometry": {"coordinates":[144.60221899999999,-37.689659],"type":"Point"}
 }

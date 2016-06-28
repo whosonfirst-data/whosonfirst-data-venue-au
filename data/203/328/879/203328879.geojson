@@ -2,13 +2,14 @@
   "id": 203328879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.586243,-37.619148,143.586243,-37.619148",
     "geom:latitude":-37.619148,
     "geom:longitude":143.586243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Chepestow Rd",
     "sg:city":"Snake Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203328879,
-    "wof:lastmodified":1449026058,
+    "wof:lastmodified":1466188362,
     "wof:name":"Snake Valley Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [143.586243,-37.619148,143.586243,-37.619148],
+  "bbox": [
+    143.586243,
+    -37.619148,
+    143.586243,
+    -37.619148
+],
   "geometry": {"coordinates":[143.586243,-37.619148],"type":"Point"}
 }

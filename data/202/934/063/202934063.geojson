@@ -2,13 +2,14 @@
   "id": 202934063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.097946,-30.314779,153.097946,-30.314779",
     "geom:latitude":-30.314779,
     "geom:longitude":153.097946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202934063,
-    "wof:lastmodified":1449060227,
+    "wof:lastmodified":1466190782,
     "wof:name":"Mid Coast Installations",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [153.097946,-30.314779,153.097946,-30.314779],
-  "geometry": {"coordinates":[153.097946,-30.314779],"type":"Point"}
+  "bbox": [
+    153.097946,
+    -30.314779,
+    153.097946,
+    -30.314779
+],
+  "geometry": {"coordinates":[153.09794600000001,-30.314779],"type":"Point"}
 }

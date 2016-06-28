@@ -2,13 +2,14 @@
   "id": 253103747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.832703,-37.756187,144.832703,-37.756187",
     "geom:latitude":-37.756187,
     "geom:longitude":144.832703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Mc Intyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253103747,
-    "wof:lastmodified":1449064659,
+    "wof:lastmodified":1466188811,
     "wof:name":"McIntyre Auto Repairs Pty Ltd",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [144.832703,-37.756187,144.832703,-37.756187],
-  "geometry": {"coordinates":[144.832703,-37.756187],"type":"Point"}
+  "bbox": [
+    144.832703,
+    -37.756187,
+    144.832703,
+    -37.756187
+],
+  "geometry": {"coordinates":[144.83270300000001,-37.756187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236545229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.067642,-26.179592,152.067642,-26.179592",
     "geom:latitude":-26.179592,
     "geom:longitude":152.067642,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Moore St",
     "sg:city":"Goomeri",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236545229,
-    "wof:lastmodified":1449002277,
+    "wof:lastmodified":1466191393,
     "wof:name":"Goomeri Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.067642,-26.179592,152.067642,-26.179592],
-  "geometry": {"coordinates":[152.067642,-26.179592],"type":"Point"}
+  "bbox": [
+    152.067642,
+    -26.179592,
+    152.067642,
+    -26.179592
+],
+  "geometry": {"coordinates":[152.06764200000001,-26.179592],"type":"Point"}
 }

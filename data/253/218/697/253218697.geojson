@@ -2,13 +2,14 @@
   "id": 253218697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.939743,-27.572243,151.939743,-27.572243",
     "geom:latitude":-27.572243,
     "geom:longitude":151.939743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Blackdown St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253218697,
-    "wof:lastmodified":1449064703,
+    "wof:lastmodified":1466190350,
     "wof:name":"Victoria Royds",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [151.939743,-27.572243,151.939743,-27.572243],
-  "geometry": {"coordinates":[151.939743,-27.572243],"type":"Point"}
+  "bbox": [
+    151.939743,
+    -27.572243,
+    151.939743,
+    -27.572243
+],
+  "geometry": {"coordinates":[151.93974299999999,-27.572243],"type":"Point"}
 }

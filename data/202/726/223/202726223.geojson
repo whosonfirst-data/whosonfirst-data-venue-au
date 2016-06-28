@@ -2,13 +2,14 @@
   "id": 202726223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.951096,-27.336184,152.951096,-27.336184",
     "geom:latitude":-27.336184,
     "geom:longitude":152.951096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Eatons Hill Shopping Village 1 Queen Elizabeth Drv",
     "sg:city":"Eatons Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202726223,
-    "wof:lastmodified":1449061825,
+    "wof:lastmodified":1466189328,
     "wof:name":"Extreme Hairworks",
     "wof:parent_id":85773841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.951096,-27.336184,152.951096,-27.336184],
-  "geometry": {"coordinates":[152.951096,-27.336184],"type":"Point"}
+  "bbox": [
+    152.951096,
+    -27.336184,
+    152.951096,
+    -27.336184
+],
+  "geometry": {"coordinates":[152.95109600000001,-27.336184],"type":"Point"}
 }

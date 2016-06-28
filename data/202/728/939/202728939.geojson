@@ -2,13 +2,14 @@
   "id": 202728939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.01001,-27.315739,153.01001,-27.315739",
     "geom:latitude":-27.315739,
     "geom:longitude":153.01001,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 1/ 8 Rothbury St",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202728939,
-    "wof:lastmodified":1449060696,
+    "wof:lastmodified":1466189378,
     "wof:name":"Robbie's Take Away",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [153.01001,-27.315739,153.01001,-27.315739],
-  "geometry": {"coordinates":[153.01001,-27.315739],"type":"Point"}
+  "bbox": [
+    153.01001,
+    -27.315739,
+    153.01001,
+    -27.315739
+],
+  "geometry": {"coordinates":[153.01000999999999,-27.315739],"type":"Point"}
 }

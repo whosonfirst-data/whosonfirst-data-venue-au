@@ -2,13 +2,14 @@
   "id": 169780765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.589325,-38.606106,145.589325,-38.606106",
     "geom:latitude":-38.606106,
     "geom:longitude":145.589325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 10/ 152 Graham St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169780765,
-    "wof:lastmodified":1449035143,
+    "wof:lastmodified":1466188370,
     "wof:name":"Balloon Bazaar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.589325,-38.606106,145.589325,-38.606106],
+  "bbox": [
+    145.589325,
+    -38.606106,
+    145.589325,
+    -38.606106
+],
   "geometry": {"coordinates":[145.589325,-38.606106],"type":"Point"}
 }

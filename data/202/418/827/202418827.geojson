@@ -2,13 +2,14 @@
   "id": 202418827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.923096,-37.820946,144.923096,-37.820946",
     "geom:latitude":-37.820946,
     "geom:longitude":144.923096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 668 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202418827,
-    "wof:lastmodified":1449062108,
+    "wof:lastmodified":1466188103,
     "wof:name":"Moving Boxes",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "archival"
     ]
 },
-  "bbox": [144.923096,-37.820946,144.923096,-37.820946],
-  "geometry": {"coordinates":[144.923096,-37.820946],"type":"Point"}
+  "bbox": [
+    144.923096,
+    -37.820946,
+    144.923096,
+    -37.820946
+],
+  "geometry": {"coordinates":[144.92309599999999,-37.820946],"type":"Point"}
 }

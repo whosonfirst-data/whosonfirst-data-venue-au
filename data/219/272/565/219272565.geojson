@@ -2,13 +2,14 @@
   "id": 219272565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.26329,-38.177372,146.26329,-38.177372",
     "geom:latitude":-38.177372,
     "geom:longitude":146.26329,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11-15 Lloyd St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219272565,
-    "wof:lastmodified":1449073663,
+    "wof:lastmodified":1466187299,
     "wof:name":"Lloyd Street Guardian Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [146.26329,-38.177372,146.26329,-38.177372],
-  "geometry": {"coordinates":[146.26329,-38.177372],"type":"Point"}
+  "bbox": [
+    146.26329,
+    -38.177372,
+    146.26329,
+    -38.177372
+],
+  "geometry": {"coordinates":[146.26329000000001,-38.177372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202439179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.954391,-37.830994,144.954391,-37.830994",
     "geom:latitude":-37.830994,
     "geom:longitude":144.954391,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"385 City Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202439179,
-    "wof:lastmodified":1449060822,
+    "wof:lastmodified":1466188589,
     "wof:name":"David Margolin Wholesale",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [144.954391,-37.830994,144.954391,-37.830994],
-  "geometry": {"coordinates":[144.954391,-37.830994],"type":"Point"}
+  "bbox": [
+    144.954391,
+    -37.830994,
+    144.954391,
+    -37.830994
+],
+  "geometry": {"coordinates":[144.95439099999999,-37.830994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220021075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.616928,-35.044758,138.616928,-35.044758",
     "geom:latitude":-35.044758,
     "geom:longitude":138.616928,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Craiglee Drv",
     "sg:city":"Coromandel East",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220021075,
-    "wof:lastmodified":1449074556,
+    "wof:lastmodified":1466187156,
     "wof:name":"MJ Air Servicing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [138.616928,-35.044758,138.616928,-35.044758],
+  "bbox": [
+    138.616928,
+    -35.044758,
+    138.616928,
+    -35.044758
+],
   "geometry": {"coordinates":[138.616928,-35.044758],"type":"Point"}
 }

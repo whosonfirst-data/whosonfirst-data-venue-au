@@ -2,13 +2,14 @@
   "id": 185660141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.788483,-32.038643,115.788483,-32.038643",
     "geom:latitude":-32.038643,
     "geom:longitude":115.788483,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Weld Rd",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185660141,
-    "wof:lastmodified":1449008056,
+    "wof:lastmodified":1466188446,
     "wof:name":"Computer TeleVision",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [115.788483,-32.038643,115.788483,-32.038643],
+  "bbox": [
+    115.788483,
+    -32.038643,
+    115.788483,
+    -32.038643
+],
   "geometry": {"coordinates":[115.788483,-32.038643],"type":"Point"}
 }

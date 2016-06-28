@@ -2,13 +2,14 @@
   "id": 236000603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.370209,-37.027039,140.370209,-37.027039",
     "geom:latitude":-37.027039,
     "geom:longitude":140.370209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Callendale Rd",
     "sg:city":"Lucindale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236000603,
-    "wof:lastmodified":1449002073,
+    "wof:lastmodified":1466189963,
     "wof:name":"McCarthy & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grazier"
     ]
 },
-  "bbox": [140.370209,-37.027039,140.370209,-37.027039],
-  "geometry": {"coordinates":[140.370209,-37.027039],"type":"Point"}
+  "bbox": [
+    140.370209,
+    -37.027039,
+    140.370209,
+    -37.027039
+],
+  "geometry": {"coordinates":[140.37020899999999,-37.027039],"type":"Point"}
 }

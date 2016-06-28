@@ -2,13 +2,14 @@
   "id": 236327197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.766518,-32.049679,115.766518,-32.049679",
     "geom:latitude":-32.049679,
     "geom:longitude":115.766518,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Holland St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236327197,
-    "wof:lastmodified":1449001864,
+    "wof:lastmodified":1466190549,
     "wof:name":"Karl's Gardening Services",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [115.766518,-32.049679,115.766518,-32.049679],
+  "bbox": [
+    115.766518,
+    -32.049679,
+    115.766518,
+    -32.049679
+],
   "geometry": {"coordinates":[115.766518,-32.049679],"type":"Point"}
 }

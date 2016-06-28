@@ -2,13 +2,14 @@
   "id": 236129651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.869659,-37.736649,144.869659,-37.736649",
     "geom:latitude":-37.736649,
     "geom:longitude":144.869659,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bernard Crt",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236129651,
-    "wof:lastmodified":1449004481,
+    "wof:lastmodified":1466189239,
     "wof:name":"Corlette P K",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.869659,-37.736649,144.869659,-37.736649],
-  "geometry": {"coordinates":[144.869659,-37.736649],"type":"Point"}
+  "bbox": [
+    144.869659,
+    -37.736649,
+    144.869659,
+    -37.736649
+],
+  "geometry": {"coordinates":[144.86965900000001,-37.736649],"type":"Point"}
 }

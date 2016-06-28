@@ -2,13 +2,14 @@
   "id": 219673119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.511124,-32.180225,152.511124,-32.180225",
     "geom:latitude":-32.180225,
     "geom:longitude":152.511124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Wharf St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219673119,
-    "wof:lastmodified":1449071754,
+    "wof:lastmodified":1466191096,
     "wof:name":"Homesense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [152.511124,-32.180225,152.511124,-32.180225],
+  "bbox": [
+    152.511124,
+    -32.180225,
+    152.511124,
+    -32.180225
+],
   "geometry": {"coordinates":[152.511124,-32.180225],"type":"Point"}
 }

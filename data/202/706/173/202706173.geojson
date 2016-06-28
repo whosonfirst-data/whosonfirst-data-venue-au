@@ -2,13 +2,14 @@
   "id": 202706173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.048904,-27.360863,153.048904,-27.360863",
     "geom:latitude":-27.360863,
     "geom:longitude":153.048904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Zillmere Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202706173,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466188948,
     "wof:name":"Brisbane Jetski",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "jet"
     ]
 },
-  "bbox": [153.048904,-27.360863,153.048904,-27.360863],
-  "geometry": {"coordinates":[153.048904,-27.360863],"type":"Point"}
+  "bbox": [
+    153.048904,
+    -27.360863,
+    153.048904,
+    -27.360863
+],
+  "geometry": {"coordinates":[153.04890399999999,-27.360863],"type":"Point"}
 }

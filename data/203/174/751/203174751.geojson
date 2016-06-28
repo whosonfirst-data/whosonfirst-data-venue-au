@@ -2,13 +2,14 @@
   "id": 203174751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.980225,-38.530563,143.980225,-38.530563",
     "geom:latitude":-38.530563,
     "geom:longitude":143.980225,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Great Ocean Rd",
     "sg:city":"Lorne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203174751,
-    "wof:lastmodified":1449025193,
+    "wof:lastmodified":1466189866,
     "wof:name":"Meredith C J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.980225,-38.530563,143.980225,-38.530563],
-  "geometry": {"coordinates":[143.980225,-38.530563],"type":"Point"}
+  "bbox": [
+    143.980225,
+    -38.530563,
+    143.980225,
+    -38.530563
+],
+  "geometry": {"coordinates":[143.98022499999999,-38.530563],"type":"Point"}
 }

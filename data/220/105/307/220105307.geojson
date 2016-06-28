@@ -2,13 +2,14 @@
   "id": 220105307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.48584,-38.280083,144.48584,-38.280083",
     "geom:latitude":-38.280083,
     "geom:longitude":144.48584,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hopgood Pl",
     "sg:city":"Barwon Heads",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220105307,
-    "wof:lastmodified":1449074336,
+    "wof:lastmodified":1466188005,
     "wof:name":"Hutson Mark Plumbing P/L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.48584,-38.280083,144.48584,-38.280083],
+  "bbox": [
+    144.48584,
+    -38.280083,
+    144.48584,
+    -38.280083
+],
   "geometry": {"coordinates":[144.48584,-38.280083],"type":"Point"}
 }

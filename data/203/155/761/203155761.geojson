@@ -2,13 +2,14 @@
   "id": 203155761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.989471,-36.545712,145.989471,-36.545712",
     "geom:latitude":-36.545712,
     "geom:longitude":145.989471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Barkly St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203155761,
-    "wof:lastmodified":1449026507,
+    "wof:lastmodified":1466189709,
     "wof:name":"G & A Dyer Rooftilers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roof"
     ]
 },
-  "bbox": [145.989471,-36.545712,145.989471,-36.545712],
-  "geometry": {"coordinates":[145.989471,-36.545712],"type":"Point"}
+  "bbox": [
+    145.989471,
+    -36.545712,
+    145.989471,
+    -36.545712
+],
+  "geometry": {"coordinates":[145.98947100000001,-36.545712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203263049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.01059,-33.385891,148.01059,-33.385891",
     "geom:latitude":-33.385891,
     "geom:longitude":148.01059,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Templar St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203263049,
-    "wof:lastmodified":1449026821,
+    "wof:lastmodified":1466187670,
     "wof:name":"Forbes Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [148.01059,-33.385891,148.01059,-33.385891],
-  "geometry": {"coordinates":[148.01059,-33.385891],"type":"Point"}
+  "bbox": [
+    148.01059,
+    -33.385891,
+    148.01059,
+    -33.385891
+],
+  "geometry": {"coordinates":[148.01059000000001,-33.385891],"type":"Point"}
 }

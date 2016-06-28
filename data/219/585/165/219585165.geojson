@@ -2,13 +2,14 @@
   "id": 219585165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.033463,-33.923523,151.033463,-33.923523",
     "geom:latitude":-33.923523,
     "geom:longitude":151.033463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Vimy St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219585165,
-    "wof:lastmodified":1449072736,
+    "wof:lastmodified":1466190460,
     "wof:name":"Shiftrite Transport Services",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [151.033463,-33.923523,151.033463,-33.923523],
-  "geometry": {"coordinates":[151.033463,-33.923523],"type":"Point"}
+  "bbox": [
+    151.033463,
+    -33.923523,
+    151.033463,
+    -33.923523
+],
+  "geometry": {"coordinates":[151.03346300000001,-33.923523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202666525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.011307,-27.390381,153.011307,-27.390381",
     "geom:latitude":-27.390381,
     "geom:longitude":153.011307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Eastbourne St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202666525,
-    "wof:lastmodified":1449061040,
+    "wof:lastmodified":1466188199,
     "wof:name":"Lyle The Gas Man",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [153.011307,-27.390381,153.011307,-27.390381],
-  "geometry": {"coordinates":[153.011307,-27.390381],"type":"Point"}
+  "bbox": [
+    153.011307,
+    -27.390381,
+    153.011307,
+    -27.390381
+],
+  "geometry": {"coordinates":[153.01130699999999,-27.390381],"type":"Point"}
 }

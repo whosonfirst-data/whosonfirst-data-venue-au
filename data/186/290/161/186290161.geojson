@@ -2,13 +2,14 @@
   "id": 186290161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.836823,-31.453381,152.836823,-31.453381",
     "geom:latitude":-31.453381,
     "geom:longitude":152.836823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"The Grange Medical Centre Lake Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186290161,
-    "wof:lastmodified":1449051525,
+    "wof:lastmodified":1466187698,
     "wof:name":"Cumberland H W Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.836823,-31.453381,152.836823,-31.453381],
-  "geometry": {"coordinates":[152.836823,-31.453381],"type":"Point"}
+  "bbox": [
+    152.836823,
+    -31.453381,
+    152.836823,
+    -31.453381
+],
+  "geometry": {"coordinates":[152.83682300000001,-31.453381],"type":"Point"}
 }

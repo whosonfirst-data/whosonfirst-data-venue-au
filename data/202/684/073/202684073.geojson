@@ -2,13 +2,14 @@
   "id": 202684073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.993027,-27.370075,152.993027,-27.370075",
     "geom:latitude":-27.370075,
     "geom:longitude":152.993027,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Arbour St",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202684073,
-    "wof:lastmodified":1449060749,
+    "wof:lastmodified":1466188536,
     "wof:name":"Botanic Art Gardening",
     "wof:parent_id":85774013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.993027,-27.370075,152.993027,-27.370075],
-  "geometry": {"coordinates":[152.993027,-27.370075],"type":"Point"}
+  "bbox": [
+    152.993027,
+    -27.370075,
+    152.993027,
+    -27.370075
+],
+  "geometry": {"coordinates":[152.99302700000001,-27.370075],"type":"Point"}
 }

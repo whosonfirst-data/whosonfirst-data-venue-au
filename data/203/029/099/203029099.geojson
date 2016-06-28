@@ -2,13 +2,14 @@
   "id": 203029099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.153534,-37.665283,145.153534,-37.665283",
     "geom:latitude":-37.665283,
     "geom:longitude":145.153534,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Wayland Crt",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203029099,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466187784,
     "wof:name":"Graham Cross",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.153534,-37.665283,145.153534,-37.665283],
-  "geometry": {"coordinates":[145.153534,-37.665283],"type":"Point"}
+  "bbox": [
+    145.153534,
+    -37.665283,
+    145.153534,
+    -37.665283
+],
+  "geometry": {"coordinates":[145.15353400000001,-37.665283],"type":"Point"}
 }

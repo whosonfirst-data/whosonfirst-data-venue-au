@@ -2,13 +2,14 @@
   "id": 186492583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.761734,-19.27306,146.761734,-19.27306",
     "geom:latitude":-19.27306,
     "geom:longitude":146.761734,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 355 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186492583,
-    "wof:lastmodified":1449050250,
+    "wof:lastmodified":1466190325,
     "wof:name":"Pinnacle Homes Townsville Pty Ltd",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.761734,-19.27306,146.761734,-19.27306],
-  "geometry": {"coordinates":[146.761734,-19.27306],"type":"Point"}
+  "bbox": [
+    146.761734,
+    -19.27306,
+    146.761734,
+    -19.27306
+],
+  "geometry": {"coordinates":[146.76173399999999,-19.27306],"type":"Point"}
 }

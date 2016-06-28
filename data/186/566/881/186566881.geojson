@@ -2,13 +2,14 @@
   "id": 186566881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.296326,-33.658398,151.296326,-33.658398",
     "geom:latitude":-33.658398,
     "geom:longitude":151.296326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1842 Pittwater Rd",
     "sg:city":"Bayview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186566881,
-    "wof:lastmodified":1449050318,
+    "wof:lastmodified":1466190920,
     "wof:name":"Bayview Yacht Racing Asscn (BYRA)",
     "wof:parent_id":85768779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [151.296326,-33.658398,151.296326,-33.658398],
-  "geometry": {"coordinates":[151.296326,-33.658398],"type":"Point"}
+  "bbox": [
+    151.296326,
+    -33.658398,
+    151.296326,
+    -33.658398
+],
+  "geometry": {"coordinates":[151.29632599999999,-33.658398],"type":"Point"}
 }

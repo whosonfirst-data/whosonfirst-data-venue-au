@@ -2,13 +2,14 @@
   "id": 253003537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.713516,-37.876953,144.713516,-37.876953",
     "geom:latitude":-37.876953,
     "geom:longitude":144.713516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253003537,
-    "wof:lastmodified":1449065562,
+    "wof:lastmodified":1466186973,
     "wof:name":"Windscreen Power",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windscreen"
     ]
 },
-  "bbox": [144.713516,-37.876953,144.713516,-37.876953],
+  "bbox": [
+    144.713516,
+    -37.876953,
+    144.713516,
+    -37.876953
+],
   "geometry": {"coordinates":[144.713516,-37.876953],"type":"Point"}
 }

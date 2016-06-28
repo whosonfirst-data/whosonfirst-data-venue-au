@@ -2,13 +2,14 @@
   "id": 236410005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.773773,-32.154568,115.773773,-32.154568",
     "geom:latitude":-32.154568,
     "geom:longitude":115.773773,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Redemtora Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236410005,
-    "wof:lastmodified":1449001714,
+    "wof:lastmodified":1466191203,
     "wof:name":"ACJ Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [115.773773,-32.154568,115.773773,-32.154568],
-  "geometry": {"coordinates":[115.773773,-32.154568],"type":"Point"}
+  "bbox": [
+    115.773773,
+    -32.154568,
+    115.773773,
+    -32.154568
+],
+  "geometry": {"coordinates":[115.77377300000001,-32.154568],"type":"Point"}
 }

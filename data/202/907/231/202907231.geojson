@@ -2,13 +2,14 @@
   "id": 202907231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.179779,-30.133453,153.179779,-30.133453",
     "geom:latitude":-30.133453,
     "geom:longitude":153.179779,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66A Morgans Rd",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202907231,
-    "wof:lastmodified":1449062456,
+    "wof:lastmodified":1466190687,
     "wof:name":"Woolgoolga Quarry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [153.179779,-30.133453,153.179779,-30.133453],
+  "bbox": [
+    153.179779,
+    -30.133453,
+    153.179779,
+    -30.133453
+],
   "geometry": {"coordinates":[153.179779,-30.133453],"type":"Point"}
 }

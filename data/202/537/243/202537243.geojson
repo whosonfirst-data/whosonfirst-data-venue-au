@@ -2,13 +2,14 @@
   "id": 202537243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.15712,-38.118221,145.15712,-38.118221",
     "geom:latitude":-38.118221,
     "geom:longitude":145.15712,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Moreton St",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202537243,
-    "wof:lastmodified":1449060743,
+    "wof:lastmodified":1466189863,
     "wof:name":"Randall W H & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [145.15712,-38.118221,145.15712,-38.118221],
-  "geometry": {"coordinates":[145.15712,-38.118221],"type":"Point"}
+  "bbox": [
+    145.15712,
+    -38.118221,
+    145.15712,
+    -38.118221
+],
+  "geometry": {"coordinates":[145.15711999999999,-38.118221],"type":"Point"}
 }

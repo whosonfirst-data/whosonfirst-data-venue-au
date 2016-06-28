@@ -2,13 +2,14 @@
   "id": 202763563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.769257,-32.925774,151.769257,-32.925774",
     "geom:latitude":-32.925774,
     "geom:longitude":151.769257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Honey Suckle Drv",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202763563,
-    "wof:lastmodified":1449062634,
+    "wof:lastmodified":1466189911,
     "wof:name":"Newcastle Rowing Club",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rowing"
     ]
 },
-  "bbox": [151.769257,-32.925774,151.769257,-32.925774],
-  "geometry": {"coordinates":[151.769257,-32.925774],"type":"Point"}
+  "bbox": [
+    151.769257,
+    -32.925774,
+    151.769257,
+    -32.925774
+],
+  "geometry": {"coordinates":[151.76925700000001,-32.925774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236518887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.168167,-32.564419,151.168167,-32.564419",
     "geom:latitude":-32.564419,
     "geom:longitude":151.168167,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"147 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236518887,
-    "wof:lastmodified":1449003531,
+    "wof:lastmodified":1466191533,
     "wof:name":"Active Embroidery",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [151.168167,-32.564419,151.168167,-32.564419],
-  "geometry": {"coordinates":[151.168167,-32.564419],"type":"Point"}
+  "bbox": [
+    151.168167,
+    -32.564419,
+    151.168167,
+    -32.564419
+],
+  "geometry": {"coordinates":[151.16816700000001,-32.564419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219570233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.997787,-33.918022,150.997787,-33.918022",
     "geom:latitude":-33.918022,
     "geom:longitude":150.997787,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bldg 118 Prentice St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219570233,
-    "wof:lastmodified":1449072480,
+    "wof:lastmodified":1466190469,
     "wof:name":"Precision Flight (Simulators) Pty Ltd",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.997787,-33.918022,150.997787,-33.918022],
-  "geometry": {"coordinates":[150.997787,-33.918022],"type":"Point"}
+  "bbox": [
+    150.997787,
+    -33.918022,
+    150.997787,
+    -33.918022
+],
+  "geometry": {"coordinates":[150.99778699999999,-33.918022],"type":"Point"}
 }

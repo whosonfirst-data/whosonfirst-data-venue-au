@@ -2,13 +2,14 @@
   "id": 202700803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.044662,-27.360121,153.044662,-27.360121",
     "geom:latitude":-27.360121,
     "geom:longitude":153.044662,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Church Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202700803,
-    "wof:lastmodified":1449062433,
+    "wof:lastmodified":1466188841,
     "wof:name":"Church Road Hair Works",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [153.044662,-27.360121,153.044662,-27.360121],
-  "geometry": {"coordinates":[153.044662,-27.360121],"type":"Point"}
+  "bbox": [
+    153.044662,
+    -27.360121,
+    153.044662,
+    -27.360121
+],
+  "geometry": {"coordinates":[153.04466199999999,-27.360121],"type":"Point"}
 }

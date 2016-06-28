@@ -2,13 +2,14 @@
   "id": 219239027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.99411,-37.780605,144.99411,-37.780605",
     "geom:latitude":-37.780605,
     "geom:longitude":144.99411,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Westgarth St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219239027,
-    "wof:lastmodified":1449070727,
+    "wof:lastmodified":1466189937,
     "wof:name":"International Training Consultants Pty Ltd",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.99411,-37.780605,144.99411,-37.780605],
-  "geometry": {"coordinates":[144.99411,-37.780605],"type":"Point"}
+  "bbox": [
+    144.99411,
+    -37.780605,
+    144.99411,
+    -37.780605
+],
+  "geometry": {"coordinates":[144.99411000000001,-37.780605],"type":"Point"}
 }

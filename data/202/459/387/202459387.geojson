@@ -2,13 +2,14 @@
   "id": 202459387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961227,-37.828915,144.961227,-37.828915",
     "geom:latitude":-37.828915,
     "geom:longitude":144.961227,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Market St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202459387,
-    "wof:lastmodified":1449061143,
+    "wof:lastmodified":1466188921,
     "wof:name":"Aztec Analysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.961227,-37.828915,144.961227,-37.828915],
-  "geometry": {"coordinates":[144.961227,-37.828915],"type":"Point"}
+  "bbox": [
+    144.961227,
+    -37.828915,
+    144.961227,
+    -37.828915
+],
+  "geometry": {"coordinates":[144.96122700000001,-37.828915],"type":"Point"}
 }

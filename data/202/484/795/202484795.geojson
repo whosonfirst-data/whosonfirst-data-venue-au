@@ -2,13 +2,14 @@
   "id": 202484795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.045517,-37.908661,145.045517,-37.908661",
     "geom:latitude":-37.908661,
     "geom:longitude":145.045517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lewis St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484795,
-    "wof:lastmodified":1449062502,
+    "wof:lastmodified":1466189284,
     "wof:name":"Holland J",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [145.045517,-37.908661,145.045517,-37.908661],
-  "geometry": {"coordinates":[145.045517,-37.908661],"type":"Point"}
+  "bbox": [
+    145.045517,
+    -37.908661,
+    145.045517,
+    -37.908661
+],
+  "geometry": {"coordinates":[145.04551699999999,-37.908661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252802799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.586075,-38.341045,143.586075,-38.341045",
     "geom:latitude":-38.341045,
     "geom:longitude":143.586075,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Bromfield St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252802799,
-    "wof:lastmodified":1449006308,
+    "wof:lastmodified":1466188164,
     "wof:name":"Colac Fruit Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [143.586075,-38.341045,143.586075,-38.341045],
-  "geometry": {"coordinates":[143.586075,-38.341045],"type":"Point"}
+  "bbox": [
+    143.586075,
+    -38.341045,
+    143.586075,
+    -38.341045
+],
+  "geometry": {"coordinates":[143.58607499999999,-38.341045],"type":"Point"}
 }

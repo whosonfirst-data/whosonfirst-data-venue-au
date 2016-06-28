@@ -2,13 +2,14 @@
   "id": 186413081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.803925,-19.242128,146.803925,-19.242128",
     "geom:latitude":-19.242128,
     "geom:longitude":146.803925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 45 Eyre St",
     "sg:city":"North Ward",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186413081,
-    "wof:lastmodified":1449050813,
+    "wof:lastmodified":1466189530,
     "wof:name":"Pilates Studio Townsville",
     "wof:parent_id":85779935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fitness"
     ]
 },
-  "bbox": [146.803925,-19.242128,146.803925,-19.242128],
-  "geometry": {"coordinates":[146.803925,-19.242128],"type":"Point"}
+  "bbox": [
+    146.803925,
+    -19.242128,
+    146.803925,
+    -19.242128
+],
+  "geometry": {"coordinates":[146.80392499999999,-19.242128],"type":"Point"}
 }

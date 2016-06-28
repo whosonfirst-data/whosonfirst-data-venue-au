@@ -2,13 +2,14 @@
   "id": 202661927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.030121,-27.442406,153.030121,-27.442406",
     "geom:latitude":-27.442406,
     "geom:longitude":153.030121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Lutwyche Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202661927,
-    "wof:lastmodified":1449062378,
+    "wof:lastmodified":1466188110,
     "wof:name":"Tentworld (Aust) Pty Ltd",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "activity"
     ]
 },
-  "bbox": [153.030121,-27.442406,153.030121,-27.442406],
-  "geometry": {"coordinates":[153.030121,-27.442406],"type":"Point"}
+  "bbox": [
+    153.030121,
+    -27.442406,
+    153.030121,
+    -27.442406
+],
+  "geometry": {"coordinates":[153.03012100000001,-27.442406],"type":"Point"}
 }

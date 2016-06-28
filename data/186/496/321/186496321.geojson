@@ -2,13 +2,14 @@
   "id": 186496321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.73735,-19.270731,146.73735,-19.270731",
     "geom:latitude":-19.270731,
     "geom:longitude":146.73735,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Bayswater Rd",
     "sg:city":"Mt Louisa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186496321,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466190381,
     "wof:name":"PoolWerx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "swimming"
     ]
 },
-  "bbox": [146.73735,-19.270731,146.73735,-19.270731],
-  "geometry": {"coordinates":[146.73735,-19.270731],"type":"Point"}
+  "bbox": [
+    146.73735,
+    -19.270731,
+    146.73735,
+    -19.270731
+],
+  "geometry": {"coordinates":[146.73734999999999,-19.270731],"type":"Point"}
 }

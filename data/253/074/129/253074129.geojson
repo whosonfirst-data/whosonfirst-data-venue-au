@@ -2,13 +2,14 @@
   "id": 253074129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.820023,-37.737537,144.820023,-37.737537",
     "geom:latitude":-37.737537,
     "geom:longitude":144.820023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Perrett Ave St",
     "sg:city":"Albans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253074129,
-    "wof:lastmodified":1449064428,
+    "wof:lastmodified":1466188261,
     "wof:name":"Bookkeeping Overload",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [144.820023,-37.737537,144.820023,-37.737537],
-  "geometry": {"coordinates":[144.820023,-37.737537],"type":"Point"}
+  "bbox": [
+    144.820023,
+    -37.737537,
+    144.820023,
+    -37.737537
+],
+  "geometry": {"coordinates":[144.82002299999999,-37.737537],"type":"Point"}
 }

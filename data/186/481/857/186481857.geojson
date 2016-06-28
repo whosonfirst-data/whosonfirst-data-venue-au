@@ -2,13 +2,14 @@
   "id": 186481857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.761795,-19.273329,146.761795,-19.273329",
     "geom:latitude":-19.273329,
     "geom:longitude":146.761795,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"344- 348 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186481857,
-    "wof:lastmodified":1449052672,
+    "wof:lastmodified":1466190403,
     "wof:name":"Wridgways",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [146.761795,-19.273329,146.761795,-19.273329],
-  "geometry": {"coordinates":[146.761795,-19.273329],"type":"Point"}
+  "bbox": [
+    146.761795,
+    -19.273329,
+    146.761795,
+    -19.273329
+],
+  "geometry": {"coordinates":[146.76179500000001,-19.273329],"type":"Point"}
 }

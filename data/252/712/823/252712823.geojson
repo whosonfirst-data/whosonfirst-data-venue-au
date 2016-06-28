@@ -2,13 +2,14 @@
   "id": 252712823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.558739,-33.554203,115.558739,-33.554203",
     "geom:latitude":-33.554203,
     "geom:longitude":115.558739,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 17 South West Hwy",
     "sg:city":"Boyanup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252712823,
-    "wof:lastmodified":1449005882,
+    "wof:lastmodified":1466186970,
     "wof:name":"Western Cellars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [115.558739,-33.554203,115.558739,-33.554203],
+  "bbox": [
+    115.558739,
+    -33.554203,
+    115.558739,
+    -33.554203
+],
   "geometry": {"coordinates":[115.558739,-33.554203],"type":"Point"}
 }

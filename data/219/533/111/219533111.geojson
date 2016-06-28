@@ -2,13 +2,14 @@
   "id": 219533111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.074707,-33.910385,151.074707,-33.910385",
     "geom:latitude":-33.910385,
     "geom:longitude":151.074707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Punchbowl Rd",
     "sg:city":"Lakemba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219533111,
-    "wof:lastmodified":1449070341,
+    "wof:lastmodified":1466190248,
     "wof:name":"Lakemba Auto Electric",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [151.074707,-33.910385,151.074707,-33.910385],
-  "geometry": {"coordinates":[151.074707,-33.910385],"type":"Point"}
+  "bbox": [
+    151.074707,
+    -33.910385,
+    151.074707,
+    -33.910385
+],
+  "geometry": {"coordinates":[151.07470699999999,-33.910385],"type":"Point"}
 }

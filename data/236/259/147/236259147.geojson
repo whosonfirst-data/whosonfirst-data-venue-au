@@ -2,13 +2,14 @@
   "id": 236259147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.02877,-31.324389,119.02877,-31.324389",
     "geom:latitude":-31.324389,
     "geom:longitude":119.02877,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Great Eastern Hwy",
     "sg:city":"Bodallin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236259147,
-    "wof:lastmodified":1449002247,
+    "wof:lastmodified":1466190238,
     "wof:name":"Peak Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [119.02877,-31.324389,119.02877,-31.324389],
-  "geometry": {"coordinates":[119.02877,-31.324389],"type":"Point"}
+  "bbox": [
+    119.02877,
+    -31.324389,
+    119.02877,
+    -31.324389
+],
+  "geometry": {"coordinates":[119.02876999999999,-31.324389],"type":"Point"}
 }

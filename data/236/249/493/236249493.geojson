@@ -2,13 +2,14 @@
   "id": 236249493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.895096,-38.134945,145.895096,-38.134945",
     "geom:latitude":-38.134945,
     "geom:longitude":145.895096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 36 Lardners Trk",
     "sg:city":"Drouin East",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236249493,
-    "wof:lastmodified":1449001804,
+    "wof:lastmodified":1466190071,
     "wof:name":"G A Pearson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fixer"
     ]
 },
-  "bbox": [145.895096,-38.134945,145.895096,-38.134945],
+  "bbox": [
+    145.895096,
+    -38.134945,
+    145.895096,
+    -38.134945
+],
   "geometry": {"coordinates":[145.895096,-38.134945],"type":"Point"}
 }

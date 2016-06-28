@@ -2,13 +2,14 @@
   "id": 202505029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.09375,-37.955509,145.09375,-37.955509",
     "geom:latitude":-37.955509,
     "geom:longitude":145.09375,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 - 52 Sunmore Cl",
     "sg:city":"Heatherton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202505029,
-    "wof:lastmodified":1449062240,
+    "wof:lastmodified":1466189587,
     "wof:name":"B & R Enclosures Pty Ltd",
     "wof:parent_id":85771461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "switchboard"
     ]
 },
-  "bbox": [145.09375,-37.955509,145.09375,-37.955509],
+  "bbox": [
+    145.09375,
+    -37.955509,
+    145.09375,
+    -37.955509
+],
   "geometry": {"coordinates":[145.09375,-37.955509],"type":"Point"}
 }

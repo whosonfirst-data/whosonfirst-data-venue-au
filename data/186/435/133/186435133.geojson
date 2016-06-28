@@ -2,13 +2,14 @@
   "id": 186435133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171555,-33.89904,151.171555,-33.89904",
     "geom:latitude":-33.89904,
     "geom:longitude":151.171555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Enmore Rd",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186435133,
-    "wof:lastmodified":1449052775,
+    "wof:lastmodified":1466189910,
     "wof:name":"Officesmart",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.171555,-33.89904,151.171555,-33.89904],
-  "geometry": {"coordinates":[151.171555,-33.89904],"type":"Point"}
+  "bbox": [
+    151.171555,
+    -33.89904,
+    151.171555,
+    -33.89904
+],
+  "geometry": {"coordinates":[151.17155500000001,-33.89904],"type":"Point"}
 }

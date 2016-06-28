@@ -2,13 +2,14 @@
   "id": 253064027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.738327,-37.741764,144.738327,-37.741764",
     "geom:latitude":-37.741764,
     "geom:longitude":144.738327,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 O&#039;Donnell Drv",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253064027,
-    "wof:lastmodified":1449063870,
+    "wof:lastmodified":1466188117,
     "wof:name":"Time Tree",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.738327,-37.741764,144.738327,-37.741764],
+  "bbox": [
+    144.738327,
+    -37.741764,
+    144.738327,
+    -37.741764
+],
   "geometry": {"coordinates":[144.738327,-37.741764],"type":"Point"}
 }

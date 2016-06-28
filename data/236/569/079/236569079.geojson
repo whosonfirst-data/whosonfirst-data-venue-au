@@ -2,13 +2,14 @@
   "id": 236569079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.040405,-33.966503,151.040405,-33.966503",
     "geom:latitude":-33.966503,
     "geom:longitude":151.040405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Queensbury Rd",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236569079,
-    "wof:lastmodified":1449005092,
+    "wof:lastmodified":1466191450,
     "wof:name":"Christadelphian Aged Care",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [151.040405,-33.966503,151.040405,-33.966503],
-  "geometry": {"coordinates":[151.040405,-33.966503],"type":"Point"}
+  "bbox": [
+    151.040405,
+    -33.966503,
+    151.040405,
+    -33.966503
+],
+  "geometry": {"coordinates":[151.04040499999999,-33.966503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236813771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.894348,-34.423386,150.894348,-34.423386",
     "geom:latitude":-34.423386,
     "geom:longitude":150.894348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47/ 22 Market St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236813771,
-    "wof:lastmodified":1449002316,
+    "wof:lastmodified":1466191981,
     "wof:name":"Piato Grand",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [150.894348,-34.423386,150.894348,-34.423386],
-  "geometry": {"coordinates":[150.894348,-34.423386],"type":"Point"}
+  "bbox": [
+    150.894348,
+    -34.423386,
+    150.894348,
+    -34.423386
+],
+  "geometry": {"coordinates":[150.89434800000001,-34.423386],"type":"Point"}
 }

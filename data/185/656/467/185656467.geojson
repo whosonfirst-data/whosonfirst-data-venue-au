@@ -2,13 +2,14 @@
   "id": 185656467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.79998,-32.034451,115.79998,-32.034451",
     "geom:latitude":-32.034451,
     "geom:longitude":115.79998,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Money Rd",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185656467,
-    "wof:lastmodified":1449007647,
+    "wof:lastmodified":1466188361,
     "wof:name":"Search Research",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [115.79998,-32.034451,115.79998,-32.034451],
-  "geometry": {"coordinates":[115.79998,-32.034451],"type":"Point"}
+  "bbox": [
+    115.79998,
+    -32.034451,
+    115.79998,
+    -32.034451
+],
+  "geometry": {"coordinates":[115.79998000000001,-32.034451],"type":"Point"}
 }

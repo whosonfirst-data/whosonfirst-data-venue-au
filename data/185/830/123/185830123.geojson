@@ -2,13 +2,14 @@
   "id": 185830123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.831497,-25.285181,152.831497,-25.285181",
     "geom:latitude":-25.285181,
     "geom:longitude":152.831497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11- 17 Islander Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185830123,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466187091,
     "wof:name":"Hervey Bay Crane Hire",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hire"
     ]
 },
-  "bbox": [152.831497,-25.285181,152.831497,-25.285181],
-  "geometry": {"coordinates":[152.831497,-25.285181],"type":"Point"}
+  "bbox": [
+    152.831497,
+    -25.285181,
+    152.831497,
+    -25.285181
+],
+  "geometry": {"coordinates":[152.83149700000001,-25.285181],"type":"Point"}
 }

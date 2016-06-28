@@ -2,13 +2,14 @@
   "id": 253039757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.814423,-37.821278,144.814423,-37.821278",
     "geom:latitude":-37.821278,
     "geom:longitude":144.814423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Pipe Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253039757,
-    "wof:lastmodified":1449065404,
+    "wof:lastmodified":1466187714,
     "wof:name":"Pipe Road Cafe",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.814423,-37.821278,144.814423,-37.821278],
-  "geometry": {"coordinates":[144.814423,-37.821278],"type":"Point"}
+  "bbox": [
+    144.814423,
+    -37.821278,
+    144.814423,
+    -37.821278
+],
+  "geometry": {"coordinates":[144.81442300000001,-37.821278],"type":"Point"}
 }

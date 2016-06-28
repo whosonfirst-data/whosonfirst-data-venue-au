@@ -2,13 +2,14 @@
   "id": 236725783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.451553,-31.896824,152.451553,-31.896824",
     "geom:latitude":-31.896824,
     "geom:longitude":152.451553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 10 Grey Gum Rd",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236725783,
-    "wof:lastmodified":1449002279,
+    "wof:lastmodified":1466191869,
     "wof:name":"Discount Freight Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [152.451553,-31.896824,152.451553,-31.896824],
-  "geometry": {"coordinates":[152.451553,-31.896824],"type":"Point"}
+  "bbox": [
+    152.451553,
+    -31.896824,
+    152.451553,
+    -31.896824
+],
+  "geometry": {"coordinates":[152.45155299999999,-31.896824],"type":"Point"}
 }

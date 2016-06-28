@@ -2,13 +2,14 @@
   "id": 236353163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.82058,-32.068523,115.82058,-32.068523",
     "geom:latitude":-32.068523,
     "geom:longitude":115.82058,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr South St & Gilbertson Rd (BP Site)",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236353163,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466190900,
     "wof:name":"Carbiz Autos",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.82058,-32.068523,115.82058,-32.068523],
-  "geometry": {"coordinates":[115.82058,-32.068523],"type":"Point"}
+  "bbox": [
+    115.82058,
+    -32.068523,
+    115.82058,
+    -32.068523
+],
+  "geometry": {"coordinates":[115.82058000000001,-32.068523],"type":"Point"}
 }

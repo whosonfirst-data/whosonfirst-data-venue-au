@@ -2,13 +2,14 @@
   "id": 219255045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.996674,-37.780357,144.996674,-37.780357",
     "geom:latitude":-37.780357,
     "geom:longitude":144.996674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219255045,
-    "wof:lastmodified":1449072004,
+    "wof:lastmodified":1466187159,
     "wof:name":"Metropolis Hair & Beauty Studio",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.996674,-37.780357,144.996674,-37.780357],
-  "geometry": {"coordinates":[144.996674,-37.780357],"type":"Point"}
+  "bbox": [
+    144.996674,
+    -37.780357,
+    144.996674,
+    -37.780357
+],
+  "geometry": {"coordinates":[144.99667400000001,-37.780357],"type":"Point"}
 }

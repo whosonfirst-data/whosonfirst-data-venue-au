@@ -2,13 +2,14 @@
   "id": 220012309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.284607,-36.762291,144.284607,-36.762291",
     "geom:latitude":-36.762291,
     "geom:longitude":144.284607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Mollison St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220012309,
-    "wof:lastmodified":1449074795,
+    "wof:lastmodified":1466186984,
     "wof:name":"Suncorp",
     "wof:parent_id":85780695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.284607,-36.762291,144.284607,-36.762291],
-  "geometry": {"coordinates":[144.284607,-36.762291],"type":"Point"}
+  "bbox": [
+    144.284607,
+    -36.762291,
+    144.284607,
+    -36.762291
+],
+  "geometry": {"coordinates":[144.28460699999999,-36.762291],"type":"Point"}
 }

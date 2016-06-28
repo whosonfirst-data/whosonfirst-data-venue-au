@@ -2,13 +2,14 @@
   "id": 219245349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.014435,-37.776985,145.014435,-37.776985",
     "geom:latitude":-37.776985,
     "geom:longitude":145.014435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Peel St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219245349,
-    "wof:lastmodified":1449073800,
+    "wof:lastmodified":1466186972,
     "wof:name":"Circus Maximus Pty Ltd",
     "wof:parent_id":85775951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [145.014435,-37.776985,145.014435,-37.776985],
-  "geometry": {"coordinates":[145.014435,-37.776985],"type":"Point"}
+  "bbox": [
+    145.014435,
+    -37.776985,
+    145.014435,
+    -37.776985
+],
+  "geometry": {"coordinates":[145.01443499999999,-37.776985],"type":"Point"}
 }

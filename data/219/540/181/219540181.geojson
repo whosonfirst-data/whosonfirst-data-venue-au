@@ -2,13 +2,14 @@
   "id": 219540181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.046341,-33.926304,151.046341,-33.926304",
     "geom:latitude":-33.926304,
     "geom:longitude":151.046341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Gowrie Ave",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219540181,
-    "wof:lastmodified":1449071776,
+    "wof:lastmodified":1466190071,
     "wof:name":"Playfair Education & Childcare Centre",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.046341,-33.926304,151.046341,-33.926304],
-  "geometry": {"coordinates":[151.046341,-33.926304],"type":"Point"}
+  "bbox": [
+    151.046341,
+    -33.926304,
+    151.046341,
+    -33.926304
+],
+  "geometry": {"coordinates":[151.04634100000001,-33.926304],"type":"Point"}
 }

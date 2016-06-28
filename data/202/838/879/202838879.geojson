@@ -2,13 +2,14 @@
   "id": 202838879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.693192,-32.879925,151.693192,-32.879925",
     "geom:latitude":-32.879925,
     "geom:longitude":151.693192,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Marton St",
     "sg:city":"Shortland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202838879,
-    "wof:lastmodified":1449060405,
+    "wof:lastmodified":1466190467,
     "wof:name":"Hall Michael",
     "wof:parent_id":85777141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [151.693192,-32.879925,151.693192,-32.879925],
-  "geometry": {"coordinates":[151.693192,-32.879925],"type":"Point"}
+  "bbox": [
+    151.693192,
+    -32.879925,
+    151.693192,
+    -32.879925
+],
+  "geometry": {"coordinates":[151.69319200000001,-32.879925],"type":"Point"}
 }

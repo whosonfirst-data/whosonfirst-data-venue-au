@@ -2,13 +2,14 @@
   "id": 202953793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.082306,-30.328346,153.082306,-30.328346",
     "geom:latitude":-30.328346,
     "geom:longitude":153.082306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 1 542 Pacific Hwy",
     "sg:city":"Boambee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202953793,
-    "wof:lastmodified":1449061834,
+    "wof:lastmodified":1466191018,
     "wof:name":"Lindsay Transport",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brick"
     ]
 },
-  "bbox": [153.082306,-30.328346,153.082306,-30.328346],
-  "geometry": {"coordinates":[153.082306,-30.328346],"type":"Point"}
+  "bbox": [
+    153.082306,
+    -30.328346,
+    153.082306,
+    -30.328346
+],
+  "geometry": {"coordinates":[153.08230599999999,-30.328346],"type":"Point"}
 }

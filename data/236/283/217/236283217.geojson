@@ -2,13 +2,14 @@
   "id": 236283217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.731117,-32.302723,115.731117,-32.302723",
     "geom:latitude":-32.302723,
     "geom:longitude":115.731117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Dobson Crt",
     "sg:city":"Safety Bay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236283217,
-    "wof:lastmodified":1449002459,
+    "wof:lastmodified":1466190243,
     "wof:name":"Qualified Electrical Service",
     "wof:parent_id":85770163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.731117,-32.302723,115.731117,-32.302723],
+  "bbox": [
+    115.731117,
+    -32.302723,
+    115.731117,
+    -32.302723
+],
   "geometry": {"coordinates":[115.731117,-32.302723],"type":"Point"}
 }

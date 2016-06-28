@@ -2,13 +2,14 @@
   "id": 202576367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.424759,-37.672779,144.424759,-37.672779",
     "geom:latitude":-37.672779,
     "geom:longitude":144.424759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Connor St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202576367,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466187093,
     "wof:name":"Rip -Tie Protective Service Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [144.424759,-37.672779,144.424759,-37.672779],
-  "geometry": {"coordinates":[144.424759,-37.672779],"type":"Point"}
+  "bbox": [
+    144.424759,
+    -37.672779,
+    144.424759,
+    -37.672779
+],
+  "geometry": {"coordinates":[144.42475899999999,-37.672779],"type":"Point"}
 }

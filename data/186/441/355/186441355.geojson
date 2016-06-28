@@ -2,13 +2,14 @@
   "id": 186441355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.17955,-33.903339,151.17955,-33.903339",
     "geom:latitude":-33.903339,
     "geom:longitude":151.17955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"533 King St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186441355,
-    "wof:lastmodified":1449050451,
+    "wof:lastmodified":1466190064,
     "wof:name":"Piscean Gallery",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [151.17955,-33.903339,151.17955,-33.903339],
-  "geometry": {"coordinates":[151.17955,-33.903339],"type":"Point"}
+  "bbox": [
+    151.17955,
+    -33.903339,
+    151.17955,
+    -33.903339
+],
+  "geometry": {"coordinates":[151.17955000000001,-33.903339],"type":"Point"}
 }

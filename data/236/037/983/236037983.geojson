@@ -2,13 +2,14 @@
   "id": 236037983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.800323,-37.701912,144.800323,-37.701912",
     "geom:latitude":-37.701912,
     "geom:longitude":144.800323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Taylors Lakes Shopping Centre 3 Melton Hwy",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236037983,
-    "wof:lastmodified":1449005319,
+    "wof:lastmodified":1466187374,
     "wof:name":"Dance Spirit",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [144.800323,-37.701912,144.800323,-37.701912],
-  "geometry": {"coordinates":[144.800323,-37.701912],"type":"Point"}
+  "bbox": [
+    144.800323,
+    -37.701912,
+    144.800323,
+    -37.701912
+],
+  "geometry": {"coordinates":[144.80032299999999,-37.701912],"type":"Point"}
 }

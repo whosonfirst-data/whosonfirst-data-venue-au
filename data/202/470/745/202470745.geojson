@@ -2,13 +2,14 @@
   "id": 202470745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.96817,-37.836567,144.96817,-37.836567",
     "geom:latitude":-37.836567,
     "geom:longitude":144.96817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3, 8- 12 Sandilands St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202470745,
-    "wof:lastmodified":1449060728,
+    "wof:lastmodified":1466189081,
     "wof:name":"Alexander & Symonds (Vic) Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [144.96817,-37.836567,144.96817,-37.836567],
-  "geometry": {"coordinates":[144.96817,-37.836567],"type":"Point"}
+  "bbox": [
+    144.96817,
+    -37.836567,
+    144.96817,
+    -37.836567
+],
+  "geometry": {"coordinates":[144.96816999999999,-37.836567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202769935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.77562,-32.93478,151.77562,-32.93478",
     "geom:latitude":-32.93478,
     "geom:longitude":151.77562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Lemnos Pde",
     "sg:city":"The Hill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202769935,
-    "wof:lastmodified":1449060952,
+    "wof:lastmodified":1466190053,
     "wof:name":"Mobius Studio",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "designer"
     ]
 },
-  "bbox": [151.77562,-32.93478,151.77562,-32.93478],
+  "bbox": [
+    151.77562,
+    -32.93478,
+    151.77562,
+    -32.93478
+],
   "geometry": {"coordinates":[151.77562,-32.93478],"type":"Point"}
 }

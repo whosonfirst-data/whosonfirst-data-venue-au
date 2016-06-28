@@ -2,13 +2,14 @@
   "id": 220093201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.623657,-38.272434,144.623657,-38.272434",
     "geom:latitude":-38.272434,
     "geom:longitude":144.623657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Pt Lonsdale Rd",
     "sg:city":"Point Lonsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220093201,
-    "wof:lastmodified":1449074061,
+    "wof:lastmodified":1466187902,
     "wof:name":"Muse Studio",
     "wof:parent_id":85782287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.623657,-38.272434,144.623657,-38.272434],
-  "geometry": {"coordinates":[144.623657,-38.272434],"type":"Point"}
+  "bbox": [
+    144.623657,
+    -38.272434,
+    144.623657,
+    -38.272434
+],
+  "geometry": {"coordinates":[144.62365700000001,-38.272434],"type":"Point"}
 }

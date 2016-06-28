@@ -2,13 +2,14 @@
   "id": 202463509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.949738,-37.835861,144.949738,-37.835861",
     "geom:latitude":-37.835861,
     "geom:longitude":144.949738,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Normanby Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202463509,
-    "wof:lastmodified":1449061854,
+    "wof:lastmodified":1466188982,
     "wof:name":"Hilti (Aust) Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [144.949738,-37.835861,144.949738,-37.835861],
+  "bbox": [
+    144.949738,
+    -37.835861,
+    144.949738,
+    -37.835861
+],
   "geometry": {"coordinates":[144.949738,-37.835861],"type":"Point"}
 }

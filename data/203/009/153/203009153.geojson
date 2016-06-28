@@ -2,13 +2,14 @@
   "id": 203009153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.494019,-20.732695,139.494019,-20.732695",
     "geom:latitude":-20.732695,
     "geom:longitude":139.494019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Landy St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203009153,
-    "wof:lastmodified":1449026844,
+    "wof:lastmodified":1466187218,
     "wof:name":"Mt Isa Kick Boxing Club",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "martial art"
     ]
 },
-  "bbox": [139.494019,-20.732695,139.494019,-20.732695],
-  "geometry": {"coordinates":[139.494019,-20.732695],"type":"Point"}
+  "bbox": [
+    139.494019,
+    -20.732695,
+    139.494019,
+    -20.732695
+],
+  "geometry": {"coordinates":[139.49401900000001,-20.732695],"type":"Point"}
 }

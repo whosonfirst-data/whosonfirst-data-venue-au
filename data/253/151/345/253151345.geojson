@@ -2,13 +2,14 @@
   "id": 253151345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.958313,-27.589039,151.958313,-27.589039",
     "geom:latitude":-27.589039,
     "geom:longitude":151.958313,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Hazel St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253151345,
-    "wof:lastmodified":1449062850,
+    "wof:lastmodified":1466189631,
     "wof:name":"Japanese Education Centre",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [151.958313,-27.589039,151.958313,-27.589039],
+  "bbox": [
+    151.958313,
+    -27.589039,
+    151.958313,
+    -27.589039
+],
   "geometry": {"coordinates":[151.958313,-27.589039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236281457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.74855,-32.326244,115.74855,-32.326244",
     "geom:latitude":-32.326244,
     "geom:longitude":115.74855,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp7/ 6 Hokin St",
     "sg:city":"Waikiki",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236281457,
-    "wof:lastmodified":1449004644,
+    "wof:lastmodified":1466190338,
     "wof:name":"Curry2go",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [115.74855,-32.326244,115.74855,-32.326244],
-  "geometry": {"coordinates":[115.74855,-32.326244],"type":"Point"}
+  "bbox": [
+    115.74855,
+    -32.326244,
+    115.74855,
+    -32.326244
+],
+  "geometry": {"coordinates":[115.74854999999999,-32.326244],"type":"Point"}
 }

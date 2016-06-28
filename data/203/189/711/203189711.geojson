@@ -2,13 +2,14 @@
   "id": 203189711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.75029,-41.006172,145.75029,-41.006172",
     "geom:latitude":-41.006172,
     "geom:longitude":145.75029,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Mt Hicks Rd",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203189711,
-    "wof:lastmodified":1449026306,
+    "wof:lastmodified":1466186924,
     "wof:name":"Alderson Carriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carrier"
     ]
 },
-  "bbox": [145.75029,-41.006172,145.75029,-41.006172],
-  "geometry": {"coordinates":[145.75029,-41.006172],"type":"Point"}
+  "bbox": [
+    145.75029,
+    -41.006172,
+    145.75029,
+    -41.006172
+],
+  "geometry": {"coordinates":[145.75029000000001,-41.006172],"type":"Point"}
 }

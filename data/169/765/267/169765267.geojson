@@ -2,13 +2,14 @@
   "id": 169765267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.090515,-27.225985,153.090515,-27.225985",
     "geom:latitude":-27.225985,
     "geom:longitude":153.090515,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 High St",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169765267,
-    "wof:lastmodified":1449034597,
+    "wof:lastmodified":1466188133,
     "wof:name":"Geoff's Auto Brake & Clutch Centre",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.090515,-27.225985,153.090515,-27.225985],
-  "geometry": {"coordinates":[153.090515,-27.225985],"type":"Point"}
+  "bbox": [
+    153.090515,
+    -27.225985,
+    153.090515,
+    -27.225985
+],
+  "geometry": {"coordinates":[153.09051500000001,-27.225985],"type":"Point"}
 }

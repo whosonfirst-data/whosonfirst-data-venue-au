@@ -2,13 +2,14 @@
   "id": 253074047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.801025,-37.742558,144.801025,-37.742558",
     "geom:latitude":-37.742558,
     "geom:longitude":144.801025,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Alfrieda St",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253074047,
-    "wof:lastmodified":1449064428,
+    "wof:lastmodified":1466188258,
     "wof:name":"Zinh Zinh",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.801025,-37.742558,144.801025,-37.742558],
-  "geometry": {"coordinates":[144.801025,-37.742558],"type":"Point"}
+  "bbox": [
+    144.801025,
+    -37.742558,
+    144.801025,
+    -37.742558
+],
+  "geometry": {"coordinates":[144.80102500000001,-37.742558],"type":"Point"}
 }

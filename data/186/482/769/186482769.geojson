@@ -2,13 +2,14 @@
   "id": 186482769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.76207,-19.286493,146.76207,-19.286493",
     "geom:latitude":-19.286493,
     "geom:longitude":146.76207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ronan St",
     "sg:city":"Vincent",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186482769,
-    "wof:lastmodified":1449051348,
+    "wof:lastmodified":1466190416,
     "wof:name":"Vincent Neighbourhood House",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [146.76207,-19.286493,146.76207,-19.286493],
-  "geometry": {"coordinates":[146.76207,-19.286493],"type":"Point"}
+  "bbox": [
+    146.76207,
+    -19.286493,
+    146.76207,
+    -19.286493
+],
+  "geometry": {"coordinates":[146.76206999999999,-19.286493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185847565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.829315,-25.302172,152.829315,-25.302172",
     "geom:latitude":-25.302172,
     "geom:longitude":152.829315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 48",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185847565,
-    "wof:lastmodified":1449007181,
+    "wof:lastmodified":1466187311,
     "wof:name":"Hervey Bay Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixer"
     ]
 },
-  "bbox": [152.829315,-25.302172,152.829315,-25.302172],
-  "geometry": {"coordinates":[152.829315,-25.302172],"type":"Point"}
+  "bbox": [
+    152.829315,
+    -25.302172,
+    152.829315,
+    -25.302172
+],
+  "geometry": {"coordinates":[152.82931500000001,-25.302172],"type":"Point"}
 }

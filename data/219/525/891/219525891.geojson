@@ -2,13 +2,14 @@
   "id": 219525891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.099106,-33.920555,151.099106,-33.920555",
     "geom:latitude":-33.920555,
     "geom:longitude":151.099106,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 20/532- 532 Canterbury Rd",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219525891,
-    "wof:lastmodified":1449073197,
+    "wof:lastmodified":1466189981,
     "wof:name":"Jabbs Excavations Pty Ltd",
     "wof:parent_id":85770707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.099106,-33.920555,151.099106,-33.920555],
-  "geometry": {"coordinates":[151.099106,-33.920555],"type":"Point"}
+  "bbox": [
+    151.099106,
+    -33.920555,
+    151.099106,
+    -33.920555
+],
+  "geometry": {"coordinates":[151.09910600000001,-33.920555],"type":"Point"}
 }

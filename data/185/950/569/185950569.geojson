@@ -2,13 +2,14 @@
   "id": 185950569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.49733,-33.258549,151.49733,-33.258549",
     "geom:latitude":-33.258549,
     "geom:longitude":151.49733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Jacqueline Ave",
     "sg:city":"Gorokan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185950569,
-    "wof:lastmodified":1449007249,
+    "wof:lastmodified":1466188467,
     "wof:name":"Red Shed Quilting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "quilting"
     ]
 },
-  "bbox": [151.49733,-33.258549,151.49733,-33.258549],
-  "geometry": {"coordinates":[151.49733,-33.258549],"type":"Point"}
+  "bbox": [
+    151.49733,
+    -33.258549,
+    151.49733,
+    -33.258549
+],
+  "geometry": {"coordinates":[151.49733000000001,-33.258549],"type":"Point"}
 }

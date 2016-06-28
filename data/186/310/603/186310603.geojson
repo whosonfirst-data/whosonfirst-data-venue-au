@@ -2,13 +2,14 @@
   "id": 186310603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.001099,-30.645485,153.001099,-30.645485",
     "geom:latitude":-30.645485,
     "geom:longitude":153.001099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Beer Pde",
     "sg:city":"Nambucca Heads",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186310603,
-    "wof:lastmodified":1449052017,
+    "wof:lastmodified":1466187845,
     "wof:name":"Nambucca Heads Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [153.001099,-30.645485,153.001099,-30.645485],
-  "geometry": {"coordinates":[153.001099,-30.645485],"type":"Point"}
+  "bbox": [
+    153.001099,
+    -30.645485,
+    153.001099,
+    -30.645485
+],
+  "geometry": {"coordinates":[153.00109900000001,-30.645485],"type":"Point"}
 }

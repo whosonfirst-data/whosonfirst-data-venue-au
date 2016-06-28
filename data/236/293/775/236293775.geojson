@@ -2,13 +2,14 @@
   "id": 236293775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.746841,-32.277122,115.746841,-32.277122",
     "geom:latitude":-32.277122,
     "geom:longitude":115.746841,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 15 Dixon Rd",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236293775,
-    "wof:lastmodified":1449002162,
+    "wof:lastmodified":1466190463,
     "wof:name":"Rockingham Foam Supplies",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [115.746841,-32.277122,115.746841,-32.277122],
+  "bbox": [
+    115.746841,
+    -32.277122,
+    115.746841,
+    -32.277122
+],
   "geometry": {"coordinates":[115.746841,-32.277122],"type":"Point"}
 }

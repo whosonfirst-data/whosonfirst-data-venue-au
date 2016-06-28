@@ -2,13 +2,14 @@
   "id": 186040573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.500549,-33.35107,151.500549,-33.35107",
     "geom:latitude":-33.35107,
     "geom:longitude":151.500549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 8069",
     "sg:city":"Tumbi Umbi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186040573,
-    "wof:lastmodified":1449052962,
+    "wof:lastmodified":1466188084,
     "wof:name":"Exotique Tile Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wall"
     ]
 },
-  "bbox": [151.500549,-33.35107,151.500549,-33.35107],
-  "geometry": {"coordinates":[151.500549,-33.35107],"type":"Point"}
+  "bbox": [
+    151.500549,
+    -33.35107,
+    151.500549,
+    -33.35107
+],
+  "geometry": {"coordinates":[151.50054900000001,-33.35107],"type":"Point"}
 }

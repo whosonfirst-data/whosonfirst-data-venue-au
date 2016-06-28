@@ -2,13 +2,14 @@
   "id": 202428335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.950333,-37.845436,144.950333,-37.845436",
     "geom:latitude":-37.845436,
     "geom:longitude":144.950333,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Victoria Ave",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202428335,
-    "wof:lastmodified":1449062469,
+    "wof:lastmodified":1466188368,
     "wof:name":"City Tiler The",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [144.950333,-37.845436,144.950333,-37.845436],
+  "bbox": [
+    144.950333,
+    -37.845436,
+    144.950333,
+    -37.845436
+],
   "geometry": {"coordinates":[144.950333,-37.845436],"type":"Point"}
 }

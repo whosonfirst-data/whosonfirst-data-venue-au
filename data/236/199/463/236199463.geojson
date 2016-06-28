@@ -2,13 +2,14 @@
   "id": 236199463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.59996,-38.043316,145.59996,-38.043316",
     "geom:latitude":-38.043316,
     "geom:longitude":145.59996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Wheeler Rd",
     "sg:city":"Maryknoll",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236199463,
-    "wof:lastmodified":1449001930,
+    "wof:lastmodified":1466190210,
     "wof:name":"Tylers Garage Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.59996,-38.043316,145.59996,-38.043316],
-  "geometry": {"coordinates":[145.59996,-38.043316],"type":"Point"}
+  "bbox": [
+    145.59996,
+    -38.043316,
+    145.59996,
+    -38.043316
+],
+  "geometry": {"coordinates":[145.59996000000001,-38.043316],"type":"Point"}
 }

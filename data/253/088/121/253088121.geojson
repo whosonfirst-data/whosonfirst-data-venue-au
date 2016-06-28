@@ -2,13 +2,14 @@
   "id": 253088121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.774704,-37.726856,144.774704,-37.726856",
     "geom:latitude":-37.726856,
     "geom:longitude":144.774704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Taylors Rd",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253088121,
-    "wof:lastmodified":1449065101,
+    "wof:lastmodified":1466188506,
     "wof:name":"The Classic Arts School Of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [144.774704,-37.726856,144.774704,-37.726856],
-  "geometry": {"coordinates":[144.774704,-37.726856],"type":"Point"}
+  "bbox": [
+    144.774704,
+    -37.726856,
+    144.774704,
+    -37.726856
+],
+  "geometry": {"coordinates":[144.77470400000001,-37.726856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236556827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.021133,-33.969738,151.021133,-33.969738",
     "geom:latitude":-33.969738,
     "geom:longitude":151.021133,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Brockman Ave",
     "sg:city":"Revesby Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236556827,
-    "wof:lastmodified":1449002292,
+    "wof:lastmodified":1466191496,
     "wof:name":"Gartech",
     "wof:parent_id":85776875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "support"
     ]
 },
-  "bbox": [151.021133,-33.969738,151.021133,-33.969738],
-  "geometry": {"coordinates":[151.021133,-33.969738],"type":"Point"}
+  "bbox": [
+    151.021133,
+    -33.969738,
+    151.021133,
+    -33.969738
+],
+  "geometry": {"coordinates":[151.02113299999999,-33.969738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203116775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.739128,-32.504761,115.739128,-32.504761",
     "geom:latitude":-32.504761,
     "geom:longitude":115.739128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Driftwood Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203116775,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466189308,
     "wof:name":"Micro Image Skin Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "treatment"
     ]
 },
-  "bbox": [115.739128,-32.504761,115.739128,-32.504761],
-  "geometry": {"coordinates":[115.739128,-32.504761],"type":"Point"}
+  "bbox": [
+    115.739128,
+    -32.504761,
+    115.739128,
+    -32.504761
+],
+  "geometry": {"coordinates":[115.73912799999999,-32.504761],"type":"Point"}
 }

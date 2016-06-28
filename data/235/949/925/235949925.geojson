@@ -2,13 +2,14 @@
   "id": 235949925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.936157,-30.089735,145.936157,-30.089735",
     "geom:latitude":-30.089735,
     "geom:longitude":145.936157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Oxley St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235949925,
-    "wof:lastmodified":1449008461,
+    "wof:lastmodified":1466187060,
     "wof:name":"Elysian Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.936157,-30.089735,145.936157,-30.089735],
-  "geometry": {"coordinates":[145.936157,-30.089735],"type":"Point"}
+  "bbox": [
+    145.936157,
+    -30.089735,
+    145.936157,
+    -30.089735
+],
+  "geometry": {"coordinates":[145.93615700000001,-30.089735],"type":"Point"}
 }

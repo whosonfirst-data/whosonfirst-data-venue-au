@@ -2,13 +2,14 @@
   "id": 252845237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.601425,-32.60751,149.601425,-32.60751",
     "geom:latitude":-32.60751,
     "geom:longitude":149.601425,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Swords Crt",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252845237,
-    "wof:lastmodified":1449005583,
+    "wof:lastmodified":1466188511,
     "wof:name":"Berridge & Gallagher Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [149.601425,-32.60751,149.601425,-32.60751],
-  "geometry": {"coordinates":[149.601425,-32.60751],"type":"Point"}
+  "bbox": [
+    149.601425,
+    -32.60751,
+    149.601425,
+    -32.60751
+],
+  "geometry": {"coordinates":[149.60142500000001,-32.60751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202943931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.090897,-30.317951,153.090897,-30.317951",
     "geom:latitude":-30.317951,
     "geom:longitude":153.090897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Pacific Hwy",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202943931,
-    "wof:lastmodified":1449060785,
+    "wof:lastmodified":1466190855,
     "wof:name":"Slattery Geoff",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.090897,-30.317951,153.090897,-30.317951],
-  "geometry": {"coordinates":[153.090897,-30.317951],"type":"Point"}
+  "bbox": [
+    153.090897,
+    -30.317951,
+    153.090897,
+    -30.317951
+],
+  "geometry": {"coordinates":[153.09089700000001,-30.317951],"type":"Point"}
 }

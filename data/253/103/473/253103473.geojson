@@ -2,13 +2,14 @@
   "id": 253103473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.835419,-37.798756,144.835419,-37.798756",
     "geom:latitude":-37.798756,
     "geom:longitude":144.835419,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Second Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253103473,
-    "wof:lastmodified":1449064659,
+    "wof:lastmodified":1466188805,
     "wof:name":"SunBake Pita",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.835419,-37.798756,144.835419,-37.798756],
+  "bbox": [
+    144.835419,
+    -37.798756,
+    144.835419,
+    -37.798756
+],
   "geometry": {"coordinates":[144.835419,-37.798756],"type":"Point"}
 }

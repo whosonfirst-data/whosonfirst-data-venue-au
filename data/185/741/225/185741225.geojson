@@ -2,13 +2,14 @@
   "id": 185741225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.065125,-32.701164,152.065125,-32.701164",
     "geom:latitude":-32.701164,
     "geom:longitude":152.065125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ridgeway Ave",
     "sg:city":"Soldiers Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185741225,
-    "wof:lastmodified":1449006668,
+    "wof:lastmodified":1466189517,
     "wof:name":"Port Stephens Yacht Squadron Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [152.065125,-32.701164,152.065125,-32.701164],
-  "geometry": {"coordinates":[152.065125,-32.701164],"type":"Point"}
+  "bbox": [
+    152.065125,
+    -32.701164,
+    152.065125,
+    -32.701164
+],
+  "geometry": {"coordinates":[152.06512499999999,-32.701164],"type":"Point"}
 }

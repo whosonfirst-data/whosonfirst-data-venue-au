@@ -2,13 +2,14 @@
   "id": 185839709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841309,-25.288752,152.841309,-25.288752",
     "geom:latitude":-25.288752,
     "geom:longitude":152.841309,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60- 62 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185839709,
-    "wof:lastmodified":1449007582,
+    "wof:lastmodified":1466187207,
     "wof:name":"Zone 3 Laser Game",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.841309,-25.288752,152.841309,-25.288752],
+  "bbox": [
+    152.841309,
+    -25.288752,
+    152.841309,
+    -25.288752
+],
   "geometry": {"coordinates":[152.841309,-25.288752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203280711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.154648,-33.123108,148.154648,-33.123108",
     "geom:latitude":-33.123108,
     "geom:longitude":148.154648,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Back Trundle Rd",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203280711,
-    "wof:lastmodified":1449025859,
+    "wof:lastmodified":1466187803,
     "wof:name":"Parkes Landscaping Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [148.154648,-33.123108,148.154648,-33.123108],
-  "geometry": {"coordinates":[148.154648,-33.123108],"type":"Point"}
+  "bbox": [
+    148.154648,
+    -33.123108,
+    148.154648,
+    -33.123108
+],
+  "geometry": {"coordinates":[148.15464800000001,-33.123108],"type":"Point"}
 }

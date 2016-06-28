@@ -2,13 +2,14 @@
   "id": 252766623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.176407,-41.57864,147.176407,-41.57864",
     "geom:latitude":-41.57864,
     "geom:longitude":147.176407,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Drummond St",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252766623,
-    "wof:lastmodified":1449005389,
+    "wof:lastmodified":1466187850,
     "wof:name":"Bodyworks of Perth Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [147.176407,-41.57864,147.176407,-41.57864],
-  "geometry": {"coordinates":[147.176407,-41.57864],"type":"Point"}
+  "bbox": [
+    147.176407,
+    -41.57864,
+    147.176407,
+    -41.57864
+],
+  "geometry": {"coordinates":[147.17640700000001,-41.57864],"type":"Point"}
 }

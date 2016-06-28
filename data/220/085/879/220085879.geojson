@@ -2,13 +2,14 @@
   "id": 220085879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.126724,-40.841656,145.126724,-40.841656",
     "geom:latitude":-40.841656,
     "geom:longitude":145.126724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Park La",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220085879,
-    "wof:lastmodified":1449074232,
+    "wof:lastmodified":1466187801,
     "wof:name":"Smithton Laundry Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.126724,-40.841656,145.126724,-40.841656],
+  "bbox": [
+    145.126724,
+    -40.841656,
+    145.126724,
+    -40.841656
+],
   "geometry": {"coordinates":[145.126724,-40.841656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236071279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.729843,-37.685825,144.729843,-37.685825",
     "geom:latitude":-37.685825,
     "geom:longitude":144.729843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Knight Crt",
     "sg:city":"Hillside (Sydenham)",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236071279,
-    "wof:lastmodified":1449003780,
+    "wof:lastmodified":1466188055,
     "wof:name":"Brimbank Plumbing & Air Conditioning",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [144.729843,-37.685825,144.729843,-37.685825],
-  "geometry": {"coordinates":[144.729843,-37.685825],"type":"Point"}
+  "bbox": [
+    144.729843,
+    -37.685825,
+    144.729843,
+    -37.685825
+],
+  "geometry": {"coordinates":[144.72984299999999,-37.685825],"type":"Point"}
 }

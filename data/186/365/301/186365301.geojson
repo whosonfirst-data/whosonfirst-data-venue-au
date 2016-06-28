@@ -2,13 +2,14 @@
   "id": 186365301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.129013,-33.870499,151.129013,-33.870499",
     "geom:latitude":-33.870499,
     "geom:longitude":151.129013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Great North Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186365301,
-    "wof:lastmodified":1449050843,
+    "wof:lastmodified":1466188728,
     "wof:name":"Wynstan Blinds & Doors Pty Ltd",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "doors"
     ]
 },
-  "bbox": [151.129013,-33.870499,151.129013,-33.870499],
-  "geometry": {"coordinates":[151.129013,-33.870499],"type":"Point"}
+  "bbox": [
+    151.129013,
+    -33.870499,
+    151.129013,
+    -33.870499
+],
+  "geometry": {"coordinates":[151.12901299999999,-33.870499],"type":"Point"}
 }

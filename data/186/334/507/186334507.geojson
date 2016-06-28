@@ -2,13 +2,14 @@
   "id": 186334507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.301697,-33.693005,151.301697,-33.693005",
     "geom:latitude":-33.693005,
     "geom:longitude":151.301697,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Vuko Pl",
     "sg:city":"Warriewood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186334507,
-    "wof:lastmodified":1449051161,
+    "wof:lastmodified":1466188168,
     "wof:name":"Belgrave Diagnostic Imaging",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.301697,-33.693005,151.301697,-33.693005],
-  "geometry": {"coordinates":[151.301697,-33.693005],"type":"Point"}
+  "bbox": [
+    151.301697,
+    -33.693005,
+    151.301697,
+    -33.693005
+],
+  "geometry": {"coordinates":[151.30169699999999,-33.693005],"type":"Point"}
 }

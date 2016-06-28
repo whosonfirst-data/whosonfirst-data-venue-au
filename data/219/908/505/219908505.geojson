@@ -2,13 +2,14 @@
   "id": 219908505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.922318,-34.315479,150.922318,-34.315479",
     "geom:latitude":-34.315479,
     "geom:longitude":150.922318,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 139",
     "sg:city":"Thirroul",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219908505,
-    "wof:lastmodified":1449072382,
+    "wof:lastmodified":1466191751,
     "wof:name":"MP Stone Care",
     "wof:parent_id":85770439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.922318,-34.315479,150.922318,-34.315479],
-  "geometry": {"coordinates":[150.922318,-34.315479],"type":"Point"}
+  "bbox": [
+    150.922318,
+    -34.315479,
+    150.922318,
+    -34.315479
+],
+  "geometry": {"coordinates":[150.92231799999999,-34.315479],"type":"Point"}
 }

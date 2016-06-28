@@ -2,13 +2,14 @@
   "id": 220030217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.629913,-35.005947,138.629913,-35.005947",
     "geom:latitude":-35.005947,
     "geom:longitude":138.629913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Laffers Rd",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220030217,
-    "wof:lastmodified":1449074327,
+    "wof:lastmodified":1466187320,
     "wof:name":"Blackwood Hospital",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.629913,-35.005947,138.629913,-35.005947],
-  "geometry": {"coordinates":[138.629913,-35.005947],"type":"Point"}
+  "bbox": [
+    138.629913,
+    -35.005947,
+    138.629913,
+    -35.005947
+],
+  "geometry": {"coordinates":[138.62991299999999,-35.005947],"type":"Point"}
 }

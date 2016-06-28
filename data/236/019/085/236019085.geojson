@@ -2,13 +2,14 @@
   "id": 236019085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.702286,-37.562016,140.702286,-37.562016",
     "geom:latitude":-37.562016,
     "geom:longitude":140.702286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 John St",
     "sg:city":"Kalangadoo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236019085,
-    "wof:lastmodified":1449003557,
+    "wof:lastmodified":1466187157,
     "wof:name":"Kalangadoo Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [140.702286,-37.562016,140.702286,-37.562016],
-  "geometry": {"coordinates":[140.702286,-37.562016],"type":"Point"}
+  "bbox": [
+    140.702286,
+    -37.562016,
+    140.702286,
+    -37.562016
+],
+  "geometry": {"coordinates":[140.70228599999999,-37.562016],"type":"Point"}
 }

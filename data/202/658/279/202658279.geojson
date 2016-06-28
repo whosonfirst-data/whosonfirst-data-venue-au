@@ -2,13 +2,14 @@
   "id": 202658279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.030457,-27.426699,153.030457,-27.426699",
     "geom:latitude":-27.426699,
     "geom:longitude":153.030457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Maygar St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202658279,
-    "wof:lastmodified":1449060055,
+    "wof:lastmodified":1466188041,
     "wof:name":"Aira Pty Ltd",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [153.030457,-27.426699,153.030457,-27.426699],
-  "geometry": {"coordinates":[153.030457,-27.426699],"type":"Point"}
+  "bbox": [
+    153.030457,
+    -27.426699,
+    153.030457,
+    -27.426699
+],
+  "geometry": {"coordinates":[153.03045700000001,-27.426699],"type":"Point"}
 }

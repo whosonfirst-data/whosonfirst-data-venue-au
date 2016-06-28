@@ -2,13 +2,14 @@
   "id": 203389449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849258,-37.561279,143.849258,-37.561279",
     "geom:latitude":-37.561279,
     "geom:longitude":143.849258,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203389449,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466189366,
     "wof:name":"Sturt Optical",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prescription"
     ]
 },
-  "bbox": [143.849258,-37.561279,143.849258,-37.561279],
-  "geometry": {"coordinates":[143.849258,-37.561279],"type":"Point"}
+  "bbox": [
+    143.849258,
+    -37.561279,
+    143.849258,
+    -37.561279
+],
+  "geometry": {"coordinates":[143.84925799999999,-37.561279],"type":"Point"}
 }

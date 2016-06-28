@@ -2,13 +2,14 @@
   "id": 203062123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.502457,-41.938248,147.502457,-41.938248",
     "geom:latitude":-41.938248,
     "geom:longitude":147.502457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Montague St",
     "sg:city":"Campbell Town",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203062123,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1466188438,
     "wof:name":"Midlands Heritage Block & Pavers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [147.502457,-41.938248,147.502457,-41.938248],
-  "geometry": {"coordinates":[147.502457,-41.938248],"type":"Point"}
+  "bbox": [
+    147.502457,
+    -41.938248,
+    147.502457,
+    -41.938248
+],
+  "geometry": {"coordinates":[147.50245699999999,-41.938248],"type":"Point"}
 }

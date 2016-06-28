@@ -2,13 +2,14 @@
   "id": 186388201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.834122,-19.344683,146.834122,-19.344683",
     "geom:latitude":-19.344683,
     "geom:longitude":146.834122,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Stuart Drv",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186388201,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466189133,
     "wof:name":"Stuart Snack Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [146.834122,-19.344683,146.834122,-19.344683],
-  "geometry": {"coordinates":[146.834122,-19.344683],"type":"Point"}
+  "bbox": [
+    146.834122,
+    -19.344683,
+    146.834122,
+    -19.344683
+],
+  "geometry": {"coordinates":[146.83412200000001,-19.344683],"type":"Point"}
 }

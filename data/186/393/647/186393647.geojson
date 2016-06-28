@@ -2,13 +2,14 @@
   "id": 186393647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809937,-19.266556,146.809937,-19.266556",
     "geom:latitude":-19.266556,
     "geom:longitude":146.809937,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lv 2, 280 Flinders St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186393647,
-    "wof:lastmodified":1449051226,
+    "wof:lastmodified":1466189218,
     "wof:name":"I A Projects Pty Ltd",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.809937,-19.266556,146.809937,-19.266556],
-  "geometry": {"coordinates":[146.809937,-19.266556],"type":"Point"}
+  "bbox": [
+    146.809937,
+    -19.266556,
+    146.809937,
+    -19.266556
+],
+  "geometry": {"coordinates":[146.80993699999999,-19.266556],"type":"Point"}
 }

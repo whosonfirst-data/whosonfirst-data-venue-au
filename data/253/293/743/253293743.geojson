@@ -2,13 +2,14 @@
   "id": 253293743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.698738,-31.316263,115.698738,-31.316263",
     "geom:latitude":-31.316263,
     "geom:longitude":115.698738,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Junction Bridge Farm RMB 2620 Gingin Brook Rd",
     "sg:city":"Gingin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253293743,
-    "wof:lastmodified":1449063395,
+    "wof:lastmodified":1466190735,
     "wof:name":"Junction Bridge Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [115.698738,-31.316263,115.698738,-31.316263],
-  "geometry": {"coordinates":[115.698738,-31.316263],"type":"Point"}
+  "bbox": [
+    115.698738,
+    -31.316263,
+    115.698738,
+    -31.316263
+],
+  "geometry": {"coordinates":[115.69873800000001,-31.316263],"type":"Point"}
 }

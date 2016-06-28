@@ -2,13 +2,14 @@
   "id": 203173615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.970398,-36.552292,145.970398,-36.552292",
     "geom:latitude":-36.552292,
     "geom:longitude":145.970398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"O'Deas Rd",
     "sg:city":"Molyullah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203173615,
-    "wof:lastmodified":1449025298,
+    "wof:lastmodified":1466189852,
     "wof:name":"North East Farm Planning Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advisory"
     ]
 },
-  "bbox": [145.970398,-36.552292,145.970398,-36.552292],
-  "geometry": {"coordinates":[145.970398,-36.552292],"type":"Point"}
+  "bbox": [
+    145.970398,
+    -36.552292,
+    145.970398,
+    -36.552292
+],
+  "geometry": {"coordinates":[145.97039799999999,-36.552292],"type":"Point"}
 }

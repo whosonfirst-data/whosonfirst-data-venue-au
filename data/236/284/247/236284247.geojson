@@ -2,13 +2,14 @@
   "id": 236284247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752052,-32.324139,115.752052,-32.324139",
     "geom:latitude":-32.324139,
     "geom:longitude":115.752052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Etchel Mews",
     "sg:city":"Waikiki",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236284247,
-    "wof:lastmodified":1449003749,
+    "wof:lastmodified":1466190256,
     "wof:name":"Stirling Go Boat Club",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [115.752052,-32.324139,115.752052,-32.324139],
-  "geometry": {"coordinates":[115.752052,-32.324139],"type":"Point"}
+  "bbox": [
+    115.752052,
+    -32.324139,
+    115.752052,
+    -32.324139
+],
+  "geometry": {"coordinates":[115.75205200000001,-32.324139],"type":"Point"}
 }

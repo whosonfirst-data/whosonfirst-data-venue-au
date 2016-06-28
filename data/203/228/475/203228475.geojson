@@ -2,13 +2,14 @@
   "id": 203228475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.833496,-41.040668,145.833496,-41.040668",
     "geom:latitude":-41.040668,
     "geom:longitude":145.833496,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Falmouth St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203228475,
-    "wof:lastmodified":1449025504,
+    "wof:lastmodified":1466187402,
     "wof:name":"Town & Country Veterinary Service",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.833496,-41.040668,145.833496,-41.040668],
+  "bbox": [
+    145.833496,
+    -41.040668,
+    145.833496,
+    -41.040668
+],
   "geometry": {"coordinates":[145.833496,-41.040668],"type":"Point"}
 }

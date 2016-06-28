@@ -2,13 +2,14 @@
   "id": 236521001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.167862,-32.565044,151.167862,-32.565044",
     "geom:latitude":-32.565044,
     "geom:longitude":151.167862,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pitt St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236521001,
-    "wof:lastmodified":1449005054,
+    "wof:lastmodified":1466191530,
     "wof:name":"Gray's Air Conditioning",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [151.167862,-32.565044,151.167862,-32.565044],
-  "geometry": {"coordinates":[151.167862,-32.565044],"type":"Point"}
+  "bbox": [
+    151.167862,
+    -32.565044,
+    151.167862,
+    -32.565044
+],
+  "geometry": {"coordinates":[151.16786200000001,-32.565044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220173505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354416,-38.149937,144.354416,-38.149937",
     "geom:latitude":-38.149937,
     "geom:longitude":144.354416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Myers St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220173505,
-    "wof:lastmodified":1449074196,
+    "wof:lastmodified":1466189063,
     "wof:name":"Ernest H. King",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [144.354416,-38.149937,144.354416,-38.149937],
-  "geometry": {"coordinates":[144.354416,-38.149937],"type":"Point"}
+  "bbox": [
+    144.354416,
+    -38.149937,
+    144.354416,
+    -38.149937
+],
+  "geometry": {"coordinates":[144.35441599999999,-38.149937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219448069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.065369,-21.160217,149.065369,-21.160217",
     "geom:latitude":-21.160217,
     "geom:longitude":149.065369,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 5 Dutton St",
     "sg:city":"Walkerston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219448069,
-    "wof:lastmodified":1449073742,
+    "wof:lastmodified":1466188922,
     "wof:name":"Walkerston Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [149.065369,-21.160217,149.065369,-21.160217],
+  "bbox": [
+    149.065369,
+    -21.160217,
+    149.065369,
+    -21.160217
+],
   "geometry": {"coordinates":[149.065369,-21.160217],"type":"Point"}
 }

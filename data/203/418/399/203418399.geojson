@@ -2,13 +2,14 @@
   "id": 203418399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.349945,-34.449841,138.349945,-34.449841",
     "geom:latitude":-34.449841,
     "geom:longitude":138.349945,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Port Wakefield Rd",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203418399,
-    "wof:lastmodified":1449026423,
+    "wof:lastmodified":1466189662,
     "wof:name":"Nasser Feedlot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export"
     ]
 },
-  "bbox": [138.349945,-34.449841,138.349945,-34.449841],
-  "geometry": {"coordinates":[138.349945,-34.449841],"type":"Point"}
+  "bbox": [
+    138.349945,
+    -34.449841,
+    138.349945,
+    -34.449841
+],
+  "geometry": {"coordinates":[138.34994499999999,-34.449841],"type":"Point"}
 }

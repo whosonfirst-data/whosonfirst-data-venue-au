@@ -2,13 +2,14 @@
   "id": 186439119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178131,-33.896446,151.178131,-33.896446",
     "geom:latitude":-33.896446,
     "geom:longitude":151.178131,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Australia St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186439119,
-    "wof:lastmodified":1449051128,
+    "wof:lastmodified":1466190062,
     "wof:name":"Resist",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.178131,-33.896446,151.178131,-33.896446],
-  "geometry": {"coordinates":[151.178131,-33.896446],"type":"Point"}
+  "bbox": [
+    151.178131,
+    -33.896446,
+    151.178131,
+    -33.896446
+],
+  "geometry": {"coordinates":[151.17813100000001,-33.896446],"type":"Point"}
 }

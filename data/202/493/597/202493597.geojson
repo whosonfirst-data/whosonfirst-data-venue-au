@@ -2,13 +2,14 @@
   "id": 202493597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.044174,-37.905132,145.044174,-37.905132",
     "geom:latitude":-37.905132,
     "geom:longitude":145.044174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Jasper Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202493597,
-    "wof:lastmodified":1449060916,
+    "wof:lastmodified":1466189444,
     "wof:name":"Entanglements",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [145.044174,-37.905132,145.044174,-37.905132],
+  "bbox": [
+    145.044174,
+    -37.905132,
+    145.044174,
+    -37.905132
+],
   "geometry": {"coordinates":[145.044174,-37.905132],"type":"Point"}
 }

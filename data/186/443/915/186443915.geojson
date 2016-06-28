@@ -2,13 +2,14 @@
   "id": 186443915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171768,-33.898983,151.171768,-33.898983",
     "geom:latitude":-33.898983,
     "geom:longitude":151.171768,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Enmore Rd",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186443915,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466189982,
     "wof:name":"Ward Maxwell J Pty Ltd",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.171768,-33.898983,151.171768,-33.898983],
-  "geometry": {"coordinates":[151.171768,-33.898983],"type":"Point"}
+  "bbox": [
+    151.171768,
+    -33.898983,
+    151.171768,
+    -33.898983
+],
+  "geometry": {"coordinates":[151.17176799999999,-33.898983],"type":"Point"}
 }

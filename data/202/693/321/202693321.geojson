@@ -2,13 +2,14 @@
   "id": 202693321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.016556,-27.359142,153.016556,-27.359142",
     "geom:latitude":-27.359142,
     "geom:longitude":153.016556,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Gympie Rd",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202693321,
-    "wof:lastmodified":1449060251,
+    "wof:lastmodified":1466188696,
     "wof:name":"Aspley Veterinary Clinic",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [153.016556,-27.359142,153.016556,-27.359142],
-  "geometry": {"coordinates":[153.016556,-27.359142],"type":"Point"}
+  "bbox": [
+    153.016556,
+    -27.359142,
+    153.016556,
+    -27.359142
+],
+  "geometry": {"coordinates":[153.01655600000001,-27.359142],"type":"Point"}
 }

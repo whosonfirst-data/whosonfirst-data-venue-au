@@ -2,13 +2,14 @@
   "id": 219728551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.782303,-19.274496,146.782303,-19.274496",
     "geom:latitude":-19.274496,
     "geom:longitude":146.782303,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hugh St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219728551,
-    "wof:lastmodified":1449071215,
+    "wof:lastmodified":1466191291,
     "wof:name":"The Rugby Club",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rugby"
     ]
 },
-  "bbox": [146.782303,-19.274496,146.782303,-19.274496],
-  "geometry": {"coordinates":[146.782303,-19.274496],"type":"Point"}
+  "bbox": [
+    146.782303,
+    -19.274496,
+    146.782303,
+    -19.274496
+],
+  "geometry": {"coordinates":[146.78230300000001,-19.274496],"type":"Point"}
 }

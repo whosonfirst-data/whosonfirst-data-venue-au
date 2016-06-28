@@ -2,13 +2,14 @@
   "id": 202537977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.157913,-38.112713,145.157913,-38.112713",
     "geom:latitude":-38.112713,
     "geom:longitude":145.157913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Ballarto & Frankston-Dandenong Rds",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202537977,
-    "wof:lastmodified":1449060743,
+    "wof:lastmodified":1466189871,
     "wof:name":"Red Rooster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [145.157913,-38.112713,145.157913,-38.112713],
-  "geometry": {"coordinates":[145.157913,-38.112713],"type":"Point"}
+  "bbox": [
+    145.157913,
+    -38.112713,
+    145.157913,
+    -38.112713
+],
+  "geometry": {"coordinates":[145.15791300000001,-38.112713],"type":"Point"}
 }

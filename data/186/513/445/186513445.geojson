@@ -2,13 +2,14 @@
   "id": 186513445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.802597,-19.288803,146.802597,-19.288803",
     "geom:latitude":-19.288803,
     "geom:longitude":146.802597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 237 Riverside Blv",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186513445,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466190520,
     "wof:name":"Raine & Horne Valuations",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [146.802597,-19.288803,146.802597,-19.288803],
-  "geometry": {"coordinates":[146.802597,-19.288803],"type":"Point"}
+  "bbox": [
+    146.802597,
+    -19.288803,
+    146.802597,
+    -19.288803
+],
+  "geometry": {"coordinates":[146.80259699999999,-19.288803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236637265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.994537,-33.938892,150.994537,-33.938892",
     "geom:latitude":-33.938892,
     "geom:longitude":150.994537,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Horsley Rd",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236637265,
-    "wof:lastmodified":1449001676,
+    "wof:lastmodified":1466191721,
     "wof:name":"Dewood Interiors",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitting"
     ]
 },
-  "bbox": [150.994537,-33.938892,150.994537,-33.938892],
-  "geometry": {"coordinates":[150.994537,-33.938892],"type":"Point"}
+  "bbox": [
+    150.994537,
+    -33.938892,
+    150.994537,
+    -33.938892
+],
+  "geometry": {"coordinates":[150.99453700000001,-33.938892],"type":"Point"}
 }

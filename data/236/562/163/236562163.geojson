@@ -2,13 +2,14 @@
   "id": 236562163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.999161,-33.938633,150.999161,-33.938633",
     "geom:latitude":-33.938633,
     "geom:longitude":150.999161,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Green St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236562163,
-    "wof:lastmodified":1449003396,
+    "wof:lastmodified":1466191512,
     "wof:name":"Complete Tape Solutions",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tape"
     ]
 },
-  "bbox": [150.999161,-33.938633,150.999161,-33.938633],
-  "geometry": {"coordinates":[150.999161,-33.938633],"type":"Point"}
+  "bbox": [
+    150.999161,
+    -33.938633,
+    150.999161,
+    -33.938633
+],
+  "geometry": {"coordinates":[150.99916099999999,-33.938633],"type":"Point"}
 }

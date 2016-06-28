@@ -2,13 +2,14 @@
   "id": 253306451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.389725,-38.055824,145.389725,-38.055824",
     "geom:latitude":-38.055824,
     "geom:longitude":145.389725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Whiteside Rd",
     "sg:city":"Officer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253306451,
-    "wof:lastmodified":1449065664,
+    "wof:lastmodified":1466190660,
     "wof:name":"The City Gardener",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.389725,-38.055824,145.389725,-38.055824],
+  "bbox": [
+    145.389725,
+    -38.055824,
+    145.389725,
+    -38.055824
+],
   "geometry": {"coordinates":[145.389725,-38.055824],"type":"Point"}
 }

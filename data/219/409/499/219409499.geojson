@@ -2,13 +2,14 @@
   "id": 219409499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.846527,-31.945,115.846527,-31.945",
     "geom:latitude":-31.945,
     "geom:longitude":115.846527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 314",
     "sg:city":"West Perth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219409499,
-    "wof:lastmodified":1449071836,
+    "wof:lastmodified":1466188447,
     "wof:name":"Corporate Nerds",
     "wof:parent_id":85775695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [115.846527,-31.945,115.846527,-31.945],
-  "geometry": {"coordinates":[115.846527,-31.945],"type":"Point"}
+  "bbox": [
+    115.846527,
+    -31.945,
+    115.846527,
+    -31.945
+],
+  "geometry": {"coordinates":[115.84652699999999,-31.945],"type":"Point"}
 }

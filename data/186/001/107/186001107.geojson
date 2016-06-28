@@ -2,13 +2,14 @@
   "id": 186001107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.494781,-33.34613,151.494781,-33.34613",
     "geom:latitude":-33.34613,
     "geom:longitude":151.494781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 The Entrance Rd",
     "sg:city":"The Entrance",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186001107,
-    "wof:lastmodified":1449051004,
+    "wof:lastmodified":1466186915,
     "wof:name":"McClean Martin F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.494781,-33.34613,151.494781,-33.34613],
-  "geometry": {"coordinates":[151.494781,-33.34613],"type":"Point"}
+  "bbox": [
+    151.494781,
+    -33.34613,
+    151.494781,
+    -33.34613
+],
+  "geometry": {"coordinates":[151.49478099999999,-33.34613],"type":"Point"}
 }

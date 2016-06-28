@@ -2,13 +2,14 @@
   "id": 202725401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.004395,-27.316769,153.004395,-27.316769",
     "geom:latitude":-27.316769,
     "geom:longitude":153.004395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Southpine Rd",
     "sg:city":"Eatons Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202725401,
-    "wof:lastmodified":1449060734,
+    "wof:lastmodified":1466189313,
     "wof:name":"CDS Pty Ltd",
     "wof:parent_id":85770329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [153.004395,-27.316769,153.004395,-27.316769],
-  "geometry": {"coordinates":[153.004395,-27.316769],"type":"Point"}
+  "bbox": [
+    153.004395,
+    -27.316769,
+    153.004395,
+    -27.316769
+],
+  "geometry": {"coordinates":[153.00439499999999,-27.316769],"type":"Point"}
 }

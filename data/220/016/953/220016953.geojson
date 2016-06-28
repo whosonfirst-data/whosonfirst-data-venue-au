@@ -2,13 +2,14 @@
   "id": 220016953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.616684,-35.01622,138.616684,-35.01622",
     "geom:latitude":-35.01622,
     "geom:longitude":138.616684,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Main Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220016953,
-    "wof:lastmodified":1449074183,
+    "wof:lastmodified":1466187081,
     "wof:name":"Roberts J",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [138.616684,-35.01622,138.616684,-35.01622],
-  "geometry": {"coordinates":[138.616684,-35.01622],"type":"Point"}
+  "bbox": [
+    138.616684,
+    -35.01622,
+    138.616684,
+    -35.01622
+],
+  "geometry": {"coordinates":[138.61668399999999,-35.01622],"type":"Point"}
 }

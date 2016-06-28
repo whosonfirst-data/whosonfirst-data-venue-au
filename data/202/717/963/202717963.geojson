@@ -2,13 +2,14 @@
   "id": 202717963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054779,-27.366333,153.054779,-27.366333",
     "geom:latitude":-27.366333,
     "geom:longitude":153.054779,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Delta St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202717963,
-    "wof:lastmodified":1449060164,
+    "wof:lastmodified":1466189170,
     "wof:name":"Freeform",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitting"
     ]
 },
-  "bbox": [153.054779,-27.366333,153.054779,-27.366333],
+  "bbox": [
+    153.054779,
+    -27.366333,
+    153.054779,
+    -27.366333
+],
   "geometry": {"coordinates":[153.054779,-27.366333],"type":"Point"}
 }

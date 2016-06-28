@@ -2,13 +2,14 @@
   "id": 203366443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854111,-37.56628,143.854111,-37.56628",
     "geom:latitude":-37.56628,
     "geom:longitude":143.854111,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Doveton St, (South)",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203366443,
-    "wof:lastmodified":1449026351,
+    "wof:lastmodified":1466188962,
     "wof:name":"Ballarat Chiropractic Arts",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.854111,-37.56628,143.854111,-37.56628],
-  "geometry": {"coordinates":[143.854111,-37.56628],"type":"Point"}
+  "bbox": [
+    143.854111,
+    -37.56628,
+    143.854111,
+    -37.56628
+],
+  "geometry": {"coordinates":[143.85411099999999,-37.56628],"type":"Point"}
 }

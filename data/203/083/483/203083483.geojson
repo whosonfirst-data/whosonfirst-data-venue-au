@@ -2,13 +2,14 @@
   "id": 203083483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.706497,-13.720965,130.706497,-13.720965",
     "geom:latitude":-13.720965,
     "geom:longitude":130.706497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wooliana Rd",
     "sg:city":"Daly River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203083483,
-    "wof:lastmodified":1449025818,
+    "wof:lastmodified":1466188817,
     "wof:name":"Daly River Stock Feed Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stock"
     ]
 },
-  "bbox": [130.706497,-13.720965,130.706497,-13.720965],
-  "geometry": {"coordinates":[130.706497,-13.720965],"type":"Point"}
+  "bbox": [
+    130.706497,
+    -13.720965,
+    130.706497,
+    -13.720965
+],
+  "geometry": {"coordinates":[130.70649700000001,-13.720965],"type":"Point"}
 }

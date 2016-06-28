@@ -2,13 +2,14 @@
   "id": 252898159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.057953,-34.031429,151.057953,-34.031429",
     "geom:latitude":-34.031429,
     "geom:longitude":151.057953,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 854",
     "sg:city":"Sutherland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252898159,
-    "wof:lastmodified":1449005379,
+    "wof:lastmodified":1466188977,
     "wof:name":"Johnny Pace",
     "wof:parent_id":85771085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [151.057953,-34.031429,151.057953,-34.031429],
+  "bbox": [
+    151.057953,
+    -34.031429,
+    151.057953,
+    -34.031429
+],
   "geometry": {"coordinates":[151.057953,-34.031429],"type":"Point"}
 }

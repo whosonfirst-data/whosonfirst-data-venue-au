@@ -2,13 +2,14 @@
   "id": 186524197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.891083,-31.928329,115.891083,-31.928329",
     "geom:latitude":-31.928329,
     "geom:longitude":115.891083,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Railway Pde",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186524197,
-    "wof:lastmodified":1449050227,
+    "wof:lastmodified":1466190835,
     "wof:name":"Carlectric Rebuilders",
     "wof:parent_id":85769691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [115.891083,-31.928329,115.891083,-31.928329],
-  "geometry": {"coordinates":[115.891083,-31.928329],"type":"Point"}
+  "bbox": [
+    115.891083,
+    -31.928329,
+    115.891083,
+    -31.928329
+],
+  "geometry": {"coordinates":[115.89108299999999,-31.928329],"type":"Point"}
 }

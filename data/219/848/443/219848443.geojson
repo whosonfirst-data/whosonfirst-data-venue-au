@@ -2,13 +2,14 @@
   "id": 219848443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171387,-33.861267,151.171387,-33.861267",
     "geom:latitude":-33.861267,
     "geom:longitude":151.171387,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219848443,
-    "wof:lastmodified":1449070894,
+    "wof:lastmodified":1466191517,
     "wof:name":"Superior Seating Systems",
     "wof:parent_id":85774381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [151.171387,-33.861267,151.171387,-33.861267],
-  "geometry": {"coordinates":[151.171387,-33.861267],"type":"Point"}
+  "bbox": [
+    151.171387,
+    -33.861267,
+    151.171387,
+    -33.861267
+],
+  "geometry": {"coordinates":[151.17138700000001,-33.861267],"type":"Point"}
 }

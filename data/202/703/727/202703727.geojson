@@ -2,13 +2,14 @@
   "id": 202703727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051147,-27.364342,153.051147,-27.364342",
     "geom:latitude":-27.364342,
     "geom:longitude":153.051147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Granite St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202703727,
-    "wof:lastmodified":1449060884,
+    "wof:lastmodified":1466188899,
     "wof:name":"Ollerenshaw A H & E R",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [153.051147,-27.364342,153.051147,-27.364342],
-  "geometry": {"coordinates":[153.051147,-27.364342],"type":"Point"}
+  "bbox": [
+    153.051147,
+    -27.364342,
+    153.051147,
+    -27.364342
+],
+  "geometry": {"coordinates":[153.05114699999999,-27.364342],"type":"Point"}
 }

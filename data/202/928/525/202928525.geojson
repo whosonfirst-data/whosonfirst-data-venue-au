@@ -2,13 +2,14 @@
   "id": 202928525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088928,-30.316902,153.088928,-30.316902",
     "geom:latitude":-30.316902,
     "geom:longitude":153.088928,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Collison Pl",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202928525,
-    "wof:lastmodified":1449062305,
+    "wof:lastmodified":1466190884,
     "wof:name":"Buttercup Bakeries",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [153.088928,-30.316902,153.088928,-30.316902],
-  "geometry": {"coordinates":[153.088928,-30.316902],"type":"Point"}
+  "bbox": [
+    153.088928,
+    -30.316902,
+    153.088928,
+    -30.316902
+],
+  "geometry": {"coordinates":[153.08892800000001,-30.316902],"type":"Point"}
 }

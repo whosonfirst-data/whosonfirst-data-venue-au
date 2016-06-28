@@ -2,13 +2,14 @@
   "id": 236957681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.457016,-37.91468,145.457016,-37.91468",
     "geom:latitude":-37.91468,
     "geom:longitude":145.457016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Lakeside Drv",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236957681,
-    "wof:lastmodified":1449004654,
+    "wof:lastmodified":1466192168,
     "wof:name":"Emerald Resort Managed By Champions Golf Management Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.457016,-37.91468,145.457016,-37.91468],
-  "geometry": {"coordinates":[145.457016,-37.91468],"type":"Point"}
+  "bbox": [
+    145.457016,
+    -37.91468,
+    145.457016,
+    -37.91468
+],
+  "geometry": {"coordinates":[145.45701600000001,-37.91468],"type":"Point"}
 }

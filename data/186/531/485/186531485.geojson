@@ -2,13 +2,14 @@
   "id": 186531485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.715546,-19.26144,146.715546,-19.26144",
     "geom:latitude":-19.26144,
     "geom:longitude":146.715546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"896 Ingham Rd",
     "sg:city":"Bohle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186531485,
-    "wof:lastmodified":1449051038,
+    "wof:lastmodified":1466190737,
     "wof:name":"Green Side Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nursery"
     ]
 },
-  "bbox": [146.715546,-19.26144,146.715546,-19.26144],
-  "geometry": {"coordinates":[146.715546,-19.26144],"type":"Point"}
+  "bbox": [
+    146.715546,
+    -19.26144,
+    146.715546,
+    -19.26144
+],
+  "geometry": {"coordinates":[146.71554599999999,-19.26144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169845031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.851334,-32.035454,115.851334,-32.035454",
     "geom:latitude":-32.035454,
     "geom:longitude":115.851334,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20a Canning Ave",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":169845031,
-    "wof:lastmodified":1449033231,
+    "wof:lastmodified":1466189373,
     "wof:name":"Pearce Kevin Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.851334,-32.035454,115.851334,-32.035454],
-  "geometry": {"coordinates":[115.851334,-32.035454],"type":"Point"}
+  "bbox": [
+    115.851334,
+    -32.035454,
+    115.851334,
+    -32.035454
+],
+  "geometry": {"coordinates":[115.85133399999999,-32.035454],"type":"Point"}
 }

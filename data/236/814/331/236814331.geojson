@@ -2,13 +2,14 @@
   "id": 236814331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.887238,-34.427197,150.887238,-34.427197",
     "geom:latitude":-34.427197,
     "geom:longitude":150.887238,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Gladstone Ave",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236814331,
-    "wof:lastmodified":1449002130,
+    "wof:lastmodified":1466191970,
     "wof:name":"Reparts",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [150.887238,-34.427197,150.887238,-34.427197],
+  "bbox": [
+    150.887238,
+    -34.427197,
+    150.887238,
+    -34.427197
+],
   "geometry": {"coordinates":[150.887238,-34.427197],"type":"Point"}
 }

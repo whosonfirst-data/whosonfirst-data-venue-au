@@ -2,13 +2,14 @@
   "id": 203368775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.851288,-37.561501,143.851288,-37.561501",
     "geom:latitude":-37.561501,
     "geom:longitude":143.851288,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203368775,
-    "wof:lastmodified":1449025374,
+    "wof:lastmodified":1466189001,
     "wof:name":"Australia Fare Quality Pies",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [143.851288,-37.561501,143.851288,-37.561501],
-  "geometry": {"coordinates":[143.851288,-37.561501],"type":"Point"}
+  "bbox": [
+    143.851288,
+    -37.561501,
+    143.851288,
+    -37.561501
+],
+  "geometry": {"coordinates":[143.85128800000001,-37.561501],"type":"Point"}
 }

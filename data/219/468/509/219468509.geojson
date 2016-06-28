@@ -2,13 +2,14 @@
   "id": 219468509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.139526,-37.596775,145.139526,-37.596775",
     "geom:latitude":-37.596775,
     "geom:longitude":145.139526,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"995 Yan Yean Rd",
     "sg:city":"Doreen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219468509,
-    "wof:lastmodified":1449072930,
+    "wof:lastmodified":1466189110,
     "wof:name":"Northside Land Sales",
     "wof:parent_id":85769763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.139526,-37.596775,145.139526,-37.596775],
-  "geometry": {"coordinates":[145.139526,-37.596775],"type":"Point"}
+  "bbox": [
+    145.139526,
+    -37.596775,
+    145.139526,
+    -37.596775
+],
+  "geometry": {"coordinates":[145.13952599999999,-37.596775],"type":"Point"}
 }

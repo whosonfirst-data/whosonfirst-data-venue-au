@@ -2,13 +2,14 @@
   "id": 202786465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.776993,-32.926941,151.776993,-32.926941",
     "geom:latitude":-32.926941,
     "geom:longitude":151.776993,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202786465,
-    "wof:lastmodified":1449060436,
+    "wof:lastmodified":1466190057,
     "wof:name":"West Terrace Menswear",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [151.776993,-32.926941,151.776993,-32.926941],
+  "bbox": [
+    151.776993,
+    -32.926941,
+    151.776993,
+    -32.926941
+],
   "geometry": {"coordinates":[151.776993,-32.926941],"type":"Point"}
 }

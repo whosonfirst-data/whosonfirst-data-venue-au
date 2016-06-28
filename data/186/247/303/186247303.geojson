@@ -2,13 +2,14 @@
   "id": 186247303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.928375,-31.464088,152.928375,-31.464088",
     "geom:latitude":-31.464088,
     "geom:longitude":152.928375,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Pacific Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186247303,
-    "wof:lastmodified":1449051942,
+    "wof:lastmodified":1466187395,
     "wof:name":"Peck Mark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixer"
     ]
 },
-  "bbox": [152.928375,-31.464088,152.928375,-31.464088],
-  "geometry": {"coordinates":[152.928375,-31.464088],"type":"Point"}
+  "bbox": [
+    152.928375,
+    -31.464088,
+    152.928375,
+    -31.464088
+],
+  "geometry": {"coordinates":[152.92837499999999,-31.464088],"type":"Point"}
 }

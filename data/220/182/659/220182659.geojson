@@ -2,13 +2,14 @@
   "id": 220182659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.338181,-38.161148,144.338181,-38.161148",
     "geom:latitude":-38.161148,
     "geom:longitude":144.338181,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Lambert Ave",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":220182659,
-    "wof:lastmodified":1449074562,
+    "wof:lastmodified":1466189239,
     "wof:name":"Balyang Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "vehicle"
     ]
 },
-  "bbox": [144.338181,-38.161148,144.338181,-38.161148],
-  "geometry": {"coordinates":[144.338181,-38.161148],"type":"Point"}
+  "bbox": [
+    144.338181,
+    -38.161148,
+    144.338181,
+    -38.161148
+],
+  "geometry": {"coordinates":[144.33818099999999,-38.161148],"type":"Point"}
 }

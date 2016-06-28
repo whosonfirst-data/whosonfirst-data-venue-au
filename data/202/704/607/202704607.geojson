@@ -2,13 +2,14 @@
   "id": 202704607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055923,-27.371683,153.055923,-27.371683",
     "geom:latitude":-27.371683,
     "geom:longitude":153.055923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Bilsen & Pritchard Rds",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202704607,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466188917,
     "wof:name":"Tradelink Plumbing Centres",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [153.055923,-27.371683,153.055923,-27.371683],
-  "geometry": {"coordinates":[153.055923,-27.371683],"type":"Point"}
+  "bbox": [
+    153.055923,
+    -27.371683,
+    153.055923,
+    -27.371683
+],
+  "geometry": {"coordinates":[153.05592300000001,-27.371683],"type":"Point"}
 }

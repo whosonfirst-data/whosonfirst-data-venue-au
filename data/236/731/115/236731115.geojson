@@ -2,13 +2,14 @@
   "id": 236731115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.549118,-31.856934,152.549118,-31.856934",
     "geom:latitude":-31.856934,
     "geom:longitude":152.549118,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 McDonell Ave",
     "sg:city":"Cundletown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236731115,
-    "wof:lastmodified":1449004799,
+    "wof:lastmodified":1466191984,
     "wof:name":"Parkinson Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.549118,-31.856934,152.549118,-31.856934],
-  "geometry": {"coordinates":[152.549118,-31.856934],"type":"Point"}
+  "bbox": [
+    152.549118,
+    -31.856934,
+    152.549118,
+    -31.856934
+],
+  "geometry": {"coordinates":[152.54911799999999,-31.856934],"type":"Point"}
 }

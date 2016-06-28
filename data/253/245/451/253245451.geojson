@@ -2,13 +2,14 @@
   "id": 253245451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.891113,-27.520325,151.891113,-27.520325",
     "geom:latitude":-27.520325,
     "geom:longitude":151.891113,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Morris Crt",
     "sg:city":"Cotswold Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253245451,
-    "wof:lastmodified":1449065701,
+    "wof:lastmodified":1466190507,
     "wof:name":"Glenn & Linda Adamson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.891113,-27.520325,151.891113,-27.520325],
-  "geometry": {"coordinates":[151.891113,-27.520325],"type":"Point"}
+  "bbox": [
+    151.891113,
+    -27.520325,
+    151.891113,
+    -27.520325
+],
+  "geometry": {"coordinates":[151.89111299999999,-27.520325],"type":"Point"}
 }

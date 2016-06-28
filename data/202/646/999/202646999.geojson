@@ -2,13 +2,14 @@
   "id": 202646999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.033264,-27.412029,153.033264,-27.412029",
     "geom:latitude":-27.412029,
     "geom:longitude":153.033264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Gympie Rd",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202646999,
-    "wof:lastmodified":1449060044,
+    "wof:lastmodified":1466187826,
     "wof:name":"Argo All Terrain Vehicles",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [153.033264,-27.412029,153.033264,-27.412029],
+  "bbox": [
+    153.033264,
+    -27.412029,
+    153.033264,
+    -27.412029
+],
   "geometry": {"coordinates":[153.033264,-27.412029],"type":"Point"}
 }

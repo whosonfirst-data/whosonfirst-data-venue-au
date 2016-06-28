@@ -2,13 +2,14 @@
   "id": 219648385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.115448,-33.938271,151.115448,-33.938271",
     "geom:latitude":-33.938271,
     "geom:longitude":151.115448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 14 20 Sarsfield Cct",
     "sg:city":"Bexley North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219648385,
-    "wof:lastmodified":1449071367,
+    "wof:lastmodified":1466190992,
     "wof:name":"Lee Gordon",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.115448,-33.938271,151.115448,-33.938271],
-  "geometry": {"coordinates":[151.115448,-33.938271],"type":"Point"}
+  "bbox": [
+    151.115448,
+    -33.938271,
+    151.115448,
+    -33.938271
+],
+  "geometry": {"coordinates":[151.11544799999999,-33.938271],"type":"Point"}
 }

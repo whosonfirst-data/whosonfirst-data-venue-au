@@ -2,13 +2,14 @@
   "id": 236120095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915863,-37.771675,144.915863,-37.771675",
     "geom:latitude":-37.771675,
     "geom:longitude":144.915863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Union & Maribyrnong Rds",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236120095,
-    "wof:lastmodified":1449004675,
+    "wof:lastmodified":1466189044,
     "wof:name":"Union Hotel",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.915863,-37.771675,144.915863,-37.771675],
+  "bbox": [
+    144.915863,
+    -37.771675,
+    144.915863,
+    -37.771675
+],
   "geometry": {"coordinates":[144.915863,-37.771675],"type":"Point"}
 }

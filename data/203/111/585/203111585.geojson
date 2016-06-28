@@ -2,13 +2,14 @@
   "id": 203111585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.795837,-32.520348,115.795837,-32.520348",
     "geom:latitude":-32.520348,
     "geom:longitude":115.795837,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Dunkerton Rd",
     "sg:city":"Barragup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203111585,
-    "wof:lastmodified":1449026905,
+    "wof:lastmodified":1466189218,
     "wof:name":"Longthorn Jack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "planner"
     ]
 },
-  "bbox": [115.795837,-32.520348,115.795837,-32.520348],
-  "geometry": {"coordinates":[115.795837,-32.520348],"type":"Point"}
+  "bbox": [
+    115.795837,
+    -32.520348,
+    115.795837,
+    -32.520348
+],
+  "geometry": {"coordinates":[115.79583700000001,-32.520348],"type":"Point"}
 }

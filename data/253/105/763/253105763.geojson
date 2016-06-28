@@ -2,13 +2,14 @@
   "id": 253105763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.823181,-37.767197,144.823181,-37.767197",
     "geom:latitude":-37.767197,
     "geom:longitude":144.823181,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Boisdale Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253105763,
-    "wof:lastmodified":1449063966,
+    "wof:lastmodified":1466188852,
     "wof:name":"Microwise Solutions",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [144.823181,-37.767197,144.823181,-37.767197],
-  "geometry": {"coordinates":[144.823181,-37.767197],"type":"Point"}
+  "bbox": [
+    144.823181,
+    -37.767197,
+    144.823181,
+    -37.767197
+],
+  "geometry": {"coordinates":[144.82318100000001,-37.767197],"type":"Point"}
 }

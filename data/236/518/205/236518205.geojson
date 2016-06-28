@@ -2,13 +2,14 @@
   "id": 236518205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165955,-32.571224,151.165955,-32.571224",
     "geom:latitude":-32.571224,
     "geom:longitude":151.165955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 8 Mathry Cl",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236518205,
-    "wof:lastmodified":1449003531,
+    "wof:lastmodified":1466191421,
     "wof:name":"Hunter Geotechnics",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigation"
     ]
 },
-  "bbox": [151.165955,-32.571224,151.165955,-32.571224],
+  "bbox": [
+    151.165955,
+    -32.571224,
+    151.165955,
+    -32.571224
+],
   "geometry": {"coordinates":[151.165955,-32.571224],"type":"Point"}
 }

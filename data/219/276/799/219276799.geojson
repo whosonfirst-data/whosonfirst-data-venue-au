@@ -2,13 +2,14 @@
   "id": 219276799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.259476,-38.169231,146.259476,-38.169231",
     "geom:latitude":-38.169231,
     "geom:longitude":146.259476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 / 5 Tabuteau Rd",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219276799,
-    "wof:lastmodified":1449070503,
+    "wof:lastmodified":1466187339,
     "wof:name":"Concrete Repair Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seepage"
     ]
 },
-  "bbox": [146.259476,-38.169231,146.259476,-38.169231],
-  "geometry": {"coordinates":[146.259476,-38.169231],"type":"Point"}
+  "bbox": [
+    146.259476,
+    -38.169231,
+    146.259476,
+    -38.169231
+],
+  "geometry": {"coordinates":[146.25947600000001,-38.169231],"type":"Point"}
 }

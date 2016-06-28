@@ -2,13 +2,14 @@
   "id": 202485003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.042816,-37.918819,145.042816,-37.918819",
     "geom:latitude":-37.918819,
     "geom:longitude":145.042816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"493 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202485003,
-    "wof:lastmodified":1449061667,
+    "wof:lastmodified":1466190001,
     "wof:name":"Pressure Point Reflexology",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reflexology"
     ]
 },
-  "bbox": [145.042816,-37.918819,145.042816,-37.918819],
-  "geometry": {"coordinates":[145.042816,-37.918819],"type":"Point"}
+  "bbox": [
+    145.042816,
+    -37.918819,
+    145.042816,
+    -37.918819
+],
+  "geometry": {"coordinates":[145.04281599999999,-37.918819],"type":"Point"}
 }

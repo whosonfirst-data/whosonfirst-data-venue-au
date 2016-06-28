@@ -2,13 +2,14 @@
   "id": 236034047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.780212,-37.703007,144.780212,-37.703007",
     "geom:latitude":-37.703007,
     "geom:longitude":144.780212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Emma Crt",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236034047,
-    "wof:lastmodified":1449001953,
+    "wof:lastmodified":1466187300,
     "wof:name":"A P Plastering",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [144.780212,-37.703007,144.780212,-37.703007],
-  "geometry": {"coordinates":[144.780212,-37.703007],"type":"Point"}
+  "bbox": [
+    144.780212,
+    -37.703007,
+    144.780212,
+    -37.703007
+],
+  "geometry": {"coordinates":[144.78021200000001,-37.703007],"type":"Point"}
 }

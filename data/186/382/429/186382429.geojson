@@ -2,13 +2,14 @@
   "id": 186382429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157776,-33.84877,151.157776,-33.84877",
     "geom:latitude":-33.84877,
     "geom:longitude":151.157776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U5/ 4 Lyons Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186382429,
-    "wof:lastmodified":1449051101,
+    "wof:lastmodified":1466189046,
     "wof:name":"Construction & Management Services",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [151.157776,-33.84877,151.157776,-33.84877],
-  "geometry": {"coordinates":[151.157776,-33.84877],"type":"Point"}
+  "bbox": [
+    151.157776,
+    -33.84877,
+    151.157776,
+    -33.84877
+],
+  "geometry": {"coordinates":[151.15777600000001,-33.84877],"type":"Point"}
 }

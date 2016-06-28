@@ -2,13 +2,14 @@
   "id": 219727885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.788788,-19.283413,146.788788,-19.283413",
     "geom:latitude":-19.283413,
     "geom:longitude":146.788788,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Park St",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219727885,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466191212,
     "wof:name":"Ben Berry",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roof"
     ]
 },
-  "bbox": [146.788788,-19.283413,146.788788,-19.283413],
-  "geometry": {"coordinates":[146.788788,-19.283413],"type":"Point"}
+  "bbox": [
+    146.788788,
+    -19.283413,
+    146.788788,
+    -19.283413
+],
+  "geometry": {"coordinates":[146.78878800000001,-19.283413],"type":"Point"}
 }

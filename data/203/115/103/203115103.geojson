@@ -2,13 +2,14 @@
   "id": 203115103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.702766,-32.520321,115.702766,-32.520321",
     "geom:latitude":-32.520321,
     "geom:longitude":115.702766,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Halls Head Pde",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203115103,
-    "wof:lastmodified":1449024929,
+    "wof:lastmodified":1466189287,
     "wof:name":"Port Bouvard Homes",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.702766,-32.520321,115.702766,-32.520321],
+  "bbox": [
+    115.702766,
+    -32.520321,
+    115.702766,
+    -32.520321
+],
   "geometry": {"coordinates":[115.702766,-32.520321],"type":"Point"}
 }

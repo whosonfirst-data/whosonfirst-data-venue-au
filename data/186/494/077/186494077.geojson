@@ -2,13 +2,14 @@
   "id": 186494077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.780655,-19.26585,146.780655,-19.26585",
     "geom:latitude":-19.26585,
     "geom:longitude":146.780655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Ingham Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186494077,
-    "wof:lastmodified":1449052724,
+    "wof:lastmodified":1466190487,
     "wof:name":"Australian Temporary Fencing North Queensland",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.780655,-19.26585,146.780655,-19.26585],
+  "bbox": [
+    146.780655,
+    -19.26585,
+    146.780655,
+    -19.26585
+],
   "geometry": {"coordinates":[146.780655,-19.26585],"type":"Point"}
 }

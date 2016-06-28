@@ -2,13 +2,14 @@
   "id": 236655227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.123032,-33.977974,151.123032,-33.977974",
     "geom:latitude":-33.977974,
     "geom:longitude":151.123032,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Princes Hwy",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236655227,
-    "wof:lastmodified":1449003564,
+    "wof:lastmodified":1466191645,
     "wof:name":"Kogarah Bay Post Office",
     "wof:parent_id":85768883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [151.123032,-33.977974,151.123032,-33.977974],
-  "geometry": {"coordinates":[151.123032,-33.977974],"type":"Point"}
+  "bbox": [
+    151.123032,
+    -33.977974,
+    151.123032,
+    -33.977974
+],
+  "geometry": {"coordinates":[151.12303199999999,-33.977974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219460237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.027954,-37.355778,145.027954,-37.355778",
     "geom:latitude":-37.355778,
     "geom:longitude":145.027954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6 Wandong Plz",
     "sg:city":"Wandong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219460237,
-    "wof:lastmodified":1449073711,
+    "wof:lastmodified":1466189018,
     "wof:name":"Wandong Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.027954,-37.355778,145.027954,-37.355778],
-  "geometry": {"coordinates":[145.027954,-37.355778],"type":"Point"}
+  "bbox": [
+    145.027954,
+    -37.355778,
+    145.027954,
+    -37.355778
+],
+  "geometry": {"coordinates":[145.02795399999999,-37.355778],"type":"Point"}
 }

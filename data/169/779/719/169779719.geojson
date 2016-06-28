@@ -2,13 +2,14 @@
   "id": 169779719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.591003,-38.605892,145.591003,-38.605892",
     "geom:latitude":-38.605892,
     "geom:longitude":145.591003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28- 30 McBride Ave",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169779719,
-    "wof:lastmodified":1449033196,
+    "wof:lastmodified":1466188351,
     "wof:name":"Whistle Stop Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pastry"
     ]
 },
-  "bbox": [145.591003,-38.605892,145.591003,-38.605892],
+  "bbox": [
+    145.591003,
+    -38.605892,
+    145.591003,
+    -38.605892
+],
   "geometry": {"coordinates":[145.591003,-38.605892],"type":"Point"}
 }

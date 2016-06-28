@@ -2,13 +2,14 @@
   "id": 236075189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.745132,-37.704578,144.745132,-37.704578",
     "geom:latitude":-37.704578,
     "geom:longitude":144.745132,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 47 Jade Way",
     "sg:city":"Hillside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236075189,
-    "wof:lastmodified":1449003445,
+    "wof:lastmodified":1466188128,
     "wof:name":"Select Mortgage Finance",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.745132,-37.704578,144.745132,-37.704578],
-  "geometry": {"coordinates":[144.745132,-37.704578],"type":"Point"}
+  "bbox": [
+    144.745132,
+    -37.704578,
+    144.745132,
+    -37.704578
+],
+  "geometry": {"coordinates":[144.74513200000001,-37.704578],"type":"Point"}
 }

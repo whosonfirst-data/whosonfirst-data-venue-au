@@ -2,13 +2,14 @@
   "id": 219781159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.135559,-33.876118,151.135559,-33.876118",
     "geom:latitude":-33.876118,
     "geom:longitude":151.135559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Ramsay St",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219781159,
-    "wof:lastmodified":1449071056,
+    "wof:lastmodified":1466191318,
     "wof:name":"Louis Cherote",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.135559,-33.876118,151.135559,-33.876118],
+  "bbox": [
+    151.135559,
+    -33.876118,
+    151.135559,
+    -33.876118
+],
   "geometry": {"coordinates":[151.135559,-33.876118],"type":"Point"}
 }

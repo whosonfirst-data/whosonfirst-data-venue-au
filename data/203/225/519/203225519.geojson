@@ -2,13 +2,14 @@
   "id": 203225519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.842804,-41.262741,145.842804,-41.262741",
     "geom:latitude":-41.262741,
     "geom:longitude":145.842804,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Sushames Rd",
     "sg:city":"Lake Kara",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203225519,
-    "wof:lastmodified":1449025501,
+    "wof:lastmodified":1466187370,
     "wof:name":"Classic Shopfitting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fitting"
     ]
 },
-  "bbox": [145.842804,-41.262741,145.842804,-41.262741],
+  "bbox": [
+    145.842804,
+    -41.262741,
+    145.842804,
+    -41.262741
+],
   "geometry": {"coordinates":[145.842804,-41.262741],"type":"Point"}
 }

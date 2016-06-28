@@ -2,13 +2,14 @@
   "id": 202920009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.144821,-30.242891,153.144821,-30.242891",
     "geom:latitude":-30.242891,
     "geom:longitude":153.144821,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Sapphire Crs",
     "sg:city":"Sapphire Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202920009,
-    "wof:lastmodified":1449062085,
+    "wof:lastmodified":1466190676,
     "wof:name":"Atkins John",
     "wof:parent_id":85779745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [153.144821,-30.242891,153.144821,-30.242891],
-  "geometry": {"coordinates":[153.144821,-30.242891],"type":"Point"}
+  "bbox": [
+    153.144821,
+    -30.242891,
+    153.144821,
+    -30.242891
+],
+  "geometry": {"coordinates":[153.14482100000001,-30.242891],"type":"Point"}
 }

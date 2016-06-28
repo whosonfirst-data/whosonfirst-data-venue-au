@@ -2,13 +2,14 @@
   "id": 236947577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.59227,-34.986626,138.59227,-34.986626",
     "geom:latitude":-34.986626,
     "geom:longitude":138.59227,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Goodwood Rd",
     "sg:city":"Daw Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236947577,
-    "wof:lastmodified":1449004152,
+    "wof:lastmodified":1466192157,
     "wof:name":"Pineridge Plains Bookkeeping & Management",
     "wof:parent_id":85775943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [138.59227,-34.986626,138.59227,-34.986626],
-  "geometry": {"coordinates":[138.59227,-34.986626],"type":"Point"}
+  "bbox": [
+    138.59227,
+    -34.986626,
+    138.59227,
+    -34.986626
+],
+  "geometry": {"coordinates":[138.59227000000001,-34.986626],"type":"Point"}
 }

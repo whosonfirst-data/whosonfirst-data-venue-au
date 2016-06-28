@@ -2,13 +2,14 @@
   "id": 202903825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.194427,-30.12328,153.194427,-30.12328",
     "geom:latitude":-30.12328,
     "geom:longitude":153.194427,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Featherstone Drv",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202903825,
-    "wof:lastmodified":1449060257,
+    "wof:lastmodified":1466190673,
     "wof:name":"Featherstones Agricultural Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [153.194427,-30.12328,153.194427,-30.12328],
-  "geometry": {"coordinates":[153.194427,-30.12328],"type":"Point"}
+  "bbox": [
+    153.194427,
+    -30.12328,
+    153.194427,
+    -30.12328
+],
+  "geometry": {"coordinates":[153.19442699999999,-30.12328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186505459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.761307,-19.298782,146.761307,-19.298782",
     "geom:latitude":-19.298782,
     "geom:longitude":146.761307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1A Kmart Plaza, Cnr Nathan St & Ross River Rd",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186505459,
-    "wof:lastmodified":1449052569,
+    "wof:lastmodified":1466190436,
     "wof:name":"MPBS Insurance Pty Ltd",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.761307,-19.298782,146.761307,-19.298782],
-  "geometry": {"coordinates":[146.761307,-19.298782],"type":"Point"}
+  "bbox": [
+    146.761307,
+    -19.298782,
+    146.761307,
+    -19.298782
+],
+  "geometry": {"coordinates":[146.76130699999999,-19.298782],"type":"Point"}
 }

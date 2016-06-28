@@ -2,13 +2,14 @@
   "id": 236315779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747887,-32.060307,115.747887,-32.060307",
     "geom:latitude":-32.060307,
     "geom:longitude":115.747887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 28 Mews Rd",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236315779,
-    "wof:lastmodified":1449005039,
+    "wof:lastmodified":1466190583,
     "wof:name":"Maritime Electronic Services",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [115.747887,-32.060307,115.747887,-32.060307],
-  "geometry": {"coordinates":[115.747887,-32.060307],"type":"Point"}
+  "bbox": [
+    115.747887,
+    -32.060307,
+    115.747887,
+    -32.060307
+],
+  "geometry": {"coordinates":[115.74788700000001,-32.060307],"type":"Point"}
 }

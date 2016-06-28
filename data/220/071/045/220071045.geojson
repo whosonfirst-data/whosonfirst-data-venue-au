@@ -2,13 +2,14 @@
   "id": 220071045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.320847,-38.337551,144.320847,-38.337551",
     "geom:latitude":-38.337551,
     "geom:longitude":144.320847,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp2/ 24 Bell St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220071045,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466187684,
     "wof:name":"Ripe Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [144.320847,-38.337551,144.320847,-38.337551],
-  "geometry": {"coordinates":[144.320847,-38.337551],"type":"Point"}
+  "bbox": [
+    144.320847,
+    -38.337551,
+    144.320847,
+    -38.337551
+],
+  "geometry": {"coordinates":[144.32084699999999,-38.337551],"type":"Point"}
 }

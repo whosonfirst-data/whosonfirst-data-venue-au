@@ -2,13 +2,14 @@
   "id": 202849005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.686096,-36.358803,146.686096,-36.358803",
     "geom:latitude":-36.358803,
     "geom:longitude":146.686096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Camp St",
     "sg:city":"Beechworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202849005,
-    "wof:lastmodified":1449060578,
+    "wof:lastmodified":1466190354,
     "wof:name":"Beechworth Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.686096,-36.358803,146.686096,-36.358803],
-  "geometry": {"coordinates":[146.686096,-36.358803],"type":"Point"}
+  "bbox": [
+    146.686096,
+    -36.358803,
+    146.686096,
+    -36.358803
+],
+  "geometry": {"coordinates":[146.68609599999999,-36.358803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202945361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.096725,-30.313881,153.096725,-30.313881",
     "geom:latitude":-30.313881,
     "geom:longitude":153.096725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 1 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202945361,
-    "wof:lastmodified":1449060332,
+    "wof:lastmodified":1466190861,
     "wof:name":"Sutherland's Upholstery",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [153.096725,-30.313881,153.096725,-30.313881],
-  "geometry": {"coordinates":[153.096725,-30.313881],"type":"Point"}
+  "bbox": [
+    153.096725,
+    -30.313881,
+    153.096725,
+    -30.313881
+],
+  "geometry": {"coordinates":[153.09672499999999,-30.313881],"type":"Point"}
 }

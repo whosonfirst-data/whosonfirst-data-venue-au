@@ -2,13 +2,14 @@
   "id": 252929567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.081512,-26.547886,153.081512,-26.547886",
     "geom:latitude":-26.547886,
     "geom:longitude":153.081512,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Audrey Crt",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252929567,
-    "wof:lastmodified":1449005825,
+    "wof:lastmodified":1466189242,
     "wof:name":"McLardy Constructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.081512,-26.547886,153.081512,-26.547886],
+  "bbox": [
+    153.081512,
+    -26.547886,
+    153.081512,
+    -26.547886
+],
   "geometry": {"coordinates":[153.081512,-26.547886],"type":"Point"}
 }

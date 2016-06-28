@@ -2,13 +2,14 @@
   "id": 203319741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840775,-37.598633,143.840775,-37.598633",
     "geom:latitude":-37.598633,
     "geom:longitude":143.840775,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Victoria St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203319741,
-    "wof:lastmodified":1449025688,
+    "wof:lastmodified":1466188261,
     "wof:name":"Whitey's Petfood Supplies",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [143.840775,-37.598633,143.840775,-37.598633],
-  "geometry": {"coordinates":[143.840775,-37.598633],"type":"Point"}
+  "bbox": [
+    143.840775,
+    -37.598633,
+    143.840775,
+    -37.598633
+],
+  "geometry": {"coordinates":[143.84077500000001,-37.598633],"type":"Point"}
 }

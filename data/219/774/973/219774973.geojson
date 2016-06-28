@@ -2,13 +2,14 @@
   "id": 219774973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179443,-33.910255,151.179443,-33.910255",
     "geom:latitude":-33.910255,
     "geom:longitude":151.179443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 - 37 Applebee St",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219774973,
-    "wof:lastmodified":1449071759,
+    "wof:lastmodified":1466191319,
     "wof:name":"PG Glass & Aluminium Pty Ltd",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [151.179443,-33.910255,151.179443,-33.910255],
-  "geometry": {"coordinates":[151.179443,-33.910255],"type":"Point"}
+  "bbox": [
+    151.179443,
+    -33.910255,
+    151.179443,
+    -33.910255
+],
+  "geometry": {"coordinates":[151.17944299999999,-33.910255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219856721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179077,-33.854885,151.179077,-33.854885",
     "geom:latitude":-33.854885,
     "geom:longitude":151.179077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Curtis Rd",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219856721,
-    "wof:lastmodified":1449071410,
+    "wof:lastmodified":1466191541,
     "wof:name":"Natural Alchemist The",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [151.179077,-33.854885,151.179077,-33.854885],
-  "geometry": {"coordinates":[151.179077,-33.854885],"type":"Point"}
+  "bbox": [
+    151.179077,
+    -33.854885,
+    151.179077,
+    -33.854885
+],
+  "geometry": {"coordinates":[151.17907700000001,-33.854885],"type":"Point"}
 }

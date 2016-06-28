@@ -2,13 +2,14 @@
   "id": 220073623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.318954,-38.337433,144.318954,-38.337433",
     "geom:latitude":-38.337433,
     "geom:longitude":144.318954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Bell St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220073623,
-    "wof:lastmodified":1449074140,
+    "wof:lastmodified":1466187703,
     "wof:name":"Torquay Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.318954,-38.337433,144.318954,-38.337433],
-  "geometry": {"coordinates":[144.318954,-38.337433],"type":"Point"}
+  "bbox": [
+    144.318954,
+    -38.337433,
+    144.318954,
+    -38.337433
+],
+  "geometry": {"coordinates":[144.31895399999999,-38.337433],"type":"Point"}
 }

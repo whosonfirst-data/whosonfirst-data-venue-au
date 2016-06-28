@@ -2,13 +2,14 @@
   "id": 236850731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892075,-34.433731,150.892075,-34.433731",
     "geom:latitude":-34.433731,
     "geom:longitude":150.892075,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Keira St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236850731,
-    "wof:lastmodified":1449003583,
+    "wof:lastmodified":1466192045,
     "wof:name":"Hair Frenzy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [150.892075,-34.433731,150.892075,-34.433731],
-  "geometry": {"coordinates":[150.892075,-34.433731],"type":"Point"}
+  "bbox": [
+    150.892075,
+    -34.433731,
+    150.892075,
+    -34.433731
+],
+  "geometry": {"coordinates":[150.89207500000001,-34.433731],"type":"Point"}
 }

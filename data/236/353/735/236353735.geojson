@@ -2,13 +2,14 @@
   "id": 236353735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.819443,-32.067749,115.819443,-32.067749",
     "geom:latitude":-32.067749,
     "geom:longitude":115.819443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 2373",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236353735,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466191003,
     "wof:name":"Law Enforcement Training Solutions",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [115.819443,-32.067749,115.819443,-32.067749],
-  "geometry": {"coordinates":[115.819443,-32.067749],"type":"Point"}
+  "bbox": [
+    115.819443,
+    -32.067749,
+    115.819443,
+    -32.067749
+],
+  "geometry": {"coordinates":[115.81944300000001,-32.067749],"type":"Point"}
 }

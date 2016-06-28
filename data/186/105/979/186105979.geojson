@@ -2,13 +2,14 @@
   "id": 186105979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.84288,-31.076454,152.84288,-31.076454",
     "geom:latitude":-31.076454,
     "geom:longitude":152.84288,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Smith St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186105979,
-    "wof:lastmodified":1449051402,
+    "wof:lastmodified":1466189395,
     "wof:name":"MacLeay Pumps & Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [152.84288,-31.076454,152.84288,-31.076454],
-  "geometry": {"coordinates":[152.84288,-31.076454],"type":"Point"}
+  "bbox": [
+    152.84288,
+    -31.076454,
+    152.84288,
+    -31.076454
+],
+  "geometry": {"coordinates":[152.84288000000001,-31.076454],"type":"Point"}
 }

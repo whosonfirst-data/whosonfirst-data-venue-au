@@ -2,13 +2,14 @@
   "id": 236275133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.722946,-34.784508,138.722946,-34.784508",
     "geom:latitude":-34.784508,
     "geom:longitude":138.722946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Greenwith Rd",
     "sg:city":"Golden Grove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236275133,
-    "wof:lastmodified":1449002557,
+    "wof:lastmodified":1466190197,
     "wof:name":"Golden Grove Tea Tree Gully Re-Cycling Depot",
     "wof:parent_id":85777619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.722946,-34.784508,138.722946,-34.784508],
-  "geometry": {"coordinates":[138.722946,-34.784508],"type":"Point"}
+  "bbox": [
+    138.722946,
+    -34.784508,
+    138.722946,
+    -34.784508
+],
+  "geometry": {"coordinates":[138.72294600000001,-34.784508],"type":"Point"}
 }

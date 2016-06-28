@@ -2,13 +2,14 @@
   "id": 220001217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.580338,-37.686508,140.580338,-37.686508",
     "geom:latitude":-37.686508,
     "geom:longitude":140.580338,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 142",
     "sg:city":"Glencoe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220001217,
-    "wof:lastmodified":1449074227,
+    "wof:lastmodified":1466189947,
     "wof:name":"Maloney Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [140.580338,-37.686508,140.580338,-37.686508],
-  "geometry": {"coordinates":[140.580338,-37.686508],"type":"Point"}
+  "bbox": [
+    140.580338,
+    -37.686508,
+    140.580338,
+    -37.686508
+],
+  "geometry": {"coordinates":[140.58033800000001,-37.686508],"type":"Point"}
 }

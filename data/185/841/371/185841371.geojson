@@ -2,13 +2,14 @@
   "id": 185841371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.833084,-25.277248,152.833084,-25.277248",
     "geom:latitude":-25.277248,
     "geom:longitude":152.833084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Watson St",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185841371,
-    "wof:lastmodified":1449006954,
+    "wof:lastmodified":1466187232,
     "wof:name":"The Blue Store",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.833084,-25.277248,152.833084,-25.277248],
-  "geometry": {"coordinates":[152.833084,-25.277248],"type":"Point"}
+  "bbox": [
+    152.833084,
+    -25.277248,
+    152.833084,
+    -25.277248
+],
+  "geometry": {"coordinates":[152.83308400000001,-25.277248],"type":"Point"}
 }

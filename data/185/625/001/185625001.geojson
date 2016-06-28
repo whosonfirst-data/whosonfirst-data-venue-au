@@ -2,13 +2,14 @@
   "id": 185625001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.932587,-32.064468,115.932587,-32.064468",
     "geom:latitude":-32.064468,
     "geom:longitude":115.932587,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5/ 16 Panama St",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185625001,
-    "wof:lastmodified":1449008238,
+    "wof:lastmodified":1466189972,
     "wof:name":"Canning Vale Service Centre",
     "wof:parent_id":85775837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.932587,-32.064468,115.932587,-32.064468],
+  "bbox": [
+    115.932587,
+    -32.064468,
+    115.932587,
+    -32.064468
+],
   "geometry": {"coordinates":[115.932587,-32.064468],"type":"Point"}
 }

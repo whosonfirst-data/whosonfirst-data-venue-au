@@ -2,13 +2,14 @@
   "id": 185775875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.390137,-32.093468,152.390137,-32.093468",
     "geom:latitude":-32.093468,
     "geom:longitude":152.390137,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Abbott St",
     "sg:city":"Nabiac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185775875,
-    "wof:lastmodified":1449007787,
+    "wof:lastmodified":1466189750,
     "wof:name":"Mike Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [152.390137,-32.093468,152.390137,-32.093468],
-  "geometry": {"coordinates":[152.390137,-32.093468],"type":"Point"}
+  "bbox": [
+    152.390137,
+    -32.093468,
+    152.390137,
+    -32.093468
+],
+  "geometry": {"coordinates":[152.39013700000001,-32.093468],"type":"Point"}
 }

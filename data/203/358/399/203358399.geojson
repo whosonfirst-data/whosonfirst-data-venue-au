@@ -2,13 +2,14 @@
   "id": 203358399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.861603,-37.564785,143.861603,-37.564785",
     "geom:latitude":-37.564785,
     "geom:longitude":143.861603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Eastwood St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203358399,
-    "wof:lastmodified":1449025719,
+    "wof:lastmodified":1466188822,
     "wof:name":"A J McMaster",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.861603,-37.564785,143.861603,-37.564785],
+  "bbox": [
+    143.861603,
+    -37.564785,
+    143.861603,
+    -37.564785
+],
   "geometry": {"coordinates":[143.861603,-37.564785],"type":"Point"}
 }

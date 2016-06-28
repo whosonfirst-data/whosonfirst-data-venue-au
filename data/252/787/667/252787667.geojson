@@ -2,13 +2,14 @@
   "id": 252787667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.468781,-41.270687,146.468781,-41.270687",
     "geom:latitude":-41.270687,
     "geom:longitude":146.468781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Native Plains Rd",
     "sg:city":"Sassafras",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252787667,
-    "wof:lastmodified":1449005907,
+    "wof:lastmodified":1466188035,
     "wof:name":"Sassafras Orchards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grower"
     ]
 },
-  "bbox": [146.468781,-41.270687,146.468781,-41.270687],
-  "geometry": {"coordinates":[146.468781,-41.270687],"type":"Point"}
+  "bbox": [
+    146.468781,
+    -41.270687,
+    146.468781,
+    -41.270687
+],
+  "geometry": {"coordinates":[146.46878100000001,-41.270687],"type":"Point"}
 }

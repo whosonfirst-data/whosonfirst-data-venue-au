@@ -2,13 +2,14 @@
   "id": 219809135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.893295,-36.113289,146.893295,-36.113289",
     "geom:latitude":-36.113289,
     "geom:longitude":146.893295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RMB 1063",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219809135,
-    "wof:lastmodified":1449073286,
+    "wof:lastmodified":1466191405,
     "wof:name":"Wallace Excavator Hire",
     "wof:parent_id":85780039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.893295,-36.113289,146.893295,-36.113289],
-  "geometry": {"coordinates":[146.893295,-36.113289],"type":"Point"}
+  "bbox": [
+    146.893295,
+    -36.113289,
+    146.893295,
+    -36.113289
+],
+  "geometry": {"coordinates":[146.89329499999999,-36.113289],"type":"Point"}
 }

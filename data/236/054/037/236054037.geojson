@@ -2,13 +2,14 @@
   "id": 236054037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.920746,-37.765873,144.920746,-37.765873",
     "geom:latitude":-37.765873,
     "geom:longitude":144.920746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hall St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236054037,
-    "wof:lastmodified":1449003159,
+    "wof:lastmodified":1466187696,
     "wof:name":"Medownick Laser",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.920746,-37.765873,144.920746,-37.765873],
-  "geometry": {"coordinates":[144.920746,-37.765873],"type":"Point"}
+  "bbox": [
+    144.920746,
+    -37.765873,
+    144.920746,
+    -37.765873
+],
+  "geometry": {"coordinates":[144.92074600000001,-37.765873],"type":"Point"}
 }

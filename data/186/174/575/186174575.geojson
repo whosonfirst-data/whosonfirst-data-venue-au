@@ -2,13 +2,14 @@
   "id": 186174575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.916641,-31.454378,152.916641,-31.454378",
     "geom:latitude":-31.454378,
     "geom:longitude":152.916641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Waniora Pkwy & Braemar Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186174575,
-    "wof:lastmodified":1449050698,
+    "wof:lastmodified":1466189936,
     "wof:name":"Skin Cancer Scan Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.916641,-31.454378,152.916641,-31.454378],
+  "bbox": [
+    152.916641,
+    -31.454378,
+    152.916641,
+    -31.454378
+],
   "geometry": {"coordinates":[152.916641,-31.454378],"type":"Point"}
 }

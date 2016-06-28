@@ -2,13 +2,14 @@
   "id": 202394551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.749237,-34.596626,138.749237,-34.596626",
     "geom:latitude":-34.596626,
     "geom:longitude":138.749237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Murray St",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202394551,
-    "wof:lastmodified":1449060600,
+    "wof:lastmodified":1466187513,
     "wof:name":"Harbison Dr J H",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.749237,-34.596626,138.749237,-34.596626],
-  "geometry": {"coordinates":[138.749237,-34.596626],"type":"Point"}
+  "bbox": [
+    138.749237,
+    -34.596626,
+    138.749237,
+    -34.596626
+],
+  "geometry": {"coordinates":[138.74923699999999,-34.596626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202899559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.201019,-30.068075,153.201019,-30.068075",
     "geom:latitude":-30.068075,
     "geom:longitude":153.201019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Headland Rd",
     "sg:city":"Arrawarra Headland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202899559,
-    "wof:lastmodified":1449062515,
+    "wof:lastmodified":1466190557,
     "wof:name":"AGMO Tax Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [153.201019,-30.068075,153.201019,-30.068075],
+  "bbox": [
+    153.201019,
+    -30.068075,
+    153.201019,
+    -30.068075
+],
   "geometry": {"coordinates":[153.201019,-30.068075],"type":"Point"}
 }

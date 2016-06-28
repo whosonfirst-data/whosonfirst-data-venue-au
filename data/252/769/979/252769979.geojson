@@ -2,13 +2,14 @@
   "id": 252769979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.121246,-41.596848,147.121246,-41.596848",
     "geom:latitude":-41.596848,
     "geom:longitude":147.121246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Marlborough St",
     "sg:city":"Longford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252769979,
-    "wof:lastmodified":1449005763,
+    "wof:lastmodified":1466187878,
     "wof:name":"Longford Veterinary Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [147.121246,-41.596848,147.121246,-41.596848],
-  "geometry": {"coordinates":[147.121246,-41.596848],"type":"Point"}
+  "bbox": [
+    147.121246,
+    -41.596848,
+    147.121246,
+    -41.596848
+],
+  "geometry": {"coordinates":[147.12124600000001,-41.596848],"type":"Point"}
 }

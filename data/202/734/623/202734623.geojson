@@ -2,13 +2,14 @@
   "id": 202734623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.040649,-22.389578,143.040649,-22.389578",
     "geom:latitude":-22.389578,
     "geom:longitude":143.040649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Vindex St",
     "sg:city":"Winton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202734623,
-    "wof:lastmodified":1449062337,
+    "wof:lastmodified":1466189480,
     "wof:name":"Outback Plumbing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.040649,-22.389578,143.040649,-22.389578],
+  "bbox": [
+    143.040649,
+    -22.389578,
+    143.040649,
+    -22.389578
+],
   "geometry": {"coordinates":[143.040649,-22.389578],"type":"Point"}
 }

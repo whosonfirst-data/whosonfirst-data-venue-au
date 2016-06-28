@@ -2,13 +2,14 @@
   "id": 253103241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.828781,-37.760685,144.828781,-37.760685",
     "geom:latitude":-37.760685,
     "geom:longitude":144.828781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Buckley Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253103241,
-    "wof:lastmodified":1449064665,
+    "wof:lastmodified":1466188799,
     "wof:name":"Exstream Car Detail",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [144.828781,-37.760685,144.828781,-37.760685],
-  "geometry": {"coordinates":[144.828781,-37.760685],"type":"Point"}
+  "bbox": [
+    144.828781,
+    -37.760685,
+    144.828781,
+    -37.760685
+],
+  "geometry": {"coordinates":[144.82878099999999,-37.760685],"type":"Point"}
 }

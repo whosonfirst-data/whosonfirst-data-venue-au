@@ -2,13 +2,14 @@
   "id": 253119515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.821411,-37.777863,144.821411,-37.777863",
     "geom:latitude":-37.777863,
     "geom:longitude":144.821411,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Derrimut St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253119515,
-    "wof:lastmodified":1449064947,
+    "wof:lastmodified":1466189133,
     "wof:name":"S & R Towing",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [144.821411,-37.777863,144.821411,-37.777863],
-  "geometry": {"coordinates":[144.821411,-37.777863],"type":"Point"}
+  "bbox": [
+    144.821411,
+    -37.777863,
+    144.821411,
+    -37.777863
+],
+  "geometry": {"coordinates":[144.82141100000001,-37.777863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202455179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.965607,-37.837421,144.965607,-37.837421",
     "geom:latitude":-37.837421,
     "geom:longitude":144.965607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Moray St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202455179,
-    "wof:lastmodified":1449062259,
+    "wof:lastmodified":1466188871,
     "wof:name":"C.J. Sinclair & Assoc.Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counselling"
     ]
 },
-  "bbox": [144.965607,-37.837421,144.965607,-37.837421],
-  "geometry": {"coordinates":[144.965607,-37.837421],"type":"Point"}
+  "bbox": [
+    144.965607,
+    -37.837421,
+    144.965607,
+    -37.837421
+],
+  "geometry": {"coordinates":[144.96560700000001,-37.837421],"type":"Point"}
 }

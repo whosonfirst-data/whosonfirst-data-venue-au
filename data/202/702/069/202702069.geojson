@@ -2,13 +2,14 @@
   "id": 202702069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.052017,-27.365108,153.052017,-27.365108",
     "geom:latitude":-27.365108,
     "geom:longitude":153.052017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Basalt St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202702069,
-    "wof:lastmodified":1449061384,
+    "wof:lastmodified":1466188867,
     "wof:name":"SW Thompson Building",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [153.052017,-27.365108,153.052017,-27.365108],
-  "geometry": {"coordinates":[153.052017,-27.365108],"type":"Point"}
+  "bbox": [
+    153.052017,
+    -27.365108,
+    153.052017,
+    -27.365108
+],
+  "geometry": {"coordinates":[153.05201700000001,-27.365108],"type":"Point"}
 }

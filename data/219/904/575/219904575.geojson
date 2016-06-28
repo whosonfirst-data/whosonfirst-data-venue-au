@@ -2,13 +2,14 @@
   "id": 219904575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.934357,-34.306377,150.934357,-34.306377",
     "geom:latitude":-34.306377,
     "geom:longitude":150.934357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Lawrence Hargrave Drv",
     "sg:city":"Austinmer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219904575,
-    "wof:lastmodified":1449074007,
+    "wof:lastmodified":1466191809,
     "wof:name":"Austi Beach Cafe",
     "wof:parent_id":85768721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [150.934357,-34.306377,150.934357,-34.306377],
-  "geometry": {"coordinates":[150.934357,-34.306377],"type":"Point"}
+  "bbox": [
+    150.934357,
+    -34.306377,
+    150.934357,
+    -34.306377
+],
+  "geometry": {"coordinates":[150.93435700000001,-34.306377],"type":"Point"}
 }

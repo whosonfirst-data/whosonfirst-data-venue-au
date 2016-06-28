@@ -2,13 +2,14 @@
   "id": 236070871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.740952,-37.686848,144.740952,-37.686848",
     "geom:latitude":-37.686848,
     "geom:longitude":144.740952,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Queens Pde",
     "sg:city":"Hillside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236070871,
-    "wof:lastmodified":1449003219,
+    "wof:lastmodified":1466188048,
     "wof:name":"YCB Studio",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.740952,-37.686848,144.740952,-37.686848],
-  "geometry": {"coordinates":[144.740952,-37.686848],"type":"Point"}
+  "bbox": [
+    144.740952,
+    -37.686848,
+    144.740952,
+    -37.686848
+],
+  "geometry": {"coordinates":[144.74095199999999,-37.686848],"type":"Point"}
 }

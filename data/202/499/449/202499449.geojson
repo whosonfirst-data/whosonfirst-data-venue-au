@@ -2,13 +2,14 @@
   "id": 202499449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.036194,-37.898945,145.036194,-37.898945",
     "geom:latitude":-37.898945,
     "geom:longitude":145.036194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rear 3 Foch St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202499449,
-    "wof:lastmodified":1449060593,
+    "wof:lastmodified":1466189508,
     "wof:name":"Bruce Lynch - Architects",
     "wof:parent_id":85775317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.036194,-37.898945,145.036194,-37.898945],
-  "geometry": {"coordinates":[145.036194,-37.898945],"type":"Point"}
+  "bbox": [
+    145.036194,
+    -37.898945,
+    145.036194,
+    -37.898945
+],
+  "geometry": {"coordinates":[145.03619399999999,-37.898945],"type":"Point"}
 }

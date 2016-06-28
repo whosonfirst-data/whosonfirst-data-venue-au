@@ -2,13 +2,14 @@
   "id": 185966297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.427399,-33.436905,151.427399,-33.436905",
     "geom:latitude":-33.436905,
     "geom:longitude":151.427399,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Michaela Rd",
     "sg:city":"Terrigal",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185966297,
-    "wof:lastmodified":1449006605,
+    "wof:lastmodified":1466188603,
     "wof:name":"Lindsay Mowday",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [151.427399,-33.436905,151.427399,-33.436905],
-  "geometry": {"coordinates":[151.427399,-33.436905],"type":"Point"}
+  "bbox": [
+    151.427399,
+    -33.436905,
+    151.427399,
+    -33.436905
+],
+  "geometry": {"coordinates":[151.42739900000001,-33.436905],"type":"Point"}
 }

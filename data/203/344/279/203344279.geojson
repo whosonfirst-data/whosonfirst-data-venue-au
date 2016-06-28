@@ -2,13 +2,14 @@
   "id": 203344279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.817352,-37.545513,143.817352,-37.545513",
     "geom:latitude":-37.545513,
     "geom:longitude":143.817352,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1/8 &#034;The Arches&#034; St",
     "sg:city":"Cedars Grove, Lake Gardens Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203344279,
-    "wof:lastmodified":1449025045,
+    "wof:lastmodified":1466188576,
     "wof:name":"Drake",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.817352,-37.545513,143.817352,-37.545513],
+  "bbox": [
+    143.817352,
+    -37.545513,
+    143.817352,
+    -37.545513
+],
   "geometry": {"coordinates":[143.817352,-37.545513],"type":"Point"}
 }

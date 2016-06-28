@@ -2,13 +2,14 @@
   "id": 203380673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.888382,-37.545921,143.888382,-37.545921",
     "geom:latitude":-37.545921,
     "geom:longitude":143.888382,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71a Lofven St",
     "sg:city":"Nerrina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203380673,
-    "wof:lastmodified":1449025795,
+    "wof:lastmodified":1466189210,
     "wof:name":"Steffen P.& C.",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [143.888382,-37.545921,143.888382,-37.545921],
-  "geometry": {"coordinates":[143.888382,-37.545921],"type":"Point"}
+  "bbox": [
+    143.888382,
+    -37.545921,
+    143.888382,
+    -37.545921
+],
+  "geometry": {"coordinates":[143.88838200000001,-37.545921],"type":"Point"}
 }

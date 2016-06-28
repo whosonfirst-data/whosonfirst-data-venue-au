@@ -2,13 +2,14 @@
   "id": 220018009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.616409,-35.019028,138.616409,-35.019028",
     "geom:latitude":-35.019028,
     "geom:longitude":138.616409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"(Opp. Coles) 227 Main Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220018009,
-    "wof:lastmodified":1449074443,
+    "wof:lastmodified":1466187104,
     "wof:name":"I&#039;ve Been Framed",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [138.616409,-35.019028,138.616409,-35.019028],
+  "bbox": [
+    138.616409,
+    -35.019028,
+    138.616409,
+    -35.019028
+],
   "geometry": {"coordinates":[138.616409,-35.019028],"type":"Point"}
 }

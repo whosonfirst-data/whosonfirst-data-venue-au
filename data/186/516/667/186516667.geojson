@@ -2,13 +2,14 @@
   "id": 186516667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.743332,-19.314484,146.743332,-19.314484",
     "geom:latitude":-19.314484,
     "geom:longitude":146.743332,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Moondarga Drv",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186516667,
-    "wof:lastmodified":1449050919,
+    "wof:lastmodified":1466190549,
     "wof:name":"Rosslea Stump Grinding",
     "wof:parent_id":85779537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [146.743332,-19.314484,146.743332,-19.314484],
-  "geometry": {"coordinates":[146.743332,-19.314484],"type":"Point"}
+  "bbox": [
+    146.743332,
+    -19.314484,
+    146.743332,
+    -19.314484
+],
+  "geometry": {"coordinates":[146.74333200000001,-19.314484],"type":"Point"}
 }

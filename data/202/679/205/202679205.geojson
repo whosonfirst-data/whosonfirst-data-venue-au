@@ -2,13 +2,14 @@
   "id": 202679205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.965622,-27.349785,152.965622,-27.349785",
     "geom:latitude":-27.349785,
     "geom:longitude":152.965622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Faheys Rd (West)",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202679205,
-    "wof:lastmodified":1449061726,
+    "wof:lastmodified":1466188447,
     "wof:name":"Albany Gardens Nursing Centre",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [152.965622,-27.349785,152.965622,-27.349785],
+  "bbox": [
+    152.965622,
+    -27.349785,
+    152.965622,
+    -27.349785
+],
   "geometry": {"coordinates":[152.965622,-27.349785],"type":"Point"}
 }

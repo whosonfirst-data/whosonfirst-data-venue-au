@@ -2,13 +2,14 @@
   "id": 236023147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.262131,-43.029198,147.262131,-43.029198",
     "geom:latitude":-43.029198,
     "geom:longitude":147.262131,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Van Morey Rd",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236023147,
-    "wof:lastmodified":1449004861,
+    "wof:lastmodified":1466187192,
     "wof:name":"Online Access Centres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internet"
     ]
 },
-  "bbox": [147.262131,-43.029198,147.262131,-43.029198],
-  "geometry": {"coordinates":[147.262131,-43.029198],"type":"Point"}
+  "bbox": [
+    147.262131,
+    -43.029198,
+    147.262131,
+    -43.029198
+],
+  "geometry": {"coordinates":[147.26213100000001,-43.029198],"type":"Point"}
 }

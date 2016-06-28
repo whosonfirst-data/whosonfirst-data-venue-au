@@ -2,13 +2,14 @@
   "id": 185666937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.761101,-32.044426,115.761101,-32.044426",
     "geom:latitude":-32.044426,
     "geom:longitude":115.761101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Sewell St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185666937,
-    "wof:lastmodified":1449007185,
+    "wof:lastmodified":1466188567,
     "wof:name":"Paddy Glasgow",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [115.761101,-32.044426,115.761101,-32.044426],
+  "bbox": [
+    115.761101,
+    -32.044426,
+    115.761101,
+    -32.044426
+],
   "geometry": {"coordinates":[115.761101,-32.044426],"type":"Point"}
 }

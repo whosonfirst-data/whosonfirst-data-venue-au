@@ -2,13 +2,14 @@
   "id": 185839869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.881042,-25.28303,152.881042,-25.28303",
     "geom:latitude":-25.28303,
     "geom:longitude":152.881042,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Witt St",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185839869,
-    "wof:lastmodified":1449007583,
+    "wof:lastmodified":1466187211,
     "wof:name":"Whale Laundromat The",
     "wof:parent_id":85770489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.881042,-25.28303,152.881042,-25.28303],
-  "geometry": {"coordinates":[152.881042,-25.28303],"type":"Point"}
+  "bbox": [
+    152.881042,
+    -25.28303,
+    152.881042,
+    -25.28303
+],
+  "geometry": {"coordinates":[152.88104200000001,-25.28303],"type":"Point"}
 }

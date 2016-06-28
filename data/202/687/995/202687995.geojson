@@ -2,13 +2,14 @@
   "id": 202687995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.967056,-27.345362,152.967056,-27.345362",
     "geom:latitude":-27.345362,
     "geom:longitude":152.967056,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Albany Creek Drv & Old Nthn Rd",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202687995,
-    "wof:lastmodified":1449060831,
+    "wof:lastmodified":1466188605,
     "wof:name":"BP Albany Creek",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [152.967056,-27.345362,152.967056,-27.345362],
-  "geometry": {"coordinates":[152.967056,-27.345362],"type":"Point"}
+  "bbox": [
+    152.967056,
+    -27.345362,
+    152.967056,
+    -27.345362
+],
+  "geometry": {"coordinates":[152.96705600000001,-27.345362],"type":"Point"}
 }

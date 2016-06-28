@@ -2,13 +2,14 @@
   "id": 185848613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.837814,-25.287924,152.837814,-25.287924",
     "geom:latitude":-25.287924,
     "geom:longitude":152.837814,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 172 Boat Harbour Drv",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185848613,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466187325,
     "wof:name":"Crazy Crafts Warehouse",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [152.837814,-25.287924,152.837814,-25.287924],
-  "geometry": {"coordinates":[152.837814,-25.287924],"type":"Point"}
+  "bbox": [
+    152.837814,
+    -25.287924,
+    152.837814,
+    -25.287924
+],
+  "geometry": {"coordinates":[152.83781400000001,-25.287924],"type":"Point"}
 }

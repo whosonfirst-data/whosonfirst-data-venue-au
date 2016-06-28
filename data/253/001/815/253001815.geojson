@@ -2,13 +2,14 @@
   "id": 253001815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.085953,-24.115343,148.085953,-24.115343",
     "geom:latitude":-24.115343,
     "geom:longitude":148.085953,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Quarry & Charles Sts",
     "sg:city":"Springsure",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253001815,
-    "wof:lastmodified":1449063480,
+    "wof:lastmodified":1466186950,
     "wof:name":"Queen's Arms Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [148.085953,-24.115343,148.085953,-24.115343],
-  "geometry": {"coordinates":[148.085953,-24.115343],"type":"Point"}
+  "bbox": [
+    148.085953,
+    -24.115343,
+    148.085953,
+    -24.115343
+],
+  "geometry": {"coordinates":[148.08595299999999,-24.115343],"type":"Point"}
 }

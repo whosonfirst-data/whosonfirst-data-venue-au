@@ -2,13 +2,14 @@
   "id": 236558751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.019455,-33.971573,151.019455,-33.971573",
     "geom:latitude":-33.971573,
     "geom:longitude":151.019455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Fewtell Ave",
     "sg:city":"Revesby Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236558751,
-    "wof:lastmodified":1449002359,
+    "wof:lastmodified":1466191501,
     "wof:name":"Walsh & McLean Plumbing Pty Ltd",
     "wof:parent_id":85776875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.019455,-33.971573,151.019455,-33.971573],
-  "geometry": {"coordinates":[151.019455,-33.971573],"type":"Point"}
+  "bbox": [
+    151.019455,
+    -33.971573,
+    151.019455,
+    -33.971573
+],
+  "geometry": {"coordinates":[151.01945499999999,-33.971573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236462489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.175446,-21.160416,149.175446,-21.160416",
     "geom:latitude":-21.160416,
     "geom:longitude":149.175446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Milton St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236462489,
-    "wof:lastmodified":1449005093,
+    "wof:lastmodified":1466191287,
     "wof:name":"Crustys Bakery",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [149.175446,-21.160416,149.175446,-21.160416],
-  "geometry": {"coordinates":[149.175446,-21.160416],"type":"Point"}
+  "bbox": [
+    149.175446,
+    -21.160416,
+    149.175446,
+    -21.160416
+],
+  "geometry": {"coordinates":[149.17544599999999,-21.160416],"type":"Point"}
 }

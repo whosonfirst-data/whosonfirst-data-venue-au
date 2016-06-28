@@ -2,13 +2,14 @@
   "id": 202487107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.045532,-37.900459,145.045532,-37.900459",
     "geom:latitude":-37.900459,
     "geom:longitude":145.045532,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Leila Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202487107,
-    "wof:lastmodified":1449060932,
+    "wof:lastmodified":1466189337,
     "wof:name":"Watts Fencing",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.045532,-37.900459,145.045532,-37.900459],
-  "geometry": {"coordinates":[145.045532,-37.900459],"type":"Point"}
+  "bbox": [
+    145.045532,
+    -37.900459,
+    145.045532,
+    -37.900459
+],
+  "geometry": {"coordinates":[145.04553200000001,-37.900459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202535313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.174896,-38.111084,145.174896,-38.111084",
     "geom:latitude":-38.111084,
     "geom:longitude":145.174896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Lyrebird Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202535313,
-    "wof:lastmodified":1449060560,
+    "wof:lastmodified":1466189857,
     "wof:name":"Botany Park Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [145.174896,-38.111084,145.174896,-38.111084],
-  "geometry": {"coordinates":[145.174896,-38.111084],"type":"Point"}
+  "bbox": [
+    145.174896,
+    -38.111084,
+    145.174896,
+    -38.111084
+],
+  "geometry": {"coordinates":[145.17489599999999,-38.111084],"type":"Point"}
 }

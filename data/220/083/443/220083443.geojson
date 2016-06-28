@@ -2,13 +2,14 @@
   "id": 220083443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.247986,-40.853737,145.247986,-40.853737",
     "geom:latitude":-40.853737,
     "geom:longitude":145.247986,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Mengha St & Buckling Rd",
     "sg:city":"Forest",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220083443,
-    "wof:lastmodified":1449074404,
+    "wof:lastmodified":1466187781,
     "wof:name":"Friendly Grocer IGA Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [145.247986,-40.853737,145.247986,-40.853737],
+  "bbox": [
+    145.247986,
+    -40.853737,
+    145.247986,
+    -40.853737
+],
   "geometry": {"coordinates":[145.247986,-40.853737],"type":"Point"}
 }

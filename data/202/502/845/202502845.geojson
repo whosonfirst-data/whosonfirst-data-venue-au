@@ -2,13 +2,14 @@
   "id": 202502845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.033539,-37.925522,145.033539,-37.925522",
     "geom:latitude":-37.925522,
     "geom:longitude":145.033539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Patterson Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202502845,
-    "wof:lastmodified":1449061289,
+    "wof:lastmodified":1466189554,
     "wof:name":"Leon Petroff-Violin Maker",
     "wof:parent_id":85775363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maker"
     ]
 },
-  "bbox": [145.033539,-37.925522,145.033539,-37.925522],
-  "geometry": {"coordinates":[145.033539,-37.925522],"type":"Point"}
+  "bbox": [
+    145.033539,
+    -37.925522,
+    145.033539,
+    -37.925522
+],
+  "geometry": {"coordinates":[145.03353899999999,-37.925522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202938355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.098007,-30.315073,153.098007,-30.315073",
     "geom:latitude":-30.315073,
     "geom:longitude":153.098007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1a/ 11 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202938355,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466190922,
     "wof:name":"Jencraft Canvas",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "product"
     ]
 },
-  "bbox": [153.098007,-30.315073,153.098007,-30.315073],
+  "bbox": [
+    153.098007,
+    -30.315073,
+    153.098007,
+    -30.315073
+],
   "geometry": {"coordinates":[153.098007,-30.315073],"type":"Point"}
 }

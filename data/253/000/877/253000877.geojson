@@ -2,13 +2,14 @@
   "id": 253000877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.088623,-24.117966,148.088623,-24.117966",
     "geom:latitude":-24.117966,
     "geom:longitude":148.088623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"86 William St",
     "sg:city":"Springsure",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253000877,
-    "wof:lastmodified":1449063291,
+    "wof:lastmodified":1466189964,
     "wof:name":"Springsure Roadhouse & Caravan Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.088623,-24.117966,148.088623,-24.117966],
-  "geometry": {"coordinates":[148.088623,-24.117966],"type":"Point"}
+  "bbox": [
+    148.088623,
+    -24.117966,
+    148.088623,
+    -24.117966
+],
+  "geometry": {"coordinates":[148.08862300000001,-24.117966],"type":"Point"}
 }

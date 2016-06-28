@@ -2,13 +2,14 @@
   "id": 236921021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.518097,-34.963428,138.518097,-34.963428",
     "geom:latitude":-34.963428,
     "geom:longitude":138.518097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Shannon Ave",
     "sg:city":"Glenelg North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236921021,
-    "wof:lastmodified":1449003835,
+    "wof:lastmodified":1466192191,
     "wof:name":"K & S Interior Lining",
     "wof:parent_id":85779083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [138.518097,-34.963428,138.518097,-34.963428],
-  "geometry": {"coordinates":[138.518097,-34.963428],"type":"Point"}
+  "bbox": [
+    138.518097,
+    -34.963428,
+    138.518097,
+    -34.963428
+],
+  "geometry": {"coordinates":[138.51809700000001,-34.963428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236449775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.159653,-21.129286,149.159653,-21.129286",
     "geom:latitude":-21.129286,
     "geom:longitude":149.159653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Trade Crt",
     "sg:city":"Glenella",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236449775,
-    "wof:lastmodified":1449004960,
+    "wof:lastmodified":1466191352,
     "wof:name":"Tradelink Plumbing Centres",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [149.159653,-21.129286,149.159653,-21.129286],
-  "geometry": {"coordinates":[149.159653,-21.129286],"type":"Point"}
+  "bbox": [
+    149.159653,
+    -21.129286,
+    149.159653,
+    -21.129286
+],
+  "geometry": {"coordinates":[149.15965299999999,-21.129286],"type":"Point"}
 }

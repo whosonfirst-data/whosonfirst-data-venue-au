@@ -2,13 +2,14 @@
   "id": 202850069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.686203,-36.369331,146.686203,-36.369331",
     "geom:latitude":-36.369331,
     "geom:longitude":146.686203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Crawford St",
     "sg:city":"Beechworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202850069,
-    "wof:lastmodified":1449061580,
+    "wof:lastmodified":1466190363,
     "wof:name":"Engineering & Pattern Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "foundry"
     ]
 },
-  "bbox": [146.686203,-36.369331,146.686203,-36.369331],
-  "geometry": {"coordinates":[146.686203,-36.369331],"type":"Point"}
+  "bbox": [
+    146.686203,
+    -36.369331,
+    146.686203,
+    -36.369331
+],
+  "geometry": {"coordinates":[146.68620300000001,-36.369331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186589177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.517029,-41.160847,147.517029,-41.160847",
     "geom:latitude":-41.160847,
     "geom:longitude":147.517029,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 King St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186589177,
-    "wof:lastmodified":1449051808,
+    "wof:lastmodified":1466190995,
     "wof:name":"Scottsdale Funeral Directors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [147.517029,-41.160847,147.517029,-41.160847],
-  "geometry": {"coordinates":[147.517029,-41.160847],"type":"Point"}
+  "bbox": [
+    147.517029,
+    -41.160847,
+    147.517029,
+    -41.160847
+],
+  "geometry": {"coordinates":[147.51702900000001,-41.160847],"type":"Point"}
 }

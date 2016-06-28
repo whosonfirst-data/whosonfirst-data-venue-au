@@ -2,13 +2,14 @@
   "id": 236677733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.456573,-31.914206,152.456573,-31.914206",
     "geom:latitude":-31.914206,
     "geom:longitude":152.456573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Commerce St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236677733,
-    "wof:lastmodified":1449002707,
+    "wof:lastmodified":1466191896,
     "wof:name":"Gayed Emil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.456573,-31.914206,152.456573,-31.914206],
-  "geometry": {"coordinates":[152.456573,-31.914206],"type":"Point"}
+  "bbox": [
+    152.456573,
+    -31.914206,
+    152.456573,
+    -31.914206
+],
+  "geometry": {"coordinates":[152.45657299999999,-31.914206],"type":"Point"}
 }

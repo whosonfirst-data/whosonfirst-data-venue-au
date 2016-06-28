@@ -2,13 +2,14 @@
   "id": 186445459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178116,-33.896389,151.178116,-33.896389",
     "geom:latitude":-33.896389,
     "geom:longitude":151.178116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Australia St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186445459,
-    "wof:lastmodified":1449050691,
+    "wof:lastmodified":1466189990,
     "wof:name":"Stacks of Wax",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [151.178116,-33.896389,151.178116,-33.896389],
-  "geometry": {"coordinates":[151.178116,-33.896389],"type":"Point"}
+  "bbox": [
+    151.178116,
+    -33.896389,
+    151.178116,
+    -33.896389
+],
+  "geometry": {"coordinates":[151.17811599999999,-33.896389],"type":"Point"}
 }

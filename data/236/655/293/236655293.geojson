@@ -2,13 +2,14 @@
   "id": 236655293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.121765,-33.978867,151.121765,-33.978867",
     "geom:latitude":-33.978867,
     "geom:longitude":151.121765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Princes Hwy",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236655293,
-    "wof:lastmodified":1449003565,
+    "wof:lastmodified":1466191772,
     "wof:name":"Auto One Carlton",
     "wof:parent_id":85768883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [151.121765,-33.978867,151.121765,-33.978867],
-  "geometry": {"coordinates":[151.121765,-33.978867],"type":"Point"}
+  "bbox": [
+    151.121765,
+    -33.978867,
+    151.121765,
+    -33.978867
+],
+  "geometry": {"coordinates":[151.12176500000001,-33.978867],"type":"Point"}
 }

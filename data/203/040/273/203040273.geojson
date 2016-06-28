@@ -2,13 +2,14 @@
   "id": 203040273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.963089,-24.993813,151.963089,-24.993813",
     "geom:latitude":-24.993813,
     "geom:longitude":151.963089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Mulgrave St",
     "sg:city":"Gin Gin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203040273,
-    "wof:lastmodified":1449026826,
+    "wof:lastmodified":1466188023,
     "wof:name":"Gin Gin Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.963089,-24.993813,151.963089,-24.993813],
+  "bbox": [
+    151.963089,
+    -24.993813,
+    151.963089,
+    -24.993813
+],
   "geometry": {"coordinates":[151.963089,-24.993813],"type":"Point"}
 }

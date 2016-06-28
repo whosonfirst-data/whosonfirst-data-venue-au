@@ -2,13 +2,14 @@
   "id": 219477371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.141464,-37.510628,145.141464,-37.510628",
     "geom:latitude":-37.510628,
     "geom:longitude":145.141464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Ridge Rd",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219477371,
-    "wof:lastmodified":1449070998,
+    "wof:lastmodified":1466189178,
     "wof:name":"Andy's Plumbing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.141464,-37.510628,145.141464,-37.510628],
-  "geometry": {"coordinates":[145.141464,-37.510628],"type":"Point"}
+  "bbox": [
+    145.141464,
+    -37.510628,
+    145.141464,
+    -37.510628
+],
+  "geometry": {"coordinates":[145.14146400000001,-37.510628],"type":"Point"}
 }

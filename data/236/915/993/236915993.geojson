@@ -2,13 +2,14 @@
   "id": 236915993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.516296,-34.975212,138.516296,-34.975212",
     "geom:latitude":-34.975212,
     "geom:longitude":138.516296,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13a Mary St",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236915993,
-    "wof:lastmodified":1449005211,
+    "wof:lastmodified":1466192124,
     "wof:name":"Coastal Power",
     "wof:parent_id":85779625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "installation"
     ]
 },
-  "bbox": [138.516296,-34.975212,138.516296,-34.975212],
-  "geometry": {"coordinates":[138.516296,-34.975212],"type":"Point"}
+  "bbox": [
+    138.516296,
+    -34.975212,
+    138.516296,
+    -34.975212
+],
+  "geometry": {"coordinates":[138.51629600000001,-34.975212],"type":"Point"}
 }

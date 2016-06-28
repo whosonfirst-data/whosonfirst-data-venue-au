@@ -2,13 +2,14 @@
   "id": 202957509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.071884,-30.353889,153.071884,-30.353889",
     "geom:latitude":-30.353889,
     "geom:longitude":153.071884,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Sunrise Drv",
     "sg:city":"Boambee East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202957509,
-    "wof:lastmodified":1449062277,
+    "wof:lastmodified":1466191022,
     "wof:name":"C-Side Pool Service",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [153.071884,-30.353889,153.071884,-30.353889],
-  "geometry": {"coordinates":[153.071884,-30.353889],"type":"Point"}
+  "bbox": [
+    153.071884,
+    -30.353889,
+    153.071884,
+    -30.353889
+],
+  "geometry": {"coordinates":[153.07188400000001,-30.353889],"type":"Point"}
 }

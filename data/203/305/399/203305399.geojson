@@ -2,13 +2,14 @@
   "id": 203305399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.838043,-37.534058,143.838043,-37.534058",
     "geom:latitude":-37.534058,
     "geom:longitude":143.838043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Norman St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203305399,
-    "wof:lastmodified":1449025222,
+    "wof:lastmodified":1466188026,
     "wof:name":"Yummy Cakes",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [143.838043,-37.534058,143.838043,-37.534058],
+  "bbox": [
+    143.838043,
+    -37.534058,
+    143.838043,
+    -37.534058
+],
   "geometry": {"coordinates":[143.838043,-37.534058],"type":"Point"}
 }

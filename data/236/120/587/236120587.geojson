@@ -2,13 +2,14 @@
   "id": 236120587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915741,-37.773521,144.915741,-37.773521",
     "geom:latitude":-37.773521,
     "geom:longitude":144.915741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 179 Union Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236120587,
-    "wof:lastmodified":1449004675,
+    "wof:lastmodified":1466189056,
     "wof:name":"Giselle Hairdressing",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.915741,-37.773521,144.915741,-37.773521],
+  "bbox": [
+    144.915741,
+    -37.773521,
+    144.915741,
+    -37.773521
+],
   "geometry": {"coordinates":[144.915741,-37.773521],"type":"Point"}
 }

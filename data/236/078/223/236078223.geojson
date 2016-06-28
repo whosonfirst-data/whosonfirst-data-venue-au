@@ -2,13 +2,14 @@
   "id": 236078223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.648285,-37.895493,144.648285,-37.895493",
     "geom:latitude":-37.895493,
     "geom:longitude":144.648285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Werribee St",
     "sg:city":"Werribee North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236078223,
-    "wof:lastmodified":1449004629,
+    "wof:lastmodified":1466188188,
     "wof:name":"Citywest Plumbing & Maintenance",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.648285,-37.895493,144.648285,-37.895493],
-  "geometry": {"coordinates":[144.648285,-37.895493],"type":"Point"}
+  "bbox": [
+    144.648285,
+    -37.895493,
+    144.648285,
+    -37.895493
+],
+  "geometry": {"coordinates":[144.64828499999999,-37.895493],"type":"Point"}
 }

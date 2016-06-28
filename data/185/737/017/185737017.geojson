@@ -2,13 +2,14 @@
   "id": 185737017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.069748,-32.751541,152.069748,-32.751541",
     "geom:latitude":-32.751541,
     "geom:longitude":152.069748,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 9 Shearwater Drv",
     "sg:city":"Taylors Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185737017,
-    "wof:lastmodified":1449006980,
+    "wof:lastmodified":1466190006,
     "wof:name":"Gateway Outdoor Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [152.069748,-32.751541,152.069748,-32.751541],
+  "bbox": [
+    152.069748,
+    -32.751541,
+    152.069748,
+    -32.751541
+],
   "geometry": {"coordinates":[152.069748,-32.751541],"type":"Point"}
 }

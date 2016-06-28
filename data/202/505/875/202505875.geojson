@@ -2,13 +2,14 @@
   "id": 202505875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.188477,-38.114174,145.188477,-38.114174",
     "geom:latitude":-38.114174,
     "geom:longitude":145.188477,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Arcadia St",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202505875,
-    "wof:lastmodified":1449062241,
+    "wof:lastmodified":1466189595,
     "wof:name":"Beachside Finance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [145.188477,-38.114174,145.188477,-38.114174],
-  "geometry": {"coordinates":[145.188477,-38.114174],"type":"Point"}
+  "bbox": [
+    145.188477,
+    -38.114174,
+    145.188477,
+    -38.114174
+],
+  "geometry": {"coordinates":[145.18847700000001,-38.114174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219255227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.008606,-37.779484,145.008606,-37.779484",
     "geom:latitude":-37.779484,
     "geom:longitude":145.008606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cain Ave",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219255227,
-    "wof:lastmodified":1449072002,
+    "wof:lastmodified":1466187163,
     "wof:name":"Dennis Coaching & Business Services",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [145.008606,-37.779484,145.008606,-37.779484],
-  "geometry": {"coordinates":[145.008606,-37.779484],"type":"Point"}
+  "bbox": [
+    145.008606,
+    -37.779484,
+    145.008606,
+    -37.779484
+],
+  "geometry": {"coordinates":[145.00860599999999,-37.779484],"type":"Point"}
 }

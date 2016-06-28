@@ -2,13 +2,14 @@
   "id": 202626421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.076569,-28.418306,151.076569,-28.418306",
     "geom:latitude":-28.418306,
     "geom:longitude":151.076569,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Albert St",
     "sg:city":"Inglewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202626421,
-    "wof:lastmodified":1449062647,
+    "wof:lastmodified":1466187565,
     "wof:name":"Inglewood Auto Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "spirit"
     ]
 },
-  "bbox": [151.076569,-28.418306,151.076569,-28.418306],
-  "geometry": {"coordinates":[151.076569,-28.418306],"type":"Point"}
+  "bbox": [
+    151.076569,
+    -28.418306,
+    151.076569,
+    -28.418306
+],
+  "geometry": {"coordinates":[151.07656900000001,-28.418306],"type":"Point"}
 }

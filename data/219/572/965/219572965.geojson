@@ -2,13 +2,14 @@
   "id": 219572965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.015015,-33.930187,151.015015,-33.930187",
     "geom:latitude":-33.930187,
     "geom:longitude":151.015015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Willfox St",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219572965,
-    "wof:lastmodified":1449072559,
+    "wof:lastmodified":1466190342,
     "wof:name":"Check-Trans Pty Ltd",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [151.015015,-33.930187,151.015015,-33.930187],
-  "geometry": {"coordinates":[151.015015,-33.930187],"type":"Point"}
+  "bbox": [
+    151.015015,
+    -33.930187,
+    151.015015,
+    -33.930187
+],
+  "geometry": {"coordinates":[151.01501500000001,-33.930187],"type":"Point"}
 }

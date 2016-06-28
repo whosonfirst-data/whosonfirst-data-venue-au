@@ -2,13 +2,14 @@
   "id": 202878835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.591843,-32.926979,151.591843,-32.926979",
     "geom:latitude":-32.926979,
     "geom:longitude":151.591843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Nelson St",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202878835,
-    "wof:lastmodified":1449061433,
+    "wof:lastmodified":1466190462,
     "wof:name":"Woodys All Terain Bobcat",
     "wof:parent_id":85769467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.591843,-32.926979,151.591843,-32.926979],
-  "geometry": {"coordinates":[151.591843,-32.926979],"type":"Point"}
+  "bbox": [
+    151.591843,
+    -32.926979,
+    151.591843,
+    -32.926979
+],
+  "geometry": {"coordinates":[151.59184300000001,-32.926979],"type":"Point"}
 }

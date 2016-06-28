@@ -2,13 +2,14 @@
   "id": 236374165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.788193,-32.200268,115.788193,-32.200268",
     "geom:latitude":-32.200268,
     "geom:longitude":115.788193,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Burlington St",
     "sg:city":"Naval Base",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236374165,
-    "wof:lastmodified":1449003027,
+    "wof:lastmodified":1466190905,
     "wof:name":"WA Tower Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antenna"
     ]
 },
-  "bbox": [115.788193,-32.200268,115.788193,-32.200268],
-  "geometry": {"coordinates":[115.788193,-32.200268],"type":"Point"}
+  "bbox": [
+    115.788193,
+    -32.200268,
+    115.788193,
+    -32.200268
+],
+  "geometry": {"coordinates":[115.78819300000001,-32.200268],"type":"Point"}
 }

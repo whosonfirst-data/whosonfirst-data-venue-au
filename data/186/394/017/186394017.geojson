@@ -2,13 +2,14 @@
   "id": 186394017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.816513,-19.259544,146.816513,-19.259544",
     "geom:latitude":-19.259544,
     "geom:longitude":146.816513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Stokes St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186394017,
-    "wof:lastmodified":1449050926,
+    "wof:lastmodified":1466189224,
     "wof:name":"Bank of Queensland",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.816513,-19.259544,146.816513,-19.259544],
-  "geometry": {"coordinates":[146.816513,-19.259544],"type":"Point"}
+  "bbox": [
+    146.816513,
+    -19.259544,
+    146.816513,
+    -19.259544
+],
+  "geometry": {"coordinates":[146.81651299999999,-19.259544],"type":"Point"}
 }

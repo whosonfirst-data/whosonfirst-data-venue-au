@@ -2,13 +2,14 @@
   "id": 202489399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.038437,-37.899467,145.038437,-37.899467",
     "geom:latitude":-37.899467,
     "geom:longitude":145.038437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Foch St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202489399,
-    "wof:lastmodified":1449061496,
+    "wof:lastmodified":1466189392,
     "wof:name":"Osborne Barry C & Son",
     "wof:parent_id":85775317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.038437,-37.899467,145.038437,-37.899467],
-  "geometry": {"coordinates":[145.038437,-37.899467],"type":"Point"}
+  "bbox": [
+    145.038437,
+    -37.899467,
+    145.038437,
+    -37.899467
+],
+  "geometry": {"coordinates":[145.03843699999999,-37.899467],"type":"Point"}
 }

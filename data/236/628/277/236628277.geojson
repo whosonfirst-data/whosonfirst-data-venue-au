@@ -2,13 +2,14 @@
   "id": 236628277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.144958,-33.960537,151.144958,-33.960537",
     "geom:latitude":-33.960537,
     "geom:longitude":151.144958,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Building 7, 443 West Botany St",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236628277,
-    "wof:lastmodified":1449004493,
+    "wof:lastmodified":1466191705,
     "wof:name":"Airmark Consolidators",
     "wof:parent_id":85768933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shipping"
     ]
 },
-  "bbox": [151.144958,-33.960537,151.144958,-33.960537],
+  "bbox": [
+    151.144958,
+    -33.960537,
+    151.144958,
+    -33.960537
+],
   "geometry": {"coordinates":[151.144958,-33.960537],"type":"Point"}
 }

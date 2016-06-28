@@ -2,13 +2,14 @@
   "id": 219561771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.992691,-33.914753,150.992691,-33.914753",
     "geom:latitude":-33.914753,
     "geom:longitude":150.992691,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Marion St & Airport Ave",
     "sg:city":"Bankstown Airport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219561771,
-    "wof:lastmodified":1449072903,
+    "wof:lastmodified":1466190366,
     "wof:name":"Airwell Air Conditioning",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [150.992691,-33.914753,150.992691,-33.914753],
-  "geometry": {"coordinates":[150.992691,-33.914753],"type":"Point"}
+  "bbox": [
+    150.992691,
+    -33.914753,
+    150.992691,
+    -33.914753
+],
+  "geometry": {"coordinates":[150.99269100000001,-33.914753],"type":"Point"}
 }

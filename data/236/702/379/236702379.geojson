@@ -2,13 +2,14 @@
   "id": 236702379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.459763,-31.90679,152.459763,-31.90679",
     "geom:latitude":-31.90679,
     "geom:longitude":152.459763,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 3 Whitbread St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236702379,
-    "wof:lastmodified":1449003272,
+    "wof:lastmodified":1466191779,
     "wof:name":"Taree & Wingham Produce Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [152.459763,-31.90679,152.459763,-31.90679],
-  "geometry": {"coordinates":[152.459763,-31.90679],"type":"Point"}
+  "bbox": [
+    152.459763,
+    -31.90679,
+    152.459763,
+    -31.90679
+],
+  "geometry": {"coordinates":[152.45976300000001,-31.90679],"type":"Point"}
 }

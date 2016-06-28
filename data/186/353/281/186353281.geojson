@@ -2,13 +2,14 @@
   "id": 186353281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130936,-33.857056,151.130936,-33.857056",
     "geom:latitude":-33.857056,
     "geom:longitude":151.130936,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Great North Rd",
     "sg:city":"Abbotsford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186353281,
-    "wof:lastmodified":1449051144,
+    "wof:lastmodified":1466188513,
     "wof:name":"Buckton Lysenko",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.130936,-33.857056,151.130936,-33.857056],
-  "geometry": {"coordinates":[151.130936,-33.857056],"type":"Point"}
+  "bbox": [
+    151.130936,
+    -33.857056,
+    151.130936,
+    -33.857056
+],
+  "geometry": {"coordinates":[151.13093599999999,-33.857056],"type":"Point"}
 }

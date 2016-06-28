@@ -2,13 +2,14 @@
   "id": 252853593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.533203,-32.363243,149.533203,-32.363243",
     "geom:latitude":-32.363243,
     "geom:longitude":149.533203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Herbert St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252853593,
-    "wof:lastmodified":1449005848,
+    "wof:lastmodified":1466188580,
     "wof:name":"McConnell Air & Electrical Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [149.533203,-32.363243,149.533203,-32.363243],
-  "geometry": {"coordinates":[149.533203,-32.363243],"type":"Point"}
+  "bbox": [
+    149.533203,
+    -32.363243,
+    149.533203,
+    -32.363243
+],
+  "geometry": {"coordinates":[149.53320299999999,-32.363243],"type":"Point"}
 }

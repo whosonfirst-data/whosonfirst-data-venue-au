@@ -2,13 +2,14 @@
   "id": 253179997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.907272,-27.561275,151.907272,-27.561275",
     "geom:latitude":-27.561275,
     "geom:longitude":151.907272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"275 McDougall St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253179997,
-    "wof:lastmodified":1449065476,
+    "wof:lastmodified":1466190077,
     "wof:name":"Garden City Landscape Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [151.907272,-27.561275,151.907272,-27.561275],
-  "geometry": {"coordinates":[151.907272,-27.561275],"type":"Point"}
+  "bbox": [
+    151.907272,
+    -27.561275,
+    151.907272,
+    -27.561275
+],
+  "geometry": {"coordinates":[151.90727200000001,-27.561275],"type":"Point"}
 }

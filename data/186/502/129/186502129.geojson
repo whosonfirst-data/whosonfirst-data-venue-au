@@ -2,13 +2,14 @@
   "id": 186502129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.767456,-19.2953,146.767456,-19.2953",
     "geom:latitude":-19.2953,
     "geom:longitude":146.767456,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 10",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186502129,
-    "wof:lastmodified":1449051599,
+    "wof:lastmodified":1466190522,
     "wof:name":"Donnington Air Park",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [146.767456,-19.2953,146.767456,-19.2953],
-  "geometry": {"coordinates":[146.767456,-19.2953],"type":"Point"}
+  "bbox": [
+    146.767456,
+    -19.2953,
+    146.767456,
+    -19.2953
+],
+  "geometry": {"coordinates":[146.76745600000001,-19.2953],"type":"Point"}
 }

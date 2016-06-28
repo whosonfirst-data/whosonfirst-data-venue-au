@@ -2,13 +2,14 @@
   "id": 186133747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.025513,-30.37775,153.025513,-30.37775",
     "geom:latitude":-30.37775,
     "geom:longitude":153.025513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Gleniffer Rd",
     "sg:city":"Bonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186133747,
-    "wof:lastmodified":1449052545,
+    "wof:lastmodified":1466189673,
     "wof:name":"Bonville Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.025513,-30.37775,153.025513,-30.37775],
-  "geometry": {"coordinates":[153.025513,-30.37775],"type":"Point"}
+  "bbox": [
+    153.025513,
+    -30.37775,
+    153.025513,
+    -30.37775
+],
+  "geometry": {"coordinates":[153.02551299999999,-30.37775],"type":"Point"}
 }

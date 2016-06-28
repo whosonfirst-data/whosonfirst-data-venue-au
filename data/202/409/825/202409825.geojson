@@ -2,13 +2,14 @@
   "id": 202409825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.902481,-37.829983,144.902481,-37.829983",
     "geom:latitude":-37.829983,
     "geom:longitude":144.902481,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32-38 Network Drv",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202409825,
-    "wof:lastmodified":1449061151,
+    "wof:lastmodified":1466187897,
     "wof:name":"Aerostaff Australia Pty Ltd",
     "wof:parent_id":85777745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cutting"
     ]
 },
-  "bbox": [144.902481,-37.829983,144.902481,-37.829983],
-  "geometry": {"coordinates":[144.902481,-37.829983],"type":"Point"}
+  "bbox": [
+    144.902481,
+    -37.829983,
+    144.902481,
+    -37.829983
+],
+  "geometry": {"coordinates":[144.90248099999999,-37.829983],"type":"Point"}
 }

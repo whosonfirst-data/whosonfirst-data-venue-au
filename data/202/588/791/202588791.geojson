@@ -2,13 +2,14 @@
   "id": 202588791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.61145,-33.832825,138.61145,-33.832825",
     "geom:latitude":-33.832825,
     "geom:longitude":138.61145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, 177 Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202588791,
-    "wof:lastmodified":1449062167,
+    "wof:lastmodified":1466187193,
     "wof:name":"Clare Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.61145,-33.832825,138.61145,-33.832825],
-  "geometry": {"coordinates":[138.61145,-33.832825],"type":"Point"}
+  "bbox": [
+    138.61145,
+    -33.832825,
+    138.61145,
+    -33.832825
+],
+  "geometry": {"coordinates":[138.61144999999999,-33.832825],"type":"Point"}
 }

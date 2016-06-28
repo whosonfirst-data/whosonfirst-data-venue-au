@@ -2,13 +2,14 @@
   "id": 219354979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.560379,-35.328114,143.560379,-35.328114",
     "geom:latitude":-35.328114,
     "geom:longitude":143.560379,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"River Rd",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219354979,
-    "wof:lastmodified":1449073525,
+    "wof:lastmodified":1466187971,
     "wof:name":"Frame R J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.560379,-35.328114,143.560379,-35.328114],
-  "geometry": {"coordinates":[143.560379,-35.328114],"type":"Point"}
+  "bbox": [
+    143.560379,
+    -35.328114,
+    143.560379,
+    -35.328114
+],
+  "geometry": {"coordinates":[143.56037900000001,-35.328114],"type":"Point"}
 }

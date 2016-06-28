@@ -2,13 +2,14 @@
   "id": 236340053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.800247,-32.056816,115.800247,-32.056816",
     "geom:latitude":-32.056816,
     "geom:longitude":115.800247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Garling St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236340053,
-    "wof:lastmodified":1449004341,
+    "wof:lastmodified":1466190634,
     "wof:name":"Stripe Master",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [115.800247,-32.056816,115.800247,-32.056816],
+  "bbox": [
+    115.800247,
+    -32.056816,
+    115.800247,
+    -32.056816
+],
   "geometry": {"coordinates":[115.800247,-32.056816],"type":"Point"}
 }

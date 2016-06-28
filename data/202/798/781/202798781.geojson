@@ -2,13 +2,14 @@
   "id": 202798781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.747635,-32.931324,151.747635,-32.931324",
     "geom:latitude":-32.931324,
     "geom:longitude":151.747635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Lawson St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202798781,
-    "wof:lastmodified":1449060581,
+    "wof:lastmodified":1466190188,
     "wof:name":"Centacare",
     "wof:parent_id":85778067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "group"
     ]
 },
-  "bbox": [151.747635,-32.931324,151.747635,-32.931324],
+  "bbox": [
+    151.747635,
+    -32.931324,
+    151.747635,
+    -32.931324
+],
   "geometry": {"coordinates":[151.747635,-32.931324],"type":"Point"}
 }

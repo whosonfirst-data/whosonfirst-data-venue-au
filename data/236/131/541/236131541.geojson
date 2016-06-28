@@ -2,13 +2,14 @@
   "id": 236131541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.850708,-37.746777,144.850708,-37.746777",
     "geom:latitude":-37.746777,
     "geom:longitude":144.850708,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Cecelia Drv",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236131541,
-    "wof:lastmodified":1449002476,
+    "wof:lastmodified":1466189279,
     "wof:name":"Domestic Home Maintenance Service",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [144.850708,-37.746777,144.850708,-37.746777],
+  "bbox": [
+    144.850708,
+    -37.746777,
+    144.850708,
+    -37.746777
+],
   "geometry": {"coordinates":[144.850708,-37.746777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236473679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.151688,-21.118605,149.151688,-21.118605",
     "geom:latitude":-21.118605,
     "geom:longitude":149.151688,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mt Pleasant Shopping Cntr, Cnr Phillip St & Bucasia Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236473679,
-    "wof:lastmodified":1449002192,
+    "wof:lastmodified":1466191315,
     "wof:name":"Fone Zone",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [149.151688,-21.118605,149.151688,-21.118605],
-  "geometry": {"coordinates":[149.151688,-21.118605],"type":"Point"}
+  "bbox": [
+    149.151688,
+    -21.118605,
+    149.151688,
+    -21.118605
+],
+  "geometry": {"coordinates":[149.15168800000001,-21.118605],"type":"Point"}
 }

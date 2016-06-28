@@ -2,13 +2,14 @@
   "id": 186232007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.908463,-31.430969,152.908463,-31.430969",
     "geom:latitude":-31.430969,
     "geom:longitude":152.908463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Horton St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186232007,
-    "wof:lastmodified":1449051254,
+    "wof:lastmodified":1466187290,
     "wof:name":"Jon's Family Jewellers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [152.908463,-31.430969,152.908463,-31.430969],
-  "geometry": {"coordinates":[152.908463,-31.430969],"type":"Point"}
+  "bbox": [
+    152.908463,
+    -31.430969,
+    152.908463,
+    -31.430969
+],
+  "geometry": {"coordinates":[152.90846300000001,-31.430969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236058103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915894,-37.771549,144.915894,-37.771549",
     "geom:latitude":-37.771549,
     "geom:longitude":144.915894,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Maribyrnong Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236058103,
-    "wof:lastmodified":1449002039,
+    "wof:lastmodified":1466187783,
     "wof:name":"Business Protection Group",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [144.915894,-37.771549,144.915894,-37.771549],
-  "geometry": {"coordinates":[144.915894,-37.771549],"type":"Point"}
+  "bbox": [
+    144.915894,
+    -37.771549,
+    144.915894,
+    -37.771549
+],
+  "geometry": {"coordinates":[144.91589400000001,-37.771549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202660167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.046494,-27.416945,153.046494,-27.416945",
     "geom:latitude":-27.416945,
     "geom:longitude":153.046494,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Adamson St",
     "sg:city":"Wooloowin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202660167,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466188077,
     "wof:name":"Torta Bella",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [153.046494,-27.416945,153.046494,-27.416945],
+  "bbox": [
+    153.046494,
+    -27.416945,
+    153.046494,
+    -27.416945
+],
   "geometry": {"coordinates":[153.046494,-27.416945],"type":"Point"}
 }

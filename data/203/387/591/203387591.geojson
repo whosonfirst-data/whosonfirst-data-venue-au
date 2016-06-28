@@ -2,13 +2,14 @@
   "id": 203387591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.797012,-37.546509,143.797012,-37.546509",
     "geom:latitude":-37.546509,
     "geom:longitude":143.797012,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Ring Rd & Trewin St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203387591,
-    "wof:lastmodified":1449026605,
+    "wof:lastmodified":1466189333,
     "wof:name":"McEldrew's Joinery Pty Ltd",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [143.797012,-37.546509,143.797012,-37.546509],
+  "bbox": [
+    143.797012,
+    -37.546509,
+    143.797012,
+    -37.546509
+],
   "geometry": {"coordinates":[143.797012,-37.546509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253136249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.960037,-27.589008,151.960037,-27.589008",
     "geom:latitude":-27.589008,
     "geom:longitude":151.960037,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Hazel St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253136249,
-    "wof:lastmodified":1449065760,
+    "wof:lastmodified":1466189348,
     "wof:name":"Berry Real Estate",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.960037,-27.589008,151.960037,-27.589008],
+  "bbox": [
+    151.960037,
+    -27.589008,
+    151.960037,
+    -27.589008
+],
   "geometry": {"coordinates":[151.960037,-27.589008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185808257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.517212,-37.653755,145.517212,-37.653755",
     "geom:latitude":-37.653755,
     "geom:longitude":145.517212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"223- 225 Maroondah Hwy",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185808257,
-    "wof:lastmodified":1449006650,
+    "wof:lastmodified":1466186912,
     "wof:name":"Yarra Valley Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.517212,-37.653755,145.517212,-37.653755],
+  "bbox": [
+    145.517212,
+    -37.653755,
+    145.517212,
+    -37.653755
+],
   "geometry": {"coordinates":[145.517212,-37.653755],"type":"Point"}
 }

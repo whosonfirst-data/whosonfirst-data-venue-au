@@ -2,13 +2,14 @@
   "id": 236764037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.94989,-27.096048,152.94989,-27.096048",
     "geom:latitude":-27.096048,
     "geom:longitude":152.94989,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 Jacaranda Plaza Jacaranda Ave",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236764037,
-    "wof:lastmodified":1449005065,
+    "wof:lastmodified":1466191908,
     "wof:name":"Liddy Kennelly",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [152.94989,-27.096048,152.94989,-27.096048],
-  "geometry": {"coordinates":[152.94989,-27.096048],"type":"Point"}
+  "bbox": [
+    152.94989,
+    -27.096048,
+    152.94989,
+    -27.096048
+],
+  "geometry": {"coordinates":[152.94989000000001,-27.096048],"type":"Point"}
 }

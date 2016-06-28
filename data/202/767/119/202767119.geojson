@@ -2,13 +2,14 @@
   "id": 202767119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.757492,-32.925312,151.757492,-32.925312",
     "geom:latitude":-32.925312,
     "geom:longitude":151.757492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Wood St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202767119,
-    "wof:lastmodified":1449060850,
+    "wof:lastmodified":1466190037,
     "wof:name":"Options Community Enterprises Ltd",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.757492,-32.925312,151.757492,-32.925312],
-  "geometry": {"coordinates":[151.757492,-32.925312],"type":"Point"}
+  "bbox": [
+    151.757492,
+    -32.925312,
+    151.757492,
+    -32.925312
+],
+  "geometry": {"coordinates":[151.75749200000001,-32.925312],"type":"Point"}
 }

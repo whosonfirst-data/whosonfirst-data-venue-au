@@ -2,13 +2,14 @@
   "id": 219858365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.185883,-33.858101,151.185883,-33.858101",
     "geom:latitude":-33.858101,
     "geom:longitude":151.185883,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219858365,
-    "wof:lastmodified":1449070737,
+    "wof:lastmodified":1466191562,
     "wof:name":"C.O.D-Cafe on Darling",
     "wof:parent_id":85776079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.185883,-33.858101,151.185883,-33.858101],
-  "geometry": {"coordinates":[151.185883,-33.858101],"type":"Point"}
+  "bbox": [
+    151.185883,
+    -33.858101,
+    151.185883,
+    -33.858101
+],
+  "geometry": {"coordinates":[151.18588299999999,-33.858101],"type":"Point"}
 }

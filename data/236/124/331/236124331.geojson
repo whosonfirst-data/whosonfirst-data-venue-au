@@ -2,13 +2,14 @@
   "id": 236124331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.911942,-37.777622,144.911942,-37.777622",
     "geom:latitude":-37.777622,
     "geom:longitude":144.911942,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Epsom & Langs Rds",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236124331,
-    "wof:lastmodified":1449004943,
+    "wof:lastmodified":1466189131,
     "wof:name":"Plowman Joanne",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dietitian"
     ]
 },
-  "bbox": [144.911942,-37.777622,144.911942,-37.777622],
-  "geometry": {"coordinates":[144.911942,-37.777622],"type":"Point"}
+  "bbox": [
+    144.911942,
+    -37.777622,
+    144.911942,
+    -37.777622
+],
+  "geometry": {"coordinates":[144.91194200000001,-37.777622],"type":"Point"}
 }

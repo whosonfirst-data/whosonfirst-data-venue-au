@@ -2,13 +2,14 @@
   "id": 236668007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.723495,-31.634418,152.723495,-31.634418",
     "geom:latitude":-31.634418,
     "geom:longitude":152.723495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 Pacific Hwy",
     "sg:city":"Kew",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236668007,
-    "wof:lastmodified":1449004049,
+    "wof:lastmodified":1466191873,
     "wof:name":"Kew Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.723495,-31.634418,152.723495,-31.634418],
-  "geometry": {"coordinates":[152.723495,-31.634418],"type":"Point"}
+  "bbox": [
+    152.723495,
+    -31.634418,
+    152.723495,
+    -31.634418
+],
+  "geometry": {"coordinates":[152.72349500000001,-31.634418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219824461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.608414,-36.151367,146.608414,-36.151367",
     "geom:latitude":-36.151367,
     "geom:longitude":146.608414,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Conness St",
     "sg:city":"Chiltern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219824461,
-    "wof:lastmodified":1449071647,
+    "wof:lastmodified":1466191541,
     "wof:name":"WAW Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.608414,-36.151367,146.608414,-36.151367],
-  "geometry": {"coordinates":[146.608414,-36.151367],"type":"Point"}
+  "bbox": [
+    146.608414,
+    -36.151367,
+    146.608414,
+    -36.151367
+],
+  "geometry": {"coordinates":[146.60841400000001,-36.151367],"type":"Point"}
 }

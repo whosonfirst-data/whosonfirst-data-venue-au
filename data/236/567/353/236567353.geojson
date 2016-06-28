@@ -2,13 +2,14 @@
   "id": 236567353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.038727,-33.958652,151.038727,-33.958652",
     "geom:latitude":-33.958652,
     "geom:longitude":151.038727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Weenamana Pl",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236567353,
-    "wof:lastmodified":1449005277,
+    "wof:lastmodified":1466191540,
     "wof:name":"Tonlee Pty Ltd",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [151.038727,-33.958652,151.038727,-33.958652],
-  "geometry": {"coordinates":[151.038727,-33.958652],"type":"Point"}
+  "bbox": [
+    151.038727,
+    -33.958652,
+    151.038727,
+    -33.958652
+],
+  "geometry": {"coordinates":[151.03872699999999,-33.958652],"type":"Point"}
 }

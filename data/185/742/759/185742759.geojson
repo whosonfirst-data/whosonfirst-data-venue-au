@@ -2,13 +2,14 @@
   "id": 185742759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.076797,-32.724312,152.076797,-32.724312",
     "geom:latitude":-32.724312,
     "geom:longitude":152.076797,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Gilchrist Rd",
     "sg:city":"Salamander Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185742759,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466189522,
     "wof:name":"Nova Stretch Limousine Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "limousine"
     ]
 },
-  "bbox": [152.076797,-32.724312,152.076797,-32.724312],
+  "bbox": [
+    152.076797,
+    -32.724312,
+    152.076797,
+    -32.724312
+],
   "geometry": {"coordinates":[152.076797,-32.724312],"type":"Point"}
 }

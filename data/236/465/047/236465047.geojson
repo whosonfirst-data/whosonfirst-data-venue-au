@@ -2,13 +2,14 @@
   "id": 236465047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.156326,-21.127256,149.156326,-21.127256",
     "geom:latitude":-21.127256,
     "geom:longitude":149.156326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hicks Rd",
     "sg:city":"Glenella",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236465047,
-    "wof:lastmodified":1449003950,
+    "wof:lastmodified":1466191283,
     "wof:name":"Francey D G & S A",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [149.156326,-21.127256,149.156326,-21.127256],
-  "geometry": {"coordinates":[149.156326,-21.127256],"type":"Point"}
+  "bbox": [
+    149.156326,
+    -21.127256,
+    149.156326,
+    -21.127256
+],
+  "geometry": {"coordinates":[149.15632600000001,-21.127256],"type":"Point"}
 }

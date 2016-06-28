@@ -2,13 +2,14 @@
   "id": 203124801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.693771,-32.543285,115.693771,-32.543285",
     "geom:latitude":-32.543285,
     "geom:longitude":115.693771,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 8 Halls Head Shopng Cntr, Peelwood Pde",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203124801,
-    "wof:lastmodified":1449026729,
+    "wof:lastmodified":1466189451,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [115.693771,-32.543285,115.693771,-32.543285],
+  "bbox": [
+    115.693771,
+    -32.543285,
+    115.693771,
+    -32.543285
+],
   "geometry": {"coordinates":[115.693771,-32.543285],"type":"Point"}
 }

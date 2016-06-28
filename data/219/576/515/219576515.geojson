@@ -2,13 +2,14 @@
   "id": 219576515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.047577,-33.91795,151.047577,-33.91795",
     "geom:latitude":-33.91795,
     "geom:longitude":151.047577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Wattle St",
     "sg:city":"Mt Lewis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219576515,
-    "wof:lastmodified":1449073119,
+    "wof:lastmodified":1466190365,
     "wof:name":"Mt Lewis Licensed Post Office",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [151.047577,-33.91795,151.047577,-33.91795],
-  "geometry": {"coordinates":[151.047577,-33.91795],"type":"Point"}
+  "bbox": [
+    151.047577,
+    -33.91795,
+    151.047577,
+    -33.91795
+],
+  "geometry": {"coordinates":[151.04757699999999,-33.91795],"type":"Point"}
 }

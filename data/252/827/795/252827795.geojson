@@ -2,13 +2,14 @@
   "id": 252827795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.588501,-32.61306,149.588501,-32.61306",
     "geom:latitude":-32.61306,
     "geom:longitude":149.588501,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 McGregor Pl",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252827795,
-    "wof:lastmodified":1449005792,
+    "wof:lastmodified":1466188367,
     "wof:name":"Milton M J & S M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [149.588501,-32.61306,149.588501,-32.61306],
-  "geometry": {"coordinates":[149.588501,-32.61306],"type":"Point"}
+  "bbox": [
+    149.588501,
+    -32.61306,
+    149.588501,
+    -32.61306
+],
+  "geometry": {"coordinates":[149.58850100000001,-32.61306],"type":"Point"}
 }

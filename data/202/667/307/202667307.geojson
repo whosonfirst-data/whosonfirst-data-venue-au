@@ -2,13 +2,14 @@
   "id": 202667307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.03952,-27.386724,153.03952,-27.386724",
     "geom:latitude":-27.386724,
     "geom:longitude":153.03952,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Corrie St & Hamilton Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202667307,
-    "wof:lastmodified":1449061741,
+    "wof:lastmodified":1466188214,
     "wof:name":"Ellis Larry Financial Planning",
     "wof:parent_id":85773851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [153.03952,-27.386724,153.03952,-27.386724],
-  "geometry": {"coordinates":[153.03952,-27.386724],"type":"Point"}
+  "bbox": [
+    153.03952,
+    -27.386724,
+    153.03952,
+    -27.386724
+],
+  "geometry": {"coordinates":[153.03952000000001,-27.386724],"type":"Point"}
 }

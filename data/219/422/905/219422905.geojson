@@ -2,13 +2,14 @@
   "id": 219422905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.852829,-33.732113,150.852829,-33.732113",
     "geom:latitude":-33.732113,
     "geom:longitude":150.852829,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Newnham St",
     "sg:city":"Dean Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219422905,
-    "wof:lastmodified":1449070633,
+    "wof:lastmodified":1466188612,
     "wof:name":"First Choice Removalz Pty Ltd",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [150.852829,-33.732113,150.852829,-33.732113],
-  "geometry": {"coordinates":[150.852829,-33.732113],"type":"Point"}
+  "bbox": [
+    150.852829,
+    -33.732113,
+    150.852829,
+    -33.732113
+],
+  "geometry": {"coordinates":[150.85282900000001,-33.732113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203075827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.254486,-41.335693,148.254486,-41.335693",
     "geom:latitude":-41.335693,
     "geom:longitude":148.254486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Falmouth St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203075827,
-    "wof:lastmodified":1449025973,
+    "wof:lastmodified":1466188695,
     "wof:name":"Nigel Vincent Painter & Decorator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [148.254486,-41.335693,148.254486,-41.335693],
-  "geometry": {"coordinates":[148.254486,-41.335693],"type":"Point"}
+  "bbox": [
+    148.254486,
+    -41.335693,
+    148.254486,
+    -41.335693
+],
+  "geometry": {"coordinates":[148.25448600000001,-41.335693],"type":"Point"}
 }

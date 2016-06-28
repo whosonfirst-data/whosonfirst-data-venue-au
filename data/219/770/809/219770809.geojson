@@ -2,13 +2,14 @@
   "id": 219770809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.170746,-33.917938,151.170746,-33.917938",
     "geom:latitude":-33.917938,
     "geom:longitude":151.170746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Princes Hwy",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219770809,
-    "wof:lastmodified":1449073997,
+    "wof:lastmodified":1466191309,
     "wof:name":"Bluegum Studio Pty Ltd",
     "wof:parent_id":85776747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [151.170746,-33.917938,151.170746,-33.917938],
-  "geometry": {"coordinates":[151.170746,-33.917938],"type":"Point"}
+  "bbox": [
+    151.170746,
+    -33.917938,
+    151.170746,
+    -33.917938
+],
+  "geometry": {"coordinates":[151.17074600000001,-33.917938],"type":"Point"}
 }

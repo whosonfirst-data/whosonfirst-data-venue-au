@@ -2,13 +2,14 @@
   "id": 236009977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.313477,-42.975979,147.313477,-42.975979",
     "geom:latitude":-42.975979,
     "geom:longitude":147.313477,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Beach Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236009977,
-    "wof:lastmodified":1449005169,
+    "wof:lastmodified":1466187021,
     "wof:name":"Raine & Horne",
     "wof:parent_id":85770383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.313477,-42.975979,147.313477,-42.975979],
-  "geometry": {"coordinates":[147.313477,-42.975979],"type":"Point"}
+  "bbox": [
+    147.313477,
+    -42.975979,
+    147.313477,
+    -42.975979
+],
+  "geometry": {"coordinates":[147.31347700000001,-42.975979],"type":"Point"}
 }

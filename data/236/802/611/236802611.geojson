@@ -2,13 +2,14 @@
   "id": 236802611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.901169,-34.480778,150.901169,-34.480778",
     "geom:latitude":-34.480778,
     "geom:longitude":150.901169,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Wentworth St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236802611,
-    "wof:lastmodified":1449004505,
+    "wof:lastmodified":1466192045,
     "wof:name":"Proclaim Press",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [150.901169,-34.480778,150.901169,-34.480778],
-  "geometry": {"coordinates":[150.901169,-34.480778],"type":"Point"}
+  "bbox": [
+    150.901169,
+    -34.480778,
+    150.901169,
+    -34.480778
+],
+  "geometry": {"coordinates":[150.90116900000001,-34.480778],"type":"Point"}
 }

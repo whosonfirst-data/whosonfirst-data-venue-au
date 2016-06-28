@@ -2,13 +2,14 @@
   "id": 203387297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854324,-37.563377,143.854324,-37.563377",
     "geom:latitude":-37.563377,
     "geom:longitude":143.854324,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Doveton St",
     "sg:city":"North, Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203387297,
-    "wof:lastmodified":1449026604,
+    "wof:lastmodified":1466189327,
     "wof:name":"RegionalOne Credit Union",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [143.854324,-37.563377,143.854324,-37.563377],
-  "geometry": {"coordinates":[143.854324,-37.563377],"type":"Point"}
+  "bbox": [
+    143.854324,
+    -37.563377,
+    143.854324,
+    -37.563377
+],
+  "geometry": {"coordinates":[143.85432399999999,-37.563377],"type":"Point"}
 }

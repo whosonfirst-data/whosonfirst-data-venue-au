@@ -2,13 +2,14 @@
   "id": 203327987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.690857,-37.585331,143.690857,-37.585331",
     "geom:latitude":-37.585331,
     "geom:longitude":143.690857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Racecourse & Haddon Rds",
     "sg:city":"Haddon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203327987,
-    "wof:lastmodified":1449025077,
+    "wof:lastmodified":1466188355,
     "wof:name":"Haddon General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.690857,-37.585331,143.690857,-37.585331],
-  "geometry": {"coordinates":[143.690857,-37.585331],"type":"Point"}
+  "bbox": [
+    143.690857,
+    -37.585331,
+    143.690857,
+    -37.585331
+],
+  "geometry": {"coordinates":[143.69085699999999,-37.585331],"type":"Point"}
 }

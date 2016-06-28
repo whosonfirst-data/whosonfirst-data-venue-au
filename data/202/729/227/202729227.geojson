@@ -2,13 +2,14 @@
   "id": 202729227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.008606,-27.329245,153.008606,-27.329245",
     "geom:latitude":-27.329245,
     "geom:longitude":153.008606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1978 Gympie Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202729227,
-    "wof:lastmodified":1449061401,
+    "wof:lastmodified":1466189384,
     "wof:name":"Guide Dogs For The Blind Association Of Queensland",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [153.008606,-27.329245,153.008606,-27.329245],
-  "geometry": {"coordinates":[153.008606,-27.329245],"type":"Point"}
+  "bbox": [
+    153.008606,
+    -27.329245,
+    153.008606,
+    -27.329245
+],
+  "geometry": {"coordinates":[153.00860599999999,-27.329245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186314711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.961937,-31.915874,115.961937,-31.915874",
     "geom:latitude":-31.915874,
     "geom:longitude":115.961937,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Great Eastern Hwy",
     "sg:city":"South Guildford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186314711,
-    "wof:lastmodified":1449052926,
+    "wof:lastmodified":1466187876,
     "wof:name":"Waters Edge Cafe Winery",
     "wof:parent_id":85777993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [115.961937,-31.915874,115.961937,-31.915874],
-  "geometry": {"coordinates":[115.961937,-31.915874],"type":"Point"}
+  "bbox": [
+    115.961937,
+    -31.915874,
+    115.961937,
+    -31.915874
+],
+  "geometry": {"coordinates":[115.96193700000001,-31.915874],"type":"Point"}
 }

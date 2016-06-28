@@ -2,13 +2,14 @@
   "id": 202998171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485382,-20.719908,139.485382,-20.719908",
     "geom:latitude":-20.719908,
     "geom:longitude":139.485382,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Flower St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202998171,
-    "wof:lastmodified":1449060950,
+    "wof:lastmodified":1466191242,
     "wof:name":"Blackwood J & Son Ltd",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "handling"
     ]
 },
-  "bbox": [139.485382,-20.719908,139.485382,-20.719908],
-  "geometry": {"coordinates":[139.485382,-20.719908],"type":"Point"}
+  "bbox": [
+    139.485382,
+    -20.719908,
+    139.485382,
+    -20.719908
+],
+  "geometry": {"coordinates":[139.48538199999999,-20.719908],"type":"Point"}
 }

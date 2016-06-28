@@ -2,13 +2,14 @@
   "id": 169753789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.113358,-27.227289,153.113358,-27.227289",
     "geom:latitude":-27.227289,
     "geom:longitude":153.113358,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl2/ 19 Creek St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169753789,
-    "wof:lastmodified":1449033070,
+    "wof:lastmodified":1466187924,
     "wof:name":"FlowBiz Pty Ltd",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [153.113358,-27.227289,153.113358,-27.227289],
-  "geometry": {"coordinates":[153.113358,-27.227289],"type":"Point"}
+  "bbox": [
+    153.113358,
+    -27.227289,
+    153.113358,
+    -27.227289
+],
+  "geometry": {"coordinates":[153.11335800000001,-27.227289],"type":"Point"}
 }

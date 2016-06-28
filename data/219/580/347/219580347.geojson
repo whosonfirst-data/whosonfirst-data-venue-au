@@ -2,13 +2,14 @@
   "id": 219580347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.037704,-33.930294,151.037704,-33.930294",
     "geom:latitude":-33.930294,
     "geom:longitude":151.037704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Arkley St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219580347,
-    "wof:lastmodified":1449072766,
+    "wof:lastmodified":1466190412,
     "wof:name":"Thomson Coolrooms",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cool"
     ]
 },
-  "bbox": [151.037704,-33.930294,151.037704,-33.930294],
-  "geometry": {"coordinates":[151.037704,-33.930294],"type":"Point"}
+  "bbox": [
+    151.037704,
+    -33.930294,
+    151.037704,
+    -33.930294
+],
+  "geometry": {"coordinates":[151.03770399999999,-33.930294],"type":"Point"}
 }

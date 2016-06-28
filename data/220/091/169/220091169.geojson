@@ -2,13 +2,14 @@
   "id": 220091169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.66066,-38.267857,144.66066,-38.267857",
     "geom:latitude":-38.267857,
     "geom:longitude":144.66066,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Hesse St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220091169,
-    "wof:lastmodified":1449074109,
+    "wof:lastmodified":1466187860,
     "wof:name":"Seagalls & Bouys Hair Studios",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.66066,-38.267857,144.66066,-38.267857],
-  "geometry": {"coordinates":[144.66066,-38.267857],"type":"Point"}
+  "bbox": [
+    144.66066,
+    -38.267857,
+    144.66066,
+    -38.267857
+],
+  "geometry": {"coordinates":[144.66066000000001,-38.267857],"type":"Point"}
 }

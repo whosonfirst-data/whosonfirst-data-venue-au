@@ -2,13 +2,14 @@
   "id": 236734899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.960968,-26.860552,152.960968,-26.860552",
     "geom:latitude":-26.860552,
     "geom:longitude":152.960968,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Beerwah Pde & Swan St",
     "sg:city":"Beerwah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236734899,
-    "wof:lastmodified":1449004746,
+    "wof:lastmodified":1466191988,
     "wof:name":"Sierra Takeaway Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [152.960968,-26.860552,152.960968,-26.860552],
-  "geometry": {"coordinates":[152.960968,-26.860552],"type":"Point"}
+  "bbox": [
+    152.960968,
+    -26.860552,
+    152.960968,
+    -26.860552
+],
+  "geometry": {"coordinates":[152.96096800000001,-26.860552],"type":"Point"}
 }

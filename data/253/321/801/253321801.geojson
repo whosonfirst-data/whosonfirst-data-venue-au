@@ -2,13 +2,14 @@
   "id": 253321801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.307541,-38.01107,145.307541,-38.01107",
     "geom:latitude":-38.01107,
     "geom:longitude":145.307541,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Prospect Hill Rd & Narre Warren Nth Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253321801,
-    "wof:lastmodified":1449062891,
+    "wof:lastmodified":1466190811,
     "wof:name":"Casey Foot Clinic",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [145.307541,-38.01107,145.307541,-38.01107],
-  "geometry": {"coordinates":[145.307541,-38.01107],"type":"Point"}
+  "bbox": [
+    145.307541,
+    -38.01107,
+    145.307541,
+    -38.01107
+],
+  "geometry": {"coordinates":[145.30754099999999,-38.01107],"type":"Point"}
 }

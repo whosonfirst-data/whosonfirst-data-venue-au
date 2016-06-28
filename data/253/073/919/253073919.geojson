@@ -2,13 +2,14 @@
   "id": 253073919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.800491,-37.773186,144.800491,-37.773186",
     "geom:latitude":-37.773186,
     "geom:longitude":144.800491,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Glindon Ave",
     "sg:city":"Ardeer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253073919,
-    "wof:lastmodified":1449063230,
+    "wof:lastmodified":1466188254,
     "wof:name":"Kalaberg Pty Ltd",
     "wof:parent_id":85776625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [144.800491,-37.773186,144.800491,-37.773186],
-  "geometry": {"coordinates":[144.800491,-37.773186],"type":"Point"}
+  "bbox": [
+    144.800491,
+    -37.773186,
+    144.800491,
+    -37.773186
+],
+  "geometry": {"coordinates":[144.80049099999999,-37.773186],"type":"Point"}
 }

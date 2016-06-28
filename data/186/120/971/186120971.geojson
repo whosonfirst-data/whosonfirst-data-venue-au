@@ -2,13 +2,14 @@
   "id": 186120971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.879654,-31.034735,152.879654,-31.034735",
     "geom:latitude":-31.034735,
     "geom:longitude":152.879654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2-4 Great North Rd",
     "sg:city":"(Cnr Pacific Hwy) Frederickton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186120971,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466189604,
     "wof:name":"MacLeay Motorcycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [152.879654,-31.034735,152.879654,-31.034735],
-  "geometry": {"coordinates":[152.879654,-31.034735],"type":"Point"}
+  "bbox": [
+    152.879654,
+    -31.034735,
+    152.879654,
+    -31.034735
+],
+  "geometry": {"coordinates":[152.87965399999999,-31.034735],"type":"Point"}
 }

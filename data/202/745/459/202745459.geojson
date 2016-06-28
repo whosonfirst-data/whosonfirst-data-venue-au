@@ -2,13 +2,14 @@
   "id": 202745459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.864853,-32.054493,115.864853,-32.054493",
     "geom:latitude":-32.054493,
     "geom:longitude":115.864853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ewing Ave",
     "sg:city":"Bullcreek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202745459,
-    "wof:lastmodified":1449062532,
+    "wof:lastmodified":1466189630,
     "wof:name":"All Saints' College",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [115.864853,-32.054493,115.864853,-32.054493],
+  "bbox": [
+    115.864853,
+    -32.054493,
+    115.864853,
+    -32.054493
+],
   "geometry": {"coordinates":[115.864853,-32.054493],"type":"Point"}
 }

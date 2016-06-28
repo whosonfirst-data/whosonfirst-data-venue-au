@@ -2,13 +2,14 @@
   "id": 236291433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.739067,-32.286041,115.739067,-32.286041",
     "geom:latitude":-32.286041,
     "geom:longitude":115.739067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Swinstone St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236291433,
-    "wof:lastmodified":1449002502,
+    "wof:lastmodified":1466190440,
     "wof:name":"Catholic Church",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [115.739067,-32.286041,115.739067,-32.286041],
-  "geometry": {"coordinates":[115.739067,-32.286041],"type":"Point"}
+  "bbox": [
+    115.739067,
+    -32.286041,
+    115.739067,
+    -32.286041
+],
+  "geometry": {"coordinates":[115.73906700000001,-32.286041],"type":"Point"}
 }

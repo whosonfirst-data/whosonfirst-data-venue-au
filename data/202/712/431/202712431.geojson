@@ -2,13 +2,14 @@
   "id": 202712431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.05629,-27.370592,153.05629,-27.370592",
     "geom:latitude":-27.370592,
     "geom:longitude":153.05629,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Bilsen Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202712431,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466189071,
     "wof:name":"K & R Plumbing Supplies",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [153.05629,-27.370592,153.05629,-27.370592],
-  "geometry": {"coordinates":[153.05629,-27.370592],"type":"Point"}
+  "bbox": [
+    153.05629,
+    -27.370592,
+    153.05629,
+    -27.370592
+],
+  "geometry": {"coordinates":[153.05628999999999,-27.370592],"type":"Point"}
 }

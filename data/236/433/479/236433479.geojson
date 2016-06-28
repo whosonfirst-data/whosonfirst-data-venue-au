@@ -2,13 +2,14 @@
   "id": 236433479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.184982,-21.143002,149.184982,-21.143002",
     "geom:latitude":-21.143002,
     "geom:longitude":149.184982,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34a Gordon St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236433479,
-    "wof:lastmodified":1449001964,
+    "wof:lastmodified":1466191248,
     "wof:name":"Dave Donnelly Pty. Ltd.",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [149.184982,-21.143002,149.184982,-21.143002],
-  "geometry": {"coordinates":[149.184982,-21.143002],"type":"Point"}
+  "bbox": [
+    149.184982,
+    -21.143002,
+    149.184982,
+    -21.143002
+],
+  "geometry": {"coordinates":[149.18498199999999,-21.143002],"type":"Point"}
 }

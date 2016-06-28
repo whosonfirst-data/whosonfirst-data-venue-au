@@ -2,13 +2,14 @@
   "id": 219424101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.854935,-33.74456,150.854935,-33.74456",
     "geom:latitude":-33.74456,
     "geom:longitude":150.854935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Winten St",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219424101,
-    "wof:lastmodified":1449073689,
+    "wof:lastmodified":1466188632,
     "wof:name":"Balaclava Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [150.854935,-33.74456,150.854935,-33.74456],
-  "geometry": {"coordinates":[150.854935,-33.74456],"type":"Point"}
+  "bbox": [
+    150.854935,
+    -33.74456,
+    150.854935,
+    -33.74456
+],
+  "geometry": {"coordinates":[150.85493500000001,-33.74456],"type":"Point"}
 }

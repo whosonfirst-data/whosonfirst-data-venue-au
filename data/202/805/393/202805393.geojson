@@ -2,13 +2,14 @@
   "id": 202805393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.761124,-32.927139,151.761124,-32.927139",
     "geom:latitude":-32.927139,
     "geom:longitude":151.761124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 National Park St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202805393,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466190222,
     "wof:name":"Newcastle Rugby League Ltd",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rugby"
     ]
 },
-  "bbox": [151.761124,-32.927139,151.761124,-32.927139],
+  "bbox": [
+    151.761124,
+    -32.927139,
+    151.761124,
+    -32.927139
+],
   "geometry": {"coordinates":[151.761124,-32.927139],"type":"Point"}
 }

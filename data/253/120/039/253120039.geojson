@@ -2,13 +2,14 @@
   "id": 253120039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.815704,-37.805386,144.815704,-37.805386",
     "geom:latitude":-37.805386,
     "geom:longitude":144.815704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U1/ 680 Somerville Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253120039,
-    "wof:lastmodified":1449065352,
+    "wof:lastmodified":1466189144,
     "wof:name":"GMH PACKAGING",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [144.815704,-37.805386,144.815704,-37.805386],
-  "geometry": {"coordinates":[144.815704,-37.805386],"type":"Point"}
+  "bbox": [
+    144.815704,
+    -37.805386,
+    144.815704,
+    -37.805386
+],
+  "geometry": {"coordinates":[144.81570400000001,-37.805386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236023985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.27449,-43.005032,147.27449,-43.005032",
     "geom:latitude":-43.005032,
     "geom:longitude":147.27449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 Channel Hwy",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236023985,
-    "wof:lastmodified":1449004860,
+    "wof:lastmodified":1466187199,
     "wof:name":"North West Bay Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [147.27449,-43.005032,147.27449,-43.005032],
-  "geometry": {"coordinates":[147.27449,-43.005032],"type":"Point"}
+  "bbox": [
+    147.27449,
+    -43.005032,
+    147.27449,
+    -43.005032
+],
+  "geometry": {"coordinates":[147.27448999999999,-43.005032],"type":"Point"}
 }

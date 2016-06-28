@@ -2,13 +2,14 @@
   "id": 252724345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.631607,-33.360352,115.631607,-33.360352",
     "geom:latitude":-33.360352,
     "geom:longitude":115.631607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Norrie St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252724345,
-    "wof:lastmodified":1449006480,
+    "wof:lastmodified":1466187155,
     "wof:name":"Bunbury Bobcats",
     "wof:parent_id":85780047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.631607,-33.360352,115.631607,-33.360352],
+  "bbox": [
+    115.631607,
+    -33.360352,
+    115.631607,
+    -33.360352
+],
   "geometry": {"coordinates":[115.631607,-33.360352],"type":"Point"}
 }

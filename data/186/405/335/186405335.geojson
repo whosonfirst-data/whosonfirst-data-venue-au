@@ -2,13 +2,14 @@
   "id": 186405335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.806107,-19.248652,146.806107,-19.248652",
     "geom:latitude":-19.248652,
     "geom:longitude":146.806107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Townsville Sports House, 3-9 Redpath St",
     "sg:city":"North Ward",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186405335,
-    "wof:lastmodified":1449052797,
+    "wof:lastmodified":1466189397,
     "wof:name":"Sporting Wheelies and Disabled Association",
     "wof:parent_id":85779935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "organisation"
     ]
 },
-  "bbox": [146.806107,-19.248652,146.806107,-19.248652],
+  "bbox": [
+    146.806107,
+    -19.248652,
+    146.806107,
+    -19.248652
+],
   "geometry": {"coordinates":[146.806107,-19.248652],"type":"Point"}
 }

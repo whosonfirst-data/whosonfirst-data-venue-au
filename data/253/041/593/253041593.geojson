@@ -2,13 +2,14 @@
   "id": 253041593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.812943,-37.821384,144.812943,-37.821384",
     "geom:latitude":-37.821384,
     "geom:longitude":144.812943,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Pipe Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253041593,
-    "wof:lastmodified":1449063897,
+    "wof:lastmodified":1466187753,
     "wof:name":"Dibb Warehousing",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [144.812943,-37.821384,144.812943,-37.821384],
-  "geometry": {"coordinates":[144.812943,-37.821384],"type":"Point"}
+  "bbox": [
+    144.812943,
+    -37.821384,
+    144.812943,
+    -37.821384
+],
+  "geometry": {"coordinates":[144.81294299999999,-37.821384],"type":"Point"}
 }

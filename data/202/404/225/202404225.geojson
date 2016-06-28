@@ -2,13 +2,14 @@
   "id": 202404225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935471,-37.826809,144.935471,-37.826809",
     "geom:latitude":-37.826809,
     "geom:longitude":144.935471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Bertie St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202404225,
-    "wof:lastmodified":1449061771,
+    "wof:lastmodified":1466187753,
     "wof:name":"McQuay Australia Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [144.935471,-37.826809,144.935471,-37.826809],
-  "geometry": {"coordinates":[144.935471,-37.826809],"type":"Point"}
+  "bbox": [
+    144.935471,
+    -37.826809,
+    144.935471,
+    -37.826809
+],
+  "geometry": {"coordinates":[144.93547100000001,-37.826809],"type":"Point"}
 }

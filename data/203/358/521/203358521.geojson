@@ -2,13 +2,14 @@
   "id": 203358521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.847794,-37.55801,143.847794,-37.55801",
     "geom:latitude":-37.55801,
     "geom:longitude":143.847794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"St John Of God Hospital 101 Drummond St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203358521,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1466188825,
     "wof:name":"Lake Imaging",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [143.847794,-37.55801,143.847794,-37.55801],
-  "geometry": {"coordinates":[143.847794,-37.55801],"type":"Point"}
+  "bbox": [
+    143.847794,
+    -37.55801,
+    143.847794,
+    -37.55801
+],
+  "geometry": {"coordinates":[143.84779399999999,-37.55801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235985789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.746368,-36.954372,140.746368,-36.954372",
     "geom:latitude":-36.954372,
     "geom:longitude":140.746368,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandstone Ave",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235985789,
-    "wof:lastmodified":1449008414,
+    "wof:lastmodified":1466187550,
     "wof:name":"Senior Citizens Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [140.746368,-36.954372,140.746368,-36.954372],
-  "geometry": {"coordinates":[140.746368,-36.954372],"type":"Point"}
+  "bbox": [
+    140.746368,
+    -36.954372,
+    140.746368,
+    -36.954372
+],
+  "geometry": {"coordinates":[140.74636799999999,-36.954372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236761959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.950378,-27.095266,152.950378,-27.095266",
     "geom:latitude":-27.095266,
     "geom:longitude":152.950378,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U9/ 5 Poinciana St",
     "sg:city":"Caboolture South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236761959,
-    "wof:lastmodified":1449004301,
+    "wof:lastmodified":1466191907,
     "wof:name":"Caboolture Building Approvals",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surveyor"
     ]
 },
-  "bbox": [152.950378,-27.095266,152.950378,-27.095266],
+  "bbox": [
+    152.950378,
+    -27.095266,
+    152.950378,
+    -27.095266
+],
   "geometry": {"coordinates":[152.950378,-27.095266],"type":"Point"}
 }

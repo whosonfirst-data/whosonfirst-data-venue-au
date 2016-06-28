@@ -2,13 +2,14 @@
   "id": 185787613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.347214,-37.686989,145.347214,-37.686989",
     "geom:latitude":-37.686989,
     "geom:longitude":145.347214,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Victoria Rd",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185787613,
-    "wof:lastmodified":1449007348,
+    "wof:lastmodified":1466189837,
     "wof:name":"Eclipse Equine Chauffeurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transport"
     ]
 },
-  "bbox": [145.347214,-37.686989,145.347214,-37.686989],
-  "geometry": {"coordinates":[145.347214,-37.686989],"type":"Point"}
+  "bbox": [
+    145.347214,
+    -37.686989,
+    145.347214,
+    -37.686989
+],
+  "geometry": {"coordinates":[145.34721400000001,-37.686989],"type":"Point"}
 }

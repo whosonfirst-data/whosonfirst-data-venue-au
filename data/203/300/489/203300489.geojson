@@ -2,13 +2,14 @@
   "id": 203300489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.564163,-32.630302,147.564163,-32.630302",
     "geom:latitude":-32.630302,
     "geom:longitude":147.564163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cardigan St",
     "sg:city":"Tullamore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203300489,
-    "wof:lastmodified":1449026021,
+    "wof:lastmodified":1466187952,
     "wof:name":"Tullamore Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.564163,-32.630302,147.564163,-32.630302],
-  "geometry": {"coordinates":[147.564163,-32.630302],"type":"Point"}
+  "bbox": [
+    147.564163,
+    -32.630302,
+    147.564163,
+    -32.630302
+],
+  "geometry": {"coordinates":[147.56416300000001,-32.630302],"type":"Point"}
 }

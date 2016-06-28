@@ -2,13 +2,14 @@
   "id": 219405347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.992126,-27.967649,152.992126,-27.967649",
     "geom:latitude":-27.967649,
     "geom:longitude":152.992126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Enterprise Drv",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219405347,
-    "wof:lastmodified":1449073627,
+    "wof:lastmodified":1466188412,
     "wof:name":"Rabar Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stock"
     ]
 },
-  "bbox": [152.992126,-27.967649,152.992126,-27.967649],
-  "geometry": {"coordinates":[152.992126,-27.967649],"type":"Point"}
+  "bbox": [
+    152.992126,
+    -27.967649,
+    152.992126,
+    -27.967649
+],
+  "geometry": {"coordinates":[152.99212600000001,-27.967649],"type":"Point"}
 }

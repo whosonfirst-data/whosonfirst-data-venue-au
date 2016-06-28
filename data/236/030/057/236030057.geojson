@@ -2,13 +2,14 @@
   "id": 236030057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.296341,-43.000469,147.296341,-43.000469",
     "geom:latitude":-43.000469,
     "geom:longitude":147.296341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Ascot Drv",
     "sg:city":"Huntingfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236030057,
-    "wof:lastmodified":1449002741,
+    "wof:lastmodified":1466187250,
     "wof:name":"M.R. Nichols Builders Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [147.296341,-43.000469,147.296341,-43.000469],
-  "geometry": {"coordinates":[147.296341,-43.000469],"type":"Point"}
+  "bbox": [
+    147.296341,
+    -43.000469,
+    147.296341,
+    -43.000469
+],
+  "geometry": {"coordinates":[147.29634100000001,-43.000469],"type":"Point"}
 }

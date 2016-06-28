@@ -2,13 +2,14 @@
   "id": 202791763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.739136,-32.925159,151.739136,-32.925159",
     "geom:latitude":-32.925159,
     "geom:longitude":151.739136,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Denison St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202791763,
-    "wof:lastmodified":1449062078,
+    "wof:lastmodified":1466190134,
     "wof:name":"Hamilton Chrome",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electroplating"
     ]
 },
-  "bbox": [151.739136,-32.925159,151.739136,-32.925159],
+  "bbox": [
+    151.739136,
+    -32.925159,
+    151.739136,
+    -32.925159
+],
   "geometry": {"coordinates":[151.739136,-32.925159],"type":"Point"}
 }

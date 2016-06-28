@@ -2,13 +2,14 @@
   "id": 186385699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.855316,-19.347849,146.855316,-19.347849",
     "geom:latitude":-19.347849,
     "geom:longitude":146.855316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Southwood Rd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186385699,
-    "wof:lastmodified":1449051962,
+    "wof:lastmodified":1466189102,
     "wof:name":"Samweld Steel Fabrications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [146.855316,-19.347849,146.855316,-19.347849],
-  "geometry": {"coordinates":[146.855316,-19.347849],"type":"Point"}
+  "bbox": [
+    146.855316,
+    -19.347849,
+    146.855316,
+    -19.347849
+],
+  "geometry": {"coordinates":[146.85531599999999,-19.347849],"type":"Point"}
 }

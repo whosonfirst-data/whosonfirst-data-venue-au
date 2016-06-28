@@ -2,13 +2,14 @@
   "id": 186215861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.922287,-31.455486,152.922287,-31.455486",
     "geom:latitude":-31.455486,
     "geom:longitude":152.922287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Merinda Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186215861,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466187180,
     "wof:name":"Hodge D A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.922287,-31.455486,152.922287,-31.455486],
-  "geometry": {"coordinates":[152.922287,-31.455486],"type":"Point"}
+  "bbox": [
+    152.922287,
+    -31.455486,
+    152.922287,
+    -31.455486
+],
+  "geometry": {"coordinates":[152.92228700000001,-31.455486],"type":"Point"}
 }

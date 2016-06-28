@@ -2,13 +2,14 @@
   "id": 253222765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952805,-27.560787,151.952805,-27.560787",
     "geom:latitude":-27.560787,
     "geom:longitude":151.952805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Margaret St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253222765,
-    "wof:lastmodified":1449064816,
+    "wof:lastmodified":1466190382,
     "wof:name":"Kumfs",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [151.952805,-27.560787,151.952805,-27.560787],
-  "geometry": {"coordinates":[151.952805,-27.560787],"type":"Point"}
+  "bbox": [
+    151.952805,
+    -27.560787,
+    151.952805,
+    -27.560787
+],
+  "geometry": {"coordinates":[151.95280500000001,-27.560787],"type":"Point"}
 }

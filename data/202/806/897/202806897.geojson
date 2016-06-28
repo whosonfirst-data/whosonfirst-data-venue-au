@@ -2,13 +2,14 @@
   "id": 202806897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.706085,-32.930424,151.706085,-32.930424",
     "geom:latitude":-32.930424,
     "geom:longitude":151.706085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Aldyth St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202806897,
-    "wof:lastmodified":1449060103,
+    "wof:lastmodified":1466190342,
     "wof:name":"Alton Bowen",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stratum"
     ]
 },
-  "bbox": [151.706085,-32.930424,151.706085,-32.930424],
+  "bbox": [
+    151.706085,
+    -32.930424,
+    151.706085,
+    -32.930424
+],
   "geometry": {"coordinates":[151.706085,-32.930424],"type":"Point"}
 }

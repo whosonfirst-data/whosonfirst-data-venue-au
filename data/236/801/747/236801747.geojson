@@ -2,13 +2,14 @@
   "id": 236801747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.911987,-34.48912,150.911987,-34.48912",
     "geom:latitude":-34.48912,
     "geom:longitude":150.911987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Gloucester St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236801747,
-    "wof:lastmodified":1449004547,
+    "wof:lastmodified":1466192045,
     "wof:name":"Museum Breakwater Battery",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.911987,-34.48912,150.911987,-34.48912],
-  "geometry": {"coordinates":[150.911987,-34.48912],"type":"Point"}
+  "bbox": [
+    150.911987,
+    -34.48912,
+    150.911987,
+    -34.48912
+],
+  "geometry": {"coordinates":[150.91198700000001,-34.48912],"type":"Point"}
 }

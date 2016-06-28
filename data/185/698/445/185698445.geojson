@@ -2,13 +2,14 @@
   "id": 185698445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.214233,-21.423603,149.214233,-21.423603",
     "geom:latitude":-21.423603,
     "geom:longitude":149.214233,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Central St",
     "sg:city":"Sarina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185698445,
-    "wof:lastmodified":1449008111,
+    "wof:lastmodified":1466189105,
     "wof:name":"Grand Central Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [149.214233,-21.423603,149.214233,-21.423603],
-  "geometry": {"coordinates":[149.214233,-21.423603],"type":"Point"}
+  "bbox": [
+    149.214233,
+    -21.423603,
+    149.214233,
+    -21.423603
+],
+  "geometry": {"coordinates":[149.21423300000001,-21.423603],"type":"Point"}
 }

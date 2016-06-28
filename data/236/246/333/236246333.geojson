@@ -2,13 +2,14 @@
   "id": 236246333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.83316,-38.119164,145.83316,-38.119164",
     "geom:latitude":-38.119164,
     "geom:longitude":145.83316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Weerong Rd",
     "sg:city":"Drouin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236246333,
-    "wof:lastmodified":1449001845,
+    "wof:lastmodified":1466190204,
     "wof:name":"Drouin Metal Transfer Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.83316,-38.119164,145.83316,-38.119164],
-  "geometry": {"coordinates":[145.83316,-38.119164],"type":"Point"}
+  "bbox": [
+    145.83316,
+    -38.119164,
+    145.83316,
+    -38.119164
+],
+  "geometry": {"coordinates":[145.83315999999999,-38.119164],"type":"Point"}
 }

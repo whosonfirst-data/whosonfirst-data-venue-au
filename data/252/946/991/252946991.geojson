@@ -2,13 +2,14 @@
   "id": 252946991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.093643,-26.547958,153.093643,-26.547958",
     "geom:latitude":-26.547958,
     "geom:longitude":153.093643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Neurum Rd",
     "sg:city":"Yaroomba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252946991,
-    "wof:lastmodified":1449006387,
+    "wof:lastmodified":1466189390,
     "wof:name":"Steve Wildman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [153.093643,-26.547958,153.093643,-26.547958],
-  "geometry": {"coordinates":[153.093643,-26.547958],"type":"Point"}
+  "bbox": [
+    153.093643,
+    -26.547958,
+    153.093643,
+    -26.547958
+],
+  "geometry": {"coordinates":[153.09364299999999,-26.547958],"type":"Point"}
 }

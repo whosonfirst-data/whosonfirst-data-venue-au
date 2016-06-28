@@ -2,13 +2,14 @@
   "id": 236935235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.565063,-34.988411,138.565063,-34.988411",
     "geom:latitude":-34.988411,
     "geom:longitude":138.565063,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 West St",
     "sg:city":"Ascot Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236935235,
-    "wof:lastmodified":1449004539,
+    "wof:lastmodified":1466192202,
     "wof:name":"Gigi",
     "wof:parent_id":85777523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [138.565063,-34.988411,138.565063,-34.988411],
-  "geometry": {"coordinates":[138.565063,-34.988411],"type":"Point"}
+  "bbox": [
+    138.565063,
+    -34.988411,
+    138.565063,
+    -34.988411
+],
+  "geometry": {"coordinates":[138.56506300000001,-34.988411],"type":"Point"}
 }

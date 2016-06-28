@@ -2,13 +2,14 @@
   "id": 202702243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038177,-27.35861,153.038177,-27.35861",
     "geom:latitude":-27.35861,
     "geom:longitude":153.038177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Handford Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202702243,
-    "wof:lastmodified":1449061383,
+    "wof:lastmodified":1466188869,
     "wof:name":"Zillmere Cellars",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [153.038177,-27.35861,153.038177,-27.35861],
-  "geometry": {"coordinates":[153.038177,-27.35861],"type":"Point"}
+  "bbox": [
+    153.038177,
+    -27.35861,
+    153.038177,
+    -27.35861
+],
+  "geometry": {"coordinates":[153.03817699999999,-27.35861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236528313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.876404,-23.578375,148.876404,-23.578375",
     "geom:latitude":-23.578375,
     "geom:longitude":148.876404,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr McKenzie & Wilga Sts",
     "sg:city":"Blackwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236528313,
-    "wof:lastmodified":1449002343,
+    "wof:lastmodified":1466191433,
     "wof:name":"Blackwater Town & Country Laundrette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.876404,-23.578375,148.876404,-23.578375],
-  "geometry": {"coordinates":[148.876404,-23.578375],"type":"Point"}
+  "bbox": [
+    148.876404,
+    -23.578375,
+    148.876404,
+    -23.578375
+],
+  "geometry": {"coordinates":[148.87640400000001,-23.578375],"type":"Point"}
 }

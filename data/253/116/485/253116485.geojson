@@ -2,13 +2,14 @@
   "id": 253116485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.839386,-37.799225,144.839386,-37.799225",
     "geom:latitude":-37.799225,
     "geom:longitude":144.839386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Market Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253116485,
-    "wof:lastmodified":1449063251,
+    "wof:lastmodified":1466189068,
     "wof:name":"Gazza's Auto Wreckers & Repairs",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.839386,-37.799225,144.839386,-37.799225],
-  "geometry": {"coordinates":[144.839386,-37.799225],"type":"Point"}
+  "bbox": [
+    144.839386,
+    -37.799225,
+    144.839386,
+    -37.799225
+],
+  "geometry": {"coordinates":[144.83938599999999,-37.799225],"type":"Point"}
 }

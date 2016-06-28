@@ -2,13 +2,14 @@
   "id": 203338525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.833649,-37.576023,143.833649,-37.576023",
     "geom:latitude":-37.576023,
     "geom:longitude":143.833649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Bell St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203338525,
-    "wof:lastmodified":1449025576,
+    "wof:lastmodified":1466188478,
     "wof:name":"040 Painter",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.833649,-37.576023,143.833649,-37.576023],
-  "geometry": {"coordinates":[143.833649,-37.576023],"type":"Point"}
+  "bbox": [
+    143.833649,
+    -37.576023,
+    143.833649,
+    -37.576023
+],
+  "geometry": {"coordinates":[143.83364900000001,-37.576023],"type":"Point"}
 }

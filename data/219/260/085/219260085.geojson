@@ -2,13 +2,14 @@
   "id": 219260085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.261292,-38.174503,146.261292,-38.174503",
     "geom:latitude":-38.174503,
     "geom:longitude":146.261292,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 11 Purvis Plaza Moore St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219260085,
-    "wof:lastmodified":1449070974,
+    "wof:lastmodified":1466187201,
     "wof:name":"Steve's Moe Bakehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [146.261292,-38.174503,146.261292,-38.174503],
+  "bbox": [
+    146.261292,
+    -38.174503,
+    146.261292,
+    -38.174503
+],
   "geometry": {"coordinates":[146.261292,-38.174503],"type":"Point"}
 }

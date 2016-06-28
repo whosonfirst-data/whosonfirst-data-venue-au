@@ -2,13 +2,14 @@
   "id": 253195423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.888275,-27.559107,151.888275,-27.559107",
     "geom:latitude":-27.559107,
     "geom:longitude":151.888275,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 6",
     "sg:city":"Heritage Plaza Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253195423,
-    "wof:lastmodified":1449064783,
+    "wof:lastmodified":1466190050,
     "wof:name":"PX Webdesign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [151.888275,-27.559107,151.888275,-27.559107],
-  "geometry": {"coordinates":[151.888275,-27.559107],"type":"Point"}
+  "bbox": [
+    151.888275,
+    -27.559107,
+    151.888275,
+    -27.559107
+],
+  "geometry": {"coordinates":[151.88827499999999,-27.559107],"type":"Point"}
 }

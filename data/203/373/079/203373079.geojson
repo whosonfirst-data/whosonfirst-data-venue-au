@@ -2,13 +2,14 @@
   "id": 203373079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.845734,-37.576153,143.845734,-37.576153",
     "geom:latitude":-37.576153,
     "geom:longitude":143.845734,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Darling St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203373079,
-    "wof:lastmodified":1449025910,
+    "wof:lastmodified":1466189078,
     "wof:name":"GMK Cleaning Services",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.845734,-37.576153,143.845734,-37.576153],
-  "geometry": {"coordinates":[143.845734,-37.576153],"type":"Point"}
+  "bbox": [
+    143.845734,
+    -37.576153,
+    143.845734,
+    -37.576153
+],
+  "geometry": {"coordinates":[143.84573399999999,-37.576153],"type":"Point"}
 }

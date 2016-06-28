@@ -2,13 +2,14 @@
   "id": 202949439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.114349,-30.29562,153.114349,-30.29562",
     "geom:latitude":-30.29562,
     "geom:longitude":153.114349,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bowl Arcade, 74 Grafton St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202949439,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466190908,
     "wof:name":"Coffs Harbour Pawnbrokers",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [153.114349,-30.29562,153.114349,-30.29562],
+  "bbox": [
+    153.114349,
+    -30.29562,
+    153.114349,
+    -30.29562
+],
   "geometry": {"coordinates":[153.114349,-30.29562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236028365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.266144,-43.026897,147.266144,-43.026897",
     "geom:latitude":-43.026897,
     "geom:longitude":147.266144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Wanda-Nea Pl",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236028365,
-    "wof:lastmodified":1449003435,
+    "wof:lastmodified":1466187235,
     "wof:name":"De Smit Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [147.266144,-43.026897,147.266144,-43.026897],
+  "bbox": [
+    147.266144,
+    -43.026897,
+    147.266144,
+    -43.026897
+],
   "geometry": {"coordinates":[147.266144,-43.026897],"type":"Point"}
 }

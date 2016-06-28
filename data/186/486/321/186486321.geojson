@@ -2,13 +2,14 @@
   "id": 186486321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.765182,-19.288883,146.765182,-19.288883",
     "geom:latitude":-19.288883,
     "geom:longitude":146.765182,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Fulham Rd & Nathan St",
     "sg:city":"Vincent",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186486321,
-    "wof:lastmodified":1449051875,
+    "wof:lastmodified":1466190430,
     "wof:name":"Skinworx",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.765182,-19.288883,146.765182,-19.288883],
-  "geometry": {"coordinates":[146.765182,-19.288883],"type":"Point"}
+  "bbox": [
+    146.765182,
+    -19.288883,
+    146.765182,
+    -19.288883
+],
+  "geometry": {"coordinates":[146.76518200000001,-19.288883],"type":"Point"}
 }

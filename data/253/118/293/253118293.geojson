@@ -2,13 +2,14 @@
   "id": 253118293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.826675,-37.801094,144.826675,-37.801094",
     "geom:latitude":-37.801094,
     "geom:longitude":144.826675,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Warmington Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253118293,
-    "wof:lastmodified":1449065202,
+    "wof:lastmodified":1466189108,
     "wof:name":"Carl's Leadlights",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leadlights"
     ]
 },
-  "bbox": [144.826675,-37.801094,144.826675,-37.801094],
-  "geometry": {"coordinates":[144.826675,-37.801094],"type":"Point"}
+  "bbox": [
+    144.826675,
+    -37.801094,
+    144.826675,
+    -37.801094
+],
+  "geometry": {"coordinates":[144.82667499999999,-37.801094],"type":"Point"}
 }

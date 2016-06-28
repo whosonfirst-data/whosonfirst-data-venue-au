@@ -2,13 +2,14 @@
   "id": 219827993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.815742,-31.976641,115.815742,-31.976641",
     "geom:latitude":-31.976641,
     "geom:longitude":115.815742,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Stirling Hwy",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219827993,
-    "wof:lastmodified":1449071655,
+    "wof:lastmodified":1466191546,
     "wof:name":"Broadway Veterinary Clinic",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [115.815742,-31.976641,115.815742,-31.976641],
+  "bbox": [
+    115.815742,
+    -31.976641,
+    115.815742,
+    -31.976641
+],
   "geometry": {"coordinates":[115.815742,-31.976641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185644975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.885948,-32.042461,115.885948,-32.042461",
     "geom:latitude":-32.042461,
     "geom:longitude":115.885948,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 24 Yampi Way",
     "sg:city":"Willetton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185644975,
-    "wof:lastmodified":1449007525,
+    "wof:lastmodified":1466188170,
     "wof:name":"Applied Resolution Technologies",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [115.885948,-32.042461,115.885948,-32.042461],
+  "bbox": [
+    115.885948,
+    -32.042461,
+    115.885948,
+    -32.042461
+],
   "geometry": {"coordinates":[115.885948,-32.042461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169828405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.858353,-31.993742,115.858353,-31.993742",
     "geom:latitude":-31.993742,
     "geom:longitude":115.858353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste 47 Como Corporate Cntr+ Cnr Preston & Mary Sts",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169828405,
-    "wof:lastmodified":1449034356,
+    "wof:lastmodified":1466189138,
     "wof:name":"Travelscene",
     "wof:parent_id":85775647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.858353,-31.993742,115.858353,-31.993742],
-  "geometry": {"coordinates":[115.858353,-31.993742],"type":"Point"}
+  "bbox": [
+    115.858353,
+    -31.993742,
+    115.858353,
+    -31.993742
+],
+  "geometry": {"coordinates":[115.85835299999999,-31.993742],"type":"Point"}
 }

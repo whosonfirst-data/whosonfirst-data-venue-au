@@ -2,13 +2,14 @@
   "id": 236803433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.900955,-34.480568,150.900955,-34.480568",
     "geom:latitude":-34.480568,
     "geom:longitude":150.900955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Wentworth St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236803433,
-    "wof:lastmodified":1449005292,
+    "wof:lastmodified":1466191950,
     "wof:name":"Port Kembla Food Master",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [150.900955,-34.480568,150.900955,-34.480568],
-  "geometry": {"coordinates":[150.900955,-34.480568],"type":"Point"}
+  "bbox": [
+    150.900955,
+    -34.480568,
+    150.900955,
+    -34.480568
+],
+  "geometry": {"coordinates":[150.90095500000001,-34.480568],"type":"Point"}
 }

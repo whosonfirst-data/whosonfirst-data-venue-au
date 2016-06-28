@@ -2,13 +2,14 @@
   "id": 185863037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.840637,-25.281591,152.840637,-25.281591",
     "geom:latitude":-25.281591,
     "geom:longitude":152.840637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2B St Johns Gardens 10-12 Torquay Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185863037,
-    "wof:lastmodified":1449007704,
+    "wof:lastmodified":1466187489,
     "wof:name":"Cassidy Mark",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.840637,-25.281591,152.840637,-25.281591],
-  "geometry": {"coordinates":[152.840637,-25.281591],"type":"Point"}
+  "bbox": [
+    152.840637,
+    -25.281591,
+    152.840637,
+    -25.281591
+],
+  "geometry": {"coordinates":[152.84063699999999,-25.281591],"type":"Point"}
 }

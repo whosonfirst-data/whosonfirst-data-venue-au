@@ -2,13 +2,14 @@
   "id": 186436813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.18074,-33.897404,151.18074,-33.897404",
     "geom:latitude":-33.897404,
     "geom:longitude":151.18074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Newtown Business Centre 1 Erskineville Rd",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186436813,
-    "wof:lastmodified":1449052762,
+    "wof:lastmodified":1466189941,
     "wof:name":"Active Physiotherapy",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.18074,-33.897404,151.18074,-33.897404],
-  "geometry": {"coordinates":[151.18074,-33.897404],"type":"Point"}
+  "bbox": [
+    151.18074,
+    -33.897404,
+    151.18074,
+    -33.897404
+],
+  "geometry": {"coordinates":[151.18073999999999,-33.897404],"type":"Point"}
 }

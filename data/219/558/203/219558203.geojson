@@ -2,13 +2,14 @@
   "id": 219558203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.040527,-33.919781,151.040527,-33.919781",
     "geom:latitude":-33.919781,
     "geom:longitude":151.040527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Griffiths Ave",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219558203,
-    "wof:lastmodified":1449071363,
+    "wof:lastmodified":1466190485,
     "wof:name":"KGB Electronics",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.040527,-33.919781,151.040527,-33.919781],
+  "bbox": [
+    151.040527,
+    -33.919781,
+    151.040527,
+    -33.919781
+],
   "geometry": {"coordinates":[151.040527,-33.919781],"type":"Point"}
 }

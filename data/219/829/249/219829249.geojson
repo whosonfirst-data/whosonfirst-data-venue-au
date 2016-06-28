@@ -2,13 +2,14 @@
   "id": 219829249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.809807,-31.977905,115.809807,-31.977905",
     "geom:latitude":-31.977905,
     "geom:longitude":115.809807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Stirling Hwy",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219829249,
-    "wof:lastmodified":1449073672,
+    "wof:lastmodified":1466191444,
     "wof:name":"H & R Block",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "taxation"
     ]
 },
-  "bbox": [115.809807,-31.977905,115.809807,-31.977905],
-  "geometry": {"coordinates":[115.809807,-31.977905],"type":"Point"}
+  "bbox": [
+    115.809807,
+    -31.977905,
+    115.809807,
+    -31.977905
+],
+  "geometry": {"coordinates":[115.80980700000001,-31.977905],"type":"Point"}
 }

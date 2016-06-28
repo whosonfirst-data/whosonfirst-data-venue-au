@@ -2,13 +2,14 @@
   "id": 202542173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.868332,-33.094612,148.868332,-33.094612",
     "geom:latitude":-33.094612,
     "geom:longitude":148.868332,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Gidley St",
     "sg:city":"Molong",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202542173,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466189885,
     "wof:name":"Jayes Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.868332,-33.094612,148.868332,-33.094612],
-  "geometry": {"coordinates":[148.868332,-33.094612],"type":"Point"}
+  "bbox": [
+    148.868332,
+    -33.094612,
+    148.868332,
+    -33.094612
+],
+  "geometry": {"coordinates":[148.86833200000001,-33.094612],"type":"Point"}
 }

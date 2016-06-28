@@ -2,13 +2,14 @@
   "id": 236807219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.887299,-34.485386,150.887299,-34.485386",
     "geom:latitude":-34.485386,
     "geom:longitude":150.887299,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RU3 Bayview Centre Cowper St",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236807219,
-    "wof:lastmodified":1449002314,
+    "wof:lastmodified":1466191956,
     "wof:name":"Joe Shoes Warehouse",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [150.887299,-34.485386,150.887299,-34.485386],
-  "geometry": {"coordinates":[150.887299,-34.485386],"type":"Point"}
+  "bbox": [
+    150.887299,
+    -34.485386,
+    150.887299,
+    -34.485386
+],
+  "geometry": {"coordinates":[150.88729900000001,-34.485386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253008497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.67955,-37.877335,144.67955,-37.877335",
     "geom:latitude":-37.877335,
     "geom:longitude":144.67955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Heaths Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253008497,
-    "wof:lastmodified":1449063752,
+    "wof:lastmodified":1466187073,
     "wof:name":"Sunshine Alley Tanning Studio",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [144.67955,-37.877335,144.67955,-37.877335],
-  "geometry": {"coordinates":[144.67955,-37.877335],"type":"Point"}
+  "bbox": [
+    144.67955,
+    -37.877335,
+    144.67955,
+    -37.877335
+],
+  "geometry": {"coordinates":[144.67955000000001,-37.877335],"type":"Point"}
 }

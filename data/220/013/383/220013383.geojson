@@ -2,13 +2,14 @@
   "id": 220013383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.281326,-36.762321,144.281326,-36.762321",
     "geom:latitude":-36.762321,
     "geom:longitude":144.281326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80a Mitchell St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220013383,
-    "wof:lastmodified":1449074599,
+    "wof:lastmodified":1466187006,
     "wof:name":"Bull Robyn",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [144.281326,-36.762321,144.281326,-36.762321],
-  "geometry": {"coordinates":[144.281326,-36.762321],"type":"Point"}
+  "bbox": [
+    144.281326,
+    -36.762321,
+    144.281326,
+    -36.762321
+],
+  "geometry": {"coordinates":[144.28132600000001,-36.762321],"type":"Point"}
 }

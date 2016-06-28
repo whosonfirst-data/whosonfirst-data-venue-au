@@ -2,13 +2,14 @@
   "id": 252711145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.855759,-33.586983,115.855759,-33.586983",
     "geom:latitude":-33.586983,
     "geom:longitude":115.855759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Hackett Rd",
     "sg:city":"Brookhampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252711145,
-    "wof:lastmodified":1449006310,
+    "wof:lastmodified":1466186957,
     "wof:name":"Donnybrook Living Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mason"
     ]
 },
-  "bbox": [115.855759,-33.586983,115.855759,-33.586983],
-  "geometry": {"coordinates":[115.855759,-33.586983],"type":"Point"}
+  "bbox": [
+    115.855759,
+    -33.586983,
+    115.855759,
+    -33.586983
+],
+  "geometry": {"coordinates":[115.85575900000001,-33.586983],"type":"Point"}
 }

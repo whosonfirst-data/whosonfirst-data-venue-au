@@ -2,13 +2,14 @@
   "id": 236233307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.806473,-38.054268,145.806473,-38.054268",
     "geom:latitude":-38.054268,
     "geom:longitude":145.806473,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Labertouche Rd",
     "sg:city":"Labertouche",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236233307,
-    "wof:lastmodified":1449005315,
+    "wof:lastmodified":1466190167,
     "wof:name":"Browns Grain & Hay Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "grain"
     ]
 },
-  "bbox": [145.806473,-38.054268,145.806473,-38.054268],
-  "geometry": {"coordinates":[145.806473,-38.054268],"type":"Point"}
+  "bbox": [
+    145.806473,
+    -38.054268,
+    145.806473,
+    -38.054268
+],
+  "geometry": {"coordinates":[145.80647300000001,-38.054268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186388361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.822235,-19.297312,146.822235,-19.297312",
     "geom:latitude":-19.297312,
     "geom:longitude":146.822235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Wagner St",
     "sg:city":"Oonoonba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186388361,
-    "wof:lastmodified":1449050376,
+    "wof:lastmodified":1466189135,
     "wof:name":"Geoff Byers",
     "wof:parent_id":85769957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [146.822235,-19.297312,146.822235,-19.297312],
-  "geometry": {"coordinates":[146.822235,-19.297312],"type":"Point"}
+  "bbox": [
+    146.822235,
+    -19.297312,
+    146.822235,
+    -19.297312
+],
+  "geometry": {"coordinates":[146.82223500000001,-19.297312],"type":"Point"}
 }

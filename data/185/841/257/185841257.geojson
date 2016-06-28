@@ -2,13 +2,14 @@
   "id": 185841257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841156,-25.288733,152.841156,-25.288733",
     "geom:latitude":-25.288733,
     "geom:longitude":152.841156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185841257,
-    "wof:lastmodified":1449006954,
+    "wof:lastmodified":1466187230,
     "wof:name":"Pialba Motor Inn",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "attractions"
     ]
 },
-  "bbox": [152.841156,-25.288733,152.841156,-25.288733],
-  "geometry": {"coordinates":[152.841156,-25.288733],"type":"Point"}
+  "bbox": [
+    152.841156,
+    -25.288733,
+    152.841156,
+    -25.288733
+],
+  "geometry": {"coordinates":[152.84115600000001,-25.288733],"type":"Point"}
 }

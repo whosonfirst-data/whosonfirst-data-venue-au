@@ -2,13 +2,14 @@
   "id": 236800101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.854996,-34.480438,150.854996,-34.480438",
     "geom:latitude":-34.480438,
     "geom:longitude":150.854996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"George St",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236800101,
-    "wof:lastmodified":1449001872,
+    "wof:lastmodified":1466191945,
     "wof:name":"Berkeley Public School",
     "wof:parent_id":85768827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [150.854996,-34.480438,150.854996,-34.480438],
+  "bbox": [
+    150.854996,
+    -34.480438,
+    150.854996,
+    -34.480438
+],
   "geometry": {"coordinates":[150.854996,-34.480438],"type":"Point"}
 }

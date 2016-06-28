@@ -2,13 +2,14 @@
   "id": 186409689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.816589,-19.256531,146.816589,-19.256531",
     "geom:latitude":-19.256531,
     "geom:longitude":146.816589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Denham St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186409689,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466189469,
     "wof:name":"RPA Architects",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "designer"
     ]
 },
-  "bbox": [146.816589,-19.256531,146.816589,-19.256531],
-  "geometry": {"coordinates":[146.816589,-19.256531],"type":"Point"}
+  "bbox": [
+    146.816589,
+    -19.256531,
+    146.816589,
+    -19.256531
+],
+  "geometry": {"coordinates":[146.81658899999999,-19.256531],"type":"Point"}
 }

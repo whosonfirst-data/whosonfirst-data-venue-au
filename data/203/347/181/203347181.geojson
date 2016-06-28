@@ -2,13 +2,14 @@
   "id": 203347181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.869385,-37.575089,143.869385,-37.575089",
     "geom:latitude":-37.575089,
     "geom:longitude":143.869385,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Lal Lal St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203347181,
-    "wof:lastmodified":1449025830,
+    "wof:lastmodified":1466188629,
     "wof:name":"Electric Fencing",
     "wof:parent_id":85780769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.869385,-37.575089,143.869385,-37.575089],
-  "geometry": {"coordinates":[143.869385,-37.575089],"type":"Point"}
+  "bbox": [
+    143.869385,
+    -37.575089,
+    143.869385,
+    -37.575089
+],
+  "geometry": {"coordinates":[143.86938499999999,-37.575089],"type":"Point"}
 }

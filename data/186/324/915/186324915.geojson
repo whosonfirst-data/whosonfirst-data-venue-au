@@ -2,13 +2,14 @@
   "id": 186324915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.965721,-31.914459,115.965721,-31.914459",
     "geom:latitude":-31.914459,
     "geom:longitude":115.965721,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Un 1/ 12 Hyne Rd",
     "sg:city":"South Guildford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186324915,
-    "wof:lastmodified":1449051941,
+    "wof:lastmodified":1466188007,
     "wof:name":"Choppers Lunch Bar",
     "wof:parent_id":85777993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [115.965721,-31.914459,115.965721,-31.914459],
+  "bbox": [
+    115.965721,
+    -31.914459,
+    115.965721,
+    -31.914459
+],
   "geometry": {"coordinates":[115.965721,-31.914459],"type":"Point"}
 }

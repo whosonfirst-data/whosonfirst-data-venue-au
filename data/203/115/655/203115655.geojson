@@ -2,13 +2,14 @@
   "id": 203115655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747917,-32.518276,115.747917,-32.518276",
     "geom:latitude":-32.518276,
     "geom:longitude":115.747917,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rafferty Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203115655,
-    "wof:lastmodified":1449024927,
+    "wof:lastmodified":1466189294,
     "wof:name":"Banjos Lunch Bar",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [115.747917,-32.518276,115.747917,-32.518276],
+  "bbox": [
+    115.747917,
+    -32.518276,
+    115.747917,
+    -32.518276
+],
   "geometry": {"coordinates":[115.747917,-32.518276],"type":"Point"}
 }

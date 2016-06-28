@@ -2,13 +2,14 @@
   "id": 236476513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.164948,-21.146751,149.164948,-21.146751",
     "geom:latitude":-21.146751,
     "geom:longitude":149.164948,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Holland St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236476513,
-    "wof:lastmodified":1449002900,
+    "wof:lastmodified":1466191398,
     "wof:name":"LA. Hair",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [149.164948,-21.146751,149.164948,-21.146751],
-  "geometry": {"coordinates":[149.164948,-21.146751],"type":"Point"}
+  "bbox": [
+    149.164948,
+    -21.146751,
+    149.164948,
+    -21.146751
+],
+  "geometry": {"coordinates":[149.16494800000001,-21.146751],"type":"Point"}
 }

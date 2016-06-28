@@ -2,13 +2,14 @@
   "id": 236455273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.150635,-21.130667,149.150635,-21.130667",
     "geom:latitude":-21.130667,
     "geom:longitude":149.150635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15b Fursden St",
     "sg:city":"Glenella",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236455273,
-    "wof:lastmodified":1449004614,
+    "wof:lastmodified":1466191265,
     "wof:name":"Laser Right Solutions",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laser"
     ]
 },
-  "bbox": [149.150635,-21.130667,149.150635,-21.130667],
-  "geometry": {"coordinates":[149.150635,-21.130667],"type":"Point"}
+  "bbox": [
+    149.150635,
+    -21.130667,
+    149.150635,
+    -21.130667
+],
+  "geometry": {"coordinates":[149.15063499999999,-21.130667],"type":"Point"}
 }

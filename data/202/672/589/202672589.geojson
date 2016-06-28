@@ -2,13 +2,14 @@
   "id": 202672589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.037186,-27.389069,153.037186,-27.389069",
     "geom:latitude":-27.389069,
     "geom:longitude":153.037186,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Meemar St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202672589,
-    "wof:lastmodified":1449060273,
+    "wof:lastmodified":1466188318,
     "wof:name":"Evan Earthwork",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [153.037186,-27.389069,153.037186,-27.389069],
-  "geometry": {"coordinates":[153.037186,-27.389069],"type":"Point"}
+  "bbox": [
+    153.037186,
+    -27.389069,
+    153.037186,
+    -27.389069
+],
+  "geometry": {"coordinates":[153.03718599999999,-27.389069],"type":"Point"}
 }

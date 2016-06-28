@@ -2,13 +2,14 @@
   "id": 236494289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.217606,-21.078722,149.217606,-21.078722",
     "geom:latitude":-21.078722,
     "geom:longitude":149.217606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rosella St",
     "sg:city":"Slade Point",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236494289,
-    "wof:lastmodified":1449004809,
+    "wof:lastmodified":1466191356,
     "wof:name":"Hut Homes Pty Ltd",
     "wof:parent_id":85780459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relocatable"
     ]
 },
-  "bbox": [149.217606,-21.078722,149.217606,-21.078722],
-  "geometry": {"coordinates":[149.217606,-21.078722],"type":"Point"}
+  "bbox": [
+    149.217606,
+    -21.078722,
+    149.217606,
+    -21.078722
+],
+  "geometry": {"coordinates":[149.21760599999999,-21.078722],"type":"Point"}
 }

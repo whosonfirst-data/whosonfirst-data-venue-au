@@ -2,13 +2,14 @@
   "id": 202434641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.957275,-37.840111,144.957275,-37.840111",
     "geom:latitude":-37.840111,
     "geom:longitude":144.957275,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Bridport St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202434641,
-    "wof:lastmodified":1449060675,
+    "wof:lastmodified":1466188498,
     "wof:name":"Melbourne Anti-Ageing Clinic",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [144.957275,-37.840111,144.957275,-37.840111],
-  "geometry": {"coordinates":[144.957275,-37.840111],"type":"Point"}
+  "bbox": [
+    144.957275,
+    -37.840111,
+    144.957275,
+    -37.840111
+],
+  "geometry": {"coordinates":[144.95727500000001,-37.840111],"type":"Point"}
 }

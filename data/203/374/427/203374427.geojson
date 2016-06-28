@@ -2,13 +2,14 @@
   "id": 203374427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855743,-37.555195,143.855743,-37.555195",
     "geom:latitude":-37.555195,
     "geom:longitude":143.855743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Holmes St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203374427,
-    "wof:lastmodified":1449025742,
+    "wof:lastmodified":1466189102,
     "wof:name":"Cartledge D J & S E",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [143.855743,-37.555195,143.855743,-37.555195],
-  "geometry": {"coordinates":[143.855743,-37.555195],"type":"Point"}
+  "bbox": [
+    143.855743,
+    -37.555195,
+    143.855743,
+    -37.555195
+],
+  "geometry": {"coordinates":[143.85574299999999,-37.555195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203009113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.494019,-20.727404,139.494019,-20.727404",
     "geom:latitude":-20.727404,
     "geom:longitude":139.494019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Simpson St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203009113,
-    "wof:lastmodified":1449026847,
+    "wof:lastmodified":1466187217,
     "wof:name":"Power Automotive(RACQ)",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [139.494019,-20.727404,139.494019,-20.727404],
-  "geometry": {"coordinates":[139.494019,-20.727404],"type":"Point"}
+  "bbox": [
+    139.494019,
+    -20.727404,
+    139.494019,
+    -20.727404
+],
+  "geometry": {"coordinates":[139.49401900000001,-20.727404],"type":"Point"}
 }

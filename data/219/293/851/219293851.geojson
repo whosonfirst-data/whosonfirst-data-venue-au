@@ -2,13 +2,14 @@
   "id": 219293851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.956802,-38.300488,145.956802,-38.300488",
     "geom:latitude":-38.300488,
     "geom:longitude":145.956802,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Van Ess Rd",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219293851,
-    "wof:lastmodified":1449071087,
+    "wof:lastmodified":1466187478,
     "wof:name":"Clearview Farm Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.956802,-38.300488,145.956802,-38.300488],
-  "geometry": {"coordinates":[145.956802,-38.300488],"type":"Point"}
+  "bbox": [
+    145.956802,
+    -38.300488,
+    145.956802,
+    -38.300488
+],
+  "geometry": {"coordinates":[145.95680200000001,-38.300488],"type":"Point"}
 }

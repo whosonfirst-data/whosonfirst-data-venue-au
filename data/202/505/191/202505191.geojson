@@ -2,13 +2,14 @@
   "id": 202505191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.097198,-37.957733,145.097198,-37.957733",
     "geom:latitude":-37.957733,
     "geom:longitude":145.097198,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Pine La",
     "sg:city":"Heatherton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202505191,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466189591,
     "wof:name":"Moorabbin Demolitions",
     "wof:parent_id":85775335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [145.097198,-37.957733,145.097198,-37.957733],
-  "geometry": {"coordinates":[145.097198,-37.957733],"type":"Point"}
+  "bbox": [
+    145.097198,
+    -37.957733,
+    145.097198,
+    -37.957733
+],
+  "geometry": {"coordinates":[145.09719799999999,-37.957733],"type":"Point"}
 }

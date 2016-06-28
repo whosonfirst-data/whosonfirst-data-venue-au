@@ -2,13 +2,14 @@
   "id": 235943879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.387589,-32.016331,149.387589,-32.016331",
     "geom:latitude":-32.016331,
     "geom:longitude":149.387589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Bolaro St",
     "sg:city":"Dunedoo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235943879,
-    "wof:lastmodified":1449008342,
+    "wof:lastmodified":1466187009,
     "wof:name":"Heslins Welding Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [149.387589,-32.016331,149.387589,-32.016331],
-  "geometry": {"coordinates":[149.387589,-32.016331],"type":"Point"}
+  "bbox": [
+    149.387589,
+    -32.016331,
+    149.387589,
+    -32.016331
+],
+  "geometry": {"coordinates":[149.38758899999999,-32.016331],"type":"Point"}
 }

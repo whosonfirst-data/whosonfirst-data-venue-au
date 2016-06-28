@@ -2,13 +2,14 @@
   "id": 202452511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.967606,-37.833633,144.967606,-37.833633",
     "geom:latitude":-37.833633,
     "geom:longitude":144.967606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 1/ 286",
     "sg:city":"a Kings Way South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202452511,
-    "wof:lastmodified":1449060704,
+    "wof:lastmodified":1466188830,
     "wof:name":"Allegian Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.967606,-37.833633,144.967606,-37.833633],
-  "geometry": {"coordinates":[144.967606,-37.833633],"type":"Point"}
+  "bbox": [
+    144.967606,
+    -37.833633,
+    144.967606,
+    -37.833633
+],
+  "geometry": {"coordinates":[144.96760599999999,-37.833633],"type":"Point"}
 }

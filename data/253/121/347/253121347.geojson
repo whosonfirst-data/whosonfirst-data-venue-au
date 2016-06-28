@@ -2,13 +2,14 @@
   "id": 253121347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.818115,-37.779095,144.818115,-37.779095",
     "geom:latitude":-37.779095,
     "geom:longitude":144.818115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Hutchinson St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253121347,
-    "wof:lastmodified":1449065105,
+    "wof:lastmodified":1466189171,
     "wof:name":"Advanced Jap Auto Imports",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recyclers"
     ]
 },
-  "bbox": [144.818115,-37.779095,144.818115,-37.779095],
-  "geometry": {"coordinates":[144.818115,-37.779095],"type":"Point"}
+  "bbox": [
+    144.818115,
+    -37.779095,
+    144.818115,
+    -37.779095
+],
+  "geometry": {"coordinates":[144.81811500000001,-37.779095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235963067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.067703,-27.440058,153.067703,-27.440058",
     "geom:latitude":-27.440058,
     "geom:longitude":153.067703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Hercules St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235963067,
-    "wof:lastmodified":1449008309,
+    "wof:lastmodified":1466187244,
     "wof:name":"Gianni Events At Portside",
     "wof:parent_id":85777235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [153.067703,-27.440058,153.067703,-27.440058],
-  "geometry": {"coordinates":[153.067703,-27.440058],"type":"Point"}
+  "bbox": [
+    153.067703,
+    -27.440058,
+    153.067703,
+    -27.440058
+],
+  "geometry": {"coordinates":[153.06770299999999,-27.440058],"type":"Point"}
 }

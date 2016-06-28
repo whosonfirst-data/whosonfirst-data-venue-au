@@ -2,13 +2,14 @@
   "id": 219931995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.127213,-35.625965,144.127213,-35.625965",
     "geom:latitude":-35.625965,
     "geom:longitude":144.127213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mellool St",
     "sg:city":"Barham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219931995,
-    "wof:lastmodified":1449073604,
+    "wof:lastmodified":1466191666,
     "wof:name":"Barham Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.127213,-35.625965,144.127213,-35.625965],
-  "geometry": {"coordinates":[144.127213,-35.625965],"type":"Point"}
+  "bbox": [
+    144.127213,
+    -35.625965,
+    144.127213,
+    -35.625965
+],
+  "geometry": {"coordinates":[144.12721300000001,-35.625965],"type":"Point"}
 }

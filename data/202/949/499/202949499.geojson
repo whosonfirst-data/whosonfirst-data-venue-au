@@ -2,13 +2,14 @@
   "id": 202949499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115143,-30.294008,153.115143,-30.294008",
     "geom:latitude":-30.294008,
     "geom:longitude":153.115143,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 10 Elbow St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202949499,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466191003,
     "wof:name":"Coffs Harbour Chiropractic Centre",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.115143,-30.294008,153.115143,-30.294008],
-  "geometry": {"coordinates":[153.115143,-30.294008],"type":"Point"}
+  "bbox": [
+    153.115143,
+    -30.294008,
+    153.115143,
+    -30.294008
+],
+  "geometry": {"coordinates":[153.11514299999999,-30.294008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202501237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.032791,-37.917591,145.032791,-37.917591",
     "geom:latitude":-37.917591,
     "geom:longitude":145.032791,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7 271- 275 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202501237,
-    "wof:lastmodified":1449062667,
+    "wof:lastmodified":1466189533,
     "wof:name":"Bentleigh Travel Centre",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agent"
     ]
 },
-  "bbox": [145.032791,-37.917591,145.032791,-37.917591],
+  "bbox": [
+    145.032791,
+    -37.917591,
+    145.032791,
+    -37.917591
+],
   "geometry": {"coordinates":[145.032791,-37.917591],"type":"Point"}
 }

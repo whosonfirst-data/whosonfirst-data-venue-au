@@ -2,13 +2,14 @@
   "id": 202566425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435715,-37.675442,144.435715,-37.675442",
     "geom:latitude":-37.675442,
     "geom:longitude":144.435715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110a Main St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202566425,
-    "wof:lastmodified":1449060156,
+    "wof:lastmodified":1466187018,
     "wof:name":"Bacchus Marsh Dry Cleaners & Laundrette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.435715,-37.675442,144.435715,-37.675442],
-  "geometry": {"coordinates":[144.435715,-37.675442],"type":"Point"}
+  "bbox": [
+    144.435715,
+    -37.675442,
+    144.435715,
+    -37.675442
+],
+  "geometry": {"coordinates":[144.43571499999999,-37.675442],"type":"Point"}
 }

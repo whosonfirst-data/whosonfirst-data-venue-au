@@ -2,13 +2,14 @@
   "id": 219647263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.111023,-33.945126,151.111023,-33.945126",
     "geom:latitude":-33.945126,
     "geom:longitude":151.111023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Oliver St",
     "sg:city":"Bexley North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219647263,
-    "wof:lastmodified":1449072065,
+    "wof:lastmodified":1466190982,
     "wof:name":"Behman Bros Wrought Iron",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "doors"
     ]
 },
-  "bbox": [151.111023,-33.945126,151.111023,-33.945126],
-  "geometry": {"coordinates":[151.111023,-33.945126],"type":"Point"}
+  "bbox": [
+    151.111023,
+    -33.945126,
+    151.111023,
+    -33.945126
+],
+  "geometry": {"coordinates":[151.11102299999999,-33.945126],"type":"Point"}
 }

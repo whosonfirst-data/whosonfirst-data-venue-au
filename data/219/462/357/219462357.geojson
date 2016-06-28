@@ -2,13 +2,14 @@
   "id": 219462357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.967957,-37.47562,144.967957,-37.47562",
     "geom:latitude":-37.47562,
     "geom:longitude":144.967957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 120",
     "sg:city":"Beveridge",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219462357,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466189035,
     "wof:name":"Southern Cross Water Cartage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [144.967957,-37.47562,144.967957,-37.47562],
-  "geometry": {"coordinates":[144.967957,-37.47562],"type":"Point"}
+  "bbox": [
+    144.967957,
+    -37.47562,
+    144.967957,
+    -37.47562
+],
+  "geometry": {"coordinates":[144.96795700000001,-37.47562],"type":"Point"}
 }

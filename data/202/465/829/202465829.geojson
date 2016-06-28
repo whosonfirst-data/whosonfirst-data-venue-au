@@ -2,13 +2,14 @@
   "id": 202465829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961578,-37.834801,144.961578,-37.834801",
     "geom:latitude":-37.834801,
     "geom:longitude":144.961578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 333 Clarendon St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202465829,
-    "wof:lastmodified":1449061797,
+    "wof:lastmodified":1466189004,
     "wof:name":"Natural Focus Safaris",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.961578,-37.834801,144.961578,-37.834801],
+  "bbox": [
+    144.961578,
+    -37.834801,
+    144.961578,
+    -37.834801
+],
   "geometry": {"coordinates":[144.961578,-37.834801],"type":"Point"}
 }

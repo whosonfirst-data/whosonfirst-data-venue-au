@@ -2,13 +2,14 @@
   "id": 203416133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.349945,-34.449841,138.349945,-34.449841",
     "geom:latitude":-34.449841,
     "geom:longitude":138.349945,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 74",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203416133,
-    "wof:lastmodified":1449025765,
+    "wof:lastmodified":1466189643,
     "wof:name":"CLF Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.349945,-34.449841,138.349945,-34.449841],
-  "geometry": {"coordinates":[138.349945,-34.449841],"type":"Point"}
+  "bbox": [
+    138.349945,
+    -34.449841,
+    138.349945,
+    -34.449841
+],
+  "geometry": {"coordinates":[138.34994499999999,-34.449841],"type":"Point"}
 }

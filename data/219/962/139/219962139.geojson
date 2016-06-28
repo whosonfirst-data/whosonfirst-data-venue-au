@@ -2,13 +2,14 @@
   "id": 219962139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.781738,-37.826057,140.781738,-37.826057",
     "geom:latitude":-37.826057,
     "geom:longitude":140.781738,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Penola Rd",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219962139,
-    "wof:lastmodified":1449072459,
+    "wof:lastmodified":1466191928,
     "wof:name":"Serde Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [140.781738,-37.826057,140.781738,-37.826057],
-  "geometry": {"coordinates":[140.781738,-37.826057],"type":"Point"}
+  "bbox": [
+    140.781738,
+    -37.826057,
+    140.781738,
+    -37.826057
+],
+  "geometry": {"coordinates":[140.78173799999999,-37.826057],"type":"Point"}
 }

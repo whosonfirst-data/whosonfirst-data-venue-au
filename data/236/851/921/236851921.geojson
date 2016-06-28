@@ -2,13 +2,14 @@
   "id": 236851921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.865067,-34.43211,150.865067,-34.43211",
     "geom:latitude":-34.43211,
     "geom:longitude":150.865067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Princes Hwy",
     "sg:city":"West Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236851921,
-    "wof:lastmodified":1449003898,
+    "wof:lastmodified":1466192056,
     "wof:name":"Jansen Stuart",
     "wof:parent_id":85769285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [150.865067,-34.43211,150.865067,-34.43211],
-  "geometry": {"coordinates":[150.865067,-34.43211],"type":"Point"}
+  "bbox": [
+    150.865067,
+    -34.43211,
+    150.865067,
+    -34.43211
+],
+  "geometry": {"coordinates":[150.86506700000001,-34.43211],"type":"Point"}
 }

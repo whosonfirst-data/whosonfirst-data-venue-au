@@ -2,13 +2,14 @@
   "id": 202622565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.931396,-28.650324,151.931396,-28.650324",
     "geom:latitude":-28.650324,
     "geom:longitude":151.931396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Connor St",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202622565,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466187531,
     "wof:name":"Stanthorpe Timber Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [151.931396,-28.650324,151.931396,-28.650324],
-  "geometry": {"coordinates":[151.931396,-28.650324],"type":"Point"}
+  "bbox": [
+    151.931396,
+    -28.650324,
+    151.931396,
+    -28.650324
+],
+  "geometry": {"coordinates":[151.93139600000001,-28.650324],"type":"Point"}
 }

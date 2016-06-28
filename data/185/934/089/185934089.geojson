@@ -2,13 +2,14 @@
   "id": 185934089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.560455,-33.263702,151.560455,-33.263702",
     "geom:latitude":-33.263702,
     "geom:longitude":151.560455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Elizabeth Drive",
     "sg:city":"Noraville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185934089,
-    "wof:lastmodified":1449006661,
+    "wof:lastmodified":1466188343,
     "wof:name":"Callaghan Painting & Decorating Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [151.560455,-33.263702,151.560455,-33.263702],
-  "geometry": {"coordinates":[151.560455,-33.263702],"type":"Point"}
+  "bbox": [
+    151.560455,
+    -33.263702,
+    151.560455,
+    -33.263702
+],
+  "geometry": {"coordinates":[151.56045499999999,-33.263702],"type":"Point"}
 }

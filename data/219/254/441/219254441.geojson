@@ -2,13 +2,14 @@
   "id": 219254441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.006027,-37.782032,145.006027,-37.782032",
     "geom:latitude":-37.782032,
     "geom:longitude":145.006027,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/5 Simpson St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219254441,
-    "wof:lastmodified":1449072813,
+    "wof:lastmodified":1466187147,
     "wof:name":"Dillon Howard",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tuning"
     ]
 },
-  "bbox": [145.006027,-37.782032,145.006027,-37.782032],
-  "geometry": {"coordinates":[145.006027,-37.782032],"type":"Point"}
+  "bbox": [
+    145.006027,
+    -37.782032,
+    145.006027,
+    -37.782032
+],
+  "geometry": {"coordinates":[145.00602699999999,-37.782032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220182519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354843,-38.139057,144.354843,-38.139057",
     "geom:latitude":-38.139057,
     "geom:longitude":144.354843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220182519,
-    "wof:lastmodified":1449074564,
+    "wof:lastmodified":1466189237,
     "wof:name":"Terra Culture Pty Ltd Heritage Consultants",
     "wof:parent_id":85769301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeology"
     ]
 },
-  "bbox": [144.354843,-38.139057,144.354843,-38.139057],
-  "geometry": {"coordinates":[144.354843,-38.139057],"type":"Point"}
+  "bbox": [
+    144.354843,
+    -38.139057,
+    144.354843,
+    -38.139057
+],
+  "geometry": {"coordinates":[144.35484299999999,-38.139057],"type":"Point"}
 }

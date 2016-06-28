@@ -2,13 +2,14 @@
   "id": 202588129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.613144,-33.833569,138.613144,-33.833569",
     "geom:latitude":-33.833569,
     "geom:longitude":138.613144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mill St",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202588129,
-    "wof:lastmodified":1449062167,
+    "wof:lastmodified":1466187190,
     "wof:name":"Jackson Pledge Goodwin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [138.613144,-33.833569,138.613144,-33.833569],
-  "geometry": {"coordinates":[138.613144,-33.833569],"type":"Point"}
+  "bbox": [
+    138.613144,
+    -33.833569,
+    138.613144,
+    -33.833569
+],
+  "geometry": {"coordinates":[138.61314400000001,-33.833569],"type":"Point"}
 }

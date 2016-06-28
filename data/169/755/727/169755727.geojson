@@ -2,13 +2,14 @@
   "id": 169755727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.111725,-27.227764,153.111725,-27.227764",
     "geom:latitude":-27.227764,
     "geom:longitude":153.111725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 McNaughton St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169755727,
-    "wof:lastmodified":1449033614,
+    "wof:lastmodified":1466187948,
     "wof:name":"Bayside Community Care",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [153.111725,-27.227764,153.111725,-27.227764],
-  "geometry": {"coordinates":[153.111725,-27.227764],"type":"Point"}
+  "bbox": [
+    153.111725,
+    -27.227764,
+    153.111725,
+    -27.227764
+],
+  "geometry": {"coordinates":[153.11172500000001,-27.227764],"type":"Point"}
 }

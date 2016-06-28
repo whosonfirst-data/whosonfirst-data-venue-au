@@ -2,13 +2,14 @@
   "id": 203257217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.003159,-33.38467,148.003159,-33.38467",
     "geom:latitude":-33.38467,
     "geom:longitude":148.003159,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bedgerebong Rd",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203257217,
-    "wof:lastmodified":1449025467,
+    "wof:lastmodified":1466187627,
     "wof:name":"Forbes Aerodrome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [148.003159,-33.38467,148.003159,-33.38467],
-  "geometry": {"coordinates":[148.003159,-33.38467],"type":"Point"}
+  "bbox": [
+    148.003159,
+    -33.38467,
+    148.003159,
+    -33.38467
+],
+  "geometry": {"coordinates":[148.00315900000001,-33.38467],"type":"Point"}
 }

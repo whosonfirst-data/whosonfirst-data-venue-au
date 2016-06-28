@@ -2,13 +2,14 @@
   "id": 253142909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951431,-27.571609,151.951431,-27.571609",
     "geom:latitude":-27.571609,
     "geom:longitude":151.951431,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"The Bernoth Centre 663 - 665 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253142909,
-    "wof:lastmodified":1449065178,
+    "wof:lastmodified":1466189475,
     "wof:name":"Metro Tiles Toowoomba",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [151.951431,-27.571609,151.951431,-27.571609],
-  "geometry": {"coordinates":[151.951431,-27.571609],"type":"Point"}
+  "bbox": [
+    151.951431,
+    -27.571609,
+    151.951431,
+    -27.571609
+],
+  "geometry": {"coordinates":[151.95143100000001,-27.571609],"type":"Point"}
 }

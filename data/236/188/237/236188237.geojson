@@ -2,13 +2,14 @@
   "id": 236188237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.011192,-30.647465,116.011192,-30.647465",
     "geom:latitude":-30.647465,
     "geom:longitude":116.011192,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Gardiner St",
     "sg:city":"Moora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236188237,
-    "wof:lastmodified":1449003255,
+    "wof:lastmodified":1466189921,
     "wof:name":"Moora Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [116.011192,-30.647465,116.011192,-30.647465],
-  "geometry": {"coordinates":[116.011192,-30.647465],"type":"Point"}
+  "bbox": [
+    116.011192,
+    -30.647465,
+    116.011192,
+    -30.647465
+],
+  "geometry": {"coordinates":[116.01119199999999,-30.647465],"type":"Point"}
 }

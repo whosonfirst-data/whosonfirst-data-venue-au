@@ -2,13 +2,14 @@
   "id": 202458153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.962021,-37.824486,144.962021,-37.824486",
     "geom:latitude":-37.824486,
     "geom:longitude":144.962021,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"169 City Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202458153,
-    "wof:lastmodified":1449061902,
+    "wof:lastmodified":1466188898,
     "wof:name":"Jimmy Camov Towing",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [144.962021,-37.824486,144.962021,-37.824486],
-  "geometry": {"coordinates":[144.962021,-37.824486],"type":"Point"}
+  "bbox": [
+    144.962021,
+    -37.824486,
+    144.962021,
+    -37.824486
+],
+  "geometry": {"coordinates":[144.96202099999999,-37.824486],"type":"Point"}
 }

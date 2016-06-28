@@ -2,13 +2,14 @@
   "id": 219342089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.262085,-14.462285,132.262085,-14.462285",
     "geom:latitude":-14.462285,
     "geom:longitude":132.262085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Second & Mannion Sts",
     "sg:city":"Katherine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219342089,
-    "wof:lastmodified":1449073653,
+    "wof:lastmodified":1466187871,
     "wof:name":"Katherine Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [132.262085,-14.462285,132.262085,-14.462285],
-  "geometry": {"coordinates":[132.262085,-14.462285],"type":"Point"}
+  "bbox": [
+    132.262085,
+    -14.462285,
+    132.262085,
+    -14.462285
+],
+  "geometry": {"coordinates":[132.26208500000001,-14.462285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186563263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.28952,-33.64093,151.28952,-33.64093",
     "geom:latitude":-33.64093,
     "geom:longitude":151.28952,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Thompson St",
     "sg:city":"Scotland Island",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186563263,
-    "wof:lastmodified":1449050301,
+    "wof:lastmodified":1466190785,
     "wof:name":"WiseGye Cognitive Training Consultants",
     "wof:parent_id":85774667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.28952,-33.64093,151.28952,-33.64093],
-  "geometry": {"coordinates":[151.28952,-33.64093],"type":"Point"}
+  "bbox": [
+    151.28952,
+    -33.64093,
+    151.28952,
+    -33.64093
+],
+  "geometry": {"coordinates":[151.28952000000001,-33.64093],"type":"Point"}
 }

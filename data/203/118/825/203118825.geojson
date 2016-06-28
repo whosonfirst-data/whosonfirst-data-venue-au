@@ -2,13 +2,14 @@
   "id": 203118825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.757927,-32.529472,115.757927,-32.529472",
     "geom:latitude":-32.529472,
     "geom:longitude":115.757927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Anstruther Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203118825,
-    "wof:lastmodified":1449026474,
+    "wof:lastmodified":1466189329,
     "wof:name":"Mandurah Paediatrics",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.757927,-32.529472,115.757927,-32.529472],
+  "bbox": [
+    115.757927,
+    -32.529472,
+    115.757927,
+    -32.529472
+],
   "geometry": {"coordinates":[115.757927,-32.529472],"type":"Point"}
 }

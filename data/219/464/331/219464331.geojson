@@ -2,13 +2,14 @@
   "id": 219464331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.06601,-37.648743,145.06601,-37.648743",
     "geom:latitude":-37.648743,
     "geom:longitude":145.06601,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Plenty Valley Shopping Centre, Cnr Civic & McDonal",
     "sg:city":"South Morang",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219464331,
-    "wof:lastmodified":1449071353,
+    "wof:lastmodified":1466189066,
     "wof:name":"Ray White (Victoria) Pty Ltd",
     "wof:parent_id":85769763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.06601,-37.648743,145.06601,-37.648743],
-  "geometry": {"coordinates":[145.06601,-37.648743],"type":"Point"}
+  "bbox": [
+    145.06601,
+    -37.648743,
+    145.06601,
+    -37.648743
+],
+  "geometry": {"coordinates":[145.06601000000001,-37.648743],"type":"Point"}
 }

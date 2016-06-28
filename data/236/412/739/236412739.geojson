@@ -2,13 +2,14 @@
   "id": 236412739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.768112,-32.139561,115.768112,-32.139561",
     "geom:latitude":-32.139561,
     "geom:longitude":115.768112,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Cockburn Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236412739,
-    "wof:lastmodified":1449002181,
+    "wof:lastmodified":1466191060,
     "wof:name":"A A A Bulk Haulage",
     "wof:parent_id":85769101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carrier"
     ]
 },
-  "bbox": [115.768112,-32.139561,115.768112,-32.139561],
+  "bbox": [
+    115.768112,
+    -32.139561,
+    115.768112,
+    -32.139561
+],
   "geometry": {"coordinates":[115.768112,-32.139561],"type":"Point"}
 }

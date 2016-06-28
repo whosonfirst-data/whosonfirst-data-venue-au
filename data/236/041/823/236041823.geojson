@@ -2,13 +2,14 @@
   "id": 236041823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.780289,-37.702759,144.780289,-37.702759",
     "geom:latitude":-37.702759,
     "geom:longitude":144.780289,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Emma Crt",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236041823,
-    "wof:lastmodified":1449002716,
+    "wof:lastmodified":1466187449,
     "wof:name":"V & M & Sons",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grille"
     ]
 },
-  "bbox": [144.780289,-37.702759,144.780289,-37.702759],
-  "geometry": {"coordinates":[144.780289,-37.702759],"type":"Point"}
+  "bbox": [
+    144.780289,
+    -37.702759,
+    144.780289,
+    -37.702759
+],
+  "geometry": {"coordinates":[144.78028900000001,-37.702759],"type":"Point"}
 }

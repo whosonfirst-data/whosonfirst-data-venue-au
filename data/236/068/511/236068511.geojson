@@ -2,13 +2,14 @@
   "id": 236068511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.837509,-37.717476,144.837509,-37.717476",
     "geom:latitude":-37.717476,
     "geom:longitude":144.837509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Calder Park Raceway Pk",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236068511,
-    "wof:lastmodified":1449003331,
+    "wof:lastmodified":1466188000,
     "wof:name":"Rider Brothers Motorcycle Training",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.837509,-37.717476,144.837509,-37.717476],
-  "geometry": {"coordinates":[144.837509,-37.717476],"type":"Point"}
+  "bbox": [
+    144.837509,
+    -37.717476,
+    144.837509,
+    -37.717476
+],
+  "geometry": {"coordinates":[144.83750900000001,-37.717476],"type":"Point"}
 }

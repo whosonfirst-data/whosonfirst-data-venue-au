@@ -2,13 +2,14 @@
   "id": 203284469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.160049,-33.148266,148.160049,-33.148266",
     "geom:latitude":-33.148266,
     "geom:longitude":148.160049,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 4 Acyrod St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203284469,
-    "wof:lastmodified":1449026127,
+    "wof:lastmodified":1466187830,
     "wof:name":"Pivotal Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [148.160049,-33.148266,148.160049,-33.148266],
-  "geometry": {"coordinates":[148.160049,-33.148266],"type":"Point"}
+  "bbox": [
+    148.160049,
+    -33.148266,
+    148.160049,
+    -33.148266
+],
+  "geometry": {"coordinates":[148.16004899999999,-33.148266],"type":"Point"}
 }

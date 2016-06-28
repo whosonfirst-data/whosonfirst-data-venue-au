@@ -2,13 +2,14 @@
   "id": 202926221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.120682,-30.288519,153.120682,-30.288519",
     "geom:latitude":-30.288519,
     "geom:longitude":153.120682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Prince James Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202926221,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466190864,
     "wof:name":"Walking Wood",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [153.120682,-30.288519,153.120682,-30.288519],
-  "geometry": {"coordinates":[153.120682,-30.288519],"type":"Point"}
+  "bbox": [
+    153.120682,
+    -30.288519,
+    153.120682,
+    -30.288519
+],
+  "geometry": {"coordinates":[153.12068199999999,-30.288519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186307967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.002457,-30.591005,153.002457,-30.591005",
     "geom:latitude":-30.591005,
     "geom:longitude":153.002457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2 Valla Beach Rd",
     "sg:city":"Valla Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186307967,
-    "wof:lastmodified":1449051086,
+    "wof:lastmodified":1466187825,
     "wof:name":"Johnny's Pizzas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [153.002457,-30.591005,153.002457,-30.591005],
-  "geometry": {"coordinates":[153.002457,-30.591005],"type":"Point"}
+  "bbox": [
+    153.002457,
+    -30.591005,
+    153.002457,
+    -30.591005
+],
+  "geometry": {"coordinates":[153.00245699999999,-30.591005],"type":"Point"}
 }

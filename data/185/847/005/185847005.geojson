@@ -2,13 +2,14 @@
   "id": 185847005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.838272,-25.286608,152.838272,-25.286608",
     "geom:latitude":-25.286608,
     "geom:longitude":152.838272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Main St",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185847005,
-    "wof:lastmodified":1449007181,
+    "wof:lastmodified":1466187304,
     "wof:name":"Out of the Square",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restoration"
     ]
 },
-  "bbox": [152.838272,-25.286608,152.838272,-25.286608],
-  "geometry": {"coordinates":[152.838272,-25.286608],"type":"Point"}
+  "bbox": [
+    152.838272,
+    -25.286608,
+    152.838272,
+    -25.286608
+],
+  "geometry": {"coordinates":[152.83827199999999,-25.286608],"type":"Point"}
 }

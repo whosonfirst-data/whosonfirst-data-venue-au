@@ -2,13 +2,14 @@
   "id": 202616481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.933655,-28.656279,151.933655,-28.656279",
     "geom:latitude":-28.656279,
     "geom:longitude":151.933655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Maryland St",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202616481,
-    "wof:lastmodified":1449061964,
+    "wof:lastmodified":1466187487,
     "wof:name":"Andersens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cork"
     ]
 },
-  "bbox": [151.933655,-28.656279,151.933655,-28.656279],
-  "geometry": {"coordinates":[151.933655,-28.656279],"type":"Point"}
+  "bbox": [
+    151.933655,
+    -28.656279,
+    151.933655,
+    -28.656279
+],
+  "geometry": {"coordinates":[151.93365499999999,-28.656279],"type":"Point"}
 }

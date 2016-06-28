@@ -2,13 +2,14 @@
   "id": 253037015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.808823,-37.821507,144.808823,-37.821507",
     "geom:latitude":-37.821507,
     "geom:longitude":144.808823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Raymond Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253037015,
-    "wof:lastmodified":1449065853,
+    "wof:lastmodified":1466187656,
     "wof:name":"New Wave Leathers",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hide"
     ]
 },
-  "bbox": [144.808823,-37.821507,144.808823,-37.821507],
-  "geometry": {"coordinates":[144.808823,-37.821507],"type":"Point"}
+  "bbox": [
+    144.808823,
+    -37.821507,
+    144.808823,
+    -37.821507
+],
+  "geometry": {"coordinates":[144.80882299999999,-37.821507],"type":"Point"}
 }

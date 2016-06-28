@@ -2,13 +2,14 @@
   "id": 219840223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.813301,-31.971676,115.813301,-31.971676",
     "geom:latitude":-31.971676,
     "geom:longitude":115.813301,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 6, 9 Hampden Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219840223,
-    "wof:lastmodified":1449073137,
+    "wof:lastmodified":1466191495,
     "wof:name":"Moneysense Pty Ltd",
     "wof:parent_id":85778041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [115.813301,-31.971676,115.813301,-31.971676],
+  "bbox": [
+    115.813301,
+    -31.971676,
+    115.813301,
+    -31.971676
+],
   "geometry": {"coordinates":[115.813301,-31.971676],"type":"Point"}
 }

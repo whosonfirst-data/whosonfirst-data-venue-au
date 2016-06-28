@@ -2,13 +2,14 @@
   "id": 185674305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753082,-32.034431,115.753082,-32.034431",
     "geom:latitude":-32.034431,
     "geom:longitude":115.753082,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"261A Queen Victoria St",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185674305,
-    "wof:lastmodified":1449007804,
+    "wof:lastmodified":1466188668,
     "wof:name":"Bob Gare",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [115.753082,-32.034431,115.753082,-32.034431],
-  "geometry": {"coordinates":[115.753082,-32.034431],"type":"Point"}
+  "bbox": [
+    115.753082,
+    -32.034431,
+    115.753082,
+    -32.034431
+],
+  "geometry": {"coordinates":[115.75308200000001,-32.034431],"type":"Point"}
 }

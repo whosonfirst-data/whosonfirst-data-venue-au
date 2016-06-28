@@ -2,13 +2,14 @@
   "id": 186463589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.164764,-33.874882,151.164764,-33.874882",
     "geom:latitude":-33.874882,
     "geom:longitude":151.164764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Catherine St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186463589,
-    "wof:lastmodified":1449052232,
+    "wof:lastmodified":1466190268,
     "wof:name":"Mactune",
     "wof:parent_id":85776737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [151.164764,-33.874882,151.164764,-33.874882],
-  "geometry": {"coordinates":[151.164764,-33.874882],"type":"Point"}
+  "bbox": [
+    151.164764,
+    -33.874882,
+    151.164764,
+    -33.874882
+],
+  "geometry": {"coordinates":[151.16476399999999,-33.874882],"type":"Point"}
 }

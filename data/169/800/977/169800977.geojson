@@ -2,13 +2,14 @@
   "id": 169800977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.47113,-38.471664,145.47113,-38.471664",
     "geom:latitude":-38.471664,
     "geom:longitude":145.47113,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Soldiers Rd",
     "sg:city":"Bass",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169800977,
-    "wof:lastmodified":1449032941,
+    "wof:lastmodified":1466188721,
     "wof:name":"Kaltara Pastoral Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grazier"
     ]
 },
-  "bbox": [145.47113,-38.471664,145.47113,-38.471664],
-  "geometry": {"coordinates":[145.47113,-38.471664],"type":"Point"}
+  "bbox": [
+    145.47113,
+    -38.471664,
+    145.47113,
+    -38.471664
+],
+  "geometry": {"coordinates":[145.47112999999999,-38.471664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203299325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.708786,-32.923569,147.708786,-32.923569",
     "geom:latitude":-32.923569,
     "geom:longitude":147.708786,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Austin St",
     "sg:city":"Trundle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203299325,
-    "wof:lastmodified":1449025400,
+    "wof:lastmodified":1466187941,
     "wof:name":"St Patricks School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.708786,-32.923569,147.708786,-32.923569],
+  "bbox": [
+    147.708786,
+    -32.923569,
+    147.708786,
+    -32.923569
+],
   "geometry": {"coordinates":[147.708786,-32.923569],"type":"Point"}
 }

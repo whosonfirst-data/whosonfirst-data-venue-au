@@ -2,13 +2,14 @@
   "id": 219617661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.141495,-33.917622,151.141495,-33.917622",
     "geom:latitude":-33.917622,
     "geom:longitude":151.141495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bruce St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219617661,
-    "wof:lastmodified":1449070493,
+    "wof:lastmodified":1466190666,
     "wof:name":"Pet Concerns",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.141495,-33.917622,151.141495,-33.917622],
-  "geometry": {"coordinates":[151.141495,-33.917622],"type":"Point"}
+  "bbox": [
+    151.141495,
+    -33.917622,
+    151.141495,
+    -33.917622
+],
+  "geometry": {"coordinates":[151.14149499999999,-33.917622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202930849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.084686,-30.286558,153.084686,-30.286558",
     "geom:latitude":-30.286558,
     "geom:longitude":153.084686,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 William Sharp Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202930849,
-    "wof:lastmodified":1449060920,
+    "wof:lastmodified":1466190890,
     "wof:name":"Betty Bailey Studio",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [153.084686,-30.286558,153.084686,-30.286558],
+  "bbox": [
+    153.084686,
+    -30.286558,
+    153.084686,
+    -30.286558
+],
   "geometry": {"coordinates":[153.084686,-30.286558],"type":"Point"}
 }

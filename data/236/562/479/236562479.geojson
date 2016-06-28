@@ -2,13 +2,14 @@
   "id": 236562479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.023361,-33.948372,151.023361,-33.948372",
     "geom:latitude":-33.948372,
     "geom:longitude":151.023361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Doyle Rd",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236562479,
-    "wof:lastmodified":1449003395,
+    "wof:lastmodified":1466191519,
     "wof:name":"Smith Colin J",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.023361,-33.948372,151.023361,-33.948372],
-  "geometry": {"coordinates":[151.023361,-33.948372],"type":"Point"}
+  "bbox": [
+    151.023361,
+    -33.948372,
+    151.023361,
+    -33.948372
+],
+  "geometry": {"coordinates":[151.02336099999999,-33.948372],"type":"Point"}
 }

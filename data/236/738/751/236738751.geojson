@@ -2,13 +2,14 @@
   "id": 236738751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.955673,-26.857304,152.955673,-26.857304",
     "geom:latitude":-26.857304,
     "geom:longitude":152.955673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5, Turner Park Shopping Centre 21 Peachester",
     "sg:city":"Beerwah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236738751,
-    "wof:lastmodified":1449004182,
+    "wof:lastmodified":1466191884,
     "wof:name":"Beerwah Vacuums",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [152.955673,-26.857304,152.955673,-26.857304],
-  "geometry": {"coordinates":[152.955673,-26.857304],"type":"Point"}
+  "bbox": [
+    152.955673,
+    -26.857304,
+    152.955673,
+    -26.857304
+],
+  "geometry": {"coordinates":[152.95567299999999,-26.857304],"type":"Point"}
 }

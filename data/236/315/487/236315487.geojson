@@ -2,13 +2,14 @@
   "id": 236315487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.775169,-32.070728,115.775169,-32.070728",
     "geom:latitude":-32.070728,
     "geom:longitude":115.775169,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Gibson St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236315487,
-    "wof:lastmodified":1449005041,
+    "wof:lastmodified":1466190673,
     "wof:name":"Laurie Mariani",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [115.775169,-32.070728,115.775169,-32.070728],
-  "geometry": {"coordinates":[115.775169,-32.070728],"type":"Point"}
+  "bbox": [
+    115.775169,
+    -32.070728,
+    115.775169,
+    -32.070728
+],
+  "geometry": {"coordinates":[115.77516900000001,-32.070728],"type":"Point"}
 }

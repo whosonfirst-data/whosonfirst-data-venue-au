@@ -2,13 +2,14 @@
   "id": 203341379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.852325,-37.55381,143.852325,-37.55381",
     "geom:latitude":-37.55381,
     "geom:longitude":143.852325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Johnson St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203341379,
-    "wof:lastmodified":1449026787,
+    "wof:lastmodified":1466188522,
     "wof:name":"Azio",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "orchestra"
     ]
 },
-  "bbox": [143.852325,-37.55381,143.852325,-37.55381],
-  "geometry": {"coordinates":[143.852325,-37.55381],"type":"Point"}
+  "bbox": [
+    143.852325,
+    -37.55381,
+    143.852325,
+    -37.55381
+],
+  "geometry": {"coordinates":[143.85232500000001,-37.55381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203181619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.673798,-40.989399,145.673798,-40.989399",
     "geom:latitude":-40.989399,
     "geom:longitude":145.673798,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Ballast Pit Rd",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203181619,
-    "wof:lastmodified":1449026094,
+    "wof:lastmodified":1466189916,
     "wof:name":"A. F Ransley Sound Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "address"
     ]
 },
-  "bbox": [145.673798,-40.989399,145.673798,-40.989399],
-  "geometry": {"coordinates":[145.673798,-40.989399],"type":"Point"}
+  "bbox": [
+    145.673798,
+    -40.989399,
+    145.673798,
+    -40.989399
+],
+  "geometry": {"coordinates":[145.67379800000001,-40.989399],"type":"Point"}
 }

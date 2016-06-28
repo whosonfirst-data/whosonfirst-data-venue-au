@@ -2,13 +2,14 @@
   "id": 202983423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.908051,-22.90893,139.908051,-22.90893",
     "geom:latitude":-22.90893,
     "geom:longitude":139.908051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Templeton St",
     "sg:city":"Boulia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202983423,
-    "wof:lastmodified":1449062440,
+    "wof:lastmodified":1466191221,
     "wof:name":"Boulia Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [139.908051,-22.90893,139.908051,-22.90893],
+  "bbox": [
+    139.908051,
+    -22.90893,
+    139.908051,
+    -22.90893
+],
   "geometry": {"coordinates":[139.908051,-22.90893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253061373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.78244,-37.780079,144.78244,-37.780079",
     "geom:latitude":-37.780079,
     "geom:longitude":144.78244,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Tilburn & Mt Derrimut Sts",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253061373,
-    "wof:lastmodified":1449064966,
+    "wof:lastmodified":1466188083,
     "wof:name":"Kleenheat Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [144.78244,-37.780079,144.78244,-37.780079],
-  "geometry": {"coordinates":[144.78244,-37.780079],"type":"Point"}
+  "bbox": [
+    144.78244,
+    -37.780079,
+    144.78244,
+    -37.780079
+],
+  "geometry": {"coordinates":[144.78244000000001,-37.780079],"type":"Point"}
 }

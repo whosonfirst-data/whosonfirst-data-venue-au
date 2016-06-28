@@ -2,13 +2,14 @@
   "id": 220060913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.324707,-38.332005,144.324707,-38.332005",
     "geom:latitude":-38.332005,
     "geom:longitude":144.324707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Gilbert St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220060913,
-    "wof:lastmodified":1449074804,
+    "wof:lastmodified":1466187606,
     "wof:name":"Ian L. Johnson & Co Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [144.324707,-38.332005,144.324707,-38.332005],
-  "geometry": {"coordinates":[144.324707,-38.332005],"type":"Point"}
+  "bbox": [
+    144.324707,
+    -38.332005,
+    144.324707,
+    -38.332005
+],
+  "geometry": {"coordinates":[144.32470699999999,-38.332005],"type":"Point"}
 }

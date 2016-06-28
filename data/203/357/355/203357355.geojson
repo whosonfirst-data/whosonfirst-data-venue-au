@@ -2,13 +2,14 @@
   "id": 203357355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.865189,-37.554417,143.865189,-37.554417",
     "geom:latitude":-37.554417,
     "geom:longitude":143.865189,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"329 - 331 Peel Street (North)",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203357355,
-    "wof:lastmodified":1449026631,
+    "wof:lastmodified":1466188803,
     "wof:name":"Real Estate Home Loans",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [143.865189,-37.554417,143.865189,-37.554417],
-  "geometry": {"coordinates":[143.865189,-37.554417],"type":"Point"}
+  "bbox": [
+    143.865189,
+    -37.554417,
+    143.865189,
+    -37.554417
+],
+  "geometry": {"coordinates":[143.86518899999999,-37.554417],"type":"Point"}
 }

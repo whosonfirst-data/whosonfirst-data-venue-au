@@ -2,13 +2,14 @@
   "id": 202935769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.071716,-30.335485,153.071716,-30.335485",
     "geom:latitude":-30.335485,
     "geom:longitude":153.071716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Lindsays Rd",
     "sg:city":"Boambee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202935769,
-    "wof:lastmodified":1449062213,
+    "wof:lastmodified":1466191004,
     "wof:name":"Island Place Constructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [153.071716,-30.335485,153.071716,-30.335485],
-  "geometry": {"coordinates":[153.071716,-30.335485],"type":"Point"}
+  "bbox": [
+    153.071716,
+    -30.335485,
+    153.071716,
+    -30.335485
+],
+  "geometry": {"coordinates":[153.07171600000001,-30.335485],"type":"Point"}
 }

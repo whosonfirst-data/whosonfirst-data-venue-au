@@ -2,13 +2,14 @@
   "id": 220066709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.312469,-38.33123,144.312469,-38.33123",
     "geom:latitude":-38.33123,
     "geom:longitude":144.312469,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Alleyne Ave",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220066709,
-    "wof:lastmodified":1449074250,
+    "wof:lastmodified":1466187652,
     "wof:name":"Gittings C L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [144.312469,-38.33123,144.312469,-38.33123],
-  "geometry": {"coordinates":[144.312469,-38.33123],"type":"Point"}
+  "bbox": [
+    144.312469,
+    -38.33123,
+    144.312469,
+    -38.33123
+],
+  "geometry": {"coordinates":[144.31246899999999,-38.33123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253022795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.700104,-37.859821,144.700104,-37.859821",
     "geom:latitude":-37.859821,
     "geom:longitude":144.700104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Fulham Crt",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253022795,
-    "wof:lastmodified":1449063806,
+    "wof:lastmodified":1466187373,
     "wof:name":"Proficient Plumbing Service",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.700104,-37.859821,144.700104,-37.859821],
-  "geometry": {"coordinates":[144.700104,-37.859821],"type":"Point"}
+  "bbox": [
+    144.700104,
+    -37.859821,
+    144.700104,
+    -37.859821
+],
+  "geometry": {"coordinates":[144.70010400000001,-37.859821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203235653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.327454,-36.353058,146.327454,-36.353058",
     "geom:latitude":-36.353058,
     "geom:longitude":146.327454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27- 29 Faithfull St",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203235653,
-    "wof:lastmodified":1449025267,
+    "wof:lastmodified":1466187466,
     "wof:name":"Victorian Business Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advisory"
     ]
 },
-  "bbox": [146.327454,-36.353058,146.327454,-36.353058],
-  "geometry": {"coordinates":[146.327454,-36.353058],"type":"Point"}
+  "bbox": [
+    146.327454,
+    -36.353058,
+    146.327454,
+    -36.353058
+],
+  "geometry": {"coordinates":[146.32745399999999,-36.353058],"type":"Point"}
 }

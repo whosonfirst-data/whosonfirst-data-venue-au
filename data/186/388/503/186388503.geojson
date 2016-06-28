@@ -2,13 +2,14 @@
   "id": 186388503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.812347,-19.324053,146.812347,-19.324053",
     "geom:latitude":-19.324053,
     "geom:longitude":146.812347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Edison St",
     "sg:city":"Wulguru",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186388503,
-    "wof:lastmodified":1449050376,
+    "wof:lastmodified":1466189137,
     "wof:name":"McGucken J B Dr",
     "wof:parent_id":85780219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.812347,-19.324053,146.812347,-19.324053],
-  "geometry": {"coordinates":[146.812347,-19.324053],"type":"Point"}
+  "bbox": [
+    146.812347,
+    -19.324053,
+    146.812347,
+    -19.324053
+],
+  "geometry": {"coordinates":[146.81234699999999,-19.324053],"type":"Point"}
 }

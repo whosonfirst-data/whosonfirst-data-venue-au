@@ -2,13 +2,14 @@
   "id": 219362411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.561874,-35.342709,143.561874,-35.342709",
     "geom:latitude":-35.342709,
     "geom:longitude":143.561874,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rutherford St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219362411,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1466188032,
     "wof:name":"Sun-Gard SuperStore Swan Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.561874,-35.342709,143.561874,-35.342709],
-  "geometry": {"coordinates":[143.561874,-35.342709],"type":"Point"}
+  "bbox": [
+    143.561874,
+    -35.342709,
+    143.561874,
+    -35.342709
+],
+  "geometry": {"coordinates":[143.56187399999999,-35.342709],"type":"Point"}
 }

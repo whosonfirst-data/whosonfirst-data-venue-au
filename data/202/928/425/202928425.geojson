@@ -2,13 +2,14 @@
   "id": 202928425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.096558,-30.281075,153.096558,-30.281075",
     "geom:latitude":-30.281075,
     "geom:longitude":153.096558,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Pearce Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202928425,
-    "wof:lastmodified":1449062299,
+    "wof:lastmodified":1466190881,
     "wof:name":"Hanley Miller Systems Development Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.096558,-30.281075,153.096558,-30.281075],
-  "geometry": {"coordinates":[153.096558,-30.281075],"type":"Point"}
+  "bbox": [
+    153.096558,
+    -30.281075,
+    153.096558,
+    -30.281075
+],
+  "geometry": {"coordinates":[153.09655799999999,-30.281075],"type":"Point"}
 }

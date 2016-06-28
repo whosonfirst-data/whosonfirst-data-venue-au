@@ -2,13 +2,14 @@
   "id": 185836371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841507,-25.288774,152.841507,-25.288774",
     "geom:latitude":-25.288774,
     "geom:longitude":152.841507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185836371,
-    "wof:lastmodified":1449007663,
+    "wof:lastmodified":1466187167,
     "wof:name":"Hervey Bay Car Sales",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [152.841507,-25.288774,152.841507,-25.288774],
-  "geometry": {"coordinates":[152.841507,-25.288774],"type":"Point"}
+  "bbox": [
+    152.841507,
+    -25.288774,
+    152.841507,
+    -25.288774
+],
+  "geometry": {"coordinates":[152.84150700000001,-25.288774],"type":"Point"}
 }

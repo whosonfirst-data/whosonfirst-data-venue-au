@@ -2,13 +2,14 @@
   "id": 236044655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.919754,-37.766064,144.919754,-37.766064",
     "geom:latitude":-37.766064,
     "geom:longitude":144.919754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Margaret St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236044655,
-    "wof:lastmodified":1449003358,
+    "wof:lastmodified":1466187505,
     "wof:name":"Ripples Fish & Chips",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.919754,-37.766064,144.919754,-37.766064],
-  "geometry": {"coordinates":[144.919754,-37.766064],"type":"Point"}
+  "bbox": [
+    144.919754,
+    -37.766064,
+    144.919754,
+    -37.766064
+],
+  "geometry": {"coordinates":[144.91975400000001,-37.766064],"type":"Point"}
 }

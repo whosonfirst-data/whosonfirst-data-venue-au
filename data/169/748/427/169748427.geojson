@@ -2,13 +2,14 @@
   "id": 169748427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.100983,-27.233322,153.100983,-27.233322",
     "geom:latitude":-27.233322,
     "geom:longitude":153.100983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Victoria Ave",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169748427,
-    "wof:lastmodified":1449035145,
+    "wof:lastmodified":1466187786,
     "wof:name":"Carol Park Psychologist",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [153.100983,-27.233322,153.100983,-27.233322],
-  "geometry": {"coordinates":[153.100983,-27.233322],"type":"Point"}
+  "bbox": [
+    153.100983,
+    -27.233322,
+    153.100983,
+    -27.233322
+],
+  "geometry": {"coordinates":[153.10098300000001,-27.233322],"type":"Point"}
 }

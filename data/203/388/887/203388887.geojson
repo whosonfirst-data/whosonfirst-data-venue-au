@@ -2,13 +2,14 @@
   "id": 203388887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.879089,-37.580338,143.879089,-37.580338",
     "geom:latitude":-37.580338,
     "geom:longitude":143.879089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Rodier St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203388887,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466189356,
     "wof:name":"Hughes Earthmoving Equipment",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [143.879089,-37.580338,143.879089,-37.580338],
-  "geometry": {"coordinates":[143.879089,-37.580338],"type":"Point"}
+  "bbox": [
+    143.879089,
+    -37.580338,
+    143.879089,
+    -37.580338
+],
+  "geometry": {"coordinates":[143.87908899999999,-37.580338],"type":"Point"}
 }

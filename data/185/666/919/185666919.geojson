@@ -2,13 +2,14 @@
   "id": 185666919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.769302,-32.037968,115.769302,-32.037968",
     "geom:latitude":-32.037968,
     "geom:longitude":115.769302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4/ 37 Osborne Rd",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185666919,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466188567,
     "wof:name":"Fremantle DJ",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "disc"
     ]
 },
-  "bbox": [115.769302,-32.037968,115.769302,-32.037968],
+  "bbox": [
+    115.769302,
+    -32.037968,
+    115.769302,
+    -32.037968
+],
   "geometry": {"coordinates":[115.769302,-32.037968],"type":"Point"}
 }

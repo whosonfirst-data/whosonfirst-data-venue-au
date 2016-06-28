@@ -2,13 +2,14 @@
   "id": 202694141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054184,-27.369448,153.054184,-27.369448",
     "geom:latitude":-27.369448,
     "geom:longitude":153.054184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Robinson Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202694141,
-    "wof:lastmodified":1449060835,
+    "wof:lastmodified":1466188712,
     "wof:name":"Hartland Cables",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cable"
     ]
 },
-  "bbox": [153.054184,-27.369448,153.054184,-27.369448],
-  "geometry": {"coordinates":[153.054184,-27.369448],"type":"Point"}
+  "bbox": [
+    153.054184,
+    -27.369448,
+    153.054184,
+    -27.369448
+],
+  "geometry": {"coordinates":[153.05418399999999,-27.369448],"type":"Point"}
 }

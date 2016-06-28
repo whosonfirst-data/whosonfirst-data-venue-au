@@ -2,13 +2,14 @@
   "id": 185670817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.762352,-32.036907,115.762352,-32.036907",
     "geom:latitude":-32.036907,
     "geom:longitude":115.762352,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Riverside Rd",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185670817,
-    "wof:lastmodified":1449006851,
+    "wof:lastmodified":1466188635,
     "wof:name":"Matich Marine",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [115.762352,-32.036907,115.762352,-32.036907],
-  "geometry": {"coordinates":[115.762352,-32.036907],"type":"Point"}
+  "bbox": [
+    115.762352,
+    -32.036907,
+    115.762352,
+    -32.036907
+],
+  "geometry": {"coordinates":[115.76235200000001,-32.036907],"type":"Point"}
 }

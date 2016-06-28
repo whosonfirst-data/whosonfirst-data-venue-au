@@ -2,13 +2,14 @@
   "id": 253069725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.770645,-37.759407,144.770645,-37.759407",
     "geom:latitude":-37.759407,
     "geom:longitude":144.770645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Billingham Rd",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253069725,
-    "wof:lastmodified":1449064690,
+    "wof:lastmodified":1466188189,
     "wof:name":"Willy's Roof Restorations",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [144.770645,-37.759407,144.770645,-37.759407],
+  "bbox": [
+    144.770645,
+    -37.759407,
+    144.770645,
+    -37.759407
+],
   "geometry": {"coordinates":[144.770645,-37.759407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203212921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.875641,-41.041275,145.875641,-41.041275",
     "geom:latitude":-41.041275,
     "geom:longitude":145.875641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Durham Rd",
     "sg:city":"Cooee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203212921,
-    "wof:lastmodified":1449026206,
+    "wof:lastmodified":1466187195,
     "wof:name":"Tasman Chemicals Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [145.875641,-41.041275,145.875641,-41.041275],
+  "bbox": [
+    145.875641,
+    -41.041275,
+    145.875641,
+    -41.041275
+],
   "geometry": {"coordinates":[145.875641,-41.041275],"type":"Point"}
 }

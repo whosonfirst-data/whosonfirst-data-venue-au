@@ -2,13 +2,14 @@
   "id": 236083895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.706985,-37.950375,144.706985,-37.950375",
     "geom:latitude":-37.950375,
     "geom:longitude":144.706985,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"877 Duncans Rd",
     "sg:city":"Werribee South",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236083895,
-    "wof:lastmodified":1449003169,
+    "wof:lastmodified":1466188305,
     "wof:name":"A-Grade Welding Service",
     "wof:parent_id":85770267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [144.706985,-37.950375,144.706985,-37.950375],
+  "bbox": [
+    144.706985,
+    -37.950375,
+    144.706985,
+    -37.950375
+],
   "geometry": {"coordinates":[144.706985,-37.950375],"type":"Point"}
 }

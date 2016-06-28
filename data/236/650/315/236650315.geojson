@@ -2,13 +2,14 @@
   "id": 236650315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.142853,-33.990757,151.142853,-33.990757",
     "geom:latitude":-33.990757,
     "geom:longitude":151.142853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Chuter Ave",
     "sg:city":"Sans Souci",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236650315,
-    "wof:lastmodified":1449003708,
+    "wof:lastmodified":1466191744,
     "wof:name":"CDM Builders & Architects",
     "wof:parent_id":85776145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.142853,-33.990757,151.142853,-33.990757],
+  "bbox": [
+    151.142853,
+    -33.990757,
+    151.142853,
+    -33.990757
+],
   "geometry": {"coordinates":[151.142853,-33.990757],"type":"Point"}
 }

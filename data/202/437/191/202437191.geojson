@@ -2,13 +2,14 @@
   "id": 202437191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959976,-37.83963,144.959976,-37.83963",
     "geom:latitude":-37.83963,
     "geom:longitude":144.959976,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Anderson St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202437191,
-    "wof:lastmodified":1449061934,
+    "wof:lastmodified":1466188543,
     "wof:name":"X 2",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [144.959976,-37.83963,144.959976,-37.83963],
-  "geometry": {"coordinates":[144.959976,-37.83963],"type":"Point"}
+  "bbox": [
+    144.959976,
+    -37.83963,
+    144.959976,
+    -37.83963
+],
+  "geometry": {"coordinates":[144.95997600000001,-37.83963],"type":"Point"}
 }

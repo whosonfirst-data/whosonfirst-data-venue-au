@@ -2,13 +2,14 @@
   "id": 236311951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.749413,-32.060345,115.749413,-32.060345",
     "geom:latitude":-32.060345,
     "geom:longitude":115.749413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Howard St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236311951,
-    "wof:lastmodified":1449002260,
+    "wof:lastmodified":1466190553,
     "wof:name":"Timeplan Education Group",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "educational"
     ]
 },
-  "bbox": [115.749413,-32.060345,115.749413,-32.060345],
+  "bbox": [
+    115.749413,
+    -32.060345,
+    115.749413,
+    -32.060345
+],
   "geometry": {"coordinates":[115.749413,-32.060345],"type":"Point"}
 }

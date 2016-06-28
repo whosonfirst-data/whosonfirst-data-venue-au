@@ -2,13 +2,14 @@
   "id": 236688635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.536804,-32.038525,152.536804,-32.038525",
     "geom:latitude":-32.038525,
     "geom:longitude":152.536804,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Diamond Beach Rd",
     "sg:city":"Hallidays Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236688635,
-    "wof:lastmodified":1449002771,
+    "wof:lastmodified":1466191931,
     "wof:name":"Wayne Watson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skylight"
     ]
 },
-  "bbox": [152.536804,-32.038525,152.536804,-32.038525],
-  "geometry": {"coordinates":[152.536804,-32.038525],"type":"Point"}
+  "bbox": [
+    152.536804,
+    -32.038525,
+    152.536804,
+    -32.038525
+],
+  "geometry": {"coordinates":[152.53680399999999,-32.038525],"type":"Point"}
 }

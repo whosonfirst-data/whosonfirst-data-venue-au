@@ -2,13 +2,14 @@
   "id": 202779487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.777237,-32.92725,151.777237,-32.92725",
     "geom:latitude":-32.92725,
     "geom:longitude":151.777237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 163 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202779487,
-    "wof:lastmodified":1449060492,
+    "wof:lastmodified":1466190015,
     "wof:name":"Enterprise Drafting Co",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [151.777237,-32.92725,151.777237,-32.92725],
-  "geometry": {"coordinates":[151.777237,-32.92725],"type":"Point"}
+  "bbox": [
+    151.777237,
+    -32.92725,
+    151.777237,
+    -32.92725
+],
+  "geometry": {"coordinates":[151.77723700000001,-32.92725],"type":"Point"}
 }

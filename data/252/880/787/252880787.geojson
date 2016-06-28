@@ -2,13 +2,14 @@
   "id": 252880787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.602005,-37.690128,144.602005,-37.690128",
     "geom:latitude":-37.690128,
     "geom:longitude":144.602005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Norton Drv",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252880787,
-    "wof:lastmodified":1449006519,
+    "wof:lastmodified":1466188805,
     "wof:name":"Ballan Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [144.602005,-37.690128,144.602005,-37.690128],
-  "geometry": {"coordinates":[144.602005,-37.690128],"type":"Point"}
+  "bbox": [
+    144.602005,
+    -37.690128,
+    144.602005,
+    -37.690128
+],
+  "geometry": {"coordinates":[144.60200499999999,-37.690128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185683459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.249207,-23.443995,144.249207,-23.443995",
     "geom:latitude":-23.443995,
     "geom:longitude":144.249207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Galah St",
     "sg:city":"Longreach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185683459,
-    "wof:lastmodified":1449007192,
+    "wof:lastmodified":1466188827,
     "wof:name":"Outback Queensland Internet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [144.249207,-23.443995,144.249207,-23.443995],
-  "geometry": {"coordinates":[144.249207,-23.443995],"type":"Point"}
+  "bbox": [
+    144.249207,
+    -23.443995,
+    144.249207,
+    -23.443995
+],
+  "geometry": {"coordinates":[144.24920700000001,-23.443995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203347947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.843903,-37.566677,143.843903,-37.566677",
     "geom:latitude":-37.566677,
     "geom:longitude":143.843903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Urquhart St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203347947,
-    "wof:lastmodified":1449025835,
+    "wof:lastmodified":1466188643,
     "wof:name":"BRACE Education & Training Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "cultural"
     ]
 },
-  "bbox": [143.843903,-37.566677,143.843903,-37.566677],
-  "geometry": {"coordinates":[143.843903,-37.566677],"type":"Point"}
+  "bbox": [
+    143.843903,
+    -37.566677,
+    143.843903,
+    -37.566677
+],
+  "geometry": {"coordinates":[143.84390300000001,-37.566677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185802567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.485428,-37.642742,145.485428,-37.642742",
     "geom:latitude":-37.642742,
     "geom:longitude":145.485428,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 9 Saxil Gr",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185802567,
-    "wof:lastmodified":1449007929,
+    "wof:lastmodified":1466189932,
     "wof:name":"Retail Development Facilitators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [145.485428,-37.642742,145.485428,-37.642742],
-  "geometry": {"coordinates":[145.485428,-37.642742],"type":"Point"}
+  "bbox": [
+    145.485428,
+    -37.642742,
+    145.485428,
+    -37.642742
+],
+  "geometry": {"coordinates":[145.48542800000001,-37.642742],"type":"Point"}
 }

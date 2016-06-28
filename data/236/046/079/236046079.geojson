@@ -2,13 +2,14 @@
   "id": 236046079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.921631,-37.767956,144.921631,-37.767956",
     "geom:latitude":-37.767956,
     "geom:longitude":144.921631,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Pratt St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236046079,
-    "wof:lastmodified":1449003494,
+    "wof:lastmodified":1466187535,
     "wof:name":"Safeway Liquor Stores",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.921631,-37.767956,144.921631,-37.767956],
-  "geometry": {"coordinates":[144.921631,-37.767956],"type":"Point"}
+  "bbox": [
+    144.921631,
+    -37.767956,
+    144.921631,
+    -37.767956
+],
+  "geometry": {"coordinates":[144.92163099999999,-37.767956],"type":"Point"}
 }

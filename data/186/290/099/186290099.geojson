@@ -2,13 +2,14 @@
   "id": 186290099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.904968,-31.468616,152.904968,-31.468616",
     "geom:latitude":-31.468616,
     "geom:longitude":152.904968,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Crestwood Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186290099,
-    "wof:lastmodified":1449051527,
+    "wof:lastmodified":1466187698,
     "wof:name":"Coffs Port Carrying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [152.904968,-31.468616,152.904968,-31.468616],
+  "bbox": [
+    152.904968,
+    -31.468616,
+    152.904968,
+    -31.468616
+],
   "geometry": {"coordinates":[152.904968,-31.468616],"type":"Point"}
 }

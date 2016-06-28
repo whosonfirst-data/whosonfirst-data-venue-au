@@ -2,13 +2,14 @@
   "id": 219400761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.995819,-27.98781,152.995819,-27.98781",
     "geom:latitude":-27.98781,
     "geom:longitude":152.995819,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mail Service 98",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219400761,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466188374,
     "wof:name":"K & S Jurd Painting & Plastering Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [152.995819,-27.98781,152.995819,-27.98781],
-  "geometry": {"coordinates":[152.995819,-27.98781],"type":"Point"}
+  "bbox": [
+    152.995819,
+    -27.98781,
+    152.995819,
+    -27.98781
+],
+  "geometry": {"coordinates":[152.99581900000001,-27.98781],"type":"Point"}
 }

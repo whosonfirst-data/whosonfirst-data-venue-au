@@ -2,13 +2,14 @@
   "id": 236800851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.897964,-34.478512,150.897964,-34.478512",
     "geom:latitude":-34.478512,
     "geom:longitude":150.897964,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Darcy Rd",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236800851,
-    "wof:lastmodified":1449001872,
+    "wof:lastmodified":1466192046,
     "wof:name":"Nasa LPG Conversions",
     "wof:parent_id":85776189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "vehicle"
     ]
 },
-  "bbox": [150.897964,-34.478512,150.897964,-34.478512],
+  "bbox": [
+    150.897964,
+    -34.478512,
+    150.897964,
+    -34.478512
+],
   "geometry": {"coordinates":[150.897964,-34.478512],"type":"Point"}
 }

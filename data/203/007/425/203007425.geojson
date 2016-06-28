@@ -2,13 +2,14 @@
   "id": 203007425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.491211,-20.728064,139.491211,-20.728064",
     "geom:latitude":-20.728064,
     "geom:longitude":139.491211,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203007425,
-    "wof:lastmodified":1449026520,
+    "wof:lastmodified":1466187165,
     "wof:name":"Mobil Oil Australia Pty Ltd",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.491211,-20.728064,139.491211,-20.728064],
-  "geometry": {"coordinates":[139.491211,-20.728064],"type":"Point"}
+  "bbox": [
+    139.491211,
+    -20.728064,
+    139.491211,
+    -20.728064
+],
+  "geometry": {"coordinates":[139.49121099999999,-20.728064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236443021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.184067,-21.141157,149.184067,-21.141157",
     "geom:latitude":-21.141157,
     "geom:longitude":149.184067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suncorp Building 123 Victoria St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236443021,
-    "wof:lastmodified":1449004515,
+    "wof:lastmodified":1466191224,
     "wof:name":"Al Robins",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.184067,-21.141157,149.184067,-21.141157],
+  "bbox": [
+    149.184067,
+    -21.141157,
+    149.184067,
+    -21.141157
+],
   "geometry": {"coordinates":[149.184067,-21.141157],"type":"Point"}
 }

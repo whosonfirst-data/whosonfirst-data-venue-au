@@ -2,13 +2,14 @@
   "id": 202402531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.927963,-37.82119,144.927963,-37.82119",
     "geom:latitude":-37.82119,
     "geom:longitude":144.927963,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202402531,
-    "wof:lastmodified":1449060924,
+    "wof:lastmodified":1466187730,
     "wof:name":"BMW Melbourne Body Shop",
     "wof:parent_id":85776037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [144.927963,-37.82119,144.927963,-37.82119],
-  "geometry": {"coordinates":[144.927963,-37.82119],"type":"Point"}
+  "bbox": [
+    144.927963,
+    -37.82119,
+    144.927963,
+    -37.82119
+],
+  "geometry": {"coordinates":[144.92796300000001,-37.82119],"type":"Point"}
 }

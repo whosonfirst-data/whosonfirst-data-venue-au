@@ -2,13 +2,14 @@
   "id": 236146757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.855865,-34.720234,135.855865,-34.720234",
     "geom:latitude":-34.720234,
     "geom:longitude":135.855865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Hallett Pl",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236146757,
-    "wof:lastmodified":1449002939,
+    "wof:lastmodified":1466189474,
     "wof:name":"Wayne Smith Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [135.855865,-34.720234,135.855865,-34.720234],
-  "geometry": {"coordinates":[135.855865,-34.720234],"type":"Point"}
+  "bbox": [
+    135.855865,
+    -34.720234,
+    135.855865,
+    -34.720234
+],
+  "geometry": {"coordinates":[135.85586499999999,-34.720234],"type":"Point"}
 }

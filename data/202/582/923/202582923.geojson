@@ -2,13 +2,14 @@
   "id": 202582923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.600555,-33.824997,138.600555,-33.824997",
     "geom:latitude":-33.824997,
     "geom:longitude":138.600555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"RSD 25 Via",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582923,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1466187149,
     "wof:name":"Firgrave Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [138.600555,-33.824997,138.600555,-33.824997],
-  "geometry": {"coordinates":[138.600555,-33.824997],"type":"Point"}
+  "bbox": [
+    138.600555,
+    -33.824997,
+    138.600555,
+    -33.824997
+],
+  "geometry": {"coordinates":[138.60055500000001,-33.824997],"type":"Point"}
 }

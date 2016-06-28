@@ -2,13 +2,14 @@
   "id": 169823771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.816437,-31.987513,115.816437,-31.987513",
     "geom:latitude":-31.987513,
     "geom:longitude":115.816437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15/ 38 Ranelagh Crs",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169823771,
-    "wof:lastmodified":1449035936,
+    "wof:lastmodified":1466189088,
     "wof:name":"Lee Jennifer",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [115.816437,-31.987513,115.816437,-31.987513],
-  "geometry": {"coordinates":[115.816437,-31.987513],"type":"Point"}
+  "bbox": [
+    115.816437,
+    -31.987513,
+    115.816437,
+    -31.987513
+],
+  "geometry": {"coordinates":[115.81643699999999,-31.987513],"type":"Point"}
 }

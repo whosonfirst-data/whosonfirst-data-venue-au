@@ -2,13 +2,14 @@
   "id": 203141787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.748398,-32.535446,115.748398,-32.535446",
     "geom:latitude":-32.535446,
     "geom:longitude":115.748398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Mississippi Drv",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203141787,
-    "wof:lastmodified":1449025587,
+    "wof:lastmodified":1466189621,
     "wof:name":"Murray Small Freights",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [115.748398,-32.535446,115.748398,-32.535446],
-  "geometry": {"coordinates":[115.748398,-32.535446],"type":"Point"}
+  "bbox": [
+    115.748398,
+    -32.535446,
+    115.748398,
+    -32.535446
+],
+  "geometry": {"coordinates":[115.74839799999999,-32.535446],"type":"Point"}
 }

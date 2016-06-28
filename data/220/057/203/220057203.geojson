@@ -2,13 +2,14 @@
   "id": 220057203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.323608,-38.332645,144.323608,-38.332645",
     "geom:latitude":-38.332645,
     "geom:longitude":144.323608,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Pearl St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220057203,
-    "wof:lastmodified":1449074428,
+    "wof:lastmodified":1466187571,
     "wof:name":"Surf Coast Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [144.323608,-38.332645,144.323608,-38.332645],
-  "geometry": {"coordinates":[144.323608,-38.332645],"type":"Point"}
+  "bbox": [
+    144.323608,
+    -38.332645,
+    144.323608,
+    -38.332645
+],
+  "geometry": {"coordinates":[144.32360800000001,-38.332645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203135825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.773918,-32.547798,115.773918,-32.547798",
     "geom:latitude":-32.547798,
     "geom:longitude":115.773918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, 327 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203135825,
-    "wof:lastmodified":1449025642,
+    "wof:lastmodified":1466189578,
     "wof:name":"Energy World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [115.773918,-32.547798,115.773918,-32.547798],
-  "geometry": {"coordinates":[115.773918,-32.547798],"type":"Point"}
+  "bbox": [
+    115.773918,
+    -32.547798,
+    115.773918,
+    -32.547798
+],
+  "geometry": {"coordinates":[115.77391799999999,-32.547798],"type":"Point"}
 }

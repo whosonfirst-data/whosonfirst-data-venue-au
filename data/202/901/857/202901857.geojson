@@ -2,13 +2,14 @@
   "id": 202901857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.195175,-30.124933,153.195175,-30.124933",
     "geom:latitude":-30.124933,
     "geom:longitude":153.195175,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Bosworth Rd",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202901857,
-    "wof:lastmodified":1449061177,
+    "wof:lastmodified":1466190564,
     "wof:name":"Clark Trevor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.195175,-30.124933,153.195175,-30.124933],
-  "geometry": {"coordinates":[153.195175,-30.124933],"type":"Point"}
+  "bbox": [
+    153.195175,
+    -30.124933,
+    153.195175,
+    -30.124933
+],
+  "geometry": {"coordinates":[153.19517500000001,-30.124933],"type":"Point"}
 }

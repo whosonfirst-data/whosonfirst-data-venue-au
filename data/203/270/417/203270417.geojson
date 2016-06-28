@@ -2,13 +2,14 @@
   "id": 203270417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.176392,-33.138657,148.176392,-33.138657",
     "geom:latitude":-33.138657,
     "geom:longitude":148.176392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Currajong St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203270417,
-    "wof:lastmodified":1449025283,
+    "wof:lastmodified":1466187725,
     "wof:name":"Pearce John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.176392,-33.138657,148.176392,-33.138657],
-  "geometry": {"coordinates":[148.176392,-33.138657],"type":"Point"}
+  "bbox": [
+    148.176392,
+    -33.138657,
+    148.176392,
+    -33.138657
+],
+  "geometry": {"coordinates":[148.17639199999999,-33.138657],"type":"Point"}
 }

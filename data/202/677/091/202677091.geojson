@@ -2,13 +2,14 @@
   "id": 202677091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031006,-27.38904,153.031006,-27.38904",
     "geom:latitude":-27.38904,
     "geom:longitude":153.031006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Gympie Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202677091,
-    "wof:lastmodified":1449061018,
+    "wof:lastmodified":1466188405,
     "wof:name":"Lee, Graham A",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.031006,-27.38904,153.031006,-27.38904],
-  "geometry": {"coordinates":[153.031006,-27.38904],"type":"Point"}
+  "bbox": [
+    153.031006,
+    -27.38904,
+    153.031006,
+    -27.38904
+],
+  "geometry": {"coordinates":[153.03100599999999,-27.38904],"type":"Point"}
 }

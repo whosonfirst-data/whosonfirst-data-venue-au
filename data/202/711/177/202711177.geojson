@@ -2,13 +2,14 @@
   "id": 202711177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.057816,-27.36219,153.057816,-27.36219",
     "geom:latitude":-27.36219,
     "geom:longitude":153.057816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Zillmere Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202711177,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466189047,
     "wof:name":"Finesse Massage",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [153.057816,-27.36219,153.057816,-27.36219],
+  "bbox": [
+    153.057816,
+    -27.36219,
+    153.057816,
+    -27.36219
+],
   "geometry": {"coordinates":[153.057816,-27.36219],"type":"Point"}
 }

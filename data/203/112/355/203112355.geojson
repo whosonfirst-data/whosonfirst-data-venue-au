@@ -2,13 +2,14 @@
   "id": 203112355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.742912,-32.51128,115.742912,-32.51128",
     "geom:latitude":-32.51128,
     "geom:longitude":115.742912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19- 21 Gordon Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203112355,
-    "wof:lastmodified":1449025783,
+    "wof:lastmodified":1466189233,
     "wof:name":"Midas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brake"
     ]
 },
-  "bbox": [115.742912,-32.51128,115.742912,-32.51128],
+  "bbox": [
+    115.742912,
+    -32.51128,
+    115.742912,
+    -32.51128
+],
   "geometry": {"coordinates":[115.742912,-32.51128],"type":"Point"}
 }

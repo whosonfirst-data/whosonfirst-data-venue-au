@@ -2,13 +2,14 @@
   "id": 236104259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935043,-37.783234,144.935043,-37.783234",
     "geom:latitude":-37.783234,
     "geom:longitude":144.935043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Mt Alexander Rd",
     "sg:city":"Flemington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236104259,
-    "wof:lastmodified":1449002926,
+    "wof:lastmodified":1466188714,
     "wof:name":"Borg Dental Supplies",
     "wof:parent_id":85776501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dental"
     ]
 },
-  "bbox": [144.935043,-37.783234,144.935043,-37.783234],
-  "geometry": {"coordinates":[144.935043,-37.783234],"type":"Point"}
+  "bbox": [
+    144.935043,
+    -37.783234,
+    144.935043,
+    -37.783234
+],
+  "geometry": {"coordinates":[144.93504300000001,-37.783234],"type":"Point"}
 }

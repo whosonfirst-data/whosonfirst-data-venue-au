@@ -2,13 +2,14 @@
   "id": 253074399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.82489,-37.747307,144.82489,-37.747307",
     "geom:latitude":-37.747307,
     "geom:longitude":144.82489,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Main Rd West St",
     "sg:city":"Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253074399,
-    "wof:lastmodified":1449064426,
+    "wof:lastmodified":1466188265,
     "wof:name":"Laska F",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.82489,-37.747307,144.82489,-37.747307],
-  "geometry": {"coordinates":[144.82489,-37.747307],"type":"Point"}
+  "bbox": [
+    144.82489,
+    -37.747307,
+    144.82489,
+    -37.747307
+],
+  "geometry": {"coordinates":[144.82489000000001,-37.747307],"type":"Point"}
 }

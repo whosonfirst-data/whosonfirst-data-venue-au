@@ -2,13 +2,14 @@
   "id": 253206559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.940063,-27.585085,151.940063,-27.585085",
     "geom:latitude":-27.585085,
     "geom:longitude":151.940063,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Hoey St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253206559,
-    "wof:lastmodified":1449064856,
+    "wof:lastmodified":1466190135,
     "wof:name":"Trygon Agri-Solutions Pty Ltd",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [151.940063,-27.585085,151.940063,-27.585085],
-  "geometry": {"coordinates":[151.940063,-27.585085],"type":"Point"}
+  "bbox": [
+    151.940063,
+    -27.585085,
+    151.940063,
+    -27.585085
+],
+  "geometry": {"coordinates":[151.94006300000001,-27.585085],"type":"Point"}
 }

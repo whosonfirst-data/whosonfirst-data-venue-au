@@ -2,13 +2,14 @@
   "id": 202775343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.768967,-32.928238,151.768967,-32.928238",
     "geom:latitude":-32.928238,
     "geom:longitude":151.768967,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"328 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202775343,
-    "wof:lastmodified":1449061978,
+    "wof:lastmodified":1466190109,
     "wof:name":"Century 21-Newcastle",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.768967,-32.928238,151.768967,-32.928238],
+  "bbox": [
+    151.768967,
+    -32.928238,
+    151.768967,
+    -32.928238
+],
   "geometry": {"coordinates":[151.768967,-32.928238],"type":"Point"}
 }

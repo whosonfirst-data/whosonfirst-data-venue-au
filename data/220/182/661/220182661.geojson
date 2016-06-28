@@ -2,13 +2,14 @@
   "id": 220182661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.331223,-38.160694,144.331223,-38.160694",
     "geom:latitude":-38.160694,
     "geom:longitude":144.331223,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shannon Park Centre Balcombe Rd",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220182661,
-    "wof:lastmodified":1449074565,
+    "wof:lastmodified":1466189239,
     "wof:name":"Scope (VIC) Pty Ltd",
     "wof:parent_id":85777709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [144.331223,-38.160694,144.331223,-38.160694],
-  "geometry": {"coordinates":[144.331223,-38.160694],"type":"Point"}
+  "bbox": [
+    144.331223,
+    -38.160694,
+    144.331223,
+    -38.160694
+],
+  "geometry": {"coordinates":[144.33122299999999,-38.160694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220142251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.372543,-38.150406,144.372543,-38.150406",
     "geom:latitude":-38.150406,
     "geom:longitude":144.372543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220142251,
-    "wof:lastmodified":1449074677,
+    "wof:lastmodified":1466188432,
     "wof:name":"D & S King Builders",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.372543,-38.150406,144.372543,-38.150406],
-  "geometry": {"coordinates":[144.372543,-38.150406],"type":"Point"}
+  "bbox": [
+    144.372543,
+    -38.150406,
+    144.372543,
+    -38.150406
+],
+  "geometry": {"coordinates":[144.37254300000001,-38.150406],"type":"Point"}
 }

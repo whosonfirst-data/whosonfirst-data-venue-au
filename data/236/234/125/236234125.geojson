@@ -2,13 +2,14 @@
   "id": 236234125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.766724,-38.105129,145.766724,-38.105129",
     "geom:latitude":-38.105129,
     "geom:longitude":145.766724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Princess Hwy",
     "sg:city":"Longwarry North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236234125,
-    "wof:lastmodified":1449005035,
+    "wof:lastmodified":1466190166,
     "wof:name":"Gardens & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wall"
     ]
 },
-  "bbox": [145.766724,-38.105129,145.766724,-38.105129],
-  "geometry": {"coordinates":[145.766724,-38.105129],"type":"Point"}
+  "bbox": [
+    145.766724,
+    -38.105129,
+    145.766724,
+    -38.105129
+],
+  "geometry": {"coordinates":[145.76672400000001,-38.105129],"type":"Point"}
 }

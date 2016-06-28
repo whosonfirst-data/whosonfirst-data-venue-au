@@ -2,13 +2,14 @@
   "id": 219910207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.909576,-34.325932,150.909576,-34.325932",
     "geom:latitude":-34.325932,
     "geom:longitude":150.909576,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 William St",
     "sg:city":"Bulli",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219910207,
-    "wof:lastmodified":1449071856,
+    "wof:lastmodified":1466191751,
     "wof:name":"R & L Pty Ltd",
     "wof:parent_id":85770735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [150.909576,-34.325932,150.909576,-34.325932],
-  "geometry": {"coordinates":[150.909576,-34.325932],"type":"Point"}
+  "bbox": [
+    150.909576,
+    -34.325932,
+    150.909576,
+    -34.325932
+],
+  "geometry": {"coordinates":[150.90957599999999,-34.325932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236844015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.900742,-34.414219,150.900742,-34.414219",
     "geom:latitude":-34.414219,
     "geom:longitude":150.900742,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 - 14 Cliff Rd",
     "sg:city":"North Wollongong",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236844015,
-    "wof:lastmodified":1449002993,
+    "wof:lastmodified":1466192136,
     "wof:name":"Novotel Northbeach Wollongong",
     "wof:parent_id":85776197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.900742,-34.414219,150.900742,-34.414219],
-  "geometry": {"coordinates":[150.900742,-34.414219],"type":"Point"}
+  "bbox": [
+    150.900742,
+    -34.414219,
+    150.900742,
+    -34.414219
+],
+  "geometry": {"coordinates":[150.90074200000001,-34.414219],"type":"Point"}
 }

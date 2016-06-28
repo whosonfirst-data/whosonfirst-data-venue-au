@@ -2,13 +2,14 @@
   "id": 202686137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.974747,-27.344542,152.974747,-27.344542",
     "geom:latitude":-27.344542,
     "geom:longitude":152.974747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Bevlin Crt",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686137,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466188570,
     "wof:name":"Albany Creek Upholstery",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [152.974747,-27.344542,152.974747,-27.344542],
-  "geometry": {"coordinates":[152.974747,-27.344542],"type":"Point"}
+  "bbox": [
+    152.974747,
+    -27.344542,
+    152.974747,
+    -27.344542
+],
+  "geometry": {"coordinates":[152.97474700000001,-27.344542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203111483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.70591,-32.53981,115.70591,-32.53981",
     "geom:latitude":-32.53981,
     "geom:longitude":115.70591,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 McLarty Rd",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203111483,
-    "wof:lastmodified":1449026904,
+    "wof:lastmodified":1466189215,
     "wof:name":"Cuddles Halls Head",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.70591,-32.53981,115.70591,-32.53981],
+  "bbox": [
+    115.70591,
+    -32.53981,
+    115.70591,
+    -32.53981
+],
   "geometry": {"coordinates":[115.70591,-32.53981],"type":"Point"}
 }

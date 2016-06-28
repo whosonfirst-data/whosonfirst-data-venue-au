@@ -2,13 +2,14 @@
   "id": 203012797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.481979,-20.73167,139.481979,-20.73167",
     "geom:latitude":-20.73167,
     "geom:longitude":139.481979,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"R.F.D.S.11 Barkly Hwy",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203012797,
-    "wof:lastmodified":1449026680,
+    "wof:lastmodified":1466187318,
     "wof:name":"North West Isolated Care",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [139.481979,-20.73167,139.481979,-20.73167],
+  "bbox": [
+    139.481979,
+    -20.73167,
+    139.481979,
+    -20.73167
+],
   "geometry": {"coordinates":[139.481979,-20.73167],"type":"Point"}
 }

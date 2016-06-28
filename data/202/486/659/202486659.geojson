@@ -2,13 +2,14 @@
   "id": 202486659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.035614,-37.918182,145.035614,-37.918182",
     "geom:latitude":-37.918182,
     "geom:longitude":145.035614,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202486659,
-    "wof:lastmodified":1449061518,
+    "wof:lastmodified":1466189347,
     "wof:name":"Bodie, Colin",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [145.035614,-37.918182,145.035614,-37.918182],
-  "geometry": {"coordinates":[145.035614,-37.918182],"type":"Point"}
+  "bbox": [
+    145.035614,
+    -37.918182,
+    145.035614,
+    -37.918182
+],
+  "geometry": {"coordinates":[145.03561400000001,-37.918182],"type":"Point"}
 }

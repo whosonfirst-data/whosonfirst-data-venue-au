@@ -2,13 +2,14 @@
   "id": 186442517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177765,-33.898762,151.177765,-33.898762",
     "geom:latitude":-33.898762,
     "geom:longitude":151.177765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"363 King St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186442517,
-    "wof:lastmodified":1449051550,
+    "wof:lastmodified":1466190070,
     "wof:name":"BB Designer Jewellers",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [151.177765,-33.898762,151.177765,-33.898762],
-  "geometry": {"coordinates":[151.177765,-33.898762],"type":"Point"}
+  "bbox": [
+    151.177765,
+    -33.898762,
+    151.177765,
+    -33.898762
+],
+  "geometry": {"coordinates":[151.17776499999999,-33.898762],"type":"Point"}
 }

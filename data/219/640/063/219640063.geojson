@@ -2,13 +2,14 @@
   "id": 219640063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130905,-33.956741,151.130905,-33.956741",
     "geom:latitude":-33.956741,
     "geom:longitude":151.130905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70a Dunmore St",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219640063,
-    "wof:lastmodified":1449071919,
+    "wof:lastmodified":1466190930,
     "wof:name":"Peter Griziotis English",
     "wof:parent_id":85777013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "language"
     ]
 },
-  "bbox": [151.130905,-33.956741,151.130905,-33.956741],
-  "geometry": {"coordinates":[151.130905,-33.956741],"type":"Point"}
+  "bbox": [
+    151.130905,
+    -33.956741,
+    151.130905,
+    -33.956741
+],
+  "geometry": {"coordinates":[151.13090500000001,-33.956741],"type":"Point"}
 }

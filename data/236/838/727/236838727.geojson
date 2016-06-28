@@ -2,13 +2,14 @@
   "id": 236838727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.896973,-34.414394,150.896973,-34.414394",
     "geom:latitude":-34.414394,
     "geom:longitude":150.896973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bourke St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236838727,
-    "wof:lastmodified":1449001975,
+    "wof:lastmodified":1466192025,
     "wof:name":"Normandie Motel",
     "wof:parent_id":85776197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "convention"
     ]
 },
-  "bbox": [150.896973,-34.414394,150.896973,-34.414394],
+  "bbox": [
+    150.896973,
+    -34.414394,
+    150.896973,
+    -34.414394
+],
   "geometry": {"coordinates":[150.896973,-34.414394],"type":"Point"}
 }

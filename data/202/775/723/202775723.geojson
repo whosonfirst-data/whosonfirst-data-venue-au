@@ -2,13 +2,14 @@
   "id": 202775723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.778748,-32.927612,151.778748,-32.927612",
     "geom:latitude":-32.927612,
     "geom:longitude":151.778748,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202775723,
-    "wof:lastmodified":1449061978,
+    "wof:lastmodified":1466189999,
     "wof:name":"Newcastle Dental Care Centre",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.778748,-32.927612,151.778748,-32.927612],
-  "geometry": {"coordinates":[151.778748,-32.927612],"type":"Point"}
+  "bbox": [
+    151.778748,
+    -32.927612,
+    151.778748,
+    -32.927612
+],
+  "geometry": {"coordinates":[151.77874800000001,-32.927612],"type":"Point"}
 }

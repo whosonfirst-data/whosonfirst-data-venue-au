@@ -2,13 +2,14 @@
   "id": 186089105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.812515,-31.647301,152.812515,-31.647301",
     "geom:latitude":-31.647301,
     "geom:longitude":152.812515,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bergalia Crs",
     "sg:city":"Dunbogan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186089105,
-    "wof:lastmodified":1449050947,
+    "wof:lastmodified":1466189092,
     "wof:name":"Fennell R W & C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [152.812515,-31.647301,152.812515,-31.647301],
-  "geometry": {"coordinates":[152.812515,-31.647301],"type":"Point"}
+  "bbox": [
+    152.812515,
+    -31.647301,
+    152.812515,
+    -31.647301
+],
+  "geometry": {"coordinates":[152.81251499999999,-31.647301],"type":"Point"}
 }

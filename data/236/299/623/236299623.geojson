@@ -2,13 +2,14 @@
   "id": 236299623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.741493,-32.285564,115.741493,-32.285564",
     "geom:latitude":-32.285564,
     "geom:longitude":115.741493,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/12 Leghorn St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236299623,
-    "wof:lastmodified":1449002309,
+    "wof:lastmodified":1466190359,
     "wof:name":"ITP The Income Tax Professionals",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [115.741493,-32.285564,115.741493,-32.285564],
-  "geometry": {"coordinates":[115.741493,-32.285564],"type":"Point"}
+  "bbox": [
+    115.741493,
+    -32.285564,
+    115.741493,
+    -32.285564
+],
+  "geometry": {"coordinates":[115.74149300000001,-32.285564],"type":"Point"}
 }

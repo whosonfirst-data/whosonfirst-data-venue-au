@@ -2,13 +2,14 @@
   "id": 203369253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.848816,-37.560608,143.848816,-37.560608",
     "geom:latitude":-37.560608,
     "geom:longitude":143.848816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Errard St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203369253,
-    "wof:lastmodified":1449026777,
+    "wof:lastmodified":1466189012,
     "wof:name":"Tulips Executive Apartments",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.848816,-37.560608,143.848816,-37.560608],
+  "bbox": [
+    143.848816,
+    -37.560608,
+    143.848816,
+    -37.560608
+],
   "geometry": {"coordinates":[143.848816,-37.560608],"type":"Point"}
 }

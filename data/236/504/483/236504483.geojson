@@ -2,13 +2,14 @@
   "id": 236504483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.187805,-21.151209,149.187805,-21.151209",
     "geom:latitude":-21.151209,
     "geom:longitude":149.187805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Turner St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236504483,
-    "wof:lastmodified":1449002111,
+    "wof:lastmodified":1466191381,
     "wof:name":"Land Rover Spares",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [149.187805,-21.151209,149.187805,-21.151209],
+  "bbox": [
+    149.187805,
+    -21.151209,
+    149.187805,
+    -21.151209
+],
   "geometry": {"coordinates":[149.187805,-21.151209],"type":"Point"}
 }

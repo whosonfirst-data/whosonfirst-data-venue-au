@@ -2,13 +2,14 @@
   "id": 253137781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.937042,-27.602942,151.937042,-27.602942",
     "geom:latitude":-27.602942,
     "geom:longitude":151.937042,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Janine Crt",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253137781,
-    "wof:lastmodified":1449065364,
+    "wof:lastmodified":1466189379,
     "wof:name":"Conway Paving",
     "wof:parent_id":85779701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [151.937042,-27.602942,151.937042,-27.602942],
-  "geometry": {"coordinates":[151.937042,-27.602942],"type":"Point"}
+  "bbox": [
+    151.937042,
+    -27.602942,
+    151.937042,
+    -27.602942
+],
+  "geometry": {"coordinates":[151.93704199999999,-27.602942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253312233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.319122,-38.067532,145.319122,-38.067532",
     "geom:latitude":-38.067532,
     "geom:longitude":145.319122,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Ardenne Crt",
     "sg:city":"Narre Warren South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253312233,
-    "wof:lastmodified":1449064320,
+    "wof:lastmodified":1466190705,
     "wof:name":"Triton Linings",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [145.319122,-38.067532,145.319122,-38.067532],
-  "geometry": {"coordinates":[145.319122,-38.067532],"type":"Point"}
+  "bbox": [
+    145.319122,
+    -38.067532,
+    145.319122,
+    -38.067532
+],
+  "geometry": {"coordinates":[145.31912199999999,-38.067532],"type":"Point"}
 }

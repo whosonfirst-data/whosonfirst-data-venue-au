@@ -2,13 +2,14 @@
   "id": 203381111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.834976,-37.54084,143.834976,-37.54084",
     "geom:latitude":-37.54084,
     "geom:longitude":143.834976,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Howitt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203381111,
-    "wof:lastmodified":1449025092,
+    "wof:lastmodified":1466189218,
     "wof:name":"Car Works",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [143.834976,-37.54084,143.834976,-37.54084],
-  "geometry": {"coordinates":[143.834976,-37.54084],"type":"Point"}
+  "bbox": [
+    143.834976,
+    -37.54084,
+    143.834976,
+    -37.54084
+],
+  "geometry": {"coordinates":[143.83497600000001,-37.54084],"type":"Point"}
 }

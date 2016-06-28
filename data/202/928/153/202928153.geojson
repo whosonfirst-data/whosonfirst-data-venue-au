@@ -2,13 +2,14 @@
   "id": 202928153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.130371,-30.30526,153.130371,-30.30526",
     "geom:latitude":-30.30526,
     "geom:longitude":153.130371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Harbour Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202928153,
-    "wof:lastmodified":1449062300,
+    "wof:lastmodified":1466190877,
     "wof:name":"Amanda Karcher Travel",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [153.130371,-30.30526,153.130371,-30.30526],
+  "bbox": [
+    153.130371,
+    -30.30526,
+    153.130371,
+    -30.30526
+],
   "geometry": {"coordinates":[153.130371,-30.30526],"type":"Point"}
 }

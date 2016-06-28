@@ -2,13 +2,14 @@
   "id": 202522955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.166794,-38.102161,145.166794,-38.102161",
     "geom:latitude":-38.102161,
     "geom:longitude":145.166794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Titan Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202522955,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466189761,
     "wof:name":"Gray E & H Welding Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [145.166794,-38.102161,145.166794,-38.102161],
-  "geometry": {"coordinates":[145.166794,-38.102161],"type":"Point"}
+  "bbox": [
+    145.166794,
+    -38.102161,
+    145.166794,
+    -38.102161
+],
+  "geometry": {"coordinates":[145.16679400000001,-38.102161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203016049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.143097,-20.73255,143.143097,-20.73255",
     "geom:latitude":-20.73255,
     "geom:longitude":143.143097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Habana Rd",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203016049,
-    "wof:lastmodified":1449025273,
+    "wof:lastmodified":1466189969,
     "wof:name":"Borg G W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [143.143097,-20.73255,143.143097,-20.73255],
-  "geometry": {"coordinates":[143.143097,-20.73255],"type":"Point"}
+  "bbox": [
+    143.143097,
+    -20.73255,
+    143.143097,
+    -20.73255
+],
+  "geometry": {"coordinates":[143.14309700000001,-20.73255],"type":"Point"}
 }

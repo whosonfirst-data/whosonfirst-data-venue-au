@@ -2,13 +2,14 @@
   "id": 236709089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.555954,-31.957287,152.555954,-31.957287",
     "geom:latitude":-31.957287,
     "geom:longitude":152.555954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Manning Point Rd",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236709089,
-    "wof:lastmodified":1449002170,
+    "wof:lastmodified":1466191849,
     "wof:name":"Old Bar Locksmith Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [152.555954,-31.957287,152.555954,-31.957287],
-  "geometry": {"coordinates":[152.555954,-31.957287],"type":"Point"}
+  "bbox": [
+    152.555954,
+    -31.957287,
+    152.555954,
+    -31.957287
+],
+  "geometry": {"coordinates":[152.55595400000001,-31.957287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252850879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.590469,-32.591129,149.590469,-32.591129",
     "geom:latitude":-32.591129,
     "geom:longitude":149.590469,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Market St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252850879,
-    "wof:lastmodified":1449006045,
+    "wof:lastmodified":1466188556,
     "wof:name":"Mudgee Home Decor Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.590469,-32.591129,149.590469,-32.591129],
-  "geometry": {"coordinates":[149.590469,-32.591129],"type":"Point"}
+  "bbox": [
+    149.590469,
+    -32.591129,
+    149.590469,
+    -32.591129
+],
+  "geometry": {"coordinates":[149.59046900000001,-32.591129],"type":"Point"}
 }

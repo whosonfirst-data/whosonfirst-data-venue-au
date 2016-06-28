@@ -2,13 +2,14 @@
   "id": 253314755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.306335,-38.021442,145.306335,-38.021442",
     "geom:latitude":-38.021442,
     "geom:longitude":145.306335,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Webb St",
     "sg:city":"Fountain Gate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253314755,
-    "wof:lastmodified":1449065673,
+    "wof:lastmodified":1466190863,
     "wof:name":"Harvey Norman Flooring",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [145.306335,-38.021442,145.306335,-38.021442],
-  "geometry": {"coordinates":[145.306335,-38.021442],"type":"Point"}
+  "bbox": [
+    145.306335,
+    -38.021442,
+    145.306335,
+    -38.021442
+],
+  "geometry": {"coordinates":[145.30633499999999,-38.021442],"type":"Point"}
 }

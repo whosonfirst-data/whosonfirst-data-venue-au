@@ -2,13 +2,14 @@
   "id": 253037085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.799896,-37.828987,144.799896,-37.828987",
     "geom:latitude":-37.828987,
     "geom:longitude":144.799896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Dohertys Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253037085,
-    "wof:lastmodified":1449065852,
+    "wof:lastmodified":1466187659,
     "wof:name":"Phoenix Steel",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchant"
     ]
 },
-  "bbox": [144.799896,-37.828987,144.799896,-37.828987],
-  "geometry": {"coordinates":[144.799896,-37.828987],"type":"Point"}
+  "bbox": [
+    144.799896,
+    -37.828987,
+    144.799896,
+    -37.828987
+],
+  "geometry": {"coordinates":[144.79989599999999,-37.828987],"type":"Point"}
 }

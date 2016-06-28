@@ -2,13 +2,14 @@
   "id": 203415439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.510498,-34.437908,138.510498,-34.437908",
     "geom:latitude":-34.437908,
     "geom:longitude":138.510498,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wasleys Rd",
     "sg:city":"Mallala",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203415439,
-    "wof:lastmodified":1449026330,
+    "wof:lastmodified":1466189638,
     "wof:name":"Marshman Leon H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [138.510498,-34.437908,138.510498,-34.437908],
-  "geometry": {"coordinates":[138.510498,-34.437908],"type":"Point"}
+  "bbox": [
+    138.510498,
+    -34.437908,
+    138.510498,
+    -34.437908
+],
+  "geometry": {"coordinates":[138.51049800000001,-34.437908],"type":"Point"}
 }

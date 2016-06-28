@@ -2,13 +2,14 @@
   "id": 185750215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.078415,-32.72628,152.078415,-32.72628",
     "geom:latitude":-32.72628,
     "geom:longitude":152.078415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5/ 141 George Rd",
     "sg:city":"Salamander Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185750215,
-    "wof:lastmodified":1449007593,
+    "wof:lastmodified":1466189581,
     "wof:name":"Fairfit Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repairer"
     ]
 },
-  "bbox": [152.078415,-32.72628,152.078415,-32.72628],
-  "geometry": {"coordinates":[152.078415,-32.72628],"type":"Point"}
+  "bbox": [
+    152.078415,
+    -32.72628,
+    152.078415,
+    -32.72628
+],
+  "geometry": {"coordinates":[152.07841500000001,-32.72628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203190565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.728851,-40.98885,145.728851,-40.98885",
     "geom:latitude":-40.98885,
     "geom:longitude":145.728851,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 286",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203190565,
-    "wof:lastmodified":1449026756,
+    "wof:lastmodified":1466186930,
     "wof:name":"Hutton D R & S A Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [145.728851,-40.98885,145.728851,-40.98885],
-  "geometry": {"coordinates":[145.728851,-40.98885],"type":"Point"}
+  "bbox": [
+    145.728851,
+    -40.98885,
+    145.728851,
+    -40.98885
+],
+  "geometry": {"coordinates":[145.72885099999999,-40.98885],"type":"Point"}
 }

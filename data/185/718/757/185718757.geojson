@@ -2,13 +2,14 @@
   "id": 185718757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.85434,-32.751343,151.85434,-32.751343",
     "geom:latitude":-32.751343,
     "geom:longitude":151.85434,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67a Abundance Rd",
     "sg:city":"Medowie",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185718757,
-    "wof:lastmodified":1449006965,
+    "wof:lastmodified":1466189334,
     "wof:name":"Hunter Region Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.85434,-32.751343,151.85434,-32.751343],
-  "geometry": {"coordinates":[151.85434,-32.751343],"type":"Point"}
+  "bbox": [
+    151.85434,
+    -32.751343,
+    151.85434,
+    -32.751343
+],
+  "geometry": {"coordinates":[151.85434000000001,-32.751343],"type":"Point"}
 }

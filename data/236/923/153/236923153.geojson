@@ -2,13 +2,14 @@
   "id": 236923153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.518799,-34.979969,138.518799,-34.979969",
     "geom:latitude":-34.979969,
     "geom:longitude":138.518799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113a Jetty Rd",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236923153,
-    "wof:lastmodified":1449005112,
+    "wof:lastmodified":1466192118,
     "wof:name":"Seaside Swimwear & Resortwear",
     "wof:parent_id":85770879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimwear"
     ]
 },
-  "bbox": [138.518799,-34.979969,138.518799,-34.979969],
+  "bbox": [
+    138.518799,
+    -34.979969,
+    138.518799,
+    -34.979969
+],
   "geometry": {"coordinates":[138.518799,-34.979969],"type":"Point"}
 }

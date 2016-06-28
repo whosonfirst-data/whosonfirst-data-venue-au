@@ -2,13 +2,14 @@
   "id": 203095205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.751244,-32.513031,115.751244,-32.513031",
     "geom:latitude":-32.513031,
     "geom:longitude":115.751244,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 6 Delmont Pl",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203095205,
-    "wof:lastmodified":1449025892,
+    "wof:lastmodified":1466188977,
     "wof:name":"Boating & Caravan Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [115.751244,-32.513031,115.751244,-32.513031],
+  "bbox": [
+    115.751244,
+    -32.513031,
+    115.751244,
+    -32.513031
+],
   "geometry": {"coordinates":[115.751244,-32.513031],"type":"Point"}
 }

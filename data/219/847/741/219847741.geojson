@@ -2,13 +2,14 @@
   "id": 219847741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175583,-33.860813,151.175583,-33.860813",
     "geom:latitude":-33.860813,
     "geom:longitude":151.175583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13/ 36 Reynolds St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219847741,
-    "wof:lastmodified":1449071671,
+    "wof:lastmodified":1466191519,
     "wof:name":"Tenderhearts",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [151.175583,-33.860813,151.175583,-33.860813],
-  "geometry": {"coordinates":[151.175583,-33.860813],"type":"Point"}
+  "bbox": [
+    151.175583,
+    -33.860813,
+    151.175583,
+    -33.860813
+],
+  "geometry": {"coordinates":[151.17558299999999,-33.860813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203310635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.814789,-37.530979,143.814789,-37.530979",
     "geom:latitude":-37.530979,
     "geom:longitude":143.814789,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Caravan St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203310635,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466188114,
     "wof:name":"K. T. Preston Pty. Ltd.",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carrier"
     ]
 },
-  "bbox": [143.814789,-37.530979,143.814789,-37.530979],
-  "geometry": {"coordinates":[143.814789,-37.530979],"type":"Point"}
+  "bbox": [
+    143.814789,
+    -37.530979,
+    143.814789,
+    -37.530979
+],
+  "geometry": {"coordinates":[143.81478899999999,-37.530979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203159863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.994446,-36.54932,145.994446,-36.54932",
     "geom:latitude":-36.54932,
     "geom:longitude":145.994446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Bridge St",
     "sg:city":"Benalla East",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203159863,
-    "wof:lastmodified":1449025174,
+    "wof:lastmodified":1466189729,
     "wof:name":"Benalla Cylinder Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "testing"
     ]
 },
-  "bbox": [145.994446,-36.54932,145.994446,-36.54932],
-  "geometry": {"coordinates":[145.994446,-36.54932],"type":"Point"}
+  "bbox": [
+    145.994446,
+    -36.54932,
+    145.994446,
+    -36.54932
+],
+  "geometry": {"coordinates":[145.99444600000001,-36.54932],"type":"Point"}
 }

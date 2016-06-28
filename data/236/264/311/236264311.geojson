@@ -2,13 +2,14 @@
   "id": 236264311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.709015,-34.767548,138.709015,-34.767548",
     "geom:latitude":-34.767548,
     "geom:longitude":138.709015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 Golden Grove Rd",
     "sg:city":"Golden Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236264311,
-    "wof:lastmodified":1449003865,
+    "wof:lastmodified":1466190250,
     "wof:name":"Newton Bottle Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "depot"
     ]
 },
-  "bbox": [138.709015,-34.767548,138.709015,-34.767548],
-  "geometry": {"coordinates":[138.709015,-34.767548],"type":"Point"}
+  "bbox": [
+    138.709015,
+    -34.767548,
+    138.709015,
+    -34.767548
+],
+  "geometry": {"coordinates":[138.70901499999999,-34.767548],"type":"Point"}
 }

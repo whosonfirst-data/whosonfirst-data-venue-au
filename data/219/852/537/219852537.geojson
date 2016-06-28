@@ -2,13 +2,14 @@
   "id": 219852537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.182007,-33.858246,151.182007,-33.858246",
     "geom:latitude":-33.858246,
     "geom:longitude":151.182007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1b Booth St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219852537,
-    "wof:lastmodified":1449073319,
+    "wof:lastmodified":1466191529,
     "wof:name":"Body Maintenance Studio",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.182007,-33.858246,151.182007,-33.858246],
+  "bbox": [
+    151.182007,
+    -33.858246,
+    151.182007,
+    -33.858246
+],
   "geometry": {"coordinates":[151.182007,-33.858246],"type":"Point"}
 }

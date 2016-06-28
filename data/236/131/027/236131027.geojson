@@ -2,13 +2,14 @@
   "id": 236131027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.864944,-37.733044,144.864944,-37.733044",
     "geom:latitude":-37.733044,
     "geom:longitude":144.864944,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Milleara Rd",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236131027,
-    "wof:lastmodified":1449002476,
+    "wof:lastmodified":1466189267,
     "wof:name":"Tee C L Dr",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.864944,-37.733044,144.864944,-37.733044],
-  "geometry": {"coordinates":[144.864944,-37.733044],"type":"Point"}
+  "bbox": [
+    144.864944,
+    -37.733044,
+    144.864944,
+    -37.733044
+],
+  "geometry": {"coordinates":[144.86494400000001,-37.733044],"type":"Point"}
 }

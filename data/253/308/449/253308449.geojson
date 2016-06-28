@@ -2,13 +2,14 @@
   "id": 253308449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.400955,-38.101017,145.400955,-38.101017",
     "geom:latitude":-38.101017,
     "geom:longitude":145.400955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Officer South Rd",
     "sg:city":"Officer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253308449,
-    "wof:lastmodified":1449065876,
+    "wof:lastmodified":1466190672,
     "wof:name":"Jesmond Dene Farm Accommodation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "retreat"
     ]
 },
-  "bbox": [145.400955,-38.101017,145.400955,-38.101017],
-  "geometry": {"coordinates":[145.400955,-38.101017],"type":"Point"}
+  "bbox": [
+    145.400955,
+    -38.101017,
+    145.400955,
+    -38.101017
+],
+  "geometry": {"coordinates":[145.40095500000001,-38.101017],"type":"Point"}
 }

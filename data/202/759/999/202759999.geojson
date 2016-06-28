@@ -2,13 +2,14 @@
   "id": 202759999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.283051,-23.552086,145.283051,-23.552086",
     "geom:latitude":-23.552086,
     "geom:longitude":145.283051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Oak St",
     "sg:city":"Barcaldine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202759999,
-    "wof:lastmodified":1449062694,
+    "wof:lastmodified":1466189852,
     "wof:name":"The Silver Thimble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [145.283051,-23.552086,145.283051,-23.552086],
+  "bbox": [
+    145.283051,
+    -23.552086,
+    145.283051,
+    -23.552086
+],
   "geometry": {"coordinates":[145.283051,-23.552086],"type":"Point"}
 }

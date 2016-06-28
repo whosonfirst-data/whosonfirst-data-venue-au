@@ -2,13 +2,14 @@
   "id": 236655663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.126495,-33.964584,151.126495,-33.964584",
     "geom:latitude":-33.964584,
     "geom:longitude":151.126495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Hill St",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236655663,
-    "wof:lastmodified":1449003566,
+    "wof:lastmodified":1466191778,
     "wof:name":"Bexley Painting",
     "wof:parent_id":85777013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [151.126495,-33.964584,151.126495,-33.964584],
-  "geometry": {"coordinates":[151.126495,-33.964584],"type":"Point"}
+  "bbox": [
+    151.126495,
+    -33.964584,
+    151.126495,
+    -33.964584
+],
+  "geometry": {"coordinates":[151.12649500000001,-33.964584],"type":"Point"}
 }

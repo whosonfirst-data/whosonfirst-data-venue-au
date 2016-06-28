@@ -2,13 +2,14 @@
   "id": 202776905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.768066,-32.927509,151.768066,-32.927509",
     "geom:latitude":-32.927509,
     "geom:longitude":151.768066,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202776905,
-    "wof:lastmodified":1449060677,
+    "wof:lastmodified":1466190148,
     "wof:name":"Mirraka",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [151.768066,-32.927509,151.768066,-32.927509],
+  "bbox": [
+    151.768066,
+    -32.927509,
+    151.768066,
+    -32.927509
+],
   "geometry": {"coordinates":[151.768066,-32.927509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202594891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.611145,-33.832939,138.611145,-33.832939",
     "geom:latitude":-33.832939,
     "geom:longitude":138.611145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202594891,
-    "wof:lastmodified":1449060475,
+    "wof:lastmodified":1466187241,
     "wof:name":"Healthy Glow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [138.611145,-33.832939,138.611145,-33.832939],
-  "geometry": {"coordinates":[138.611145,-33.832939],"type":"Point"}
+  "bbox": [
+    138.611145,
+    -33.832939,
+    138.611145,
+    -33.832939
+],
+  "geometry": {"coordinates":[138.61114499999999,-33.832939],"type":"Point"}
 }

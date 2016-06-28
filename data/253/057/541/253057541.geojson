@@ -2,13 +2,14 @@
   "id": 253057541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.76239,-37.761547,144.76239,-37.761547",
     "geom:latitude":-37.761547,
     "geom:longitude":144.76239,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Allandale Drv",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253057541,
-    "wof:lastmodified":1449064283,
+    "wof:lastmodified":1466188034,
     "wof:name":"Ivory Keys Music School",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [144.76239,-37.761547,144.76239,-37.761547],
-  "geometry": {"coordinates":[144.76239,-37.761547],"type":"Point"}
+  "bbox": [
+    144.76239,
+    -37.761547,
+    144.76239,
+    -37.761547
+],
+  "geometry": {"coordinates":[144.76239000000001,-37.761547],"type":"Point"}
 }

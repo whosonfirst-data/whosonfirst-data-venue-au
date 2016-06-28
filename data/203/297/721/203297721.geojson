@@ -2,13 +2,14 @@
   "id": 203297721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.145248,-33.087486,147.145248,-33.087486",
     "geom:latitude":-33.087486,
     "geom:longitude":147.145248,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Melrose St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203297721,
-    "wof:lastmodified":1449026184,
+    "wof:lastmodified":1466187930,
     "wof:name":"Broadleys Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [147.145248,-33.087486,147.145248,-33.087486],
-  "geometry": {"coordinates":[147.145248,-33.087486],"type":"Point"}
+  "bbox": [
+    147.145248,
+    -33.087486,
+    147.145248,
+    -33.087486
+],
+  "geometry": {"coordinates":[147.14524800000001,-33.087486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253152287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.90155,-27.555256,151.90155,-27.555256",
     "geom:latitude":-27.555256,
     "geom:longitude":151.90155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Boundary St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253152287,
-    "wof:lastmodified":1449065076,
+    "wof:lastmodified":1466189648,
     "wof:name":"Wanless Wastecorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "waste"
     ]
 },
-  "bbox": [151.90155,-27.555256,151.90155,-27.555256],
-  "geometry": {"coordinates":[151.90155,-27.555256],"type":"Point"}
+  "bbox": [
+    151.90155,
+    -27.555256,
+    151.90155,
+    -27.555256
+],
+  "geometry": {"coordinates":[151.90154999999999,-27.555256],"type":"Point"}
 }

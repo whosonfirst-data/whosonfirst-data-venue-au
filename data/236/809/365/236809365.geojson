@@ -2,13 +2,14 @@
   "id": 236809365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.886673,-34.485294,150.886673,-34.485294",
     "geom:latitude":-34.485294,
     "geom:longitude":150.886673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 210 - 222 Cowper St",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236809365,
-    "wof:lastmodified":1449004534,
+    "wof:lastmodified":1466191964,
     "wof:name":"AMX Money",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cheque"
     ]
 },
-  "bbox": [150.886673,-34.485294,150.886673,-34.485294],
+  "bbox": [
+    150.886673,
+    -34.485294,
+    150.886673,
+    -34.485294
+],
   "geometry": {"coordinates":[150.886673,-34.485294],"type":"Point"}
 }

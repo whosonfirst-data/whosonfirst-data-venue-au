@@ -2,13 +2,14 @@
   "id": 220042735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.841721,-33.249054,115.841721,-33.249054",
     "geom:latitude":-33.249054,
     "geom:longitude":115.841721,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"South Western Hwy",
     "sg:city":"Brunswick Junction",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220042735,
-    "wof:lastmodified":1449074651,
+    "wof:lastmodified":1466187440,
     "wof:name":"B & J Catalano Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carrier"
     ]
 },
-  "bbox": [115.841721,-33.249054,115.841721,-33.249054],
-  "geometry": {"coordinates":[115.841721,-33.249054],"type":"Point"}
+  "bbox": [
+    115.841721,
+    -33.249054,
+    115.841721,
+    -33.249054
+],
+  "geometry": {"coordinates":[115.84172100000001,-33.249054],"type":"Point"}
 }

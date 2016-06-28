@@ -2,13 +2,14 @@
   "id": 202913693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.109528,-30.295664,153.109528,-30.295664",
     "geom:latitude":-30.295664,
     "geom:longitude":153.109528,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 West High St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202913693,
-    "wof:lastmodified":1449061093,
+    "wof:lastmodified":1466190751,
     "wof:name":"Coffs Harbour Support Services",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [153.109528,-30.295664,153.109528,-30.295664],
-  "geometry": {"coordinates":[153.109528,-30.295664],"type":"Point"}
+  "bbox": [
+    153.109528,
+    -30.295664,
+    153.109528,
+    -30.295664
+],
+  "geometry": {"coordinates":[153.10952800000001,-30.295664],"type":"Point"}
 }

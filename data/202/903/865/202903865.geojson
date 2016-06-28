@@ -2,13 +2,14 @@
   "id": 202903865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.198593,-30.071587,153.198593,-30.071587",
     "geom:latitude":-30.071587,
     "geom:longitude":153.198593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Ocean View Rd",
     "sg:city":"Mullaway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202903865,
-    "wof:lastmodified":1449060261,
+    "wof:lastmodified":1466190578,
     "wof:name":"French's Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [153.198593,-30.071587,153.198593,-30.071587],
-  "geometry": {"coordinates":[153.198593,-30.071587],"type":"Point"}
+  "bbox": [
+    153.198593,
+    -30.071587,
+    153.198593,
+    -30.071587
+],
+  "geometry": {"coordinates":[153.19859299999999,-30.071587],"type":"Point"}
 }

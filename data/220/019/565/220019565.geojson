@@ -2,13 +2,14 @@
   "id": 220019565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.620377,-35.014198,138.620377,-35.014198",
     "geom:latitude":-35.014198,
     "geom:longitude":138.620377,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Stirling Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220019565,
-    "wof:lastmodified":1449074514,
+    "wof:lastmodified":1466187130,
     "wof:name":"M V Automatics",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [138.620377,-35.014198,138.620377,-35.014198],
-  "geometry": {"coordinates":[138.620377,-35.014198],"type":"Point"}
+  "bbox": [
+    138.620377,
+    -35.014198,
+    138.620377,
+    -35.014198
+],
+  "geometry": {"coordinates":[138.62037699999999,-35.014198],"type":"Point"}
 }

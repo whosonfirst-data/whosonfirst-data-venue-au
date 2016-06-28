@@ -2,13 +2,14 @@
   "id": 186126069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.785446,-31.317299,152.785446,-31.317299",
     "geom:latitude":-31.317299,
     "geom:longitude":152.785446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Red Hill Rd",
     "sg:city":"Telegraph Point",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186126069,
-    "wof:lastmodified":1449051373,
+    "wof:lastmodified":1466190013,
     "wof:name":"OJ Bricklaying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "paving"
     ]
 },
-  "bbox": [152.785446,-31.317299,152.785446,-31.317299],
-  "geometry": {"coordinates":[152.785446,-31.317299],"type":"Point"}
+  "bbox": [
+    152.785446,
+    -31.317299,
+    152.785446,
+    -31.317299
+],
+  "geometry": {"coordinates":[152.78544600000001,-31.317299],"type":"Point"}
 }

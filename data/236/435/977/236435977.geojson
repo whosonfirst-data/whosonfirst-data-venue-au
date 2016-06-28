@@ -2,13 +2,14 @@
   "id": 236435977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.164337,-21.17528,149.164337,-21.17528",
     "geom:latitude":-21.17528,
     "geom:longitude":149.164337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Elvin St",
     "sg:city":"Paget",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236435977,
-    "wof:lastmodified":1449004883,
+    "wof:lastmodified":1466191188,
     "wof:name":"Marathon Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [149.164337,-21.17528,149.164337,-21.17528],
-  "geometry": {"coordinates":[149.164337,-21.17528],"type":"Point"}
+  "bbox": [
+    149.164337,
+    -21.17528,
+    149.164337,
+    -21.17528
+],
+  "geometry": {"coordinates":[149.16433699999999,-21.17528],"type":"Point"}
 }

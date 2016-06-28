@@ -2,13 +2,14 @@
   "id": 253033465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.756302,-37.884304,144.756302,-37.884304",
     "geom:latitude":-37.884304,
     "geom:longitude":144.756302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sandstone Ave",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253033465,
-    "wof:lastmodified":1449063421,
+    "wof:lastmodified":1466187585,
     "wof:name":"Point Cook Upholstery P/L",
     "wof:parent_id":85780023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [144.756302,-37.884304,144.756302,-37.884304],
-  "geometry": {"coordinates":[144.756302,-37.884304],"type":"Point"}
+  "bbox": [
+    144.756302,
+    -37.884304,
+    144.756302,
+    -37.884304
+],
+  "geometry": {"coordinates":[144.75630200000001,-37.884304],"type":"Point"}
 }

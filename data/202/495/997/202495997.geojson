@@ -2,13 +2,14 @@
   "id": 202495997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041534,-37.918659,145.041534,-37.918659",
     "geom:latitude":-37.918659,
     "geom:longitude":145.041534,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"473a Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202495997,
-    "wof:lastmodified":1449061241,
+    "wof:lastmodified":1466189504,
     "wof:name":"Wash N Shop",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [145.041534,-37.918659,145.041534,-37.918659],
-  "geometry": {"coordinates":[145.041534,-37.918659],"type":"Point"}
+  "bbox": [
+    145.041534,
+    -37.918659,
+    145.041534,
+    -37.918659
+],
+  "geometry": {"coordinates":[145.04153400000001,-37.918659],"type":"Point"}
 }

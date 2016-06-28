@@ -2,13 +2,14 @@
   "id": 236330129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747322,-32.054203,115.747322,-32.054203",
     "geom:latitude":-32.054203,
     "geom:longitude":115.747322,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"S6 Manning Arcade High St Mall High St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236330129,
-    "wof:lastmodified":1449003270,
+    "wof:lastmodified":1466190576,
     "wof:name":"Tara Fashions",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alteration"
     ]
 },
-  "bbox": [115.747322,-32.054203,115.747322,-32.054203],
+  "bbox": [
+    115.747322,
+    -32.054203,
+    115.747322,
+    -32.054203
+],
   "geometry": {"coordinates":[115.747322,-32.054203],"type":"Point"}
 }

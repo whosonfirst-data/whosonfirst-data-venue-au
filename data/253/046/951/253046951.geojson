@@ -2,13 +2,14 @@
   "id": 253046951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.839905,-37.819664,144.839905,-37.819664",
     "geom:latitude":-37.819664,
     "geom:longitude":144.839905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"659 Geelong Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253046951,
-    "wof:lastmodified":1449064463,
+    "wof:lastmodified":1466187845,
     "wof:name":"Matthews N R",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.839905,-37.819664,144.839905,-37.819664],
-  "geometry": {"coordinates":[144.839905,-37.819664],"type":"Point"}
+  "bbox": [
+    144.839905,
+    -37.819664,
+    144.839905,
+    -37.819664
+],
+  "geometry": {"coordinates":[144.83990499999999,-37.819664],"type":"Point"}
 }

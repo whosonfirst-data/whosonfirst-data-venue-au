@@ -2,13 +2,14 @@
   "id": 185630819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.879951,-32.042027,115.879951,-32.042027",
     "geom:latitude":-32.042027,
     "geom:longitude":115.879951,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Augusta St",
     "sg:city":"Willetton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185630819,
-    "wof:lastmodified":1449007164,
+    "wof:lastmodified":1466187832,
     "wof:name":"Willetton Exhaust",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [115.879951,-32.042027,115.879951,-32.042027],
-  "geometry": {"coordinates":[115.879951,-32.042027],"type":"Point"}
+  "bbox": [
+    115.879951,
+    -32.042027,
+    115.879951,
+    -32.042027
+],
+  "geometry": {"coordinates":[115.87995100000001,-32.042027],"type":"Point"}
 }

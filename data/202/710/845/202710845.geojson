@@ -2,13 +2,14 @@
   "id": 202710845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.056686,-27.366638,153.056686,-27.366638",
     "geom:latitude":-27.366638,
     "geom:longitude":153.056686,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"488 Bilsen Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202710845,
-    "wof:lastmodified":1449060264,
+    "wof:lastmodified":1466189041,
     "wof:name":"A.C.A. Engineering",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [153.056686,-27.366638,153.056686,-27.366638],
-  "geometry": {"coordinates":[153.056686,-27.366638],"type":"Point"}
+  "bbox": [
+    153.056686,
+    -27.366638,
+    153.056686,
+    -27.366638
+],
+  "geometry": {"coordinates":[153.05668600000001,-27.366638],"type":"Point"}
 }

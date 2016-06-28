@@ -2,13 +2,14 @@
   "id": 186312529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.852371,-30.648188,152.852371,-30.648188",
     "geom:latitude":-30.648188,
     "geom:longitude":152.852371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 High St",
     "sg:city":"Bowraville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186312529,
-    "wof:lastmodified":1449051725,
+    "wof:lastmodified":1466187858,
     "wof:name":"Christine Stewart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stained"
     ]
 },
-  "bbox": [152.852371,-30.648188,152.852371,-30.648188],
-  "geometry": {"coordinates":[152.852371,-30.648188],"type":"Point"}
+  "bbox": [
+    152.852371,
+    -30.648188,
+    152.852371,
+    -30.648188
+],
+  "geometry": {"coordinates":[152.85237100000001,-30.648188],"type":"Point"}
 }

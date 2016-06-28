@@ -2,13 +2,14 @@
   "id": 236495413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.185165,-21.094797,149.185165,-21.094797",
     "geom:latitude":-21.094797,
     "geom:longitude":149.185165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Van Eldick Ave",
     "sg:city":"Andergrove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236495413,
-    "wof:lastmodified":1449003046,
+    "wof:lastmodified":1466191357,
     "wof:name":"Kalesti Butler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [149.185165,-21.094797,149.185165,-21.094797],
-  "geometry": {"coordinates":[149.185165,-21.094797],"type":"Point"}
+  "bbox": [
+    149.185165,
+    -21.094797,
+    149.185165,
+    -21.094797
+],
+  "geometry": {"coordinates":[149.18516500000001,-21.094797],"type":"Point"}
 }

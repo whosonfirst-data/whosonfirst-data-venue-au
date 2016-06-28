@@ -2,13 +2,14 @@
   "id": 253205417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.896957,-27.52273,151.896957,-27.52273",
     "geom:latitude":-27.52273,
     "geom:longitude":151.896957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Dhal St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253205417,
-    "wof:lastmodified":1449064591,
+    "wof:lastmodified":1466190381,
     "wof:name":"Pugh's Electrical Service Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.896957,-27.52273,151.896957,-27.52273],
-  "geometry": {"coordinates":[151.896957,-27.52273],"type":"Point"}
+  "bbox": [
+    151.896957,
+    -27.52273,
+    151.896957,
+    -27.52273
+],
+  "geometry": {"coordinates":[151.89695699999999,-27.52273],"type":"Point"}
 }

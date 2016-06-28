@@ -2,13 +2,14 @@
   "id": 185795161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.516724,-37.653908,145.516724,-37.653908",
     "geom:latitude":-37.653908,
     "geom:longitude":145.516724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Maroondah Hwy",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185795161,
-    "wof:lastmodified":1449007566,
+    "wof:lastmodified":1466189898,
     "wof:name":"Grandma's Gift Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [145.516724,-37.653908,145.516724,-37.653908],
-  "geometry": {"coordinates":[145.516724,-37.653908],"type":"Point"}
+  "bbox": [
+    145.516724,
+    -37.653908,
+    145.516724,
+    -37.653908
+],
+  "geometry": {"coordinates":[145.51672400000001,-37.653908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219742213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.786346,-19.299761,146.786346,-19.299761",
     "geom:latitude":-19.299761,
     "geom:longitude":146.786346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Brownhill St",
     "sg:city":"Mundingburra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219742213,
-    "wof:lastmodified":1449070614,
+    "wof:lastmodified":1466191346,
     "wof:name":"A Mazlin Building Services NQ",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.786346,-19.299761,146.786346,-19.299761],
-  "geometry": {"coordinates":[146.786346,-19.299761],"type":"Point"}
+  "bbox": [
+    146.786346,
+    -19.299761,
+    146.786346,
+    -19.299761
+],
+  "geometry": {"coordinates":[146.78634600000001,-19.299761],"type":"Point"}
 }

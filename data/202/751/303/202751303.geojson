@@ -2,13 +2,14 @@
   "id": 202751303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.925499,-32.036194,115.925499,-32.036194",
     "geom:latitude":-32.036194,
     "geom:longitude":115.925499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Metcalfe Rd",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202751303,
-    "wof:lastmodified":1449060243,
+    "wof:lastmodified":1466189740,
     "wof:name":"Garden Park Developments Pty Ltd",
     "wof:parent_id":85778007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.925499,-32.036194,115.925499,-32.036194],
+  "bbox": [
+    115.925499,
+    -32.036194,
+    115.925499,
+    -32.036194
+],
   "geometry": {"coordinates":[115.925499,-32.036194],"type":"Point"}
 }

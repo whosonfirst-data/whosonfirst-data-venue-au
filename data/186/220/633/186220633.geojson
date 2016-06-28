@@ -2,13 +2,14 @@
   "id": 186220633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.852066,-31.417309,152.852066,-31.417309",
     "geom:latitude":-31.417309,
     "geom:longitude":152.852066,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Hasting River Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186220633,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1466187215,
     "wof:name":"PORT DEMOLITION & EARTH MOVING",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.852066,-31.417309,152.852066,-31.417309],
-  "geometry": {"coordinates":[152.852066,-31.417309],"type":"Point"}
+  "bbox": [
+    152.852066,
+    -31.417309,
+    152.852066,
+    -31.417309
+],
+  "geometry": {"coordinates":[152.85206600000001,-31.417309],"type":"Point"}
 }

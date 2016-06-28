@@ -2,13 +2,14 @@
   "id": 236871301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.231857,-35.310825,148.231857,-35.310825",
     "geom:latitude":-35.310825,
     "geom:longitude":148.231857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tumut Plains Rd",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236871301,
-    "wof:lastmodified":1449002585,
+    "wof:lastmodified":1466192070,
     "wof:name":"Malone P J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [148.231857,-35.310825,148.231857,-35.310825],
-  "geometry": {"coordinates":[148.231857,-35.310825],"type":"Point"}
+  "bbox": [
+    148.231857,
+    -35.310825,
+    148.231857,
+    -35.310825
+],
+  "geometry": {"coordinates":[148.23185699999999,-35.310825],"type":"Point"}
 }

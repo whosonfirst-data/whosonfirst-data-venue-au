@@ -2,13 +2,14 @@
   "id": 253093913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.813126,-37.811497,144.813126,-37.811497",
     "geom:latitude":-37.811497,
     "geom:longitude":144.813126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Normanby Ave",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253093913,
-    "wof:lastmodified":1449062830,
+    "wof:lastmodified":1466188604,
     "wof:name":"A.A. Aussie Pallets",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wood"
     ]
 },
-  "bbox": [144.813126,-37.811497,144.813126,-37.811497],
-  "geometry": {"coordinates":[144.813126,-37.811497],"type":"Point"}
+  "bbox": [
+    144.813126,
+    -37.811497,
+    144.813126,
+    -37.811497
+],
+  "geometry": {"coordinates":[144.81312600000001,-37.811497],"type":"Point"}
 }

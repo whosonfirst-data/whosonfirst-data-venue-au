@@ -2,13 +2,14 @@
   "id": 169741217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.10112,-27.206261,153.10112,-27.206261",
     "geom:latitude":-27.206261,
     "geom:longitude":153.10112,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Vista Crt",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169741217,
-    "wof:lastmodified":1449032863,
+    "wof:lastmodified":1466187621,
     "wof:name":"Allied Pest Control",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.10112,-27.206261,153.10112,-27.206261],
-  "geometry": {"coordinates":[153.10112,-27.206261],"type":"Point"}
+  "bbox": [
+    153.10112,
+    -27.206261,
+    153.10112,
+    -27.206261
+],
+  "geometry": {"coordinates":[153.10112000000001,-27.206261],"type":"Point"}
 }

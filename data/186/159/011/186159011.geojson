@@ -2,13 +2,14 @@
   "id": 186159011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.704254,-31.436096,152.704254,-31.436096",
     "geom:latitude":-31.436096,
     "geom:longitude":152.704254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Beechwood Rd",
     "sg:city":"Wauchope",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186159011,
-    "wof:lastmodified":1449050591,
+    "wof:lastmodified":1466190022,
     "wof:name":"Aqua Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.704254,-31.436096,152.704254,-31.436096],
-  "geometry": {"coordinates":[152.704254,-31.436096],"type":"Point"}
+  "bbox": [
+    152.704254,
+    -31.436096,
+    152.704254,
+    -31.436096
+],
+  "geometry": {"coordinates":[152.70425399999999,-31.436096],"type":"Point"}
 }

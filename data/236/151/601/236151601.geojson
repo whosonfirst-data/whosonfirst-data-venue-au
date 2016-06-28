@@ -2,13 +2,14 @@
   "id": 236151601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.857117,-34.722275,135.857117,-34.722275",
     "geom:latitude":-34.722275,
     "geom:longitude":135.857117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Adelaide Pl",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236151601,
-    "wof:lastmodified":1449001705,
+    "wof:lastmodified":1466189518,
     "wof:name":"Eden Wiseman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [135.857117,-34.722275,135.857117,-34.722275],
-  "geometry": {"coordinates":[135.857117,-34.722275],"type":"Point"}
+  "bbox": [
+    135.857117,
+    -34.722275,
+    135.857117,
+    -34.722275
+],
+  "geometry": {"coordinates":[135.85711699999999,-34.722275],"type":"Point"}
 }

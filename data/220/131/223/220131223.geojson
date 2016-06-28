@@ -2,13 +2,14 @@
   "id": 220131223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.415756,-38.166538,144.415756,-38.166538",
     "geom:latitude":-38.166538,
     "geom:longitude":144.415756,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16-24 Denbigh St",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220131223,
-    "wof:lastmodified":1449074259,
+    "wof:lastmodified":1466188255,
     "wof:name":"Econ Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "roofing"
     ]
 },
-  "bbox": [144.415756,-38.166538,144.415756,-38.166538],
-  "geometry": {"coordinates":[144.415756,-38.166538],"type":"Point"}
+  "bbox": [
+    144.415756,
+    -38.166538,
+    144.415756,
+    -38.166538
+],
+  "geometry": {"coordinates":[144.41575599999999,-38.166538],"type":"Point"}
 }

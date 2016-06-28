@@ -2,13 +2,14 @@
   "id": 202714781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.044174,-27.372913,153.044174,-27.372913",
     "geom:latitude":-27.372913,
     "geom:longitude":153.044174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Simla Ave",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202714781,
-    "wof:lastmodified":1449061373,
+    "wof:lastmodified":1466189115,
     "wof:name":"Cause H.",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.044174,-27.372913,153.044174,-27.372913],
+  "bbox": [
+    153.044174,
+    -27.372913,
+    153.044174,
+    -27.372913
+],
   "geometry": {"coordinates":[153.044174,-27.372913],"type":"Point"}
 }

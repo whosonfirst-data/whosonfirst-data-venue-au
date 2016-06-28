@@ -2,13 +2,14 @@
   "id": 169860443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.815903,-32.038269,115.815903,-32.038269",
     "geom:latitude":-32.038269,
     "geom:longitude":115.815903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 North Lake Rd",
     "sg:city":"Myaree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169860443,
-    "wof:lastmodified":1449034139,
+    "wof:lastmodified":1466189510,
     "wof:name":"The Manual Medicine Clinic",
     "wof:parent_id":85775671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [115.815903,-32.038269,115.815903,-32.038269],
-  "geometry": {"coordinates":[115.815903,-32.038269],"type":"Point"}
+  "bbox": [
+    115.815903,
+    -32.038269,
+    115.815903,
+    -32.038269
+],
+  "geometry": {"coordinates":[115.81590300000001,-32.038269],"type":"Point"}
 }

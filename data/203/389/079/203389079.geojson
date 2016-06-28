@@ -2,13 +2,14 @@
   "id": 203389079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.866989,-37.566784,143.866989,-37.566784",
     "geom:latitude":-37.566784,
     "geom:longitude":143.866989,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Stallwell St near Eureka St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203389079,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466189359,
     "wof:name":"Eureka Lodge Motel",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.866989,-37.566784,143.866989,-37.566784],
-  "geometry": {"coordinates":[143.866989,-37.566784],"type":"Point"}
+  "bbox": [
+    143.866989,
+    -37.566784,
+    143.866989,
+    -37.566784
+],
+  "geometry": {"coordinates":[143.86698899999999,-37.566784],"type":"Point"}
 }

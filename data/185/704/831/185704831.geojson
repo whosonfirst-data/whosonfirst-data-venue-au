@@ -2,13 +2,14 @@
   "id": 185704831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.879654,-32.738659,151.879654,-32.738659",
     "geom:latitude":-32.738659,
     "geom:longitude":151.879654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Kindlebark Drv",
     "sg:city":"Medowie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185704831,
-    "wof:lastmodified":1449007026,
+    "wof:lastmodified":1466189175,
     "wof:name":"Medowie Community Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [151.879654,-32.738659,151.879654,-32.738659],
-  "geometry": {"coordinates":[151.879654,-32.738659],"type":"Point"}
+  "bbox": [
+    151.879654,
+    -32.738659,
+    151.879654,
+    -32.738659
+],
+  "geometry": {"coordinates":[151.87965399999999,-32.738659],"type":"Point"}
 }

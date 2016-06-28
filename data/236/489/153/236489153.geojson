@@ -2,13 +2,14 @@
   "id": 236489153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.209885,-21.108829,149.209885,-21.108829",
     "geom:latitude":-21.108829,
     "geom:longitude":149.209885,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Slade Point Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236489153,
-    "wof:lastmodified":1449003464,
+    "wof:lastmodified":1466191346,
     "wof:name":"Mackay Landscape Supplies",
     "wof:parent_id":85779777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [149.209885,-21.108829,149.209885,-21.108829],
-  "geometry": {"coordinates":[149.209885,-21.108829],"type":"Point"}
+  "bbox": [
+    149.209885,
+    -21.108829,
+    149.209885,
+    -21.108829
+],
+  "geometry": {"coordinates":[149.20988500000001,-21.108829],"type":"Point"}
 }

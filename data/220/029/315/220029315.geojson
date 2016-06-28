@@ -2,13 +2,14 @@
   "id": 220029315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.623077,-34.999428,138.623077,-34.999428",
     "geom:latitude":-34.999428,
     "geom:longitude":138.623077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Main Rd",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220029315,
-    "wof:lastmodified":1449074381,
+    "wof:lastmodified":1466187301,
     "wof:name":"Dr Fiona Downey",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.623077,-34.999428,138.623077,-34.999428],
-  "geometry": {"coordinates":[138.623077,-34.999428],"type":"Point"}
+  "bbox": [
+    138.623077,
+    -34.999428,
+    138.623077,
+    -34.999428
+],
+  "geometry": {"coordinates":[138.62307699999999,-34.999428],"type":"Point"}
 }

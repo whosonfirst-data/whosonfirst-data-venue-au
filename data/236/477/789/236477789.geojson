@@ -2,13 +2,14 @@
   "id": 236477789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.170578,-21.149208,149.170578,-21.149208",
     "geom:latitude":-21.149208,
     "geom:longitude":149.170578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Nebo Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236477789,
-    "wof:lastmodified":1449002097,
+    "wof:lastmodified":1466191327,
     "wof:name":"Country Plaza Motor Inn",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.170578,-21.149208,149.170578,-21.149208],
-  "geometry": {"coordinates":[149.170578,-21.149208],"type":"Point"}
+  "bbox": [
+    149.170578,
+    -21.149208,
+    149.170578,
+    -21.149208
+],
+  "geometry": {"coordinates":[149.17057800000001,-21.149208],"type":"Point"}
 }

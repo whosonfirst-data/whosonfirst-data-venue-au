@@ -2,13 +2,14 @@
   "id": 219624157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.151489,-33.933945,151.151489,-33.933945",
     "geom:latitude":-33.933945,
     "geom:longitude":151.151489,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Argyle St",
     "sg:city":"Arncliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219624157,
-    "wof:lastmodified":1449072810,
+    "wof:lastmodified":1466190826,
     "wof:name":"Sourdough House Bakery",
     "wof:parent_id":85776153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organic"
     ]
 },
-  "bbox": [151.151489,-33.933945,151.151489,-33.933945],
+  "bbox": [
+    151.151489,
+    -33.933945,
+    151.151489,
+    -33.933945
+],
   "geometry": {"coordinates":[151.151489,-33.933945],"type":"Point"}
 }

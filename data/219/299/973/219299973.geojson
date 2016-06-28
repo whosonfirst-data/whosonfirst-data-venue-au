@@ -2,13 +2,14 @@
   "id": 219299973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.930008,-38.161312,145.930008,-38.161312",
     "geom:latitude":-38.161312,
     "geom:longitude":145.930008,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Victoria St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219299973,
-    "wof:lastmodified":1449071294,
+    "wof:lastmodified":1466187528,
     "wof:name":"Wolf Mobile Phones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [145.930008,-38.161312,145.930008,-38.161312],
-  "geometry": {"coordinates":[145.930008,-38.161312],"type":"Point"}
+  "bbox": [
+    145.930008,
+    -38.161312,
+    145.930008,
+    -38.161312
+],
+  "geometry": {"coordinates":[145.93000799999999,-38.161312],"type":"Point"}
 }

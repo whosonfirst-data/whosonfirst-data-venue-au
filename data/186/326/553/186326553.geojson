@@ -2,13 +2,14 @@
   "id": 186326553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.999611,-31.799763,115.999611,-31.799763",
     "geom:latitude":-31.799763,
     "geom:longitude":115.999611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 8990 West Swan Rd",
     "sg:city":"Henley Brook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186326553,
-    "wof:lastmodified":1449051516,
+    "wof:lastmodified":1466188027,
     "wof:name":"Wine Place The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wine"
     ]
 },
-  "bbox": [115.999611,-31.799763,115.999611,-31.799763],
+  "bbox": [
+    115.999611,
+    -31.799763,
+    115.999611,
+    -31.799763
+],
   "geometry": {"coordinates":[115.999611,-31.799763],"type":"Point"}
 }

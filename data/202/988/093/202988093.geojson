@@ -2,13 +2,14 @@
   "id": 202988093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.007278,-36.140697,147.007278,-36.140697",
     "geom:latitude":-36.140697,
     "geom:longitude":147.007278,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bonegilla Rd",
     "sg:city":"Tangambalanga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202988093,
-    "wof:lastmodified":1449060982,
+    "wof:lastmodified":1466191149,
     "wof:name":"Brittons Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "transport"
     ]
 },
-  "bbox": [147.007278,-36.140697,147.007278,-36.140697],
-  "geometry": {"coordinates":[147.007278,-36.140697],"type":"Point"}
+  "bbox": [
+    147.007278,
+    -36.140697,
+    147.007278,
+    -36.140697
+],
+  "geometry": {"coordinates":[147.00727800000001,-36.140697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253033511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.771164,-37.860054,144.771164,-37.860054",
     "geom:latitude":-37.860054,
     "geom:longitude":144.771164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Thomas St",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253033511,
-    "wof:lastmodified":1449063421,
+    "wof:lastmodified":1466187588,
     "wof:name":"Bens Towing",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [144.771164,-37.860054,144.771164,-37.860054],
+  "bbox": [
+    144.771164,
+    -37.860054,
+    144.771164,
+    -37.860054
+],
   "geometry": {"coordinates":[144.771164,-37.860054],"type":"Point"}
 }

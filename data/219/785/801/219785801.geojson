@@ -2,13 +2,14 @@
   "id": 219785801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.137177,-33.880444,151.137177,-33.880444",
     "geom:latitude":-33.880444,
     "geom:longitude":151.137177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Winchcombe Ave",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219785801,
-    "wof:lastmodified":1449073317,
+    "wof:lastmodified":1466191405,
     "wof:name":"Archnet Designs",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.137177,-33.880444,151.137177,-33.880444],
-  "geometry": {"coordinates":[151.137177,-33.880444],"type":"Point"}
+  "bbox": [
+    151.137177,
+    -33.880444,
+    151.137177,
+    -33.880444
+],
+  "geometry": {"coordinates":[151.13717700000001,-33.880444],"type":"Point"}
 }

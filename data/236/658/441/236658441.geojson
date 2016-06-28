@@ -2,13 +2,14 @@
   "id": 236658441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.115326,-33.97797,151.115326,-33.97797",
     "geom:latitude":-33.97797,
     "geom:longitude":151.115326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Bellevue Pde",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236658441,
-    "wof:lastmodified":1449001622,
+    "wof:lastmodified":1466191851,
     "wof:name":"TJM 4WD Megastores",
     "wof:parent_id":85768883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "accessory"
     ]
 },
-  "bbox": [151.115326,-33.97797,151.115326,-33.97797],
-  "geometry": {"coordinates":[151.115326,-33.97797],"type":"Point"}
+  "bbox": [
+    151.115326,
+    -33.97797,
+    151.115326,
+    -33.97797
+],
+  "geometry": {"coordinates":[151.11532600000001,-33.97797],"type":"Point"}
 }

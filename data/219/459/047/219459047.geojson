@@ -2,13 +2,14 @@
   "id": 219459047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.037369,-37.36689,145.037369,-37.36689",
     "geom:latitude":-37.36689,
     "geom:longitude":145.037369,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Baden Drv",
     "sg:city":"Wandong",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219459047,
-    "wof:lastmodified":1449071825,
+    "wof:lastmodified":1466189009,
     "wof:name":"Northside Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.037369,-37.36689,145.037369,-37.36689],
-  "geometry": {"coordinates":[145.037369,-37.36689],"type":"Point"}
+  "bbox": [
+    145.037369,
+    -37.36689,
+    145.037369,
+    -37.36689
+],
+  "geometry": {"coordinates":[145.03736900000001,-37.36689],"type":"Point"}
 }

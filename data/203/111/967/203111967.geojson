@@ -2,13 +2,14 @@
   "id": 203111967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.73761,-32.517628,115.73761,-32.517628",
     "geom:latitude":-32.517628,
     "geom:longitude":115.73761,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 4 Tindale St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203111967,
-    "wof:lastmodified":1449026908,
+    "wof:lastmodified":1466189222,
     "wof:name":"Balustrading Mandurah",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "balustrading"
     ]
 },
-  "bbox": [115.73761,-32.517628,115.73761,-32.517628],
+  "bbox": [
+    115.73761,
+    -32.517628,
+    115.73761,
+    -32.517628
+],
   "geometry": {"coordinates":[115.73761,-32.517628],"type":"Point"}
 }

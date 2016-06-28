@@ -2,13 +2,14 @@
   "id": 236095127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.745224,-37.926224,144.745224,-37.926224",
     "geom:latitude":-37.926224,
     "geom:longitude":144.745224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Swan Drv",
     "sg:city":"Derrimut",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236095127,
-    "wof:lastmodified":1449003312,
+    "wof:lastmodified":1466188527,
     "wof:name":"J.J. Williams Transport",
     "wof:parent_id":85770267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [144.745224,-37.926224,144.745224,-37.926224],
-  "geometry": {"coordinates":[144.745224,-37.926224],"type":"Point"}
+  "bbox": [
+    144.745224,
+    -37.926224,
+    144.745224,
+    -37.926224
+],
+  "geometry": {"coordinates":[144.74522400000001,-37.926224],"type":"Point"}
 }

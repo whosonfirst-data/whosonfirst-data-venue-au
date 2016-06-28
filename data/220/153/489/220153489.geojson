@@ -2,13 +2,14 @@
   "id": 220153489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.366867,-38.151127,144.366867,-38.151127",
     "geom:latitude":-38.151127,
     "geom:longitude":144.366867,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220153489,
-    "wof:lastmodified":1449074605,
+    "wof:lastmodified":1466188662,
     "wof:name":"Taylor L.",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.366867,-38.151127,144.366867,-38.151127],
-  "geometry": {"coordinates":[144.366867,-38.151127],"type":"Point"}
+  "bbox": [
+    144.366867,
+    -38.151127,
+    144.366867,
+    -38.151127
+],
+  "geometry": {"coordinates":[144.36686700000001,-38.151127],"type":"Point"}
 }

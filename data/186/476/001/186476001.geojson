@@ -2,13 +2,14 @@
   "id": 186476001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165237,-33.872547,151.165237,-33.872547",
     "geom:latitude":-33.872547,
     "geom:longitude":151.165237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36- 49 Halloran St",
     "sg:city":"Lilyfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186476001,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466190488,
     "wof:name":"Collins P & Co",
     "wof:parent_id":85776737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agent"
     ]
 },
-  "bbox": [151.165237,-33.872547,151.165237,-33.872547],
-  "geometry": {"coordinates":[151.165237,-33.872547],"type":"Point"}
+  "bbox": [
+    151.165237,
+    -33.872547,
+    151.165237,
+    -33.872547
+],
+  "geometry": {"coordinates":[151.16523699999999,-33.872547],"type":"Point"}
 }

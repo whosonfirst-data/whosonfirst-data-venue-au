@@ -2,13 +2,14 @@
   "id": 202778657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.78302,-32.927608,151.78302,-32.927608",
     "geom:latitude":-32.927608,
     "geom:longitude":151.78302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 2/77 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202778657,
-    "wof:lastmodified":1449060148,
+    "wof:lastmodified":1466190009,
     "wof:name":"Maxim Consulting Corporate Advisors",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "auditor"
     ]
 },
-  "bbox": [151.78302,-32.927608,151.78302,-32.927608],
-  "geometry": {"coordinates":[151.78302,-32.927608],"type":"Point"}
+  "bbox": [
+    151.78302,
+    -32.927608,
+    151.78302,
+    -32.927608
+],
+  "geometry": {"coordinates":[151.78301999999999,-32.927608],"type":"Point"}
 }

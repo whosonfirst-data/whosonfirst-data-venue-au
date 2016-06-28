@@ -2,13 +2,14 @@
   "id": 252786631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.439453,-41.239029,146.439453,-41.239029",
     "geom:latitude":-41.239029,
     "geom:longitude":146.439453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Speedway Drv",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252786631,
-    "wof:lastmodified":1449005547,
+    "wof:lastmodified":1466188026,
     "wof:name":"SRT Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "refrigerated"
     ]
 },
-  "bbox": [146.439453,-41.239029,146.439453,-41.239029],
-  "geometry": {"coordinates":[146.439453,-41.239029],"type":"Point"}
+  "bbox": [
+    146.439453,
+    -41.239029,
+    146.439453,
+    -41.239029
+],
+  "geometry": {"coordinates":[146.43945299999999,-41.239029],"type":"Point"}
 }

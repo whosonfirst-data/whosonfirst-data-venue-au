@@ -2,13 +2,14 @@
   "id": 202434229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.965576,-37.855888,144.965576,-37.855888",
     "geom:latitude":-37.855888,
     "geom:longitude":144.965576,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Beaconsfield Pde",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202434229,
-    "wof:lastmodified":1449060675,
+    "wof:lastmodified":1466188489,
     "wof:name":"Odour Research Laboratories Australia",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pollution"
     ]
 },
-  "bbox": [144.965576,-37.855888,144.965576,-37.855888],
+  "bbox": [
+    144.965576,
+    -37.855888,
+    144.965576,
+    -37.855888
+],
   "geometry": {"coordinates":[144.965576,-37.855888],"type":"Point"}
 }

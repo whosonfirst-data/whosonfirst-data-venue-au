@@ -2,13 +2,14 @@
   "id": 236908383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.536514,-35.018349,138.536514,-35.018349",
     "geom:latitude":-35.018349,
     "geom:longitude":138.536514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Sturt Rd",
     "sg:city":"Warradale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236908383,
-    "wof:lastmodified":1449003532,
+    "wof:lastmodified":1466192189,
     "wof:name":"Fischer Brian H",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.536514,-35.018349,138.536514,-35.018349],
-  "geometry": {"coordinates":[138.536514,-35.018349],"type":"Point"}
+  "bbox": [
+    138.536514,
+    -35.018349,
+    138.536514,
+    -35.018349
+],
+  "geometry": {"coordinates":[138.53651400000001,-35.018349],"type":"Point"}
 }

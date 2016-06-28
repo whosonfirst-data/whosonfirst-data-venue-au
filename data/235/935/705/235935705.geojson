@@ -2,13 +2,14 @@
   "id": 235935705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.978973,-32.857758,149.978973,-32.857758",
     "geom:latitude":-32.857758,
     "geom:longitude":149.978973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rodgers St",
     "sg:city":"Kandos",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235935705,
-    "wof:lastmodified":1449008538,
+    "wof:lastmodified":1466186945,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [149.978973,-32.857758,149.978973,-32.857758],
+  "bbox": [
+    149.978973,
+    -32.857758,
+    149.978973,
+    -32.857758
+],
   "geometry": {"coordinates":[149.978973,-32.857758],"type":"Point"}
 }

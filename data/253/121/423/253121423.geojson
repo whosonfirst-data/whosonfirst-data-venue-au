@@ -2,13 +2,14 @@
   "id": 253121423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.838715,-37.797768,144.838715,-37.797768",
     "geom:latitude":-37.797768,
     "geom:longitude":144.838715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 First Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253121423,
-    "wof:lastmodified":1449065105,
+    "wof:lastmodified":1466189173,
     "wof:name":"Veldonas Pty Ltd",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.838715,-37.797768,144.838715,-37.797768],
-  "geometry": {"coordinates":[144.838715,-37.797768],"type":"Point"}
+  "bbox": [
+    144.838715,
+    -37.797768,
+    144.838715,
+    -37.797768
+],
+  "geometry": {"coordinates":[144.83871500000001,-37.797768],"type":"Point"}
 }

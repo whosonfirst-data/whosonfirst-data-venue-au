@@ -2,13 +2,14 @@
   "id": 202867141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.046219,-25.511642,152.046219,-25.511642",
     "geom:latitude":-25.511642,
     "geom:longitude":152.046219,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 George St",
     "sg:city":"Biggenden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202867141,
-    "wof:lastmodified":1449061213,
+    "wof:lastmodified":1466190557,
     "wof:name":"JJ Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [152.046219,-25.511642,152.046219,-25.511642],
-  "geometry": {"coordinates":[152.046219,-25.511642],"type":"Point"}
+  "bbox": [
+    152.046219,
+    -25.511642,
+    152.046219,
+    -25.511642
+],
+  "geometry": {"coordinates":[152.04621900000001,-25.511642],"type":"Point"}
 }

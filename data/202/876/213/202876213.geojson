@@ -2,13 +2,14 @@
   "id": 202876213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.298615,-25.59115,151.298615,-25.59115",
     "geom:latitude":-25.59115,
     "geom:longitude":151.298615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Lyons St",
     "sg:city":"Mundubbera",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202876213,
-    "wof:lastmodified":1449060621,
+    "wof:lastmodified":1466190570,
     "wof:name":"Mundubbera Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.298615,-25.59115,151.298615,-25.59115],
-  "geometry": {"coordinates":[151.298615,-25.59115],"type":"Point"}
+  "bbox": [
+    151.298615,
+    -25.59115,
+    151.298615,
+    -25.59115
+],
+  "geometry": {"coordinates":[151.29861500000001,-25.59115],"type":"Point"}
 }

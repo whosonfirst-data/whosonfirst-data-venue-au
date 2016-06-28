@@ -2,13 +2,14 @@
   "id": 202921089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.118668,-30.302774,153.118668,-30.302774",
     "geom:latitude":-30.302774,
     "geom:longitude":153.118668,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Albany St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202921089,
-    "wof:lastmodified":1449061720,
+    "wof:lastmodified":1466190685,
     "wof:name":"Inktek",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [153.118668,-30.302774,153.118668,-30.302774],
-  "geometry": {"coordinates":[153.118668,-30.302774],"type":"Point"}
+  "bbox": [
+    153.118668,
+    -30.302774,
+    153.118668,
+    -30.302774
+],
+  "geometry": {"coordinates":[153.11866800000001,-30.302774],"type":"Point"}
 }

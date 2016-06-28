@@ -2,13 +2,14 @@
   "id": 219899231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.87207,-34.395477,150.87207,-34.395477",
     "geom:latitude":-34.395477,
     "geom:longitude":150.87207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Alvan Pde",
     "sg:city":"Fairy Meadow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219899231,
-    "wof:lastmodified":1449073733,
+    "wof:lastmodified":1466191796,
     "wof:name":"Pleasant Heights Public School",
     "wof:parent_id":85776059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [150.87207,-34.395477,150.87207,-34.395477],
-  "geometry": {"coordinates":[150.87207,-34.395477],"type":"Point"}
+  "bbox": [
+    150.87207,
+    -34.395477,
+    150.87207,
+    -34.395477
+],
+  "geometry": {"coordinates":[150.87207000000001,-34.395477],"type":"Point"}
 }

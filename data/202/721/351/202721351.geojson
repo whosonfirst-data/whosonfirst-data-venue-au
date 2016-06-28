@@ -2,13 +2,14 @@
   "id": 202721351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.048599,-27.364401,153.048599,-27.364401",
     "geom:latitude":-27.364401,
     "geom:longitude":153.048599,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Newman Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202721351,
-    "wof:lastmodified":1449062642,
+    "wof:lastmodified":1466189235,
     "wof:name":"Paddington Hire Service",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.048599,-27.364401,153.048599,-27.364401],
+  "bbox": [
+    153.048599,
+    -27.364401,
+    153.048599,
+    -27.364401
+],
   "geometry": {"coordinates":[153.048599,-27.364401],"type":"Point"}
 }

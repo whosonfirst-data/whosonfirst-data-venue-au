@@ -2,13 +2,14 @@
   "id": 219531841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.073059,-33.925144,151.073059,-33.925144",
     "geom:latitude":-33.925144,
     "geom:longitude":151.073059,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Melrose Ave",
     "sg:city":"Wiley Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219531841,
-    "wof:lastmodified":1449071226,
+    "wof:lastmodified":1466190119,
     "wof:name":"AMO Building",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.073059,-33.925144,151.073059,-33.925144],
+  "bbox": [
+    151.073059,
+    -33.925144,
+    151.073059,
+    -33.925144
+],
   "geometry": {"coordinates":[151.073059,-33.925144],"type":"Point"}
 }

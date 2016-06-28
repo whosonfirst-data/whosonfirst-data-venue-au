@@ -2,13 +2,14 @@
   "id": 202712249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.017441,-27.363194,153.017441,-27.363194",
     "geom:latitude":-27.363194,
     "geom:longitude":153.017441,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Gympie Rd",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202712249,
-    "wof:lastmodified":1449061202,
+    "wof:lastmodified":1466189067,
     "wof:name":"Queensland Chest & Lung Association Inc",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [153.017441,-27.363194,153.017441,-27.363194],
-  "geometry": {"coordinates":[153.017441,-27.363194],"type":"Point"}
+  "bbox": [
+    153.017441,
+    -27.363194,
+    153.017441,
+    -27.363194
+],
+  "geometry": {"coordinates":[153.01744099999999,-27.363194],"type":"Point"}
 }

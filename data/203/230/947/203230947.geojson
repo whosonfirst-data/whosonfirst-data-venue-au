@@ -2,13 +2,14 @@
   "id": 203230947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.819641,-41.055748,145.819641,-41.055748",
     "geom:latitude":-41.055748,
     "geom:longitude":145.819641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"268 Murchison Hwy",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203230947,
-    "wof:lastmodified":1449026373,
+    "wof:lastmodified":1466187432,
     "wof:name":"Coopers Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.819641,-41.055748,145.819641,-41.055748],
-  "geometry": {"coordinates":[145.819641,-41.055748],"type":"Point"}
+  "bbox": [
+    145.819641,
+    -41.055748,
+    145.819641,
+    -41.055748
+],
+  "geometry": {"coordinates":[145.81964099999999,-41.055748],"type":"Point"}
 }

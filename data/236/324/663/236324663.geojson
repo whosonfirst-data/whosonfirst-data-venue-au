@@ -2,13 +2,14 @@
   "id": 236324663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747612,-32.055546,115.747612,-32.055546",
     "geom:latitude":-32.055546,
     "geom:longitude":115.747612,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U20/South Terrace Piazza 18-54 South Tce",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236324663,
-    "wof:lastmodified":1449003597,
+    "wof:lastmodified":1466190633,
     "wof:name":"James Hair Studio",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.747612,-32.055546,115.747612,-32.055546],
+  "bbox": [
+    115.747612,
+    -32.055546,
+    115.747612,
+    -32.055546
+],
   "geometry": {"coordinates":[115.747612,-32.055546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203022875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.280823,-20.068211,146.280823,-20.068211",
     "geom:latitude":-20.068211,
     "geom:longitude":146.280823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 New Queen Rd",
     "sg:city":"Queenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203022875,
-    "wof:lastmodified":1449025547,
+    "wof:lastmodified":1466187642,
     "wof:name":"Track True Wheel Alignments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [146.280823,-20.068211,146.280823,-20.068211],
+  "bbox": [
+    146.280823,
+    -20.068211,
+    146.280823,
+    -20.068211
+],
   "geometry": {"coordinates":[146.280823,-20.068211],"type":"Point"}
 }

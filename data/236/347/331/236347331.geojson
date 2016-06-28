@@ -2,13 +2,14 @@
   "id": 236347331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.811478,-32.06633,115.811478,-32.06633",
     "geom:latitude":-32.06633,
     "geom:longitude":115.811478,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Le Souef Drv",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236347331,
-    "wof:lastmodified":1449003207,
+    "wof:lastmodified":1466190851,
     "wof:name":"Elviras Image",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dressmaker"
     ]
 },
-  "bbox": [115.811478,-32.06633,115.811478,-32.06633],
-  "geometry": {"coordinates":[115.811478,-32.06633],"type":"Point"}
+  "bbox": [
+    115.811478,
+    -32.06633,
+    115.811478,
+    -32.06633
+],
+  "geometry": {"coordinates":[115.81147799999999,-32.06633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202617385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.929596,-28.661123,151.929596,-28.661123",
     "geom:latitude":-28.661123,
     "geom:longitude":151.929596,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Denim St",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202617385,
-    "wof:lastmodified":1449060183,
+    "wof:lastmodified":1466187492,
     "wof:name":"Rowe Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.929596,-28.661123,151.929596,-28.661123],
+  "bbox": [
+    151.929596,
+    -28.661123,
+    151.929596,
+    -28.661123
+],
   "geometry": {"coordinates":[151.929596,-28.661123],"type":"Point"}
 }

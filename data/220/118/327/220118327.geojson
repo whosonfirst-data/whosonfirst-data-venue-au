@@ -2,13 +2,14 @@
   "id": 220118327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.310074,-38.141735,144.310074,-38.141735",
     "geom:latitude":-38.141735,
     "geom:longitude":144.310074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Hyland St",
     "sg:city":"Fyansford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220118327,
-    "wof:lastmodified":1449074693,
+    "wof:lastmodified":1466188141,
     "wof:name":"Fyansford Hotel",
     "wof:parent_id":85777705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.310074,-38.141735,144.310074,-38.141735],
-  "geometry": {"coordinates":[144.310074,-38.141735],"type":"Point"}
+  "bbox": [
+    144.310074,
+    -38.141735,
+    144.310074,
+    -38.141735
+],
+  "geometry": {"coordinates":[144.31007399999999,-38.141735],"type":"Point"}
 }

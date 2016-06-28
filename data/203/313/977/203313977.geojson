@@ -2,13 +2,14 @@
   "id": 203313977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.888336,-37.65686,143.888336,-37.65686",
     "geom:latitude":-37.65686,
     "geom:longitude":143.888336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Allan St",
     "sg:city":"Buninyong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203313977,
-    "wof:lastmodified":1449025012,
+    "wof:lastmodified":1466188173,
     "wof:name":"Gerard Murphy Furniture",
     "wof:parent_id":85768961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "custom"
     ]
 },
-  "bbox": [143.888336,-37.65686,143.888336,-37.65686],
-  "geometry": {"coordinates":[143.888336,-37.65686],"type":"Point"}
+  "bbox": [
+    143.888336,
+    -37.65686,
+    143.888336,
+    -37.65686
+],
+  "geometry": {"coordinates":[143.88833600000001,-37.65686],"type":"Point"}
 }

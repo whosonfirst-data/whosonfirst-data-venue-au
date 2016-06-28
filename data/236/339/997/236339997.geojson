@@ -2,13 +2,14 @@
   "id": 236339997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.797081,-32.066326,115.797081,-32.066326",
     "geom:latitude":-32.066326,
     "geom:longitude":115.797081,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Mofflin St",
     "sg:city":"Samson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236339997,
-    "wof:lastmodified":1449003063,
+    "wof:lastmodified":1466190633,
     "wof:name":"Fremantle Window Cleaning Service",
     "wof:parent_id":85777955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [115.797081,-32.066326,115.797081,-32.066326],
-  "geometry": {"coordinates":[115.797081,-32.066326],"type":"Point"}
+  "bbox": [
+    115.797081,
+    -32.066326,
+    115.797081,
+    -32.066326
+],
+  "geometry": {"coordinates":[115.79708100000001,-32.066326],"type":"Point"}
 }

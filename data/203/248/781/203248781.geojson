@@ -2,13 +2,14 @@
   "id": 203248781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.220764,-36.466599,146.220764,-36.466599",
     "geom:latitude":-36.466599,
     "geom:longitude":146.220764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hume Hwy",
     "sg:city":"Glenrowan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203248781,
-    "wof:lastmodified":1449025984,
+    "wof:lastmodified":1466187563,
     "wof:name":"Glenrowan Tourist Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attractions"
     ]
 },
-  "bbox": [146.220764,-36.466599,146.220764,-36.466599],
+  "bbox": [
+    146.220764,
+    -36.466599,
+    146.220764,
+    -36.466599
+],
   "geometry": {"coordinates":[146.220764,-36.466599],"type":"Point"}
 }

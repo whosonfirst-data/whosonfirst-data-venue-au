@@ -2,13 +2,14 @@
   "id": 203212999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.909012,-41.061775,145.909012,-41.061775",
     "geom:latitude":-41.061775,
     "geom:longitude":145.909012,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Wellington St",
     "sg:city":"Burnie South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203212999,
-    "wof:lastmodified":1449026206,
+    "wof:lastmodified":1466187197,
     "wof:name":"Rexel Electrical Supplies",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [145.909012,-41.061775,145.909012,-41.061775],
-  "geometry": {"coordinates":[145.909012,-41.061775],"type":"Point"}
+  "bbox": [
+    145.909012,
+    -41.061775,
+    145.909012,
+    -41.061775
+],
+  "geometry": {"coordinates":[145.90901199999999,-41.061775],"type":"Point"}
 }

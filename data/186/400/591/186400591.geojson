@@ -2,13 +2,14 @@
   "id": 186400591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.786087,-19.260284,146.786087,-19.260284",
     "geom:latitude":-19.260284,
     "geom:longitude":146.786087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26b Crauford St",
     "sg:city":"West End",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186400591,
-    "wof:lastmodified":1449050503,
+    "wof:lastmodified":1466189318,
     "wof:name":"Mark Vickers",
     "wof:parent_id":85776293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [146.786087,-19.260284,146.786087,-19.260284],
-  "geometry": {"coordinates":[146.786087,-19.260284],"type":"Point"}
+  "bbox": [
+    146.786087,
+    -19.260284,
+    146.786087,
+    -19.260284
+],
+  "geometry": {"coordinates":[146.78608700000001,-19.260284],"type":"Point"}
 }

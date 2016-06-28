@@ -2,13 +2,14 @@
   "id": 203345239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.813065,-37.572594,143.813065,-37.572594",
     "geom:latitude":-37.572594,
     "geom:longitude":143.813065,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Lewers Crt",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203345239,
-    "wof:lastmodified":1449026714,
+    "wof:lastmodified":1466188595,
     "wof:name":"Trewhella Engineering Pty Ltd",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jack"
     ]
 },
-  "bbox": [143.813065,-37.572594,143.813065,-37.572594],
-  "geometry": {"coordinates":[143.813065,-37.572594],"type":"Point"}
+  "bbox": [
+    143.813065,
+    -37.572594,
+    143.813065,
+    -37.572594
+],
+  "geometry": {"coordinates":[143.81306499999999,-37.572594],"type":"Point"}
 }

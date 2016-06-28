@@ -2,13 +2,14 @@
   "id": 253228097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.957565,-27.56321,151.957565,-27.56321",
     "geom:latitude":-27.56321,
     "geom:longitude":151.957565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253228097,
-    "wof:lastmodified":1449063745,
+    "wof:lastmodified":1466190275,
     "wof:name":"Investor Financial Planning",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "consultant"
     ]
 },
-  "bbox": [151.957565,-27.56321,151.957565,-27.56321],
-  "geometry": {"coordinates":[151.957565,-27.56321],"type":"Point"}
+  "bbox": [
+    151.957565,
+    -27.56321,
+    151.957565,
+    -27.56321
+],
+  "geometry": {"coordinates":[151.95756499999999,-27.56321],"type":"Point"}
 }

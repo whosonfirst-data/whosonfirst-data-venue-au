@@ -2,13 +2,14 @@
   "id": 202883251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.003876,-30.50281,153.003876,-30.50281",
     "geom:latitude":-30.50281,
     "geom:longitude":153.003876,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Burrawong Pde",
     "sg:city":"Urunga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202883251,
-    "wof:lastmodified":1449062061,
+    "wof:lastmodified":1466190599,
     "wof:name":"Wenonah Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.003876,-30.50281,153.003876,-30.50281],
-  "geometry": {"coordinates":[153.003876,-30.50281],"type":"Point"}
+  "bbox": [
+    153.003876,
+    -30.50281,
+    153.003876,
+    -30.50281
+],
+  "geometry": {"coordinates":[153.00387599999999,-30.50281],"type":"Point"}
 }

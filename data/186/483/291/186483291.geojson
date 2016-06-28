@@ -2,13 +2,14 @@
   "id": 186483291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.774796,-19.266199,146.774796,-19.266199",
     "geom:latitude":-19.266199,
     "geom:longitude":146.774796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Bolam St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186483291,
-    "wof:lastmodified":1449052437,
+    "wof:lastmodified":1466190545,
     "wof:name":"Dairy Farmers",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [146.774796,-19.266199,146.774796,-19.266199],
-  "geometry": {"coordinates":[146.774796,-19.266199],"type":"Point"}
+  "bbox": [
+    146.774796,
+    -19.266199,
+    146.774796,
+    -19.266199
+],
+  "geometry": {"coordinates":[146.77479600000001,-19.266199],"type":"Point"}
 }

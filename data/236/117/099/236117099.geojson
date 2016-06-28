@@ -2,13 +2,14 @@
   "id": 236117099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.900772,-37.772755,144.900772,-37.772755",
     "geom:latitude":-37.772755,
     "geom:longitude":144.900772,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 HArold St",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236117099,
-    "wof:lastmodified":1449003978,
+    "wof:lastmodified":1466188983,
     "wof:name":"Rudolf Arends Architect & Building Consultant",
     "wof:parent_id":85771437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.900772,-37.772755,144.900772,-37.772755],
-  "geometry": {"coordinates":[144.900772,-37.772755],"type":"Point"}
+  "bbox": [
+    144.900772,
+    -37.772755,
+    144.900772,
+    -37.772755
+],
+  "geometry": {"coordinates":[144.90077199999999,-37.772755],"type":"Point"}
 }

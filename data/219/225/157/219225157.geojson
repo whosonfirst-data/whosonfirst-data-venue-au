@@ -2,13 +2,14 @@
   "id": 219225157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.245087,-33.534958,149.245087,-33.534958",
     "geom:latitude":-33.534958,
     "geom:longitude":149.245087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Amos Ave",
     "sg:city":"Blayney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219225157,
-    "wof:lastmodified":1449071496,
+    "wof:lastmodified":1466189874,
     "wof:name":"Ephraim D J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.245087,-33.534958,149.245087,-33.534958],
-  "geometry": {"coordinates":[149.245087,-33.534958],"type":"Point"}
+  "bbox": [
+    149.245087,
+    -33.534958,
+    149.245087,
+    -33.534958
+],
+  "geometry": {"coordinates":[149.24508700000001,-33.534958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202513013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.17746,-38.094017,145.17746,-38.094017",
     "geom:latitude":-38.094017,
     "geom:longitude":145.17746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Frankston-Dandenong Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202513013,
-    "wof:lastmodified":1449061766,
+    "wof:lastmodified":1466190015,
     "wof:name":"DutchCare Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [145.17746,-38.094017,145.17746,-38.094017],
+  "bbox": [
+    145.17746,
+    -38.094017,
+    145.17746,
+    -38.094017
+],
   "geometry": {"coordinates":[145.17746,-38.094017],"type":"Point"}
 }

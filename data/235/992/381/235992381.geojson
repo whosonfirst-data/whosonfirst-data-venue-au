@@ -2,13 +2,14 @@
   "id": 235992381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.744965,-36.962933,140.744965,-36.962933",
     "geom:latitude":-36.962933,
     "geom:longitude":140.744965,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Naracoorte Community Health Centre, Cedar Ave",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235992381,
-    "wof:lastmodified":1449008407,
+    "wof:lastmodified":1466187607,
     "wof:name":"Options Co-ordination",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [140.744965,-36.962933,140.744965,-36.962933],
-  "geometry": {"coordinates":[140.744965,-36.962933],"type":"Point"}
+  "bbox": [
+    140.744965,
+    -36.962933,
+    140.744965,
+    -36.962933
+],
+  "geometry": {"coordinates":[140.74496500000001,-36.962933],"type":"Point"}
 }

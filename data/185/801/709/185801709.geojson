@@ -2,13 +2,14 @@
   "id": 185801709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.524887,-37.656826,145.524887,-37.656826",
     "geom:latitude":-37.656826,
     "geom:longitude":145.524887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Currawong Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185801709,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466189931,
     "wof:name":"Bryans Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.524887,-37.656826,145.524887,-37.656826],
-  "geometry": {"coordinates":[145.524887,-37.656826],"type":"Point"}
+  "bbox": [
+    145.524887,
+    -37.656826,
+    145.524887,
+    -37.656826
+],
+  "geometry": {"coordinates":[145.52488700000001,-37.656826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236303605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.743599,-32.280029,115.743599,-32.280029",
     "geom:latitude":-32.280029,
     "geom:longitude":115.743599,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Leeuwin Pde",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236303605,
-    "wof:lastmodified":1449001702,
+    "wof:lastmodified":1466190531,
     "wof:name":"Rockingham Herbal Clinic",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [115.743599,-32.280029,115.743599,-32.280029],
+  "bbox": [
+    115.743599,
+    -32.280029,
+    115.743599,
+    -32.280029
+],
   "geometry": {"coordinates":[115.743599,-32.280029],"type":"Point"}
 }

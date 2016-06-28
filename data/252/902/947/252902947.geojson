@@ -2,13 +2,14 @@
   "id": 252902947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.578705,-37.711014,144.578705,-37.711014",
     "geom:latitude":-37.711014,
     "geom:longitude":144.578705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Wootton Crt",
     "sg:city":"Melton South",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252902947,
-    "wof:lastmodified":1449006210,
+    "wof:lastmodified":1466189019,
     "wof:name":"Tankey P J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.578705,-37.711014,144.578705,-37.711014],
-  "geometry": {"coordinates":[144.578705,-37.711014],"type":"Point"}
+  "bbox": [
+    144.578705,
+    -37.711014,
+    144.578705,
+    -37.711014
+],
+  "geometry": {"coordinates":[144.57870500000001,-37.711014],"type":"Point"}
 }

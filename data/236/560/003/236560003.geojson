@@ -2,13 +2,14 @@
   "id": 236560003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.015488,-33.953308,151.015488,-33.953308",
     "geom:latitude":-33.953308,
     "geom:longitude":151.015488,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Revesby Pl",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236560003,
-    "wof:lastmodified":1449004307,
+    "wof:lastmodified":1466191405,
     "wof:name":"Revesby First National",
     "wof:parent_id":85770077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.015488,-33.953308,151.015488,-33.953308],
+  "bbox": [
+    151.015488,
+    -33.953308,
+    151.015488,
+    -33.953308
+],
   "geometry": {"coordinates":[151.015488,-33.953308],"type":"Point"}
 }

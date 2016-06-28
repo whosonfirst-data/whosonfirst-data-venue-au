@@ -2,13 +2,14 @@
   "id": 253247259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.937607,-27.562212,151.937607,-27.562212",
     "geom:latitude":-27.562212,
     "geom:longitude":151.937607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16a James St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253247259,
-    "wof:lastmodified":1449064548,
+    "wof:lastmodified":1466190526,
     "wof:name":"Webb Alistair",
     "wof:parent_id":85780523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.937607,-27.562212,151.937607,-27.562212],
-  "geometry": {"coordinates":[151.937607,-27.562212],"type":"Point"}
+  "bbox": [
+    151.937607,
+    -27.562212,
+    151.937607,
+    -27.562212
+],
+  "geometry": {"coordinates":[151.93760700000001,-27.562212],"type":"Point"}
 }

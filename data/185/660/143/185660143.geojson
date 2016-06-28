@@ -2,13 +2,14 @@
   "id": 185660143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.783089,-32.036747,115.783089,-32.036747",
     "geom:latitude":-32.036747,
     "geom:longitude":115.783089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Canning Hwy",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185660143,
-    "wof:lastmodified":1449008057,
+    "wof:lastmodified":1466188446,
     "wof:name":"Dr Peter Webster",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.783089,-32.036747,115.783089,-32.036747],
+  "bbox": [
+    115.783089,
+    -32.036747,
+    115.783089,
+    -32.036747
+],
   "geometry": {"coordinates":[115.783089,-32.036747],"type":"Point"}
 }

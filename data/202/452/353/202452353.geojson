@@ -2,13 +2,14 @@
   "id": 202452353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.95578,-37.828026,144.95578,-37.828026",
     "geom:latitude":-37.828026,
     "geom:longitude":144.95578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Haig St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202452353,
-    "wof:lastmodified":1449060705,
+    "wof:lastmodified":1466188827,
     "wof:name":"Wilson Parking Australia 1992 Pty Ltd",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.95578,-37.828026,144.95578,-37.828026],
+  "bbox": [
+    144.95578,
+    -37.828026,
+    144.95578,
+    -37.828026
+],
   "geometry": {"coordinates":[144.95578,-37.828026],"type":"Point"}
 }

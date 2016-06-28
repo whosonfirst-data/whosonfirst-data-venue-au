@@ -2,13 +2,14 @@
   "id": 202629395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.174011,-28.85733,151.174011,-28.85733",
     "geom:latitude":-28.85733,
     "geom:longitude":151.174011,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 High St",
     "sg:city":"Texas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202629395,
-    "wof:lastmodified":1449062068,
+    "wof:lastmodified":1466187580,
     "wof:name":"Texas Motel The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.174011,-28.85733,151.174011,-28.85733],
-  "geometry": {"coordinates":[151.174011,-28.85733],"type":"Point"}
+  "bbox": [
+    151.174011,
+    -28.85733,
+    151.174011,
+    -28.85733
+],
+  "geometry": {"coordinates":[151.17401100000001,-28.85733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186559867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15712,-33.889999,151.15712,-33.889999",
     "geom:latitude":-33.889999,
     "geom:longitude":151.15712,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Fort St",
     "sg:city":"Petersham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186559867,
-    "wof:lastmodified":1449052417,
+    "wof:lastmodified":1466190762,
     "wof:name":"Bazzacco R",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.15712,-33.889999,151.15712,-33.889999],
-  "geometry": {"coordinates":[151.15712,-33.889999],"type":"Point"}
+  "bbox": [
+    151.15712,
+    -33.889999,
+    151.15712,
+    -33.889999
+],
+  "geometry": {"coordinates":[151.15711999999999,-33.889999],"type":"Point"}
 }

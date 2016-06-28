@@ -2,13 +2,14 @@
   "id": 236307533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.725777,-32.291924,115.725777,-32.291924",
     "geom:latitude":-32.291924,
     "geom:longitude":115.725777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 McGuire Mews",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236307533,
-    "wof:lastmodified":1449002318,
+    "wof:lastmodified":1466190413,
     "wof:name":"Cobra Alloys",
     "wof:parent_id":85770163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairer"
     ]
 },
-  "bbox": [115.725777,-32.291924,115.725777,-32.291924],
-  "geometry": {"coordinates":[115.725777,-32.291924],"type":"Point"}
+  "bbox": [
+    115.725777,
+    -32.291924,
+    115.725777,
+    -32.291924
+],
+  "geometry": {"coordinates":[115.72577699999999,-32.291924],"type":"Point"}
 }

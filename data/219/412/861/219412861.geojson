@@ -2,13 +2,14 @@
   "id": 219412861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.85733,-33.750996,150.85733,-33.750996",
     "geom:latitude":-33.750996,
     "geom:longitude":150.85733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6- 8 Rayben St",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219412861,
-    "wof:lastmodified":1449071116,
+    "wof:lastmodified":1466188493,
     "wof:name":"ERS Australia Pty Ltd",
     "wof:parent_id":85769193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "pressure"
     ]
 },
-  "bbox": [150.85733,-33.750996,150.85733,-33.750996],
-  "geometry": {"coordinates":[150.85733,-33.750996],"type":"Point"}
+  "bbox": [
+    150.85733,
+    -33.750996,
+    150.85733,
+    -33.750996
+],
+  "geometry": {"coordinates":[150.85732999999999,-33.750996],"type":"Point"}
 }

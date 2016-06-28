@@ -2,13 +2,14 @@
   "id": 253199859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.928604,-27.586323,151.928604,-27.586323",
     "geom:latitude":-27.586323,
     "geom:longitude":151.928604,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 2 Cumberland Ave",
     "sg:city":"Smithfield (Cairns)",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253199859,
-    "wof:lastmodified":1449063113,
+    "wof:lastmodified":1466190219,
     "wof:name":"Veterinary Diagnostic Services",
     "wof:parent_id":85780331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.928604,-27.586323,151.928604,-27.586323],
-  "geometry": {"coordinates":[151.928604,-27.586323],"type":"Point"}
+  "bbox": [
+    151.928604,
+    -27.586323,
+    151.928604,
+    -27.586323
+],
+  "geometry": {"coordinates":[151.92860400000001,-27.586323],"type":"Point"}
 }

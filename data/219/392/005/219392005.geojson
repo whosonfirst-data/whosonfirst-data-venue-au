@@ -2,13 +2,14 @@
   "id": 219392005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051514,-27.818317,153.051514,-27.818317",
     "geom:latitude":-27.818317,
     "geom:longitude":153.051514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18- 22 Wynne Rd",
     "sg:city":"Jimboomba",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219392005,
-    "wof:lastmodified":1449073229,
+    "wof:lastmodified":1466188299,
     "wof:name":"Oz E Rect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.051514,-27.818317,153.051514,-27.818317],
+  "bbox": [
+    153.051514,
+    -27.818317,
+    153.051514,
+    -27.818317
+],
   "geometry": {"coordinates":[153.051514,-27.818317],"type":"Point"}
 }

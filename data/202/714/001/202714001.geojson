@@ -2,13 +2,14 @@
   "id": 202714001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.062561,-27.354662,153.062561,-27.354662",
     "geom:latitude":-27.354662,
     "geom:longitude":153.062561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Boondall St",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202714001,
-    "wof:lastmodified":1449061373,
+    "wof:lastmodified":1466189101,
     "wof:name":"MTConsulting",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [153.062561,-27.354662,153.062561,-27.354662],
-  "geometry": {"coordinates":[153.062561,-27.354662],"type":"Point"}
+  "bbox": [
+    153.062561,
+    -27.354662,
+    153.062561,
+    -27.354662
+],
+  "geometry": {"coordinates":[153.06256099999999,-27.354662],"type":"Point"}
 }

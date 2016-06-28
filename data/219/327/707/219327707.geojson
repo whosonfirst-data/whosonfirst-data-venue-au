@@ -2,13 +2,14 @@
   "id": 219327707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.932281,-38.160484,145.932281,-38.160484",
     "geom:latitude":-38.160484,
     "geom:longitude":145.932281,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Smith St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219327707,
-    "wof:lastmodified":1449070655,
+    "wof:lastmodified":1466187757,
     "wof:name":"Blue Dolphin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [145.932281,-38.160484,145.932281,-38.160484],
-  "geometry": {"coordinates":[145.932281,-38.160484],"type":"Point"}
+  "bbox": [
+    145.932281,
+    -38.160484,
+    145.932281,
+    -38.160484
+],
+  "geometry": {"coordinates":[145.93228099999999,-38.160484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202879565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.597504,-32.928974,151.597504,-32.928974",
     "geom:latitude":-32.928974,
     "geom:longitude":151.597504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Northville Drv",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202879565,
-    "wof:lastmodified":1449060136,
+    "wof:lastmodified":1466190468,
     "wof:name":"Walker Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.597504,-32.928974,151.597504,-32.928974],
-  "geometry": {"coordinates":[151.597504,-32.928974],"type":"Point"}
+  "bbox": [
+    151.597504,
+    -32.928974,
+    151.597504,
+    -32.928974
+],
+  "geometry": {"coordinates":[151.59750399999999,-32.928974],"type":"Point"}
 }

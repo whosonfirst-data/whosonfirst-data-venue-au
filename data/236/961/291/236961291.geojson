@@ -2,13 +2,14 @@
   "id": 236961291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.444885,-37.914764,145.444885,-37.914764",
     "geom:latitude":-37.914764,
     "geom:longitude":145.444885,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Emerald-Monbulk Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236961291,
-    "wof:lastmodified":1449005173,
+    "wof:lastmodified":1466192167,
     "wof:name":"Fernlea House Inc",
     "wof:parent_id":85769507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [145.444885,-37.914764,145.444885,-37.914764],
+  "bbox": [
+    145.444885,
+    -37.914764,
+    145.444885,
+    -37.914764
+],
   "geometry": {"coordinates":[145.444885,-37.914764],"type":"Point"}
 }

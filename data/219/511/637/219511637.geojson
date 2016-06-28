@@ -2,13 +2,14 @@
   "id": 219511637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.118896,-33.915714,151.118896,-33.915714",
     "geom:latitude":-33.915714,
     "geom:longitude":151.118896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Berna St",
     "sg:city":"Canterbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219511637,
-    "wof:lastmodified":1449072024,
+    "wof:lastmodified":1466189734,
     "wof:name":"Michael K Building Constructions",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.118896,-33.915714,151.118896,-33.915714],
-  "geometry": {"coordinates":[151.118896,-33.915714],"type":"Point"}
+  "bbox": [
+    151.118896,
+    -33.915714,
+    151.118896,
+    -33.915714
+],
+  "geometry": {"coordinates":[151.11889600000001,-33.915714],"type":"Point"}
 }

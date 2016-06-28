@@ -2,13 +2,14 @@
   "id": 186633787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.050171,-34.289413,146.050171,-34.289413",
     "geom:latitude":-34.289413,
     "geom:longitude":146.050171,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Jondaryan Ave",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186633787,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1466191033,
     "wof:name":"Donaldsons Mitre 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [146.050171,-34.289413,146.050171,-34.289413],
-  "geometry": {"coordinates":[146.050171,-34.289413],"type":"Point"}
+  "bbox": [
+    146.050171,
+    -34.289413,
+    146.050171,
+    -34.289413
+],
+  "geometry": {"coordinates":[146.05017100000001,-34.289413],"type":"Point"}
 }

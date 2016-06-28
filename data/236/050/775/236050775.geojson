@@ -2,13 +2,14 @@
   "id": 236050775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.919891,-37.75795,144.919891,-37.75795",
     "geom:latitude":-37.75795,
     "geom:longitude":144.919891,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"862 Mt Alexander Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236050775,
-    "wof:lastmodified":1449003479,
+    "wof:lastmodified":1466187633,
     "wof:name":"Yvonne George",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [144.919891,-37.75795,144.919891,-37.75795],
-  "geometry": {"coordinates":[144.919891,-37.75795],"type":"Point"}
+  "bbox": [
+    144.919891,
+    -37.75795,
+    144.919891,
+    -37.75795
+],
+  "geometry": {"coordinates":[144.91989100000001,-37.75795],"type":"Point"}
 }

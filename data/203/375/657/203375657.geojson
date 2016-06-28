@@ -2,13 +2,14 @@
   "id": 203375657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.851532,-37.57032,143.851532,-37.57032",
     "geom:latitude":-37.57032,
     "geom:longitude":143.851532,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Dawson St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203375657,
-    "wof:lastmodified":1449025017,
+    "wof:lastmodified":1466189123,
     "wof:name":"Confined Space Excavations",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.851532,-37.57032,143.851532,-37.57032],
-  "geometry": {"coordinates":[143.851532,-37.57032],"type":"Point"}
+  "bbox": [
+    143.851532,
+    -37.57032,
+    143.851532,
+    -37.57032
+],
+  "geometry": {"coordinates":[143.85153199999999,-37.57032],"type":"Point"}
 }

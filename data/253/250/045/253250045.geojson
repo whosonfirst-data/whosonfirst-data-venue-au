@@ -2,13 +2,14 @@
   "id": 253250045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.942383,-27.539408,151.942383,-27.539408",
     "geom:latitude":-27.539408,
     "geom:longitude":151.942383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr North & Stradbroke Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253250045,
-    "wof:lastmodified":1449064512,
+    "wof:lastmodified":1466190402,
     "wof:name":"Vince O&#039;Neill",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "range"
     ]
 },
-  "bbox": [151.942383,-27.539408,151.942383,-27.539408],
-  "geometry": {"coordinates":[151.942383,-27.539408],"type":"Point"}
+  "bbox": [
+    151.942383,
+    -27.539408,
+    151.942383,
+    -27.539408
+],
+  "geometry": {"coordinates":[151.94238300000001,-27.539408],"type":"Point"}
 }

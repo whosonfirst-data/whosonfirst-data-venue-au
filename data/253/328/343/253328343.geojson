@@ -2,13 +2,14 @@
   "id": 253328343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.313477,-38.013348,145.313477,-38.013348",
     "geom:latitude":-38.013348,
     "geom:longitude":145.313477,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 kurrajong Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253328343,
-    "wof:lastmodified":1449064553,
+    "wof:lastmodified":1466190877,
     "wof:name":"Sheridan Locksmiths",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [145.313477,-38.013348,145.313477,-38.013348],
-  "geometry": {"coordinates":[145.313477,-38.013348],"type":"Point"}
+  "bbox": [
+    145.313477,
+    -38.013348,
+    145.313477,
+    -38.013348
+],
+  "geometry": {"coordinates":[145.31347700000001,-38.013348],"type":"Point"}
 }

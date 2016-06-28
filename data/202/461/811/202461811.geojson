@@ -2,13 +2,14 @@
   "id": 202461811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.947296,-37.831409,144.947296,-37.831409",
     "geom:latitude":-37.831409,
     "geom:longitude":144.947296,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 2/ 194 Gladstone St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202461811,
-    "wof:lastmodified":1449061071,
+    "wof:lastmodified":1466188967,
     "wof:name":"Visual Response Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [144.947296,-37.831409,144.947296,-37.831409],
-  "geometry": {"coordinates":[144.947296,-37.831409],"type":"Point"}
+  "bbox": [
+    144.947296,
+    -37.831409,
+    144.947296,
+    -37.831409
+],
+  "geometry": {"coordinates":[144.94729599999999,-37.831409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220114793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.525208,-38.267235,144.525208,-38.267235",
     "geom:latitude":-38.267235,
     "geom:longitude":144.525208,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Upper Floor, 87 The Parade",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220114793,
-    "wof:lastmodified":1449074376,
+    "wof:lastmodified":1466188106,
     "wof:name":"Michael Higgins Building Design Pty Ltd",
     "wof:parent_id":85775099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [144.525208,-38.267235,144.525208,-38.267235],
-  "geometry": {"coordinates":[144.525208,-38.267235],"type":"Point"}
+  "bbox": [
+    144.525208,
+    -38.267235,
+    144.525208,
+    -38.267235
+],
+  "geometry": {"coordinates":[144.52520799999999,-38.267235],"type":"Point"}
 }

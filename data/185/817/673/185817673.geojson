@@ -2,13 +2,14 @@
   "id": 185817673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.374924,-37.658695,145.374924,-37.658695",
     "geom:latitude":-37.658695,
     "geom:longitude":145.374924,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bell St",
     "sg:city":"Yarra Glen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185817673,
-    "wof:lastmodified":1449007906,
+    "wof:lastmodified":1466186964,
     "wof:name":"Treasures From The Past Antiques & Collectables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.374924,-37.658695,145.374924,-37.658695],
-  "geometry": {"coordinates":[145.374924,-37.658695],"type":"Point"}
+  "bbox": [
+    145.374924,
+    -37.658695,
+    145.374924,
+    -37.658695
+],
+  "geometry": {"coordinates":[145.37492399999999,-37.658695],"type":"Point"}
 }

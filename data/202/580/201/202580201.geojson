@@ -2,13 +2,14 @@
   "id": 202580201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.434692,-37.680122,144.434692,-37.680122",
     "geom:latitude":-37.680122,
     "geom:longitude":144.434692,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Grant St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202580201,
-    "wof:lastmodified":1449061800,
+    "wof:lastmodified":1466187126,
     "wof:name":"Le Beau Finesse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.434692,-37.680122,144.434692,-37.680122],
-  "geometry": {"coordinates":[144.434692,-37.680122],"type":"Point"}
+  "bbox": [
+    144.434692,
+    -37.680122,
+    144.434692,
+    -37.680122
+],
+  "geometry": {"coordinates":[144.43469200000001,-37.680122],"type":"Point"}
 }

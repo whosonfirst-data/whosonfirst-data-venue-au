@@ -2,13 +2,14 @@
   "id": 236465051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.196609,-21.162432,149.196609,-21.162432",
     "geom:latitude":-21.162432,
     "geom:longitude":149.196609,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Yaralla Ave",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236465051,
-    "wof:lastmodified":1449003951,
+    "wof:lastmodified":1466191283,
     "wof:name":"Smith John E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [149.196609,-21.162432,149.196609,-21.162432],
+  "bbox": [
+    149.196609,
+    -21.162432,
+    149.196609,
+    -21.162432
+],
   "geometry": {"coordinates":[149.196609,-21.162432],"type":"Point"}
 }

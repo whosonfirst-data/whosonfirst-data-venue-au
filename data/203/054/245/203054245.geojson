@@ -2,13 +2,14 @@
   "id": 203054245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.699646,-36.910355,144.699646,-36.910355",
     "geom:latitude":-36.910355,
     "geom:longitude":144.699646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Routledge St",
     "sg:city":"Heathcote",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203054245,
-    "wof:lastmodified":1449025814,
+    "wof:lastmodified":1466189981,
     "wof:name":"A.B.P.A.T.S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ear"
     ]
 },
-  "bbox": [144.699646,-36.910355,144.699646,-36.910355],
+  "bbox": [
+    144.699646,
+    -36.910355,
+    144.699646,
+    -36.910355
+],
   "geometry": {"coordinates":[144.699646,-36.910355],"type":"Point"}
 }

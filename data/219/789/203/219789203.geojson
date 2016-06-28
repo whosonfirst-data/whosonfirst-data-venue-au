@@ -2,13 +2,14 @@
   "id": 219789203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.734222,-19.300381,146.734222,-19.300381",
     "geom:latitude":-19.300381,
     "geom:longitude":146.734222,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Castlemaine St",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219789203,
-    "wof:lastmodified":1449071990,
+    "wof:lastmodified":1466191354,
     "wof:name":"Local Storage Solutions",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [146.734222,-19.300381,146.734222,-19.300381],
-  "geometry": {"coordinates":[146.734222,-19.300381],"type":"Point"}
+  "bbox": [
+    146.734222,
+    -19.300381,
+    146.734222,
+    -19.300381
+],
+  "geometry": {"coordinates":[146.73422199999999,-19.300381],"type":"Point"}
 }

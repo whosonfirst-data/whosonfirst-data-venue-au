@@ -2,13 +2,14 @@
   "id": 236825747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.891632,-34.427746,150.891632,-34.427746",
     "geom:latitude":-34.427746,
     "geom:longitude":150.891632,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Kenny St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236825747,
-    "wof:lastmodified":1449001774,
+    "wof:lastmodified":1466191916,
     "wof:name":"AVC Network Infrastructure Professionals",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "installation"
     ]
 },
-  "bbox": [150.891632,-34.427746,150.891632,-34.427746],
-  "geometry": {"coordinates":[150.891632,-34.427746],"type":"Point"}
+  "bbox": [
+    150.891632,
+    -34.427746,
+    150.891632,
+    -34.427746
+],
+  "geometry": {"coordinates":[150.89163199999999,-34.427746],"type":"Point"}
 }

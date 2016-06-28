@@ -2,13 +2,14 @@
   "id": 236947973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.598694,-34.985546,138.598694,-34.985546",
     "geom:latitude":-34.985546,
     "geom:longitude":138.598694,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Prince George Pde",
     "sg:city":"Colonel Light Gardens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236947973,
-    "wof:lastmodified":1449004151,
+    "wof:lastmodified":1466192208,
     "wof:name":"Colonel Light Carpentry",
     "wof:parent_id":85777433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [138.598694,-34.985546,138.598694,-34.985546],
-  "geometry": {"coordinates":[138.598694,-34.985546],"type":"Point"}
+  "bbox": [
+    138.598694,
+    -34.985546,
+    138.598694,
+    -34.985546
+],
+  "geometry": {"coordinates":[138.59869399999999,-34.985546],"type":"Point"}
 }

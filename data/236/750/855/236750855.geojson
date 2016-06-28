@@ -2,13 +2,14 @@
   "id": 236750855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.947449,-27.105125,152.947449,-27.105125",
     "geom:latitude":-27.105125,
     "geom:longitude":152.947449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 193 Morayfield Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236750855,
-    "wof:lastmodified":1449003683,
+    "wof:lastmodified":1466191898,
     "wof:name":"Chris Innes",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.947449,-27.105125,152.947449,-27.105125],
-  "geometry": {"coordinates":[152.947449,-27.105125],"type":"Point"}
+  "bbox": [
+    152.947449,
+    -27.105125,
+    152.947449,
+    -27.105125
+],
+  "geometry": {"coordinates":[152.94744900000001,-27.105125],"type":"Point"}
 }

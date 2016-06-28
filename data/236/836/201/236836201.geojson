@@ -2,13 +2,14 @@
   "id": 236836201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.870316,-34.423676,150.870316,-34.423676",
     "geom:latitude":-34.423676,
     "geom:longitude":150.870316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"West Wollongong Public School (Phillips Ave)",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236836201,
-    "wof:lastmodified":1449003912,
+    "wof:lastmodified":1466192013,
     "wof:name":"West Wollongong Outside School Hours Care",
     "wof:parent_id":85777205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [150.870316,-34.423676,150.870316,-34.423676],
+  "bbox": [
+    150.870316,
+    -34.423676,
+    150.870316,
+    -34.423676
+],
   "geometry": {"coordinates":[150.870316,-34.423676],"type":"Point"}
 }

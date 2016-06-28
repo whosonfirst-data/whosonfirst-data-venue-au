@@ -2,13 +2,14 @@
   "id": 186364581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.142548,-33.865002,151.142548,-33.865002",
     "geom:latitude":-33.865002,
     "geom:longitude":151.142548,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Duchess Ave",
     "sg:city":"Rodd Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186364581,
-    "wof:lastmodified":1449051887,
+    "wof:lastmodified":1466188716,
     "wof:name":"Coast To Coast Finance",
     "wof:parent_id":85776743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [151.142548,-33.865002,151.142548,-33.865002],
-  "geometry": {"coordinates":[151.142548,-33.865002],"type":"Point"}
+  "bbox": [
+    151.142548,
+    -33.865002,
+    151.142548,
+    -33.865002
+],
+  "geometry": {"coordinates":[151.14254800000001,-33.865002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186325053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.976097,-31.898035,115.976097,-31.898035",
     "geom:latitude":-31.898035,
     "geom:longitude":115.976097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Waylen St",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186325053,
-    "wof:lastmodified":1449051412,
+    "wof:lastmodified":1466188008,
     "wof:name":"Renaissance Hair & Healing Studio",
     "wof:parent_id":85769421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.976097,-31.898035,115.976097,-31.898035],
+  "bbox": [
+    115.976097,
+    -31.898035,
+    115.976097,
+    -31.898035
+],
   "geometry": {"coordinates":[115.976097,-31.898035],"type":"Point"}
 }

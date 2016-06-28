@@ -2,13 +2,14 @@
   "id": 220092755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.660324,-38.268486,144.660324,-38.268486",
     "geom:latitude":-38.268486,
     "geom:longitude":144.660324,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74A Hesse St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220092755,
-    "wof:lastmodified":1449074698,
+    "wof:lastmodified":1466187892,
     "wof:name":"Rush Group",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "auditor"
     ]
 },
-  "bbox": [144.660324,-38.268486,144.660324,-38.268486],
+  "bbox": [
+    144.660324,
+    -38.268486,
+    144.660324,
+    -38.268486
+],
   "geometry": {"coordinates":[144.660324,-38.268486],"type":"Point"}
 }

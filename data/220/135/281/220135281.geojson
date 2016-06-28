@@ -2,13 +2,14 @@
   "id": 220135281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.365128,-38.164864,144.365128,-38.164864",
     "geom:latitude":-38.164864,
     "geom:longitude":144.365128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"168- 170 Fyans St",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220135281,
-    "wof:lastmodified":1449074344,
+    "wof:lastmodified":1466188296,
     "wof:name":"Palm Springs",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drinking"
     ]
 },
-  "bbox": [144.365128,-38.164864,144.365128,-38.164864],
+  "bbox": [
+    144.365128,
+    -38.164864,
+    144.365128,
+    -38.164864
+],
   "geometry": {"coordinates":[144.365128,-38.164864],"type":"Point"}
 }

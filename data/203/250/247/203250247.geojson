@@ -2,13 +2,14 @@
   "id": 203250247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.350174,-32.243401,147.350174,-32.243401",
     "geom:latitude":-32.243401,
     "geom:longitude":147.350174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot2/ Tullamore Rd",
     "sg:city":"Tottenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203250247,
-    "wof:lastmodified":1449026037,
+    "wof:lastmodified":1466187574,
     "wof:name":"James Gizis Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [147.350174,-32.243401,147.350174,-32.243401],
-  "geometry": {"coordinates":[147.350174,-32.243401],"type":"Point"}
+  "bbox": [
+    147.350174,
+    -32.243401,
+    147.350174,
+    -32.243401
+],
+  "geometry": {"coordinates":[147.35017400000001,-32.243401],"type":"Point"}
 }

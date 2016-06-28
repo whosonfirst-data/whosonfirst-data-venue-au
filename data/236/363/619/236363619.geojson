@@ -2,13 +2,14 @@
   "id": 236363619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.801651,-32.062202,115.801651,-32.062202",
     "geom:latitude":-32.062202,
     "geom:longitude":115.801651,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Adams St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236363619,
-    "wof:lastmodified":1449004765,
+    "wof:lastmodified":1466191065,
     "wof:name":"AC Parts",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [115.801651,-32.062202,115.801651,-32.062202],
-  "geometry": {"coordinates":[115.801651,-32.062202],"type":"Point"}
+  "bbox": [
+    115.801651,
+    -32.062202,
+    115.801651,
+    -32.062202
+],
+  "geometry": {"coordinates":[115.80165100000001,-32.062202],"type":"Point"}
 }

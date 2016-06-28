@@ -2,13 +2,14 @@
   "id": 202801295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.739471,-32.935757,151.739471,-32.935757",
     "geom:latitude":-32.935757,
     "geom:longitude":151.739471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Hassall St",
     "sg:city":"Hamilton South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202801295,
-    "wof:lastmodified":1449062222,
+    "wof:lastmodified":1466190321,
     "wof:name":"Bev's Takeaway",
     "wof:parent_id":85777113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.739471,-32.935757,151.739471,-32.935757],
-  "geometry": {"coordinates":[151.739471,-32.935757],"type":"Point"}
+  "bbox": [
+    151.739471,
+    -32.935757,
+    151.739471,
+    -32.935757
+],
+  "geometry": {"coordinates":[151.73947100000001,-32.935757],"type":"Point"}
 }

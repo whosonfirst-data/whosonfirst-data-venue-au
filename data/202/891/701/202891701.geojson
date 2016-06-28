@@ -2,13 +2,14 @@
   "id": 202891701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.900024,-30.446411,152.900024,-30.446411",
     "geom:latitude":-30.446411,
     "geom:longitude":152.900024,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 54 Wheatley St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202891701,
-    "wof:lastmodified":1449061656,
+    "wof:lastmodified":1466190626,
     "wof:name":"Bellingen Community Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [152.900024,-30.446411,152.900024,-30.446411],
+  "bbox": [
+    152.900024,
+    -30.446411,
+    152.900024,
+    -30.446411
+],
   "geometry": {"coordinates":[152.900024,-30.446411],"type":"Point"}
 }

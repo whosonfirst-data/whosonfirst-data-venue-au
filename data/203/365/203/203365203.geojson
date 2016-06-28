@@ -2,13 +2,14 @@
   "id": 203365203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.856506,-37.561497,143.856506,-37.561497",
     "geom:latitude":-37.561497,
     "geom:longitude":143.856506,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Armstrong St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203365203,
-    "wof:lastmodified":1449025243,
+    "wof:lastmodified":1466188940,
     "wof:name":"Crocker George Pty Ltd",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [143.856506,-37.561497,143.856506,-37.561497],
+  "bbox": [
+    143.856506,
+    -37.561497,
+    143.856506,
+    -37.561497
+],
   "geometry": {"coordinates":[143.856506,-37.561497],"type":"Point"}
 }

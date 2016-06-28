@@ -2,13 +2,14 @@
   "id": 253146223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951157,-27.555853,151.951157,-27.555853",
     "geom:latitude":-27.555853,
     "geom:longitude":151.951157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Toowoomba Railway Station, Railway St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253146223,
-    "wof:lastmodified":1449064048,
+    "wof:lastmodified":1466189538,
     "wof:name":"Platform9",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [151.951157,-27.555853,151.951157,-27.555853],
-  "geometry": {"coordinates":[151.951157,-27.555853],"type":"Point"}
+  "bbox": [
+    151.951157,
+    -27.555853,
+    151.951157,
+    -27.555853
+],
+  "geometry": {"coordinates":[151.95115699999999,-27.555853],"type":"Point"}
 }

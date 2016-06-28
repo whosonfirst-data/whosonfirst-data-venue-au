@@ -2,13 +2,14 @@
   "id": 203304371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.834457,-37.527805,143.834457,-37.527805",
     "geom:latitude":-37.527805,
     "geom:longitude":143.834457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 Grevillea Rd",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203304371,
-    "wof:lastmodified":1449026376,
+    "wof:lastmodified":1466188009,
     "wof:name":"SVH Plastering",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [143.834457,-37.527805,143.834457,-37.527805],
-  "geometry": {"coordinates":[143.834457,-37.527805],"type":"Point"}
+  "bbox": [
+    143.834457,
+    -37.527805,
+    143.834457,
+    -37.527805
+],
+  "geometry": {"coordinates":[143.83445699999999,-37.527805],"type":"Point"}
 }

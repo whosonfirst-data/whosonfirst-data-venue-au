@@ -2,13 +2,14 @@
   "id": 202957365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.711761,-30.339493,152.711761,-30.339493",
     "geom:latitude":-30.339493,
     "geom:longitude":152.711761,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Hickory St",
     "sg:city":"Dorrigo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202957365,
-    "wof:lastmodified":1449062279,
+    "wof:lastmodified":1466191021,
     "wof:name":"Plateau Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.711761,-30.339493,152.711761,-30.339493],
+  "bbox": [
+    152.711761,
+    -30.339493,
+    152.711761,
+    -30.339493
+],
   "geometry": {"coordinates":[152.711761,-30.339493],"type":"Point"}
 }

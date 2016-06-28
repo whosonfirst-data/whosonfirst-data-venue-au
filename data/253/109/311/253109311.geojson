@@ -2,13 +2,14 @@
   "id": 253109311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.831253,-37.787979,144.831253,-37.787979",
     "geom:latitude":-37.787979,
     "geom:longitude":144.831253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10A City Pl",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253109311,
-    "wof:lastmodified":1449063850,
+    "wof:lastmodified":1466188924,
     "wof:name":"Western Continental Bakeries Pty Ltd",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.831253,-37.787979,144.831253,-37.787979],
+  "bbox": [
+    144.831253,
+    -37.787979,
+    144.831253,
+    -37.787979
+],
   "geometry": {"coordinates":[144.831253,-37.787979],"type":"Point"}
 }

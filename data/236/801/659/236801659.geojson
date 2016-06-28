@@ -2,13 +2,14 @@
   "id": 236801659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.900436,-34.479889,150.900436,-34.479889",
     "geom:latitude":-34.479889,
     "geom:longitude":150.900436,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Wentworth St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236801659,
-    "wof:lastmodified":1449004547,
+    "wof:lastmodified":1466192045,
     "wof:name":"Distinctive Glass & Aluminium",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "doors"
     ]
 },
-  "bbox": [150.900436,-34.479889,150.900436,-34.479889],
-  "geometry": {"coordinates":[150.900436,-34.479889],"type":"Point"}
+  "bbox": [
+    150.900436,
+    -34.479889,
+    150.900436,
+    -34.479889
+],
+  "geometry": {"coordinates":[150.90043600000001,-34.479889],"type":"Point"}
 }

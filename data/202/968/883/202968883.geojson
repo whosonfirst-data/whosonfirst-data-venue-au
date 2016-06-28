@@ -2,13 +2,14 @@
   "id": 202968883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.325912,-35.046803,143.325912,-35.046803",
     "geom:latitude":-35.046803,
     "geom:longitude":143.325912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Murray Valley Hwy",
     "sg:city":"Piangil",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202968883,
-    "wof:lastmodified":1449060270,
+    "wof:lastmodified":1466190973,
     "wof:name":"Renewan Murray Gold Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [143.325912,-35.046803,143.325912,-35.046803],
-  "geometry": {"coordinates":[143.325912,-35.046803],"type":"Point"}
+  "bbox": [
+    143.325912,
+    -35.046803,
+    143.325912,
+    -35.046803
+],
+  "geometry": {"coordinates":[143.32591199999999,-35.046803],"type":"Point"}
 }

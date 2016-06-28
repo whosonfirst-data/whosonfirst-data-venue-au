@@ -2,13 +2,14 @@
   "id": 236325693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.762527,-32.055271,115.762527,-32.055271",
     "geom:latitude":-32.055271,
     "geom:longitude":115.762527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Amherst St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236325693,
-    "wof:lastmodified":1449002848,
+    "wof:lastmodified":1466190541,
     "wof:name":"Perth Stabilised Earth",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brick"
     ]
 },
-  "bbox": [115.762527,-32.055271,115.762527,-32.055271],
-  "geometry": {"coordinates":[115.762527,-32.055271],"type":"Point"}
+  "bbox": [
+    115.762527,
+    -32.055271,
+    115.762527,
+    -32.055271
+],
+  "geometry": {"coordinates":[115.76252700000001,-32.055271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202678535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.020187,-27.392399,153.020187,-27.392399",
     "geom:latitude":-27.392399,
     "geom:longitude":153.020187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Chermside 956 Gympie Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202678535,
-    "wof:lastmodified":1449061355,
+    "wof:lastmodified":1466188433,
     "wof:name":"James Anthony N",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.020187,-27.392399,153.020187,-27.392399],
-  "geometry": {"coordinates":[153.020187,-27.392399],"type":"Point"}
+  "bbox": [
+    153.020187,
+    -27.392399,
+    153.020187,
+    -27.392399
+],
+  "geometry": {"coordinates":[153.02018699999999,-27.392399],"type":"Point"}
 }

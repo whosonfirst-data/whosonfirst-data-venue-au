@@ -2,13 +2,14 @@
   "id": 253206609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.955383,-27.563028,151.955383,-27.563028",
     "geom:latitude":-27.563028,
     "geom:longitude":151.955383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54- 56 Neil St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253206609,
-    "wof:lastmodified":1449064854,
+    "wof:lastmodified":1466190135,
     "wof:name":"Empire Theatre Ticket Office",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatre"
     ]
 },
-  "bbox": [151.955383,-27.563028,151.955383,-27.563028],
-  "geometry": {"coordinates":[151.955383,-27.563028],"type":"Point"}
+  "bbox": [
+    151.955383,
+    -27.563028,
+    151.955383,
+    -27.563028
+],
+  "geometry": {"coordinates":[151.95538300000001,-27.563028],"type":"Point"}
 }

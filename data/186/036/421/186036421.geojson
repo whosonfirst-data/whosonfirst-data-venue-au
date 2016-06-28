@@ -2,13 +2,14 @@
   "id": 186036421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.48317,-33.37196,151.48317,-33.37196",
     "geom:latitude":-33.37196,
     "geom:longitude":151.48317,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Grandview St",
     "sg:city":"Shelly Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186036421,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466187991,
     "wof:name":"Beaumont A C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.48317,-33.37196,151.48317,-33.37196],
+  "bbox": [
+    151.48317,
+    -33.37196,
+    151.48317,
+    -33.37196
+],
   "geometry": {"coordinates":[151.48317,-33.37196],"type":"Point"}
 }

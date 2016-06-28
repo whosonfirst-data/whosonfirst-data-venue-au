@@ -2,13 +2,14 @@
   "id": 186004249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.483612,-33.379536,151.483612,-33.379536",
     "geom:latitude":-33.379536,
     "geom:longitude":151.483612,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Bateau Bay Rd",
     "sg:city":"Bateau Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186004249,
-    "wof:lastmodified":1449051363,
+    "wof:lastmodified":1466186994,
     "wof:name":"L.J. Hooker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.483612,-33.379536,151.483612,-33.379536],
-  "geometry": {"coordinates":[151.483612,-33.379536],"type":"Point"}
+  "bbox": [
+    151.483612,
+    -33.379536,
+    151.483612,
+    -33.379536
+],
+  "geometry": {"coordinates":[151.48361199999999,-33.379536],"type":"Point"}
 }

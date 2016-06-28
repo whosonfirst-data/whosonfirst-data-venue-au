@@ -2,13 +2,14 @@
   "id": 236152327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.857452,-34.721874,135.857452,-34.721874",
     "geom:latitude":-34.721874,
     "geom:longitude":135.857452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Liverpool St",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236152327,
-    "wof:lastmodified":1449004332,
+    "wof:lastmodified":1466189525,
     "wof:name":"7th Avenue (Fashion Boutique)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [135.857452,-34.721874,135.857452,-34.721874],
-  "geometry": {"coordinates":[135.857452,-34.721874],"type":"Point"}
+  "bbox": [
+    135.857452,
+    -34.721874,
+    135.857452,
+    -34.721874
+],
+  "geometry": {"coordinates":[135.85745199999999,-34.721874],"type":"Point"}
 }

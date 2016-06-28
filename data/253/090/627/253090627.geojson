@@ -2,13 +2,14 @@
   "id": 253090627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.777054,-37.733849,144.777054,-37.733849",
     "geom:latitude":-37.733849,
     "geom:longitude":144.777054,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Galena Crs",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253090627,
-    "wof:lastmodified":1449065166,
+    "wof:lastmodified":1466188546,
     "wof:name":"Urban Painting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [144.777054,-37.733849,144.777054,-37.733849],
-  "geometry": {"coordinates":[144.777054,-37.733849],"type":"Point"}
+  "bbox": [
+    144.777054,
+    -37.733849,
+    144.777054,
+    -37.733849
+],
+  "geometry": {"coordinates":[144.77705399999999,-37.733849],"type":"Point"}
 }

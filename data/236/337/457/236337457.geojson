@@ -2,13 +2,14 @@
   "id": 236337457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.827301,-32.063602,115.827301,-32.063602",
     "geom:latitude":-32.063602,
     "geom:longitude":115.827301,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Morris Buzacott Reserve Prescott Drv",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236337457,
-    "wof:lastmodified":1449003151,
+    "wof:lastmodified":1466190723,
     "wof:name":"GymbaROO",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "programme"
     ]
 },
-  "bbox": [115.827301,-32.063602,115.827301,-32.063602],
-  "geometry": {"coordinates":[115.827301,-32.063602],"type":"Point"}
+  "bbox": [
+    115.827301,
+    -32.063602,
+    115.827301,
+    -32.063602
+],
+  "geometry": {"coordinates":[115.82730100000001,-32.063602],"type":"Point"}
 }

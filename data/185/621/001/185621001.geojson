@@ -2,13 +2,14 @@
   "id": 185621001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.926872,-32.10041,115.926872,-32.10041",
     "geom:latitude":-32.10041,
     "geom:longitude":115.926872,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5, 25 Roebuck Ave",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185621001,
-    "wof:lastmodified":1449008031,
+    "wof:lastmodified":1466189971,
     "wof:name":"Campfire Escapes",
     "wof:parent_id":85775827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "adventure"
     ]
 },
-  "bbox": [115.926872,-32.10041,115.926872,-32.10041],
+  "bbox": [
+    115.926872,
+    -32.10041,
+    115.926872,
+    -32.10041
+],
   "geometry": {"coordinates":[115.926872,-32.10041],"type":"Point"}
 }

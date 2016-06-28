@@ -2,13 +2,14 @@
   "id": 219726295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.80098,-19.272451,146.80098,-19.272451",
     "geom:latitude":-19.272451,
     "geom:longitude":146.80098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Yeatman St",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219726295,
-    "wof:lastmodified":1449072804,
+    "wof:lastmodified":1466191204,
     "wof:name":"Townsville Office Furniture Pty Ltd",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [146.80098,-19.272451,146.80098,-19.272451],
-  "geometry": {"coordinates":[146.80098,-19.272451],"type":"Point"}
+  "bbox": [
+    146.80098,
+    -19.272451,
+    146.80098,
+    -19.272451
+],
+  "geometry": {"coordinates":[146.80098000000001,-19.272451],"type":"Point"}
 }

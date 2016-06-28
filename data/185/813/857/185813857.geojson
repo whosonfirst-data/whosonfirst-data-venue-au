@@ -2,13 +2,14 @@
   "id": 185813857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.375702,-37.652107,145.375702,-37.652107",
     "geom:latitude":-37.652107,
     "geom:longitude":145.375702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Symond St",
     "sg:city":"Yarra Glen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185813857,
-    "wof:lastmodified":1449007023,
+    "wof:lastmodified":1466186942,
     "wof:name":"Yarra Glen Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.375702,-37.652107,145.375702,-37.652107],
-  "geometry": {"coordinates":[145.375702,-37.652107],"type":"Point"}
+  "bbox": [
+    145.375702,
+    -37.652107,
+    145.375702,
+    -37.652107
+],
+  "geometry": {"coordinates":[145.37570199999999,-37.652107],"type":"Point"}
 }

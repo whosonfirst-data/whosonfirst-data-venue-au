@@ -2,13 +2,14 @@
   "id": 253099699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.832047,-37.785843,144.832047,-37.785843",
     "geom:latitude":-37.785843,
     "geom:longitude":144.832047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Hampshire Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253099699,
-    "wof:lastmodified":1449064758,
+    "wof:lastmodified":1466188726,
     "wof:name":"Brim Bank Hot Bread",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.832047,-37.785843,144.832047,-37.785843],
-  "geometry": {"coordinates":[144.832047,-37.785843],"type":"Point"}
+  "bbox": [
+    144.832047,
+    -37.785843,
+    144.832047,
+    -37.785843
+],
+  "geometry": {"coordinates":[144.83204699999999,-37.785843],"type":"Point"}
 }

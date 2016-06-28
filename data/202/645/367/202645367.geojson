@@ -2,13 +2,14 @@
   "id": 202645367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038803,-27.416241,153.038803,-27.416241",
     "geom:latitude":-27.416241,
     "geom:longitude":153.038803,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Emergency Services Complex Cnr Park Road & Kedron Park Rd",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202645367,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466187795,
     "wof:name":"Queensland Fire & Rescue Authority",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [153.038803,-27.416241,153.038803,-27.416241],
+  "bbox": [
+    153.038803,
+    -27.416241,
+    153.038803,
+    -27.416241
+],
   "geometry": {"coordinates":[153.038803,-27.416241],"type":"Point"}
 }

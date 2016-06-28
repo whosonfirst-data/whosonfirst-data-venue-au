@@ -2,13 +2,14 @@
   "id": 253114105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833084,-37.78661,144.833084,-37.78661",
     "geom:latitude":-37.78661,
     "geom:longitude":144.833084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Dickson St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253114105,
-    "wof:lastmodified":1449064057,
+    "wof:lastmodified":1466189023,
     "wof:name":"Godfathers Pizza",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [144.833084,-37.78661,144.833084,-37.78661],
-  "geometry": {"coordinates":[144.833084,-37.78661],"type":"Point"}
+  "bbox": [
+    144.833084,
+    -37.78661,
+    144.833084,
+    -37.78661
+],
+  "geometry": {"coordinates":[144.83308400000001,-37.78661],"type":"Point"}
 }

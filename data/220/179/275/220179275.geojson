@@ -2,13 +2,14 @@
   "id": 220179275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355164,-38.139866,144.355164,-38.139866",
     "geom:latitude":-38.139866,
     "geom:longitude":144.355164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220179275,
-    "wof:lastmodified":1449074790,
+    "wof:lastmodified":1466189174,
     "wof:name":"Corporate Express",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [144.355164,-38.139866,144.355164,-38.139866],
+  "bbox": [
+    144.355164,
+    -38.139866,
+    144.355164,
+    -38.139866
+],
   "geometry": {"coordinates":[144.355164,-38.139866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236412113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.767311,-32.121651,115.767311,-32.121651",
     "geom:latitude":-32.121651,
     "geom:longitude":115.767311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Geordie Crt",
     "sg:city":"Coogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236412113,
-    "wof:lastmodified":1449002182,
+    "wof:lastmodified":1466191056,
     "wof:name":"Cuppa Cuppa",
     "wof:parent_id":85769101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [115.767311,-32.121651,115.767311,-32.121651],
-  "geometry": {"coordinates":[115.767311,-32.121651],"type":"Point"}
+  "bbox": [
+    115.767311,
+    -32.121651,
+    115.767311,
+    -32.121651
+],
+  "geometry": {"coordinates":[115.76731100000001,-32.121651],"type":"Point"}
 }

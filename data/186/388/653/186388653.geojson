@@ -2,13 +2,14 @@
   "id": 186388653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809525,-19.304152,146.809525,-19.304152",
     "geom:latitude":-19.304152,
     "geom:longitude":146.809525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25A Oonoonba Rd",
     "sg:city":"Idalia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186388653,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466189140,
     "wof:name":"MLK Distributors",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [146.809525,-19.304152,146.809525,-19.304152],
-  "geometry": {"coordinates":[146.809525,-19.304152],"type":"Point"}
+  "bbox": [
+    146.809525,
+    -19.304152,
+    146.809525,
+    -19.304152
+],
+  "geometry": {"coordinates":[146.80952500000001,-19.304152],"type":"Point"}
 }

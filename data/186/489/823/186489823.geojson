@@ -2,13 +2,14 @@
   "id": 186489823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.766647,-19.296932,146.766647,-19.296932",
     "geom:latitude":-19.296932,
     "geom:longitude":146.766647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"AAMI Building 287 Ross River Rd",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186489823,
-    "wof:lastmodified":1449051850,
+    "wof:lastmodified":1466190452,
     "wof:name":"Building Services Authority",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "local"
     ]
 },
-  "bbox": [146.766647,-19.296932,146.766647,-19.296932],
-  "geometry": {"coordinates":[146.766647,-19.296932],"type":"Point"}
+  "bbox": [
+    146.766647,
+    -19.296932,
+    146.766647,
+    -19.296932
+],
+  "geometry": {"coordinates":[146.76664700000001,-19.296932],"type":"Point"}
 }

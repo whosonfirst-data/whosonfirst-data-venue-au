@@ -2,13 +2,14 @@
   "id": 236519255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166306,-32.565933,151.166306,-32.565933",
     "geom:latitude":-32.565933,
     "geom:longitude":151.166306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236519255,
-    "wof:lastmodified":1449004988,
+    "wof:lastmodified":1466191423,
     "wof:name":"Ray White Singleton",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [151.166306,-32.565933,151.166306,-32.565933],
-  "geometry": {"coordinates":[151.166306,-32.565933],"type":"Point"}
+  "bbox": [
+    151.166306,
+    -32.565933,
+    151.166306,
+    -32.565933
+],
+  "geometry": {"coordinates":[151.16630599999999,-32.565933],"type":"Point"}
 }

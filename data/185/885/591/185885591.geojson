@@ -2,13 +2,14 @@
   "id": 185885591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.668655,-25.492929,152.668655,-25.492929",
     "geom:latitude":-25.492929,
     "geom:longitude":152.668655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Industrial Ave",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185885591,
-    "wof:lastmodified":1449007480,
+    "wof:lastmodified":1466187734,
     "wof:name":"Cornwall Logging Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [152.668655,-25.492929,152.668655,-25.492929],
+  "bbox": [
+    152.668655,
+    -25.492929,
+    152.668655,
+    -25.492929
+],
   "geometry": {"coordinates":[152.668655,-25.492929],"type":"Point"}
 }

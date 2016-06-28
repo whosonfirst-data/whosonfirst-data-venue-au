@@ -2,13 +2,14 @@
   "id": 169758995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.11412,-27.234888,153.11412,-27.234888",
     "geom:latitude":-27.234888,
     "geom:longitude":153.11412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 1 Marine Pde",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169758995,
-    "wof:lastmodified":1449033687,
+    "wof:lastmodified":1466188024,
     "wof:name":"Redcliffe Peninsula Surf Life Saving Club",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "saving"
     ]
 },
-  "bbox": [153.11412,-27.234888,153.11412,-27.234888],
-  "geometry": {"coordinates":[153.11412,-27.234888],"type":"Point"}
+  "bbox": [
+    153.11412,
+    -27.234888,
+    153.11412,
+    -27.234888
+],
+  "geometry": {"coordinates":[153.11412000000001,-27.234888],"type":"Point"}
 }

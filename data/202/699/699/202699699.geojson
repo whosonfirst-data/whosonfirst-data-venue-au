@@ -2,13 +2,14 @@
   "id": 202699699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051224,-27.377026,153.051224,-27.377026",
     "geom:latitude":-27.377026,
     "geom:longitude":153.051224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Beau Vista St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202699699,
-    "wof:lastmodified":1449060452,
+    "wof:lastmodified":1466188820,
     "wof:name":"Geebung Special School",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [153.051224,-27.377026,153.051224,-27.377026],
-  "geometry": {"coordinates":[153.051224,-27.377026],"type":"Point"}
+  "bbox": [
+    153.051224,
+    -27.377026,
+    153.051224,
+    -27.377026
+],
+  "geometry": {"coordinates":[153.05122399999999,-27.377026],"type":"Point"}
 }

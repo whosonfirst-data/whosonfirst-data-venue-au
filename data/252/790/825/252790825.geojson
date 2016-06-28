@@ -2,13 +2,14 @@
   "id": 252790825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.652435,-41.523811,146.652435,-41.523811",
     "geom:latitude":-41.523811,
     "geom:longitude":146.652435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Emu Bay Rd",
     "sg:city":"Deloraine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252790825,
-    "wof:lastmodified":1449006251,
+    "wof:lastmodified":1466188061,
     "wof:name":"Healthy Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [146.652435,-41.523811,146.652435,-41.523811],
+  "bbox": [
+    146.652435,
+    -41.523811,
+    146.652435,
+    -41.523811
+],
   "geometry": {"coordinates":[146.652435,-41.523811],"type":"Point"}
 }

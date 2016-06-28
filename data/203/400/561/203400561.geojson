@@ -2,13 +2,14 @@
   "id": 203400561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.519165,-37.28046,143.519165,-37.28046",
     "geom:latitude":-37.28046,
     "geom:longitude":143.519165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Waldy St",
     "sg:city":"Lexton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203400561,
-    "wof:lastmodified":1449025122,
+    "wof:lastmodified":1466189485,
     "wof:name":"Martin P.W.& J.E.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.519165,-37.28046,143.519165,-37.28046],
-  "geometry": {"coordinates":[143.519165,-37.28046],"type":"Point"}
+  "bbox": [
+    143.519165,
+    -37.28046,
+    143.519165,
+    -37.28046
+],
+  "geometry": {"coordinates":[143.51916499999999,-37.28046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236567041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.038651,-33.951385,151.038651,-33.951385",
     "geom:latitude":-33.951385,
     "geom:longitude":151.038651,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Bridge St",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236567041,
-    "wof:lastmodified":1449005279,
+    "wof:lastmodified":1466191438,
     "wof:name":"Architectural Veneer Supplies",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veneer"
     ]
 },
-  "bbox": [151.038651,-33.951385,151.038651,-33.951385],
-  "geometry": {"coordinates":[151.038651,-33.951385],"type":"Point"}
+  "bbox": [
+    151.038651,
+    -33.951385,
+    151.038651,
+    -33.951385
+],
+  "geometry": {"coordinates":[151.03865099999999,-33.951385],"type":"Point"}
 }

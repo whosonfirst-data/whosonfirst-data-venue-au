@@ -2,13 +2,14 @@
   "id": 219327639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.926758,-38.159573,145.926758,-38.159573",
     "geom:latitude":-38.159573,
     "geom:longitude":145.926758,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bowen St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219327639,
-    "wof:lastmodified":1449070657,
+    "wof:lastmodified":1466187757,
     "wof:name":"Hertz Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "minibus"
     ]
 },
-  "bbox": [145.926758,-38.159573,145.926758,-38.159573],
-  "geometry": {"coordinates":[145.926758,-38.159573],"type":"Point"}
+  "bbox": [
+    145.926758,
+    -38.159573,
+    145.926758,
+    -38.159573
+],
+  "geometry": {"coordinates":[145.92675800000001,-38.159573],"type":"Point"}
 }

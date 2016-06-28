@@ -2,13 +2,14 @@
   "id": 236580287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.052582,-33.950089,151.052582,-33.950089",
     "geom:latitude":-33.950089,
     "geom:longitude":151.052582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Belmore Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236580287,
-    "wof:lastmodified":1449003952,
+    "wof:lastmodified":1466191567,
     "wof:name":"Harmouche Lebanese Bakery",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.052582,-33.950089,151.052582,-33.950089],
+  "bbox": [
+    151.052582,
+    -33.950089,
+    151.052582,
+    -33.950089
+],
   "geometry": {"coordinates":[151.052582,-33.950089],"type":"Point"}
 }

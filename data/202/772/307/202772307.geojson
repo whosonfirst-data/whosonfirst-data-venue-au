@@ -2,13 +2,14 @@
   "id": 202772307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.769547,-32.929592,151.769547,-32.929592",
     "geom:latitude":-32.929592,
     "geom:longitude":151.769547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Laman St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202772307,
-    "wof:lastmodified":1449061261,
+    "wof:lastmodified":1466190087,
     "wof:name":"Von Bertouch Galleries",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.769547,-32.929592,151.769547,-32.929592],
-  "geometry": {"coordinates":[151.769547,-32.929592],"type":"Point"}
+  "bbox": [
+    151.769547,
+    -32.929592,
+    151.769547,
+    -32.929592
+],
+  "geometry": {"coordinates":[151.76954699999999,-32.929592],"type":"Point"}
 }

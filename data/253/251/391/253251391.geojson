@@ -2,13 +2,14 @@
   "id": 253251391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.900696,-27.533813,151.900696,-27.533813",
     "geom:latitude":-27.533813,
     "geom:longitude":151.900696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Bridge St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253251391,
-    "wof:lastmodified":1449062876,
+    "wof:lastmodified":1466190412,
     "wof:name":"John's Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.900696,-27.533813,151.900696,-27.533813],
-  "geometry": {"coordinates":[151.900696,-27.533813],"type":"Point"}
+  "bbox": [
+    151.900696,
+    -27.533813,
+    151.900696,
+    -27.533813
+],
+  "geometry": {"coordinates":[151.90069600000001,-27.533813],"type":"Point"}
 }

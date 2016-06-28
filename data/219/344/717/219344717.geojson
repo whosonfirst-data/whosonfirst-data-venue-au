@@ -2,13 +2,14 @@
   "id": 219344717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.271347,-14.446351,132.271347,-14.446351",
     "geom:latitude":-14.446351,
     "geom:longitude":132.271347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cameron St",
     "sg:city":"(Cnr Giles St) Katherine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219344717,
-    "wof:lastmodified":1449070555,
+    "wof:lastmodified":1466187892,
     "wof:name":"Knotts Crossing Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [132.271347,-14.446351,132.271347,-14.446351],
-  "geometry": {"coordinates":[132.271347,-14.446351],"type":"Point"}
+  "bbox": [
+    132.271347,
+    -14.446351,
+    132.271347,
+    -14.446351
+],
+  "geometry": {"coordinates":[132.27134699999999,-14.446351],"type":"Point"}
 }

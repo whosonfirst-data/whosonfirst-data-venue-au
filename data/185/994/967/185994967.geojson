@@ -2,13 +2,14 @@
   "id": 185994967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.434464,-33.334209,151.434464,-33.334209",
     "geom:latitude":-33.334209,
     "geom:longitude":151.434464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Blenheim Ave",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185994967,
-    "wof:lastmodified":1449006658,
+    "wof:lastmodified":1466188866,
     "wof:name":"Whitehead & Myers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cement"
     ]
 },
-  "bbox": [151.434464,-33.334209,151.434464,-33.334209],
-  "geometry": {"coordinates":[151.434464,-33.334209],"type":"Point"}
+  "bbox": [
+    151.434464,
+    -33.334209,
+    151.434464,
+    -33.334209
+],
+  "geometry": {"coordinates":[151.43446399999999,-33.334209],"type":"Point"}
 }

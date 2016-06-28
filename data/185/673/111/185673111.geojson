@@ -2,13 +2,14 @@
   "id": 185673111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.749649,-32.032192,115.749649,-32.032192",
     "geom:latitude":-32.032192,
     "geom:longitude":115.749649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rear 5 Irene St",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185673111,
-    "wof:lastmodified":1449007242,
+    "wof:lastmodified":1466188648,
     "wof:name":"Leighton Panelbeaters",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "panel"
     ]
 },
-  "bbox": [115.749649,-32.032192,115.749649,-32.032192],
-  "geometry": {"coordinates":[115.749649,-32.032192],"type":"Point"}
+  "bbox": [
+    115.749649,
+    -32.032192,
+    115.749649,
+    -32.032192
+],
+  "geometry": {"coordinates":[115.74964900000001,-32.032192],"type":"Point"}
 }

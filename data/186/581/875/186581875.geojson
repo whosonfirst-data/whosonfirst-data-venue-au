@@ -2,13 +2,14 @@
   "id": 186581875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.217148,-41.250786,147.217148,-41.250786",
     "geom:latitude":-41.250786,
     "geom:longitude":147.217148,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1968 Main Rd",
     "sg:city":"Lilydale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186581875,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466190873,
     "wof:name":"The Village Sampler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "quilting"
     ]
 },
-  "bbox": [147.217148,-41.250786,147.217148,-41.250786],
-  "geometry": {"coordinates":[147.217148,-41.250786],"type":"Point"}
+  "bbox": [
+    147.217148,
+    -41.250786,
+    147.217148,
+    -41.250786
+],
+  "geometry": {"coordinates":[147.21714800000001,-41.250786],"type":"Point"}
 }

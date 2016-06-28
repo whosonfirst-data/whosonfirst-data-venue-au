@@ -2,13 +2,14 @@
   "id": 203078477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.236084,-41.315479,148.236084,-41.315479",
     "geom:latitude":-41.315479,
     "geom:longitude":148.236084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tasman Hwy",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203078477,
-    "wof:lastmodified":1449026550,
+    "wof:lastmodified":1466188722,
     "wof:name":"St Helens Marine Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ship"
     ]
 },
-  "bbox": [148.236084,-41.315479,148.236084,-41.315479],
-  "geometry": {"coordinates":[148.236084,-41.315479],"type":"Point"}
+  "bbox": [
+    148.236084,
+    -41.315479,
+    148.236084,
+    -41.315479
+],
+  "geometry": {"coordinates":[148.23608400000001,-41.315479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202743649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.861641,-32.068707,115.861641,-32.068707",
     "geom:latitude":-32.068707,
     "geom:longitude":115.861641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gowther St",
     "sg:city":"Leeming",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202743649,
-    "wof:lastmodified":1449062627,
+    "wof:lastmodified":1466189595,
     "wof:name":"ABC Shower Seal",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [115.861641,-32.068707,115.861641,-32.068707],
-  "geometry": {"coordinates":[115.861641,-32.068707],"type":"Point"}
+  "bbox": [
+    115.861641,
+    -32.068707,
+    115.861641,
+    -32.068707
+],
+  "geometry": {"coordinates":[115.86164100000001,-32.068707],"type":"Point"}
 }

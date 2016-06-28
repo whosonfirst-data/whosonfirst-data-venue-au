@@ -2,13 +2,14 @@
   "id": 219506001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.076935,-33.907677,151.076935,-33.907677",
     "geom:latitude":-33.907677,
     "geom:longitude":151.076935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"442 Punchbowl Rd",
     "sg:city":"Belmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219506001,
-    "wof:lastmodified":1449070443,
+    "wof:lastmodified":1466189624,
     "wof:name":"Kingstone Metals",
     "wof:parent_id":85776095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shed"
     ]
 },
-  "bbox": [151.076935,-33.907677,151.076935,-33.907677],
-  "geometry": {"coordinates":[151.076935,-33.907677],"type":"Point"}
+  "bbox": [
+    151.076935,
+    -33.907677,
+    151.076935,
+    -33.907677
+],
+  "geometry": {"coordinates":[151.07693499999999,-33.907677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253055411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.606827,-37.880917,144.606827,-37.880917",
     "geom:latitude":-37.880917,
     "geom:longitude":144.606827,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Broadwater St",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253055411,
-    "wof:lastmodified":1449063470,
+    "wof:lastmodified":1466188000,
     "wof:name":"JSPEC Timber Flooring",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [144.606827,-37.880917,144.606827,-37.880917],
-  "geometry": {"coordinates":[144.606827,-37.880917],"type":"Point"}
+  "bbox": [
+    144.606827,
+    -37.880917,
+    144.606827,
+    -37.880917
+],
+  "geometry": {"coordinates":[144.60682700000001,-37.880917],"type":"Point"}
 }

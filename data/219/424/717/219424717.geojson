@@ -2,13 +2,14 @@
   "id": 219424717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.560883,-34.897415,138.560883,-34.897415",
     "geom:latitude":-34.897415,
     "geom:longitude":138.560883,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Port Rd",
     "sg:city":"Croydon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219424717,
-    "wof:lastmodified":1449073686,
+    "wof:lastmodified":1466188644,
     "wof:name":"Henley Beach Electrical",
     "wof:parent_id":85770595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.560883,-34.897415,138.560883,-34.897415],
-  "geometry": {"coordinates":[138.560883,-34.897415],"type":"Point"}
+  "bbox": [
+    138.560883,
+    -34.897415,
+    138.560883,
+    -34.897415
+],
+  "geometry": {"coordinates":[138.56088299999999,-34.897415],"type":"Point"}
 }

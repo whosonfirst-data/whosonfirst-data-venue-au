@@ -2,13 +2,14 @@
   "id": 236120437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.927994,-37.774525,144.927994,-37.774525",
     "geom:latitude":-37.774525,
     "geom:longitude":144.927994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Mt Alexander Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236120437,
-    "wof:lastmodified":1449004675,
+    "wof:lastmodified":1466189052,
     "wof:name":"Scooter Garage Pty Ltd",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scooter"
     ]
 },
-  "bbox": [144.927994,-37.774525,144.927994,-37.774525],
-  "geometry": {"coordinates":[144.927994,-37.774525],"type":"Point"}
+  "bbox": [
+    144.927994,
+    -37.774525,
+    144.927994,
+    -37.774525
+],
+  "geometry": {"coordinates":[144.92799400000001,-37.774525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186154799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.735245,-31.457411,152.735245,-31.457411",
     "geom:latitude":-31.457411,
     "geom:longitude":152.735245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186154799,
-    "wof:lastmodified":1449053062,
+    "wof:lastmodified":1466189794,
     "wof:name":"1ST Class Auto Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [152.735245,-31.457411,152.735245,-31.457411],
-  "geometry": {"coordinates":[152.735245,-31.457411],"type":"Point"}
+  "bbox": [
+    152.735245,
+    -31.457411,
+    152.735245,
+    -31.457411
+],
+  "geometry": {"coordinates":[152.73524499999999,-31.457411],"type":"Point"}
 }

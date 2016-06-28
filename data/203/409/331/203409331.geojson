@@ -2,13 +2,14 @@
   "id": 203409331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.745697,-32.056183,115.745697,-32.056183",
     "geom:latitude":-32.056183,
     "geom:longitude":115.745697,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5/ 56 Pakenham St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203409331,
-    "wof:lastmodified":1449025702,
+    "wof:lastmodified":1466189584,
     "wof:name":"Lisa Johnson",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [115.745697,-32.056183,115.745697,-32.056183],
-  "geometry": {"coordinates":[115.745697,-32.056183],"type":"Point"}
+  "bbox": [
+    115.745697,
+    -32.056183,
+    115.745697,
+    -32.056183
+],
+  "geometry": {"coordinates":[115.74569700000001,-32.056183],"type":"Point"}
 }

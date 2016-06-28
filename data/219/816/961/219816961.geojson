@@ -2,13 +2,14 @@
   "id": 219816961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.732285,-19.387625,146.732285,-19.387625",
     "geom:latitude":-19.387625,
     "geom:longitude":146.732285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Peter St",
     "sg:city":"Kelso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219816961,
-    "wof:lastmodified":1449072442,
+    "wof:lastmodified":1466191528,
     "wof:name":"D & S Hartley Electrical",
     "wof:parent_id":85779703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.732285,-19.387625,146.732285,-19.387625],
-  "geometry": {"coordinates":[146.732285,-19.387625],"type":"Point"}
+  "bbox": [
+    146.732285,
+    -19.387625,
+    146.732285,
+    -19.387625
+],
+  "geometry": {"coordinates":[146.73228499999999,-19.387625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185878181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.696793,-25.512976,152.696793,-25.512976",
     "geom:latitude":-25.512976,
     "geom:longitude":152.696793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Neptune St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185878181,
-    "wof:lastmodified":1449007467,
+    "wof:lastmodified":1466187655,
     "wof:name":"Family Support Team",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [152.696793,-25.512976,152.696793,-25.512976],
-  "geometry": {"coordinates":[152.696793,-25.512976],"type":"Point"}
+  "bbox": [
+    152.696793,
+    -25.512976,
+    152.696793,
+    -25.512976
+],
+  "geometry": {"coordinates":[152.69679300000001,-25.512976],"type":"Point"}
 }

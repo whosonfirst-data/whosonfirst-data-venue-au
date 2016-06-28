@@ -2,13 +2,14 @@
   "id": 202682573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.975128,-27.345907,152.975128,-27.345907",
     "geom:latitude":-27.345907,
     "geom:longitude":152.975128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 725 Albany Creek Rd",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202682573,
-    "wof:lastmodified":1449060542,
+    "wof:lastmodified":1466188508,
     "wof:name":"Moore Simon R (Specialist)",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.975128,-27.345907,152.975128,-27.345907],
-  "geometry": {"coordinates":[152.975128,-27.345907],"type":"Point"}
+  "bbox": [
+    152.975128,
+    -27.345907,
+    152.975128,
+    -27.345907
+],
+  "geometry": {"coordinates":[152.97512800000001,-27.345907],"type":"Point"}
 }

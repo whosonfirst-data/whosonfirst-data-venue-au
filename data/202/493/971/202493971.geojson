@@ -2,13 +2,14 @@
   "id": 202493971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.044098,-37.902767,145.044098,-37.902767",
     "geom:latitude":-37.902767,
     "geom:longitude":145.044098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Grange Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202493971,
-    "wof:lastmodified":1449060914,
+    "wof:lastmodified":1466189452,
     "wof:name":"De Mel Rukmal Dr",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.044098,-37.902767,145.044098,-37.902767],
-  "geometry": {"coordinates":[145.044098,-37.902767],"type":"Point"}
+  "bbox": [
+    145.044098,
+    -37.902767,
+    145.044098,
+    -37.902767
+],
+  "geometry": {"coordinates":[145.04409799999999,-37.902767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219246243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.007935,-37.774109,145.007935,-37.774109",
     "geom:latitude":-37.774109,
     "geom:longitude":145.007935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"P.O Box 108",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219246243,
-    "wof:lastmodified":1449070624,
+    "wof:lastmodified":1466186990,
     "wof:name":"Rhythm Effect",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [145.007935,-37.774109,145.007935,-37.774109],
+  "bbox": [
+    145.007935,
+    -37.774109,
+    145.007935,
+    -37.774109
+],
   "geometry": {"coordinates":[145.007935,-37.774109],"type":"Point"}
 }

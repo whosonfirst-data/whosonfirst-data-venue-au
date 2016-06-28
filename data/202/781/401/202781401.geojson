@@ -2,13 +2,14 @@
   "id": 202781401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.756805,-32.924129,151.756805,-32.924129",
     "geom:latitude":-32.924129,
     "geom:longitude":151.756805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202781401,
-    "wof:lastmodified":1449060589,
+    "wof:lastmodified":1466190176,
     "wof:name":"Kennards Box Shop",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [151.756805,-32.924129,151.756805,-32.924129],
-  "geometry": {"coordinates":[151.756805,-32.924129],"type":"Point"}
+  "bbox": [
+    151.756805,
+    -32.924129,
+    151.756805,
+    -32.924129
+],
+  "geometry": {"coordinates":[151.75680500000001,-32.924129],"type":"Point"}
 }

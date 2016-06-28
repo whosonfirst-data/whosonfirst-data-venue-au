@@ -2,13 +2,14 @@
   "id": 203365331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.853577,-37.568382,143.853577,-37.568382",
     "geom:latitude":-37.568382,
     "geom:longitude":143.853577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Skipton St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203365331,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466188942,
     "wof:name":"Cross Roads Music",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [143.853577,-37.568382,143.853577,-37.568382],
+  "bbox": [
+    143.853577,
+    -37.568382,
+    143.853577,
+    -37.568382
+],
   "geometry": {"coordinates":[143.853577,-37.568382],"type":"Point"}
 }

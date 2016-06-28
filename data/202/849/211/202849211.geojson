@@ -2,13 +2,14 @@
   "id": 202849211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.685013,-36.362392,146.685013,-36.362392",
     "geom:latitude":-36.362392,
     "geom:longitude":146.685013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 High St",
     "sg:city":"Beechworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202849211,
-    "wof:lastmodified":1449060574,
+    "wof:lastmodified":1466190356,
     "wof:name":"Australian Render Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [146.685013,-36.362392,146.685013,-36.362392],
+  "bbox": [
+    146.685013,
+    -36.362392,
+    146.685013,
+    -36.362392
+],
   "geometry": {"coordinates":[146.685013,-36.362392],"type":"Point"}
 }

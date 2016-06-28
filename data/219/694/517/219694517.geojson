@@ -2,13 +2,14 @@
   "id": 219694517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.526245,-32.191746,152.526245,-32.191746",
     "geom:latitude":-32.191746,
     "geom:longitude":152.526245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Waterview St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219694517,
-    "wof:lastmodified":1449071400,
+    "wof:lastmodified":1466191141,
     "wof:name":"Greg Ellis Market Resarch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [152.526245,-32.191746,152.526245,-32.191746],
-  "geometry": {"coordinates":[152.526245,-32.191746],"type":"Point"}
+  "bbox": [
+    152.526245,
+    -32.191746,
+    152.526245,
+    -32.191746
+],
+  "geometry": {"coordinates":[152.52624499999999,-32.191746],"type":"Point"}
 }

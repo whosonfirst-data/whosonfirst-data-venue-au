@@ -2,13 +2,14 @@
   "id": 219854167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.18457,-33.858406,151.18457,-33.858406",
     "geom:latitude":-33.858406,
     "geom:longitude":151.18457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219854167,
-    "wof:lastmodified":1449073787,
+    "wof:lastmodified":1466191531,
     "wof:name":"London Hotel & Restaurant",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.18457,-33.858406,151.18457,-33.858406],
-  "geometry": {"coordinates":[151.18457,-33.858406],"type":"Point"}
+  "bbox": [
+    151.18457,
+    -33.858406,
+    151.18457,
+    -33.858406
+],
+  "geometry": {"coordinates":[151.18457000000001,-33.858406],"type":"Point"}
 }

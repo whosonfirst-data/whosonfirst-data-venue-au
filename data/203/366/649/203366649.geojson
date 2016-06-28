@@ -2,13 +2,14 @@
   "id": 203366649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.863998,-37.560799,143.863998,-37.560799",
     "geom:latitude":-37.560799,
     "geom:longitude":143.863998,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1, 39 Peel St",
     "sg:city":"(North) Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203366649,
-    "wof:lastmodified":1449026351,
+    "wof:lastmodified":1466188966,
     "wof:name":"Dennis Family Homes",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.863998,-37.560799,143.863998,-37.560799],
-  "geometry": {"coordinates":[143.863998,-37.560799],"type":"Point"}
+  "bbox": [
+    143.863998,
+    -37.560799,
+    143.863998,
+    -37.560799
+],
+  "geometry": {"coordinates":[143.86399800000001,-37.560799],"type":"Point"}
 }

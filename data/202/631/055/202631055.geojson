@@ -2,13 +2,14 @@
   "id": 202631055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.223038,-33.910191,151.223038,-33.910191",
     "geom:latitude":-33.910191,
     "geom:longitude":151.223038,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Anzac Pde",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202631055,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1466187609,
     "wof:name":"McDonell Jill",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.223038,-33.910191,151.223038,-33.910191],
+  "bbox": [
+    151.223038,
+    -33.910191,
+    151.223038,
+    -33.910191
+],
   "geometry": {"coordinates":[151.223038,-33.910191],"type":"Point"}
 }

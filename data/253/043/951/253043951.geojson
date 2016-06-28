@@ -2,13 +2,14 @@
   "id": 253043951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.840576,-37.846107,144.840576,-37.846107",
     "geom:latitude":-37.846107,
     "geom:longitude":144.840576,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Chambers Rd",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253043951,
-    "wof:lastmodified":1449065026,
+    "wof:lastmodified":1466187793,
     "wof:name":"CRT Group",
     "wof:parent_id":85776629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carrier"
     ]
 },
-  "bbox": [144.840576,-37.846107,144.840576,-37.846107],
+  "bbox": [
+    144.840576,
+    -37.846107,
+    144.840576,
+    -37.846107
+],
   "geometry": {"coordinates":[144.840576,-37.846107],"type":"Point"}
 }

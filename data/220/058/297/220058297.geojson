@@ -2,13 +2,14 @@
   "id": 220058297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.313156,-38.338692,144.313156,-38.338692",
     "geom:latitude":-38.338692,
     "geom:longitude":144.313156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"220 The Great Ocean Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220058297,
-    "wof:lastmodified":1449074151,
+    "wof:lastmodified":1466187583,
     "wof:name":"Rose Restaurant The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "organiser"
     ]
 },
-  "bbox": [144.313156,-38.338692,144.313156,-38.338692],
-  "geometry": {"coordinates":[144.313156,-38.338692],"type":"Point"}
+  "bbox": [
+    144.313156,
+    -38.338692,
+    144.313156,
+    -38.338692
+],
+  "geometry": {"coordinates":[144.31315599999999,-38.338692],"type":"Point"}
 }

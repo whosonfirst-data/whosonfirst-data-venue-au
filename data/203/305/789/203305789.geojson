@@ -2,13 +2,14 @@
   "id": 203305789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.831024,-37.54034,143.831024,-37.54034",
     "geom:latitude":-37.54034,
     "geom:longitude":143.831024,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1201b Howitt St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203305789,
-    "wof:lastmodified":1449025222,
+    "wof:lastmodified":1466188032,
     "wof:name":"Verbaken Leanne",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.831024,-37.54034,143.831024,-37.54034],
-  "geometry": {"coordinates":[143.831024,-37.54034],"type":"Point"}
+  "bbox": [
+    143.831024,
+    -37.54034,
+    143.831024,
+    -37.54034
+],
+  "geometry": {"coordinates":[143.83102400000001,-37.54034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203200935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.985825,-36.550598,145.985825,-36.550598",
     "geom:latitude":-36.550598,
     "geom:longitude":145.985825,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 55 Carrier St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203200935,
-    "wof:lastmodified":1449025679,
+    "wof:lastmodified":1466187011,
     "wof:name":"Alliance Dental Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.985825,-36.550598,145.985825,-36.550598],
-  "geometry": {"coordinates":[145.985825,-36.550598],"type":"Point"}
+  "bbox": [
+    145.985825,
+    -36.550598,
+    145.985825,
+    -36.550598
+],
+  "geometry": {"coordinates":[145.98582500000001,-36.550598],"type":"Point"}
 }

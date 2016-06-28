@@ -2,13 +2,14 @@
   "id": 203404013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.891983,-37.435986,143.891983,-37.435986",
     "geom:latitude":-37.435986,
     "geom:longitude":143.891983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Kenmare Crs",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203404013,
-    "wof:lastmodified":1449026239,
+    "wof:lastmodified":1466189514,
     "wof:name":"Firewatch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [143.891983,-37.435986,143.891983,-37.435986],
-  "geometry": {"coordinates":[143.891983,-37.435986],"type":"Point"}
+  "bbox": [
+    143.891983,
+    -37.435986,
+    143.891983,
+    -37.435986
+],
+  "geometry": {"coordinates":[143.89198300000001,-37.435986],"type":"Point"}
 }

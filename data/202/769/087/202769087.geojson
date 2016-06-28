@@ -2,13 +2,14 @@
   "id": 202769087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.784607,-32.928005,151.784607,-32.928005",
     "geom:latitude":-32.928005,
     "geom:longitude":151.784607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202769087,
-    "wof:lastmodified":1449060951,
+    "wof:lastmodified":1466190198,
     "wof:name":"Liquid Architecture",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.784607,-32.928005,151.784607,-32.928005],
-  "geometry": {"coordinates":[151.784607,-32.928005],"type":"Point"}
+  "bbox": [
+    151.784607,
+    -32.928005,
+    151.784607,
+    -32.928005
+],
+  "geometry": {"coordinates":[151.78460699999999,-32.928005],"type":"Point"}
 }

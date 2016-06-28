@@ -2,13 +2,14 @@
   "id": 202888135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.895264,-30.451124,152.895264,-30.451124",
     "geom:latitude":-30.451124,
     "geom:longitude":152.895264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Hyde St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202888135,
-    "wof:lastmodified":1449061689,
+    "wof:lastmodified":1466190499,
     "wof:name":"Cafe Bare Nature & Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.895264,-30.451124,152.895264,-30.451124],
+  "bbox": [
+    152.895264,
+    -30.451124,
+    152.895264,
+    -30.451124
+],
   "geometry": {"coordinates":[152.895264,-30.451124],"type":"Point"}
 }

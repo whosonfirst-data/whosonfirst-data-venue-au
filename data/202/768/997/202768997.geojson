@@ -2,13 +2,14 @@
   "id": 202768997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.732758,-32.914555,151.732758,-32.914555",
     "geom:latitude":-32.914555,
     "geom:longitude":151.732758,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Broadmeadow Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202768997,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466190053,
     "wof:name":"Quirks Australia",
     "wof:parent_id":85777109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retail"
     ]
 },
-  "bbox": [151.732758,-32.914555,151.732758,-32.914555],
-  "geometry": {"coordinates":[151.732758,-32.914555],"type":"Point"}
+  "bbox": [
+    151.732758,
+    -32.914555,
+    151.732758,
+    -32.914555
+],
+  "geometry": {"coordinates":[151.73275799999999,-32.914555],"type":"Point"}
 }

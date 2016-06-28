@@ -2,13 +2,14 @@
   "id": 203378771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.853516,-37.555233,143.853516,-37.555233",
     "geom:latitude":-37.555233,
     "geom:longitude":143.853516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Creswick Rd",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203378771,
-    "wof:lastmodified":1449026253,
+    "wof:lastmodified":1466189176,
     "wof:name":"Cole A M",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [143.853516,-37.555233,143.853516,-37.555233],
-  "geometry": {"coordinates":[143.853516,-37.555233],"type":"Point"}
+  "bbox": [
+    143.853516,
+    -37.555233,
+    143.853516,
+    -37.555233
+],
+  "geometry": {"coordinates":[143.85351600000001,-37.555233],"type":"Point"}
 }

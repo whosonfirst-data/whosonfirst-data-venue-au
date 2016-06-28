@@ -2,13 +2,14 @@
   "id": 236643701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.872704,-32.630352,115.872704,-32.630352",
     "geom:latitude":-32.630352,
     "geom:longitude":115.872704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 George St",
     "sg:city":"Pinjarra",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236643701,
-    "wof:lastmodified":1449004719,
+    "wof:lastmodified":1466191738,
     "wof:name":"Landmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [115.872704,-32.630352,115.872704,-32.630352],
+  "bbox": [
+    115.872704,
+    -32.630352,
+    115.872704,
+    -32.630352
+],
   "geometry": {"coordinates":[115.872704,-32.630352],"type":"Point"}
 }

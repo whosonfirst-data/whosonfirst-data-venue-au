@@ -2,13 +2,14 @@
   "id": 236753503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.951462,-27.08618,152.951462,-27.08618",
     "geom:latitude":-27.08618,
     "geom:longitude":152.951462,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 7 31 Morayfield Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236753503,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466191901,
     "wof:name":"Almac Motors",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [152.951462,-27.08618,152.951462,-27.08618],
-  "geometry": {"coordinates":[152.951462,-27.08618],"type":"Point"}
+  "bbox": [
+    152.951462,
+    -27.08618,
+    152.951462,
+    -27.08618
+],
+  "geometry": {"coordinates":[152.95146199999999,-27.08618],"type":"Point"}
 }

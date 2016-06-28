@@ -2,13 +2,14 @@
   "id": 219733885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.805527,-19.282761,146.805527,-19.282761",
     "geom:latitude":-19.282761,
     "geom:longitude":146.805527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 3822",
     "sg:city":"Hermit Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219733885,
-    "wof:lastmodified":1449070886,
+    "wof:lastmodified":1466191297,
     "wof:name":"Broadlink NQ Pty Ltd",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financier"
     ]
 },
-  "bbox": [146.805527,-19.282761,146.805527,-19.282761],
-  "geometry": {"coordinates":[146.805527,-19.282761],"type":"Point"}
+  "bbox": [
+    146.805527,
+    -19.282761,
+    146.805527,
+    -19.282761
+],
+  "geometry": {"coordinates":[146.80552700000001,-19.282761],"type":"Point"}
 }

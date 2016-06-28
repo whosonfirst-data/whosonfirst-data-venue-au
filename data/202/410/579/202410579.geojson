@@ -2,13 +2,14 @@
   "id": 202410579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.940735,-37.823814,144.940735,-37.823814",
     "geom:latitude":-37.823814,
     "geom:longitude":144.940735,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95- 97 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202410579,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466187914,
     "wof:name":"Plumbers' Supplies Co-Operative Ltd",
     "wof:parent_id":85776037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.940735,-37.823814,144.940735,-37.823814],
-  "geometry": {"coordinates":[144.940735,-37.823814],"type":"Point"}
+  "bbox": [
+    144.940735,
+    -37.823814,
+    144.940735,
+    -37.823814
+],
+  "geometry": {"coordinates":[144.94073499999999,-37.823814],"type":"Point"}
 }

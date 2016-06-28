@@ -2,13 +2,14 @@
   "id": 220167633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.364243,-38.146172,144.364243,-38.146172",
     "geom:latitude":-38.146172,
     "geom:longitude":144.364243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220167633,
-    "wof:lastmodified":1449074455,
+    "wof:lastmodified":1466188947,
     "wof:name":"Bay City Business Solutions",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [144.364243,-38.146172,144.364243,-38.146172],
-  "geometry": {"coordinates":[144.364243,-38.146172],"type":"Point"}
+  "bbox": [
+    144.364243,
+    -38.146172,
+    144.364243,
+    -38.146172
+],
+  "geometry": {"coordinates":[144.36424299999999,-38.146172],"type":"Point"}
 }

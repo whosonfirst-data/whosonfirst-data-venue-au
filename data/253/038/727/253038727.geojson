@@ -2,13 +2,14 @@
   "id": 253038727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.78302,-37.840202,144.78302,-37.840202",
     "geom:latitude":-37.840202,
     "geom:longitude":144.78302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 22 Fitzgerald Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253038727,
-    "wof:lastmodified":1449064723,
+    "wof:lastmodified":1466187692,
     "wof:name":"Fixwell Glass & Mirrors",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glazier"
     ]
 },
-  "bbox": [144.78302,-37.840202,144.78302,-37.840202],
-  "geometry": {"coordinates":[144.78302,-37.840202],"type":"Point"}
+  "bbox": [
+    144.78302,
+    -37.840202,
+    144.78302,
+    -37.840202
+],
+  "geometry": {"coordinates":[144.78301999999999,-37.840202],"type":"Point"}
 }

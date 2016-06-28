@@ -2,13 +2,14 @@
   "id": 185767423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.143875,-32.721134,152.143875,-32.721134",
     "geom:latitude":-32.721134,
     "geom:longitude":152.143875,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Stockton St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185767423,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466189705,
     "wof:name":"Nelson Bay Physiotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.143875,-32.721134,152.143875,-32.721134],
-  "geometry": {"coordinates":[152.143875,-32.721134],"type":"Point"}
+  "bbox": [
+    152.143875,
+    -32.721134,
+    152.143875,
+    -32.721134
+],
+  "geometry": {"coordinates":[152.14387500000001,-32.721134],"type":"Point"}
 }

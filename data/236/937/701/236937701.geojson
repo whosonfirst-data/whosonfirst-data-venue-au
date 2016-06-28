@@ -2,13 +2,14 @@
   "id": 236937701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.575409,-34.997299,138.575409,-34.997299",
     "geom:latitude":-34.997299,
     "geom:longitude":138.575409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 South Rd St",
     "sg:city":"Marys",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236937701,
-    "wof:lastmodified":1449002147,
+    "wof:lastmodified":1466192153,
     "wof:name":"D.B. Amusements",
     "wof:parent_id":85777539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [138.575409,-34.997299,138.575409,-34.997299],
-  "geometry": {"coordinates":[138.575409,-34.997299],"type":"Point"}
+  "bbox": [
+    138.575409,
+    -34.997299,
+    138.575409,
+    -34.997299
+],
+  "geometry": {"coordinates":[138.57540900000001,-34.997299],"type":"Point"}
 }

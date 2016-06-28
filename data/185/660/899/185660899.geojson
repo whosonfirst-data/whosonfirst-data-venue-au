@@ -2,13 +2,14 @@
   "id": 185660899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.785789,-32.037247,115.785789,-32.037247",
     "geom:latitude":-32.037247,
     "geom:longitude":115.785789,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15A Foss St",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185660899,
-    "wof:lastmodified":1449008057,
+    "wof:lastmodified":1466188458,
     "wof:name":"Reliance Plumbing & Gas",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.785789,-32.037247,115.785789,-32.037247],
-  "geometry": {"coordinates":[115.785789,-32.037247],"type":"Point"}
+  "bbox": [
+    115.785789,
+    -32.037247,
+    115.785789,
+    -32.037247
+],
+  "geometry": {"coordinates":[115.78578899999999,-32.037247],"type":"Point"}
 }

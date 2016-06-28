@@ -2,13 +2,14 @@
   "id": 202568897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.455383,-37.664165,144.455383,-37.664165",
     "geom:latitude":-37.664165,
     "geom:longitude":144.455383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lawson Drv",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202568897,
-    "wof:lastmodified":1449060052,
+    "wof:lastmodified":1466187035,
     "wof:name":"Tripod Farmers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grower"
     ]
 },
-  "bbox": [144.455383,-37.664165,144.455383,-37.664165],
-  "geometry": {"coordinates":[144.455383,-37.664165],"type":"Point"}
+  "bbox": [
+    144.455383,
+    -37.664165,
+    144.455383,
+    -37.664165
+],
+  "geometry": {"coordinates":[144.45538300000001,-37.664165],"type":"Point"}
 }

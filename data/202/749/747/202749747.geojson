@@ -2,13 +2,14 @@
   "id": 202749747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.86557,-32.073051,115.86557,-32.073051",
     "geom:latitude":-32.073051,
     "geom:longitude":115.86557,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hadlow Crt",
     "sg:city":"Leeming",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202749747,
-    "wof:lastmodified":1449060847,
+    "wof:lastmodified":1466189709,
     "wof:name":"Pasquales Carpentry",
     "wof:parent_id":85775629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [115.86557,-32.073051,115.86557,-32.073051],
-  "geometry": {"coordinates":[115.86557,-32.073051],"type":"Point"}
+  "bbox": [
+    115.86557,
+    -32.073051,
+    115.86557,
+    -32.073051
+],
+  "geometry": {"coordinates":[115.86557000000001,-32.073051],"type":"Point"}
 }

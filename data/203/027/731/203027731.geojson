@@ -2,13 +2,14 @@
   "id": 203027731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"118.393509,-32.062721,118.393509,-32.062721",
     "geom:latitude":-32.062721,
     "geom:longitude":118.393509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Thomas St",
     "sg:city":"Narembeen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203027731,
-    "wof:lastmodified":1449025288,
+    "wof:lastmodified":1466187743,
     "wof:name":"Narembeen Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [118.393509,-32.062721,118.393509,-32.062721],
-  "geometry": {"coordinates":[118.393509,-32.062721],"type":"Point"}
+  "bbox": [
+    118.393509,
+    -32.062721,
+    118.393509,
+    -32.062721
+],
+  "geometry": {"coordinates":[118.39350899999999,-32.062721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202465451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.952057,-37.832581,144.952057,-37.832581",
     "geom:latitude":-37.832581,
     "geom:longitude":144.952057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"524 City Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202465451,
-    "wof:lastmodified":1449061795,
+    "wof:lastmodified":1466188997,
     "wof:name":"Melbourne Skin & Body House",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [144.952057,-37.832581,144.952057,-37.832581],
+  "bbox": [
+    144.952057,
+    -37.832581,
+    144.952057,
+    -37.832581
+],
   "geometry": {"coordinates":[144.952057,-37.832581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236862849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.223923,-35.303253,148.223923,-35.303253",
     "geom:latitude":-35.303253,
     "geom:longitude":148.223923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29a Richmond St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236862849,
-    "wof:lastmodified":1449005345,
+    "wof:lastmodified":1466192059,
     "wof:name":"Tumut Accommodation Centre Sefton House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.223923,-35.303253,148.223923,-35.303253],
-  "geometry": {"coordinates":[148.223923,-35.303253],"type":"Point"}
+  "bbox": [
+    148.223923,
+    -35.303253,
+    148.223923,
+    -35.303253
+],
+  "geometry": {"coordinates":[148.22392300000001,-35.303253],"type":"Point"}
 }

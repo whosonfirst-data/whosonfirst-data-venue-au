@@ -2,13 +2,14 @@
   "id": 219730753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.788452,-19.289316,146.788452,-19.289316",
     "geom:latitude":-19.289316,
     "geom:longitude":146.788452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Fulham Rd",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219730753,
-    "wof:lastmodified":1449073345,
+    "wof:lastmodified":1466191220,
     "wof:name":"Feist Norman Dr",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.788452,-19.289316,146.788452,-19.289316],
-  "geometry": {"coordinates":[146.788452,-19.289316],"type":"Point"}
+  "bbox": [
+    146.788452,
+    -19.289316,
+    146.788452,
+    -19.289316
+],
+  "geometry": {"coordinates":[146.78845200000001,-19.289316],"type":"Point"}
 }

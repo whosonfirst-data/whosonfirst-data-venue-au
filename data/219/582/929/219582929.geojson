@@ -2,13 +2,14 @@
   "id": 219582929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.981369,-33.918217,150.981369,-33.918217",
     "geom:latitude":-33.918217,
     "geom:longitude":150.981369,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Tower Rd",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219582929,
-    "wof:lastmodified":1449072279,
+    "wof:lastmodified":1466190447,
     "wof:name":"Dynamic Helicopters",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "helicopter"
     ]
 },
-  "bbox": [150.981369,-33.918217,150.981369,-33.918217],
+  "bbox": [
+    150.981369,
+    -33.918217,
+    150.981369,
+    -33.918217
+],
   "geometry": {"coordinates":[150.981369,-33.918217],"type":"Point"}
 }

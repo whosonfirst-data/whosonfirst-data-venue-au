@@ -2,13 +2,14 @@
   "id": 219697957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.515015,-32.186703,152.515015,-32.186703",
     "geom:latitude":-32.186703,
     "geom:longitude":152.515015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Breckenridge St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219697957,
-    "wof:lastmodified":1449072613,
+    "wof:lastmodified":1466191065,
     "wof:name":"Tobwabba Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "craft"
     ]
 },
-  "bbox": [152.515015,-32.186703,152.515015,-32.186703],
-  "geometry": {"coordinates":[152.515015,-32.186703],"type":"Point"}
+  "bbox": [
+    152.515015,
+    -32.186703,
+    152.515015,
+    -32.186703
+],
+  "geometry": {"coordinates":[152.51501500000001,-32.186703],"type":"Point"}
 }

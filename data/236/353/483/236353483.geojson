@@ -2,13 +2,14 @@
   "id": 236353483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.792252,-32.057346,115.792252,-32.057346",
     "geom:latitude":-32.057346,
     "geom:longitude":115.792252,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Stockdale Rd",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236353483,
-    "wof:lastmodified":1449002423,
+    "wof:lastmodified":1466191000,
     "wof:name":"Smith G.C. & Co.",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marble"
     ]
 },
-  "bbox": [115.792252,-32.057346,115.792252,-32.057346],
+  "bbox": [
+    115.792252,
+    -32.057346,
+    115.792252,
+    -32.057346
+],
   "geometry": {"coordinates":[115.792252,-32.057346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219715589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.374435,-31.868904,152.374435,-31.868904",
     "geom:latitude":-31.868904,
     "geom:longitude":152.374435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5, 56 Isabella St",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219715589,
-    "wof:lastmodified":1449073222,
+    "wof:lastmodified":1466191184,
     "wof:name":"Wingham Music Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "musical"
     ]
 },
-  "bbox": [152.374435,-31.868904,152.374435,-31.868904],
-  "geometry": {"coordinates":[152.374435,-31.868904],"type":"Point"}
+  "bbox": [
+    152.374435,
+    -31.868904,
+    152.374435,
+    -31.868904
+],
+  "geometry": {"coordinates":[152.37443500000001,-31.868904],"type":"Point"}
 }

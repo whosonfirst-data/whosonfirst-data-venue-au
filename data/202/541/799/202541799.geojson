@@ -2,13 +2,14 @@
   "id": 202541799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.859818,-33.085194,148.859818,-33.085194",
     "geom:latitude":-33.085194,
     "geom:longitude":148.859818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Boomey St",
     "sg:city":"Molong",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202541799,
-    "wof:lastmodified":1449060389,
+    "wof:lastmodified":1466189887,
     "wof:name":"Dowling Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.859818,-33.085194,148.859818,-33.085194],
-  "geometry": {"coordinates":[148.859818,-33.085194],"type":"Point"}
+  "bbox": [
+    148.859818,
+    -33.085194,
+    148.859818,
+    -33.085194
+],
+  "geometry": {"coordinates":[148.85981799999999,-33.085194],"type":"Point"}
 }

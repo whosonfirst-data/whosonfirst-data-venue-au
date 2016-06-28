@@ -2,13 +2,14 @@
   "id": 186572689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.840195,-31.496782,145.840195,-31.496782",
     "geom:latitude":-31.496782,
     "geom:longitude":145.840195,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Louth Rd",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186572689,
-    "wof:lastmodified":1449052001,
+    "wof:lastmodified":1466190835,
     "wof:name":"Mine Hire Australia Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "minibus"
     ]
 },
-  "bbox": [145.840195,-31.496782,145.840195,-31.496782],
-  "geometry": {"coordinates":[145.840195,-31.496782],"type":"Point"}
+  "bbox": [
+    145.840195,
+    -31.496782,
+    145.840195,
+    -31.496782
+],
+  "geometry": {"coordinates":[145.84019499999999,-31.496782],"type":"Point"}
 }

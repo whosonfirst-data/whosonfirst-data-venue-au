@@ -2,13 +2,14 @@
   "id": 236486199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.109055,-21.164057,149.109055,-21.164057",
     "geom:latitude":-21.164057,
     "geom:longitude":149.109055,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26146 Peak Downs Hwy",
     "sg:city":"Te Kowai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236486199,
-    "wof:lastmodified":1449003503,
+    "wof:lastmodified":1466191405,
     "wof:name":"Maryann's Restoration Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "restoration"
     ]
 },
-  "bbox": [149.109055,-21.164057,149.109055,-21.164057],
-  "geometry": {"coordinates":[149.109055,-21.164057],"type":"Point"}
+  "bbox": [
+    149.109055,
+    -21.164057,
+    149.109055,
+    -21.164057
+],
+  "geometry": {"coordinates":[149.10905500000001,-21.164057],"type":"Point"}
 }

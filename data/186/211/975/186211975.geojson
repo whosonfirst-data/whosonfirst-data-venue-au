@@ -2,13 +2,14 @@
   "id": 186211975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.912964,-31.429352,152.912964,-31.429352",
     "geom:latitude":-31.429352,
     "geom:longitude":152.912964,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 School St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186211975,
-    "wof:lastmodified":1449051054,
+    "wof:lastmodified":1466187155,
     "wof:name":"Port Aloha Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.912964,-31.429352,152.912964,-31.429352],
-  "geometry": {"coordinates":[152.912964,-31.429352],"type":"Point"}
+  "bbox": [
+    152.912964,
+    -31.429352,
+    152.912964,
+    -31.429352
+],
+  "geometry": {"coordinates":[152.91296399999999,-31.429352],"type":"Point"}
 }

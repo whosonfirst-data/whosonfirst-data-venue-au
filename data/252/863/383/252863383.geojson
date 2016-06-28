@@ -2,13 +2,14 @@
   "id": 252863383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.101929,-33.965408,151.101929,-33.965408",
     "geom:latitude":-33.965408,
     "geom:longitude":151.101929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 25/ 33 MacMahon St",
     "sg:city":"Hurstville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252863383,
-    "wof:lastmodified":1449006144,
+    "wof:lastmodified":1466188664,
     "wof:name":"Associated Planners",
     "wof:parent_id":85771205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.101929,-33.965408,151.101929,-33.965408],
-  "geometry": {"coordinates":[151.101929,-33.965408],"type":"Point"}
+  "bbox": [
+    151.101929,
+    -33.965408,
+    151.101929,
+    -33.965408
+],
+  "geometry": {"coordinates":[151.10192900000001,-33.965408],"type":"Point"}
 }

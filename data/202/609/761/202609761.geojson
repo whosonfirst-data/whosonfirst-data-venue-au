@@ -2,13 +2,14 @@
   "id": 202609761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.697647,-33.754692,150.697647,-33.754692",
     "geom:latitude":-33.754692,
     "geom:longitude":150.697647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tindale St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202609761,
-    "wof:lastmodified":1449061057,
+    "wof:lastmodified":1466187435,
     "wof:name":"Beaurepaires",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [150.697647,-33.754692,150.697647,-33.754692],
-  "geometry": {"coordinates":[150.697647,-33.754692],"type":"Point"}
+  "bbox": [
+    150.697647,
+    -33.754692,
+    150.697647,
+    -33.754692
+],
+  "geometry": {"coordinates":[150.69764699999999,-33.754692],"type":"Point"}
 }

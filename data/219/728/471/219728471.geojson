@@ -2,13 +2,14 @@
   "id": 219728471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.790344,-19.289528,146.790344,-19.289528",
     "geom:latitude":-19.289528,
     "geom:longitude":146.790344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Fulham Rd",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219728471,
-    "wof:lastmodified":1449071214,
+    "wof:lastmodified":1466191205,
     "wof:name":"Bragg Tax & Accounting",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [146.790344,-19.289528,146.790344,-19.289528],
+  "bbox": [
+    146.790344,
+    -19.289528,
+    146.790344,
+    -19.289528
+],
   "geometry": {"coordinates":[146.790344,-19.289528],"type":"Point"}
 }

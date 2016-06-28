@@ -2,13 +2,14 @@
   "id": 202683647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.991089,-27.372332,152.991089,-27.372332",
     "geom:latitude":-27.372332,
     "geom:longitude":152.991089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Amanda Pl",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202683647,
-    "wof:lastmodified":1449061042,
+    "wof:lastmodified":1466188528,
     "wof:name":"Electec",
     "wof:parent_id":85774013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.991089,-27.372332,152.991089,-27.372332],
-  "geometry": {"coordinates":[152.991089,-27.372332],"type":"Point"}
+  "bbox": [
+    152.991089,
+    -27.372332,
+    152.991089,
+    -27.372332
+],
+  "geometry": {"coordinates":[152.99108899999999,-27.372332],"type":"Point"}
 }

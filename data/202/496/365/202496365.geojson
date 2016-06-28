@@ -2,13 +2,14 @@
   "id": 202496365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.039307,-37.918621,145.039307,-37.918621",
     "geom:latitude":-37.918621,
     "geom:longitude":145.039307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"462 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202496365,
-    "wof:lastmodified":1449062275,
+    "wof:lastmodified":1466189491,
     "wof:name":"Bakers Delight Ltd",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [145.039307,-37.918621,145.039307,-37.918621],
-  "geometry": {"coordinates":[145.039307,-37.918621],"type":"Point"}
+  "bbox": [
+    145.039307,
+    -37.918621,
+    145.039307,
+    -37.918621
+],
+  "geometry": {"coordinates":[145.03930700000001,-37.918621],"type":"Point"}
 }

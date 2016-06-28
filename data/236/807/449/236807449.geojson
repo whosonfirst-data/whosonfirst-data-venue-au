@@ -2,13 +2,14 @@
   "id": 236807449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.861206,-34.484367,150.861206,-34.484367",
     "geom:latitude":-34.484367,
     "geom:longitude":150.861206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Hassan St",
     "sg:city":"Lake Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236807449,
-    "wof:lastmodified":1449002315,
+    "wof:lastmodified":1466191863,
     "wof:name":"Jerez Group",
     "wof:parent_id":85769585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [150.861206,-34.484367,150.861206,-34.484367],
-  "geometry": {"coordinates":[150.861206,-34.484367],"type":"Point"}
+  "bbox": [
+    150.861206,
+    -34.484367,
+    150.861206,
+    -34.484367
+],
+  "geometry": {"coordinates":[150.86120600000001,-34.484367],"type":"Point"}
 }

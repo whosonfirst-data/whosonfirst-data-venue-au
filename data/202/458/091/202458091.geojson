@@ -2,13 +2,14 @@
   "id": 202458091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.955185,-37.833061,144.955185,-37.833061",
     "geom:latitude":-37.833061,
     "geom:longitude":144.955185,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 217 Ferrars St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202458091,
-    "wof:lastmodified":1449061901,
+    "wof:lastmodified":1466188897,
     "wof:name":"B G P International Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [144.955185,-37.833061,144.955185,-37.833061],
+  "bbox": [
+    144.955185,
+    -37.833061,
+    144.955185,
+    -37.833061
+],
   "geometry": {"coordinates":[144.955185,-37.833061],"type":"Point"}
 }

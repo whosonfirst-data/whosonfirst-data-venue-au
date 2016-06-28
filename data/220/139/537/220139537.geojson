@@ -2,13 +2,14 @@
   "id": 220139537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363052,-38.148804,144.363052,-38.148804",
     "geom:latitude":-38.148804,
     "geom:longitude":144.363052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 53 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220139537,
-    "wof:lastmodified":1449074103,
+    "wof:lastmodified":1466188378,
     "wof:name":"Achieve Home Loans",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.363052,-38.148804,144.363052,-38.148804],
-  "geometry": {"coordinates":[144.363052,-38.148804],"type":"Point"}
+  "bbox": [
+    144.363052,
+    -38.148804,
+    144.363052,
+    -38.148804
+],
+  "geometry": {"coordinates":[144.36305200000001,-38.148804],"type":"Point"}
 }

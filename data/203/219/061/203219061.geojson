@@ -2,13 +2,14 @@
   "id": 203219061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.905075,-41.057362,145.905075,-41.057362",
     "geom:latitude":-41.057362,
     "geom:longitude":145.905075,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Wilson St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203219061,
-    "wof:lastmodified":1449026797,
+    "wof:lastmodified":1466187288,
     "wof:name":"Waldhauser & Co",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [145.905075,-41.057362,145.905075,-41.057362],
-  "geometry": {"coordinates":[145.905075,-41.057362],"type":"Point"}
+  "bbox": [
+    145.905075,
+    -41.057362,
+    145.905075,
+    -41.057362
+],
+  "geometry": {"coordinates":[145.90507500000001,-41.057362],"type":"Point"}
 }

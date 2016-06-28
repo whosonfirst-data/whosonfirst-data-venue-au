@@ -2,13 +2,14 @@
   "id": 219377137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.560425,-35.337486,143.560425,-35.337486",
     "geom:latitude":-35.337486,
     "geom:longitude":143.560425,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Curlewis St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219377137,
-    "wof:lastmodified":1449071714,
+    "wof:lastmodified":1466188166,
     "wof:name":"B T Performance Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [143.560425,-35.337486,143.560425,-35.337486],
-  "geometry": {"coordinates":[143.560425,-35.337486],"type":"Point"}
+  "bbox": [
+    143.560425,
+    -35.337486,
+    143.560425,
+    -35.337486
+],
+  "geometry": {"coordinates":[143.56042500000001,-35.337486],"type":"Point"}
 }

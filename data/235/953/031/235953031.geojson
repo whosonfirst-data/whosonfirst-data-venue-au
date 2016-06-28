@@ -2,13 +2,14 @@
   "id": 235953031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.945862,-30.090973,145.945862,-30.090973",
     "geom:latitude":-30.090973,
     "geom:longitude":145.945862,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Glen & Oxley Sts",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235953031,
-    "wof:lastmodified":1449008470,
+    "wof:lastmodified":1466187090,
     "wof:name":"Bourke & District Multipurpose Child Care Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.945862,-30.090973,145.945862,-30.090973],
-  "geometry": {"coordinates":[145.945862,-30.090973],"type":"Point"}
+  "bbox": [
+    145.945862,
+    -30.090973,
+    145.945862,
+    -30.090973
+],
+  "geometry": {"coordinates":[145.94586200000001,-30.090973],"type":"Point"}
 }

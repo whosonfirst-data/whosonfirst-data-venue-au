@@ -2,13 +2,14 @@
   "id": 219229207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.92572,-37.650669,144.92572,-37.650669",
     "geom:latitude":-37.650669,
     "geom:longitude":144.92572,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Honeysuckle Crt",
     "sg:city":"Meadow Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219229207,
-    "wof:lastmodified":1449073219,
+    "wof:lastmodified":1466189895,
     "wof:name":"KIR Transport Pty Ltd",
     "wof:parent_id":85777809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.92572,-37.650669,144.92572,-37.650669],
-  "geometry": {"coordinates":[144.92572,-37.650669],"type":"Point"}
+  "bbox": [
+    144.92572,
+    -37.650669,
+    144.92572,
+    -37.650669
+],
+  "geometry": {"coordinates":[144.92572000000001,-37.650669],"type":"Point"}
 }

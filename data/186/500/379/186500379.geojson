@@ -2,13 +2,14 @@
   "id": 186500379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.782776,-19.313601,146.782776,-19.313601",
     "geom:latitude":-19.313601,
     "geom:longitude":146.782776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Yolanda Drv (cnr Oleander St)",
     "sg:city":"Annandale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186500379,
-    "wof:lastmodified":1449051060,
+    "wof:lastmodified":1466190393,
     "wof:name":"Annandale Primary",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [146.782776,-19.313601,146.782776,-19.313601],
-  "geometry": {"coordinates":[146.782776,-19.313601],"type":"Point"}
+  "bbox": [
+    146.782776,
+    -19.313601,
+    146.782776,
+    -19.313601
+],
+  "geometry": {"coordinates":[146.78277600000001,-19.313601],"type":"Point"}
 }

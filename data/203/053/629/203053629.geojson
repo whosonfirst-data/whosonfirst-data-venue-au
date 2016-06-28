@@ -2,13 +2,14 @@
   "id": 203053629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.707764,-36.922314,144.707764,-36.922314",
     "geom:latitude":-36.922314,
     "geom:longitude":144.707764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Heriot St",
     "sg:city":"Heathcote",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203053629,
-    "wof:lastmodified":1449025294,
+    "wof:lastmodified":1466188279,
     "wof:name":"Watkins E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grazier"
     ]
 },
-  "bbox": [144.707764,-36.922314,144.707764,-36.922314],
+  "bbox": [
+    144.707764,
+    -36.922314,
+    144.707764,
+    -36.922314
+],
   "geometry": {"coordinates":[144.707764,-36.922314],"type":"Point"}
 }

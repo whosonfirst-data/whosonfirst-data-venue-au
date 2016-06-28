@@ -2,13 +2,14 @@
   "id": 169862185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.809097,-32.045803,115.809097,-32.045803",
     "geom:latitude":-32.045803,
     "geom:longitude":115.809097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1/ 18 Thurso Rd",
     "sg:city":"Myaree",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169862185,
-    "wof:lastmodified":1449036043,
+    "wof:lastmodified":1466189529,
     "wof:name":"Repete Agencies",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "footwear"
     ]
 },
-  "bbox": [115.809097,-32.045803,115.809097,-32.045803],
-  "geometry": {"coordinates":[115.809097,-32.045803],"type":"Point"}
+  "bbox": [
+    115.809097,
+    -32.045803,
+    115.809097,
+    -32.045803
+],
+  "geometry": {"coordinates":[115.80909699999999,-32.045803],"type":"Point"}
 }

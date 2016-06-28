@@ -2,13 +2,14 @@
   "id": 202815515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.145523,-23.523609,148.145523,-23.523609",
     "geom:latitude":-23.523609,
     "geom:longitude":148.145523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Macaulay Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202815515,
-    "wof:lastmodified":1449061360,
+    "wof:lastmodified":1466190257,
     "wof:name":"Rod's Auto Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [148.145523,-23.523609,148.145523,-23.523609],
+  "bbox": [
+    148.145523,
+    -23.523609,
+    148.145523,
+    -23.523609
+],
   "geometry": {"coordinates":[148.145523,-23.523609],"type":"Point"}
 }

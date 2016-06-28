@@ -2,13 +2,14 @@
   "id": 220063135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.323593,-38.332153,144.323593,-38.332153",
     "geom:latitude":-38.332153,
     "geom:longitude":144.323593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Gilbert St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220063135,
-    "wof:lastmodified":1449074095,
+    "wof:lastmodified":1466187622,
     "wof:name":"Jens Gaunt Real Estate Torquay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.323593,-38.332153,144.323593,-38.332153],
-  "geometry": {"coordinates":[144.323593,-38.332153],"type":"Point"}
+  "bbox": [
+    144.323593,
+    -38.332153,
+    144.323593,
+    -38.332153
+],
+  "geometry": {"coordinates":[144.32359299999999,-38.332153],"type":"Point"}
 }

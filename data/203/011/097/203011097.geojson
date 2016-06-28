@@ -2,13 +2,14 @@
   "id": 203011097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.492523,-20.722319,139.492523,-20.722319",
     "geom:latitude":-20.722319,
     "geom:longitude":139.492523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 52 Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203011097,
-    "wof:lastmodified":1449026489,
+    "wof:lastmodified":1466187277,
     "wof:name":"GHD Pty Ltd (Mt Isa)",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [139.492523,-20.722319,139.492523,-20.722319],
-  "geometry": {"coordinates":[139.492523,-20.722319],"type":"Point"}
+  "bbox": [
+    139.492523,
+    -20.722319,
+    139.492523,
+    -20.722319
+],
+  "geometry": {"coordinates":[139.49252300000001,-20.722319],"type":"Point"}
 }

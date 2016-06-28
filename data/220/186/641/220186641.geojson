@@ -2,13 +2,14 @@
   "id": 220186641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.700867,-38.177876,144.700867,-38.177876",
     "geom:latitude":-38.177876,
     "geom:longitude":144.700867,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 Murradoc Rd",
     "sg:city":"St Leonards",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220186641,
-    "wof:lastmodified":1449074667,
+    "wof:lastmodified":1466189288,
     "wof:name":"White Fisheries Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [144.700867,-38.177876,144.700867,-38.177876],
-  "geometry": {"coordinates":[144.700867,-38.177876],"type":"Point"}
+  "bbox": [
+    144.700867,
+    -38.177876,
+    144.700867,
+    -38.177876
+],
+  "geometry": {"coordinates":[144.70086699999999,-38.177876],"type":"Point"}
 }

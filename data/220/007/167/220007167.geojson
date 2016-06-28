@@ -2,13 +2,14 @@
   "id": 220007167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.709229,-38.002777,140.709229,-38.002777",
     "geom:latitude":-38.002777,
     "geom:longitude":140.709229,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Bay Rd",
     "sg:city":"Allendale East",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220007167,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466186937,
     "wof:name":"Allendale East General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [140.709229,-38.002777,140.709229,-38.002777],
-  "geometry": {"coordinates":[140.709229,-38.002777],"type":"Point"}
+  "bbox": [
+    140.709229,
+    -38.002777,
+    140.709229,
+    -38.002777
+],
+  "geometry": {"coordinates":[140.70922899999999,-38.002777],"type":"Point"}
 }

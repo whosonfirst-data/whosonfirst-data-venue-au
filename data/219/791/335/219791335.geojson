@@ -2,13 +2,14 @@
   "id": 219791335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.726578,-19.317892,146.726578,-19.317892",
     "geom:latitude":-19.317892,
     "geom:longitude":146.726578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Herveys Range Rd",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219791335,
-    "wof:lastmodified":1449073116,
+    "wof:lastmodified":1466191281,
     "wof:name":"Fishing Spot",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [146.726578,-19.317892,146.726578,-19.317892],
-  "geometry": {"coordinates":[146.726578,-19.317892],"type":"Point"}
+  "bbox": [
+    146.726578,
+    -19.317892,
+    146.726578,
+    -19.317892
+],
+  "geometry": {"coordinates":[146.72657799999999,-19.317892],"type":"Point"}
 }

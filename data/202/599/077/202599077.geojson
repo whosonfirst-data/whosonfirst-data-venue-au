@@ -2,13 +2,14 @@
   "id": 202599077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.12146,-37.532074,144.12146,-37.532074",
     "geom:latitude":-37.532074,
     "geom:longitude":144.12146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Calway La",
     "sg:city":"Gordon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202599077,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466187272,
     "wof:name":"Dave's Highland's Painting Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [144.12146,-37.532074,144.12146,-37.532074],
-  "geometry": {"coordinates":[144.12146,-37.532074],"type":"Point"}
+  "bbox": [
+    144.12146,
+    -37.532074,
+    144.12146,
+    -37.532074
+],
+  "geometry": {"coordinates":[144.12146000000001,-37.532074],"type":"Point"}
 }

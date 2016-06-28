@@ -2,13 +2,14 @@
   "id": 219412489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.856705,-35.695732,139.856705,-35.695732",
     "geom:latitude":-35.695732,
     "geom:longitude":139.856705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Dukes Hwy",
     "sg:city":"Coonalpyn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219412489,
-    "wof:lastmodified":1449071115,
+    "wof:lastmodified":1466188487,
     "wof:name":"Coonalpyn Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.856705,-35.695732,139.856705,-35.695732],
-  "geometry": {"coordinates":[139.856705,-35.695732],"type":"Point"}
+  "bbox": [
+    139.856705,
+    -35.695732,
+    139.856705,
+    -35.695732
+],
+  "geometry": {"coordinates":[139.85670500000001,-35.695732],"type":"Point"}
 }

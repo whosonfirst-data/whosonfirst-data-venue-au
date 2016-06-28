@@ -2,13 +2,14 @@
   "id": 186450719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179657,-33.903496,151.179657,-33.903496",
     "geom:latitude":-33.903496,
     "geom:longitude":151.179657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"539 King St South",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186450719,
-    "wof:lastmodified":1449052594,
+    "wof:lastmodified":1466190171,
     "wof:name":"Towers Antiques & Collectables",
     "wof:parent_id":85774537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.179657,-33.903496,151.179657,-33.903496],
-  "geometry": {"coordinates":[151.179657,-33.903496],"type":"Point"}
+  "bbox": [
+    151.179657,
+    -33.903496,
+    151.179657,
+    -33.903496
+],
+  "geometry": {"coordinates":[151.17965699999999,-33.903496],"type":"Point"}
 }

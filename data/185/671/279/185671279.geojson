@@ -2,13 +2,14 @@
   "id": 185671279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.759003,-32.042995,115.759003,-32.042995",
     "geom:latitude":-32.042995,
     "geom:longitude":115.759003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Glyde St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185671279,
-    "wof:lastmodified":1449006982,
+    "wof:lastmodified":1466188636,
     "wof:name":"Kowhai Frames",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [115.759003,-32.042995,115.759003,-32.042995],
-  "geometry": {"coordinates":[115.759003,-32.042995],"type":"Point"}
+  "bbox": [
+    115.759003,
+    -32.042995,
+    115.759003,
+    -32.042995
+],
+  "geometry": {"coordinates":[115.75900300000001,-32.042995],"type":"Point"}
 }

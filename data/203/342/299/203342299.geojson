@@ -2,13 +2,14 @@
   "id": 203342299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.852554,-37.557823,143.852554,-37.557823",
     "geom:latitude":-37.557823,
     "geom:longitude":143.852554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Lyons St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203342299,
-    "wof:lastmodified":1449026739,
+    "wof:lastmodified":1466188540,
     "wof:name":"Trevor Close",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [143.852554,-37.557823,143.852554,-37.557823],
+  "bbox": [
+    143.852554,
+    -37.557823,
+    143.852554,
+    -37.557823
+],
   "geometry": {"coordinates":[143.852554,-37.557823],"type":"Point"}
 }

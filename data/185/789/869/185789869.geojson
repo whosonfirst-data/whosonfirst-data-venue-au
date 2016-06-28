@@ -2,13 +2,14 @@
   "id": 185789869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.378403,-37.724796,145.378403,-37.724796",
     "geom:latitude":-37.724796,
     "geom:longitude":145.378403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Maroondah Hwy",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185789869,
-    "wof:lastmodified":1449007345,
+    "wof:lastmodified":1466189853,
     "wof:name":"Go Wild Ballooning Pty Ltd",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [145.378403,-37.724796,145.378403,-37.724796],
-  "geometry": {"coordinates":[145.378403,-37.724796],"type":"Point"}
+  "bbox": [
+    145.378403,
+    -37.724796,
+    145.378403,
+    -37.724796
+],
+  "geometry": {"coordinates":[145.37840299999999,-37.724796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186042135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.421463,-33.341694,151.421463,-33.341694",
     "geom:latitude":-33.341694,
     "geom:longitude":151.421463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Berkeley Rd",
     "sg:city":"Glenning Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186042135,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1466188106,
     "wof:name":"GAF Driving Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.421463,-33.341694,151.421463,-33.341694],
-  "geometry": {"coordinates":[151.421463,-33.341694],"type":"Point"}
+  "bbox": [
+    151.421463,
+    -33.341694,
+    151.421463,
+    -33.341694
+],
+  "geometry": {"coordinates":[151.42146299999999,-33.341694],"type":"Point"}
 }

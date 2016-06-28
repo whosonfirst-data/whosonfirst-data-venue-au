@@ -2,13 +2,14 @@
   "id": 219375545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.55809,-35.334904,143.55809,-35.334904",
     "geom:latitude":-35.334904,
     "geom:longitude":143.55809,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Campbell St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219375545,
-    "wof:lastmodified":1449070494,
+    "wof:lastmodified":1466188150,
     "wof:name":"Tyrepower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [143.55809,-35.334904,143.55809,-35.334904],
-  "geometry": {"coordinates":[143.55809,-35.334904],"type":"Point"}
+  "bbox": [
+    143.55809,
+    -35.334904,
+    143.55809,
+    -35.334904
+],
+  "geometry": {"coordinates":[143.55808999999999,-35.334904],"type":"Point"}
 }

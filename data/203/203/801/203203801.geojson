@@ -2,13 +2,14 @@
   "id": 203203801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.906464,-41.051064,145.906464,-41.051064",
     "geom:latitude":-41.051064,
     "geom:longitude":145.906464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Wilmot St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203203801,
-    "wof:lastmodified":1449025754,
+    "wof:lastmodified":1466187061,
     "wof:name":"Scott's Jewellers",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [145.906464,-41.051064,145.906464,-41.051064],
+  "bbox": [
+    145.906464,
+    -41.051064,
+    145.906464,
+    -41.051064
+],
   "geometry": {"coordinates":[145.906464,-41.051064],"type":"Point"}
 }

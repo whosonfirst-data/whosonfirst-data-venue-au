@@ -2,13 +2,14 @@
   "id": 169753565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.113785,-27.206673,153.113785,-27.206673",
     "geom:latitude":-27.206673,
     "geom:longitude":153.113785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Oxley Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169753565,
-    "wof:lastmodified":1449033072,
+    "wof:lastmodified":1466187920,
     "wof:name":"Qld Audio Repairs",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [153.113785,-27.206673,153.113785,-27.206673],
-  "geometry": {"coordinates":[153.113785,-27.206673],"type":"Point"}
+  "bbox": [
+    153.113785,
+    -27.206673,
+    153.113785,
+    -27.206673
+],
+  "geometry": {"coordinates":[153.11378500000001,-27.206673],"type":"Point"}
 }

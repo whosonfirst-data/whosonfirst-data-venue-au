@@ -2,13 +2,14 @@
   "id": 202745483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.879181,-32.074341,115.879181,-32.074341",
     "geom:latitude":-32.074341,
     "geom:longitude":115.879181,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 2/ Dundee St",
     "sg:city":"Leeming",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202745483,
-    "wof:lastmodified":1449062537,
+    "wof:lastmodified":1466189631,
     "wof:name":"Leeming Park Fish & Chips",
     "wof:parent_id":85780705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [115.879181,-32.074341,115.879181,-32.074341],
+  "bbox": [
+    115.879181,
+    -32.074341,
+    115.879181,
+    -32.074341
+],
   "geometry": {"coordinates":[115.879181,-32.074341],"type":"Point"}
 }

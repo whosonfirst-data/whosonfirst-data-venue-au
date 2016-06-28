@@ -2,13 +2,14 @@
   "id": 202568761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.423996,-37.646,144.423996,-37.646",
     "geom:latitude":-37.646,
     "geom:longitude":144.423996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Vigor Crt",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202568761,
-    "wof:lastmodified":1449060047,
+    "wof:lastmodified":1466187034,
     "wof:name":"Acme Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.423996,-37.646,144.423996,-37.646],
-  "geometry": {"coordinates":[144.423996,-37.646],"type":"Point"}
+  "bbox": [
+    144.423996,
+    -37.646,
+    144.423996,
+    -37.646
+],
+  "geometry": {"coordinates":[144.42399599999999,-37.646],"type":"Point"}
 }

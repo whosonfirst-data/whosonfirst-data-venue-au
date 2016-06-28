@@ -2,13 +2,14 @@
   "id": 219881531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.855194,-27.290743,152.855194,-27.290743",
     "geom:latitude":-27.290743,
     "geom:longitude":152.855194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Tom Schmidt Crt",
     "sg:city":"Mt Samson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219881531,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466191616,
     "wof:name":"Trojan Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.855194,-27.290743,152.855194,-27.290743],
-  "geometry": {"coordinates":[152.855194,-27.290743],"type":"Point"}
+  "bbox": [
+    152.855194,
+    -27.290743,
+    152.855194,
+    -27.290743
+],
+  "geometry": {"coordinates":[152.85519400000001,-27.290743],"type":"Point"}
 }

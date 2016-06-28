@@ -2,13 +2,14 @@
   "id": 236109611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.934418,-37.792561,144.934418,-37.792561",
     "geom:latitude":-37.792561,
     "geom:longitude":144.934418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Thompson St",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236109611,
-    "wof:lastmodified":1449002661,
+    "wof:lastmodified":1466188824,
     "wof:name":"Jet Worldwide (Aust) Pty Ltd",
     "wof:parent_id":85776485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [144.934418,-37.792561,144.934418,-37.792561],
-  "geometry": {"coordinates":[144.934418,-37.792561],"type":"Point"}
+  "bbox": [
+    144.934418,
+    -37.792561,
+    144.934418,
+    -37.792561
+],
+  "geometry": {"coordinates":[144.93441799999999,-37.792561],"type":"Point"}
 }

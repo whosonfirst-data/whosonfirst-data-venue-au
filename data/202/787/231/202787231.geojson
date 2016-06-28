@@ -2,13 +2,14 @@
   "id": 202787231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.778458,-32.925819,151.778458,-32.925819",
     "geom:latitude":-32.925819,
     "geom:longitude":151.778458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite C, Lvl 4, 251 Wharf Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202787231,
-    "wof:lastmodified":1449061276,
+    "wof:lastmodified":1466190069,
     "wof:name":"Hays",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.778458,-32.925819,151.778458,-32.925819],
+  "bbox": [
+    151.778458,
+    -32.925819,
+    151.778458,
+    -32.925819
+],
   "geometry": {"coordinates":[151.778458,-32.925819],"type":"Point"}
 }

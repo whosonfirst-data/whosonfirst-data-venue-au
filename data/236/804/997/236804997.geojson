@@ -2,13 +2,14 @@
   "id": 236804997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.903763,-34.490093,150.903763,-34.490093",
     "geom:latitude":-34.490093,
     "geom:longitude":150.903763,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Surbside Drv",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236804997,
-    "wof:lastmodified":1449004046,
+    "wof:lastmodified":1466191962,
     "wof:name":"Port Kembla Electrical",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.903763,-34.490093,150.903763,-34.490093],
+  "bbox": [
+    150.903763,
+    -34.490093,
+    150.903763,
+    -34.490093
+],
   "geometry": {"coordinates":[150.903763,-34.490093],"type":"Point"}
 }

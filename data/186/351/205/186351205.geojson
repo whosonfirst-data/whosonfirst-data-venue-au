@@ -2,13 +2,14 @@
   "id": 186351205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.279922,-33.695076,151.279922,-33.695076",
     "geom:latitude":-33.695076,
     "geom:longitude":151.279922,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Powderworks Rd",
     "sg:city":"Elanora Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186351205,
-    "wof:lastmodified":1449052610,
+    "wof:lastmodified":1466188475,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":85776827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.279922,-33.695076,151.279922,-33.695076],
+  "bbox": [
+    151.279922,
+    -33.695076,
+    151.279922,
+    -33.695076
+],
   "geometry": {"coordinates":[151.279922,-33.695076],"type":"Point"}
 }

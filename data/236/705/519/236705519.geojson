@@ -2,13 +2,14 @@
   "id": 236705519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.533325,-32.038124,152.533325,-32.038124",
     "geom:latitude":-32.038124,
     "geom:longitude":152.533325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Figtree Drv",
     "sg:city":"Diamond Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236705519,
-    "wof:lastmodified":1449005275,
+    "wof:lastmodified":1466191948,
     "wof:name":"I.R. & C. Thompson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [152.533325,-32.038124,152.533325,-32.038124],
-  "geometry": {"coordinates":[152.533325,-32.038124],"type":"Point"}
+  "bbox": [
+    152.533325,
+    -32.038124,
+    152.533325,
+    -32.038124
+],
+  "geometry": {"coordinates":[152.53332499999999,-32.038124],"type":"Point"}
 }

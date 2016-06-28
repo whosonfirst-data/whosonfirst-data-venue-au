@@ -2,13 +2,14 @@
   "id": 236034253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.791443,-37.727741,144.791443,-37.727741",
     "geom:latitude":-37.727741,
     "geom:longitude":144.791443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiosk 1 Centro Keilor , Lot 1 Taylor Rd",
     "sg:city":"Keilor Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236034253,
-    "wof:lastmodified":1449001953,
+    "wof:lastmodified":1466187303,
     "wof:name":"Mister Minit",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [144.791443,-37.727741,144.791443,-37.727741],
-  "geometry": {"coordinates":[144.791443,-37.727741],"type":"Point"}
+  "bbox": [
+    144.791443,
+    -37.727741,
+    144.791443,
+    -37.727741
+],
+  "geometry": {"coordinates":[144.79144299999999,-37.727741],"type":"Point"}
 }

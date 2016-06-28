@@ -2,13 +2,14 @@
   "id": 169855747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.846741,-32.014111,115.846741,-32.014111",
     "geom:latitude":-32.014111,
     "geom:longitude":115.846741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"891 Canning Hwy",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169855747,
-    "wof:lastmodified":1449035109,
+    "wof:lastmodified":1466189469,
     "wof:name":"Canning Bridge Auto Lodge",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [115.846741,-32.014111,115.846741,-32.014111],
-  "geometry": {"coordinates":[115.846741,-32.014111],"type":"Point"}
+  "bbox": [
+    115.846741,
+    -32.014111,
+    115.846741,
+    -32.014111
+],
+  "geometry": {"coordinates":[115.84674099999999,-32.014111],"type":"Point"}
 }

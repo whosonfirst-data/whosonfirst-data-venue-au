@@ -2,13 +2,14 @@
   "id": 202609653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.699875,-33.753811,150.699875,-33.753811",
     "geom:latitude":-33.753811,
     "geom:longitude":150.699875,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5/37 Lawson St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202609653,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466187431,
     "wof:name":"Fabre & Flammia Statewide Real Estate",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.699875,-33.753811,150.699875,-33.753811],
-  "geometry": {"coordinates":[150.699875,-33.753811],"type":"Point"}
+  "bbox": [
+    150.699875,
+    -33.753811,
+    150.699875,
+    -33.753811
+],
+  "geometry": {"coordinates":[150.69987499999999,-33.753811],"type":"Point"}
 }

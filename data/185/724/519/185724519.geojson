@@ -2,13 +2,14 @@
   "id": 185724519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.030807,-32.732063,152.030807,-32.732063",
     "geom:latitude":-32.732063,
     "geom:longitude":152.030807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 316 Industrial Drv",
     "sg:city":"Lemon Tree Passage",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185724519,
-    "wof:lastmodified":1449008156,
+    "wof:lastmodified":1466189369,
     "wof:name":"Hunter Four Wheel Drive Spares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.030807,-32.732063,152.030807,-32.732063],
-  "geometry": {"coordinates":[152.030807,-32.732063],"type":"Point"}
+  "bbox": [
+    152.030807,
+    -32.732063,
+    152.030807,
+    -32.732063
+],
+  "geometry": {"coordinates":[152.03080700000001,-32.732063],"type":"Point"}
 }

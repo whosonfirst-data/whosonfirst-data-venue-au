@@ -2,13 +2,14 @@
   "id": 202949063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.099121,-30.297915,153.099121,-30.297915",
     "geom:latitude":-30.297915,
     "geom:longitude":153.099121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Combine St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202949063,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466191000,
     "wof:name":"Burke Kenneth",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [153.099121,-30.297915,153.099121,-30.297915],
+  "bbox": [
+    153.099121,
+    -30.297915,
+    153.099121,
+    -30.297915
+],
   "geometry": {"coordinates":[153.099121,-30.297915],"type":"Point"}
 }

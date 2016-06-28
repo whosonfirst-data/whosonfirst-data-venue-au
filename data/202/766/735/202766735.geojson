@@ -2,13 +2,14 @@
   "id": 202766735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.758286,-32.933868,151.758286,-32.933868",
     "geom:latitude":-32.933868,
     "geom:longitude":151.758286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Smith St",
     "sg:city":"Newcastle",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202766735,
-    "wof:lastmodified":1449060075,
+    "wof:lastmodified":1466189964,
     "wof:name":"Classic Tanks",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.758286,-32.933868,151.758286,-32.933868],
+  "bbox": [
+    151.758286,
+    -32.933868,
+    151.758286,
+    -32.933868
+],
   "geometry": {"coordinates":[151.758286,-32.933868],"type":"Point"}
 }

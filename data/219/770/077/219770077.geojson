@@ -2,13 +2,14 @@
   "id": 219770077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.181396,-33.913216,151.181396,-33.913216",
     "geom:latitude":-33.913216,
     "geom:longitude":151.181396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2a 3 Barwon Park Rd St",
     "sg:city":"Peters",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219770077,
-    "wof:lastmodified":1449073994,
+    "wof:lastmodified":1466191298,
     "wof:name":"Studio Faro Art & Design",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [151.181396,-33.913216,151.181396,-33.913216],
-  "geometry": {"coordinates":[151.181396,-33.913216],"type":"Point"}
+  "bbox": [
+    151.181396,
+    -33.913216,
+    151.181396,
+    -33.913216
+],
+  "geometry": {"coordinates":[151.18139600000001,-33.913216],"type":"Point"}
 }

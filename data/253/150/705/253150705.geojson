@@ -2,13 +2,14 @@
   "id": 253150705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.907074,-27.561506,151.907074,-27.561506",
     "geom:latitude":-27.561506,
     "geom:longitude":151.907074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 5 Cnr McDougall & Carroll Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253150705,
-    "wof:lastmodified":1449062859,
+    "wof:lastmodified":1466189621,
     "wof:name":"Toowoomba Trimming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [151.907074,-27.561506,151.907074,-27.561506],
-  "geometry": {"coordinates":[151.907074,-27.561506],"type":"Point"}
+  "bbox": [
+    151.907074,
+    -27.561506,
+    151.907074,
+    -27.561506
+],
+  "geometry": {"coordinates":[151.90707399999999,-27.561506],"type":"Point"}
 }

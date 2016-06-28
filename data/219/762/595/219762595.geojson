@@ -2,13 +2,14 @@
   "id": 219762595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.455124,-32.362221,152.455124,-32.362221",
     "geom:latitude":-32.362221,
     "geom:longitude":152.455124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Sugarcreek Rd",
     "sg:city":"Bungwahl",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219762595,
-    "wof:lastmodified":1449072891,
+    "wof:lastmodified":1466191275,
     "wof:name":"CK Earthmoving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.455124,-32.362221,152.455124,-32.362221],
-  "geometry": {"coordinates":[152.455124,-32.362221],"type":"Point"}
+  "bbox": [
+    152.455124,
+    -32.362221,
+    152.455124,
+    -32.362221
+],
+  "geometry": {"coordinates":[152.45512400000001,-32.362221],"type":"Point"}
 }

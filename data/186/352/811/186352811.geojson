@@ -2,13 +2,14 @@
   "id": 186352811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.296204,-33.708218,151.296204,-33.708218",
     "geom:latitude":-33.708218,
     "geom:longitude":151.296204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 Pittwater Rd",
     "sg:city":"North Narrabeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186352811,
-    "wof:lastmodified":1449052008,
+    "wof:lastmodified":1466188505,
     "wof:name":"North Narrabeen Chicken Shop",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.296204,-33.708218,151.296204,-33.708218],
-  "geometry": {"coordinates":[151.296204,-33.708218],"type":"Point"}
+  "bbox": [
+    151.296204,
+    -33.708218,
+    151.296204,
+    -33.708218
+],
+  "geometry": {"coordinates":[151.29620399999999,-33.708218],"type":"Point"}
 }

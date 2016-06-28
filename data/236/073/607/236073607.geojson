@@ -2,13 +2,14 @@
   "id": 236073607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.768921,-37.703053,144.768921,-37.703053",
     "geom:latitude":-37.703053,
     "geom:longitude":144.768921,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/55-57 Pecks Rd",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236073607,
-    "wof:lastmodified":1449002016,
+    "wof:lastmodified":1466188098,
     "wof:name":"County Michelle",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [144.768921,-37.703053,144.768921,-37.703053],
-  "geometry": {"coordinates":[144.768921,-37.703053],"type":"Point"}
+  "bbox": [
+    144.768921,
+    -37.703053,
+    144.768921,
+    -37.703053
+],
+  "geometry": {"coordinates":[144.76892100000001,-37.703053],"type":"Point"}
 }

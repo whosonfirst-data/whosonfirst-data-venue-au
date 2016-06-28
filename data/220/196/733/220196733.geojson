@@ -2,13 +2,14 @@
   "id": 220196733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.566605,-38.186954,144.566605,-38.186954",
     "geom:latitude":-38.186954,
     "geom:longitude":144.566605,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Andersons Rd",
     "sg:city":"Drysdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220196733,
-    "wof:lastmodified":1449074219,
+    "wof:lastmodified":1466189369,
     "wof:name":"Williams Tech Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naval"
     ]
 },
-  "bbox": [144.566605,-38.186954,144.566605,-38.186954],
-  "geometry": {"coordinates":[144.566605,-38.186954],"type":"Point"}
+  "bbox": [
+    144.566605,
+    -38.186954,
+    144.566605,
+    -38.186954
+],
+  "geometry": {"coordinates":[144.56660500000001,-38.186954],"type":"Point"}
 }

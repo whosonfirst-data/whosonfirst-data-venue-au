@@ -2,13 +2,14 @@
   "id": 202395243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.749237,-34.596661,138.749237,-34.596661",
     "geom:latitude":-34.596661,
     "geom:longitude":138.749237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1, 105 Murray St",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202395243,
-    "wof:lastmodified":1449062286,
+    "wof:lastmodified":1466187545,
     "wof:name":"Harvey World Travel",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agent"
     ]
 },
-  "bbox": [138.749237,-34.596661,138.749237,-34.596661],
-  "geometry": {"coordinates":[138.749237,-34.596661],"type":"Point"}
+  "bbox": [
+    138.749237,
+    -34.596661,
+    138.749237,
+    -34.596661
+],
+  "geometry": {"coordinates":[138.74923699999999,-34.596661],"type":"Point"}
 }

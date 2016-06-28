@@ -2,13 +2,14 @@
   "id": 219265379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.261047,-38.178616,146.261047,-38.178616",
     "geom:latitude":-38.178616,
     "geom:longitude":146.261047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Langford St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219265379,
-    "wof:lastmodified":1449071604,
+    "wof:lastmodified":1466187244,
     "wof:name":"Senior Citizens Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [146.261047,-38.178616,146.261047,-38.178616],
-  "geometry": {"coordinates":[146.261047,-38.178616],"type":"Point"}
+  "bbox": [
+    146.261047,
+    -38.178616,
+    146.261047,
+    -38.178616
+],
+  "geometry": {"coordinates":[146.26104699999999,-38.178616],"type":"Point"}
 }

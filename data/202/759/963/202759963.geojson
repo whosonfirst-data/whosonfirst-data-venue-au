@@ -2,13 +2,14 @@
   "id": 202759963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.278656,-23.551571,145.278656,-23.551571",
     "geom:latitude":-23.551571,
     "geom:longitude":145.278656,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsborough Hwy",
     "sg:city":"Barcaldine",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202759963,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466189851,
     "wof:name":"Barcaldine Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.278656,-23.551571,145.278656,-23.551571],
-  "geometry": {"coordinates":[145.278656,-23.551571],"type":"Point"}
+  "bbox": [
+    145.278656,
+    -23.551571,
+    145.278656,
+    -23.551571
+],
+  "geometry": {"coordinates":[145.27865600000001,-23.551571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219248855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.013336,-37.780952,145.013336,-37.780952",
     "geom:latitude":-37.780952,
     "geom:longitude":145.013336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Leonard St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219248855,
-    "wof:lastmodified":1449072316,
+    "wof:lastmodified":1466187042,
     "wof:name":"Binary Blue",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "multimedia"
     ]
 },
-  "bbox": [145.013336,-37.780952,145.013336,-37.780952],
-  "geometry": {"coordinates":[145.013336,-37.780952],"type":"Point"}
+  "bbox": [
+    145.013336,
+    -37.780952,
+    145.013336,
+    -37.780952
+],
+  "geometry": {"coordinates":[145.01333600000001,-37.780952],"type":"Point"}
 }

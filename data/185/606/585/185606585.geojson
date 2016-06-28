@@ -2,13 +2,14 @@
   "id": 185606585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.832329,-32.036018,115.832329,-32.036018",
     "geom:latitude":-32.036018,
     "geom:longitude":115.832329,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 25",
     "sg:city":"Garden City House Booragoon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185606585,
-    "wof:lastmodified":1449006862,
+    "wof:lastmodified":1466187129,
     "wof:name":"Booragoon Dental Clinic",
     "wof:parent_id":85775779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.832329,-32.036018,115.832329,-32.036018],
+  "bbox": [
+    115.832329,
+    -32.036018,
+    115.832329,
+    -32.036018
+],
   "geometry": {"coordinates":[115.832329,-32.036018],"type":"Point"}
 }

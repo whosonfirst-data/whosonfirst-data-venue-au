@@ -2,13 +2,14 @@
   "id": 203128899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.724731,-32.535221,115.724731,-32.535221",
     "geom:latitude":-32.535221,
     "geom:longitude":115.724731,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Stevenson St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203128899,
-    "wof:lastmodified":1449025652,
+    "wof:lastmodified":1466189499,
     "wof:name":"Roy Meares Auto Parts",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [115.724731,-32.535221,115.724731,-32.535221],
-  "geometry": {"coordinates":[115.724731,-32.535221],"type":"Point"}
+  "bbox": [
+    115.724731,
+    -32.535221,
+    115.724731,
+    -32.535221
+],
+  "geometry": {"coordinates":[115.72473100000001,-32.535221],"type":"Point"}
 }

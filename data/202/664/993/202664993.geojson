@@ -2,13 +2,14 @@
   "id": 202664993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031464,-27.442551,153.031464,-27.442551",
     "geom:latitude":-27.442551,
     "geom:longitude":153.031464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Earle St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202664993,
-    "wof:lastmodified":1449061047,
+    "wof:lastmodified":1466188170,
     "wof:name":"Brisbane Rust Rid",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rustproofing"
     ]
 },
-  "bbox": [153.031464,-27.442551,153.031464,-27.442551],
+  "bbox": [
+    153.031464,
+    -27.442551,
+    153.031464,
+    -27.442551
+],
   "geometry": {"coordinates":[153.031464,-27.442551],"type":"Point"}
 }

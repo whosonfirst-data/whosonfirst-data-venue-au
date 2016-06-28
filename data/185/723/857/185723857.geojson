@@ -2,13 +2,14 @@
   "id": 185723857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.036209,-32.731716,152.036209,-32.731716",
     "geom:latitude":-32.731716,
     "geom:longitude":152.036209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6/ 44 Cook Pde",
     "sg:city":"Lemon Tree Passage",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185723857,
-    "wof:lastmodified":1449007554,
+    "wof:lastmodified":1466189367,
     "wof:name":"Lemon Tree Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [152.036209,-32.731716,152.036209,-32.731716],
-  "geometry": {"coordinates":[152.036209,-32.731716],"type":"Point"}
+  "bbox": [
+    152.036209,
+    -32.731716,
+    152.036209,
+    -32.731716
+],
+  "geometry": {"coordinates":[152.03620900000001,-32.731716],"type":"Point"}
 }

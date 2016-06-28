@@ -2,13 +2,14 @@
   "id": 219276463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.292511,-38.18388,146.292511,-38.18388",
     "geom:latitude":-38.18388,
     "geom:longitude":146.292511,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65A Monash Rd",
     "sg:city":"Newborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219276463,
-    "wof:lastmodified":1449070498,
+    "wof:lastmodified":1466187333,
     "wof:name":"Rover Constructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.292511,-38.18388,146.292511,-38.18388],
-  "geometry": {"coordinates":[146.292511,-38.18388],"type":"Point"}
+  "bbox": [
+    146.292511,
+    -38.18388,
+    146.292511,
+    -38.18388
+],
+  "geometry": {"coordinates":[146.29251099999999,-38.18388],"type":"Point"}
 }

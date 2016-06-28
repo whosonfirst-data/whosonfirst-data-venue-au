@@ -2,13 +2,14 @@
   "id": 252932869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088745,-26.527058,153.088745,-26.527058",
     "geom:latitude":-26.527058,
     "geom:longitude":153.088745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5-19 Birtwill St",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252932869,
-    "wof:lastmodified":1449005809,
+    "wof:lastmodified":1466189272,
     "wof:name":"R &#039;n&#039; R Osteopathy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [153.088745,-26.527058,153.088745,-26.527058],
-  "geometry": {"coordinates":[153.088745,-26.527058],"type":"Point"}
+  "bbox": [
+    153.088745,
+    -26.527058,
+    153.088745,
+    -26.527058
+],
+  "geometry": {"coordinates":[153.08874499999999,-26.527058],"type":"Point"}
 }

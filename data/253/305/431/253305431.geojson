@@ -2,13 +2,14 @@
   "id": 253305431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.409882,-38.059879,145.409882,-38.059879",
     "geom:latitude":-38.059879,
     "geom:longitude":145.409882,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Tivendale Rd",
     "sg:city":"Officer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253305431,
-    "wof:lastmodified":1449063268,
+    "wof:lastmodified":1466190791,
     "wof:name":"The Trading Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.409882,-38.059879,145.409882,-38.059879],
-  "geometry": {"coordinates":[145.409882,-38.059879],"type":"Point"}
+  "bbox": [
+    145.409882,
+    -38.059879,
+    145.409882,
+    -38.059879
+],
+  "geometry": {"coordinates":[145.40988200000001,-38.059879],"type":"Point"}
 }

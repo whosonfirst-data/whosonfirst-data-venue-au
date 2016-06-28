@@ -2,13 +2,14 @@
   "id": 203138381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.722298,-32.533558,115.722298,-32.533558",
     "geom:latitude":-32.533558,
     "geom:longitude":115.722298,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 9 Sutton Sq",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203138381,
-    "wof:lastmodified":1449025449,
+    "wof:lastmodified":1466189610,
     "wof:name":"Sutton Square Hair & Beauty",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [115.722298,-32.533558,115.722298,-32.533558],
-  "geometry": {"coordinates":[115.722298,-32.533558],"type":"Point"}
+  "bbox": [
+    115.722298,
+    -32.533558,
+    115.722298,
+    -32.533558
+],
+  "geometry": {"coordinates":[115.72229799999999,-32.533558],"type":"Point"}
 }

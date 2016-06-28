@@ -2,13 +2,14 @@
   "id": 202484581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040817,-37.918831,145.040817,-37.918831",
     "geom:latitude":-37.918831,
     "geom:longitude":145.040817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 306, 500 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484581,
-    "wof:lastmodified":1449062500,
+    "wof:lastmodified":1466189279,
     "wof:name":"1st Choice Appointments",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [145.040817,-37.918831,145.040817,-37.918831],
+  "bbox": [
+    145.040817,
+    -37.918831,
+    145.040817,
+    -37.918831
+],
   "geometry": {"coordinates":[145.040817,-37.918831],"type":"Point"}
 }

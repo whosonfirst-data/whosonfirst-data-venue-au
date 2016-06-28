@@ -2,13 +2,14 @@
   "id": 220172833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358521,-38.163048,144.358521,-38.163048",
     "geom:latitude":-38.163048,
     "geom:longitude":144.358521,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220172833,
-    "wof:lastmodified":1449074361,
+    "wof:lastmodified":1466189051,
     "wof:name":"Highmont Glass",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "screen"
     ]
 },
-  "bbox": [144.358521,-38.163048,144.358521,-38.163048],
+  "bbox": [
+    144.358521,
+    -38.163048,
+    144.358521,
+    -38.163048
+],
   "geometry": {"coordinates":[144.358521,-38.163048],"type":"Point"}
 }

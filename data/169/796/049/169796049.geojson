@@ -2,13 +2,14 @@
   "id": 169796049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.588593,-38.6054,145.588593,-38.6054",
     "geom:latitude":-38.6054,
     "geom:longitude":145.588593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5/ 1 Billson St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169796049,
-    "wof:lastmodified":1449034235,
+    "wof:lastmodified":1466188653,
     "wof:name":"South Gippsland Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.588593,-38.6054,145.588593,-38.6054],
+  "bbox": [
+    145.588593,
+    -38.6054,
+    145.588593,
+    -38.6054
+],
   "geometry": {"coordinates":[145.588593,-38.6054],"type":"Point"}
 }

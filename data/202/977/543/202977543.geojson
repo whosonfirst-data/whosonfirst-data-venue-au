@@ -2,13 +2,14 @@
   "id": 202977543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.206955,-33.83754,151.206955,-33.83754",
     "geom:latitude":-33.83754,
     "geom:longitude":151.206955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 24, 100 Miller St",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202977543,
-    "wof:lastmodified":1449062730,
+    "wof:lastmodified":1466191192,
     "wof:name":"WT Partnership",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "quantity"
     ]
 },
-  "bbox": [151.206955,-33.83754,151.206955,-33.83754],
-  "geometry": {"coordinates":[151.206955,-33.83754],"type":"Point"}
+  "bbox": [
+    151.206955,
+    -33.83754,
+    151.206955,
+    -33.83754
+],
+  "geometry": {"coordinates":[151.20695499999999,-33.83754],"type":"Point"}
 }

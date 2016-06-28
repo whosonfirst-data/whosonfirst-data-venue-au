@@ -2,13 +2,14 @@
   "id": 219826607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.810852,-31.977741,115.810852,-31.977741",
     "geom:latitude":-31.977741,
     "geom:longitude":115.810852,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Stirling Highway (Cnr Meriwa Street)",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219826607,
-    "wof:lastmodified":1449072961,
+    "wof:lastmodified":1466191449,
     "wof:name":"Pelican Point Windsurfing",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sailboarding"
     ]
 },
-  "bbox": [115.810852,-31.977741,115.810852,-31.977741],
+  "bbox": [
+    115.810852,
+    -31.977741,
+    115.810852,
+    -31.977741
+],
   "geometry": {"coordinates":[115.810852,-31.977741],"type":"Point"}
 }

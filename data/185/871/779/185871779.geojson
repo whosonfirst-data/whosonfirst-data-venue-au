@@ -2,13 +2,14 @@
   "id": 185871779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.8414,-25.288763,152.8414,-25.288763",
     "geom:latitude":-25.288763,
     "geom:longitude":152.8414,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 26, 81 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185871779,
-    "wof:lastmodified":1449007118,
+    "wof:lastmodified":1466187588,
     "wof:name":"David Bodie",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.8414,-25.288763,152.8414,-25.288763],
-  "geometry": {"coordinates":[152.8414,-25.288763],"type":"Point"}
+  "bbox": [
+    152.8414,
+    -25.288763,
+    152.8414,
+    -25.288763
+],
+  "geometry": {"coordinates":[152.84139999999999,-25.288763],"type":"Point"}
 }

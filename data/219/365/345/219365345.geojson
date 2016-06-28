@@ -2,13 +2,14 @@
   "id": 219365345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.540497,-35.325962,143.540497,-35.325962",
     "geom:latitude":-35.325962,
     "geom:longitude":143.540497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Karinie St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219365345,
-    "wof:lastmodified":1449070956,
+    "wof:lastmodified":1466188056,
     "wof:name":"Jennings Barry & Yvonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [143.540497,-35.325962,143.540497,-35.325962],
-  "geometry": {"coordinates":[143.540497,-35.325962],"type":"Point"}
+  "bbox": [
+    143.540497,
+    -35.325962,
+    143.540497,
+    -35.325962
+],
+  "geometry": {"coordinates":[143.54049699999999,-35.325962],"type":"Point"}
 }

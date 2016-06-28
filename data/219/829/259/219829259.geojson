@@ -2,13 +2,14 @@
   "id": 219829259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.80912,-31.970537,115.80912,-31.970537",
     "geom:latitude":-31.970537,
     "geom:longitude":115.80912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Monash Ave",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219829259,
-    "wof:lastmodified":1449073675,
+    "wof:lastmodified":1466191444,
     "wof:name":"Hollywood Kindergartens",
     "wof:parent_id":85778041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [115.80912,-31.970537,115.80912,-31.970537],
-  "geometry": {"coordinates":[115.80912,-31.970537],"type":"Point"}
+  "bbox": [
+    115.80912,
+    -31.970537,
+    115.80912,
+    -31.970537
+],
+  "geometry": {"coordinates":[115.80911999999999,-31.970537],"type":"Point"}
 }

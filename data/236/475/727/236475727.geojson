@@ -2,13 +2,14 @@
   "id": 236475727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.184341,-21.141184,149.184341,-21.141184",
     "geom:latitude":-21.141184,
     "geom:longitude":149.184341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Victoria St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236475727,
-    "wof:lastmodified":1449002944,
+    "wof:lastmodified":1466191327,
     "wof:name":"Subway Mackay",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [149.184341,-21.141184,149.184341,-21.141184],
-  "geometry": {"coordinates":[149.184341,-21.141184],"type":"Point"}
+  "bbox": [
+    149.184341,
+    -21.141184,
+    149.184341,
+    -21.141184
+],
+  "geometry": {"coordinates":[149.18434099999999,-21.141184],"type":"Point"}
 }

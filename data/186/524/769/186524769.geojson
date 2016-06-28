@@ -2,13 +2,14 @@
   "id": 186524769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.891098,-31.928253,115.891098,-31.928253",
     "geom:latitude":-31.928253,
     "geom:longitude":115.891098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Eighth Ave",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186524769,
-    "wof:lastmodified":1449050226,
+    "wof:lastmodified":1466190839,
     "wof:name":"Eighth Avenue Coiffure",
     "wof:parent_id":85769691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.891098,-31.928253,115.891098,-31.928253],
+  "bbox": [
+    115.891098,
+    -31.928253,
+    115.891098,
+    -31.928253
+],
   "geometry": {"coordinates":[115.891098,-31.928253],"type":"Point"}
 }

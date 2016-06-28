@@ -2,13 +2,14 @@
   "id": 169749851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.111847,-27.201099,153.111847,-27.201099",
     "geom:latitude":-27.201099,
     "geom:longitude":153.111847,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Turner St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169749851,
-    "wof:lastmodified":1449033623,
+    "wof:lastmodified":1466187817,
     "wof:name":"Daneborough Holdings Pty Ltd",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.111847,-27.201099,153.111847,-27.201099],
-  "geometry": {"coordinates":[153.111847,-27.201099],"type":"Point"}
+  "bbox": [
+    153.111847,
+    -27.201099,
+    153.111847,
+    -27.201099
+],
+  "geometry": {"coordinates":[153.11184700000001,-27.201099],"type":"Point"}
 }

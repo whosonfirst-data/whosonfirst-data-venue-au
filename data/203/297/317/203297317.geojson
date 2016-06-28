@@ -2,13 +2,14 @@
   "id": 203297317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.145508,-33.087349,147.145508,-33.087349",
     "geom:latitude":-33.087349,
     "geom:longitude":147.145508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Medical Centre 3 Melrose St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203297317,
-    "wof:lastmodified":1449026180,
+    "wof:lastmodified":1466187926,
     "wof:name":"Gindi M Dr .",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [147.145508,-33.087349,147.145508,-33.087349],
-  "geometry": {"coordinates":[147.145508,-33.087349],"type":"Point"}
+  "bbox": [
+    147.145508,
+    -33.087349,
+    147.145508,
+    -33.087349
+],
+  "geometry": {"coordinates":[147.14550800000001,-33.087349],"type":"Point"}
 }

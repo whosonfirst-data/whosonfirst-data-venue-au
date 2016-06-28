@@ -2,13 +2,14 @@
   "id": 236806673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.871414,-34.472103,150.871414,-34.472103",
     "geom:latitude":-34.472103,
     "geom:longitude":150.871414,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Lake Ave",
     "sg:city":"Cringila",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236806673,
-    "wof:lastmodified":1449001668,
+    "wof:lastmodified":1466191959,
     "wof:name":"Michael's Cellars",
     "wof:parent_id":85769125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [150.871414,-34.472103,150.871414,-34.472103],
-  "geometry": {"coordinates":[150.871414,-34.472103],"type":"Point"}
+  "bbox": [
+    150.871414,
+    -34.472103,
+    150.871414,
+    -34.472103
+],
+  "geometry": {"coordinates":[150.87141399999999,-34.472103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186033401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.421036,-33.325459,151.421036,-33.325459",
     "geom:latitude":-33.325459,
     "geom:longitude":151.421036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 1 Newbridge Rd",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186033401,
-    "wof:lastmodified":1449050959,
+    "wof:lastmodified":1466187948,
     "wof:name":"Pryor Plant Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.421036,-33.325459,151.421036,-33.325459],
-  "geometry": {"coordinates":[151.421036,-33.325459],"type":"Point"}
+  "bbox": [
+    151.421036,
+    -33.325459,
+    151.421036,
+    -33.325459
+],
+  "geometry": {"coordinates":[151.42103599999999,-33.325459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185865169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.847076,-25.303585,152.847076,-25.303585",
     "geom:latitude":-25.303585,
     "geom:longitude":152.847076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Snapper St",
     "sg:city":"Kawungan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185865169,
-    "wof:lastmodified":1449007828,
+    "wof:lastmodified":1466187514,
     "wof:name":"Twidale Electrical",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.847076,-25.303585,152.847076,-25.303585],
-  "geometry": {"coordinates":[152.847076,-25.303585],"type":"Point"}
+  "bbox": [
+    152.847076,
+    -25.303585,
+    152.847076,
+    -25.303585
+],
+  "geometry": {"coordinates":[152.84707599999999,-25.303585],"type":"Point"}
 }

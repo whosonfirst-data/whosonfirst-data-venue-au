@@ -2,13 +2,14 @@
   "id": 252754331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.645348,-33.380112,115.645348,-33.380112",
     "geom:latitude":-33.380112,
     "geom:longitude":115.645348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1068",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252754331,
-    "wof:lastmodified":1449006113,
+    "wof:lastmodified":1466187720,
     "wof:name":"MJs Timber Floors",
     "wof:parent_id":85780325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [115.645348,-33.380112,115.645348,-33.380112],
+  "bbox": [
+    115.645348,
+    -33.380112,
+    115.645348,
+    -33.380112
+],
   "geometry": {"coordinates":[115.645348,-33.380112],"type":"Point"}
 }

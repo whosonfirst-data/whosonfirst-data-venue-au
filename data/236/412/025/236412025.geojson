@@ -2,13 +2,14 @@
   "id": 236412025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.81691,-32.167213,115.81691,-32.167213",
     "geom:latitude":-32.167213,
     "geom:longitude":115.81691,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Mortimer Rd",
     "sg:city":"Wattleup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236412025,
-    "wof:lastmodified":1449002182,
+    "wof:lastmodified":1466191055,
     "wof:name":"Direct Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [115.81691,-32.167213,115.81691,-32.167213],
-  "geometry": {"coordinates":[115.81691,-32.167213],"type":"Point"}
+  "bbox": [
+    115.81691,
+    -32.167213,
+    115.81691,
+    -32.167213
+],
+  "geometry": {"coordinates":[115.81690999999999,-32.167213],"type":"Point"}
 }

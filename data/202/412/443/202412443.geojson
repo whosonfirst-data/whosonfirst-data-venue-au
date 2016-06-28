@@ -2,13 +2,14 @@
   "id": 202412443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.938782,-37.827179,144.938782,-37.827179",
     "geom:latitude":-37.827179,
     "geom:longitude":144.938782,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Ingles St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202412443,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466187962,
     "wof:name":"DDJ Corporation",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jukebox"
     ]
 },
-  "bbox": [144.938782,-37.827179,144.938782,-37.827179],
+  "bbox": [
+    144.938782,
+    -37.827179,
+    144.938782,
+    -37.827179
+],
   "geometry": {"coordinates":[144.938782,-37.827179],"type":"Point"}
 }

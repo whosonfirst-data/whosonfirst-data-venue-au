@@ -2,13 +2,14 @@
   "id": 203325805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.826355,-37.587177,143.826355,-37.587177",
     "geom:latitude":-37.587177,
     "geom:longitude":143.826355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Hertford St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203325805,
-    "wof:lastmodified":1449025652,
+    "wof:lastmodified":1466188339,
     "wof:name":"Vin Rowe Farm Machinery Ballarat",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [143.826355,-37.587177,143.826355,-37.587177],
-  "geometry": {"coordinates":[143.826355,-37.587177],"type":"Point"}
+  "bbox": [
+    143.826355,
+    -37.587177,
+    143.826355,
+    -37.587177
+],
+  "geometry": {"coordinates":[143.82635500000001,-37.587177],"type":"Point"}
 }

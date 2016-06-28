@@ -2,13 +2,14 @@
   "id": 203162833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.997864,-36.548313,145.997864,-36.548313",
     "geom:latitude":-36.548313,
     "geom:longitude":145.997864,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sydney Rd",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203162833,
-    "wof:lastmodified":1449026574,
+    "wof:lastmodified":1466189743,
     "wof:name":"Ryan & McNulty Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmillers"
     ]
 },
-  "bbox": [145.997864,-36.548313,145.997864,-36.548313],
-  "geometry": {"coordinates":[145.997864,-36.548313],"type":"Point"}
+  "bbox": [
+    145.997864,
+    -36.548313,
+    145.997864,
+    -36.548313
+],
+  "geometry": {"coordinates":[145.99786399999999,-36.548313],"type":"Point"}
 }

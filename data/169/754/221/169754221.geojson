@@ -2,13 +2,14 @@
   "id": 169754221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.100861,-27.228075,153.100861,-27.228075",
     "geom:latitude":-27.228075,
     "geom:longitude":153.100861,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Cinnamon Crt",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169754221,
-    "wof:lastmodified":1449034850,
+    "wof:lastmodified":1466187930,
     "wof:name":"Jimmy Gladman Plumbing",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.100861,-27.228075,153.100861,-27.228075],
-  "geometry": {"coordinates":[153.100861,-27.228075],"type":"Point"}
+  "bbox": [
+    153.100861,
+    -27.228075,
+    153.100861,
+    -27.228075
+],
+  "geometry": {"coordinates":[153.10086100000001,-27.228075],"type":"Point"}
 }

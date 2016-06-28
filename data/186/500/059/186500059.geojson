@@ -2,13 +2,14 @@
   "id": 186500059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.756241,-19.267601,146.756241,-19.267601",
     "geom:latitude":-19.267601,
     "geom:longitude":146.756241,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"467 - 481 Woolcock St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186500059,
-    "wof:lastmodified":1449051058,
+    "wof:lastmodified":1466190509,
     "wof:name":"Energy Power Systems Australia Pty Ltd",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "generator"
     ]
 },
-  "bbox": [146.756241,-19.267601,146.756241,-19.267601],
-  "geometry": {"coordinates":[146.756241,-19.267601],"type":"Point"}
+  "bbox": [
+    146.756241,
+    -19.267601,
+    146.756241,
+    -19.267601
+],
+  "geometry": {"coordinates":[146.75624099999999,-19.267601],"type":"Point"}
 }

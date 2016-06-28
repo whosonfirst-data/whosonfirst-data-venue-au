@@ -2,13 +2,14 @@
   "id": 186402291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.802704,-19.268345,146.802704,-19.268345",
     "geom:latitude":-19.268345,
     "geom:longitude":146.802704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186402291,
-    "wof:lastmodified":1449051244,
+    "wof:lastmodified":1466189346,
     "wof:name":"Parkes Instruments",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument"
     ]
 },
-  "bbox": [146.802704,-19.268345,146.802704,-19.268345],
-  "geometry": {"coordinates":[146.802704,-19.268345],"type":"Point"}
+  "bbox": [
+    146.802704,
+    -19.268345,
+    146.802704,
+    -19.268345
+],
+  "geometry": {"coordinates":[146.80270400000001,-19.268345],"type":"Point"}
 }

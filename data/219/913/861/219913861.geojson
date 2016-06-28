@@ -2,13 +2,14 @@
   "id": 219913861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.899872,-34.359291,150.899872,-34.359291",
     "geom:latitude":-34.359291,
     "geom:longitude":150.899872,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Princes Hwy",
     "sg:city":"Russell Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219913861,
-    "wof:lastmodified":1449071751,
+    "wof:lastmodified":1466191623,
     "wof:name":"Northern Image Picture Framing",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laminating"
     ]
 },
-  "bbox": [150.899872,-34.359291,150.899872,-34.359291],
-  "geometry": {"coordinates":[150.899872,-34.359291],"type":"Point"}
+  "bbox": [
+    150.899872,
+    -34.359291,
+    150.899872,
+    -34.359291
+],
+  "geometry": {"coordinates":[150.89987199999999,-34.359291],"type":"Point"}
 }

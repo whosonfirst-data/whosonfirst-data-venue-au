@@ -2,13 +2,14 @@
   "id": 186468319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.16246,-33.880936,151.16246,-33.880936",
     "geom:latitude":-33.880936,
     "geom:longitude":151.16246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Coleridge St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186468319,
-    "wof:lastmodified":1449052280,
+    "wof:lastmodified":1466190404,
     "wof:name":"Leichhardt Framing",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [151.16246,-33.880936,151.16246,-33.880936],
-  "geometry": {"coordinates":[151.16246,-33.880936],"type":"Point"}
+  "bbox": [
+    151.16246,
+    -33.880936,
+    151.16246,
+    -33.880936
+],
+  "geometry": {"coordinates":[151.16246000000001,-33.880936],"type":"Point"}
 }

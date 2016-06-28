@@ -2,13 +2,14 @@
   "id": 219398973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.000229,-27.989708,153.000229,-27.989708",
     "geom:latitude":-27.989708,
     "geom:longitude":153.000229,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Duckett St",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219398973,
-    "wof:lastmodified":1449070675,
+    "wof:lastmodified":1466188361,
     "wof:name":"Beaudesert Doctors Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.000229,-27.989708,153.000229,-27.989708],
-  "geometry": {"coordinates":[153.000229,-27.989708],"type":"Point"}
+  "bbox": [
+    153.000229,
+    -27.989708,
+    153.000229,
+    -27.989708
+],
+  "geometry": {"coordinates":[153.00022899999999,-27.989708],"type":"Point"}
 }

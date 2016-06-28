@@ -2,13 +2,14 @@
   "id": 235981561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.833603,-37.374825,140.833603,-37.374825",
     "geom:latitude":-37.374825,
     "geom:longitude":140.833603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Robe Rd",
     "sg:city":"Penola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235981561,
-    "wof:lastmodified":1449008606,
+    "wof:lastmodified":1466187518,
     "wof:name":"PN & EJ Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [140.833603,-37.374825,140.833603,-37.374825],
-  "geometry": {"coordinates":[140.833603,-37.374825],"type":"Point"}
+  "bbox": [
+    140.833603,
+    -37.374825,
+    140.833603,
+    -37.374825
+],
+  "geometry": {"coordinates":[140.83360300000001,-37.374825],"type":"Point"}
 }

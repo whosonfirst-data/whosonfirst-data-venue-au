@@ -2,13 +2,14 @@
   "id": 186528605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.848495,-19.153242,146.848495,-19.153242",
     "geom:latitude":-19.153242,
     "geom:longitude":146.848495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 137",
     "sg:city":"Magnetic Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186528605,
-    "wof:lastmodified":1449051102,
+    "wof:lastmodified":1466190723,
     "wof:name":"Reef EcoTours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pollution"
     ]
 },
-  "bbox": [146.848495,-19.153242,146.848495,-19.153242],
-  "geometry": {"coordinates":[146.848495,-19.153242],"type":"Point"}
+  "bbox": [
+    146.848495,
+    -19.153242,
+    146.848495,
+    -19.153242
+],
+  "geometry": {"coordinates":[146.84849500000001,-19.153242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202376429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.754044,-34.591755,138.754044,-34.591755",
     "geom:latitude":-34.591755,
     "geom:longitude":138.754044,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hutchinson Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202376429,
-    "wof:lastmodified":1449060979,
+    "wof:lastmodified":1466186972,
     "wof:name":"Rundle Physiotherapy",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [138.754044,-34.591755,138.754044,-34.591755],
-  "geometry": {"coordinates":[138.754044,-34.591755],"type":"Point"}
+  "bbox": [
+    138.754044,
+    -34.591755,
+    138.754044,
+    -34.591755
+],
+  "geometry": {"coordinates":[138.75404399999999,-34.591755],"type":"Point"}
 }

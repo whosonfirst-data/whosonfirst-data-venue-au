@@ -2,13 +2,14 @@
   "id": 203000811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.490311,-20.727152,139.490311,-20.727152",
     "geom:latitude":-20.727152,
     "geom:longitude":139.490311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3- 8 West St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203000811,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466186958,
     "wof:name":"Eagle Boys Pizza - Mount Isa",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [139.490311,-20.727152,139.490311,-20.727152],
-  "geometry": {"coordinates":[139.490311,-20.727152],"type":"Point"}
+  "bbox": [
+    139.490311,
+    -20.727152,
+    139.490311,
+    -20.727152
+],
+  "geometry": {"coordinates":[139.49031099999999,-20.727152],"type":"Point"}
 }

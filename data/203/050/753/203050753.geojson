@@ -2,13 +2,14 @@
   "id": 203050753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.350204,-36.268879,143.350204,-36.268879",
     "geom:latitude":-36.268879,
     "geom:longitude":143.350204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Waugh St",
     "sg:city":"Charlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203050753,
-    "wof:lastmodified":1449025988,
+    "wof:lastmodified":1466188236,
     "wof:name":"Addlem Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [143.350204,-36.268879,143.350204,-36.268879],
-  "geometry": {"coordinates":[143.350204,-36.268879],"type":"Point"}
+  "bbox": [
+    143.350204,
+    -36.268879,
+    143.350204,
+    -36.268879
+],
+  "geometry": {"coordinates":[143.35020399999999,-36.268879],"type":"Point"}
 }

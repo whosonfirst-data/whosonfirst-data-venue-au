@@ -2,13 +2,14 @@
   "id": 236229445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.499741,-38.069466,145.499741,-38.069466",
     "geom:latitude":-38.069466,
     "geom:longitude":145.499741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Dunbarton Drv",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236229445,
-    "wof:lastmodified":1449004445,
+    "wof:lastmodified":1466190015,
     "wof:name":"ABC Pakenham East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.499741,-38.069466,145.499741,-38.069466],
+  "bbox": [
+    145.499741,
+    -38.069466,
+    145.499741,
+    -38.069466
+],
   "geometry": {"coordinates":[145.499741,-38.069466],"type":"Point"}
 }

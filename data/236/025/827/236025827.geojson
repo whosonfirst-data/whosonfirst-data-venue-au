@@ -2,13 +2,14 @@
   "id": 236025827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.259628,-43.023861,147.259628,-43.023861",
     "geom:latitude":-43.023861,
     "geom:longitude":147.259628,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1683 Channel Hwy",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236025827,
-    "wof:lastmodified":1449004592,
+    "wof:lastmodified":1466187215,
     "wof:name":"Pear Ridge Restaurant Cafe/Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.259628,-43.023861,147.259628,-43.023861],
-  "geometry": {"coordinates":[147.259628,-43.023861],"type":"Point"}
+  "bbox": [
+    147.259628,
+    -43.023861,
+    147.259628,
+    -43.023861
+],
+  "geometry": {"coordinates":[147.25962799999999,-43.023861],"type":"Point"}
 }

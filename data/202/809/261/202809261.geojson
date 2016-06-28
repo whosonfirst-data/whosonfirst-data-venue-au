@@ -2,13 +2,14 @@
   "id": 202809261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.685104,-32.934143,151.685104,-32.934143",
     "geom:latitude":-32.934143,
     "geom:longitude":151.685104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50a Mountain View Pde",
     "sg:city":"New Lambton Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202809261,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466190359,
     "wof:name":"Tony Di Rico",
     "wof:parent_id":85776175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.685104,-32.934143,151.685104,-32.934143],
+  "bbox": [
+    151.685104,
+    -32.934143,
+    151.685104,
+    -32.934143
+],
   "geometry": {"coordinates":[151.685104,-32.934143],"type":"Point"}
 }

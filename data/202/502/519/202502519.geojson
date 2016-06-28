@@ -2,13 +2,14 @@
   "id": 202502519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.035095,-37.903423,145.035095,-37.903423",
     "geom:latitude":-37.903423,
     "geom:longitude":145.035095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 1, 442 - 444 North St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202502519,
-    "wof:lastmodified":1449061290,
+    "wof:lastmodified":1466189547,
     "wof:name":"Commonwealth Bank Business Banking Centre Southern",
     "wof:parent_id":85775357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.035095,-37.903423,145.035095,-37.903423],
-  "geometry": {"coordinates":[145.035095,-37.903423],"type":"Point"}
+  "bbox": [
+    145.035095,
+    -37.903423,
+    145.035095,
+    -37.903423
+],
+  "geometry": {"coordinates":[145.03509500000001,-37.903423],"type":"Point"}
 }

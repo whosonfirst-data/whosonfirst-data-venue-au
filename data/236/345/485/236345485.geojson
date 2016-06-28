@@ -2,13 +2,14 @@
   "id": 236345485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.808571,-32.057358,115.808571,-32.057358",
     "geom:latitude":-32.057358,
     "geom:longitude":115.808571,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Moir Rd",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236345485,
-    "wof:lastmodified":1449004937,
+    "wof:lastmodified":1466190697,
     "wof:name":"Nova Window Cleaning",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [115.808571,-32.057358,115.808571,-32.057358],
+  "bbox": [
+    115.808571,
+    -32.057358,
+    115.808571,
+    -32.057358
+],
   "geometry": {"coordinates":[115.808571,-32.057358],"type":"Point"}
 }

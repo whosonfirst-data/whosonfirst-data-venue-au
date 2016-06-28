@@ -2,13 +2,14 @@
   "id": 186399701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.752899,-19.268108,146.752899,-19.268108",
     "geom:latitude":-19.268108,
     "geom:longitude":146.752899,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6- 264 Woolcock St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186399701,
-    "wof:lastmodified":1449050892,
+    "wof:lastmodified":1466189300,
     "wof:name":"Beaumont Tiles",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [146.752899,-19.268108,146.752899,-19.268108],
-  "geometry": {"coordinates":[146.752899,-19.268108],"type":"Point"}
+  "bbox": [
+    146.752899,
+    -19.268108,
+    146.752899,
+    -19.268108
+],
+  "geometry": {"coordinates":[146.75289900000001,-19.268108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186080325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.795456,-31.650377,152.795456,-31.650377",
     "geom:latitude":-31.650377,
     "geom:longitude":152.795456,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 10 Seymour St",
     "sg:city":"Laurieton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186080325,
-    "wof:lastmodified":1449052964,
+    "wof:lastmodified":1466188923,
     "wof:name":"Camden Haven Laundry Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.795456,-31.650377,152.795456,-31.650377],
+  "bbox": [
+    152.795456,
+    -31.650377,
+    152.795456,
+    -31.650377
+],
   "geometry": {"coordinates":[152.795456,-31.650377],"type":"Point"}
 }

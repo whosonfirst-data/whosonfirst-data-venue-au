@@ -2,13 +2,14 @@
   "id": 202733267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.650665,-34.781101,138.650665,-34.781101",
     "geom:latitude":-34.781101,
     "geom:longitude":138.650665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Frost Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202733267,
-    "wof:lastmodified":1449060458,
+    "wof:lastmodified":1466189463,
     "wof:name":"Adelaide & Metropolitan",
     "wof:parent_id":85777601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [138.650665,-34.781101,138.650665,-34.781101],
+  "bbox": [
+    138.650665,
+    -34.781101,
+    138.650665,
+    -34.781101
+],
   "geometry": {"coordinates":[138.650665,-34.781101],"type":"Point"}
 }

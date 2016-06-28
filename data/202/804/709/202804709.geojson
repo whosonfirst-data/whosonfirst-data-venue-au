@@ -2,13 +2,14 @@
   "id": 202804709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.766327,-32.929897,151.766327,-32.929897",
     "geom:latitude":-32.929897,
     "geom:longitude":151.766327,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Union St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202804709,
-    "wof:lastmodified":1449061859,
+    "wof:lastmodified":1466190335,
     "wof:name":"Earp Bros Tiles And Bathrooms",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [151.766327,-32.929897,151.766327,-32.929897],
-  "geometry": {"coordinates":[151.766327,-32.929897],"type":"Point"}
+  "bbox": [
+    151.766327,
+    -32.929897,
+    151.766327,
+    -32.929897
+],
+  "geometry": {"coordinates":[151.76632699999999,-32.929897],"type":"Point"}
 }

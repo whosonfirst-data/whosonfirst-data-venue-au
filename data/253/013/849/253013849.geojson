@@ -2,13 +2,14 @@
   "id": 253013849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.719696,-37.870537,144.719696,-37.870537",
     "geom:latitude":-37.870537,
     "geom:longitude":144.719696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75-77 Elm Park Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253013849,
-    "wof:lastmodified":1449064844,
+    "wof:lastmodified":1466187188,
     "wof:name":"Boxing Fit",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.719696,-37.870537,144.719696,-37.870537],
+  "bbox": [
+    144.719696,
+    -37.870537,
+    144.719696,
+    -37.870537
+],
   "geometry": {"coordinates":[144.719696,-37.870537],"type":"Point"}
 }

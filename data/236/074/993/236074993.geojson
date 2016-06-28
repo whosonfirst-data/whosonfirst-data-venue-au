@@ -2,13 +2,14 @@
   "id": 236074993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.748062,-37.684296,144.748062,-37.684296",
     "geom:latitude":-37.684296,
     "geom:longitude":144.748062,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Sandalwood Ave",
     "sg:city":"Hillside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236074993,
-    "wof:lastmodified":1449003431,
+    "wof:lastmodified":1466188123,
     "wof:name":"MGS Grounds Maintenance",
     "wof:parent_id":85777835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.748062,-37.684296,144.748062,-37.684296],
+  "bbox": [
+    144.748062,
+    -37.684296,
+    144.748062,
+    -37.684296
+],
   "geometry": {"coordinates":[144.748062,-37.684296],"type":"Point"}
 }

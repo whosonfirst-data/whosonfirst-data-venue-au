@@ -2,13 +2,14 @@
   "id": 235953865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.894302,-12.375993,130.894302,-12.375993",
     "geom:latitude":-12.375993,
     "geom:longitude":130.894302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Castlereigh Drv",
     "sg:city":"Leanyer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235953865,
-    "wof:lastmodified":1449008473,
+    "wof:lastmodified":1466187108,
     "wof:name":"Darwin Enterprise",
     "wof:parent_id":85774863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [130.894302,-12.375993,130.894302,-12.375993],
-  "geometry": {"coordinates":[130.894302,-12.375993],"type":"Point"}
+  "bbox": [
+    130.894302,
+    -12.375993,
+    130.894302,
+    -12.375993
+],
+  "geometry": {"coordinates":[130.89430200000001,-12.375993],"type":"Point"}
 }

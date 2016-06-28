@@ -2,13 +2,14 @@
   "id": 202489321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.03392,-37.917984,145.03392,-37.917984",
     "geom:latitude":-37.917984,
     "geom:longitude":145.03392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202489321,
-    "wof:lastmodified":1449061495,
+    "wof:lastmodified":1466189390,
     "wof:name":"Paterson's Cakes",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [145.03392,-37.917984,145.03392,-37.917984],
-  "geometry": {"coordinates":[145.03392,-37.917984],"type":"Point"}
+  "bbox": [
+    145.03392,
+    -37.917984,
+    145.03392,
+    -37.917984
+],
+  "geometry": {"coordinates":[145.03391999999999,-37.917984],"type":"Point"}
 }

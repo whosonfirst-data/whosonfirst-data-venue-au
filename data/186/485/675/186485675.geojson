@@ -2,13 +2,14 @@
   "id": 186485675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.754623,-19.270712,146.754623,-19.270712",
     "geom:latitude":-19.270712,
     "geom:longitude":146.754623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 14 Whitehouse St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186485675,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466190433,
     "wof:name":"Battery Specialties - Townsville",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [146.754623,-19.270712,146.754623,-19.270712],
-  "geometry": {"coordinates":[146.754623,-19.270712],"type":"Point"}
+  "bbox": [
+    146.754623,
+    -19.270712,
+    146.754623,
+    -19.270712
+],
+  "geometry": {"coordinates":[146.75462300000001,-19.270712],"type":"Point"}
 }

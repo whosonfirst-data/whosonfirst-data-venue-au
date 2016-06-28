@@ -2,13 +2,14 @@
   "id": 202546487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.046432,-42.782551,147.046432,-42.782551",
     "geom:latitude":-42.782551,
     "geom:longitude":147.046432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Glenora Rd",
     "sg:city":"New Norfolk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202546487,
-    "wof:lastmodified":1449060106,
+    "wof:lastmodified":1466189911,
     "wof:name":"The Shingles Riverside Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.046432,-42.782551,147.046432,-42.782551],
-  "geometry": {"coordinates":[147.046432,-42.782551],"type":"Point"}
+  "bbox": [
+    147.046432,
+    -42.782551,
+    147.046432,
+    -42.782551
+],
+  "geometry": {"coordinates":[147.04643200000001,-42.782551],"type":"Point"}
 }

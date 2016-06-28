@@ -2,13 +2,14 @@
   "id": 236067001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.806046,-37.69928,144.806046,-37.69928",
     "geom:latitude":-37.69928,
     "geom:longitude":144.806046,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Santa Monica Drv",
     "sg:city":"Keilor North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236067001,
-    "wof:lastmodified":1449001838,
+    "wof:lastmodified":1466187969,
     "wof:name":"Catholic Regional College North Keilor",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [144.806046,-37.69928,144.806046,-37.69928],
-  "geometry": {"coordinates":[144.806046,-37.69928],"type":"Point"}
+  "bbox": [
+    144.806046,
+    -37.69928,
+    144.806046,
+    -37.69928
+],
+  "geometry": {"coordinates":[144.80604600000001,-37.69928],"type":"Point"}
 }

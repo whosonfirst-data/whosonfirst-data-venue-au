@@ -2,13 +2,14 @@
   "id": 236069507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.741013,-37.68972,144.741013,-37.68972",
     "geom:latitude":-37.68972,
     "geom:longitude":144.741013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Greybox Crt",
     "sg:city":"Hillside",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236069507,
-    "wof:lastmodified":1449003793,
+    "wof:lastmodified":1466188021,
     "wof:name":"Australian Lending Group",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.741013,-37.68972,144.741013,-37.68972],
-  "geometry": {"coordinates":[144.741013,-37.68972],"type":"Point"}
+  "bbox": [
+    144.741013,
+    -37.68972,
+    144.741013,
+    -37.68972
+],
+  "geometry": {"coordinates":[144.74101300000001,-37.68972],"type":"Point"}
 }

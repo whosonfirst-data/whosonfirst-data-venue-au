@@ -2,13 +2,14 @@
   "id": 202440161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959534,-37.831108,144.959534,-37.831108",
     "geom:latitude":-37.831108,
     "geom:longitude":144.959534,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Clarendon St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202440161,
-    "wof:lastmodified":1449061000,
+    "wof:lastmodified":1466188590,
     "wof:name":"Patersons Cakes",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.959534,-37.831108,144.959534,-37.831108],
-  "geometry": {"coordinates":[144.959534,-37.831108],"type":"Point"}
+  "bbox": [
+    144.959534,
+    -37.831108,
+    144.959534,
+    -37.831108
+],
+  "geometry": {"coordinates":[144.95953399999999,-37.831108],"type":"Point"}
 }

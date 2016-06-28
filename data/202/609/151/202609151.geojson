@@ -2,13 +2,14 @@
   "id": 202609151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.691376,-33.730625,150.691376,-33.730625",
     "geom:latitude":-33.730625,
     "geom:longitude":150.691376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19- 23 Leland St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202609151,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466187422,
     "wof:name":"Metalcorp Steel",
     "wof:parent_id":85777031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [150.691376,-33.730625,150.691376,-33.730625],
-  "geometry": {"coordinates":[150.691376,-33.730625],"type":"Point"}
+  "bbox": [
+    150.691376,
+    -33.730625,
+    150.691376,
+    -33.730625
+],
+  "geometry": {"coordinates":[150.69137599999999,-33.730625],"type":"Point"}
 }

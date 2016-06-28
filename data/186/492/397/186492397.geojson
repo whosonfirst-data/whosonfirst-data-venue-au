@@ -2,13 +2,14 @@
   "id": 186492397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.751556,-19.272055,146.751556,-19.272055",
     "geom:latitude":-19.272055,
     "geom:longitude":146.751556,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186492397,
-    "wof:lastmodified":1449050249,
+    "wof:lastmodified":1466190324,
     "wof:name":"Mitchelweld",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [146.751556,-19.272055,146.751556,-19.272055],
-  "geometry": {"coordinates":[146.751556,-19.272055],"type":"Point"}
+  "bbox": [
+    146.751556,
+    -19.272055,
+    146.751556,
+    -19.272055
+],
+  "geometry": {"coordinates":[146.75155599999999,-19.272055],"type":"Point"}
 }

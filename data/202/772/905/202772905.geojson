@@ -2,13 +2,14 @@
   "id": 202772905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.782303,-32.926937,151.782303,-32.926937",
     "geom:latitude":-32.926937,
     "geom:longitude":151.782303,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 4 7 Newcomen St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202772905,
-    "wof:lastmodified":1449061264,
+    "wof:lastmodified":1466190231,
     "wof:name":"Insight Financial Services",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.782303,-32.926937,151.782303,-32.926937],
-  "geometry": {"coordinates":[151.782303,-32.926937],"type":"Point"}
+  "bbox": [
+    151.782303,
+    -32.926937,
+    151.782303,
+    -32.926937
+],
+  "geometry": {"coordinates":[151.78230300000001,-32.926937],"type":"Point"}
 }

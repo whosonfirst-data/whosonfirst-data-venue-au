@@ -2,13 +2,14 @@
   "id": 185956031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.466705,-33.406094,151.466705,-33.406094",
     "geom:latitude":-33.406094,
     "geom:longitude":151.466705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Forresters Beach Rd",
     "sg:city":"Forresters Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185956031,
-    "wof:lastmodified":1449006882,
+    "wof:lastmodified":1466188514,
     "wof:name":"Central Coast Weddings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [151.466705,-33.406094,151.466705,-33.406094],
-  "geometry": {"coordinates":[151.466705,-33.406094],"type":"Point"}
+  "bbox": [
+    151.466705,
+    -33.406094,
+    151.466705,
+    -33.406094
+],
+  "geometry": {"coordinates":[151.46670499999999,-33.406094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202740469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.931038,-32.044113,115.931038,-32.044113",
     "geom:latitude":-32.044113,
     "geom:longitude":115.931038,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Finchley St",
     "sg:city":"Lynwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202740469,
-    "wof:lastmodified":1449061282,
+    "wof:lastmodified":1466189540,
     "wof:name":"City Maxi's Bus Charters",
     "wof:parent_id":85778007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cycle"
     ]
 },
-  "bbox": [115.931038,-32.044113,115.931038,-32.044113],
+  "bbox": [
+    115.931038,
+    -32.044113,
+    115.931038,
+    -32.044113
+],
   "geometry": {"coordinates":[115.931038,-32.044113],"type":"Point"}
 }

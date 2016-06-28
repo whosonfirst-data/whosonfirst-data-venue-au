@@ -2,13 +2,14 @@
   "id": 236329557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.749969,-32.059128,115.749969,-32.059128",
     "geom:latitude":-32.059128,
     "geom:longitude":115.749969,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Arundel St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236329557,
-    "wof:lastmodified":1449002385,
+    "wof:lastmodified":1466190676,
     "wof:name":"Appleyard Carolyn Pty Ltd",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "auditor"
     ]
 },
-  "bbox": [115.749969,-32.059128,115.749969,-32.059128],
-  "geometry": {"coordinates":[115.749969,-32.059128],"type":"Point"}
+  "bbox": [
+    115.749969,
+    -32.059128,
+    115.749969,
+    -32.059128
+],
+  "geometry": {"coordinates":[115.74996899999999,-32.059128],"type":"Point"}
 }

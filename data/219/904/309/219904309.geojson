@@ -2,13 +2,14 @@
   "id": 219904309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.950531,-34.274723,150.950531,-34.274723",
     "geom:latitude":-34.274723,
     "geom:longitude":150.950531,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Clutha Pl",
     "sg:city":"Wombarra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219904309,
-    "wof:lastmodified":1449074007,
+    "wof:lastmodified":1466191723,
     "wof:name":"Margaret Rahmann",
     "wof:parent_id":85770641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [150.950531,-34.274723,150.950531,-34.274723],
-  "geometry": {"coordinates":[150.950531,-34.274723],"type":"Point"}
+  "bbox": [
+    150.950531,
+    -34.274723,
+    150.950531,
+    -34.274723
+],
+  "geometry": {"coordinates":[150.95053100000001,-34.274723],"type":"Point"}
 }

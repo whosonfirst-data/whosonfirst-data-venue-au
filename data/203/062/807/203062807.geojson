@@ -2,13 +2,14 @@
   "id": 203062807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.493912,-41.927509,147.493912,-41.927509",
     "geom:latitude":-41.927509,
     "geom:longitude":147.493912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 98",
     "sg:city":"Campbell Town",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203062807,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1466188443,
     "wof:name":"David Hession Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contracting"
     ]
 },
-  "bbox": [147.493912,-41.927509,147.493912,-41.927509],
-  "geometry": {"coordinates":[147.493912,-41.927509],"type":"Point"}
+  "bbox": [
+    147.493912,
+    -41.927509,
+    147.493912,
+    -41.927509
+],
+  "geometry": {"coordinates":[147.49391199999999,-41.927509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252770073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.119339,-41.60244,147.119339,-41.60244",
     "geom:latitude":-41.60244,
     "geom:longitude":147.119339,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Marlborough St",
     "sg:city":"Longford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252770073,
-    "wof:lastmodified":1449006538,
+    "wof:lastmodified":1466187879,
     "wof:name":"Longford Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.119339,-41.60244,147.119339,-41.60244],
+  "bbox": [
+    147.119339,
+    -41.60244,
+    147.119339,
+    -41.60244
+],
   "geometry": {"coordinates":[147.119339,-41.60244],"type":"Point"}
 }

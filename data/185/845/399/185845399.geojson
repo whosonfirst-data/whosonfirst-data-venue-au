@@ -2,13 +2,14 @@
   "id": 185845399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.832352,-25.283516,152.832352,-25.283516",
     "geom:latitude":-25.283516,
     "geom:longitude":152.832352,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Old Maryborough Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185845399,
-    "wof:lastmodified":1449006873,
+    "wof:lastmodified":1466187281,
     "wof:name":"Do-Lots",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [152.832352,-25.283516,152.832352,-25.283516],
-  "geometry": {"coordinates":[152.832352,-25.283516],"type":"Point"}
+  "bbox": [
+    152.832352,
+    -25.283516,
+    152.832352,
+    -25.283516
+],
+  "geometry": {"coordinates":[152.83235199999999,-25.283516],"type":"Point"}
 }

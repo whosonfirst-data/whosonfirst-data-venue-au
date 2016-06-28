@@ -2,13 +2,14 @@
   "id": 236821323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.898682,-34.425816,150.898682,-34.425816",
     "geom:latitude":-34.425816,
     "geom:longitude":150.898682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Crown St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236821323,
-    "wof:lastmodified":1449003454,
+    "wof:lastmodified":1466191977,
     "wof:name":"Cafe Mona Lia",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.898682,-34.425816,150.898682,-34.425816],
-  "geometry": {"coordinates":[150.898682,-34.425816],"type":"Point"}
+  "bbox": [
+    150.898682,
+    -34.425816,
+    150.898682,
+    -34.425816
+],
+  "geometry": {"coordinates":[150.89868200000001,-34.425816],"type":"Point"}
 }

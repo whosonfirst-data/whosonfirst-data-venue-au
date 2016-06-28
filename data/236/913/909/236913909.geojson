@@ -2,13 +2,14 @@
   "id": 236913909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.517914,-34.979755,138.517914,-34.979755",
     "geom:latitude":-34.979755,
     "geom:longitude":138.517914,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Gordon St",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236913909,
-    "wof:lastmodified":1449002827,
+    "wof:lastmodified":1466192124,
     "wof:name":"Gordon Street Medical Centre",
     "wof:parent_id":85770879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.517914,-34.979755,138.517914,-34.979755],
-  "geometry": {"coordinates":[138.517914,-34.979755],"type":"Point"}
+  "bbox": [
+    138.517914,
+    -34.979755,
+    138.517914,
+    -34.979755
+],
+  "geometry": {"coordinates":[138.51791399999999,-34.979755],"type":"Point"}
 }

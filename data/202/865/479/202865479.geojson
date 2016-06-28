@@ -2,13 +2,14 @@
   "id": 202865479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.042542,-25.509924,152.042542,-25.509924",
     "geom:latitude":-25.509924,
     "geom:longitude":152.042542,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Edward St",
     "sg:city":"Biggenden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202865479,
-    "wof:lastmodified":1449062030,
+    "wof:lastmodified":1466190434,
     "wof:name":"Grand Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [152.042542,-25.509924,152.042542,-25.509924],
+  "bbox": [
+    152.042542,
+    -25.509924,
+    152.042542,
+    -25.509924
+],
   "geometry": {"coordinates":[152.042542,-25.509924],"type":"Point"}
 }

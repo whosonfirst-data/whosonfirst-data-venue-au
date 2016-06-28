@@ -2,13 +2,14 @@
   "id": 186193181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.884155,-31.449429,152.884155,-31.449429",
     "geom:latitude":-31.449429,
     "geom:longitude":152.884155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Uralla Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186193181,
-    "wof:lastmodified":1449050848,
+    "wof:lastmodified":1466187025,
     "wof:name":"G.James Glass & Aluminium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aluminium"
     ]
 },
-  "bbox": [152.884155,-31.449429,152.884155,-31.449429],
-  "geometry": {"coordinates":[152.884155,-31.449429],"type":"Point"}
+  "bbox": [
+    152.884155,
+    -31.449429,
+    152.884155,
+    -31.449429
+],
+  "geometry": {"coordinates":[152.88415499999999,-31.449429],"type":"Point"}
 }

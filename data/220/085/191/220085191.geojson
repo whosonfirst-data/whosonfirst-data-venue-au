@@ -2,13 +2,14 @@
   "id": 220085191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.120346,-40.85545,145.120346,-40.85545",
     "geom:latitude":-40.85545,
     "geom:longitude":145.120346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Marrawah Rd",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220085191,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1466187796,
     "wof:name":"Smithton Crash Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "panel"
     ]
 },
-  "bbox": [145.120346,-40.85545,145.120346,-40.85545],
-  "geometry": {"coordinates":[145.120346,-40.85545],"type":"Point"}
+  "bbox": [
+    145.120346,
+    -40.85545,
+    145.120346,
+    -40.85545
+],
+  "geometry": {"coordinates":[145.12034600000001,-40.85545],"type":"Point"}
 }

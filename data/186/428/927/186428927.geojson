@@ -2,13 +2,14 @@
   "id": 186428927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.799713,-19.299601,146.799713,-19.299601",
     "geom:latitude":-19.299601,
     "geom:longitude":146.799713,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Bowen Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186428927,
-    "wof:lastmodified":1449052853,
+    "wof:lastmodified":1466189791,
     "wof:name":"Saddleworld",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retail"
     ]
 },
-  "bbox": [146.799713,-19.299601,146.799713,-19.299601],
+  "bbox": [
+    146.799713,
+    -19.299601,
+    146.799713,
+    -19.299601
+],
   "geometry": {"coordinates":[146.799713,-19.299601],"type":"Point"}
 }

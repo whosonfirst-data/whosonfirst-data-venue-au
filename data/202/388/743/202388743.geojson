@@ -2,13 +2,14 @@
   "id": 202388743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.749481,-34.597023,138.749481,-34.597023",
     "geom:latitude":-34.597023,
     "geom:longitude":138.749481,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Barossa Valley Hwy",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202388743,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466187331,
     "wof:name":"Hillier Electrical",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.749481,-34.597023,138.749481,-34.597023],
+  "bbox": [
+    138.749481,
+    -34.597023,
+    138.749481,
+    -34.597023
+],
   "geometry": {"coordinates":[138.749481,-34.597023],"type":"Point"}
 }

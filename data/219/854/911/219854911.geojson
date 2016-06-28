@@ -2,13 +2,14 @@
   "id": 219854911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175674,-33.854649,151.175674,-33.854649",
     "geom:latitude":-33.854649,
     "geom:longitude":151.175674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Birchgrove Rd",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219854911,
-    "wof:lastmodified":1449073787,
+    "wof:lastmodified":1466191617,
     "wof:name":"ISOTAG Testing & Tagging Services",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [151.175674,-33.854649,151.175674,-33.854649],
-  "geometry": {"coordinates":[151.175674,-33.854649],"type":"Point"}
+  "bbox": [
+    151.175674,
+    -33.854649,
+    151.175674,
+    -33.854649
+],
+  "geometry": {"coordinates":[151.17567399999999,-33.854649],"type":"Point"}
 }

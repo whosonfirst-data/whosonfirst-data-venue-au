@@ -2,13 +2,14 @@
   "id": 219904645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.945526,-34.289989,150.945526,-34.289989",
     "geom:latitude":-34.289989,
     "geom:longitude":150.945526,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U1/ 250 Lawrence Hargrave Drv",
     "sg:city":"Thirroul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219904645,
-    "wof:lastmodified":1449074007,
+    "wof:lastmodified":1466191726,
     "wof:name":"Jeff Briggs Constructions",
     "wof:parent_id":85769067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.945526,-34.289989,150.945526,-34.289989],
+  "bbox": [
+    150.945526,
+    -34.289989,
+    150.945526,
+    -34.289989
+],
   "geometry": {"coordinates":[150.945526,-34.289989],"type":"Point"}
 }

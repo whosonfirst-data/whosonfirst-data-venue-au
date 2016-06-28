@@ -2,13 +2,14 @@
   "id": 236836977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.891235,-34.423744,150.891235,-34.423744",
     "geom:latitude":-34.423744,
     "geom:longitude":150.891235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 6- 8 Regent St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236836977,
-    "wof:lastmodified":1449003912,
+    "wof:lastmodified":1466192032,
     "wof:name":"Turner Freeman Lawyers",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.891235,-34.423744,150.891235,-34.423744],
-  "geometry": {"coordinates":[150.891235,-34.423744],"type":"Point"}
+  "bbox": [
+    150.891235,
+    -34.423744,
+    150.891235,
+    -34.423744
+],
+  "geometry": {"coordinates":[150.89123499999999,-34.423744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236902045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.551559,-35.028568,138.551559,-35.028568",
     "geom:latitude":-35.028568,
     "geom:longitude":138.551559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1495 South Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236902045,
-    "wof:lastmodified":1449004214,
+    "wof:lastmodified":1466192185,
     "wof:name":"Midas",
     "wof:parent_id":85769151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [138.551559,-35.028568,138.551559,-35.028568],
+  "bbox": [
+    138.551559,
+    -35.028568,
+    138.551559,
+    -35.028568
+],
   "geometry": {"coordinates":[138.551559,-35.028568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203144519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.722168,-32.525764,115.722168,-32.525764",
     "geom:latitude":-32.525764,
     "geom:longitude":115.722168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U2/ 94 Mandurah Tce",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203144519,
-    "wof:lastmodified":1449026361,
+    "wof:lastmodified":1466189623,
     "wof:name":"Mandurah Myotherapy Clinic",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "myotherapy"
     ]
 },
-  "bbox": [115.722168,-32.525764,115.722168,-32.525764],
+  "bbox": [
+    115.722168,
+    -32.525764,
+    115.722168,
+    -32.525764
+],
   "geometry": {"coordinates":[115.722168,-32.525764],"type":"Point"}
 }

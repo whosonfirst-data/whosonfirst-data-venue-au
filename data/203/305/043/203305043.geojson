@@ -2,13 +2,14 @@
   "id": 203305043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.831543,-37.530842,143.831543,-37.530842",
     "geom:latitude":-37.530842,
     "geom:longitude":143.831543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Harold St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203305043,
-    "wof:lastmodified":1449025225,
+    "wof:lastmodified":1466188020,
     "wof:name":"Bonanza Pizza",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [143.831543,-37.530842,143.831543,-37.530842],
-  "geometry": {"coordinates":[143.831543,-37.530842],"type":"Point"}
+  "bbox": [
+    143.831543,
+    -37.530842,
+    143.831543,
+    -37.530842
+],
+  "geometry": {"coordinates":[143.83154300000001,-37.530842],"type":"Point"}
 }

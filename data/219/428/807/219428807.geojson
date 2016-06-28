@@ -2,13 +2,14 @@
   "id": 219428807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.56073,-34.882469,138.56073,-34.882469",
     "geom:latitude":-34.882469,
     "geom:longitude":138.56073,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Torrens Rd",
     "sg:city":"Croydon Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219428807,
-    "wof:lastmodified":1449073664,
+    "wof:lastmodified":1466188726,
     "wof:name":"Staffords Warehouse",
     "wof:parent_id":85774911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [138.56073,-34.882469,138.56073,-34.882469],
-  "geometry": {"coordinates":[138.56073,-34.882469],"type":"Point"}
+  "bbox": [
+    138.56073,
+    -34.882469,
+    138.56073,
+    -34.882469
+],
+  "geometry": {"coordinates":[138.56073000000001,-34.882469],"type":"Point"}
 }

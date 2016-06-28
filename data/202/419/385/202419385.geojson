@@ -2,13 +2,14 @@
   "id": 202419385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942902,-37.838196,144.942902,-37.838196",
     "geom:latitude":-37.838196,
     "geom:longitude":144.942902,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202419385,
-    "wof:lastmodified":1449062586,
+    "wof:lastmodified":1466188111,
     "wof:name":"Bay Security Locksmiths",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [144.942902,-37.838196,144.942902,-37.838196],
+  "bbox": [
+    144.942902,
+    -37.838196,
+    144.942902,
+    -37.838196
+],
   "geometry": {"coordinates":[144.942902,-37.838196],"type":"Point"}
 }

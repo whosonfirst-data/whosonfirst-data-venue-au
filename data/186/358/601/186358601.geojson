@@ -2,13 +2,14 @@
   "id": 186358601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.120819,-33.869209,151.120819,-33.869209",
     "geom:latitude":-33.869209,
     "geom:longitude":151.120819,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Queens Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186358601,
-    "wof:lastmodified":1449051501,
+    "wof:lastmodified":1466188610,
     "wof:name":"Annandale Vinyl Installations",
     "wof:parent_id":85769087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.120819,-33.869209,151.120819,-33.869209],
-  "geometry": {"coordinates":[151.120819,-33.869209],"type":"Point"}
+  "bbox": [
+    151.120819,
+    -33.869209,
+    151.120819,
+    -33.869209
+],
+  "geometry": {"coordinates":[151.12081900000001,-33.869209],"type":"Point"}
 }

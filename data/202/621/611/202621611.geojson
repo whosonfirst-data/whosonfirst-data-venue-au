@@ -2,13 +2,14 @@
   "id": 202621611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.936554,-28.653929,151.936554,-28.653929",
     "geom:latitude":-28.653929,
     "geom:longitude":151.936554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 High St",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202621611,
-    "wof:lastmodified":1449062351,
+    "wof:lastmodified":1466187524,
     "wof:name":"Red Rooster Stanthorpe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [151.936554,-28.653929,151.936554,-28.653929],
+  "bbox": [
+    151.936554,
+    -28.653929,
+    151.936554,
+    -28.653929
+],
   "geometry": {"coordinates":[151.936554,-28.653929],"type":"Point"}
 }

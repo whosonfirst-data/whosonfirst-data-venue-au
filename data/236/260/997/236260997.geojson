@@ -2,13 +2,14 @@
   "id": 236260997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.329147,-31.232479,119.329147,-31.232479",
     "geom:latitude":-31.232479,
     "geom:longitude":119.329147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Antares St",
     "sg:city":"Southern Cross",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236260997,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466190123,
     "wof:name":"Yilgarn Shire Of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "local"
     ]
 },
-  "bbox": [119.329147,-31.232479,119.329147,-31.232479],
-  "geometry": {"coordinates":[119.329147,-31.232479],"type":"Point"}
+  "bbox": [
+    119.329147,
+    -31.232479,
+    119.329147,
+    -31.232479
+],
+  "geometry": {"coordinates":[119.32914700000001,-31.232479],"type":"Point"}
 }

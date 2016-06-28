@@ -2,13 +2,14 @@
   "id": 236253011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.615143,-36.420177,143.615143,-36.420177",
     "geom:latitude":-36.420177,
     "geom:longitude":143.615143,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Peters St",
     "sg:city":"Wedderburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236253011,
-    "wof:lastmodified":1449004757,
+    "wof:lastmodified":1466190327,
     "wof:name":"Wederburn Outdoor Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitness"
     ]
 },
-  "bbox": [143.615143,-36.420177,143.615143,-36.420177],
-  "geometry": {"coordinates":[143.615143,-36.420177],"type":"Point"}
+  "bbox": [
+    143.615143,
+    -36.420177,
+    143.615143,
+    -36.420177
+],
+  "geometry": {"coordinates":[143.61514299999999,-36.420177],"type":"Point"}
 }

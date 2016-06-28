@@ -2,13 +2,14 @@
   "id": 220106681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.522919,-38.258656,144.522919,-38.258656",
     "geom:latitude":-38.258656,
     "geom:longitude":144.522919,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Sandpiper Crt",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220106681,
-    "wof:lastmodified":1449074049,
+    "wof:lastmodified":1466188017,
     "wof:name":"Jane Kempe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [144.522919,-38.258656,144.522919,-38.258656],
+  "bbox": [
+    144.522919,
+    -38.258656,
+    144.522919,
+    -38.258656
+],
   "geometry": {"coordinates":[144.522919,-38.258656],"type":"Point"}
 }

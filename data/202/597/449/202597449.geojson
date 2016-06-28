@@ -2,13 +2,14 @@
   "id": 202597449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.805496,-42.887394,147.805496,-42.887394",
     "geom:latitude":-42.887394,
     "geom:longitude":147.805496,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Florence St",
     "sg:city":"Dunalley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202597449,
-    "wof:lastmodified":1449062604,
+    "wof:lastmodified":1466187258,
     "wof:name":"Murraville Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [147.805496,-42.887394,147.805496,-42.887394],
-  "geometry": {"coordinates":[147.805496,-42.887394],"type":"Point"}
+  "bbox": [
+    147.805496,
+    -42.887394,
+    147.805496,
+    -42.887394
+],
+  "geometry": {"coordinates":[147.80549600000001,-42.887394],"type":"Point"}
 }

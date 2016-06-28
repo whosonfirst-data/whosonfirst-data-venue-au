@@ -2,13 +2,14 @@
   "id": 236037641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.789169,-37.69371,144.789169,-37.69371",
     "geom:latitude":-37.69371,
     "geom:longitude":144.789169,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Landau Crt",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236037641,
-    "wof:lastmodified":1449005319,
+    "wof:lastmodified":1466187368,
     "wof:name":"Star Cleaning Services",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.789169,-37.69371,144.789169,-37.69371],
-  "geometry": {"coordinates":[144.789169,-37.69371],"type":"Point"}
+  "bbox": [
+    144.789169,
+    -37.69371,
+    144.789169,
+    -37.69371
+],
+  "geometry": {"coordinates":[144.78916899999999,-37.69371],"type":"Point"}
 }

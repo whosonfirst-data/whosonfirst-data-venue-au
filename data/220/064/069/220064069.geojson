@@ -2,13 +2,14 @@
   "id": 220064069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.291397,-38.351097,144.291397,-38.351097",
     "geom:latitude":-38.351097,
     "geom:longitude":144.291397,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Riviera Drv",
     "sg:city":"Jan Juc",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220064069,
-    "wof:lastmodified":1449074307,
+    "wof:lastmodified":1466187630,
     "wof:name":"Bienefelt Frank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.291397,-38.351097,144.291397,-38.351097],
-  "geometry": {"coordinates":[144.291397,-38.351097],"type":"Point"}
+  "bbox": [
+    144.291397,
+    -38.351097,
+    144.291397,
+    -38.351097
+],
+  "geometry": {"coordinates":[144.29139699999999,-38.351097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219642841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.125961,-33.956451,151.125961,-33.956451",
     "geom:latitude":-33.956451,
     "geom:longitude":151.125961,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Queen Victoria St",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219642841,
-    "wof:lastmodified":1449070586,
+    "wof:lastmodified":1466190848,
     "wof:name":"Watercom Pty Ltd",
     "wof:parent_id":85777013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.125961,-33.956451,151.125961,-33.956451],
-  "geometry": {"coordinates":[151.125961,-33.956451],"type":"Point"}
+  "bbox": [
+    151.125961,
+    -33.956451,
+    151.125961,
+    -33.956451
+],
+  "geometry": {"coordinates":[151.12596099999999,-33.956451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236515115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.109818,-32.546238,151.109818,-32.546238",
     "geom:latitude":-32.546238,
     "geom:longitude":151.109818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosella St",
     "sg:city":"Maison Dieu Industrial Estate Singleton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236515115,
-    "wof:lastmodified":1449002252,
+    "wof:lastmodified":1466191413,
     "wof:name":"Singleton Kitchen Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [151.109818,-32.546238,151.109818,-32.546238],
-  "geometry": {"coordinates":[151.109818,-32.546238],"type":"Point"}
+  "bbox": [
+    151.109818,
+    -32.546238,
+    151.109818,
+    -32.546238
+],
+  "geometry": {"coordinates":[151.10981799999999,-32.546238],"type":"Point"}
 }

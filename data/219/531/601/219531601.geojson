@@ -2,13 +2,14 @@
   "id": 219531601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.064606,-33.918606,151.064606,-33.918606",
     "geom:latitude":-33.918606,
     "geom:longitude":151.064606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6, 55 Shadeforth St",
     "sg:city":"Wiley Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219531601,
-    "wof:lastmodified":1449071226,
+    "wof:lastmodified":1466190116,
     "wof:name":"Fast Link One",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [151.064606,-33.918606,151.064606,-33.918606],
+  "bbox": [
+    151.064606,
+    -33.918606,
+    151.064606,
+    -33.918606
+],
   "geometry": {"coordinates":[151.064606,-33.918606],"type":"Point"}
 }

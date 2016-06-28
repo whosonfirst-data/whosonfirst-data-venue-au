@@ -2,13 +2,14 @@
   "id": 220065087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.317963,-38.325581,144.317963,-38.325581",
     "geom:latitude":-38.325581,
     "geom:longitude":144.317963,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Geelong Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220065087,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466187641,
     "wof:name":"Trembath, Fleur Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [144.317963,-38.325581,144.317963,-38.325581],
-  "geometry": {"coordinates":[144.317963,-38.325581],"type":"Point"}
+  "bbox": [
+    144.317963,
+    -38.325581,
+    144.317963,
+    -38.325581
+],
+  "geometry": {"coordinates":[144.31796299999999,-38.325581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203390653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849731,-37.580853,143.849731,-37.580853",
     "geom:latitude":-37.580853,
     "geom:longitude":143.849731,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Humfray St",
     "sg:city":"South Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203390653,
-    "wof:lastmodified":1449026877,
+    "wof:lastmodified":1466189389,
     "wof:name":"Young Parents Clinic",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [143.849731,-37.580853,143.849731,-37.580853],
-  "geometry": {"coordinates":[143.849731,-37.580853],"type":"Point"}
+  "bbox": [
+    143.849731,
+    -37.580853,
+    143.849731,
+    -37.580853
+],
+  "geometry": {"coordinates":[143.84973099999999,-37.580853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203376091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.826523,-37.573372,143.826523,-37.573372",
     "geom:latitude":-37.573372,
     "geom:longitude":143.826523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Elizabeth St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203376091,
-    "wof:lastmodified":1449025563,
+    "wof:lastmodified":1466189129,
     "wof:name":"Highland Dairy",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.826523,-37.573372,143.826523,-37.573372],
-  "geometry": {"coordinates":[143.826523,-37.573372],"type":"Point"}
+  "bbox": [
+    143.826523,
+    -37.573372,
+    143.826523,
+    -37.573372
+],
+  "geometry": {"coordinates":[143.82652300000001,-37.573372],"type":"Point"}
 }

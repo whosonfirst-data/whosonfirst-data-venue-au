@@ -2,13 +2,14 @@
   "id": 202962935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.096207,-30.358994,153.096207,-30.358994",
     "geom:latitude":-30.358994,
     "geom:longitude":153.096207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"End of Wallis Ave",
     "sg:city":"Sawtell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202962935,
-    "wof:lastmodified":1449061607,
+    "wof:lastmodified":1466191134,
     "wof:name":"Pacific Precast",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shed"
     ]
 },
-  "bbox": [153.096207,-30.358994,153.096207,-30.358994],
-  "geometry": {"coordinates":[153.096207,-30.358994],"type":"Point"}
+  "bbox": [
+    153.096207,
+    -30.358994,
+    153.096207,
+    -30.358994
+],
+  "geometry": {"coordinates":[153.09620699999999,-30.358994],"type":"Point"}
 }

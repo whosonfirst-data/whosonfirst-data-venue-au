@@ -2,13 +2,14 @@
   "id": 220161651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.371384,-38.154434,144.371384,-38.154434",
     "geom:latitude":-38.154434,
     "geom:longitude":144.371384,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Sydney Pde",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220161651,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466188826,
     "wof:name":"Woodford Service Centre",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.371384,-38.154434,144.371384,-38.154434],
-  "geometry": {"coordinates":[144.371384,-38.154434],"type":"Point"}
+  "bbox": [
+    144.371384,
+    -38.154434,
+    144.371384,
+    -38.154434
+],
+  "geometry": {"coordinates":[144.37138400000001,-38.154434],"type":"Point"}
 }

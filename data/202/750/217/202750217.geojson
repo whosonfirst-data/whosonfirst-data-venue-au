@@ -2,13 +2,14 @@
   "id": 202750217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.881767,-32.037979,115.881767,-32.037979",
     "geom:latitude":-32.037979,
     "geom:longitude":115.881767,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Centaur St",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202750217,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466189720,
     "wof:name":"Beauty & Hairdressing Gear",
     "wof:parent_id":85775623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [115.881767,-32.037979,115.881767,-32.037979],
+  "bbox": [
+    115.881767,
+    -32.037979,
+    115.881767,
+    -32.037979
+],
   "geometry": {"coordinates":[115.881767,-32.037979],"type":"Point"}
 }

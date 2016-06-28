@@ -2,13 +2,14 @@
   "id": 235962647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055252,-27.43203,153.055252,-27.43203",
     "geom:latitude":-27.43203,
     "geom:longitude":153.055252,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Anthony St",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235962647,
-    "wof:lastmodified":1449008446,
+    "wof:lastmodified":1466187236,
     "wof:name":"Clark David Enterprises",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.055252,-27.43203,153.055252,-27.43203],
+  "bbox": [
+    153.055252,
+    -27.43203,
+    153.055252,
+    -27.43203
+],
   "geometry": {"coordinates":[153.055252,-27.43203],"type":"Point"}
 }

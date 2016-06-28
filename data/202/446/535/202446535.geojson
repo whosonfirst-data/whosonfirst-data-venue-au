@@ -2,13 +2,14 @@
   "id": 202446535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.963882,-37.834427,144.963882,-37.834427",
     "geom:latitude":-37.834427,
     "geom:longitude":144.963882,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Moray St",
     "sg:city":"(Corner of Park St) South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202446535,
-    "wof:lastmodified":1449062437,
+    "wof:lastmodified":1466188705,
     "wof:name":"Fidenza Glass Blocks",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glazier"
     ]
 },
-  "bbox": [144.963882,-37.834427,144.963882,-37.834427],
-  "geometry": {"coordinates":[144.963882,-37.834427],"type":"Point"}
+  "bbox": [
+    144.963882,
+    -37.834427,
+    144.963882,
+    -37.834427
+],
+  "geometry": {"coordinates":[144.96388200000001,-37.834427],"type":"Point"}
 }

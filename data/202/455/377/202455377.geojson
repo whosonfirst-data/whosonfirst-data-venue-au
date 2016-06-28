@@ -2,13 +2,14 @@
   "id": 202455377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.949554,-37.832951,144.949554,-37.832951",
     "geom:latitude":-37.832951,
     "geom:longitude":144.949554,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Thistlewaite St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202455377,
-    "wof:lastmodified":1449062257,
+    "wof:lastmodified":1466188875,
     "wof:name":"Power Plumbers",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.949554,-37.832951,144.949554,-37.832951],
-  "geometry": {"coordinates":[144.949554,-37.832951],"type":"Point"}
+  "bbox": [
+    144.949554,
+    -37.832951,
+    144.949554,
+    -37.832951
+],
+  "geometry": {"coordinates":[144.94955400000001,-37.832951],"type":"Point"}
 }

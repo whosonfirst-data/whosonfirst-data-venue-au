@@ -2,13 +2,14 @@
   "id": 236070089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.751144,-37.695446,144.751144,-37.695446",
     "geom:latitude":-37.695446,
     "geom:longitude":144.751144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, 39 Catherine Drv",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236070089,
-    "wof:lastmodified":1449003219,
+    "wof:lastmodified":1466188031,
     "wof:name":"Anytype Plastering",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [144.751144,-37.695446,144.751144,-37.695446],
-  "geometry": {"coordinates":[144.751144,-37.695446],"type":"Point"}
+  "bbox": [
+    144.751144,
+    -37.695446,
+    144.751144,
+    -37.695446
+],
+  "geometry": {"coordinates":[144.75114400000001,-37.695446],"type":"Point"}
 }

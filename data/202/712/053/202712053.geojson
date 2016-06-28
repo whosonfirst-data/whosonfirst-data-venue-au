@@ -2,13 +2,14 @@
   "id": 202712053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051483,-27.361544,153.051483,-27.361544",
     "geom:latitude":-27.361544,
     "geom:longitude":153.051483,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1B1/ 194 Zillmere Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202712053,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466189065,
     "wof:name":"Melian Enterprises Pty Ltd",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "worker"
     ]
 },
-  "bbox": [153.051483,-27.361544,153.051483,-27.361544],
-  "geometry": {"coordinates":[153.051483,-27.361544],"type":"Point"}
+  "bbox": [
+    153.051483,
+    -27.361544,
+    153.051483,
+    -27.361544
+],
+  "geometry": {"coordinates":[153.05148299999999,-27.361544],"type":"Point"}
 }

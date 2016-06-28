@@ -2,13 +2,14 @@
   "id": 236807785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.889618,-34.492435,150.889618,-34.492435",
     "geom:latitude":-34.492435,
     "geom:longitude":150.889618,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U4/ 45 Kemblawarra Rd",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236807785,
-    "wof:lastmodified":1449002314,
+    "wof:lastmodified":1466191867,
     "wof:name":"The Perfect Door",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [150.889618,-34.492435,150.889618,-34.492435],
-  "geometry": {"coordinates":[150.889618,-34.492435],"type":"Point"}
+  "bbox": [
+    150.889618,
+    -34.492435,
+    150.889618,
+    -34.492435
+],
+  "geometry": {"coordinates":[150.88961800000001,-34.492435],"type":"Point"}
 }

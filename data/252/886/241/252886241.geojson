@@ -2,13 +2,14 @@
   "id": 252886241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.579315,-37.683376,144.579315,-37.683376",
     "geom:latitude":-37.683376,
     "geom:longitude":144.579315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"390- 392 High St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252886241,
-    "wof:lastmodified":1449006018,
+    "wof:lastmodified":1466188855,
     "wof:name":"Lake Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.579315,-37.683376,144.579315,-37.683376],
-  "geometry": {"coordinates":[144.579315,-37.683376],"type":"Point"}
+  "bbox": [
+    144.579315,
+    -37.683376,
+    144.579315,
+    -37.683376
+],
+  "geometry": {"coordinates":[144.57931500000001,-37.683376],"type":"Point"}
 }

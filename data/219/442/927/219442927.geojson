@@ -2,13 +2,14 @@
   "id": 219442927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.800987,-32.369705,115.800987,-32.369705",
     "geom:latitude":-32.369705,
     "geom:longitude":115.800987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Tuart Drv",
     "sg:city":"Baldivis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219442927,
-    "wof:lastmodified":1449071941,
+    "wof:lastmodified":1466188879,
     "wof:name":"IT Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [115.800987,-32.369705,115.800987,-32.369705],
-  "geometry": {"coordinates":[115.800987,-32.369705],"type":"Point"}
+  "bbox": [
+    115.800987,
+    -32.369705,
+    115.800987,
+    -32.369705
+],
+  "geometry": {"coordinates":[115.80098700000001,-32.369705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219694409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.510544,-32.180401,152.510544,-32.180401",
     "geom:latitude":-32.180401,
     "geom:longitude":152.510544,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Wharf St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219694409,
-    "wof:lastmodified":1449071402,
+    "wof:lastmodified":1466191220,
     "wof:name":"Arabesque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [152.510544,-32.180401,152.510544,-32.180401],
-  "geometry": {"coordinates":[152.510544,-32.180401],"type":"Point"}
+  "bbox": [
+    152.510544,
+    -32.180401,
+    152.510544,
+    -32.180401
+],
+  "geometry": {"coordinates":[152.51054400000001,-32.180401],"type":"Point"}
 }

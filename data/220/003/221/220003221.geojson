@@ -2,13 +2,14 @@
   "id": 220003221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.702118,-38.052441,140.702118,-38.052441",
     "geom:latitude":-38.052441,
     "geom:longitude":140.702118,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Standish St",
     "sg:city":"Port MacDonnell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220003221,
-    "wof:lastmodified":1449074819,
+    "wof:lastmodified":1466186907,
     "wof:name":"Five Star Seafoods (SA) Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [140.702118,-38.052441,140.702118,-38.052441],
-  "geometry": {"coordinates":[140.702118,-38.052441],"type":"Point"}
+  "bbox": [
+    140.702118,
+    -38.052441,
+    140.702118,
+    -38.052441
+],
+  "geometry": {"coordinates":[140.70211800000001,-38.052441],"type":"Point"}
 }

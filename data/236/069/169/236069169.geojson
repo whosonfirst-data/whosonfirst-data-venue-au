@@ -2,13 +2,14 @@
   "id": 236069169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.759613,-37.684608,144.759613,-37.684608",
     "geom:latitude":-37.684608,
     "geom:longitude":144.759613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Manchester Drv",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236069169,
-    "wof:lastmodified":1449003792,
+    "wof:lastmodified":1466188014,
     "wof:name":"World Of Glitter",
     "wof:parent_id":85777835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [144.759613,-37.684608,144.759613,-37.684608],
+  "bbox": [
+    144.759613,
+    -37.684608,
+    144.759613,
+    -37.684608
+],
   "geometry": {"coordinates":[144.759613,-37.684608],"type":"Point"}
 }

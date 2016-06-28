@@ -2,13 +2,14 @@
   "id": 219770153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.161224,-33.924183,151.161224,-33.924183",
     "geom:latitude":-33.924183,
     "geom:longitude":151.161224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Princes Hwy",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219770153,
-    "wof:lastmodified":1449073994,
+    "wof:lastmodified":1466191388,
     "wof:name":"Tempe Hotel",
     "wof:parent_id":85770407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.161224,-33.924183,151.161224,-33.924183],
+  "bbox": [
+    151.161224,
+    -33.924183,
+    151.161224,
+    -33.924183
+],
   "geometry": {"coordinates":[151.161224,-33.924183],"type":"Point"}
 }

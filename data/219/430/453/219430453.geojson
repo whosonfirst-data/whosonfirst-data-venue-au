@@ -2,13 +2,14 @@
   "id": 219430453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.565964,-34.899754,138.565964,-34.899754",
     "geom:latitude":-34.899754,
     "geom:longitude":138.565964,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Princes St",
     "sg:city":"Croydon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219430453,
-    "wof:lastmodified":1449072634,
+    "wof:lastmodified":1466188757,
     "wof:name":"Heaton Williamson & Associates",
     "wof:parent_id":85774917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [138.565964,-34.899754,138.565964,-34.899754],
-  "geometry": {"coordinates":[138.565964,-34.899754],"type":"Point"}
+  "bbox": [
+    138.565964,
+    -34.899754,
+    138.565964,
+    -34.899754
+],
+  "geometry": {"coordinates":[138.56596400000001,-34.899754],"type":"Point"}
 }

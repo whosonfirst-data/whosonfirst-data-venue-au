@@ -2,13 +2,14 @@
   "id": 236573699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.031418,-33.952335,151.031418,-33.952335",
     "geom:latitude":-33.952335,
     "geom:longitude":151.031418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Howard Rd",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236573699,
-    "wof:lastmodified":1449004202,
+    "wof:lastmodified":1466191557,
     "wof:name":"Bus Stop Bakery",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.031418,-33.952335,151.031418,-33.952335],
+  "bbox": [
+    151.031418,
+    -33.952335,
+    151.031418,
+    -33.952335
+],
   "geometry": {"coordinates":[151.031418,-33.952335],"type":"Point"}
 }

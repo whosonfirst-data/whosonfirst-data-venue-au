@@ -2,13 +2,14 @@
   "id": 185996423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.457306,-33.36755,151.457306,-33.36755",
     "geom:latitude":-33.36755,
     "geom:longitude":151.457306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Patricia St",
     "sg:city":"Killarney Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185996423,
-    "wof:lastmodified":1449007042,
+    "wof:lastmodified":1466188876,
     "wof:name":"Allan Klum Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.457306,-33.36755,151.457306,-33.36755],
-  "geometry": {"coordinates":[151.457306,-33.36755],"type":"Point"}
+  "bbox": [
+    151.457306,
+    -33.36755,
+    151.457306,
+    -33.36755
+],
+  "geometry": {"coordinates":[151.45730599999999,-33.36755],"type":"Point"}
 }

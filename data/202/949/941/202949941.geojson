@@ -2,13 +2,14 @@
   "id": 202949941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.114304,-30.295885,153.114304,-30.295885",
     "geom:latitude":-30.295885,
     "geom:longitude":153.114304,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 80, Park Beach Plaza Pacific Hwy",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202949941,
-    "wof:lastmodified":1449061680,
+    "wof:lastmodified":1466191005,
     "wof:name":"Road Show Galleries",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [153.114304,-30.295885,153.114304,-30.295885],
+  "bbox": [
+    153.114304,
+    -30.295885,
+    153.114304,
+    -30.295885
+],
   "geometry": {"coordinates":[153.114304,-30.295885],"type":"Point"}
 }

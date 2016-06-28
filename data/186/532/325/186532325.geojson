@@ -2,13 +2,14 @@
   "id": 186532325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.552002,-19.17555,146.552002,-19.17555",
     "geom:latitude":-19.17555,
     "geom:longitude":146.552002,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Bruce Hwy",
     "sg:city":"Bluewater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186532325,
-    "wof:lastmodified":1449051285,
+    "wof:lastmodified":1466190742,
     "wof:name":"Simon Daniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [146.552002,-19.17555,146.552002,-19.17555],
-  "geometry": {"coordinates":[146.552002,-19.17555],"type":"Point"}
+  "bbox": [
+    146.552002,
+    -19.17555,
+    146.552002,
+    -19.17555
+],
+  "geometry": {"coordinates":[146.55200199999999,-19.17555],"type":"Point"}
 }

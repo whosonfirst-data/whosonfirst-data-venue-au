@@ -2,13 +2,14 @@
   "id": 202940249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115311,-30.296902,153.115311,-30.296902",
     "geom:latitude":-30.296902,
     "geom:longitude":153.115311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4, Jack Simmons Centre, 33 Harbour Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202940249,
-    "wof:lastmodified":1449060733,
+    "wof:lastmodified":1466190938,
     "wof:name":"Northcoast Books & Accounting Services",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [153.115311,-30.296902,153.115311,-30.296902],
-  "geometry": {"coordinates":[153.115311,-30.296902],"type":"Point"}
+  "bbox": [
+    153.115311,
+    -30.296902,
+    153.115311,
+    -30.296902
+],
+  "geometry": {"coordinates":[153.11531099999999,-30.296902],"type":"Point"}
 }

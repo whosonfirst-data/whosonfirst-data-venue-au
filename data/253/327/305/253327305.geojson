@@ -2,13 +2,14 @@
   "id": 253327305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.311523,-38.049751,145.311523,-38.049751",
     "geom:latitude":-38.049751,
     "geom:longitude":145.311523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Cobblestone Ave",
     "sg:city":"Narre Warren South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253327305,
-    "wof:lastmodified":1449063042,
+    "wof:lastmodified":1466190966,
     "wof:name":"Database By Design",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [145.311523,-38.049751,145.311523,-38.049751],
-  "geometry": {"coordinates":[145.311523,-38.049751],"type":"Point"}
+  "bbox": [
+    145.311523,
+    -38.049751,
+    145.311523,
+    -38.049751
+],
+  "geometry": {"coordinates":[145.31152299999999,-38.049751],"type":"Point"}
 }

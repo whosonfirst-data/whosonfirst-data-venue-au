@@ -2,13 +2,14 @@
   "id": 203224651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.618744,-41.741112,145.618744,-41.741112",
     "geom:latitude":-41.741112,
     "geom:longitude":145.618744,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Murchison Hwy",
     "sg:city":"Tullah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203224651,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466187363,
     "wof:name":"Radford Woodcrafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wood"
     ]
 },
-  "bbox": [145.618744,-41.741112,145.618744,-41.741112],
-  "geometry": {"coordinates":[145.618744,-41.741112],"type":"Point"}
+  "bbox": [
+    145.618744,
+    -41.741112,
+    145.618744,
+    -41.741112
+],
+  "geometry": {"coordinates":[145.61874399999999,-41.741112],"type":"Point"}
 }

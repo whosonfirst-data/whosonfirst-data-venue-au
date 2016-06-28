@@ -2,13 +2,14 @@
   "id": 220144981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.356323,-38.151665,144.356323,-38.151665",
     "geom:latitude":-38.151665,
     "geom:longitude":144.356323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2/ 43 Little Myers St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220144981,
-    "wof:lastmodified":1449074639,
+    "wof:lastmodified":1466188489,
     "wof:name":"Innerstrength Physiotherapy",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.356323,-38.151665,144.356323,-38.151665],
+  "bbox": [
+    144.356323,
+    -38.151665,
+    144.356323,
+    -38.151665
+],
   "geometry": {"coordinates":[144.356323,-38.151665],"type":"Point"}
 }

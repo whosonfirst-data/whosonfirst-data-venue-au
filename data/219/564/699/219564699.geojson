@@ -2,13 +2,14 @@
   "id": 219564699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.031097,-33.91721,151.031097,-33.91721",
     "geom:latitude":-33.91721,
     "geom:longitude":151.031097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 2 Meredith St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219564699,
-    "wof:lastmodified":1449073699,
+    "wof:lastmodified":1466190399,
     "wof:name":"AMES Employment",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.031097,-33.91721,151.031097,-33.91721],
-  "geometry": {"coordinates":[151.031097,-33.91721],"type":"Point"}
+  "bbox": [
+    151.031097,
+    -33.91721,
+    151.031097,
+    -33.91721
+],
+  "geometry": {"coordinates":[151.03109699999999,-33.91721],"type":"Point"}
 }

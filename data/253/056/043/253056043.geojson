@@ -2,13 +2,14 @@
   "id": 253056043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.657959,-37.845078,144.657959,-37.845078",
     "geom:latitude":-37.845078,
     "geom:longitude":144.657959,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wyndham Village Shopping Cntr, Shop 6 / 380 Sayers Rd",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253056043,
-    "wof:lastmodified":1449063659,
+    "wof:lastmodified":1466188013,
     "wof:name":"Visioncrest Optometrists",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.657959,-37.845078,144.657959,-37.845078],
-  "geometry": {"coordinates":[144.657959,-37.845078],"type":"Point"}
+  "bbox": [
+    144.657959,
+    -37.845078,
+    144.657959,
+    -37.845078
+],
+  "geometry": {"coordinates":[144.65795900000001,-37.845078],"type":"Point"}
 }

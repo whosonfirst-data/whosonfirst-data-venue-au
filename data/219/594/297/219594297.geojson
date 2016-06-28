@@ -2,13 +2,14 @@
   "id": 219594297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.137497,-33.896576,151.137497,-33.896576",
     "geom:latitude":-33.896576,
     "geom:longitude":151.137497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Rosedale St",
     "sg:city":"Dulwich Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219594297,
-    "wof:lastmodified":1449070904,
+    "wof:lastmodified":1466190550,
     "wof:name":"Rosedale Street Gallery",
     "wof:parent_id":85774711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.137497,-33.896576,151.137497,-33.896576],
+  "bbox": [
+    151.137497,
+    -33.896576,
+    151.137497,
+    -33.896576
+],
   "geometry": {"coordinates":[151.137497,-33.896576],"type":"Point"}
 }

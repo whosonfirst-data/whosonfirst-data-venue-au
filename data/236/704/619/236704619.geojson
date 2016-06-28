@@ -2,13 +2,14 @@
   "id": 236704619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.461411,-31.912565,152.461411,-31.912565",
     "geom:latitude":-31.912565,
     "geom:longitude":152.461411,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Manning St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236704619,
-    "wof:lastmodified":1449002325,
+    "wof:lastmodified":1466191785,
     "wof:name":"Manning Shoe Trends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [152.461411,-31.912565,152.461411,-31.912565],
+  "bbox": [
+    152.461411,
+    -31.912565,
+    152.461411,
+    -31.912565
+],
   "geometry": {"coordinates":[152.461411,-31.912565],"type":"Point"}
 }

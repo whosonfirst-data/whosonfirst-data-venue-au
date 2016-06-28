@@ -2,13 +2,14 @@
   "id": 252793513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.652802,-41.524181,146.652802,-41.524181",
     "geom:latitude":-41.524181,
     "geom:longitude":146.652802,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Emu Bay Rd",
     "sg:city":"Deloraine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252793513,
-    "wof:lastmodified":1449006014,
+    "wof:lastmodified":1466188082,
     "wof:name":"British Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [146.652802,-41.524181,146.652802,-41.524181],
-  "geometry": {"coordinates":[146.652802,-41.524181],"type":"Point"}
+  "bbox": [
+    146.652802,
+    -41.524181,
+    146.652802,
+    -41.524181
+],
+  "geometry": {"coordinates":[146.65280200000001,-41.524181],"type":"Point"}
 }

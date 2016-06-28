@@ -2,13 +2,14 @@
   "id": 202910245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.200745,-30.111113,153.200745,-30.111113",
     "geom:latitude":-30.111113,
     "geom:longitude":153.200745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4/ 5 Market St",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202910245,
-    "wof:lastmodified":1449061171,
+    "wof:lastmodified":1466190596,
     "wof:name":"Woolgoolga Accounting & Taxation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [153.200745,-30.111113,153.200745,-30.111113],
-  "geometry": {"coordinates":[153.200745,-30.111113],"type":"Point"}
+  "bbox": [
+    153.200745,
+    -30.111113,
+    153.200745,
+    -30.111113
+],
+  "geometry": {"coordinates":[153.20074500000001,-30.111113],"type":"Point"}
 }

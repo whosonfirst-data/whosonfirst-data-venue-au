@@ -2,13 +2,14 @@
   "id": 220106913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.56073,-38.254177,144.56073,-38.254177",
     "geom:latitude":-38.254177,
     "geom:longitude":144.56073,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Ocean Grand Drv",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220106913,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466188019,
     "wof:name":"Filia Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [144.56073,-38.254177,144.56073,-38.254177],
-  "geometry": {"coordinates":[144.56073,-38.254177],"type":"Point"}
+  "bbox": [
+    144.56073,
+    -38.254177,
+    144.56073,
+    -38.254177
+],
+  "geometry": {"coordinates":[144.56073000000001,-38.254177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253095707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833115,-37.753773,144.833115,-37.753773",
     "geom:latitude":-37.753773,
     "geom:longitude":144.833115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"234 McIntyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253095707,
-    "wof:lastmodified":1449064330,
+    "wof:lastmodified":1466188642,
     "wof:name":"Western Distributors Floor Coverings",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.833115,-37.753773,144.833115,-37.753773],
-  "geometry": {"coordinates":[144.833115,-37.753773],"type":"Point"}
+  "bbox": [
+    144.833115,
+    -37.753773,
+    144.833115,
+    -37.753773
+],
+  "geometry": {"coordinates":[144.83311499999999,-37.753773],"type":"Point"}
 }

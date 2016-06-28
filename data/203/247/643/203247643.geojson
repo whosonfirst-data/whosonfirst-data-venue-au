@@ -2,13 +2,14 @@
   "id": 203247643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.949615,-26.774475,152.949615,-26.774475",
     "geom:latitude":-26.774475,
     "geom:longitude":152.949615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"166 King Rd",
     "sg:city":"Mooloolah",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203247643,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466187553,
     "wof:name":"L T Palmer Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "planner"
     ]
 },
-  "bbox": [152.949615,-26.774475,152.949615,-26.774475],
-  "geometry": {"coordinates":[152.949615,-26.774475],"type":"Point"}
+  "bbox": [
+    152.949615,
+    -26.774475,
+    152.949615,
+    -26.774475
+],
+  "geometry": {"coordinates":[152.94961499999999,-26.774475],"type":"Point"}
 }

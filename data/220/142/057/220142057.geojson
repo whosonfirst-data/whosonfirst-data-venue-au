@@ -2,13 +2,14 @@
   "id": 220142057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.350632,-38.154385,144.350632,-38.154385",
     "geom:latitude":-38.154385,
     "geom:longitude":144.350632,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Noble St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220142057,
-    "wof:lastmodified":1449074677,
+    "wof:lastmodified":1466188428,
     "wof:name":"Sawyers Arms Tavern",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.350632,-38.154385,144.350632,-38.154385],
-  "geometry": {"coordinates":[144.350632,-38.154385],"type":"Point"}
+  "bbox": [
+    144.350632,
+    -38.154385,
+    144.350632,
+    -38.154385
+],
+  "geometry": {"coordinates":[144.35063199999999,-38.154385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252785031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.553818,-41.162201,146.553818,-41.162201",
     "geom:latitude":-41.162201,
     "geom:longitude":146.553818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Highwater La",
     "sg:city":"Port Sorell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252785031,
-    "wof:lastmodified":1449006330,
+    "wof:lastmodified":1466188013,
     "wof:name":"Adam Speight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.553818,-41.162201,146.553818,-41.162201],
-  "geometry": {"coordinates":[146.553818,-41.162201],"type":"Point"}
+  "bbox": [
+    146.553818,
+    -41.162201,
+    146.553818,
+    -41.162201
+],
+  "geometry": {"coordinates":[146.55381800000001,-41.162201],"type":"Point"}
 }

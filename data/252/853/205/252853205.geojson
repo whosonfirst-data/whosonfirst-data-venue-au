@@ -2,13 +2,14 @@
   "id": 252853205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.533218,-32.363182,149.533218,-32.363182",
     "geom:latitude":-32.363182,
     "geom:longitude":149.533218,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Herbert St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252853205,
-    "wof:lastmodified":1449005848,
+    "wof:lastmodified":1466188578,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [149.533218,-32.363182,149.533218,-32.363182],
-  "geometry": {"coordinates":[149.533218,-32.363182],"type":"Point"}
+  "bbox": [
+    149.533218,
+    -32.363182,
+    149.533218,
+    -32.363182
+],
+  "geometry": {"coordinates":[149.53321800000001,-32.363182],"type":"Point"}
 }

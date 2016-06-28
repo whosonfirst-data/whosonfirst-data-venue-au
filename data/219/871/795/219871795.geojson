@@ -2,13 +2,14 @@
   "id": 219871795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.92572,-27.36228,152.92572,-27.36228",
     "geom:latitude":-27.36228,
     "geom:longitude":152.92572,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Willem Drv",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219871795,
-    "wof:lastmodified":1449071556,
+    "wof:lastmodified":1466191605,
     "wof:name":"Copleys Painters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [152.92572,-27.36228,152.92572,-27.36228],
-  "geometry": {"coordinates":[152.92572,-27.36228],"type":"Point"}
+  "bbox": [
+    152.92572,
+    -27.36228,
+    152.92572,
+    -27.36228
+],
+  "geometry": {"coordinates":[152.92572000000001,-27.36228],"type":"Point"}
 }

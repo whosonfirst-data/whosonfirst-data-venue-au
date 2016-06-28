@@ -2,13 +2,14 @@
   "id": 219959139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.793716,-37.832428,140.793716,-37.832428",
     "geom:latitude":-37.832428,
     "geom:longitude":140.793716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Commercial St (East)",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219959139,
-    "wof:lastmodified":1449073564,
+    "wof:lastmodified":1466191763,
     "wof:name":"Gasweld Mount Gambier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [140.793716,-37.832428,140.793716,-37.832428],
-  "geometry": {"coordinates":[140.793716,-37.832428],"type":"Point"}
+  "bbox": [
+    140.793716,
+    -37.832428,
+    140.793716,
+    -37.832428
+],
+  "geometry": {"coordinates":[140.79371599999999,-37.832428],"type":"Point"}
 }

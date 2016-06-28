@@ -2,13 +2,14 @@
   "id": 219266389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.289978,-38.185062,146.289978,-38.185062",
     "geom:latitude":-38.185062,
     "geom:longitude":146.289978,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 43 Monash Rd",
     "sg:city":"Newborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219266389,
-    "wof:lastmodified":1449070478,
+    "wof:lastmodified":1466187253,
     "wof:name":"Newborough Veterinary Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [146.289978,-38.185062,146.289978,-38.185062],
-  "geometry": {"coordinates":[146.289978,-38.185062],"type":"Point"}
+  "bbox": [
+    146.289978,
+    -38.185062,
+    146.289978,
+    -38.185062
+],
+  "geometry": {"coordinates":[146.28997799999999,-38.185062],"type":"Point"}
 }

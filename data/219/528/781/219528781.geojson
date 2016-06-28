@@ -2,13 +2,14 @@
   "id": 219528781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.077194,-33.920391,151.077194,-33.920391",
     "geom:latitude":-33.920391,
     "geom:longitude":151.077194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Haldon St",
     "sg:city":"Lakemba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219528781,
-    "wof:lastmodified":1449071350,
+    "wof:lastmodified":1466190119,
     "wof:name":"Palumbo Andy Pty Ltd",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.077194,-33.920391,151.077194,-33.920391],
-  "geometry": {"coordinates":[151.077194,-33.920391],"type":"Point"}
+  "bbox": [
+    151.077194,
+    -33.920391,
+    151.077194,
+    -33.920391
+],
+  "geometry": {"coordinates":[151.07719399999999,-33.920391],"type":"Point"}
 }

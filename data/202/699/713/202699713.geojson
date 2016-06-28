@@ -2,13 +2,14 @@
   "id": 202699713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.023132,-27.366531,153.023132,-27.366531",
     "geom:latitude":-27.366531,
     "geom:longitude":153.023132,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ferrier St",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202699713,
-    "wof:lastmodified":1449060454,
+    "wof:lastmodified":1466188821,
     "wof:name":"Line Boring Queensland",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [153.023132,-27.366531,153.023132,-27.366531],
+  "bbox": [
+    153.023132,
+    -27.366531,
+    153.023132,
+    -27.366531
+],
   "geometry": {"coordinates":[153.023132,-27.366531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203004643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485977,-20.699532,139.485977,-20.699532",
     "geom:latitude":-20.699532,
     "geom:longitude":139.485977,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Barkly Hwy",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203004643,
-    "wof:lastmodified":1449025609,
+    "wof:lastmodified":1466187080,
     "wof:name":"Quantum Petroleum (Qld) Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [139.485977,-20.699532,139.485977,-20.699532],
-  "geometry": {"coordinates":[139.485977,-20.699532],"type":"Point"}
+  "bbox": [
+    139.485977,
+    -20.699532,
+    139.485977,
+    -20.699532
+],
+  "geometry": {"coordinates":[139.48597699999999,-20.699532],"type":"Point"}
 }

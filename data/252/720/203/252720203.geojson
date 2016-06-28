@@ -2,13 +2,14 @@
   "id": 252720203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.636803,-33.323669,115.636803,-33.323669",
     "geom:latitude":-33.323669,
     "geom:longitude":115.636803,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Victoria St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252720203,
-    "wof:lastmodified":1449005682,
+    "wof:lastmodified":1466187078,
     "wof:name":"Garbage Clothing",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [115.636803,-33.323669,115.636803,-33.323669],
+  "bbox": [
+    115.636803,
+    -33.323669,
+    115.636803,
+    -33.323669
+],
   "geometry": {"coordinates":[115.636803,-33.323669],"type":"Point"}
 }

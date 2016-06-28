@@ -2,13 +2,14 @@
   "id": 202808135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.712631,-32.921223,151.712631,-32.921223",
     "geom:latitude":-32.921223,
     "geom:longitude":151.712631,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Regent St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202808135,
-    "wof:lastmodified":1449060221,
+    "wof:lastmodified":1466190358,
     "wof:name":"BDazzled Hair & Beauty Salon",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.712631,-32.921223,151.712631,-32.921223],
-  "geometry": {"coordinates":[151.712631,-32.921223],"type":"Point"}
+  "bbox": [
+    151.712631,
+    -32.921223,
+    151.712631,
+    -32.921223
+],
+  "geometry": {"coordinates":[151.71263099999999,-32.921223],"type":"Point"}
 }

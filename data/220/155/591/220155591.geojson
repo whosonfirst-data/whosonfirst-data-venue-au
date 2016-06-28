@@ -2,13 +2,14 @@
   "id": 220155591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.343918,-38.107285,144.343918,-38.107285",
     "geom:latitude":-38.107285,
     "geom:longitude":144.343918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Thompson Rd",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220155591,
-    "wof:lastmodified":1449074711,
+    "wof:lastmodified":1466188705,
     "wof:name":"Doors Plus",
     "wof:parent_id":85776477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [144.343918,-38.107285,144.343918,-38.107285],
+  "bbox": [
+    144.343918,
+    -38.107285,
+    144.343918,
+    -38.107285
+],
   "geometry": {"coordinates":[144.343918,-38.107285],"type":"Point"}
 }

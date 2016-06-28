@@ -2,13 +2,14 @@
   "id": 186476219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166443,-33.878319,151.166443,-33.878319",
     "geom:latitude":-33.878319,
     "geom:longitude":151.166443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Edna St",
     "sg:city":"Lilyfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186476219,
-    "wof:lastmodified":1449051458,
+    "wof:lastmodified":1466190348,
     "wof:name":"Collins Patricia",
     "wof:parent_id":85768679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [151.166443,-33.878319,151.166443,-33.878319],
-  "geometry": {"coordinates":[151.166443,-33.878319],"type":"Point"}
+  "bbox": [
+    151.166443,
+    -33.878319,
+    151.166443,
+    -33.878319
+],
+  "geometry": {"coordinates":[151.16644299999999,-33.878319],"type":"Point"}
 }

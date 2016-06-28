@@ -2,13 +2,14 @@
   "id": 202473561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.958786,-37.829624,144.958786,-37.829624",
     "geom:latitude":-37.829624,
     "geom:longitude":144.958786,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Market St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202473561,
-    "wof:lastmodified":1449060642,
+    "wof:lastmodified":1466189138,
     "wof:name":"Lucon Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.958786,-37.829624,144.958786,-37.829624],
+  "bbox": [
+    144.958786,
+    -37.829624,
+    144.958786,
+    -37.829624
+],
   "geometry": {"coordinates":[144.958786,-37.829624],"type":"Point"}
 }

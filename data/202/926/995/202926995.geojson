@@ -2,13 +2,14 @@
   "id": 202926995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.116608,-30.301386,153.116608,-30.301386",
     "geom:latitude":-30.301386,
     "geom:longitude":153.116608,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Albany St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202926995,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466190754,
     "wof:name":"Giles Martin",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [153.116608,-30.301386,153.116608,-30.301386],
-  "geometry": {"coordinates":[153.116608,-30.301386],"type":"Point"}
+  "bbox": [
+    153.116608,
+    -30.301386,
+    153.116608,
+    -30.301386
+],
+  "geometry": {"coordinates":[153.11660800000001,-30.301386],"type":"Point"}
 }

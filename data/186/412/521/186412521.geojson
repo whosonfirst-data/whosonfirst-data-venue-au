@@ -2,13 +2,14 @@
   "id": 186412521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.816254,-19.260502,146.816254,-19.260502",
     "geom:latitude":-19.260502,
     "geom:longitude":146.816254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 & 4, 390",
     "sg:city":"Metway Arcade Flinders Mall Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186412521,
-    "wof:lastmodified":1449050953,
+    "wof:lastmodified":1466189521,
     "wof:name":"Sublime Beauty",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.816254,-19.260502,146.816254,-19.260502],
-  "geometry": {"coordinates":[146.816254,-19.260502],"type":"Point"}
+  "bbox": [
+    146.816254,
+    -19.260502,
+    146.816254,
+    -19.260502
+],
+  "geometry": {"coordinates":[146.81625399999999,-19.260502],"type":"Point"}
 }

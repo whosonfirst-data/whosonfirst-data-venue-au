@@ -2,13 +2,14 @@
   "id": 203308863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.835953,-37.527996,143.835953,-37.527996",
     "geom:latitude":-37.527996,
     "geom:longitude":143.835953,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Grevillea Rd",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203308863,
-    "wof:lastmodified":1449026898,
+    "wof:lastmodified":1466188083,
     "wof:name":"Cahill P",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.835953,-37.527996,143.835953,-37.527996],
-  "geometry": {"coordinates":[143.835953,-37.527996],"type":"Point"}
+  "bbox": [
+    143.835953,
+    -37.527996,
+    143.835953,
+    -37.527996
+],
+  "geometry": {"coordinates":[143.83595299999999,-37.527996],"type":"Point"}
 }

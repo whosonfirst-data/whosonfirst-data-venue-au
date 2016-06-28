@@ -2,13 +2,14 @@
   "id": 236976175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.365952,-37.855801,145.365952,-37.855801",
     "geom:latitude":-37.855801,
     "geom:longitude":145.365952,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Olinda-Monbulk Rd",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236976175,
-    "wof:lastmodified":1449002935,
+    "wof:lastmodified":1466192067,
     "wof:name":"Ranges At Olinda",
     "wof:parent_id":85770183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.365952,-37.855801,145.365952,-37.855801],
-  "geometry": {"coordinates":[145.365952,-37.855801],"type":"Point"}
+  "bbox": [
+    145.365952,
+    -37.855801,
+    145.365952,
+    -37.855801
+],
+  "geometry": {"coordinates":[145.36595199999999,-37.855801],"type":"Point"}
 }

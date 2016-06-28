@@ -2,13 +2,14 @@
   "id": 219908813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.917786,-34.317287,150.917786,-34.317287",
     "geom:latitude":-34.317287,
     "geom:longitude":150.917786,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Lawrence Hargrave Drv",
     "sg:city":"Thirroul",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219908813,
-    "wof:lastmodified":1449072382,
+    "wof:lastmodified":1466191820,
     "wof:name":"Hideaway Trattoria Thirroul",
     "wof:parent_id":85770439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.917786,-34.317287,150.917786,-34.317287],
-  "geometry": {"coordinates":[150.917786,-34.317287],"type":"Point"}
+  "bbox": [
+    150.917786,
+    -34.317287,
+    150.917786,
+    -34.317287
+],
+  "geometry": {"coordinates":[150.91778600000001,-34.317287],"type":"Point"}
 }

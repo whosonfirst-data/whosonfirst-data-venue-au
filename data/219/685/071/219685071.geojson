@@ -2,13 +2,14 @@
   "id": 219685071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.490311,-32.160503,152.490311,-32.160503",
     "geom:latitude":-32.160503,
     "geom:longitude":152.490311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Robur Crt",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219685071,
-    "wof:lastmodified":1449073825,
+    "wof:lastmodified":1466191111,
     "wof:name":"Mid North Coast Metal Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roof"
     ]
 },
-  "bbox": [152.490311,-32.160503,152.490311,-32.160503],
-  "geometry": {"coordinates":[152.490311,-32.160503],"type":"Point"}
+  "bbox": [
+    152.490311,
+    -32.160503,
+    152.490311,
+    -32.160503
+],
+  "geometry": {"coordinates":[152.49031099999999,-32.160503],"type":"Point"}
 }

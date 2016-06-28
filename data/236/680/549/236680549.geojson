@@ -2,13 +2,14 @@
   "id": 236680549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.629013,-31.894138,152.629013,-31.894138",
     "geom:latitude":-31.894138,
     "geom:longitude":152.629013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Manning Point Rd",
     "sg:city":"Mitchells Island",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236680549,
-    "wof:lastmodified":1449004063,
+    "wof:lastmodified":1466191902,
     "wof:name":"Manning Valley Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "farmer"
     ]
 },
-  "bbox": [152.629013,-31.894138,152.629013,-31.894138],
-  "geometry": {"coordinates":[152.629013,-31.894138],"type":"Point"}
+  "bbox": [
+    152.629013,
+    -31.894138,
+    152.629013,
+    -31.894138
+],
+  "geometry": {"coordinates":[152.62901299999999,-31.894138],"type":"Point"}
 }

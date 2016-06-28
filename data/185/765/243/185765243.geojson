@@ -2,13 +2,14 @@
   "id": 185765243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.143387,-32.723129,152.143387,-32.723129",
     "geom:latitude":-32.723129,
     "geom:longitude":152.143387,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Stockton St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185765243,
-    "wof:lastmodified":1449007534,
+    "wof:lastmodified":1466189700,
     "wof:name":"LJ Hooker Nelson Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.143387,-32.723129,152.143387,-32.723129],
-  "geometry": {"coordinates":[152.143387,-32.723129],"type":"Point"}
+  "bbox": [
+    152.143387,
+    -32.723129,
+    152.143387,
+    -32.723129
+],
+  "geometry": {"coordinates":[152.14338699999999,-32.723129],"type":"Point"}
 }

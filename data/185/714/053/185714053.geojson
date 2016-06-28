@@ -2,13 +2,14 @@
   "id": 185714053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.905243,-32.790813,151.905243,-32.790813",
     "geom:latitude":-32.790813,
     "geom:longitude":151.905243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Valerie Rd",
     "sg:city":"Salt Ash",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185714053,
-    "wof:lastmodified":1449007415,
+    "wof:lastmodified":1466190000,
     "wof:name":"Flex Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [151.905243,-32.790813,151.905243,-32.790813],
-  "geometry": {"coordinates":[151.905243,-32.790813],"type":"Point"}
+  "bbox": [
+    151.905243,
+    -32.790813,
+    151.905243,
+    -32.790813
+],
+  "geometry": {"coordinates":[151.90524300000001,-32.790813],"type":"Point"}
 }

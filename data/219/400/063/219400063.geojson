@@ -2,13 +2,14 @@
   "id": 219400063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.987747,-27.998564,152.987747,-27.998564",
     "geom:latitude":-27.998564,
     "geom:longitude":152.987747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81-83 Telemon St",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219400063,
-    "wof:lastmodified":1449070734,
+    "wof:lastmodified":1466188369,
     "wof:name":"Boral Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [152.987747,-27.998564,152.987747,-27.998564],
-  "geometry": {"coordinates":[152.987747,-27.998564],"type":"Point"}
+  "bbox": [
+    152.987747,
+    -27.998564,
+    152.987747,
+    -27.998564
+],
+  "geometry": {"coordinates":[152.98774700000001,-27.998564],"type":"Point"}
 }

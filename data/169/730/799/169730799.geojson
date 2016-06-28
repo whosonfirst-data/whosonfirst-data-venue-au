@@ -2,13 +2,14 @@
   "id": 169730799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.989807,-12.472109,130.989807,-12.472109",
     "geom:latitude":-12.472109,
     "geom:longitude":130.989807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Toupien Rd",
     "sg:city":"Palmerston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169730799,
-    "wof:lastmodified":1449035432,
+    "wof:lastmodified":1466187378,
     "wof:name":"Reece Pty. Ltd.",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [130.989807,-12.472109,130.989807,-12.472109],
-  "geometry": {"coordinates":[130.989807,-12.472109],"type":"Point"}
+  "bbox": [
+    130.989807,
+    -12.472109,
+    130.989807,
+    -12.472109
+],
+  "geometry": {"coordinates":[130.98980700000001,-12.472109],"type":"Point"}
 }

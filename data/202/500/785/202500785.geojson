@@ -2,13 +2,14 @@
   "id": 202500785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.074783,-37.91605,145.074783,-37.91605",
     "geom:latitude":-37.91605,
     "geom:longitude":145.074783,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Mackie Rd",
     "sg:city":"East Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202500785,
-    "wof:lastmodified":1449060755,
+    "wof:lastmodified":1466189525,
     "wof:name":"Kim Robinson",
     "wof:parent_id":85777665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [145.074783,-37.91605,145.074783,-37.91605],
+  "bbox": [
+    145.074783,
+    -37.91605,
+    145.074783,
+    -37.91605
+],
   "geometry": {"coordinates":[145.074783,-37.91605],"type":"Point"}
 }

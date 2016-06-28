@@ -2,13 +2,14 @@
   "id": 236636153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.987732,-33.93742,150.987732,-33.93742",
     "geom:latitude":-33.93742,
     "geom:longitude":150.987732,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bullecourt Ave",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236636153,
-    "wof:lastmodified":1449002870,
+    "wof:lastmodified":1466191717,
     "wof:name":"United Air Specialists",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [150.987732,-33.93742,150.987732,-33.93742],
-  "geometry": {"coordinates":[150.987732,-33.93742],"type":"Point"}
+  "bbox": [
+    150.987732,
+    -33.93742,
+    150.987732,
+    -33.93742
+],
+  "geometry": {"coordinates":[150.98773199999999,-33.93742],"type":"Point"}
 }

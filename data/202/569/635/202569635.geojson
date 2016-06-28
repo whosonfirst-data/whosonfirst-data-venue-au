@@ -2,13 +2,14 @@
   "id": 202569635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435654,-37.674854,144.435654,-37.674854",
     "geom:latitude":-37.674854,
     "geom:longitude":144.435654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gisborne Rd",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202569635,
-    "wof:lastmodified":1449062539,
+    "wof:lastmodified":1466187041,
     "wof:name":"Bacchus Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [144.435654,-37.674854,144.435654,-37.674854],
+  "bbox": [
+    144.435654,
+    -37.674854,
+    144.435654,
+    -37.674854
+],
   "geometry": {"coordinates":[144.435654,-37.674854],"type":"Point"}
 }

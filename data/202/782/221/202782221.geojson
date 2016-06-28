@@ -2,13 +2,14 @@
   "id": 202782221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.785004,-32.927841,151.785004,-32.927841",
     "geom:latitude":-32.927841,
     "geom:longitude":151.785004,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl2/Ste1/ 50 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202782221,
-    "wof:lastmodified":1449060097,
+    "wof:lastmodified":1466190028,
     "wof:name":"A Team Scaffolding NSW Pty Ltd",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [151.785004,-32.927841,151.785004,-32.927841],
-  "geometry": {"coordinates":[151.785004,-32.927841],"type":"Point"}
+  "bbox": [
+    151.785004,
+    -32.927841,
+    151.785004,
+    -32.927841
+],
+  "geometry": {"coordinates":[151.78500399999999,-32.927841],"type":"Point"}
 }

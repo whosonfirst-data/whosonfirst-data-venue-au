@@ -2,13 +2,14 @@
   "id": 186394191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.828323,-19.264395,146.828323,-19.264395",
     "geom:latitude":-19.264395,
     "geom:longitude":146.828323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Bell St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186394191,
-    "wof:lastmodified":1449050928,
+    "wof:lastmodified":1466189226,
     "wof:name":"J.C. Concreting Pty Ltd",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [146.828323,-19.264395,146.828323,-19.264395],
-  "geometry": {"coordinates":[146.828323,-19.264395],"type":"Point"}
+  "bbox": [
+    146.828323,
+    -19.264395,
+    146.828323,
+    -19.264395
+],
+  "geometry": {"coordinates":[146.82832300000001,-19.264395],"type":"Point"}
 }

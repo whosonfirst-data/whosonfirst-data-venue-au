@@ -2,13 +2,14 @@
   "id": 252791985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.602707,-41.655621,146.602707,-41.655621",
     "geom:latitude":-41.655621,
     "geom:longitude":146.602707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd",
     "sg:city":"Mole Creek",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252791985,
-    "wof:lastmodified":1449006257,
+    "wof:lastmodified":1466188070,
     "wof:name":"Mole Creek Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.602707,-41.655621,146.602707,-41.655621],
-  "geometry": {"coordinates":[146.602707,-41.655621],"type":"Point"}
+  "bbox": [
+    146.602707,
+    -41.655621,
+    146.602707,
+    -41.655621
+],
+  "geometry": {"coordinates":[146.60270700000001,-41.655621],"type":"Point"}
 }

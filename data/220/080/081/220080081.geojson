@@ -2,13 +2,14 @@
   "id": 220080081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.123917,-40.839676,145.123917,-40.839676",
     "geom:latitude":-40.839676,
     "geom:longitude":145.123917,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 King St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220080081,
-    "wof:lastmodified":1449074853,
+    "wof:lastmodified":1466187757,
     "wof:name":"Marthick's Welding Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.123917,-40.839676,145.123917,-40.839676],
-  "geometry": {"coordinates":[145.123917,-40.839676],"type":"Point"}
+  "bbox": [
+    145.123917,
+    -40.839676,
+    145.123917,
+    -40.839676
+],
+  "geometry": {"coordinates":[145.12391700000001,-40.839676],"type":"Point"}
 }

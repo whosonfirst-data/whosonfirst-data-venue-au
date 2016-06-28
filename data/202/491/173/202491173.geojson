@@ -2,13 +2,14 @@
   "id": 202491173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.043884,-37.916481,145.043884,-37.916481",
     "geom:latitude":-37.916481,
     "geom:longitude":145.043884,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Seaview Ave",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202491173,
-    "wof:lastmodified":1449060067,
+    "wof:lastmodified":1466189411,
     "wof:name":"Northey's Painting Service",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [145.043884,-37.916481,145.043884,-37.916481],
-  "geometry": {"coordinates":[145.043884,-37.916481],"type":"Point"}
+  "bbox": [
+    145.043884,
+    -37.916481,
+    145.043884,
+    -37.916481
+],
+  "geometry": {"coordinates":[145.04388399999999,-37.916481],"type":"Point"}
 }

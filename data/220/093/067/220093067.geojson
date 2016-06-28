@@ -2,13 +2,14 @@
   "id": 220093067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.666046,-38.264828,144.666046,-38.264828",
     "geom:latitude":-38.264828,
     "geom:longitude":144.666046,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wharf St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220093067,
-    "wof:lastmodified":1449074054,
+    "wof:lastmodified":1466187899,
     "wof:name":"Queenscliff Lodge",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [144.666046,-38.264828,144.666046,-38.264828],
-  "geometry": {"coordinates":[144.666046,-38.264828],"type":"Point"}
+  "bbox": [
+    144.666046,
+    -38.264828,
+    144.666046,
+    -38.264828
+],
+  "geometry": {"coordinates":[144.66604599999999,-38.264828],"type":"Point"}
 }

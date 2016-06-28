@@ -2,13 +2,14 @@
   "id": 202776891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.771729,-32.931629,151.771729,-32.931629",
     "geom:latitude":-32.931629,
     "geom:longitude":151.771729,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Darby St",
     "sg:city":"Cooks Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202776891,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466190148,
     "wof:name":"Al-Oi Thai Restaurants",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.771729,-32.931629,151.771729,-32.931629],
-  "geometry": {"coordinates":[151.771729,-32.931629],"type":"Point"}
+  "bbox": [
+    151.771729,
+    -32.931629,
+    151.771729,
+    -32.931629
+],
+  "geometry": {"coordinates":[151.77172899999999,-32.931629],"type":"Point"}
 }

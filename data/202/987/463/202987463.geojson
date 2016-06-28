@@ -2,13 +2,14 @@
   "id": 202987463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.013184,-36.255898,147.013184,-36.255898",
     "geom:latitude":-36.255898,
     "geom:longitude":147.013184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Kiewa East Rd",
     "sg:city":"Kiewa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202987463,
-    "wof:lastmodified":1449061522,
+    "wof:lastmodified":1466191150,
     "wof:name":"Kiewa Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.013184,-36.255898,147.013184,-36.255898],
+  "bbox": [
+    147.013184,
+    -36.255898,
+    147.013184,
+    -36.255898
+],
   "geometry": {"coordinates":[147.013184,-36.255898],"type":"Point"}
 }

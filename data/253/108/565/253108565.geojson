@@ -2,13 +2,14 @@
   "id": 253108565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.836639,-37.798615,144.836639,-37.798615",
     "geom:latitude":-37.798615,
     "geom:longitude":144.836639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Second Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253108565,
-    "wof:lastmodified":1449062873,
+    "wof:lastmodified":1466188909,
     "wof:name":"Sunshine Tool & Gauge",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toolmaker"
     ]
 },
-  "bbox": [144.836639,-37.798615,144.836639,-37.798615],
-  "geometry": {"coordinates":[144.836639,-37.798615],"type":"Point"}
+  "bbox": [
+    144.836639,
+    -37.798615,
+    144.836639,
+    -37.798615
+],
+  "geometry": {"coordinates":[144.83663899999999,-37.798615],"type":"Point"}
 }

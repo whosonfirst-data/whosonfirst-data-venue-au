@@ -2,13 +2,14 @@
   "id": 202809179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.713196,-32.921459,151.713196,-32.921459",
     "geom:latitude":-32.921459,
     "geom:longitude":151.713196,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105a Regent St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202809179,
-    "wof:lastmodified":1449062212,
+    "wof:lastmodified":1466190356,
     "wof:name":"Ross Merrick Accounting & Taxation",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [151.713196,-32.921459,151.713196,-32.921459],
-  "geometry": {"coordinates":[151.713196,-32.921459],"type":"Point"}
+  "bbox": [
+    151.713196,
+    -32.921459,
+    151.713196,
+    -32.921459
+],
+  "geometry": {"coordinates":[151.71319600000001,-32.921459],"type":"Point"}
 }

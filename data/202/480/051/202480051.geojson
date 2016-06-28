@@ -2,13 +2,14 @@
   "id": 202480051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959213,-37.832249,144.959213,-37.832249",
     "geom:latitude":-37.832249,
     "geom:longitude":144.959213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"258a Coventary St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202480051,
-    "wof:lastmodified":1449060930,
+    "wof:lastmodified":1466189214,
     "wof:name":"Casino Promotions",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [144.959213,-37.832249,144.959213,-37.832249],
-  "geometry": {"coordinates":[144.959213,-37.832249],"type":"Point"}
+  "bbox": [
+    144.959213,
+    -37.832249,
+    144.959213,
+    -37.832249
+],
+  "geometry": {"coordinates":[144.95921300000001,-37.832249],"type":"Point"}
 }

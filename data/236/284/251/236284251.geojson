@@ -2,13 +2,14 @@
   "id": 236284251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.710449,-32.291668,115.710449,-32.291668",
     "geom:latitude":-32.291668,
     "geom:longitude":115.710449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Safety Bay Rd",
     "sg:city":"Shoalwater",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236284251,
-    "wof:lastmodified":1449003747,
+    "wof:lastmodified":1466190257,
     "wof:name":"Bayside Medical Centre",
     "wof:parent_id":85777959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.710449,-32.291668,115.710449,-32.291668],
+  "bbox": [
+    115.710449,
+    -32.291668,
+    115.710449,
+    -32.291668
+],
   "geometry": {"coordinates":[115.710449,-32.291668],"type":"Point"}
 }

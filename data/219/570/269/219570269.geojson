@@ -2,13 +2,14 @@
   "id": 219570269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.032593,-33.916218,151.032593,-33.916218",
     "geom:latitude":-33.916218,
     "geom:longitude":151.032593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kitchener Pde",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219570269,
-    "wof:lastmodified":1449072477,
+    "wof:lastmodified":1466190591,
     "wof:name":"Telstra Historical Group",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.032593,-33.916218,151.032593,-33.916218],
-  "geometry": {"coordinates":[151.032593,-33.916218],"type":"Point"}
+  "bbox": [
+    151.032593,
+    -33.916218,
+    151.032593,
+    -33.916218
+],
+  "geometry": {"coordinates":[151.03259299999999,-33.916218],"type":"Point"}
 }

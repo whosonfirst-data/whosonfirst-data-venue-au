@@ -2,13 +2,14 @@
   "id": 253322317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.300171,-38.001778,145.300171,-38.001778",
     "geom:latitude":-38.001778,
     "geom:longitude":145.300171,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Maramba Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253322317,
-    "wof:lastmodified":1449062793,
+    "wof:lastmodified":1466191032,
     "wof:name":"Just In Time Rubbish Removers",
     "wof:parent_id":85770883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rubbish"
     ]
 },
-  "bbox": [145.300171,-38.001778,145.300171,-38.001778],
-  "geometry": {"coordinates":[145.300171,-38.001778],"type":"Point"}
+  "bbox": [
+    145.300171,
+    -38.001778,
+    145.300171,
+    -38.001778
+],
+  "geometry": {"coordinates":[145.30017100000001,-38.001778],"type":"Point"}
 }

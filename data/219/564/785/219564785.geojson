@@ -2,13 +2,14 @@
   "id": 219564785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.033401,-33.918156,151.033401,-33.918156",
     "geom:latitude":-33.918156,
     "geom:longitude":151.033401,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Chapel Rd",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219564785,
-    "wof:lastmodified":1449073701,
+    "wof:lastmodified":1466190281,
     "wof:name":"Rorophone Audio & CD Recording",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cd"
     ]
 },
-  "bbox": [151.033401,-33.918156,151.033401,-33.918156],
+  "bbox": [
+    151.033401,
+    -33.918156,
+    151.033401,
+    -33.918156
+],
   "geometry": {"coordinates":[151.033401,-33.918156],"type":"Point"}
 }

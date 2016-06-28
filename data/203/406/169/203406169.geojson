@@ -2,13 +2,14 @@
   "id": 203406169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.768433,-37.533989,143.768433,-37.533989",
     "geom:latitude":-37.533989,
     "geom:longitude":143.768433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Remembrance Drv",
     "sg:city":"Cardigan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203406169,
-    "wof:lastmodified":1449025957,
+    "wof:lastmodified":1466189531,
     "wof:name":"Pyrrho Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [143.768433,-37.533989,143.768433,-37.533989],
-  "geometry": {"coordinates":[143.768433,-37.533989],"type":"Point"}
+  "bbox": [
+    143.768433,
+    -37.533989,
+    143.768433,
+    -37.533989
+],
+  "geometry": {"coordinates":[143.76843299999999,-37.533989],"type":"Point"}
 }

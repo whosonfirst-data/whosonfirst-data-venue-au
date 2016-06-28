@@ -2,13 +2,14 @@
   "id": 236067647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.824844,-37.719776,144.824844,-37.719776",
     "geom:latitude":-37.719776,
     "geom:longitude":144.824844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Loddon Ave",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236067647,
-    "wof:lastmodified":1449001839,
+    "wof:lastmodified":1466187983,
     "wof:name":"Carl Layden",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "geologist"
     ]
 },
-  "bbox": [144.824844,-37.719776,144.824844,-37.719776],
-  "geometry": {"coordinates":[144.824844,-37.719776],"type":"Point"}
+  "bbox": [
+    144.824844,
+    -37.719776,
+    144.824844,
+    -37.719776
+],
+  "geometry": {"coordinates":[144.82484400000001,-37.719776],"type":"Point"}
 }

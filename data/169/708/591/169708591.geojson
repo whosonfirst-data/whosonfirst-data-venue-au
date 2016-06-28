@@ -2,13 +2,14 @@
   "id": 169708591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"131.066483,-12.496121,131.066483,-12.496121",
     "geom:latitude":-12.496121,
     "geom:longitude":131.066483,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 653",
     "sg:city":"Howard Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169708591,
-    "wof:lastmodified":1449033210,
+    "wof:lastmodified":1466186909,
     "wof:name":"Combined Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [131.066483,-12.496121,131.066483,-12.496121],
-  "geometry": {"coordinates":[131.066483,-12.496121],"type":"Point"}
+  "bbox": [
+    131.066483,
+    -12.496121,
+    131.066483,
+    -12.496121
+],
+  "geometry": {"coordinates":[131.06648300000001,-12.496121],"type":"Point"}
 }

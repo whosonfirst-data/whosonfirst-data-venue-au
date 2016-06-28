@@ -2,13 +2,14 @@
   "id": 219229919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.940216,-37.656845,144.940216,-37.656845",
     "geom:latitude":-37.656845,
     "geom:longitude":144.940216,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lisa Pl",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219229919,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466189910,
     "wof:name":"Sam's Alloy Welding & Repairs Pty Ltd",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [144.940216,-37.656845,144.940216,-37.656845],
-  "geometry": {"coordinates":[144.940216,-37.656845],"type":"Point"}
+  "bbox": [
+    144.940216,
+    -37.656845,
+    144.940216,
+    -37.656845
+],
+  "geometry": {"coordinates":[144.94021599999999,-37.656845],"type":"Point"}
 }

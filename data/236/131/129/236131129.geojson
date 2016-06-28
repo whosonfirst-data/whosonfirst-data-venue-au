@@ -2,13 +2,14 @@
   "id": 236131129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.855499,-37.736721,144.855499,-37.736721",
     "geom:latitude":-37.736721,
     "geom:longitude":144.855499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 179",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236131129,
-    "wof:lastmodified":1449002478,
+    "wof:lastmodified":1466189270,
     "wof:name":"Plumbing Done",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.855499,-37.736721,144.855499,-37.736721],
-  "geometry": {"coordinates":[144.855499,-37.736721],"type":"Point"}
+  "bbox": [
+    144.855499,
+    -37.736721,
+    144.855499,
+    -37.736721
+],
+  "geometry": {"coordinates":[144.85549900000001,-37.736721],"type":"Point"}
 }

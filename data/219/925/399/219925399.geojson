@@ -2,13 +2,14 @@
   "id": 219925399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.75676,-36.101486,144.75676,-36.101486",
     "geom:latitude":-36.101486,
     "geom:longitude":144.75676,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Tyro Crt",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219925399,
-    "wof:lastmodified":1449070401,
+    "wof:lastmodified":1466191776,
     "wof:name":"Eddy's Lawn & Garden Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [144.75676,-36.101486,144.75676,-36.101486],
-  "geometry": {"coordinates":[144.75676,-36.101486],"type":"Point"}
+  "bbox": [
+    144.75676,
+    -36.101486,
+    144.75676,
+    -36.101486
+],
+  "geometry": {"coordinates":[144.75676000000001,-36.101486],"type":"Point"}
 }

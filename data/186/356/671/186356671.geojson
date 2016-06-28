@@ -2,13 +2,14 @@
   "id": 186356671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.145416,-33.856918,151.145416,-33.856918",
     "geom:latitude":-33.856918,
     "geom:longitude":151.145416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Lyons Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186356671,
-    "wof:lastmodified":1449052530,
+    "wof:lastmodified":1466188574,
     "wof:name":"Drummoyne Remedial Therapy",
     "wof:parent_id":85776743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aromatherapy"
     ]
 },
-  "bbox": [151.145416,-33.856918,151.145416,-33.856918],
-  "geometry": {"coordinates":[151.145416,-33.856918],"type":"Point"}
+  "bbox": [
+    151.145416,
+    -33.856918,
+    151.145416,
+    -33.856918
+],
+  "geometry": {"coordinates":[151.14541600000001,-33.856918],"type":"Point"}
 }

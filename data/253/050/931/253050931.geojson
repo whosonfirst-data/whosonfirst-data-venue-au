@@ -2,13 +2,14 @@
   "id": 253050931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.838135,-37.834957,144.838135,-37.834957",
     "geom:latitude":-37.834957,
     "geom:longitude":144.838135,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 McArthurs Rd",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253050931,
-    "wof:lastmodified":1449064460,
+    "wof:lastmodified":1466187920,
     "wof:name":"Masalkovski & Sons",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.838135,-37.834957,144.838135,-37.834957],
-  "geometry": {"coordinates":[144.838135,-37.834957],"type":"Point"}
+  "bbox": [
+    144.838135,
+    -37.834957,
+    144.838135,
+    -37.834957
+],
+  "geometry": {"coordinates":[144.83813499999999,-37.834957],"type":"Point"}
 }

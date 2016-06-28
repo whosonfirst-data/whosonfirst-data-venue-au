@@ -2,13 +2,14 @@
   "id": 169736381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.985794,-12.485504,130.985794,-12.485504",
     "geom:latitude":-12.485504,
     "geom:longitude":130.985794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Allamurr Crt",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169736381,
-    "wof:lastmodified":1449035931,
+    "wof:lastmodified":1466187492,
     "wof:name":"LPT Building Contractors",
     "wof:parent_id":85774879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [130.985794,-12.485504,130.985794,-12.485504],
+  "bbox": [
+    130.985794,
+    -12.485504,
+    130.985794,
+    -12.485504
+],
   "geometry": {"coordinates":[130.985794,-12.485504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202503707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.053162,-37.905685,145.053162,-37.905685",
     "geom:latitude":-37.905685,
     "geom:longitude":145.053162,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"762 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202503707,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466189558,
     "wof:name":"AAA Marquis De Sade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "sleepwear"
     ]
 },
-  "bbox": [145.053162,-37.905685,145.053162,-37.905685],
-  "geometry": {"coordinates":[145.053162,-37.905685],"type":"Point"}
+  "bbox": [
+    145.053162,
+    -37.905685,
+    145.053162,
+    -37.905685
+],
+  "geometry": {"coordinates":[145.05316199999999,-37.905685],"type":"Point"}
 }

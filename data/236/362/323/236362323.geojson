@@ -2,13 +2,14 @@
   "id": 236362323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.803009,-32.062153,115.803009,-32.062153",
     "geom:latitude":-32.062153,
     "geom:longitude":115.803009,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 14 Bowen St",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236362323,
-    "wof:lastmodified":1449003851,
+    "wof:lastmodified":1466190849,
     "wof:name":"South Pacific Seeds",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seedsman"
     ]
 },
-  "bbox": [115.803009,-32.062153,115.803009,-32.062153],
+  "bbox": [
+    115.803009,
+    -32.062153,
+    115.803009,
+    -32.062153
+],
   "geometry": {"coordinates":[115.803009,-32.062153],"type":"Point"}
 }

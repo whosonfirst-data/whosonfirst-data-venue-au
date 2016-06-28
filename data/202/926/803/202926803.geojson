@@ -2,13 +2,14 @@
   "id": 202926803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.078751,-30.217312,153.078751,-30.217312",
     "geom:latitude":-30.217312,
     "geom:longitude":153.078751,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Mount Coramba Rd",
     "sg:city":"Central Bucca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202926803,
-    "wof:lastmodified":1449060991,
+    "wof:lastmodified":1466190868,
     "wof:name":"Bucca Mountain Print",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [153.078751,-30.217312,153.078751,-30.217312],
-  "geometry": {"coordinates":[153.078751,-30.217312],"type":"Point"}
+  "bbox": [
+    153.078751,
+    -30.217312,
+    153.078751,
+    -30.217312
+],
+  "geometry": {"coordinates":[153.07875100000001,-30.217312],"type":"Point"}
 }

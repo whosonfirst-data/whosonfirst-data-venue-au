@@ -2,13 +2,14 @@
   "id": 202916085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112915,-30.297565,153.112915,-30.297565",
     "geom:latitude":-30.297565,
     "geom:longitude":153.112915,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Grafton St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202916085,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466190646,
     "wof:name":"North Coast Valuation Service Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [153.112915,-30.297565,153.112915,-30.297565],
-  "geometry": {"coordinates":[153.112915,-30.297565],"type":"Point"}
+  "bbox": [
+    153.112915,
+    -30.297565,
+    153.112915,
+    -30.297565
+],
+  "geometry": {"coordinates":[153.11291499999999,-30.297565],"type":"Point"}
 }

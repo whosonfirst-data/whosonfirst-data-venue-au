@@ -2,13 +2,14 @@
   "id": 203145749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.728363,-32.528973,115.728363,-32.528973",
     "geom:latitude":-32.528973,
     "geom:longitude":115.728363,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Waterway Rd",
     "sg:city":"Preston Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203145749,
-    "wof:lastmodified":1449025482,
+    "wof:lastmodified":1466189644,
     "wof:name":"PD & V Keeley",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [115.728363,-32.528973,115.728363,-32.528973],
+  "bbox": [
+    115.728363,
+    -32.528973,
+    115.728363,
+    -32.528973
+],
   "geometry": {"coordinates":[115.728363,-32.528973],"type":"Point"}
 }

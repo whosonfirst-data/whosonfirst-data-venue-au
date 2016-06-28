@@ -2,13 +2,14 @@
   "id": 202975783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.174194,-33.884975,151.174194,-33.884975",
     "geom:latitude":-33.884975,
     "geom:longitude":151.174194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6/ 12 Chester St",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202975783,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466191107,
     "wof:name":"Australia Post Business Centre",
     "wof:parent_id":85768679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [151.174194,-33.884975,151.174194,-33.884975],
+  "bbox": [
+    151.174194,
+    -33.884975,
+    151.174194,
+    -33.884975
+],
   "geometry": {"coordinates":[151.174194,-33.884975],"type":"Point"}
 }

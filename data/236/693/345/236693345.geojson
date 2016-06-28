@@ -2,13 +2,14 @@
   "id": 236693345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.460876,-31.911144,152.460876,-31.911144",
     "geom:latitude":-31.911144,
     "geom:longitude":152.460876,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, Taree Plaza, 20 Albert St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236693345,
-    "wof:lastmodified":1449001819,
+    "wof:lastmodified":1466191838,
     "wof:name":"Civic Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "library"
     ]
 },
-  "bbox": [152.460876,-31.911144,152.460876,-31.911144],
-  "geometry": {"coordinates":[152.460876,-31.911144],"type":"Point"}
+  "bbox": [
+    152.460876,
+    -31.911144,
+    152.460876,
+    -31.911144
+],
+  "geometry": {"coordinates":[152.46087600000001,-31.911144],"type":"Point"}
 }

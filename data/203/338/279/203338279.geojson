@@ -2,13 +2,14 @@
   "id": 203338279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.863525,-37.561848,143.863525,-37.561848",
     "geom:latitude":-37.561848,
     "geom:longitude":143.863525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Curtis St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203338279,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466188472,
     "wof:name":"Stitched Up-On Curtis",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tailor"
     ]
 },
-  "bbox": [143.863525,-37.561848,143.863525,-37.561848],
-  "geometry": {"coordinates":[143.863525,-37.561848],"type":"Point"}
+  "bbox": [
+    143.863525,
+    -37.561848,
+    143.863525,
+    -37.561848
+],
+  "geometry": {"coordinates":[143.86352500000001,-37.561848],"type":"Point"}
 }

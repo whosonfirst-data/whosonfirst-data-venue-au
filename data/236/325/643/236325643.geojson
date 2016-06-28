@@ -2,13 +2,14 @@
   "id": 236325643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752693,-32.054337,115.752693,-32.054337",
     "geom:latitude":-32.054337,
     "geom:longitude":115.752693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Terrace St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236325643,
-    "wof:lastmodified":1449002854,
+    "wof:lastmodified":1466190539,
     "wof:name":"Fremantle Prison",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "organiser"
     ]
 },
-  "bbox": [115.752693,-32.054337,115.752693,-32.054337],
-  "geometry": {"coordinates":[115.752693,-32.054337],"type":"Point"}
+  "bbox": [
+    115.752693,
+    -32.054337,
+    115.752693,
+    -32.054337
+],
+  "geometry": {"coordinates":[115.75269299999999,-32.054337],"type":"Point"}
 }

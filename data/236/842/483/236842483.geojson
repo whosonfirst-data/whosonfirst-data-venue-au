@@ -2,13 +2,14 @@
   "id": 236842483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.895508,-34.401672,150.895508,-34.401672",
     "geom:latitude":-34.401672,
     "geom:longitude":150.895508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Montague St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236842483,
-    "wof:lastmodified":1449001857,
+    "wof:lastmodified":1466192025,
     "wof:name":"Pioneer Concrete",
     "wof:parent_id":85769267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [150.895508,-34.401672,150.895508,-34.401672],
-  "geometry": {"coordinates":[150.895508,-34.401672],"type":"Point"}
+  "bbox": [
+    150.895508,
+    -34.401672,
+    150.895508,
+    -34.401672
+],
+  "geometry": {"coordinates":[150.89550800000001,-34.401672],"type":"Point"}
 }

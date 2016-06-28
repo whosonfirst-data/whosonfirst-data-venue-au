@@ -2,13 +2,14 @@
   "id": 252928703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.085754,-26.523293,153.085754,-26.523293",
     "geom:latitude":-26.523293,
     "geom:longitude":153.085754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Springfield Ave",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252928703,
-    "wof:lastmodified":1449006357,
+    "wof:lastmodified":1466189234,
     "wof:name":"Moncrieff W.A. & L.M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [153.085754,-26.523293,153.085754,-26.523293],
-  "geometry": {"coordinates":[153.085754,-26.523293],"type":"Point"}
+  "bbox": [
+    153.085754,
+    -26.523293,
+    153.085754,
+    -26.523293
+],
+  "geometry": {"coordinates":[153.08575400000001,-26.523293],"type":"Point"}
 }

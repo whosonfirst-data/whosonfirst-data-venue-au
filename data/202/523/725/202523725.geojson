@@ -2,13 +2,14 @@
   "id": 202523725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.162033,-38.101841,145.162033,-38.101841",
     "geom:latitude":-38.101841,
     "geom:longitude":145.162033,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Brett Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202523725,
-    "wof:lastmodified":1449061567,
+    "wof:lastmodified":1466189766,
     "wof:name":"Anderson's Commercial Removals Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relocation"
     ]
 },
-  "bbox": [145.162033,-38.101841,145.162033,-38.101841],
-  "geometry": {"coordinates":[145.162033,-38.101841],"type":"Point"}
+  "bbox": [
+    145.162033,
+    -38.101841,
+    145.162033,
+    -38.101841
+],
+  "geometry": {"coordinates":[145.16203300000001,-38.101841],"type":"Point"}
 }

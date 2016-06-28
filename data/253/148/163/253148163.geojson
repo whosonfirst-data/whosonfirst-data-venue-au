@@ -2,13 +2,14 @@
   "id": 253148163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.953918,-27.534117,151.953918,-27.534117",
     "geom:latitude":-27.534117,
     "geom:longitude":151.953918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Progress Crt",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253148163,
-    "wof:lastmodified":1449065307,
+    "wof:lastmodified":1466189575,
     "wof:name":"SES Industrial Contractors",
     "wof:parent_id":85779931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.953918,-27.534117,151.953918,-27.534117],
-  "geometry": {"coordinates":[151.953918,-27.534117],"type":"Point"}
+  "bbox": [
+    151.953918,
+    -27.534117,
+    151.953918,
+    -27.534117
+],
+  "geometry": {"coordinates":[151.95391799999999,-27.534117],"type":"Point"}
 }

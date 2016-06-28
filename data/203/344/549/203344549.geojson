@@ -2,13 +2,14 @@
   "id": 203344549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854813,-37.557117,143.854813,-37.557117",
     "geom:latitude":-37.557117,
     "geom:longitude":143.854813,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Webster St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203344549,
-    "wof:lastmodified":1449025044,
+    "wof:lastmodified":1466188581,
     "wof:name":"Complete Garden Ballarat The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [143.854813,-37.557117,143.854813,-37.557117],
-  "geometry": {"coordinates":[143.854813,-37.557117],"type":"Point"}
+  "bbox": [
+    143.854813,
+    -37.557117,
+    143.854813,
+    -37.557117
+],
+  "geometry": {"coordinates":[143.85481300000001,-37.557117],"type":"Point"}
 }

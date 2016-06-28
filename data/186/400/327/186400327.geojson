@@ -2,13 +2,14 @@
   "id": 186400327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.82016,-19.260262,146.82016,-19.260262",
     "geom:latitude":-19.260262,
     "geom:longitude":146.82016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Palmer St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186400327,
-    "wof:lastmodified":1449050501,
+    "wof:lastmodified":1466189314,
     "wof:name":"Tropical Cruise & Dive",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "diver"
     ]
 },
-  "bbox": [146.82016,-19.260262,146.82016,-19.260262],
-  "geometry": {"coordinates":[146.82016,-19.260262],"type":"Point"}
+  "bbox": [
+    146.82016,
+    -19.260262,
+    146.82016,
+    -19.260262
+],
+  "geometry": {"coordinates":[146.82015999999999,-19.260262],"type":"Point"}
 }

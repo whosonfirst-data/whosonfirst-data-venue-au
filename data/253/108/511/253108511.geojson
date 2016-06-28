@@ -2,13 +2,14 @@
   "id": 253108511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.838745,-37.782825,144.838745,-37.782825",
     "geom:latitude":-37.782825,
     "geom:longitude":144.838745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Alexandra Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253108511,
-    "wof:lastmodified":1449062872,
+    "wof:lastmodified":1466188907,
     "wof:name":"Alexandra Ave Childrens Centre Inc",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.838745,-37.782825,144.838745,-37.782825],
-  "geometry": {"coordinates":[144.838745,-37.782825],"type":"Point"}
+  "bbox": [
+    144.838745,
+    -37.782825,
+    144.838745,
+    -37.782825
+],
+  "geometry": {"coordinates":[144.83874499999999,-37.782825],"type":"Point"}
 }

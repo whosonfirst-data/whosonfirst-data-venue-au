@@ -2,13 +2,14 @@
   "id": 185999023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.462769,-33.366127,151.462769,-33.366127",
     "geom:latitude":-33.366127,
     "geom:longitude":151.462769,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Units 1 & 2, 130 Wyong Rd",
     "sg:city":"Killarney Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185999023,
-    "wof:lastmodified":1449008026,
+    "wof:lastmodified":1466188897,
     "wof:name":"Your Local Paint Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [151.462769,-33.366127,151.462769,-33.366127],
-  "geometry": {"coordinates":[151.462769,-33.366127],"type":"Point"}
+  "bbox": [
+    151.462769,
+    -33.366127,
+    151.462769,
+    -33.366127
+],
+  "geometry": {"coordinates":[151.46276900000001,-33.366127],"type":"Point"}
 }

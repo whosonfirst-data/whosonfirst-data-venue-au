@@ -2,13 +2,14 @@
   "id": 219558565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.992645,-33.914982,150.992645,-33.914982",
     "geom:latitude":-33.914982,
     "geom:longitude":150.992645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Airport Ave",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219558565,
-    "wof:lastmodified":1449071366,
+    "wof:lastmodified":1466190489,
     "wof:name":"Aviall Australia Pty Ltd",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [150.992645,-33.914982,150.992645,-33.914982],
-  "geometry": {"coordinates":[150.992645,-33.914982],"type":"Point"}
+  "bbox": [
+    150.992645,
+    -33.914982,
+    150.992645,
+    -33.914982
+],
+  "geometry": {"coordinates":[150.99264500000001,-33.914982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236246213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.831421,-38.085678,145.831421,-38.085678",
     "geom:latitude":-38.085678,
     "geom:longitude":145.831421,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Fisher Rd",
     "sg:city":"Drouin West",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236246213,
-    "wof:lastmodified":1449001843,
+    "wof:lastmodified":1466190202,
     "wof:name":"Mystic Park Stud Stock Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transport"
     ]
 },
-  "bbox": [145.831421,-38.085678,145.831421,-38.085678],
-  "geometry": {"coordinates":[145.831421,-38.085678],"type":"Point"}
+  "bbox": [
+    145.831421,
+    -38.085678,
+    145.831421,
+    -38.085678
+],
+  "geometry": {"coordinates":[145.83142100000001,-38.085678],"type":"Point"}
 }

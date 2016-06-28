@@ -2,13 +2,14 @@
   "id": 235964195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.101273,-27.419243,153.101273,-27.419243",
     "geom:latitude":-27.419243,
     "geom:longitude":153.101273,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Boronia Rd",
     "sg:city":"Brisbane Airport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235964195,
-    "wof:lastmodified":1449008518,
+    "wof:lastmodified":1466187267,
     "wof:name":"Aircraft Loaders and Packers",
     "wof:parent_id":85773779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agent"
     ]
 },
-  "bbox": [153.101273,-27.419243,153.101273,-27.419243],
-  "geometry": {"coordinates":[153.101273,-27.419243],"type":"Point"}
+  "bbox": [
+    153.101273,
+    -27.419243,
+    153.101273,
+    -27.419243
+],
+  "geometry": {"coordinates":[153.10127299999999,-27.419243],"type":"Point"}
 }

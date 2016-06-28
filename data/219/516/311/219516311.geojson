@@ -2,13 +2,14 @@
   "id": 219516311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.111023,-33.915241,151.111023,-33.915241",
     "geom:latitude":-33.915241,
     "geom:longitude":151.111023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Gould St",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219516311,
-    "wof:lastmodified":1449071067,
+    "wof:lastmodified":1466189822,
     "wof:name":"Telstar Of Australia",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.111023,-33.915241,151.111023,-33.915241],
-  "geometry": {"coordinates":[151.111023,-33.915241],"type":"Point"}
+  "bbox": [
+    151.111023,
+    -33.915241,
+    151.111023,
+    -33.915241
+],
+  "geometry": {"coordinates":[151.11102299999999,-33.915241],"type":"Point"}
 }

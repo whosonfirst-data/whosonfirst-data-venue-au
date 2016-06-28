@@ -2,13 +2,14 @@
   "id": 202389299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.745026,-34.605865,138.745026,-34.605865",
     "geom:latitude":-34.605865,
     "geom:longitude":138.745026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Adelaide Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202389299,
-    "wof:lastmodified":1449062150,
+    "wof:lastmodified":1466187356,
     "wof:name":"Welstead Robert Dr",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.745026,-34.605865,138.745026,-34.605865],
+  "bbox": [
+    138.745026,
+    -34.605865,
+    138.745026,
+    -34.605865
+],
   "geometry": {"coordinates":[138.745026,-34.605865],"type":"Point"}
 }

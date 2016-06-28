@@ -2,13 +2,14 @@
   "id": 236129065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.865967,-37.733223,144.865967,-37.733223",
     "geom:latitude":-37.733223,
     "geom:longitude":144.865967,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Wyong St",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236129065,
-    "wof:lastmodified":1449004484,
+    "wof:lastmodified":1466189227,
     "wof:name":"Centreway Fish & Chips",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.865967,-37.733223,144.865967,-37.733223],
-  "geometry": {"coordinates":[144.865967,-37.733223],"type":"Point"}
+  "bbox": [
+    144.865967,
+    -37.733223,
+    144.865967,
+    -37.733223
+],
+  "geometry": {"coordinates":[144.86596700000001,-37.733223],"type":"Point"}
 }

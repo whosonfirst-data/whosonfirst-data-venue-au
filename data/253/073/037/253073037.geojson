@@ -2,13 +2,14 @@
   "id": 253073037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.801666,-37.781883,144.801666,-37.781883",
     "geom:latitude":-37.781883,
     "geom:longitude":144.801666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Suspension St",
     "sg:city":"Ardeer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253073037,
-    "wof:lastmodified":1449063233,
+    "wof:lastmodified":1466188237,
     "wof:name":"Association Of Ukrainians In Victoria (A.U.V.)",
     "wof:parent_id":85776625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.801666,-37.781883,144.801666,-37.781883],
-  "geometry": {"coordinates":[144.801666,-37.781883],"type":"Point"}
+  "bbox": [
+    144.801666,
+    -37.781883,
+    144.801666,
+    -37.781883
+],
+  "geometry": {"coordinates":[144.80166600000001,-37.781883],"type":"Point"}
 }

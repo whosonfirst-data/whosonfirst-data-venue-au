@@ -2,13 +2,14 @@
   "id": 253099425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.836395,-37.796707,144.836395,-37.796707",
     "geom:latitude":-37.796707,
     "geom:longitude":144.836395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Wright St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253099425,
-    "wof:lastmodified":1449064760,
+    "wof:lastmodified":1466188721,
     "wof:name":"M & M Service Centre",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.836395,-37.796707,144.836395,-37.796707],
-  "geometry": {"coordinates":[144.836395,-37.796707],"type":"Point"}
+  "bbox": [
+    144.836395,
+    -37.796707,
+    144.836395,
+    -37.796707
+],
+  "geometry": {"coordinates":[144.83639500000001,-37.796707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220045825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.161987,-33.353561,116.161987,-33.353561",
     "geom:latitude":-33.353561,
     "geom:longitude":116.161987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Wallsend St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220045825,
-    "wof:lastmodified":1449074776,
+    "wof:lastmodified":1466187465,
     "wof:name":"Boiler, Vessel & Piping Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [116.161987,-33.353561,116.161987,-33.353561],
+  "bbox": [
+    116.161987,
+    -33.353561,
+    116.161987,
+    -33.353561
+],
   "geometry": {"coordinates":[116.161987,-33.353561],"type":"Point"}
 }

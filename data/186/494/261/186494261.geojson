@@ -2,13 +2,14 @@
   "id": 186494261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.754883,-19.272343,146.754883,-19.272343",
     "geom:latitude":-19.272343,
     "geom:longitude":146.754883,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186494261,
-    "wof:lastmodified":1449052723,
+    "wof:lastmodified":1466190349,
     "wof:name":"Motor Marine Service & Repairs",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [146.754883,-19.272343,146.754883,-19.272343],
-  "geometry": {"coordinates":[146.754883,-19.272343],"type":"Point"}
+  "bbox": [
+    146.754883,
+    -19.272343,
+    146.754883,
+    -19.272343
+],
+  "geometry": {"coordinates":[146.75488300000001,-19.272343],"type":"Point"}
 }

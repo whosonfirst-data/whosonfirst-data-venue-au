@@ -2,13 +2,14 @@
   "id": 252748091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.636772,-33.321705,115.636772,-33.321705",
     "geom:latitude":-33.321705,
     "geom:longitude":115.636772,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Victoria St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252748091,
-    "wof:lastmodified":1449006225,
+    "wof:lastmodified":1466187603,
     "wof:name":"Kebab Company The",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [115.636772,-33.321705,115.636772,-33.321705],
-  "geometry": {"coordinates":[115.636772,-33.321705],"type":"Point"}
+  "bbox": [
+    115.636772,
+    -33.321705,
+    115.636772,
+    -33.321705
+],
+  "geometry": {"coordinates":[115.63677199999999,-33.321705],"type":"Point"}
 }

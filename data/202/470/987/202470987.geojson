@@ -2,13 +2,14 @@
   "id": 202470987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.951202,-37.831608,144.951202,-37.831608",
     "geom:latitude":-37.831608,
     "geom:longitude":144.951202,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Montague St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202470987,
-    "wof:lastmodified":1449060728,
+    "wof:lastmodified":1466189085,
     "wof:name":"Motor Girl Motor Brokerage",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [144.951202,-37.831608,144.951202,-37.831608],
-  "geometry": {"coordinates":[144.951202,-37.831608],"type":"Point"}
+  "bbox": [
+    144.951202,
+    -37.831608,
+    144.951202,
+    -37.831608
+],
+  "geometry": {"coordinates":[144.95120199999999,-37.831608],"type":"Point"}
 }

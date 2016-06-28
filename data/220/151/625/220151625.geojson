@@ -2,13 +2,14 @@
   "id": 220151625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.359787,-38.151474,144.359787,-38.151474",
     "geom:latitude":-38.151474,
     "geom:longitude":144.359787,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2, 22 Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220151625,
-    "wof:lastmodified":1449074073,
+    "wof:lastmodified":1466188626,
     "wof:name":"PM Design Group",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.359787,-38.151474,144.359787,-38.151474],
-  "geometry": {"coordinates":[144.359787,-38.151474],"type":"Point"}
+  "bbox": [
+    144.359787,
+    -38.151474,
+    144.359787,
+    -38.151474
+],
+  "geometry": {"coordinates":[144.35978700000001,-38.151474],"type":"Point"}
 }

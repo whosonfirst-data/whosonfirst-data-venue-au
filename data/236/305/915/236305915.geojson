@@ -2,13 +2,14 @@
   "id": 236305915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.765022,-32.293007,115.765022,-32.293007",
     "geom:latitude":-32.293007,
     "geom:longitude":115.765022,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Elanora Drv",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236305915,
-    "wof:lastmodified":1449002056,
+    "wof:lastmodified":1466190543,
     "wof:name":"Evans M Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.765022,-32.293007,115.765022,-32.293007],
+  "bbox": [
+    115.765022,
+    -32.293007,
+    115.765022,
+    -32.293007
+],
   "geometry": {"coordinates":[115.765022,-32.293007],"type":"Point"}
 }

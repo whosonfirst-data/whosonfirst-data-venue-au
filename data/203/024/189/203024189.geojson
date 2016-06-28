@@ -2,13 +2,14 @@
   "id": 203024189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.262375,-20.076679,146.262375,-20.076679",
     "geom:latitude":-20.076679,
     "geom:longitude":146.262375,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gill St",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203024189,
-    "wof:lastmodified":1449025828,
+    "wof:lastmodified":1466187684,
     "wof:name":"Goldfield Bakery",
     "wof:parent_id":85779767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [146.262375,-20.076679,146.262375,-20.076679],
-  "geometry": {"coordinates":[146.262375,-20.076679],"type":"Point"}
+  "bbox": [
+    146.262375,
+    -20.076679,
+    146.262375,
+    -20.076679
+],
+  "geometry": {"coordinates":[146.26237499999999,-20.076679],"type":"Point"}
 }

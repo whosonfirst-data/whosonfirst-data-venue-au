@@ -2,13 +2,14 @@
   "id": 202925847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.089035,-30.315477,153.089035,-30.315477",
     "geom:latitude":-30.315477,
     "geom:longitude":153.089035,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 7 Elswick Pl",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202925847,
-    "wof:lastmodified":1449060132,
+    "wof:lastmodified":1466190741,
     "wof:name":"Coffs Auction Centre",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [153.089035,-30.315477,153.089035,-30.315477],
+  "bbox": [
+    153.089035,
+    -30.315477,
+    153.089035,
+    -30.315477
+],
   "geometry": {"coordinates":[153.089035,-30.315477],"type":"Point"}
 }

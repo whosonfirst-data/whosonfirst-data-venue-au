@@ -2,13 +2,14 @@
   "id": 236080995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.74028,-37.874058,144.74028,-37.874058",
     "geom:latitude":-37.874058,
     "geom:longitude":144.74028,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Linmax Crt",
     "sg:city":"Point Cook",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236080995,
-    "wof:lastmodified":1449005138,
+    "wof:lastmodified":1466188245,
     "wof:name":"Production Packaging Industries",
     "wof:parent_id":85780023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cardboard"
     ]
 },
-  "bbox": [144.74028,-37.874058,144.74028,-37.874058],
-  "geometry": {"coordinates":[144.74028,-37.874058],"type":"Point"}
+  "bbox": [
+    144.74028,
+    -37.874058,
+    144.74028,
+    -37.874058
+],
+  "geometry": {"coordinates":[144.74028000000001,-37.874058],"type":"Point"}
 }

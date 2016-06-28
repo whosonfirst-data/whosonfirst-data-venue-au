@@ -2,13 +2,14 @@
   "id": 169731627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.976624,-12.51263,130.976624,-12.51263",
     "geom:latitude":-12.51263,
     "geom:longitude":130.976624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cobham Crt",
     "sg:city":"Moulden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169731627,
-    "wof:lastmodified":1449035589,
+    "wof:lastmodified":1466187377,
     "wof:name":"Kyoto Contracting",
     "wof:parent_id":85774873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [130.976624,-12.51263,130.976624,-12.51263],
-  "geometry": {"coordinates":[130.976624,-12.51263],"type":"Point"}
+  "bbox": [
+    130.976624,
+    -12.51263,
+    130.976624,
+    -12.51263
+],
+  "geometry": {"coordinates":[130.97662399999999,-12.51263],"type":"Point"}
 }

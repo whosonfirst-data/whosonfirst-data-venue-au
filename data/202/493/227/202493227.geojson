@@ -2,13 +2,14 @@
   "id": 202493227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.039185,-37.903957,145.039185,-37.903957",
     "geom:latitude":-37.903957,
     "geom:longitude":145.039185,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"550 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202493227,
-    "wof:lastmodified":1449060912,
+    "wof:lastmodified":1466189437,
     "wof:name":"Early Settler",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [145.039185,-37.903957,145.039185,-37.903957],
+  "bbox": [
+    145.039185,
+    -37.903957,
+    145.039185,
+    -37.903957
+],
   "geometry": {"coordinates":[145.039185,-37.903957],"type":"Point"}
 }

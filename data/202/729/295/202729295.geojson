@@ -2,13 +2,14 @@
   "id": 202729295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.015274,-27.314819,153.015274,-27.314819",
     "geom:latitude":-27.314819,
     "geom:longitude":153.015274,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Taragon St",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202729295,
-    "wof:lastmodified":1449061400,
+    "wof:lastmodified":1466189385,
     "wof:name":"Dent-Rite",
     "wof:parent_id":85773917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [153.015274,-27.314819,153.015274,-27.314819],
-  "geometry": {"coordinates":[153.015274,-27.314819],"type":"Point"}
+  "bbox": [
+    153.015274,
+    -27.314819,
+    153.015274,
+    -27.314819
+],
+  "geometry": {"coordinates":[153.01527400000001,-27.314819],"type":"Point"}
 }

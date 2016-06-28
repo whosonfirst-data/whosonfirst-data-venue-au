@@ -2,13 +2,14 @@
   "id": 203348045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.857452,-37.556332,143.857452,-37.556332",
     "geom:latitude":-37.556332,
     "geom:longitude":143.857452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Armstrong St",
     "sg:city":"South Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203348045,
-    "wof:lastmodified":1449025038,
+    "wof:lastmodified":1466188644,
     "wof:name":"Des Elliott",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electric"
     ]
 },
-  "bbox": [143.857452,-37.556332,143.857452,-37.556332],
-  "geometry": {"coordinates":[143.857452,-37.556332],"type":"Point"}
+  "bbox": [
+    143.857452,
+    -37.556332,
+    143.857452,
+    -37.556332
+],
+  "geometry": {"coordinates":[143.85745199999999,-37.556332],"type":"Point"}
 }

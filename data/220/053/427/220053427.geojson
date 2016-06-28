@@ -2,13 +2,14 @@
   "id": 220053427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.680862,-33.354782,115.680862,-33.354782",
     "geom:latitude":-33.354782,
     "geom:longitude":115.680862,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Beddingfield St",
     "sg:city":"Picton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220053427,
-    "wof:lastmodified":1449074190,
+    "wof:lastmodified":1466187535,
     "wof:name":"Warrick Welding",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [115.680862,-33.354782,115.680862,-33.354782],
+  "bbox": [
+    115.680862,
+    -33.354782,
+    115.680862,
+    -33.354782
+],
   "geometry": {"coordinates":[115.680862,-33.354782],"type":"Point"}
 }

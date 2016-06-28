@@ -2,13 +2,14 @@
   "id": 219908843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.938004,-34.300598,150.938004,-34.300598",
     "geom:latitude":-34.300598,
     "geom:longitude":150.938004,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Headlands Ave",
     "sg:city":"Austinmer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219908843,
-    "wof:lastmodified":1449072381,
+    "wof:lastmodified":1466191754,
     "wof:name":"Headlands Hotel",
     "wof:parent_id":85768721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [150.938004,-34.300598,150.938004,-34.300598],
-  "geometry": {"coordinates":[150.938004,-34.300598],"type":"Point"}
+  "bbox": [
+    150.938004,
+    -34.300598,
+    150.938004,
+    -34.300598
+],
+  "geometry": {"coordinates":[150.93800400000001,-34.300598],"type":"Point"}
 }

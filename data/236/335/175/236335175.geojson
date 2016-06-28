@@ -2,13 +2,14 @@
   "id": 236335175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.806374,-32.076691,115.806374,-32.076691",
     "geom:latitude":-32.076691,
     "geom:longitude":115.806374,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 20 Coolbellup Shopping Centre",
     "sg:city":"Coolbellup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236335175,
-    "wof:lastmodified":1449003902,
+    "wof:lastmodified":1466190716,
     "wof:name":"Coolbellup Deli",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [115.806374,-32.076691,115.806374,-32.076691],
-  "geometry": {"coordinates":[115.806374,-32.076691],"type":"Point"}
+  "bbox": [
+    115.806374,
+    -32.076691,
+    115.806374,
+    -32.076691
+],
+  "geometry": {"coordinates":[115.80637400000001,-32.076691],"type":"Point"}
 }

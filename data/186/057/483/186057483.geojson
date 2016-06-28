@@ -2,13 +2,14 @@
   "id": 186057483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.486099,-33.109455,151.486099,-33.109455",
     "geom:latitude":-33.109455,
     "geom:longitude":151.486099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Dora St",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186057483,
-    "wof:lastmodified":1449051701,
+    "wof:lastmodified":1466188384,
     "wof:name":"St George Bank Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.486099,-33.109455,151.486099,-33.109455],
+  "bbox": [
+    151.486099,
+    -33.109455,
+    151.486099,
+    -33.109455
+],
   "geometry": {"coordinates":[151.486099,-33.109455],"type":"Point"}
 }

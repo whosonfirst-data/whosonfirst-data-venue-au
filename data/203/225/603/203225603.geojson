@@ -2,13 +2,14 @@
   "id": 203225603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.616226,-40.92775,145.616226,-40.92775",
     "geom:latitude":-40.92775,
     "geom:longitude":145.616226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Esplanade & Port Rds",
     "sg:city":"Boat Harbour Beach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203225603,
-    "wof:lastmodified":1449025501,
+    "wof:lastmodified":1466187370,
     "wof:name":"Jolly Rogers On The Beach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.616226,-40.92775,145.616226,-40.92775],
-  "geometry": {"coordinates":[145.616226,-40.92775],"type":"Point"}
+  "bbox": [
+    145.616226,
+    -40.92775,
+    145.616226,
+    -40.92775
+],
+  "geometry": {"coordinates":[145.61622600000001,-40.92775],"type":"Point"}
 }

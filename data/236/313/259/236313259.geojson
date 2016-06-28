@@ -2,13 +2,14 @@
   "id": 236313259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.762627,-32.056015,115.762627,-32.056015",
     "geom:latitude":-32.056015,
     "geom:longitude":115.762627,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Stack St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236313259,
-    "wof:lastmodified":1449001751,
+    "wof:lastmodified":1466190433,
     "wof:name":"Central Refrigeration Service",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retail"
     ]
 },
-  "bbox": [115.762627,-32.056015,115.762627,-32.056015],
-  "geometry": {"coordinates":[115.762627,-32.056015],"type":"Point"}
+  "bbox": [
+    115.762627,
+    -32.056015,
+    115.762627,
+    -32.056015
+],
+  "geometry": {"coordinates":[115.76262699999999,-32.056015],"type":"Point"}
 }

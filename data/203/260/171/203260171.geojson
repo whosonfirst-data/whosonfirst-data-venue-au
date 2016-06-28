@@ -2,13 +2,14 @@
   "id": 203260171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.016251,-33.384972,148.016251,-33.384972",
     "geom:latitude":-33.384972,
     "geom:longitude":148.016251,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ferry St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203260171,
-    "wof:lastmodified":1449025262,
+    "wof:lastmodified":1466187650,
     "wof:name":"Lach-Haven School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [148.016251,-33.384972,148.016251,-33.384972],
-  "geometry": {"coordinates":[148.016251,-33.384972],"type":"Point"}
+  "bbox": [
+    148.016251,
+    -33.384972,
+    148.016251,
+    -33.384972
+],
+  "geometry": {"coordinates":[148.01625100000001,-33.384972],"type":"Point"}
 }

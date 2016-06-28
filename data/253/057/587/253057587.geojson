@@ -2,13 +2,14 @@
   "id": 253057587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.768295,-37.762341,144.768295,-37.762341",
     "geom:latitude":-37.762341,
     "geom:longitude":144.768295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Dumphries St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253057587,
-    "wof:lastmodified":1449064284,
+    "wof:lastmodified":1466188035,
     "wof:name":"One Stop Corner Shop",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.768295,-37.762341,144.768295,-37.762341],
-  "geometry": {"coordinates":[144.768295,-37.762341],"type":"Point"}
+  "bbox": [
+    144.768295,
+    -37.762341,
+    144.768295,
+    -37.762341
+],
+  "geometry": {"coordinates":[144.76829499999999,-37.762341],"type":"Point"}
 }

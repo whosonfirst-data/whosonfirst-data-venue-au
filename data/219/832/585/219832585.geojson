@@ -2,13 +2,14 @@
   "id": 219832585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.795723,-31.992376,115.795723,-31.992376",
     "geom:latitude":-31.992376,
     "geom:longitude":115.795723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Alexander Pl",
     "sg:city":"Dalkeith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219832585,
-    "wof:lastmodified":1449070385,
+    "wof:lastmodified":1466191582,
     "wof:name":"Australian Wealth Solutions",
     "wof:parent_id":85769141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buyer"
     ]
 },
-  "bbox": [115.795723,-31.992376,115.795723,-31.992376],
+  "bbox": [
+    115.795723,
+    -31.992376,
+    115.795723,
+    -31.992376
+],
   "geometry": {"coordinates":[115.795723,-31.992376],"type":"Point"}
 }

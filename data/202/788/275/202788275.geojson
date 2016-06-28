@@ -2,13 +2,14 @@
   "id": 202788275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.784454,-32.927109,151.784454,-32.927109",
     "geom:latitude":-32.927109,
     "geom:longitude":151.784454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 47, 97 Scott St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202788275,
-    "wof:lastmodified":1449061424,
+    "wof:lastmodified":1466190219,
     "wof:name":"Fourth R The",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [151.784454,-32.927109,151.784454,-32.927109],
-  "geometry": {"coordinates":[151.784454,-32.927109],"type":"Point"}
+  "bbox": [
+    151.784454,
+    -32.927109,
+    151.784454,
+    -32.927109
+],
+  "geometry": {"coordinates":[151.78445400000001,-32.927109],"type":"Point"}
 }

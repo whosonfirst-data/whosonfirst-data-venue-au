@@ -2,13 +2,14 @@
   "id": 185870479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.809814,-25.302225,152.809814,-25.302225",
     "geom:latitude":-25.302225,
     "geom:longitude":152.809814,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Maryborough Hervey Bay Rd",
     "sg:city":"Urraween",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185870479,
-    "wof:lastmodified":1449007030,
+    "wof:lastmodified":1466187572,
     "wof:name":"Mr Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [152.809814,-25.302225,152.809814,-25.302225],
-  "geometry": {"coordinates":[152.809814,-25.302225],"type":"Point"}
+  "bbox": [
+    152.809814,
+    -25.302225,
+    152.809814,
+    -25.302225
+],
+  "geometry": {"coordinates":[152.80981399999999,-25.302225],"type":"Point"}
 }

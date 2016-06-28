@@ -2,13 +2,14 @@
   "id": 220161999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.356857,-38.148277,144.356857,-38.148277",
     "geom:latitude":-38.148277,
     "geom:longitude":144.356857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220161999,
-    "wof:lastmodified":1449074355,
+    "wof:lastmodified":1466188834,
     "wof:name":"JCs Splitz",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [144.356857,-38.148277,144.356857,-38.148277],
-  "geometry": {"coordinates":[144.356857,-38.148277],"type":"Point"}
+  "bbox": [
+    144.356857,
+    -38.148277,
+    144.356857,
+    -38.148277
+],
+  "geometry": {"coordinates":[144.35685699999999,-38.148277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220145773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.364471,-38.149555,144.364471,-38.149555",
     "geom:latitude":-38.149555,
     "geom:longitude":144.364471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, 168-170 Little Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220145773,
-    "wof:lastmodified":1449074264,
+    "wof:lastmodified":1466188505,
     "wof:name":"Vitality Personnel",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.364471,-38.149555,144.364471,-38.149555],
-  "geometry": {"coordinates":[144.364471,-38.149555],"type":"Point"}
+  "bbox": [
+    144.364471,
+    -38.149555,
+    144.364471,
+    -38.149555
+],
+  "geometry": {"coordinates":[144.36447100000001,-38.149555],"type":"Point"}
 }

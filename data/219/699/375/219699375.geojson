@@ -2,13 +2,14 @@
   "id": 219699375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.490265,-32.156906,152.490265,-32.156906",
     "geom:latitude":-32.156906,
     "geom:longitude":152.490265,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11a Chapmans Rd",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219699375,
-    "wof:lastmodified":1449070877,
+    "wof:lastmodified":1466191154,
     "wof:name":"Village Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [152.490265,-32.156906,152.490265,-32.156906],
-  "geometry": {"coordinates":[152.490265,-32.156906],"type":"Point"}
+  "bbox": [
+    152.490265,
+    -32.156906,
+    152.490265,
+    -32.156906
+],
+  "geometry": {"coordinates":[152.49026499999999,-32.156906],"type":"Point"}
 }

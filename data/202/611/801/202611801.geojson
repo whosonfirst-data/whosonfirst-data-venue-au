@@ -2,13 +2,14 @@
   "id": 202611801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.839905,-28.798628,151.839905,-28.798628",
     "geom:latitude":-28.798628,
     "geom:longitude":151.839905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bent's Rd",
     "sg:city":"Ballandean",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202611801,
-    "wof:lastmodified":1449062124,
+    "wof:lastmodified":1466187449,
     "wof:name":"Ballandean Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nsw"
     ]
 },
-  "bbox": [151.839905,-28.798628,151.839905,-28.798628],
-  "geometry": {"coordinates":[151.839905,-28.798628],"type":"Point"}
+  "bbox": [
+    151.839905,
+    -28.798628,
+    151.839905,
+    -28.798628
+],
+  "geometry": {"coordinates":[151.83990499999999,-28.798628],"type":"Point"}
 }

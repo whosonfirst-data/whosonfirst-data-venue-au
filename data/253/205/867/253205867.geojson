@@ -2,13 +2,14 @@
   "id": 253205867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.957108,-27.565811,151.957108,-27.565811",
     "geom:latitude":-27.565811,
     "geom:longitude":151.957108,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Hume St",
     "sg:city":"Toowoomba (opp Coco&#039;s) Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253205867,
-    "wof:lastmodified":1449064592,
+    "wof:lastmodified":1466190384,
     "wof:name":"Budget Natural Food Market",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [151.957108,-27.565811,151.957108,-27.565811],
-  "geometry": {"coordinates":[151.957108,-27.565811],"type":"Point"}
+  "bbox": [
+    151.957108,
+    -27.565811,
+    151.957108,
+    -27.565811
+],
+  "geometry": {"coordinates":[151.95710800000001,-27.565811],"type":"Point"}
 }

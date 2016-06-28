@@ -2,13 +2,14 @@
   "id": 202572019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.427231,-37.652855,144.427231,-37.652855",
     "geom:latitude":-37.652855,
     "geom:longitude":144.427231,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Wittick St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202572019,
-    "wof:lastmodified":1449061677,
+    "wof:lastmodified":1466187061,
     "wof:name":"Warren's Plumbing & Drainage Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.427231,-37.652855,144.427231,-37.652855],
-  "geometry": {"coordinates":[144.427231,-37.652855],"type":"Point"}
+  "bbox": [
+    144.427231,
+    -37.652855,
+    144.427231,
+    -37.652855
+],
+  "geometry": {"coordinates":[144.42723100000001,-37.652855],"type":"Point"}
 }

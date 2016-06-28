@@ -2,13 +2,14 @@
   "id": 220019201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.614639,-35.022472,138.614639,-35.022472",
     "geom:latitude":-35.022472,
     "geom:longitude":138.614639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Brighton Pde",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220019201,
-    "wof:lastmodified":1449074516,
+    "wof:lastmodified":1466187122,
     "wof:name":"Black Chris",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [138.614639,-35.022472,138.614639,-35.022472],
-  "geometry": {"coordinates":[138.614639,-35.022472],"type":"Point"}
+  "bbox": [
+    138.614639,
+    -35.022472,
+    138.614639,
+    -35.022472
+],
+  "geometry": {"coordinates":[138.61463900000001,-35.022472],"type":"Point"}
 }

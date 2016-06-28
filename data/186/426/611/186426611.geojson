@@ -2,13 +2,14 @@
   "id": 186426611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.824326,-19.259138,146.824326,-19.259138",
     "geom:latitude":-19.259138,
     "geom:longitude":146.824326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42- 68 Palmer St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186426611,
-    "wof:lastmodified":1449050975,
+    "wof:lastmodified":1466189752,
     "wof:name":"Maritime Museum of Townsville",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.824326,-19.259138,146.824326,-19.259138],
-  "geometry": {"coordinates":[146.824326,-19.259138],"type":"Point"}
+  "bbox": [
+    146.824326,
+    -19.259138,
+    146.824326,
+    -19.259138
+],
+  "geometry": {"coordinates":[146.82432600000001,-19.259138],"type":"Point"}
 }

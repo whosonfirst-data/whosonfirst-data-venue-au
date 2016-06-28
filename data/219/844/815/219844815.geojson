@@ -2,13 +2,14 @@
   "id": 219844815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.192902,-33.857342,151.192902,-33.857342",
     "geom:latitude":-33.857342,
     "geom:longitude":151.192902,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219844815,
-    "wof:lastmodified":1449071891,
+    "wof:lastmodified":1466191509,
     "wof:name":"Bruce Callaghan & Associates",
     "wof:parent_id":85776079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.192902,-33.857342,151.192902,-33.857342],
+  "bbox": [
+    151.192902,
+    -33.857342,
+    151.192902,
+    -33.857342
+],
   "geometry": {"coordinates":[151.192902,-33.857342],"type":"Point"}
 }

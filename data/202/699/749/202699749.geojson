@@ -2,13 +2,14 @@
   "id": 202699749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.046753,-27.374161,153.046753,-27.374161",
     "geom:latitude":-27.374161,
     "geom:longitude":153.046753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Newman Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202699749,
-    "wof:lastmodified":1449060452,
+    "wof:lastmodified":1466188822,
     "wof:name":"Geebung Primary",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [153.046753,-27.374161,153.046753,-27.374161],
+  "bbox": [
+    153.046753,
+    -27.374161,
+    153.046753,
+    -27.374161
+],
   "geometry": {"coordinates":[153.046753,-27.374161],"type":"Point"}
 }

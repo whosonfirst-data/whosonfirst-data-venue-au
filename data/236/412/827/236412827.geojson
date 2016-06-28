@@ -2,13 +2,14 @@
   "id": 236412827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.771408,-32.154259,115.771408,-32.154259",
     "geom:latitude":-32.154259,
     "geom:longitude":115.771408,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Redemptora Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236412827,
-    "wof:lastmodified":1449002181,
+    "wof:lastmodified":1466191139,
     "wof:name":"Hamilton Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [115.771408,-32.154259,115.771408,-32.154259],
-  "geometry": {"coordinates":[115.771408,-32.154259],"type":"Point"}
+  "bbox": [
+    115.771408,
+    -32.154259,
+    115.771408,
+    -32.154259
+],
+  "geometry": {"coordinates":[115.77140799999999,-32.154259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236081005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.662674,-37.914341,144.662674,-37.914341",
     "geom:latitude":-37.914341,
     "geom:longitude":144.662674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 1/ 50-54 Lock Ave",
     "sg:city":"Werribee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236081005,
-    "wof:lastmodified":1449002513,
+    "wof:lastmodified":1466188245,
     "wof:name":"Flo-Well Pumps",
     "wof:parent_id":85771137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [144.662674,-37.914341,144.662674,-37.914341],
-  "geometry": {"coordinates":[144.662674,-37.914341],"type":"Point"}
+  "bbox": [
+    144.662674,
+    -37.914341,
+    144.662674,
+    -37.914341
+],
+  "geometry": {"coordinates":[144.66267400000001,-37.914341],"type":"Point"}
 }

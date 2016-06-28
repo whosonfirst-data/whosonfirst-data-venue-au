@@ -2,13 +2,14 @@
   "id": 186403969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.820221,-19.269531,146.820221,-19.269531",
     "geom:latitude":-19.269531,
     "geom:longitude":146.820221,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Perkins St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186403969,
-    "wof:lastmodified":1449052642,
+    "wof:lastmodified":1466189373,
     "wof:name":"Family Emergency Accommodation Townsville",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [146.820221,-19.269531,146.820221,-19.269531],
+  "bbox": [
+    146.820221,
+    -19.269531,
+    146.820221,
+    -19.269531
+],
   "geometry": {"coordinates":[146.820221,-19.269531],"type":"Point"}
 }

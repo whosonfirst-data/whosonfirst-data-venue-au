@@ -2,13 +2,14 @@
   "id": 186325913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.961571,-31.916384,115.961571,-31.916384",
     "geom:latitude":-31.916384,
     "geom:longitude":115.961571,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Great Eastern Hwy",
     "sg:city":"South Guildford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186325913,
-    "wof:lastmodified":1449051412,
+    "wof:lastmodified":1466188019,
     "wof:name":"Kwik Logistics",
     "wof:parent_id":85777993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [115.961571,-31.916384,115.961571,-31.916384],
-  "geometry": {"coordinates":[115.961571,-31.916384],"type":"Point"}
+  "bbox": [
+    115.961571,
+    -31.916384,
+    115.961571,
+    -31.916384
+],
+  "geometry": {"coordinates":[115.96157100000001,-31.916384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169789397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.607056,-38.607738,145.607056,-38.607738",
     "geom:latitude":-38.607738,
     "geom:longitude":145.607056,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Carneys Rd",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169789397,
-    "wof:lastmodified":1449034159,
+    "wof:lastmodified":1466188525,
     "wof:name":"VCF Transport Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [145.607056,-38.607738,145.607056,-38.607738],
+  "bbox": [
+    145.607056,
+    -38.607738,
+    145.607056,
+    -38.607738
+],
   "geometry": {"coordinates":[145.607056,-38.607738],"type":"Point"}
 }

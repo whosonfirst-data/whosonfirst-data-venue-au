@@ -2,13 +2,14 @@
   "id": 185702135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.215347,-21.416409,149.215347,-21.416409",
     "geom:latitude":-21.416409,
     "geom:longitude":149.215347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 112 Broad St",
     "sg:city":"Sarina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185702135,
-    "wof:lastmodified":1449007430,
+    "wof:lastmodified":1466189124,
     "wof:name":"Beaurepaires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [149.215347,-21.416409,149.215347,-21.416409],
-  "geometry": {"coordinates":[149.215347,-21.416409],"type":"Point"}
+  "bbox": [
+    149.215347,
+    -21.416409,
+    149.215347,
+    -21.416409
+],
+  "geometry": {"coordinates":[149.21534700000001,-21.416409],"type":"Point"}
 }

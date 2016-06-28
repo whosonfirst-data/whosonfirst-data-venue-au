@@ -2,13 +2,14 @@
   "id": 186306305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.012344,-30.632339,153.012344,-30.632339",
     "geom:latitude":-30.632339,
     "geom:longitude":153.012344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Swimming Creek Rd",
     "sg:city":"Nambucca Heads",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186306305,
-    "wof:lastmodified":1449052914,
+    "wof:lastmodified":1466187813,
     "wof:name":"A & J de Jonge Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [153.012344,-30.632339,153.012344,-30.632339],
-  "geometry": {"coordinates":[153.012344,-30.632339],"type":"Point"}
+  "bbox": [
+    153.012344,
+    -30.632339,
+    153.012344,
+    -30.632339
+],
+  "geometry": {"coordinates":[153.01234400000001,-30.632339],"type":"Point"}
 }

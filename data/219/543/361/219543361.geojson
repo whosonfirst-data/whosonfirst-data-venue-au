@@ -2,13 +2,14 @@
   "id": 219543361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.055817,-33.923565,151.055817,-33.923565",
     "geom:latitude":-33.923565,
     "geom:longitude":151.055817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Highclere Ave",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219543361,
-    "wof:lastmodified":1449071083,
+    "wof:lastmodified":1466190326,
     "wof:name":"Assaad Nabil A Dr",
     "wof:parent_id":85774747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.055817,-33.923565,151.055817,-33.923565],
-  "geometry": {"coordinates":[151.055817,-33.923565],"type":"Point"}
+  "bbox": [
+    151.055817,
+    -33.923565,
+    151.055817,
+    -33.923565
+],
+  "geometry": {"coordinates":[151.05581699999999,-33.923565],"type":"Point"}
 }

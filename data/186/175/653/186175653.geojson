@@ -2,13 +2,14 @@
   "id": 186175653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.912842,-31.428776,152.912842,-31.428776",
     "geom:latitude":-31.428776,
     "geom:longitude":152.912842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Clarence St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186175653,
-    "wof:lastmodified":1449052228,
+    "wof:lastmodified":1466189939,
     "wof:name":"River Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.912842,-31.428776,152.912842,-31.428776],
-  "geometry": {"coordinates":[152.912842,-31.428776],"type":"Point"}
+  "bbox": [
+    152.912842,
+    -31.428776,
+    152.912842,
+    -31.428776
+],
+  "geometry": {"coordinates":[152.91284200000001,-31.428776],"type":"Point"}
 }

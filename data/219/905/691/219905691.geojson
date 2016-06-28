@@ -2,13 +2,14 @@
   "id": 219905691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.913315,-34.317696,150.913315,-34.317696",
     "geom:latitude":-34.317696,
     "geom:longitude":150.913315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Lachlan St",
     "sg:city":"Thirroul",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219905691,
-    "wof:lastmodified":1449071764,
+    "wof:lastmodified":1466191609,
     "wof:name":"P & S CHILDS Building Services",
     "wof:parent_id":85770439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [150.913315,-34.317696,150.913315,-34.317696],
-  "geometry": {"coordinates":[150.913315,-34.317696],"type":"Point"}
+  "bbox": [
+    150.913315,
+    -34.317696,
+    150.913315,
+    -34.317696
+],
+  "geometry": {"coordinates":[150.91331500000001,-34.317696],"type":"Point"}
 }

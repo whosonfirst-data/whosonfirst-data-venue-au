@@ -2,13 +2,14 @@
   "id": 203308845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.827667,-37.539948,143.827667,-37.539948",
     "geom:latitude":-37.539948,
     "geom:longitude":143.827667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1227c Howitt St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203308845,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466188083,
     "wof:name":"LH Hairdressing",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [143.827667,-37.539948,143.827667,-37.539948],
-  "geometry": {"coordinates":[143.827667,-37.539948],"type":"Point"}
+  "bbox": [
+    143.827667,
+    -37.539948,
+    143.827667,
+    -37.539948
+],
+  "geometry": {"coordinates":[143.82766699999999,-37.539948],"type":"Point"}
 }

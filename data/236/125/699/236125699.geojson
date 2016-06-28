@@ -2,13 +2,14 @@
   "id": 236125699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.905853,-37.773338,144.905853,-37.773338",
     "geom:latitude":-37.773338,
     "geom:longitude":144.905853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Newsom St",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236125699,
-    "wof:lastmodified":1449005108,
+    "wof:lastmodified":1466189160,
     "wof:name":"Dellamarta Plumbing Services",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.905853,-37.773338,144.905853,-37.773338],
-  "geometry": {"coordinates":[144.905853,-37.773338],"type":"Point"}
+  "bbox": [
+    144.905853,
+    -37.773338,
+    144.905853,
+    -37.773338
+],
+  "geometry": {"coordinates":[144.90585300000001,-37.773338],"type":"Point"}
 }

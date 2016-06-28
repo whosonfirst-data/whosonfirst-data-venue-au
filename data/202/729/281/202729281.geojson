@@ -2,13 +2,14 @@
   "id": 202729281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.007629,-27.317314,153.007629,-27.317314",
     "geom:latitude":-27.317314,
     "geom:longitude":153.007629,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Strathpine Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202729281,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466189384,
     "wof:name":"Denholm Chiropractic Clinic",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.007629,-27.317314,153.007629,-27.317314],
-  "geometry": {"coordinates":[153.007629,-27.317314],"type":"Point"}
+  "bbox": [
+    153.007629,
+    -27.317314,
+    153.007629,
+    -27.317314
+],
+  "geometry": {"coordinates":[153.00762900000001,-27.317314],"type":"Point"}
 }

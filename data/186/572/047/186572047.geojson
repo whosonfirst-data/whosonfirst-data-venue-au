@@ -2,13 +2,14 @@
   "id": 186572047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.860504,-29.963453,146.860504,-29.963453",
     "geom:latitude":-29.963453,
     "geom:longitude":146.860504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Bourke & Belmore Sts",
     "sg:city":"Brewarrina",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186572047,
-    "wof:lastmodified":1449052001,
+    "wof:lastmodified":1466190936,
     "wof:name":"Ampol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.860504,-29.963453,146.860504,-29.963453],
-  "geometry": {"coordinates":[146.860504,-29.963453],"type":"Point"}
+  "bbox": [
+    146.860504,
+    -29.963453,
+    146.860504,
+    -29.963453
+],
+  "geometry": {"coordinates":[146.86050399999999,-29.963453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236676831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.046753,-30.88805,153.046753,-30.88805",
     "geom:latitude":-30.88805,
     "geom:longitude":153.046753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Phillip Drv",
     "sg:city":"South West Rocks",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236676831,
-    "wof:lastmodified":1449003832,
+    "wof:lastmodified":1466191814,
     "wof:name":"South West Rocks Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [153.046753,-30.88805,153.046753,-30.88805],
+  "bbox": [
+    153.046753,
+    -30.88805,
+    153.046753,
+    -30.88805
+],
   "geometry": {"coordinates":[153.046753,-30.88805],"type":"Point"}
 }

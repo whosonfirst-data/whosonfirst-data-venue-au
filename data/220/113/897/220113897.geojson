@@ -2,13 +2,14 @@
   "id": 220113897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.507584,-38.254898,144.507584,-38.254898",
     "geom:latitude":-38.254898,
     "geom:longitude":144.507584,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Cruikshank Ave",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220113897,
-    "wof:lastmodified":1449074807,
+    "wof:lastmodified":1466188095,
     "wof:name":"Ozbuild",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.507584,-38.254898,144.507584,-38.254898],
-  "geometry": {"coordinates":[144.507584,-38.254898],"type":"Point"}
+  "bbox": [
+    144.507584,
+    -38.254898,
+    144.507584,
+    -38.254898
+],
+  "geometry": {"coordinates":[144.50758400000001,-38.254898],"type":"Point"}
 }

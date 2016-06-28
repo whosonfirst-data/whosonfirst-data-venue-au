@@ -2,13 +2,14 @@
   "id": 202607321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.679611,-33.766232,150.679611,-33.766232",
     "geom:latitude":-33.766232,
     "geom:longitude":150.679611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Batt & Mulgoa Rds",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202607321,
-    "wof:lastmodified":1449060439,
+    "wof:lastmodified":1466187387,
     "wof:name":"Repco",
     "wof:parent_id":85780073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [150.679611,-33.766232,150.679611,-33.766232],
-  "geometry": {"coordinates":[150.679611,-33.766232],"type":"Point"}
+  "bbox": [
+    150.679611,
+    -33.766232,
+    150.679611,
+    -33.766232
+],
+  "geometry": {"coordinates":[150.67961099999999,-33.766232],"type":"Point"}
 }

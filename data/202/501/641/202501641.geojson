@@ -2,13 +2,14 @@
   "id": 202501641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.037964,-37.918465,145.037964,-37.918465",
     "geom:latitude":-37.918465,
     "geom:longitude":145.037964,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202501641,
-    "wof:lastmodified":1449062672,
+    "wof:lastmodified":1466189541,
     "wof:name":"Connectivity Pty Ltd",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [145.037964,-37.918465,145.037964,-37.918465],
-  "geometry": {"coordinates":[145.037964,-37.918465],"type":"Point"}
+  "bbox": [
+    145.037964,
+    -37.918465,
+    145.037964,
+    -37.918465
+],
+  "geometry": {"coordinates":[145.03796399999999,-37.918465],"type":"Point"}
 }

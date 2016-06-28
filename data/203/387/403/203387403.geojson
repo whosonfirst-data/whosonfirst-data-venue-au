@@ -2,13 +2,14 @@
   "id": 203387403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.880249,-37.556664,143.880249,-37.556664",
     "geom:latitude":-37.556664,
     "geom:longitude":143.880249,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Nelson St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203387403,
-    "wof:lastmodified":1449026606,
+    "wof:lastmodified":1466189329,
     "wof:name":"KAOS Express",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [143.880249,-37.556664,143.880249,-37.556664],
-  "geometry": {"coordinates":[143.880249,-37.556664],"type":"Point"}
+  "bbox": [
+    143.880249,
+    -37.556664,
+    143.880249,
+    -37.556664
+],
+  "geometry": {"coordinates":[143.88024899999999,-37.556664],"type":"Point"}
 }

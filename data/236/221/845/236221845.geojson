@@ -2,13 +2,14 @@
   "id": 236221845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.498123,-38.035049,145.498123,-38.035049",
     "geom:latitude":-38.035049,
     "geom:longitude":145.498123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Army Rd",
     "sg:city":"Pakenham Upper",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236221845,
-    "wof:lastmodified":1449003042,
+    "wof:lastmodified":1466190000,
     "wof:name":"Bastow A. & K.A. & Son Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [145.498123,-38.035049,145.498123,-38.035049],
-  "geometry": {"coordinates":[145.498123,-38.035049],"type":"Point"}
+  "bbox": [
+    145.498123,
+    -38.035049,
+    145.498123,
+    -38.035049
+],
+  "geometry": {"coordinates":[145.49812299999999,-38.035049],"type":"Point"}
 }

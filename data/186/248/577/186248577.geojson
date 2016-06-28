@@ -2,13 +2,14 @@
   "id": 186248577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.885345,-31.448942,152.885345,-31.448942",
     "geom:latitude":-31.448942,
     "geom:longitude":152.885345,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Jindalee Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186248577,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1466187405,
     "wof:name":"Mid North Coast Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insulation"
     ]
 },
-  "bbox": [152.885345,-31.448942,152.885345,-31.448942],
+  "bbox": [
+    152.885345,
+    -31.448942,
+    152.885345,
+    -31.448942
+],
   "geometry": {"coordinates":[152.885345,-31.448942],"type":"Point"}
 }

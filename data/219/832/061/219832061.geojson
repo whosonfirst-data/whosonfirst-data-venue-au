@@ -2,13 +2,14 @@
   "id": 219832061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.809334,-31.978249,115.809334,-31.978249",
     "geom:latitude":-31.978249,
     "geom:longitude":115.809334,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Stirling Hwy",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219832061,
-    "wof:lastmodified":1449070386,
+    "wof:lastmodified":1466191577,
     "wof:name":"Dome Gifts",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [115.809334,-31.978249,115.809334,-31.978249],
-  "geometry": {"coordinates":[115.809334,-31.978249],"type":"Point"}
+  "bbox": [
+    115.809334,
+    -31.978249,
+    115.809334,
+    -31.978249
+],
+  "geometry": {"coordinates":[115.80933400000001,-31.978249],"type":"Point"}
 }

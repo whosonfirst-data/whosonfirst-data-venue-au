@@ -2,13 +2,14 @@
   "id": 236871179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.223618,-35.301083,148.223618,-35.301083",
     "geom:latitude":-35.301083,
     "geom:longitude":148.223618,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Wynyard St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236871179,
-    "wof:lastmodified":1449002586,
+    "wof:lastmodified":1466192068,
     "wof:name":"Sportspower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trophy"
     ]
 },
-  "bbox": [148.223618,-35.301083,148.223618,-35.301083],
-  "geometry": {"coordinates":[148.223618,-35.301083],"type":"Point"}
+  "bbox": [
+    148.223618,
+    -35.301083,
+    148.223618,
+    -35.301083
+],
+  "geometry": {"coordinates":[148.22361799999999,-35.301083],"type":"Point"}
 }

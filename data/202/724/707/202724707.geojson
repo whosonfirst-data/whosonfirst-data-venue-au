@@ -2,13 +2,14 @@
   "id": 202724707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050323,-27.361395,153.050323,-27.361395",
     "geom:latitude":-27.361395,
     "geom:longitude":153.050323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Zillmere Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202724707,
-    "wof:lastmodified":1449062577,
+    "wof:lastmodified":1466189302,
     "wof:name":"North Brisbane Landscape & Garden Centre",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [153.050323,-27.361395,153.050323,-27.361395],
-  "geometry": {"coordinates":[153.050323,-27.361395],"type":"Point"}
+  "bbox": [
+    153.050323,
+    -27.361395,
+    153.050323,
+    -27.361395
+],
+  "geometry": {"coordinates":[153.05032299999999,-27.361395],"type":"Point"}
 }

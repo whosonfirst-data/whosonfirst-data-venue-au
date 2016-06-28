@@ -2,13 +2,14 @@
   "id": 186576215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.852798,-31.499289,145.852798,-31.499289",
     "geom:latitude":-31.499289,
     "geom:longitude":145.852798,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Dapville St",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186576215,
-    "wof:lastmodified":1449052383,
+    "wof:lastmodified":1466190951,
     "wof:name":"Atlas Copco Construction & Mining Australia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [145.852798,-31.499289,145.852798,-31.499289],
-  "geometry": {"coordinates":[145.852798,-31.499289],"type":"Point"}
+  "bbox": [
+    145.852798,
+    -31.499289,
+    145.852798,
+    -31.499289
+],
+  "geometry": {"coordinates":[145.85279800000001,-31.499289],"type":"Point"}
 }

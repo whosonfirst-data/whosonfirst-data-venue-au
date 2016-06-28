@@ -2,13 +2,14 @@
   "id": 219601535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15799,-33.906528,151.15799,-33.906528",
     "geom:latitude":-33.906528,
     "geom:longitude":151.15799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Sydenham Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219601535,
-    "wof:lastmodified":1449071973,
+    "wof:lastmodified":1466190707,
     "wof:name":"Unique Features",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.15799,-33.906528,151.15799,-33.906528],
-  "geometry": {"coordinates":[151.15799,-33.906528],"type":"Point"}
+  "bbox": [
+    151.15799,
+    -33.906528,
+    151.15799,
+    -33.906528
+],
+  "geometry": {"coordinates":[151.15799000000001,-33.906528],"type":"Point"}
 }

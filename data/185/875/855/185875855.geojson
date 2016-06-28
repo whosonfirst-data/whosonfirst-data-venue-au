@@ -2,13 +2,14 @@
   "id": 185875855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.723694,-25.535439,152.723694,-25.535439",
     "geom:latitude":-25.535439,
     "geom:longitude":152.723694,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Ross St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185875855,
-    "wof:lastmodified":1449007795,
+    "wof:lastmodified":1466187631,
     "wof:name":"Berkery R A & S M",
     "wof:parent_id":85779645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planner"
     ]
 },
-  "bbox": [152.723694,-25.535439,152.723694,-25.535439],
-  "geometry": {"coordinates":[152.723694,-25.535439],"type":"Point"}
+  "bbox": [
+    152.723694,
+    -25.535439,
+    152.723694,
+    -25.535439
+],
+  "geometry": {"coordinates":[152.72369399999999,-25.535439],"type":"Point"}
 }

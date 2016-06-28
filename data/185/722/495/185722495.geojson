@@ -2,13 +2,14 @@
   "id": 185722495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.031281,-32.728203,152.031281,-32.728203",
     "geom:latitude":-32.728203,
     "geom:longitude":152.031281,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Whitbread Drv",
     "sg:city":"Lemon Tree Passage",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185722495,
-    "wof:lastmodified":1449007154,
+    "wof:lastmodified":1466189358,
     "wof:name":"Mark Hestelow Painting Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [152.031281,-32.728203,152.031281,-32.728203],
-  "geometry": {"coordinates":[152.031281,-32.728203],"type":"Point"}
+  "bbox": [
+    152.031281,
+    -32.728203,
+    152.031281,
+    -32.728203
+],
+  "geometry": {"coordinates":[152.03128100000001,-32.728203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236202455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.642792,-38.042103,145.642792,-38.042103",
     "geom:latitude":-38.042103,
     "geom:longitude":145.642792,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Mintern Rd",
     "sg:city":"Tynong North",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236202455,
-    "wof:lastmodified":1449004734,
+    "wof:lastmodified":1466190082,
     "wof:name":"Berwick Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.642792,-38.042103,145.642792,-38.042103],
-  "geometry": {"coordinates":[145.642792,-38.042103],"type":"Point"}
+  "bbox": [
+    145.642792,
+    -38.042103,
+    145.642792,
+    -38.042103
+],
+  "geometry": {"coordinates":[145.64279199999999,-38.042103],"type":"Point"}
 }

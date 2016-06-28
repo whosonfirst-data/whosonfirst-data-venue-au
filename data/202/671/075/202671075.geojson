@@ -2,13 +2,14 @@
   "id": 202671075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.021927,-27.392866,153.021927,-27.392866",
     "geom:latitude":-27.392866,
     "geom:longitude":153.021927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Rode Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202671075,
-    "wof:lastmodified":1449060691,
+    "wof:lastmodified":1466188288,
     "wof:name":"Compass Pools",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [153.021927,-27.392866,153.021927,-27.392866],
-  "geometry": {"coordinates":[153.021927,-27.392866],"type":"Point"}
+  "bbox": [
+    153.021927,
+    -27.392866,
+    153.021927,
+    -27.392866
+],
+  "geometry": {"coordinates":[153.02192700000001,-27.392866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.754303,-32.510799,115.754303,-32.510799",
     "geom:latitude":-32.510799,
     "geom:longitude":115.754303,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 68 Gordon Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203100645,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1466189060,
     "wof:name":"Mandurah Outboards & Sterndrive Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yacht"
     ]
 },
-  "bbox": [115.754303,-32.510799,115.754303,-32.510799],
-  "geometry": {"coordinates":[115.754303,-32.510799],"type":"Point"}
+  "bbox": [
+    115.754303,
+    -32.510799,
+    115.754303,
+    -32.510799
+],
+  "geometry": {"coordinates":[115.75430299999999,-32.510799],"type":"Point"}
 }

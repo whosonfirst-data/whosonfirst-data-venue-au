@@ -2,13 +2,14 @@
   "id": 202745971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.870461,-32.053852,115.870461,-32.053852",
     "geom:latitude":-32.053852,
     "geom:longitude":115.870461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Lefroy Rd",
     "sg:city":"Bull Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202745971,
-    "wof:lastmodified":1449062533,
+    "wof:lastmodified":1466189640,
     "wof:name":"McCusker Learning & Development",
     "wof:parent_id":85775621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [115.870461,-32.053852,115.870461,-32.053852],
-  "geometry": {"coordinates":[115.870461,-32.053852],"type":"Point"}
+  "bbox": [
+    115.870461,
+    -32.053852,
+    115.870461,
+    -32.053852
+],
+  "geometry": {"coordinates":[115.87046100000001,-32.053852],"type":"Point"}
 }

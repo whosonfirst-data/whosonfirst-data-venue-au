@@ -2,13 +2,14 @@
   "id": 236831827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.880737,-34.426205,150.880737,-34.426205",
     "geom:latitude":-34.426205,
     "geom:longitude":150.880737,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Crown St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236831827,
-    "wof:lastmodified":1449003609,
+    "wof:lastmodified":1466192017,
     "wof:name":"Ampol Limited",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.880737,-34.426205,150.880737,-34.426205],
-  "geometry": {"coordinates":[150.880737,-34.426205],"type":"Point"}
+  "bbox": [
+    150.880737,
+    -34.426205,
+    150.880737,
+    -34.426205
+],
+  "geometry": {"coordinates":[150.88073700000001,-34.426205],"type":"Point"}
 }

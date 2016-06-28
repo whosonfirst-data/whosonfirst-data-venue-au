@@ -2,13 +2,14 @@
   "id": 185734653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.996933,-32.768341,151.996933,-32.768341",
     "geom:latitude":-32.768341,
     "geom:longitude":151.996933,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Marsh Rd",
     "sg:city":"Bobs Farm",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185734653,
-    "wof:lastmodified":1449008016,
+    "wof:lastmodified":1466189428,
     "wof:name":"Hay Enterprises N.S.W. P/L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.996933,-32.768341,151.996933,-32.768341],
-  "geometry": {"coordinates":[151.996933,-32.768341],"type":"Point"}
+  "bbox": [
+    151.996933,
+    -32.768341,
+    151.996933,
+    -32.768341
+],
+  "geometry": {"coordinates":[151.99693300000001,-32.768341],"type":"Point"}
 }

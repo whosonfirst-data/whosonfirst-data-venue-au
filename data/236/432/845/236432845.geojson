@@ -2,13 +2,14 @@
   "id": 236432845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.195816,-21.143932,149.195816,-21.143932",
     "geom:latitude":-21.143932,
     "geom:longitude":149.195816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Industrial St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236432845,
-    "wof:lastmodified":1449001632,
+    "wof:lastmodified":1466191178,
     "wof:name":"Auslec",
     "wof:parent_id":85770779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "appliance"
     ]
 },
-  "bbox": [149.195816,-21.143932,149.195816,-21.143932],
-  "geometry": {"coordinates":[149.195816,-21.143932],"type":"Point"}
+  "bbox": [
+    149.195816,
+    -21.143932,
+    149.195816,
+    -21.143932
+],
+  "geometry": {"coordinates":[149.19581600000001,-21.143932],"type":"Point"}
 }

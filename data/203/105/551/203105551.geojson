@@ -2,13 +2,14 @@
   "id": 203105551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.695618,-32.544041,115.695618,-32.544041",
     "geom:latitude":-32.544041,
     "geom:longitude":115.695618,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 9 Halls Head Central Guava St",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203105551,
-    "wof:lastmodified":1449025640,
+    "wof:lastmodified":1466189135,
     "wof:name":"LAVA Hair Design Studio",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.695618,-32.544041,115.695618,-32.544041],
+  "bbox": [
+    115.695618,
+    -32.544041,
+    115.695618,
+    -32.544041
+],
   "geometry": {"coordinates":[115.695618,-32.544041],"type":"Point"}
 }

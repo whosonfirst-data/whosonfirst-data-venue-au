@@ -2,13 +2,14 @@
   "id": 236446681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.195007,-21.12019,149.195007,-21.12019",
     "geom:latitude":-21.12019,
     "geom:longitude":149.195007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 4f/ 78 Harbour Rd",
     "sg:city":"North Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236446681,
-    "wof:lastmodified":1449004914,
+    "wof:lastmodified":1466191336,
     "wof:name":"DEC Engineering Services",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [149.195007,-21.12019,149.195007,-21.12019],
+  "bbox": [
+    149.195007,
+    -21.12019,
+    149.195007,
+    -21.12019
+],
   "geometry": {"coordinates":[149.195007,-21.12019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253232509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.948425,-27.572456,151.948425,-27.572456",
     "geom:latitude":-27.572456,
     "geom:longitude":151.948425,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Water St (Sth)",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253232509,
-    "wof:lastmodified":1449063777,
+    "wof:lastmodified":1466190544,
     "wof:name":"Toowoomba Recycled Timber & Furniture",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "product"
     ]
 },
-  "bbox": [151.948425,-27.572456,151.948425,-27.572456],
-  "geometry": {"coordinates":[151.948425,-27.572456],"type":"Point"}
+  "bbox": [
+    151.948425,
+    -27.572456,
+    151.948425,
+    -27.572456
+],
+  "geometry": {"coordinates":[151.94842499999999,-27.572456],"type":"Point"}
 }

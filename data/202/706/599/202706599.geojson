@@ -2,13 +2,14 @@
   "id": 202706599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.016846,-27.350883,153.016846,-27.350883",
     "geom:latitude":-27.350883,
     "geom:longitude":153.016846,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Denver Rd",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202706599,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466188957,
     "wof:name":"Golden Palm Travel",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [153.016846,-27.350883,153.016846,-27.350883],
-  "geometry": {"coordinates":[153.016846,-27.350883],"type":"Point"}
+  "bbox": [
+    153.016846,
+    -27.350883,
+    153.016846,
+    -27.350883
+],
+  "geometry": {"coordinates":[153.01684599999999,-27.350883],"type":"Point"}
 }

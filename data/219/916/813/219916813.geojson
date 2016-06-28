@@ -2,13 +2,14 @@
   "id": 219916813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.905716,-34.342121,150.905716,-34.342121",
     "geom:latitude":-34.342121,
     "geom:longitude":150.905716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5/ 413 Princes Hwy",
     "sg:city":"Woonona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219916813,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466191774,
     "wof:name":"Contours Woonona",
     "wof:parent_id":85770653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [150.905716,-34.342121,150.905716,-34.342121],
-  "geometry": {"coordinates":[150.905716,-34.342121],"type":"Point"}
+  "bbox": [
+    150.905716,
+    -34.342121,
+    150.905716,
+    -34.342121
+],
+  "geometry": {"coordinates":[150.90571600000001,-34.342121],"type":"Point"}
 }

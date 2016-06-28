@@ -2,13 +2,14 @@
   "id": 236335025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.783272,-32.095852,115.783272,-32.095852",
     "geom:latitude":-32.095852,
     "geom:longitude":115.783272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lancaster St",
     "sg:city":"Spearwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236335025,
-    "wof:lastmodified":1449003904,
+    "wof:lastmodified":1466190843,
     "wof:name":"Spearwood Seafoods",
     "wof:parent_id":85775721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [115.783272,-32.095852,115.783272,-32.095852],
+  "bbox": [
+    115.783272,
+    -32.095852,
+    115.783272,
+    -32.095852
+],
   "geometry": {"coordinates":[115.783272,-32.095852],"type":"Point"}
 }

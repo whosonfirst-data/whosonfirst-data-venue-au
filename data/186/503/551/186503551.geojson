@@ -2,13 +2,14 @@
   "id": 186503551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.772095,-19.266718,146.772095,-19.266718",
     "geom:latitude":-19.266718,
     "geom:longitude":146.772095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Langton St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186503551,
-    "wof:lastmodified":1449053037,
+    "wof:lastmodified":1466190413,
     "wof:name":"Independent Diesel Spares",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diesel"
     ]
 },
-  "bbox": [146.772095,-19.266718,146.772095,-19.266718],
-  "geometry": {"coordinates":[146.772095,-19.266718],"type":"Point"}
+  "bbox": [
+    146.772095,
+    -19.266718,
+    146.772095,
+    -19.266718
+],
+  "geometry": {"coordinates":[146.77209500000001,-19.266718],"type":"Point"}
 }

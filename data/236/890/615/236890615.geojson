@@ -2,13 +2,14 @@
   "id": 236890615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.517426,-35.034573,138.517426,-35.034573",
     "geom:latitude":-35.034573,
     "geom:longitude":138.517426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Esplanade St",
     "sg:city":"Seacliff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236890615,
-    "wof:lastmodified":1449002218,
+    "wof:lastmodified":1466192087,
     "wof:name":"Brighton & Seacliff Yacht Club Incorporated",
     "wof:parent_id":85770209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [138.517426,-35.034573,138.517426,-35.034573],
+  "bbox": [
+    138.517426,
+    -35.034573,
+    138.517426,
+    -35.034573
+],
   "geometry": {"coordinates":[138.517426,-35.034573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202704241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.048889,-27.361118,153.048889,-27.361118",
     "geom:latitude":-27.361118,
     "geom:longitude":153.048889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Zillmere Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202704241,
-    "wof:lastmodified":1449060780,
+    "wof:lastmodified":1466188909,
     "wof:name":"Brisbane Bearings",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bushing"
     ]
 },
-  "bbox": [153.048889,-27.361118,153.048889,-27.361118],
+  "bbox": [
+    153.048889,
+    -27.361118,
+    153.048889,
+    -27.361118
+],
   "geometry": {"coordinates":[153.048889,-27.361118],"type":"Point"}
 }

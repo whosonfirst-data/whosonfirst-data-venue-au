@@ -2,13 +2,14 @@
   "id": 186358979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.129303,-33.869389,151.129303,-33.869389",
     "geom:latitude":-33.869389,
     "geom:longitude":151.129303,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, 1F, 103 Great North Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186358979,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466188615,
     "wof:name":"How Lay Sim",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.129303,-33.869389,151.129303,-33.869389],
-  "geometry": {"coordinates":[151.129303,-33.869389],"type":"Point"}
+  "bbox": [
+    151.129303,
+    -33.869389,
+    151.129303,
+    -33.869389
+],
+  "geometry": {"coordinates":[151.12930299999999,-33.869389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203053013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.711212,-36.925514,144.711212,-36.925514",
     "geom:latitude":-36.925514,
     "geom:longitude":144.711212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 High St",
     "sg:city":"Heathcote",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203053013,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466189981,
     "wof:name":"Smirk S E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "farrier"
     ]
 },
-  "bbox": [144.711212,-36.925514,144.711212,-36.925514],
-  "geometry": {"coordinates":[144.711212,-36.925514],"type":"Point"}
+  "bbox": [
+    144.711212,
+    -36.925514,
+    144.711212,
+    -36.925514
+],
+  "geometry": {"coordinates":[144.71121199999999,-36.925514],"type":"Point"}
 }

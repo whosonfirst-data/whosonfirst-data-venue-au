@@ -2,13 +2,14 @@
   "id": 219493787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.03833,-33.902328,151.03833,-33.902328",
     "geom:latitude":-33.902328,
     "geom:longitude":151.03833,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Claremont Ave",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219493787,
-    "wof:lastmodified":1449071515,
+    "wof:lastmodified":1466189390,
     "wof:name":"British Star Engineering",
     "wof:parent_id":85780245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [151.03833,-33.902328,151.03833,-33.902328],
+  "bbox": [
+    151.03833,
+    -33.902328,
+    151.03833,
+    -33.902328
+],
   "geometry": {"coordinates":[151.03833,-33.902328],"type":"Point"}
 }

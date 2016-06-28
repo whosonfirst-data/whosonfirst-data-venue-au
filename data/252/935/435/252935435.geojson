@@ -2,13 +2,14 @@
   "id": 252935435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088455,-26.527023,153.088455,-26.527023",
     "geom:latitude":-26.527023,
     "geom:longitude":153.088455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Birtwill St",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252935435,
-    "wof:lastmodified":1449006319,
+    "wof:lastmodified":1466189292,
     "wof:name":"Lea's Shortcuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [153.088455,-26.527023,153.088455,-26.527023],
-  "geometry": {"coordinates":[153.088455,-26.527023],"type":"Point"}
+  "bbox": [
+    153.088455,
+    -26.527023,
+    153.088455,
+    -26.527023
+],
+  "geometry": {"coordinates":[153.08845500000001,-26.527023],"type":"Point"}
 }

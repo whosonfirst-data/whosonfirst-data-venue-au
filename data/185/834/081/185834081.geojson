@@ -2,13 +2,14 @@
   "id": 185834081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.849213,-25.300039,152.849213,-25.300039",
     "geom:latitude":-25.300039,
     "geom:longitude":152.849213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Grevillea St & Bauhinia Drv",
     "sg:city":"Kawungan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185834081,
-    "wof:lastmodified":1449006765,
+    "wof:lastmodified":1466187142,
     "wof:name":"Kawungan Mini Mart",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [152.849213,-25.300039,152.849213,-25.300039],
-  "geometry": {"coordinates":[152.849213,-25.300039],"type":"Point"}
+  "bbox": [
+    152.849213,
+    -25.300039,
+    152.849213,
+    -25.300039
+],
+  "geometry": {"coordinates":[152.84921299999999,-25.300039],"type":"Point"}
 }

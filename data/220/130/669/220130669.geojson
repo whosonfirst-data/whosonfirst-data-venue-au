@@ -2,13 +2,14 @@
   "id": 220130669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.310013,-38.141453,144.310013,-38.141453",
     "geom:latitude":-38.141453,
     "geom:longitude":144.310013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Hyland St",
     "sg:city":"Fyansford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220130669,
-    "wof:lastmodified":1449074289,
+    "wof:lastmodified":1466188250,
     "wof:name":"Truffleduck",
     "wof:parent_id":85777705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [144.310013,-38.141453,144.310013,-38.141453],
+  "bbox": [
+    144.310013,
+    -38.141453,
+    144.310013,
+    -38.141453
+],
   "geometry": {"coordinates":[144.310013,-38.141453],"type":"Point"}
 }

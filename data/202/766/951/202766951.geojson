@@ -2,13 +2,14 @@
   "id": 202766951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.774994,-32.926804,151.774994,-32.926804",
     "geom:latitude":-32.926804,
     "geom:longitude":151.774994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202766951,
-    "wof:lastmodified":1449060072,
+    "wof:lastmodified":1466190037,
     "wof:name":"Pure N Healthy Bar",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [151.774994,-32.926804,151.774994,-32.926804],
-  "geometry": {"coordinates":[151.774994,-32.926804],"type":"Point"}
+  "bbox": [
+    151.774994,
+    -32.926804,
+    151.774994,
+    -32.926804
+],
+  "geometry": {"coordinates":[151.77499399999999,-32.926804],"type":"Point"}
 }

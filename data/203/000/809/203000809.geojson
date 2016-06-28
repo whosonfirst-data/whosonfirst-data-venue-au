@@ -2,13 +2,14 @@
   "id": 203000809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.492401,-20.722883,139.492401,-20.722883",
     "geom:latitude":-20.722883,
     "geom:longitude":139.492401,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203000809,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466186957,
     "wof:name":"Mt Isa Produce Agency",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grain"
     ]
 },
-  "bbox": [139.492401,-20.722883,139.492401,-20.722883],
+  "bbox": [
+    139.492401,
+    -20.722883,
+    139.492401,
+    -20.722883
+],
   "geometry": {"coordinates":[139.492401,-20.722883],"type":"Point"}
 }

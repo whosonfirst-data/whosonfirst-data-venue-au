@@ -2,13 +2,14 @@
   "id": 185621561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.941849,-32.09079,115.941849,-32.09079",
     "geom:latitude":-32.09079,
     "geom:longitude":115.941849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Welbeck Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185621561,
-    "wof:lastmodified":1449008034,
+    "wof:lastmodified":1466187622,
     "wof:name":"Canning Vale Counselling Centre",
     "wof:parent_id":85775827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [115.941849,-32.09079,115.941849,-32.09079],
+  "bbox": [
+    115.941849,
+    -32.09079,
+    115.941849,
+    -32.09079
+],
   "geometry": {"coordinates":[115.941849,-32.09079],"type":"Point"}
 }

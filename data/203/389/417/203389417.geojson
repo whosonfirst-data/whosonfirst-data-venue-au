@@ -2,13 +2,14 @@
   "id": 203389417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.853195,-37.55904,143.853195,-37.55904",
     "geom:latitude":-37.55904,
     "geom:longitude":143.853195,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203389417,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466189365,
     "wof:name":"David Marks Insurance Brokers",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [143.853195,-37.55904,143.853195,-37.55904],
+  "bbox": [
+    143.853195,
+    -37.55904,
+    143.853195,
+    -37.55904
+],
   "geometry": {"coordinates":[143.853195,-37.55904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202937473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.102966,-30.294483,153.102966,-30.294483",
     "geom:latitude":-30.294483,
     "geom:longitude":153.102966,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 keevers Cl",
     "sg:city":"Coramba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202937473,
-    "wof:lastmodified":1449060589,
+    "wof:lastmodified":1466190809,
     "wof:name":"Amy Moon",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homoeopath"
     ]
 },
-  "bbox": [153.102966,-30.294483,153.102966,-30.294483],
-  "geometry": {"coordinates":[153.102966,-30.294483],"type":"Point"}
+  "bbox": [
+    153.102966,
+    -30.294483,
+    153.102966,
+    -30.294483
+],
+  "geometry": {"coordinates":[153.10296600000001,-30.294483],"type":"Point"}
 }

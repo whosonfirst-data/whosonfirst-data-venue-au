@@ -2,13 +2,14 @@
   "id": 186459179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165405,-33.877831,151.165405,-33.877831",
     "geom:latitude":-33.877831,
     "geom:longitude":151.165405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Paling St",
     "sg:city":"Lilyfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186459179,
-    "wof:lastmodified":1449051465,
+    "wof:lastmodified":1466190111,
     "wof:name":"Icon Financial Consultants",
     "wof:parent_id":85768679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.165405,-33.877831,151.165405,-33.877831],
-  "geometry": {"coordinates":[151.165405,-33.877831],"type":"Point"}
+  "bbox": [
+    151.165405,
+    -33.877831,
+    151.165405,
+    -33.877831
+],
+  "geometry": {"coordinates":[151.16540499999999,-33.877831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236900577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.522995,-35.015347,138.522995,-35.015347",
     "geom:latitude":-35.015347,
     "geom:longitude":138.522995,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"GPO Box 350",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236900577,
-    "wof:lastmodified":1449003011,
+    "wof:lastmodified":1466192091,
     "wof:name":"Budget Electric Crane Services",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hoist"
     ]
 },
-  "bbox": [138.522995,-35.015347,138.522995,-35.015347],
-  "geometry": {"coordinates":[138.522995,-35.015347],"type":"Point"}
+  "bbox": [
+    138.522995,
+    -35.015347,
+    138.522995,
+    -35.015347
+],
+  "geometry": {"coordinates":[138.52299500000001,-35.015347],"type":"Point"}
 }

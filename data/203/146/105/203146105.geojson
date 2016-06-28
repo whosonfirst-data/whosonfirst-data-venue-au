@@ -2,13 +2,14 @@
   "id": 203146105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.740341,-32.512474,115.740341,-32.512474",
     "geom:latitude":-32.512474,
     "geom:longitude":115.740341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Reserve Drv",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203146105,
-    "wof:lastmodified":1449025711,
+    "wof:lastmodified":1466189644,
     "wof:name":"Balustrading WA",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [115.740341,-32.512474,115.740341,-32.512474],
+  "bbox": [
+    115.740341,
+    -32.512474,
+    115.740341,
+    -32.512474
+],
   "geometry": {"coordinates":[115.740341,-32.512474],"type":"Point"}
 }

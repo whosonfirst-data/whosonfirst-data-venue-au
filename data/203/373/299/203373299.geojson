@@ -2,13 +2,14 @@
   "id": 203373299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.878067,-37.548431,143.878067,-37.548431",
     "geom:latitude":-37.548431,
     "geom:longitude":143.878067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Leerama Crt",
     "sg:city":"Ballarat North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203373299,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466189082,
     "wof:name":"Ballarat Trade Painters",
     "wof:parent_id":85780729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.878067,-37.548431,143.878067,-37.548431],
-  "geometry": {"coordinates":[143.878067,-37.548431],"type":"Point"}
+  "bbox": [
+    143.878067,
+    -37.548431,
+    143.878067,
+    -37.548431
+],
+  "geometry": {"coordinates":[143.87806699999999,-37.548431],"type":"Point"}
 }

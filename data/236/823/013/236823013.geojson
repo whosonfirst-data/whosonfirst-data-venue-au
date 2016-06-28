@@ -2,13 +2,14 @@
   "id": 236823013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.890167,-34.428608,150.890167,-34.428608",
     "geom:latitude":-34.428608,
     "geom:longitude":150.890167,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Atchison St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236823013,
-    "wof:lastmodified":1449005215,
+    "wof:lastmodified":1466191982,
     "wof:name":"Craig Bagley",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [150.890167,-34.428608,150.890167,-34.428608],
-  "geometry": {"coordinates":[150.890167,-34.428608],"type":"Point"}
+  "bbox": [
+    150.890167,
+    -34.428608,
+    150.890167,
+    -34.428608
+],
+  "geometry": {"coordinates":[150.89016699999999,-34.428608],"type":"Point"}
 }

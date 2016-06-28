@@ -2,13 +2,14 @@
   "id": 236523001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166229,-32.566559,151.166229,-32.566559",
     "geom:latitude":-32.566559,
     "geom:longitude":151.166229,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr John & York Sts",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236523001,
-    "wof:lastmodified":1449003569,
+    "wof:lastmodified":1466191534,
     "wof:name":"Singleton Plantation Shutters & Blinds",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "louvre"
     ]
 },
-  "bbox": [151.166229,-32.566559,151.166229,-32.566559],
-  "geometry": {"coordinates":[151.166229,-32.566559],"type":"Point"}
+  "bbox": [
+    151.166229,
+    -32.566559,
+    151.166229,
+    -32.566559
+],
+  "geometry": {"coordinates":[151.16622899999999,-32.566559],"type":"Point"}
 }

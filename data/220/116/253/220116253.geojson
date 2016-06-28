@@ -2,13 +2,14 @@
   "id": 220116253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.539337,-38.250698,144.539337,-38.250698",
     "geom:latitude":-38.250698,
     "geom:longitude":144.539337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14-16 45 Sinclair St",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220116253,
-    "wof:lastmodified":1449074150,
+    "wof:lastmodified":1466188121,
     "wof:name":"Bellarine Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [144.539337,-38.250698,144.539337,-38.250698],
-  "geometry": {"coordinates":[144.539337,-38.250698],"type":"Point"}
+  "bbox": [
+    144.539337,
+    -38.250698,
+    144.539337,
+    -38.250698
+],
+  "geometry": {"coordinates":[144.53933699999999,-38.250698],"type":"Point"}
 }

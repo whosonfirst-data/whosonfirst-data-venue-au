@@ -2,13 +2,14 @@
   "id": 185652489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.808022,-32.032455,115.808022,-32.032455",
     "geom:latitude":-32.032455,
     "geom:longitude":115.808022,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Canning Hwy",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185652489,
-    "wof:lastmodified":1449007637,
+    "wof:lastmodified":1466188296,
     "wof:name":"ABV Leisure Consultancy Services",
     "wof:parent_id":85780709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.808022,-32.032455,115.808022,-32.032455],
-  "geometry": {"coordinates":[115.808022,-32.032455],"type":"Point"}
+  "bbox": [
+    115.808022,
+    -32.032455,
+    115.808022,
+    -32.032455
+],
+  "geometry": {"coordinates":[115.80802199999999,-32.032455],"type":"Point"}
 }

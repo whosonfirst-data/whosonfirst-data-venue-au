@@ -2,13 +2,14 @@
   "id": 185759579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.144394,-32.720772,152.144394,-32.720772",
     "geom:latitude":-32.720772,
     "geom:longitude":152.144394,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Nelson Towers 71a Victoria Pde",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185759579,
-    "wof:lastmodified":1449008236,
+    "wof:lastmodified":1466189649,
     "wof:name":"Noodle Fusion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [152.144394,-32.720772,152.144394,-32.720772],
-  "geometry": {"coordinates":[152.144394,-32.720772],"type":"Point"}
+  "bbox": [
+    152.144394,
+    -32.720772,
+    152.144394,
+    -32.720772
+],
+  "geometry": {"coordinates":[152.14439400000001,-32.720772],"type":"Point"}
 }

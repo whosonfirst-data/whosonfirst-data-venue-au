@@ -2,13 +2,14 @@
   "id": 202927115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.098785,-30.315405,153.098785,-30.315405",
     "geom:latitude":-30.315405,
     "geom:longitude":153.098785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202927115,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1466190869,
     "wof:name":"Rust n Stuff",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rustproofing"
     ]
 },
-  "bbox": [153.098785,-30.315405,153.098785,-30.315405],
-  "geometry": {"coordinates":[153.098785,-30.315405],"type":"Point"}
+  "bbox": [
+    153.098785,
+    -30.315405,
+    153.098785,
+    -30.315405
+],
+  "geometry": {"coordinates":[153.09878499999999,-30.315405],"type":"Point"}
 }

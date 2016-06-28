@@ -2,13 +2,14 @@
   "id": 219376127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.548523,-35.328381,143.548523,-35.328381",
     "geom:latitude":-35.328381,
     "geom:longitude":143.548523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 800",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219376127,
-    "wof:lastmodified":1449071610,
+    "wof:lastmodified":1466188156,
     "wof:name":"Crawford Removals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [143.548523,-35.328381,143.548523,-35.328381],
-  "geometry": {"coordinates":[143.548523,-35.328381],"type":"Point"}
+  "bbox": [
+    143.548523,
+    -35.328381,
+    143.548523,
+    -35.328381
+],
+  "geometry": {"coordinates":[143.54852299999999,-35.328381],"type":"Point"}
 }

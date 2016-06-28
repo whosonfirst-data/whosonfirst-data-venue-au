@@ -2,13 +2,14 @@
   "id": 202809671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.718643,-32.920677,151.718643,-32.920677",
     "geom:latitude":-32.920677,
     "geom:longitude":151.718643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Hobart Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202809671,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466190367,
     "wof:name":"Newcastle Dance Academy",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tuition"
     ]
 },
-  "bbox": [151.718643,-32.920677,151.718643,-32.920677],
-  "geometry": {"coordinates":[151.718643,-32.920677],"type":"Point"}
+  "bbox": [
+    151.718643,
+    -32.920677,
+    151.718643,
+    -32.920677
+],
+  "geometry": {"coordinates":[151.71864299999999,-32.920677],"type":"Point"}
 }

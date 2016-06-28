@@ -2,13 +2,14 @@
   "id": 235953903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.894745,-12.395811,130.894745,-12.395811",
     "geom:latitude":-12.395811,
     "geom:longitude":130.894745,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Links Rd",
     "sg:city":"Marrara",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235953903,
-    "wof:lastmodified":1449008470,
+    "wof:lastmodified":1466187109,
     "wof:name":"Darwin Golf Club Inc",
     "wof:parent_id":85774855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [130.894745,-12.395811,130.894745,-12.395811],
+  "bbox": [
+    130.894745,
+    -12.395811,
+    130.894745,
+    -12.395811
+],
   "geometry": {"coordinates":[130.894745,-12.395811],"type":"Point"}
 }

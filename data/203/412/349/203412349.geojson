@@ -2,13 +2,14 @@
   "id": 203412349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.813454,-32.247662,115.813454,-32.247662",
     "geom:latitude":-32.247662,
     "geom:longitude":115.813454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 596",
     "sg:city":"Kwinana",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203412349,
-    "wof:lastmodified":1449025320,
+    "wof:lastmodified":1466189612,
     "wof:name":"Steven Bender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [115.813454,-32.247662,115.813454,-32.247662],
-  "geometry": {"coordinates":[115.813454,-32.247662],"type":"Point"}
+  "bbox": [
+    115.813454,
+    -32.247662,
+    115.813454,
+    -32.247662
+],
+  "geometry": {"coordinates":[115.81345399999999,-32.247662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235929751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.572449,-38.159676,144.572449,-38.159676",
     "geom:latitude":-38.159676,
     "geom:longitude":144.572449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bullimah Ave",
     "sg:city":"Clifton Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235929751,
-    "wof:lastmodified":1449008385,
+    "wof:lastmodified":1466189952,
     "wof:name":"JWF Drafting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [144.572449,-38.159676,144.572449,-38.159676],
-  "geometry": {"coordinates":[144.572449,-38.159676],"type":"Point"}
+  "bbox": [
+    144.572449,
+    -38.159676,
+    144.572449,
+    -38.159676
+],
+  "geometry": {"coordinates":[144.57244900000001,-38.159676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235951971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.936523,-30.088648,145.936523,-30.088648",
     "geom:latitude":-30.088648,
     "geom:longitude":145.936523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Mitchell St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235951971,
-    "wof:lastmodified":1449008285,
+    "wof:lastmodified":1466187079,
     "wof:name":"Newvogue Roadhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roadhouse"
     ]
 },
-  "bbox": [145.936523,-30.088648,145.936523,-30.088648],
-  "geometry": {"coordinates":[145.936523,-30.088648],"type":"Point"}
+  "bbox": [
+    145.936523,
+    -30.088648,
+    145.936523,
+    -30.088648
+],
+  "geometry": {"coordinates":[145.93652299999999,-30.088648],"type":"Point"}
 }

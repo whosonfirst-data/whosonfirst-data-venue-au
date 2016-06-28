@@ -2,13 +2,14 @@
   "id": 219324203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.950409,-38.19038,145.950409,-38.19038",
     "geom:latitude":-38.19038,
     "geom:longitude":145.950409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"607 East West Rd",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219324203,
-    "wof:lastmodified":1449072443,
+    "wof:lastmodified":1466187730,
     "wof:name":"D.J. & S.L. Purcell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [145.950409,-38.19038,145.950409,-38.19038],
-  "geometry": {"coordinates":[145.950409,-38.19038],"type":"Point"}
+  "bbox": [
+    145.950409,
+    -38.19038,
+    145.950409,
+    -38.19038
+],
+  "geometry": {"coordinates":[145.95040900000001,-38.19038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253157083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.938446,-27.536028,151.938446,-27.536028",
     "geom:latitude":-27.536028,
     "geom:longitude":151.938446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Harth St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253157083,
-    "wof:lastmodified":1449065359,
+    "wof:lastmodified":1466189732,
     "wof:name":"Scientific Acoustics",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [151.938446,-27.536028,151.938446,-27.536028],
+  "bbox": [
+    151.938446,
+    -27.536028,
+    151.938446,
+    -27.536028
+],
   "geometry": {"coordinates":[151.938446,-27.536028],"type":"Point"}
 }

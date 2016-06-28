@@ -2,13 +2,14 @@
   "id": 186280845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.898026,-31.436432,152.898026,-31.436432",
     "geom:latitude":-31.436432,
     "geom:longitude":152.898026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Morton St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186280845,
-    "wof:lastmodified":1449051696,
+    "wof:lastmodified":1466187631,
     "wof:name":"Sleep Disorders Lab Port Macquarie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.898026,-31.436432,152.898026,-31.436432],
-  "geometry": {"coordinates":[152.898026,-31.436432],"type":"Point"}
+  "bbox": [
+    152.898026,
+    -31.436432,
+    152.898026,
+    -31.436432
+],
+  "geometry": {"coordinates":[152.89802599999999,-31.436432],"type":"Point"}
 }

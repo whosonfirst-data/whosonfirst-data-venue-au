@@ -2,13 +2,14 @@
   "id": 203259785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.006805,-33.35812,148.006805,-33.35812",
     "geom:latitude":-33.35812,
     "geom:longitude":148.006805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Farnell St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203259785,
-    "wof:lastmodified":1449025373,
+    "wof:lastmodified":1466187646,
     "wof:name":"Gaffney S M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [148.006805,-33.35812,148.006805,-33.35812],
-  "geometry": {"coordinates":[148.006805,-33.35812],"type":"Point"}
+  "bbox": [
+    148.006805,
+    -33.35812,
+    148.006805,
+    -33.35812
+],
+  "geometry": {"coordinates":[148.00680500000001,-33.35812],"type":"Point"}
 }

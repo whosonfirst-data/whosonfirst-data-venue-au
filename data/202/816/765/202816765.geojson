@@ -2,13 +2,14 @@
   "id": 202816765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.165024,-23.517542,148.165024,-23.517542",
     "geom:latitude":-23.517542,
     "geom:longitude":148.165024,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Borilla St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202816765,
-    "wof:lastmodified":1449061595,
+    "wof:lastmodified":1466190269,
     "wof:name":"St Vincent's Community Nursing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nursing"
     ]
 },
-  "bbox": [148.165024,-23.517542,148.165024,-23.517542],
-  "geometry": {"coordinates":[148.165024,-23.517542],"type":"Point"}
+  "bbox": [
+    148.165024,
+    -23.517542,
+    148.165024,
+    -23.517542
+],
+  "geometry": {"coordinates":[148.16502399999999,-23.517542],"type":"Point"}
 }

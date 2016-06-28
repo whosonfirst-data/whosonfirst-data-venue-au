@@ -2,13 +2,14 @@
   "id": 236111969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935455,-37.783146,144.935455,-37.783146",
     "geom:latitude":-37.783146,
     "geom:longitude":144.935455,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Mt Alexander Rd",
     "sg:city":"Flemington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236111969,
-    "wof:lastmodified":1449005376,
+    "wof:lastmodified":1466188874,
     "wof:name":"Wintringham Hostels",
     "wof:parent_id":85776501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [144.935455,-37.783146,144.935455,-37.783146],
-  "geometry": {"coordinates":[144.935455,-37.783146],"type":"Point"}
+  "bbox": [
+    144.935455,
+    -37.783146,
+    144.935455,
+    -37.783146
+],
+  "geometry": {"coordinates":[144.93545499999999,-37.783146],"type":"Point"}
 }

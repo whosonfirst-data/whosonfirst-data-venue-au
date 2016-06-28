@@ -2,13 +2,14 @@
   "id": 236824925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.900406,-34.425804,150.900406,-34.425804",
     "geom:latitude":-34.425804,
     "geom:longitude":150.900406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 - 44 Crown St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236824925,
-    "wof:lastmodified":1449002691,
+    "wof:lastmodified":1466191995,
     "wof:name":"MINI",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "new"
     ]
 },
-  "bbox": [150.900406,-34.425804,150.900406,-34.425804],
+  "bbox": [
+    150.900406,
+    -34.425804,
+    150.900406,
+    -34.425804
+],
   "geometry": {"coordinates":[150.900406,-34.425804],"type":"Point"}
 }

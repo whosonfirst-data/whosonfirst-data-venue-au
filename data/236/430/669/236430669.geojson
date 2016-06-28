@@ -2,13 +2,14 @@
   "id": 236430669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.190536,-21.144934,149.190536,-21.144934",
     "geom:latitude":-21.144934,
     "geom:longitude":149.190536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Tennyson St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236430669,
-    "wof:lastmodified":1449003812,
+    "wof:lastmodified":1466191174,
     "wof:name":"Universal Signs",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [149.190536,-21.144934,149.190536,-21.144934],
-  "geometry": {"coordinates":[149.190536,-21.144934],"type":"Point"}
+  "bbox": [
+    149.190536,
+    -21.144934,
+    149.190536,
+    -21.144934
+],
+  "geometry": {"coordinates":[149.19053600000001,-21.144934],"type":"Point"}
 }

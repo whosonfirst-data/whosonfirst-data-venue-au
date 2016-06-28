@@ -2,13 +2,14 @@
   "id": 186312791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.856186,-30.640825,152.856186,-30.640825",
     "geom:latitude":-30.640825,
     "geom:longitude":152.856186,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rodeo Drv",
     "sg:city":"Bowraville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186312791,
-    "wof:lastmodified":1449051728,
+    "wof:lastmodified":1466187860,
     "wof:name":"Bowraville Sawmilling M&B Dyer Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmillers"
     ]
 },
-  "bbox": [152.856186,-30.640825,152.856186,-30.640825],
-  "geometry": {"coordinates":[152.856186,-30.640825],"type":"Point"}
+  "bbox": [
+    152.856186,
+    -30.640825,
+    152.856186,
+    -30.640825
+],
+  "geometry": {"coordinates":[152.85618600000001,-30.640825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253014681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.691818,-37.881653,144.691818,-37.881653",
     "geom:latitude":-37.881653,
     "geom:longitude":144.691818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Hampstead Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253014681,
-    "wof:lastmodified":1449064272,
+    "wof:lastmodified":1466187204,
     "wof:name":"Yuille Maggie",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.691818,-37.881653,144.691818,-37.881653],
-  "geometry": {"coordinates":[144.691818,-37.881653],"type":"Point"}
+  "bbox": [
+    144.691818,
+    -37.881653,
+    144.691818,
+    -37.881653
+],
+  "geometry": {"coordinates":[144.69181800000001,-37.881653],"type":"Point"}
 }

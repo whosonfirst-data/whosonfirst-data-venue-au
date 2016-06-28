@@ -2,13 +2,14 @@
   "id": 186096473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.829559,-31.080288,152.829559,-31.080288",
     "geom:latitude":-31.080288,
     "geom:longitude":152.829559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Elbow St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186096473,
-    "wof:lastmodified":1449051254,
+    "wof:lastmodified":1466189208,
     "wof:name":"PRD Nationwide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.829559,-31.080288,152.829559,-31.080288],
-  "geometry": {"coordinates":[152.829559,-31.080288],"type":"Point"}
+  "bbox": [
+    152.829559,
+    -31.080288,
+    152.829559,
+    -31.080288
+],
+  "geometry": {"coordinates":[152.82955899999999,-31.080288],"type":"Point"}
 }

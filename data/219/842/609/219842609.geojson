@@ -2,13 +2,14 @@
   "id": 219842609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.813622,-31.97316,115.813622,-31.97316",
     "geom:latitude":-31.97316,
     "geom:longitude":115.813622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Hampden Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219842609,
-    "wof:lastmodified":1449070646,
+    "wof:lastmodified":1466191599,
     "wof:name":"Student Flights",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.813622,-31.97316,115.813622,-31.97316],
+  "bbox": [
+    115.813622,
+    -31.97316,
+    115.813622,
+    -31.97316
+],
   "geometry": {"coordinates":[115.813622,-31.97316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219599765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.161423,-33.908276,151.161423,-33.908276",
     "geom:latitude":-33.908276,
     "geom:longitude":151.161423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Farr St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219599765,
-    "wof:lastmodified":1449072033,
+    "wof:lastmodified":1466190685,
     "wof:name":"MacDonald Sheet Piling",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.161423,-33.908276,151.161423,-33.908276],
-  "geometry": {"coordinates":[151.161423,-33.908276],"type":"Point"}
+  "bbox": [
+    151.161423,
+    -33.908276,
+    151.161423,
+    -33.908276
+],
+  "geometry": {"coordinates":[151.16142300000001,-33.908276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203336061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.859436,-37.537308,143.859436,-37.537308",
     "geom:latitude":-37.537308,
     "geom:longitude":143.859436,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Doveton St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203336061,
-    "wof:lastmodified":1449024911,
+    "wof:lastmodified":1466188435,
     "wof:name":"Cashin Pat",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [143.859436,-37.537308,143.859436,-37.537308],
-  "geometry": {"coordinates":[143.859436,-37.537308],"type":"Point"}
+  "bbox": [
+    143.859436,
+    -37.537308,
+    143.859436,
+    -37.537308
+],
+  "geometry": {"coordinates":[143.85943599999999,-37.537308],"type":"Point"}
 }

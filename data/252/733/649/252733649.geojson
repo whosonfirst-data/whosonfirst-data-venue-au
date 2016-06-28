@@ -2,13 +2,14 @@
   "id": 252733649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.670174,-33.354561,115.670174,-33.354561",
     "geom:latitude":-33.354561,
     "geom:longitude":115.670174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Proffit St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252733649,
-    "wof:lastmodified":1449005550,
+    "wof:lastmodified":1466187330,
     "wof:name":"Metroof",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [115.670174,-33.354561,115.670174,-33.354561],
+  "bbox": [
+    115.670174,
+    -33.354561,
+    115.670174,
+    -33.354561
+],
   "geometry": {"coordinates":[115.670174,-33.354561],"type":"Point"}
 }

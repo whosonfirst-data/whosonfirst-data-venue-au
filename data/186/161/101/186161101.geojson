@@ -2,13 +2,14 @@
   "id": 186161101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.929993,-30.708927,152.929993,-30.708927",
     "geom:latitude":-30.708927,
     "geom:longitude":152.929993,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 River St",
     "sg:city":"Macksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186161101,
-    "wof:lastmodified":1449051429,
+    "wof:lastmodified":1466190023,
     "wof:name":"Harding Col",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.929993,-30.708927,152.929993,-30.708927],
+  "bbox": [
+    152.929993,
+    -30.708927,
+    152.929993,
+    -30.708927
+],
   "geometry": {"coordinates":[152.929993,-30.708927],"type":"Point"}
 }

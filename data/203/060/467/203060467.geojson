@@ -2,13 +2,14 @@
   "id": 203060467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.925125,-33.734249,150.925125,-33.734249",
     "geom:latitude":-33.734249,
     "geom:longitude":150.925125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Malvern Rd",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203060467,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466188402,
     "wof:name":"Blue Ribbon Garden and Handyman Services",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [150.925125,-33.734249,150.925125,-33.734249],
-  "geometry": {"coordinates":[150.925125,-33.734249],"type":"Point"}
+  "bbox": [
+    150.925125,
+    -33.734249,
+    150.925125,
+    -33.734249
+],
+  "geometry": {"coordinates":[150.92512500000001,-33.734249],"type":"Point"}
 }

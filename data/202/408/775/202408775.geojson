@@ -2,13 +2,14 @@
   "id": 202408775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.945099,-37.835331,144.945099,-37.835331",
     "geom:latitude":-37.835331,
     "geom:longitude":144.945099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202408775,
-    "wof:lastmodified":1449060414,
+    "wof:lastmodified":1466187869,
     "wof:name":"Royal Orchid Thai Take Away",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.945099,-37.835331,144.945099,-37.835331],
+  "bbox": [
+    144.945099,
+    -37.835331,
+    144.945099,
+    -37.835331
+],
   "geometry": {"coordinates":[144.945099,-37.835331],"type":"Point"}
 }

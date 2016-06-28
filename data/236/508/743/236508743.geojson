@@ -2,13 +2,14 @@
   "id": 236508743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.35553,-22.58202,148.35553,-22.58202",
     "geom:latitude":-22.58202,
     "geom:longitude":148.35553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Phillips St",
     "sg:city":"Dysart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236508743,
-    "wof:lastmodified":1449003514,
+    "wof:lastmodified":1466191306,
     "wof:name":"Peter Krause",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [148.35553,-22.58202,148.35553,-22.58202],
-  "geometry": {"coordinates":[148.35553,-22.58202],"type":"Point"}
+  "bbox": [
+    148.35553,
+    -22.58202,
+    148.35553,
+    -22.58202
+],
+  "geometry": {"coordinates":[148.35552999999999,-22.58202],"type":"Point"}
 }

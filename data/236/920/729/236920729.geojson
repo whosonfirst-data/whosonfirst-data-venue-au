@@ -2,13 +2,14 @@
   "id": 236920729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.520737,-34.985203,138.520737,-34.985203",
     "geom:latitude":-34.985203,
     "geom:longitude":138.520737,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Brighton Rd",
     "sg:city":"Glenelg East",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":236920729,
-    "wof:lastmodified":1449004344,
+    "wof:lastmodified":1466192192,
     "wof:name":"BP Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.520737,-34.985203,138.520737,-34.985203],
+  "bbox": [
+    138.520737,
+    -34.985203,
+    138.520737,
+    -34.985203
+],
   "geometry": {"coordinates":[138.520737,-34.985203],"type":"Point"}
 }

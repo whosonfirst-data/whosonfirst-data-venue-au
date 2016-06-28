@@ -2,13 +2,14 @@
   "id": 220142405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.364853,-38.150265,144.364853,-38.150265",
     "geom:latitude":-38.150265,
     "geom:longitude":144.364853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Bellerine St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220142405,
-    "wof:lastmodified":1449074678,
+    "wof:lastmodified":1466188436,
     "wof:name":"Fargher Paul",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.364853,-38.150265,144.364853,-38.150265],
-  "geometry": {"coordinates":[144.364853,-38.150265],"type":"Point"}
+  "bbox": [
+    144.364853,
+    -38.150265,
+    144.364853,
+    -38.150265
+],
+  "geometry": {"coordinates":[144.36485300000001,-38.150265],"type":"Point"}
 }

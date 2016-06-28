@@ -2,13 +2,14 @@
   "id": 186489649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.768127,-19.273525,146.768127,-19.273525",
     "geom:latitude":-19.273525,
     "geom:longitude":146.768127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Charles St",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186489649,
-    "wof:lastmodified":1449051849,
+    "wof:lastmodified":1466190448,
     "wof:name":"G H Place Upholstery",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [146.768127,-19.273525,146.768127,-19.273525],
-  "geometry": {"coordinates":[146.768127,-19.273525],"type":"Point"}
+  "bbox": [
+    146.768127,
+    -19.273525,
+    146.768127,
+    -19.273525
+],
+  "geometry": {"coordinates":[146.76812699999999,-19.273525],"type":"Point"}
 }

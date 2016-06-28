@@ -2,13 +2,14 @@
   "id": 203321351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.822601,-37.571232,143.822601,-37.571232",
     "geom:latitude":-37.571232,
     "geom:longitude":143.822601,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 30 Carngham Rd",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203321351,
-    "wof:lastmodified":1449024991,
+    "wof:lastmodified":1466188281,
     "wof:name":"Steelsmith Engineering Pty Ltd",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [143.822601,-37.571232,143.822601,-37.571232],
-  "geometry": {"coordinates":[143.822601,-37.571232],"type":"Point"}
+  "bbox": [
+    143.822601,
+    -37.571232,
+    143.822601,
+    -37.571232
+],
+  "geometry": {"coordinates":[143.82260099999999,-37.571232],"type":"Point"}
 }

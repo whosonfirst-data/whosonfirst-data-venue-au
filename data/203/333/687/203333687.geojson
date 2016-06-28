@@ -2,13 +2,14 @@
   "id": 203333687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.860779,-37.531006,143.860779,-37.531006",
     "geom:latitude":-37.531006,
     "geom:longitude":143.860779,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Doveton St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203333687,
-    "wof:lastmodified":1449026742,
+    "wof:lastmodified":1466188397,
     "wof:name":"Brush With Gold",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [143.860779,-37.531006,143.860779,-37.531006],
-  "geometry": {"coordinates":[143.860779,-37.531006],"type":"Point"}
+  "bbox": [
+    143.860779,
+    -37.531006,
+    143.860779,
+    -37.531006
+],
+  "geometry": {"coordinates":[143.86077900000001,-37.531006],"type":"Point"}
 }

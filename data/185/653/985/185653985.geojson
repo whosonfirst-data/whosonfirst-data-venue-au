@@ -2,13 +2,14 @@
   "id": 185653985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.80201,-32.042488,115.80201,-32.042488",
     "geom:latitude":-32.042488,
     "geom:longitude":115.80201,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Leach Hwy & Norma Rd",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185653985,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466188313,
     "wof:name":"Bluewater Melville",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [115.80201,-32.042488,115.80201,-32.042488],
+  "bbox": [
+    115.80201,
+    -32.042488,
+    115.80201,
+    -32.042488
+],
   "geometry": {"coordinates":[115.80201,-32.042488],"type":"Point"}
 }

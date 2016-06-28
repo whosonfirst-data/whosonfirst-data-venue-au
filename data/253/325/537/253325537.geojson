@@ -2,13 +2,14 @@
   "id": 253325537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.309753,-38.027187,145.309753,-38.027187",
     "geom:latitude":-38.027187,
     "geom:longitude":145.309753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Princess Hwy",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253325537,
-    "wof:lastmodified":1449063979,
+    "wof:lastmodified":1466190837,
     "wof:name":"Ferriere B",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [145.309753,-38.027187,145.309753,-38.027187],
+  "bbox": [
+    145.309753,
+    -38.027187,
+    145.309753,
+    -38.027187
+],
   "geometry": {"coordinates":[145.309753,-38.027187],"type":"Point"}
 }

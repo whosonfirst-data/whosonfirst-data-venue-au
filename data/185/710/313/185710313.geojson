@@ -2,13 +2,14 @@
   "id": 185710313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.805862,-32.813908,151.805862,-32.813908",
     "geom:latitude":-32.813908,
     "geom:longitude":151.805862,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Cabbage Tree Rd",
     "sg:city":"Williamtown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185710313,
-    "wof:lastmodified":1449006693,
+    "wof:lastmodified":1466189231,
     "wof:name":"Hunter Valley Compressors Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [151.805862,-32.813908,151.805862,-32.813908],
-  "geometry": {"coordinates":[151.805862,-32.813908],"type":"Point"}
+  "bbox": [
+    151.805862,
+    -32.813908,
+    151.805862,
+    -32.813908
+],
+  "geometry": {"coordinates":[151.80586199999999,-32.813908],"type":"Point"}
 }

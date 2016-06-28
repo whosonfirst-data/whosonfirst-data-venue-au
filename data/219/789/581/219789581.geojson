@@ -2,13 +2,14 @@
   "id": 219789581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.734314,-19.305231,146.734314,-19.305231",
     "geom:latitude":-19.305231,
     "geom:longitude":146.734314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Thuringowa Drv",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219789581,
-    "wof:lastmodified":1449071990,
+    "wof:lastmodified":1466191260,
     "wof:name":"Queensland X-Ray",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.734314,-19.305231,146.734314,-19.305231],
-  "geometry": {"coordinates":[146.734314,-19.305231],"type":"Point"}
+  "bbox": [
+    146.734314,
+    -19.305231,
+    146.734314,
+    -19.305231
+],
+  "geometry": {"coordinates":[146.73431400000001,-19.305231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220176781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.362289,-38.152176,144.362289,-38.152176",
     "geom:latitude":-38.152176,
     "geom:longitude":144.362289,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Myers St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220176781,
-    "wof:lastmodified":1449074580,
+    "wof:lastmodified":1466189126,
     "wof:name":"Barwon Finance",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financier"
     ]
 },
-  "bbox": [144.362289,-38.152176,144.362289,-38.152176],
+  "bbox": [
+    144.362289,
+    -38.152176,
+    144.362289,
+    -38.152176
+],
   "geometry": {"coordinates":[144.362289,-38.152176],"type":"Point"}
 }

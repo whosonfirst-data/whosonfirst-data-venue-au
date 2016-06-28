@@ -2,13 +2,14 @@
   "id": 219380635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.548157,-35.332336,143.548157,-35.332336",
     "geom:latitude":-35.332336,
     "geom:longitude":143.548157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Chapman St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219380635,
-    "wof:lastmodified":1449072030,
+    "wof:lastmodified":1466188198,
     "wof:name":"Studio E Swan Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [143.548157,-35.332336,143.548157,-35.332336],
+  "bbox": [
+    143.548157,
+    -35.332336,
+    143.548157,
+    -35.332336
+],
   "geometry": {"coordinates":[143.548157,-35.332336],"type":"Point"}
 }

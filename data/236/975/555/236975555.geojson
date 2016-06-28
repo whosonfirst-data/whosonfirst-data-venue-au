@@ -2,13 +2,14 @@
   "id": 236975555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.359741,-37.848476,145.359741,-37.848476",
     "geom:latitude":-37.848476,
     "geom:longitude":145.359741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Sunset Ave",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236975555,
-    "wof:lastmodified":1449004698,
+    "wof:lastmodified":1466192179,
     "wof:name":"Camelot Tower",
     "wof:parent_id":85770183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [145.359741,-37.848476,145.359741,-37.848476],
-  "geometry": {"coordinates":[145.359741,-37.848476],"type":"Point"}
+  "bbox": [
+    145.359741,
+    -37.848476,
+    145.359741,
+    -37.848476
+],
+  "geometry": {"coordinates":[145.35974100000001,-37.848476],"type":"Point"}
 }

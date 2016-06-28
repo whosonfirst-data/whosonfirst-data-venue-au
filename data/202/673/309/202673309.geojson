@@ -2,13 +2,14 @@
   "id": 202673309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.039444,-27.386461,153.039444,-27.386461",
     "geom:latitude":-27.386461,
     "geom:longitude":153.039444,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Corrie St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202673309,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466188332,
     "wof:name":"Craft Culture",
     "wof:parent_id":85773851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [153.039444,-27.386461,153.039444,-27.386461],
+  "bbox": [
+    153.039444,
+    -27.386461,
+    153.039444,
+    -27.386461
+],
   "geometry": {"coordinates":[153.039444,-27.386461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186552687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.164124,-33.893581,151.164124,-33.893581",
     "geom:latitude":-33.893581,
     "geom:longitude":151.164124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Percival Rd",
     "sg:city":"Stanmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186552687,
-    "wof:lastmodified":1449051497,
+    "wof:lastmodified":1466190828,
     "wof:name":"Made in Stanmore",
     "wof:parent_id":85770309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [151.164124,-33.893581,151.164124,-33.893581],
-  "geometry": {"coordinates":[151.164124,-33.893581],"type":"Point"}
+  "bbox": [
+    151.164124,
+    -33.893581,
+    151.164124,
+    -33.893581
+],
+  "geometry": {"coordinates":[151.16412399999999,-33.893581],"type":"Point"}
 }

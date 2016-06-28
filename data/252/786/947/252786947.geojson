@@ -2,13 +2,14 @@
   "id": 252786947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.450012,-41.175884,146.450012,-41.175884",
     "geom:latitude":-41.175884,
     "geom:longitude":146.450012,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Mill Rd",
     "sg:city":"Wesley Vale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252786947,
-    "wof:lastmodified":1449005549,
+    "wof:lastmodified":1466188030,
     "wof:name":"Australian Paper Tasmania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "converting"
     ]
 },
-  "bbox": [146.450012,-41.175884,146.450012,-41.175884],
-  "geometry": {"coordinates":[146.450012,-41.175884],"type":"Point"}
+  "bbox": [
+    146.450012,
+    -41.175884,
+    146.450012,
+    -41.175884
+],
+  "geometry": {"coordinates":[146.45001199999999,-41.175884],"type":"Point"}
 }

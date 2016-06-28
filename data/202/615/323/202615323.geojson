@@ -2,13 +2,14 @@
   "id": 202615323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.933395,-28.659101,151.933395,-28.659101",
     "geom:latitude":-28.659101,
     "geom:longitude":151.933395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Marylands St",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202615323,
-    "wof:lastmodified":1449060906,
+    "wof:lastmodified":1466187474,
     "wof:name":"Eagle Boys Pizza Stanthorpe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [151.933395,-28.659101,151.933395,-28.659101],
-  "geometry": {"coordinates":[151.933395,-28.659101],"type":"Point"}
+  "bbox": [
+    151.933395,
+    -28.659101,
+    151.933395,
+    -28.659101
+],
+  "geometry": {"coordinates":[151.93339499999999,-28.659101],"type":"Point"}
 }

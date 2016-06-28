@@ -2,13 +2,14 @@
   "id": 236693389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.574097,-31.966465,152.574097,-31.966465",
     "geom:latitude":-31.966465,
     "geom:longitude":152.574097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Old Bar Rd",
     "sg:city":"Old Bar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236693389,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1466191839,
     "wof:name":"Old Bar Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [152.574097,-31.966465,152.574097,-31.966465],
-  "geometry": {"coordinates":[152.574097,-31.966465],"type":"Point"}
+  "bbox": [
+    152.574097,
+    -31.966465,
+    152.574097,
+    -31.966465
+],
+  "geometry": {"coordinates":[152.57409699999999,-31.966465],"type":"Point"}
 }

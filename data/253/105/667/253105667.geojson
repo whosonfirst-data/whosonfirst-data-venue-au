@@ -2,13 +2,14 @@
   "id": 253105667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.844269,-37.758652,144.844269,-37.758652",
     "geom:latitude":-37.758652,
     "geom:longitude":144.844269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Munro Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253105667,
-    "wof:lastmodified":1449063968,
+    "wof:lastmodified":1466188850,
     "wof:name":"Tyres R Us",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [144.844269,-37.758652,144.844269,-37.758652],
+  "bbox": [
+    144.844269,
+    -37.758652,
+    144.844269,
+    -37.758652
+],
   "geometry": {"coordinates":[144.844269,-37.758652],"type":"Point"}
 }

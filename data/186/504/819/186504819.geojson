@@ -2,13 +2,14 @@
   "id": 186504819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.75058,-19.269348,146.75058,-19.269348",
     "geom:latitude":-19.269348,
     "geom:longitude":146.75058,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Camuglia St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186504819,
-    "wof:lastmodified":1449050886,
+    "wof:lastmodified":1466190428,
     "wof:name":"Minehan Agencies Pty Ltd",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [146.75058,-19.269348,146.75058,-19.269348],
-  "geometry": {"coordinates":[146.75058,-19.269348],"type":"Point"}
+  "bbox": [
+    146.75058,
+    -19.269348,
+    146.75058,
+    -19.269348
+],
+  "geometry": {"coordinates":[146.75058000000001,-19.269348],"type":"Point"}
 }

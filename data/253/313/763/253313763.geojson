@@ -2,13 +2,14 @@
   "id": 253313763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.313553,-38.028202,145.313553,-38.028202",
     "geom:latitude":-38.028202,
     "geom:longitude":145.313553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Wauchope Ave",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253313763,
-    "wof:lastmodified":1449062911,
+    "wof:lastmodified":1466190848,
     "wof:name":"Istvan Engineering",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [145.313553,-38.028202,145.313553,-38.028202],
-  "geometry": {"coordinates":[145.313553,-38.028202],"type":"Point"}
+  "bbox": [
+    145.313553,
+    -38.028202,
+    145.313553,
+    -38.028202
+],
+  "geometry": {"coordinates":[145.31355300000001,-38.028202],"type":"Point"}
 }

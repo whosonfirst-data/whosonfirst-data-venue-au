@@ -2,13 +2,14 @@
   "id": 203075759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.258606,-41.320187,148.258606,-41.320187",
     "geom:latitude":-41.320187,
     "geom:longitude":148.258606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Binnalong Bay Rd St",
     "sg:city":"Helens",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203075759,
-    "wof:lastmodified":1449025976,
+    "wof:lastmodified":1466188694,
     "wof:name":"East Coast Scuba Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diving"
     ]
 },
-  "bbox": [148.258606,-41.320187,148.258606,-41.320187],
-  "geometry": {"coordinates":[148.258606,-41.320187],"type":"Point"}
+  "bbox": [
+    148.258606,
+    -41.320187,
+    148.258606,
+    -41.320187
+],
+  "geometry": {"coordinates":[148.25860599999999,-41.320187],"type":"Point"}
 }

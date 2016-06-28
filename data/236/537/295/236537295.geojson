@@ -2,13 +2,14 @@
   "id": 236537295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.818146,-23.251547,150.818146,-23.251547",
     "geom:latitude":-23.251547,
     "geom:longitude":150.818146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Redman St",
     "sg:city":"Emu Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236537295,
-    "wof:lastmodified":1449002288,
+    "wof:lastmodified":1466191375,
     "wof:name":"Helas Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.818146,-23.251547,150.818146,-23.251547],
-  "geometry": {"coordinates":[150.818146,-23.251547],"type":"Point"}
+  "bbox": [
+    150.818146,
+    -23.251547,
+    150.818146,
+    -23.251547
+],
+  "geometry": {"coordinates":[150.81814600000001,-23.251547],"type":"Point"}
 }

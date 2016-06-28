@@ -2,13 +2,14 @@
   "id": 202394917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.745163,-34.58503,138.745163,-34.58503",
     "geom:latitude":-34.58503,
     "geom:longitude":138.745163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Main North Rd",
     "sg:city":"Willaston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202394917,
-    "wof:lastmodified":1449060602,
+    "wof:lastmodified":1466187519,
     "wof:name":"Willaston Hotel",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [138.745163,-34.58503,138.745163,-34.58503],
-  "geometry": {"coordinates":[138.745163,-34.58503],"type":"Point"}
+  "bbox": [
+    138.745163,
+    -34.58503,
+    138.745163,
+    -34.58503
+],
+  "geometry": {"coordinates":[138.74516299999999,-34.58503],"type":"Point"}
 }

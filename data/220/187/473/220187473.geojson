@@ -2,13 +2,14 @@
   "id": 220187473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.652969,-38.115112,144.652969,-38.115112",
     "geom:latitude":-38.115112,
     "geom:longitude":144.652969,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Newcombe St",
     "sg:city":"Portarlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220187473,
-    "wof:lastmodified":1449074155,
+    "wof:lastmodified":1466189295,
     "wof:name":"Grand Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [144.652969,-38.115112,144.652969,-38.115112],
-  "geometry": {"coordinates":[144.652969,-38.115112],"type":"Point"}
+  "bbox": [
+    144.652969,
+    -38.115112,
+    144.652969,
+    -38.115112
+],
+  "geometry": {"coordinates":[144.65296900000001,-38.115112],"type":"Point"}
 }

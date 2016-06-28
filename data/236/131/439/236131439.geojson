@@ -2,13 +2,14 @@
   "id": 236131439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.879013,-37.750866,144.879013,-37.750866",
     "geom:latitude":-37.750866,
     "geom:longitude":144.879013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Surrey Drv",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236131439,
-    "wof:lastmodified":1449002477,
+    "wof:lastmodified":1466189278,
     "wof:name":"Pulse Light Treatment",
     "wof:parent_id":85777819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.879013,-37.750866,144.879013,-37.750866],
-  "geometry": {"coordinates":[144.879013,-37.750866],"type":"Point"}
+  "bbox": [
+    144.879013,
+    -37.750866,
+    144.879013,
+    -37.750866
+],
+  "geometry": {"coordinates":[144.87901299999999,-37.750866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219232295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.466782,-31.549957,116.466782,-31.549957",
     "geom:latitude":-31.549957,
     "geom:longitude":116.466782,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Stirling Hwy",
     "sg:city":"Toodyay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219232295,
-    "wof:lastmodified":1449071535,
+    "wof:lastmodified":1466189906,
     "wof:name":"RE/MAX Devenish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [116.466782,-31.549957,116.466782,-31.549957],
-  "geometry": {"coordinates":[116.466782,-31.549957],"type":"Point"}
+  "bbox": [
+    116.466782,
+    -31.549957,
+    116.466782,
+    -31.549957
+],
+  "geometry": {"coordinates":[116.46678199999999,-31.549957],"type":"Point"}
 }

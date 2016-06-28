@@ -2,13 +2,14 @@
   "id": 186614861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.067978,-34.280521,146.067978,-34.280521",
     "geom:latitude":-34.280521,
     "geom:longitude":146.067978,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Ledgerwood St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186614861,
-    "wof:lastmodified":1449053096,
+    "wof:lastmodified":1466190959,
     "wof:name":"Dennis Forner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [146.067978,-34.280521,146.067978,-34.280521],
-  "geometry": {"coordinates":[146.067978,-34.280521],"type":"Point"}
+  "bbox": [
+    146.067978,
+    -34.280521,
+    146.067978,
+    -34.280521
+],
+  "geometry": {"coordinates":[146.06797800000001,-34.280521],"type":"Point"}
 }

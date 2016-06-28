@@ -2,13 +2,14 @@
   "id": 253058293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.774765,-37.759659,144.774765,-37.759659",
     "geom:latitude":-37.759659,
     "geom:longitude":144.774765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Porter Crt",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253058293,
-    "wof:lastmodified":1449063252,
+    "wof:lastmodified":1466188044,
     "wof:name":"Milk & Munchies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.774765,-37.759659,144.774765,-37.759659],
+  "bbox": [
+    144.774765,
+    -37.759659,
+    144.774765,
+    -37.759659
+],
   "geometry": {"coordinates":[144.774765,-37.759659],"type":"Point"}
 }

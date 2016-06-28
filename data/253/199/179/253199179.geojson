@@ -2,13 +2,14 @@
   "id": 253199179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.937485,-27.594151,151.937485,-27.594151",
     "geom:latitude":-27.594151,
     "geom:longitude":151.937485,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 West St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253199179,
-    "wof:lastmodified":1449063115,
+    "wof:lastmodified":1466190212,
     "wof:name":"Scruffy Murphys Convenience Store",
     "wof:parent_id":85779701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.937485,-27.594151,151.937485,-27.594151],
-  "geometry": {"coordinates":[151.937485,-27.594151],"type":"Point"}
+  "bbox": [
+    151.937485,
+    -27.594151,
+    151.937485,
+    -27.594151
+],
+  "geometry": {"coordinates":[151.93748500000001,-27.594151],"type":"Point"}
 }

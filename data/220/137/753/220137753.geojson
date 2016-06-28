@@ -2,13 +2,14 @@
   "id": 220137753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.373077,-38.14843,144.373077,-38.14843",
     "geom:latitude":-38.14843,
     "geom:longitude":144.373077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1751",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220137753,
-    "wof:lastmodified":1449074764,
+    "wof:lastmodified":1466188343,
     "wof:name":"Schultz Wayne Electrical",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.373077,-38.14843,144.373077,-38.14843],
-  "geometry": {"coordinates":[144.373077,-38.14843],"type":"Point"}
+  "bbox": [
+    144.373077,
+    -38.14843,
+    144.373077,
+    -38.14843
+],
+  "geometry": {"coordinates":[144.37307699999999,-38.14843],"type":"Point"}
 }

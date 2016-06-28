@@ -2,13 +2,14 @@
   "id": 220159573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.364365,-38.164646,144.364365,-38.164646",
     "geom:latitude":-38.164646,
     "geom:longitude":144.364365,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shd 4/ 168 Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220159573,
-    "wof:lastmodified":1449074134,
+    "wof:lastmodified":1466188783,
     "wof:name":"Hub Service Centre",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.364365,-38.164646,144.364365,-38.164646],
-  "geometry": {"coordinates":[144.364365,-38.164646],"type":"Point"}
+  "bbox": [
+    144.364365,
+    -38.164646,
+    144.364365,
+    -38.164646
+],
+  "geometry": {"coordinates":[144.36436499999999,-38.164646],"type":"Point"}
 }

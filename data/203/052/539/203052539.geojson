@@ -2,13 +2,14 @@
   "id": 203052539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.694519,-36.90773,144.694519,-36.90773",
     "geom:latitude":-36.90773,
     "geom:longitude":144.694519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"McIvor Hwy",
     "sg:city":"Heathcote",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203052539,
-    "wof:lastmodified":1449025769,
+    "wof:lastmodified":1466188260,
     "wof:name":"Derrinal Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.694519,-36.90773,144.694519,-36.90773],
-  "geometry": {"coordinates":[144.694519,-36.90773],"type":"Point"}
+  "bbox": [
+    144.694519,
+    -36.90773,
+    144.694519,
+    -36.90773
+],
+  "geometry": {"coordinates":[144.69451900000001,-36.90773],"type":"Point"}
 }

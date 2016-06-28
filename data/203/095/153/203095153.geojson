@@ -2,13 +2,14 @@
   "id": 203095153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.721748,-32.52557,115.721748,-32.52557",
     "geom:latitude":-32.52557,
     "geom:longitude":115.721748,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 8, 2a Peel St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203095153,
-    "wof:lastmodified":1449025892,
+    "wof:lastmodified":1466188975,
     "wof:name":"McGarry Associates",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "quantity"
     ]
 },
-  "bbox": [115.721748,-32.52557,115.721748,-32.52557],
-  "geometry": {"coordinates":[115.721748,-32.52557],"type":"Point"}
+  "bbox": [
+    115.721748,
+    -32.52557,
+    115.721748,
+    -32.52557
+],
+  "geometry": {"coordinates":[115.72174800000001,-32.52557],"type":"Point"}
 }

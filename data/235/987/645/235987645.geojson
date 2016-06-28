@@ -2,13 +2,14 @@
   "id": 235987645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.750183,-36.956421,140.750183,-36.956421",
     "geom:latitude":-36.956421,
     "geom:longitude":140.750183,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Arthur St",
     "sg:city":"Naracoorte",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":235987645,
-    "wof:lastmodified":1449008433,
+    "wof:lastmodified":1466187568,
     "wof:name":"Kerkhofs&#039; Tanks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.750183,-36.956421,140.750183,-36.956421],
-  "geometry": {"coordinates":[140.750183,-36.956421],"type":"Point"}
+  "bbox": [
+    140.750183,
+    -36.956421,
+    140.750183,
+    -36.956421
+],
+  "geometry": {"coordinates":[140.75018299999999,-36.956421],"type":"Point"}
 }

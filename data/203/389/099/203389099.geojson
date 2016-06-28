@@ -2,13 +2,14 @@
   "id": 203389099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.857376,-37.581841,143.857376,-37.581841",
     "geom:latitude":-37.581841,
     "geom:longitude":143.857376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Carngham Rd",
     "sg:city":"(North) Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203389099,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466189360,
     "wof:name":"Steelsmith Engineering Pty Ltd",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [143.857376,-37.581841,143.857376,-37.581841],
-  "geometry": {"coordinates":[143.857376,-37.581841],"type":"Point"}
+  "bbox": [
+    143.857376,
+    -37.581841,
+    143.857376,
+    -37.581841
+],
+  "geometry": {"coordinates":[143.85737599999999,-37.581841],"type":"Point"}
 }

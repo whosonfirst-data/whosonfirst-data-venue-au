@@ -2,13 +2,14 @@
   "id": 220165813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.356018,-38.14278,144.356018,-38.14278",
     "geom:latitude":-38.14278,
     "geom:longitude":144.356018,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220165813,
-    "wof:lastmodified":1449074881,
+    "wof:lastmodified":1466188909,
     "wof:name":"Mr Rental",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [144.356018,-38.14278,144.356018,-38.14278],
-  "geometry": {"coordinates":[144.356018,-38.14278],"type":"Point"}
+  "bbox": [
+    144.356018,
+    -38.14278,
+    144.356018,
+    -38.14278
+],
+  "geometry": {"coordinates":[144.35601800000001,-38.14278],"type":"Point"}
 }

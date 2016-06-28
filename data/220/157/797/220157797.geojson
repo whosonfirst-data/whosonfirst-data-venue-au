@@ -2,13 +2,14 @@
   "id": 220157797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358505,-38.162781,144.358505,-38.162781",
     "geom:latitude":-38.162781,
     "geom:longitude":144.358505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220157797,
-    "wof:lastmodified":1449074763,
+    "wof:lastmodified":1466188749,
     "wof:name":"The Cutting Room",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.358505,-38.162781,144.358505,-38.162781],
-  "geometry": {"coordinates":[144.358505,-38.162781],"type":"Point"}
+  "bbox": [
+    144.358505,
+    -38.162781,
+    144.358505,
+    -38.162781
+],
+  "geometry": {"coordinates":[144.35850500000001,-38.162781],"type":"Point"}
 }

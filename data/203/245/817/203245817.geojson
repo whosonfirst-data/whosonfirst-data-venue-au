@@ -2,13 +2,14 @@
   "id": 203245817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.996017,-26.759884,152.996017,-26.759884",
     "geom:latitude":-26.759884,
     "geom:longitude":152.996017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Glenview Rd",
     "sg:city":"Glenview",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203245817,
-    "wof:lastmodified":1449026814,
+    "wof:lastmodified":1466187541,
     "wof:name":"Leigh Flower Earthmoving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.996017,-26.759884,152.996017,-26.759884],
-  "geometry": {"coordinates":[152.996017,-26.759884],"type":"Point"}
+  "bbox": [
+    152.996017,
+    -26.759884,
+    152.996017,
+    -26.759884
+],
+  "geometry": {"coordinates":[152.99601699999999,-26.759884],"type":"Point"}
 }

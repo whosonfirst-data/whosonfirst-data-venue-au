@@ -2,13 +2,14 @@
   "id": 203069769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.263077,-41.46386,148.263077,-41.46386",
     "geom:latitude":-41.46386,
     "geom:longitude":148.263077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 75",
     "sg:city":"Scamander",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203069769,
-    "wof:lastmodified":1449026160,
+    "wof:lastmodified":1466188579,
     "wof:name":"Rova Off Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [148.263077,-41.46386,148.263077,-41.46386],
-  "geometry": {"coordinates":[148.263077,-41.46386],"type":"Point"}
+  "bbox": [
+    148.263077,
+    -41.46386,
+    148.263077,
+    -41.46386
+],
+  "geometry": {"coordinates":[148.26307700000001,-41.46386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220061669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.324982,-38.331001,144.324982,-38.331001",
     "geom:latitude":-38.331001,
     "geom:longitude":144.324982,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1/ No 3 Cliff St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220061669,
-    "wof:lastmodified":1449074631,
+    "wof:lastmodified":1466187612,
     "wof:name":"Andrew Cherubin & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.324982,-38.331001,144.324982,-38.331001],
-  "geometry": {"coordinates":[144.324982,-38.331001],"type":"Point"}
+  "bbox": [
+    144.324982,
+    -38.331001,
+    144.324982,
+    -38.331001
+],
+  "geometry": {"coordinates":[144.32498200000001,-38.331001],"type":"Point"}
 }

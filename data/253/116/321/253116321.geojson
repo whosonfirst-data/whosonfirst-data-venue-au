@@ -2,13 +2,14 @@
   "id": 253116321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.812119,-37.812584,144.812119,-37.812584",
     "geom:latitude":-37.812584,
     "geom:longitude":144.812119,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Spencer St",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253116321,
-    "wof:lastmodified":1449063248,
+    "wof:lastmodified":1466189065,
     "wof:name":"H.I.S. Hose Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [144.812119,-37.812584,144.812119,-37.812584],
+  "bbox": [
+    144.812119,
+    -37.812584,
+    144.812119,
+    -37.812584
+],
   "geometry": {"coordinates":[144.812119,-37.812584],"type":"Point"}
 }

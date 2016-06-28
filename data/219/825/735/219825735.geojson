@@ -2,13 +2,14 @@
   "id": 219825735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.609085,-36.151077,146.609085,-36.151077",
     "geom:latitude":-36.151077,
     "geom:longitude":146.609085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp2/ 45 Conness St",
     "sg:city":"Chiltern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219825735,
-    "wof:lastmodified":1449070507,
+    "wof:lastmodified":1466191447,
     "wof:name":"Zac Attack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "accessory"
     ]
 },
-  "bbox": [146.609085,-36.151077,146.609085,-36.151077],
-  "geometry": {"coordinates":[146.609085,-36.151077],"type":"Point"}
+  "bbox": [
+    146.609085,
+    -36.151077,
+    146.609085,
+    -36.151077
+],
+  "geometry": {"coordinates":[146.60908499999999,-36.151077],"type":"Point"}
 }

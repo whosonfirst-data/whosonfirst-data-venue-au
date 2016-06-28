@@ -2,13 +2,14 @@
   "id": 219905477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.947083,-34.279556,150.947083,-34.279556",
     "geom:latitude":-34.279556,
     "geom:longitude":150.947083,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29a Denmark St",
     "sg:city":"Wombarra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219905477,
-    "wof:lastmodified":1449071765,
+    "wof:lastmodified":1466191732,
     "wof:name":"Imperial Security",
     "wof:parent_id":85770641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [150.947083,-34.279556,150.947083,-34.279556],
-  "geometry": {"coordinates":[150.947083,-34.279556],"type":"Point"}
+  "bbox": [
+    150.947083,
+    -34.279556,
+    150.947083,
+    -34.279556
+],
+  "geometry": {"coordinates":[150.94708299999999,-34.279556],"type":"Point"}
 }

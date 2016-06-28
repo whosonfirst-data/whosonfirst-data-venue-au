@@ -2,13 +2,14 @@
   "id": 202569909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.430954,-37.679565,144.430954,-37.679565",
     "geom:latitude":-37.679565,
     "geom:longitude":144.430954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Margaret Drv",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202569909,
-    "wof:lastmodified":1449062538,
+    "wof:lastmodified":1466187043,
     "wof:name":"The Design Bus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [144.430954,-37.679565,144.430954,-37.679565],
-  "geometry": {"coordinates":[144.430954,-37.679565],"type":"Point"}
+  "bbox": [
+    144.430954,
+    -37.679565,
+    144.430954,
+    -37.679565
+],
+  "geometry": {"coordinates":[144.43095400000001,-37.679565],"type":"Point"}
 }

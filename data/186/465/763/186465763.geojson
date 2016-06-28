@@ -2,13 +2,14 @@
   "id": 186465763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.150864,-33.881145,151.150864,-33.881145",
     "geom:latitude":-33.881145,
     "geom:longitude":151.150864,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Edith St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186465763,
-    "wof:lastmodified":1449052174,
+    "wof:lastmodified":1466190402,
     "wof:name":"Alarms, Intercoms & Sound Systems",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "burglar"
     ]
 },
-  "bbox": [151.150864,-33.881145,151.150864,-33.881145],
-  "geometry": {"coordinates":[151.150864,-33.881145],"type":"Point"}
+  "bbox": [
+    151.150864,
+    -33.881145,
+    151.150864,
+    -33.881145
+],
+  "geometry": {"coordinates":[151.15086400000001,-33.881145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236334221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.792702,-32.061695,115.792702,-32.061695",
     "geom:latitude":-32.061695,
     "geom:longitude":115.792702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rees St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236334221,
-    "wof:lastmodified":1449002444,
+    "wof:lastmodified":1466190598,
     "wof:name":"Pearling Technologies",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pearler"
     ]
 },
-  "bbox": [115.792702,-32.061695,115.792702,-32.061695],
-  "geometry": {"coordinates":[115.792702,-32.061695],"type":"Point"}
+  "bbox": [
+    115.792702,
+    -32.061695,
+    115.792702,
+    -32.061695
+],
+  "geometry": {"coordinates":[115.79270200000001,-32.061695],"type":"Point"}
 }

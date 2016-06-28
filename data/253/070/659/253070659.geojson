@@ -2,13 +2,14 @@
   "id": 253070659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.78038,-37.749767,144.78038,-37.749767",
     "geom:latitude":-37.749767,
     "geom:longitude":144.78038,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Meehan St",
     "sg:city":"Cairnlea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253070659,
-    "wof:lastmodified":1449064257,
+    "wof:lastmodified":1466188201,
     "wof:name":"Eddy's Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.78038,-37.749767,144.78038,-37.749767],
-  "geometry": {"coordinates":[144.78038,-37.749767],"type":"Point"}
+  "bbox": [
+    144.78038,
+    -37.749767,
+    144.78038,
+    -37.749767
+],
+  "geometry": {"coordinates":[144.78038000000001,-37.749767],"type":"Point"}
 }

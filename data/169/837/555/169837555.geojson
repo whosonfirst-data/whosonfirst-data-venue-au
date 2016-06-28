@@ -2,13 +2,14 @@
   "id": 169837555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.865173,-32.011616,115.865173,-32.011616",
     "geom:latitude":-32.011616,
     "geom:longitude":115.865173,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Manning Rd",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169837555,
-    "wof:lastmodified":1449033208,
+    "wof:lastmodified":1466189288,
     "wof:name":"Mount Henry Tavern",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [115.865173,-32.011616,115.865173,-32.011616],
+  "bbox": [
+    115.865173,
+    -32.011616,
+    115.865173,
+    -32.011616
+],
   "geometry": {"coordinates":[115.865173,-32.011616],"type":"Point"}
 }

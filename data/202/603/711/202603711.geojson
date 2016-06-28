@@ -2,13 +2,14 @@
   "id": 202603711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.183426,-33.805984,151.183426,-33.805984",
     "geom:latitude":-33.805984,
     "geom:longitude":151.183426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hawkins St",
     "sg:city":"Artarmon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202603711,
-    "wof:lastmodified":1449062267,
+    "wof:lastmodified":1466187350,
     "wof:name":"North Shore Chinese Medicine",
     "wof:parent_id":85768685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herbalist"
     ]
 },
-  "bbox": [151.183426,-33.805984,151.183426,-33.805984],
+  "bbox": [
+    151.183426,
+    -33.805984,
+    151.183426,
+    -33.805984
+],
   "geometry": {"coordinates":[151.183426,-33.805984],"type":"Point"}
 }

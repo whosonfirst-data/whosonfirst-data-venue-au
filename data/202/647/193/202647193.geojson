@@ -2,13 +2,14 @@
   "id": 202647193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.03363,-27.394381,153.03363,-27.394381",
     "geom:latitude":-27.394381,
     "geom:longitude":153.03363,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Thirteen Ave",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202647193,
-    "wof:lastmodified":1449061325,
+    "wof:lastmodified":1466187830,
     "wof:name":"Farrers Plumbing Service",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.03363,-27.394381,153.03363,-27.394381],
-  "geometry": {"coordinates":[153.03363,-27.394381],"type":"Point"}
+  "bbox": [
+    153.03363,
+    -27.394381,
+    153.03363,
+    -27.394381
+],
+  "geometry": {"coordinates":[153.03362999999999,-27.394381],"type":"Point"}
 }

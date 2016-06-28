@@ -2,13 +2,14 @@
   "id": 186263303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.927521,-31.471495,152.927521,-31.471495",
     "geom:latitude":-31.471495,
     "geom:longitude":152.927521,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Bangalay Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186263303,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466187503,
     "wof:name":"Robbo's Tipper Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.927521,-31.471495,152.927521,-31.471495],
-  "geometry": {"coordinates":[152.927521,-31.471495],"type":"Point"}
+  "bbox": [
+    152.927521,
+    -31.471495,
+    152.927521,
+    -31.471495
+],
+  "geometry": {"coordinates":[152.92752100000001,-31.471495],"type":"Point"}
 }

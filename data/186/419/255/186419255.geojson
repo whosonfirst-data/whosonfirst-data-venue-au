@@ -2,13 +2,14 @@
   "id": 186419255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.794861,-19.267508,146.794861,-19.267508",
     "geom:latitude":-19.267508,
     "geom:longitude":146.794861,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186419255,
-    "wof:lastmodified":1449052984,
+    "wof:lastmodified":1466189631,
     "wof:name":"ABC Web Design",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [146.794861,-19.267508,146.794861,-19.267508],
+  "bbox": [
+    146.794861,
+    -19.267508,
+    146.794861,
+    -19.267508
+],
   "geometry": {"coordinates":[146.794861,-19.267508],"type":"Point"}
 }

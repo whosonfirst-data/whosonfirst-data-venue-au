@@ -2,13 +2,14 @@
   "id": 203044299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952362,-24.986269,151.952362,-24.986269",
     "geom:latitude":-24.986269,
     "geom:longitude":151.952362,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Mulgrave St",
     "sg:city":"Gin Gin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203044299,
-    "wof:lastmodified":1449025923,
+    "wof:lastmodified":1466188122,
     "wof:name":"Country Comfort Gin Gin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.952362,-24.986269,151.952362,-24.986269],
-  "geometry": {"coordinates":[151.952362,-24.986269],"type":"Point"}
+  "bbox": [
+    151.952362,
+    -24.986269,
+    151.952362,
+    -24.986269
+],
+  "geometry": {"coordinates":[151.95236199999999,-24.986269],"type":"Point"}
 }

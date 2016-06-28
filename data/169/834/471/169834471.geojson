@@ -2,13 +2,14 @@
   "id": 169834471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.871643,-32.011868,115.871643,-32.011868",
     "geom:latitude":-32.011868,
     "geom:longitude":115.871643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Marsh Ave",
     "sg:city":"(Cnr Manning Rd) Manning",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169834471,
-    "wof:lastmodified":1449032973,
+    "wof:lastmodified":1466189259,
     "wof:name":"Delta Dental Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dental"
     ]
 },
-  "bbox": [115.871643,-32.011868,115.871643,-32.011868],
-  "geometry": {"coordinates":[115.871643,-32.011868],"type":"Point"}
+  "bbox": [
+    115.871643,
+    -32.011868,
+    115.871643,
+    -32.011868
+],
+  "geometry": {"coordinates":[115.87164300000001,-32.011868],"type":"Point"}
 }

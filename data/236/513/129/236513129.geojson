@@ -2,13 +2,14 @@
   "id": 236513129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166519,-32.566116,151.166519,-32.566116",
     "geom:latitude":-32.566116,
     "geom:longitude":151.166519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236513129,
-    "wof:lastmodified":1449003913,
+    "wof:lastmodified":1466191338,
     "wof:name":"Civic Video",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "library"
     ]
 },
-  "bbox": [151.166519,-32.566116,151.166519,-32.566116],
-  "geometry": {"coordinates":[151.166519,-32.566116],"type":"Point"}
+  "bbox": [
+    151.166519,
+    -32.566116,
+    151.166519,
+    -32.566116
+],
+  "geometry": {"coordinates":[151.16651899999999,-32.566116],"type":"Point"}
 }

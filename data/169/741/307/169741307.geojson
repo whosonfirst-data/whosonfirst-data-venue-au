@@ -2,13 +2,14 @@
   "id": 169741307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112915,-27.203691,153.112915,-27.203691",
     "geom:latitude":-27.203691,
     "geom:longitude":153.112915,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Mein St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169741307,
-    "wof:lastmodified":1449032862,
+    "wof:lastmodified":1466187624,
     "wof:name":"Ron Harrigan & Co Pty Ltd",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refrigerated"
     ]
 },
-  "bbox": [153.112915,-27.203691,153.112915,-27.203691],
-  "geometry": {"coordinates":[153.112915,-27.203691],"type":"Point"}
+  "bbox": [
+    153.112915,
+    -27.203691,
+    153.112915,
+    -27.203691
+],
+  "geometry": {"coordinates":[153.11291499999999,-27.203691],"type":"Point"}
 }

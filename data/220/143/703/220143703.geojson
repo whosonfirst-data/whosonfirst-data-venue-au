@@ -2,13 +2,14 @@
   "id": 220143703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363342,-38.170246,144.363342,-38.170246",
     "geom:latitude":-38.170246,
     "geom:longitude":144.363342,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gravel Pits Rd",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220143703,
-    "wof:lastmodified":1449074724,
+    "wof:lastmodified":1466188463,
     "wof:name":"Belgrove Portables",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "portable"
     ]
 },
-  "bbox": [144.363342,-38.170246,144.363342,-38.170246],
-  "geometry": {"coordinates":[144.363342,-38.170246],"type":"Point"}
+  "bbox": [
+    144.363342,
+    -38.170246,
+    144.363342,
+    -38.170246
+],
+  "geometry": {"coordinates":[144.36334199999999,-38.170246],"type":"Point"}
 }

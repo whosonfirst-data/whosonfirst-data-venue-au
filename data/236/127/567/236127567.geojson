@@ -2,13 +2,14 @@
   "id": 236127567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.849777,-37.745052,144.849777,-37.745052",
     "geom:latitude":-37.745052,
     "geom:longitude":144.849777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"188A Sterling Drv",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236127567,
-    "wof:lastmodified":1449004926,
+    "wof:lastmodified":1466189198,
     "wof:name":"Edenvale Manor Aged Care Facility",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [144.849777,-37.745052,144.849777,-37.745052],
-  "geometry": {"coordinates":[144.849777,-37.745052],"type":"Point"}
+  "bbox": [
+    144.849777,
+    -37.745052,
+    144.849777,
+    -37.745052
+],
+  "geometry": {"coordinates":[144.84977699999999,-37.745052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169846943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.848488,-32.041599,115.848488,-32.041599",
     "geom:latitude":-32.041599,
     "geom:longitude":115.848488,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Spinaway Crs",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169846943,
-    "wof:lastmodified":1449035215,
+    "wof:lastmodified":1466189403,
     "wof:name":"Wilfrid Owen Sales Pty Ltd",
     "wof:parent_id":85775657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "perfume"
     ]
 },
-  "bbox": [115.848488,-32.041599,115.848488,-32.041599],
+  "bbox": [
+    115.848488,
+    -32.041599,
+    115.848488,
+    -32.041599
+],
   "geometry": {"coordinates":[115.848488,-32.041599],"type":"Point"}
 }

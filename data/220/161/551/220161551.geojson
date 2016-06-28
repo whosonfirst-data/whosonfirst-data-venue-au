@@ -2,13 +2,14 @@
   "id": 220161551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354752,-38.139675,144.354752,-38.139675",
     "geom:latitude":-38.139675,
     "geom:longitude":144.354752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 1/ 6 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220161551,
-    "wof:lastmodified":1449074354,
+    "wof:lastmodified":1466188824,
     "wof:name":"Roadhouse Technologies Pty Ltd",
     "wof:parent_id":85769301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [144.354752,-38.139675,144.354752,-38.139675],
-  "geometry": {"coordinates":[144.354752,-38.139675],"type":"Point"}
+  "bbox": [
+    144.354752,
+    -38.139675,
+    144.354752,
+    -38.139675
+],
+  "geometry": {"coordinates":[144.35475199999999,-38.139675],"type":"Point"}
 }

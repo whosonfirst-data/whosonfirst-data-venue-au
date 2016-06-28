@@ -2,13 +2,14 @@
   "id": 202586233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.611435,-33.832813,138.611435,-33.832813",
     "geom:latitude":-33.832813,
     "geom:longitude":138.611435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202586233,
-    "wof:lastmodified":1449062359,
+    "wof:lastmodified":1466187174,
     "wof:name":"BP Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.611435,-33.832813,138.611435,-33.832813],
+  "bbox": [
+    138.611435,
+    -33.832813,
+    138.611435,
+    -33.832813
+],
   "geometry": {"coordinates":[138.611435,-33.832813],"type":"Point"}
 }

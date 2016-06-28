@@ -2,13 +2,14 @@
   "id": 202508571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.191589,-38.101307,145.191589,-38.101307",
     "geom:latitude":-38.101307,
     "geom:longitude":145.191589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Lats Ave",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202508571,
-    "wof:lastmodified":1449061528,
+    "wof:lastmodified":1466189633,
     "wof:name":"Shea Coindrette Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [145.191589,-38.101307,145.191589,-38.101307],
-  "geometry": {"coordinates":[145.191589,-38.101307],"type":"Point"}
+  "bbox": [
+    145.191589,
+    -38.101307,
+    145.191589,
+    -38.101307
+],
+  "geometry": {"coordinates":[145.19158899999999,-38.101307],"type":"Point"}
 }

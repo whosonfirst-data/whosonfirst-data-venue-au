@@ -2,13 +2,14 @@
   "id": 186522393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.891632,-31.933062,115.891632,-31.933062",
     "geom:latitude":-31.933062,
     "geom:longitude":115.891632,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Central Ave",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186522393,
-    "wof:lastmodified":1449051655,
+    "wof:lastmodified":1466190593,
     "wof:name":"Phone Box",
     "wof:parent_id":85769691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [115.891632,-31.933062,115.891632,-31.933062],
+  "bbox": [
+    115.891632,
+    -31.933062,
+    115.891632,
+    -31.933062
+],
   "geometry": {"coordinates":[115.891632,-31.933062],"type":"Point"}
 }

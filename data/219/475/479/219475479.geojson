@@ -2,13 +2,14 @@
   "id": 219475479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.115311,-37.513367,145.115311,-37.513367",
     "geom:latitude":-37.513367,
     "geom:longitude":145.115311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 MacMeikan St",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219475479,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466189163,
     "wof:name":"Whittlesea District Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.115311,-37.513367,145.115311,-37.513367],
-  "geometry": {"coordinates":[145.115311,-37.513367],"type":"Point"}
+  "bbox": [
+    145.115311,
+    -37.513367,
+    145.115311,
+    -37.513367
+],
+  "geometry": {"coordinates":[145.11531099999999,-37.513367],"type":"Point"}
 }

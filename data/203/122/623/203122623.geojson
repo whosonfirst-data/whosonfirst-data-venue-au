@@ -2,13 +2,14 @@
   "id": 203122623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.760643,-32.531162,115.760643,-32.531162",
     "geom:latitude":-32.531162,
     "geom:longitude":115.760643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Murdoch Drv",
     "sg:city":"Greenfields",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203122623,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466189398,
     "wof:name":"Belswan Village Mandurah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [115.760643,-32.531162,115.760643,-32.531162],
+  "bbox": [
+    115.760643,
+    -32.531162,
+    115.760643,
+    -32.531162
+],
   "geometry": {"coordinates":[115.760643,-32.531162],"type":"Point"}
 }

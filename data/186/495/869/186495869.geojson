@@ -2,13 +2,14 @@
   "id": 186495869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.753586,-19.288084,146.753586,-19.288084",
     "geom:latitude":-19.288084,
     "geom:longitude":146.753586,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7, 322 Fulham Rd",
     "sg:city":"Heatley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186495869,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466190371,
     "wof:name":"realestate.com.au Home Loans",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [146.753586,-19.288084,146.753586,-19.288084],
-  "geometry": {"coordinates":[146.753586,-19.288084],"type":"Point"}
+  "bbox": [
+    146.753586,
+    -19.288084,
+    146.753586,
+    -19.288084
+],
+  "geometry": {"coordinates":[146.75358600000001,-19.288084],"type":"Point"}
 }

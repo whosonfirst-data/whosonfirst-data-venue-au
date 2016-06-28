@@ -2,13 +2,14 @@
   "id": 202879525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.610901,-32.950123,151.610901,-32.950123",
     "geom:latitude":-32.950123,
     "geom:longitude":151.610901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 1 Powerhouse Rd",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202879525,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466190468,
     "wof:name":"Fitzroy Fabrications & Cleaning",
     "wof:parent_id":85768895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [151.610901,-32.950123,151.610901,-32.950123],
-  "geometry": {"coordinates":[151.610901,-32.950123],"type":"Point"}
+  "bbox": [
+    151.610901,
+    -32.950123,
+    151.610901,
+    -32.950123
+],
+  "geometry": {"coordinates":[151.61090100000001,-32.950123],"type":"Point"}
 }

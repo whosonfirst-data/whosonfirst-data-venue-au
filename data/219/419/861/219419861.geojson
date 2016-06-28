@@ -2,13 +2,14 @@
   "id": 219419861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.83168,-33.741177,150.83168,-33.741177",
     "geom:latitude":-33.741177,
     "geom:longitude":150.83168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Shinnick Drv",
     "sg:city":"Oakhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219419861,
-    "wof:lastmodified":1449073849,
+    "wof:lastmodified":1466188575,
     "wof:name":"KMI Fencing Contractor",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.83168,-33.741177,150.83168,-33.741177],
-  "geometry": {"coordinates":[150.83168,-33.741177],"type":"Point"}
+  "bbox": [
+    150.83168,
+    -33.741177,
+    150.83168,
+    -33.741177
+],
+  "geometry": {"coordinates":[150.83168000000001,-33.741177],"type":"Point"}
 }

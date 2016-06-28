@@ -2,13 +2,14 @@
   "id": 236108605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935577,-37.790379,144.935577,-37.790379",
     "geom:latitude":-37.790379,
     "geom:longitude":144.935577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Stubbs St,",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236108605,
-    "wof:lastmodified":1449001722,
+    "wof:lastmodified":1466188803,
     "wof:name":"Australian Safe Supplies",
     "wof:parent_id":85776485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "door"
     ]
 },
-  "bbox": [144.935577,-37.790379,144.935577,-37.790379],
-  "geometry": {"coordinates":[144.935577,-37.790379],"type":"Point"}
+  "bbox": [
+    144.935577,
+    -37.790379,
+    144.935577,
+    -37.790379
+],
+  "geometry": {"coordinates":[144.93557699999999,-37.790379],"type":"Point"}
 }

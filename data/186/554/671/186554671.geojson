@@ -2,13 +2,14 @@
   "id": 186554671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15332,-33.896282,151.15332,-33.896282",
     "geom:latitude":-33.896282,
     "geom:longitude":151.15332,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41- 43 New Canterbury Rd",
     "sg:city":"Petersham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186554671,
-    "wof:lastmodified":1449050959,
+    "wof:lastmodified":1466190824,
     "wof:name":"Petersham Liquor Mart",
     "wof:parent_id":85774555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [151.15332,-33.896282,151.15332,-33.896282],
-  "geometry": {"coordinates":[151.15332,-33.896282],"type":"Point"}
+  "bbox": [
+    151.15332,
+    -33.896282,
+    151.15332,
+    -33.896282
+],
+  "geometry": {"coordinates":[151.15332000000001,-33.896282],"type":"Point"}
 }

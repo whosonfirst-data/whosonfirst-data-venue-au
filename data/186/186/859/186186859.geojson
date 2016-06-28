@@ -2,13 +2,14 @@
   "id": 186186859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.908325,-31.433134,152.908325,-31.433134",
     "geom:latitude":-31.433134,
     "geom:longitude":152.908325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1, 129 Horton St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186186859,
-    "wof:lastmodified":1449052420,
+    "wof:lastmodified":1466186979,
     "wof:name":"Godfreys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [152.908325,-31.433134,152.908325,-31.433134],
-  "geometry": {"coordinates":[152.908325,-31.433134],"type":"Point"}
+  "bbox": [
+    152.908325,
+    -31.433134,
+    152.908325,
+    -31.433134
+],
+  "geometry": {"coordinates":[152.90832499999999,-31.433134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203004005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.494247,-20.72624,139.494247,-20.72624",
     "geom:latitude":-20.72624,
     "geom:longitude":139.494247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1, Isa Square 27 Simpson St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203004005,
-    "wof:lastmodified":1449025610,
+    "wof:lastmodified":1466189964,
     "wof:name":"Sweet Chilli",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [139.494247,-20.72624,139.494247,-20.72624],
+  "bbox": [
+    139.494247,
+    -20.72624,
+    139.494247,
+    -20.72624
+],
   "geometry": {"coordinates":[139.494247,-20.72624],"type":"Point"}
 }

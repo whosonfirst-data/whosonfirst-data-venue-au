@@ -2,13 +2,14 @@
   "id": 185849441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.897934,-25.299726,152.897934,-25.299726",
     "geom:latitude":-25.299726,
     "geom:longitude":152.897934,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Limpus St",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185849441,
-    "wof:lastmodified":1449006913,
+    "wof:lastmodified":1466187336,
     "wof:name":"Sunstate Cleaning & Yard Maintenance",
     "wof:parent_id":85770521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [152.897934,-25.299726,152.897934,-25.299726],
-  "geometry": {"coordinates":[152.897934,-25.299726],"type":"Point"}
+  "bbox": [
+    152.897934,
+    -25.299726,
+    152.897934,
+    -25.299726
+],
+  "geometry": {"coordinates":[152.89793399999999,-25.299726],"type":"Point"}
 }

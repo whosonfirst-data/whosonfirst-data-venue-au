@@ -2,13 +2,14 @@
   "id": 253329807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.299423,-38.010696,145.299423,-38.010696",
     "geom:latitude":-38.010696,
     "geom:longitude":145.299423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Trentwood Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253329807,
-    "wof:lastmodified":1449063635,
+    "wof:lastmodified":1466190995,
     "wof:name":"After Breast Cancer Exercise Group Incorporated",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [145.299423,-38.010696,145.299423,-38.010696],
-  "geometry": {"coordinates":[145.299423,-38.010696],"type":"Point"}
+  "bbox": [
+    145.299423,
+    -38.010696,
+    145.299423,
+    -38.010696
+],
+  "geometry": {"coordinates":[145.29942299999999,-38.010696],"type":"Point"}
 }

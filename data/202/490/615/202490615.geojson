@@ -2,13 +2,14 @@
   "id": 202490615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.036423,-37.902264,145.036423,-37.902264",
     "geom:latitude":-37.902264,
     "geom:longitude":145.036423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4A Fraser St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202490615,
-    "wof:lastmodified":1449062386,
+    "wof:lastmodified":1466189415,
     "wof:name":"Nu-Lok Roofing Systems",
     "wof:parent_id":85775357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [145.036423,-37.902264,145.036423,-37.902264],
-  "geometry": {"coordinates":[145.036423,-37.902264],"type":"Point"}
+  "bbox": [
+    145.036423,
+    -37.902264,
+    145.036423,
+    -37.902264
+],
+  "geometry": {"coordinates":[145.03642300000001,-37.902264],"type":"Point"}
 }

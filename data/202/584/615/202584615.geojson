@@ -2,13 +2,14 @@
   "id": 202584615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.613815,-33.834454,138.613815,-33.834454",
     "geom:latitude":-33.834454,
     "geom:longitude":138.613815,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Old North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202584615,
-    "wof:lastmodified":1449060380,
+    "wof:lastmodified":1466187160,
     "wof:name":"Rural Solutions SA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advisory"
     ]
 },
-  "bbox": [138.613815,-33.834454,138.613815,-33.834454],
-  "geometry": {"coordinates":[138.613815,-33.834454],"type":"Point"}
+  "bbox": [
+    138.613815,
+    -33.834454,
+    138.613815,
+    -33.834454
+],
+  "geometry": {"coordinates":[138.61381499999999,-33.834454],"type":"Point"}
 }

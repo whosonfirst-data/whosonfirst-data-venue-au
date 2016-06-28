@@ -2,13 +2,14 @@
   "id": 236187403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.760933,-29.535606,115.760933,-29.535606",
     "geom:latitude":-29.535606,
     "geom:longitude":115.760933,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayrhofer St",
     "sg:city":"Three Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236187403,
-    "wof:lastmodified":1449002045,
+    "wof:lastmodified":1466189914,
     "wof:name":"Child Health Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [115.760933,-29.535606,115.760933,-29.535606],
-  "geometry": {"coordinates":[115.760933,-29.535606],"type":"Point"}
+  "bbox": [
+    115.760933,
+    -29.535606,
+    115.760933,
+    -29.535606
+],
+  "geometry": {"coordinates":[115.76093299999999,-29.535606],"type":"Point"}
 }

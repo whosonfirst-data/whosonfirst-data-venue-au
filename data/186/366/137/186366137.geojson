@@ -2,13 +2,14 @@
   "id": 186366137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.129272,-33.870609,151.129272,-33.870609",
     "geom:latitude":-33.870609,
     "geom:longitude":151.129272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 11, 50 Great North Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186366137,
-    "wof:lastmodified":1449052317,
+    "wof:lastmodified":1466188745,
     "wof:name":"Structural Design Solutions",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.129272,-33.870609,151.129272,-33.870609],
-  "geometry": {"coordinates":[151.129272,-33.870609],"type":"Point"}
+  "bbox": [
+    151.129272,
+    -33.870609,
+    151.129272,
+    -33.870609
+],
+  "geometry": {"coordinates":[151.12927199999999,-33.870609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253071013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.747971,-37.743862,144.747971,-37.743862",
     "geom:latitude":-37.743862,
     "geom:longitude":144.747971,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Fydler Ave",
     "sg:city":"Burnside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253071013,
-    "wof:lastmodified":1449064680,
+    "wof:lastmodified":1466188206,
     "wof:name":"Catering On The Move",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [144.747971,-37.743862,144.747971,-37.743862],
-  "geometry": {"coordinates":[144.747971,-37.743862],"type":"Point"}
+  "bbox": [
+    144.747971,
+    -37.743862,
+    144.747971,
+    -37.743862
+],
+  "geometry": {"coordinates":[144.74797100000001,-37.743862],"type":"Point"}
 }

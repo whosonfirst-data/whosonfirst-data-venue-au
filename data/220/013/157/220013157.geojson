@@ -2,13 +2,14 @@
   "id": 220013157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.285034,-36.760223,144.285034,-36.760223",
     "geom:latitude":-36.760223,
     "geom:longitude":144.285034,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Myers St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220013157,
-    "wof:lastmodified":1449074599,
+    "wof:lastmodified":1466187001,
     "wof:name":"Bendigo Taekwondo",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "martial art"
     ]
 },
-  "bbox": [144.285034,-36.760223,144.285034,-36.760223],
+  "bbox": [
+    144.285034,
+    -36.760223,
+    144.285034,
+    -36.760223
+],
   "geometry": {"coordinates":[144.285034,-36.760223],"type":"Point"}
 }

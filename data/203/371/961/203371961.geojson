@@ -2,13 +2,14 @@
   "id": 203371961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855713,-37.555794,143.855713,-37.555794",
     "geom:latitude":-37.555794,
     "geom:longitude":143.855713,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"209a Doveton St",
     "sg:city":"(Sth) Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203371961,
-    "wof:lastmodified":1449026408,
+    "wof:lastmodified":1466189060,
     "wof:name":"Reliable Mortgage Services Pty Ltd",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [143.855713,-37.555794,143.855713,-37.555794],
-  "geometry": {"coordinates":[143.855713,-37.555794],"type":"Point"}
+  "bbox": [
+    143.855713,
+    -37.555794,
+    143.855713,
+    -37.555794
+],
+  "geometry": {"coordinates":[143.85571300000001,-37.555794],"type":"Point"}
 }

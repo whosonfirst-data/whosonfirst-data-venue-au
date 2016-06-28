@@ -2,13 +2,14 @@
   "id": 186468859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.153946,-33.888687,151.153946,-33.888687",
     "geom:latitude":-33.888687,
     "geom:longitude":151.153946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"493 Parrammatta Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186468859,
-    "wof:lastmodified":1449052283,
+    "wof:lastmodified":1466190289,
     "wof:name":"Mortgage Solutions",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [151.153946,-33.888687,151.153946,-33.888687],
-  "geometry": {"coordinates":[151.153946,-33.888687],"type":"Point"}
+  "bbox": [
+    151.153946,
+    -33.888687,
+    151.153946,
+    -33.888687
+],
+  "geometry": {"coordinates":[151.15394599999999,-33.888687],"type":"Point"}
 }

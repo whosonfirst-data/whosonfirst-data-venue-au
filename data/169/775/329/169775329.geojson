@@ -2,13 +2,14 @@
   "id": 169775329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.729904,-38.632507,145.729904,-38.632507",
     "geom:latitude":-38.632507,
     "geom:longitude":145.729904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Williams St",
     "sg:city":"Inverloch",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169775329,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466189981,
     "wof:name":"Inverloch Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.729904,-38.632507,145.729904,-38.632507],
+  "bbox": [
+    145.729904,
+    -38.632507,
+    145.729904,
+    -38.632507
+],
   "geometry": {"coordinates":[145.729904,-38.632507],"type":"Point"}
 }

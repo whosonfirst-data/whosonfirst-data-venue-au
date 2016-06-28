@@ -2,13 +2,14 @@
   "id": 203092851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.745247,-32.486286,115.745247,-32.486286",
     "geom:latitude":-32.486286,
     "geom:longitude":115.745247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Orestes St",
     "sg:city":"San Remo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203092851,
-    "wof:lastmodified":1449026481,
+    "wof:lastmodified":1466188927,
     "wof:name":"Peel Information Technology & Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [115.745247,-32.486286,115.745247,-32.486286],
-  "geometry": {"coordinates":[115.745247,-32.486286],"type":"Point"}
+  "bbox": [
+    115.745247,
+    -32.486286,
+    115.745247,
+    -32.486286
+],
+  "geometry": {"coordinates":[115.74524700000001,-32.486286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202798185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.745163,-32.918346,151.745163,-32.918346",
     "geom:latitude":-32.918346,
     "geom:longitude":151.745163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Hudson St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202798185,
-    "wof:lastmodified":1449060579,
+    "wof:lastmodified":1466190294,
     "wof:name":"Reprographics Sales",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printing"
     ]
 },
-  "bbox": [151.745163,-32.918346,151.745163,-32.918346],
-  "geometry": {"coordinates":[151.745163,-32.918346],"type":"Point"}
+  "bbox": [
+    151.745163,
+    -32.918346,
+    151.745163,
+    -32.918346
+],
+  "geometry": {"coordinates":[151.74516299999999,-32.918346],"type":"Point"}
 }

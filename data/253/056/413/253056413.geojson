@@ -2,13 +2,14 @@
   "id": 253056413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.620468,-37.881126,144.620468,-37.881126",
     "geom:latitude":-37.881126,
     "geom:longitude":144.620468,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Evergreen Drv",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253056413,
-    "wof:lastmodified":1449063658,
+    "wof:lastmodified":1466188021,
     "wof:name":"Made-up by Jen",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "make-up"
     ]
 },
-  "bbox": [144.620468,-37.881126,144.620468,-37.881126],
-  "geometry": {"coordinates":[144.620468,-37.881126],"type":"Point"}
+  "bbox": [
+    144.620468,
+    -37.881126,
+    144.620468,
+    -37.881126
+],
+  "geometry": {"coordinates":[144.62046799999999,-37.881126],"type":"Point"}
 }

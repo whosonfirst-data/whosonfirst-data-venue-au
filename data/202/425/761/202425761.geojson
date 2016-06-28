@@ -2,13 +2,14 @@
   "id": 202425761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.952805,-37.842464,144.952805,-37.842464",
     "geom:latitude":-37.842464,
     "geom:longitude":144.952805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Victoria Ave",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202425761,
-    "wof:lastmodified":1449060998,
+    "wof:lastmodified":1466188252,
     "wof:name":"New Level Personal Training",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.952805,-37.842464,144.952805,-37.842464],
-  "geometry": {"coordinates":[144.952805,-37.842464],"type":"Point"}
+  "bbox": [
+    144.952805,
+    -37.842464,
+    144.952805,
+    -37.842464
+],
+  "geometry": {"coordinates":[144.95280500000001,-37.842464],"type":"Point"}
 }

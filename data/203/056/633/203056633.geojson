@@ -2,13 +2,14 @@
   "id": 203056633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.862793,-37.118164,144.862793,-37.118164",
     "geom:latitude":-37.118164,
     "geom:longitude":144.862793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Nicholson St",
     "sg:city":"Pyalong",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203056633,
-    "wof:lastmodified":1449025445,
+    "wof:lastmodified":1466188309,
     "wof:name":"Stone R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [144.862793,-37.118164,144.862793,-37.118164],
-  "geometry": {"coordinates":[144.862793,-37.118164],"type":"Point"}
+  "bbox": [
+    144.862793,
+    -37.118164,
+    144.862793,
+    -37.118164
+],
+  "geometry": {"coordinates":[144.86279300000001,-37.118164],"type":"Point"}
 }

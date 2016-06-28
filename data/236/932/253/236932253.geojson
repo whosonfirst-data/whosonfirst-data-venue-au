@@ -2,13 +2,14 @@
   "id": 236932253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.529221,-34.998627,138.529221,-34.998627",
     "geom:latitude":-34.998627,
     "geom:longitude":138.529221,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 68 Paringa Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236932253,
-    "wof:lastmodified":1449002765,
+    "wof:lastmodified":1466192198,
     "wof:name":"SunGard Superstore",
     "wof:parent_id":85774989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [138.529221,-34.998627,138.529221,-34.998627],
-  "geometry": {"coordinates":[138.529221,-34.998627],"type":"Point"}
+  "bbox": [
+    138.529221,
+    -34.998627,
+    138.529221,
+    -34.998627
+],
+  "geometry": {"coordinates":[138.52922100000001,-34.998627],"type":"Point"}
 }

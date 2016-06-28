@@ -2,13 +2,14 @@
   "id": 253216187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.954605,-27.561024,151.954605,-27.561024",
     "geom:latitude":-27.561024,
     "geom:longitude":151.954605,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 140 Margaret St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253216187,
-    "wof:lastmodified":1449065439,
+    "wof:lastmodified":1466190220,
     "wof:name":"G.P.O. Bar & Cafe",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.954605,-27.561024,151.954605,-27.561024],
-  "geometry": {"coordinates":[151.954605,-27.561024],"type":"Point"}
+  "bbox": [
+    151.954605,
+    -27.561024,
+    151.954605,
+    -27.561024
+],
+  "geometry": {"coordinates":[151.95460499999999,-27.561024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219581875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.037292,-33.930531,151.037292,-33.930531",
     "geom:latitude":-33.930531,
     "geom:longitude":151.037292,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Arkley St",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219581875,
-    "wof:lastmodified":1449071139,
+    "wof:lastmodified":1466190432,
     "wof:name":"Peacock Chemical Co",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [151.037292,-33.930531,151.037292,-33.930531],
-  "geometry": {"coordinates":[151.037292,-33.930531],"type":"Point"}
+  "bbox": [
+    151.037292,
+    -33.930531,
+    151.037292,
+    -33.930531
+],
+  "geometry": {"coordinates":[151.03729200000001,-33.930531],"type":"Point"}
 }

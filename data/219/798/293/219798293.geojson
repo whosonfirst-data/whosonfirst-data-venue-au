@@ -2,13 +2,14 @@
   "id": 219798293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.725388,-19.310612,146.725388,-19.310612",
     "geom:latitude":-19.310612,
     "geom:longitude":146.725388,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Porter Ave",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219798293,
-    "wof:lastmodified":1449071049,
+    "wof:lastmodified":1466191383,
     "wof:name":"Weight Excavations",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.725388,-19.310612,146.725388,-19.310612],
-  "geometry": {"coordinates":[146.725388,-19.310612],"type":"Point"}
+  "bbox": [
+    146.725388,
+    -19.310612,
+    146.725388,
+    -19.310612
+],
+  "geometry": {"coordinates":[146.72538800000001,-19.310612],"type":"Point"}
 }

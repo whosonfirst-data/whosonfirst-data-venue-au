@@ -2,13 +2,14 @@
   "id": 202503455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040344,-37.924896,145.040344,-37.924896",
     "geom:latitude":-37.924896,
     "geom:longitude":145.040344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Jasper Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202503455,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466189553,
     "wof:name":"Our Lady Of The Sacred Heart",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "girl"
     ]
 },
-  "bbox": [145.040344,-37.924896,145.040344,-37.924896],
+  "bbox": [
+    145.040344,
+    -37.924896,
+    145.040344,
+    -37.924896
+],
   "geometry": {"coordinates":[145.040344,-37.924896],"type":"Point"}
 }

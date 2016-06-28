@@ -2,13 +2,14 @@
   "id": 252937985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.08815,-26.512463,153.08815,-26.512463",
     "geom:latitude":-26.512463,
     "geom:longitude":153.08815,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U2/ 1704 David Low Way",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252937985,
-    "wof:lastmodified":1449005628,
+    "wof:lastmodified":1466189315,
     "wof:name":"BTC Training Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.08815,-26.512463,153.08815,-26.512463],
-  "geometry": {"coordinates":[153.08815,-26.512463],"type":"Point"}
+  "bbox": [
+    153.08815,
+    -26.512463,
+    153.08815,
+    -26.512463
+],
+  "geometry": {"coordinates":[153.08815000000001,-26.512463],"type":"Point"}
 }

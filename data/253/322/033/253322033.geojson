@@ -2,13 +2,14 @@
   "id": 253322033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.308624,-38.046413,145.308624,-38.046413",
     "geom:latitude":-38.046413,
     "geom:longitude":145.308624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Centre Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253322033,
-    "wof:lastmodified":1449062794,
+    "wof:lastmodified":1466191031,
     "wof:name":"Colda Refrigeration Pty Ltd",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retail"
     ]
 },
-  "bbox": [145.308624,-38.046413,145.308624,-38.046413],
-  "geometry": {"coordinates":[145.308624,-38.046413],"type":"Point"}
+  "bbox": [
+    145.308624,
+    -38.046413,
+    145.308624,
+    -38.046413
+],
+  "geometry": {"coordinates":[145.30862400000001,-38.046413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202964277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.090073,-30.343336,153.090073,-30.343336",
     "geom:latitude":-30.343336,
     "geom:longitude":153.090073,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3, The Links Centre Hi-Tech Drv",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202964277,
-    "wof:lastmodified":1449062023,
+    "wof:lastmodified":1466191137,
     "wof:name":"Hi-Tech Tattoo",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [153.090073,-30.343336,153.090073,-30.343336],
-  "geometry": {"coordinates":[153.090073,-30.343336],"type":"Point"}
+  "bbox": [
+    153.090073,
+    -30.343336,
+    153.090073,
+    -30.343336
+],
+  "geometry": {"coordinates":[153.09007299999999,-30.343336],"type":"Point"}
 }

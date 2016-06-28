@@ -2,13 +2,14 @@
   "id": 203308255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.830261,-37.540268,143.830261,-37.540268",
     "geom:latitude":-37.540268,
     "geom:longitude":143.830261,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1209c Howitt St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203308255,
-    "wof:lastmodified":1449026892,
+    "wof:lastmodified":1466188074,
     "wof:name":"Bakers Delight",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [143.830261,-37.540268,143.830261,-37.540268],
-  "geometry": {"coordinates":[143.830261,-37.540268],"type":"Point"}
+  "bbox": [
+    143.830261,
+    -37.540268,
+    143.830261,
+    -37.540268
+],
+  "geometry": {"coordinates":[143.83026100000001,-37.540268],"type":"Point"}
 }

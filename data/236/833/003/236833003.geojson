@@ -2,13 +2,14 @@
   "id": 236833003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.872009,-34.467812,150.872009,-34.467812",
     "geom:latitude":-34.467812,
     "geom:longitude":150.872009,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Gorrell Crs",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236833003,
-    "wof:lastmodified":1449001995,
+    "wof:lastmodified":1466192007,
     "wof:name":"George Llatse Tree Care Services",
     "wof:parent_id":85769125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [150.872009,-34.467812,150.872009,-34.467812],
-  "geometry": {"coordinates":[150.872009,-34.467812],"type":"Point"}
+  "bbox": [
+    150.872009,
+    -34.467812,
+    150.872009,
+    -34.467812
+],
+  "geometry": {"coordinates":[150.87200899999999,-34.467812],"type":"Point"}
 }

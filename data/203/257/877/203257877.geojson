@@ -2,13 +2,14 @@
   "id": 203257877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.00798,-33.377506,148.00798,-33.377506",
     "geom:latitude":-33.377506,
     "geom:longitude":148.00798,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Underwood St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203257877,
-    "wof:lastmodified":1449025467,
+    "wof:lastmodified":1466187631,
     "wof:name":"Skinner School of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [148.00798,-33.377506,148.00798,-33.377506],
+  "bbox": [
+    148.00798,
+    -33.377506,
+    148.00798,
+    -33.377506
+],
   "geometry": {"coordinates":[148.00798,-33.377506],"type":"Point"}
 }

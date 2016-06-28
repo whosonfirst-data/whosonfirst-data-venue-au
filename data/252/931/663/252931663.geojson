@@ -2,13 +2,14 @@
   "id": 252931663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.084442,-26.530924,153.084442,-26.530924",
     "geom:latitude":-26.530924,
     "geom:longitude":153.084442,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Jones Pde",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252931663,
-    "wof:lastmodified":1449006416,
+    "wof:lastmodified":1466189261,
     "wof:name":"Waterloo Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.084442,-26.530924,153.084442,-26.530924],
+  "bbox": [
+    153.084442,
+    -26.530924,
+    153.084442,
+    -26.530924
+],
   "geometry": {"coordinates":[153.084442,-26.530924],"type":"Point"}
 }

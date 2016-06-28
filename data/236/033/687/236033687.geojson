@@ -2,13 +2,14 @@
   "id": 236033687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.778427,-37.696995,144.778427,-37.696995",
     "geom:latitude":-37.696995,
     "geom:longitude":144.778427,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 47 Watergardens Shopping 399 Melton Hwy",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236033687,
-    "wof:lastmodified":1449002184,
+    "wof:lastmodified":1466187295,
     "wof:name":"Total Tan",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [144.778427,-37.696995,144.778427,-37.696995],
-  "geometry": {"coordinates":[144.778427,-37.696995],"type":"Point"}
+  "bbox": [
+    144.778427,
+    -37.696995,
+    144.778427,
+    -37.696995
+],
+  "geometry": {"coordinates":[144.77842699999999,-37.696995],"type":"Point"}
 }

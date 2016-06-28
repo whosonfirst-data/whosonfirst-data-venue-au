@@ -2,13 +2,14 @@
   "id": 219883983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.888107,-34.373547,150.888107,-34.373547",
     "geom:latitude":-34.373547,
     "geom:longitude":150.888107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bellambi St",
     "sg:city":"Tarrawanna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219883983,
-    "wof:lastmodified":1449073101,
+    "wof:lastmodified":1466191760,
     "wof:name":"Phoenix Canvas Industries",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tarpaulin"
     ]
 },
-  "bbox": [150.888107,-34.373547,150.888107,-34.373547],
-  "geometry": {"coordinates":[150.888107,-34.373547],"type":"Point"}
+  "bbox": [
+    150.888107,
+    -34.373547,
+    150.888107,
+    -34.373547
+],
+  "geometry": {"coordinates":[150.88810699999999,-34.373547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219254351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.001312,-37.769695,145.001312,-37.769695",
     "geom:latitude":-37.769695,
     "geom:longitude":145.001312,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Separation St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219254351,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466187145,
     "wof:name":"Association Of Needle Exchanges Inc.",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [145.001312,-37.769695,145.001312,-37.769695],
-  "geometry": {"coordinates":[145.001312,-37.769695],"type":"Point"}
+  "bbox": [
+    145.001312,
+    -37.769695,
+    145.001312,
+    -37.769695
+],
+  "geometry": {"coordinates":[145.00131200000001,-37.769695],"type":"Point"}
 }

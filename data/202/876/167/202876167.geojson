@@ -2,13 +2,14 @@
   "id": 202876167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.303421,-25.577545,151.303421,-25.577545",
     "geom:latitude":-25.577545,
     "geom:longitude":151.303421,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 Mundubbera-Durong Rd via",
     "sg:city":"Mundubbera",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202876167,
-    "wof:lastmodified":1449060623,
+    "wof:lastmodified":1466190570,
     "wof:name":"Boynewood Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [151.303421,-25.577545,151.303421,-25.577545],
-  "geometry": {"coordinates":[151.303421,-25.577545],"type":"Point"}
+  "bbox": [
+    151.303421,
+    -25.577545,
+    151.303421,
+    -25.577545
+],
+  "geometry": {"coordinates":[151.30342099999999,-25.577545],"type":"Point"}
 }

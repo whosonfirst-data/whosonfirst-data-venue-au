@@ -2,13 +2,14 @@
   "id": 219515425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130295,-33.904789,151.130295,-33.904789",
     "geom:latitude":-33.904789,
     "geom:longitude":151.130295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"819 New Canterbury Rd",
     "sg:city":"Hurlstone Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219515425,
-    "wof:lastmodified":1449071209,
+    "wof:lastmodified":1466189804,
     "wof:name":"Al-Lon Paints",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.130295,-33.904789,151.130295,-33.904789],
-  "geometry": {"coordinates":[151.130295,-33.904789],"type":"Point"}
+  "bbox": [
+    151.130295,
+    -33.904789,
+    151.130295,
+    -33.904789
+],
+  "geometry": {"coordinates":[151.13029499999999,-33.904789],"type":"Point"}
 }

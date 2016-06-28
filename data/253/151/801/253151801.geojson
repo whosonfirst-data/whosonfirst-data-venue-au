@@ -2,13 +2,14 @@
   "id": 253151801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.914673,-27.566704,151.914673,-27.566704",
     "geom:latitude":-27.566704,
     "geom:longitude":151.914673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr South & Greenwattle Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253151801,
-    "wof:lastmodified":1449062850,
+    "wof:lastmodified":1466189640,
     "wof:name":"Splitz Bistro at Sunset Superbowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.914673,-27.566704,151.914673,-27.566704],
-  "geometry": {"coordinates":[151.914673,-27.566704],"type":"Point"}
+  "bbox": [
+    151.914673,
+    -27.566704,
+    151.914673,
+    -27.566704
+],
+  "geometry": {"coordinates":[151.91467299999999,-27.566704],"type":"Point"}
 }

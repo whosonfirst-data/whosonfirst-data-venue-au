@@ -2,13 +2,14 @@
   "id": 202838343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.149155,-23.524822,148.149155,-23.524822",
     "geom:latitude":-23.524822,
     "geom:longitude":148.149155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Daniels St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202838343,
-    "wof:lastmodified":1449060408,
+    "wof:lastmodified":1466190459,
     "wof:name":"Emerald Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [148.149155,-23.524822,148.149155,-23.524822],
-  "geometry": {"coordinates":[148.149155,-23.524822],"type":"Point"}
+  "bbox": [
+    148.149155,
+    -23.524822,
+    148.149155,
+    -23.524822
+],
+  "geometry": {"coordinates":[148.14915500000001,-23.524822],"type":"Point"}
 }

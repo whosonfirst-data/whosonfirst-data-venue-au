@@ -2,13 +2,14 @@
   "id": 203198953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.968903,-36.555847,145.968903,-36.555847",
     "geom:latitude":-36.555847,
     "geom:longitude":145.968903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Bridge St",
     "sg:city":"West Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203198953,
-    "wof:lastmodified":1449025603,
+    "wof:lastmodified":1466186993,
     "wof:name":"Central Access Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [145.968903,-36.555847,145.968903,-36.555847],
-  "geometry": {"coordinates":[145.968903,-36.555847],"type":"Point"}
+  "bbox": [
+    145.968903,
+    -36.555847,
+    145.968903,
+    -36.555847
+],
+  "geometry": {"coordinates":[145.96890300000001,-36.555847],"type":"Point"}
 }

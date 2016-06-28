@@ -2,13 +2,14 @@
   "id": 253188627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951416,-27.560883,151.951416,-27.560883",
     "geom:latitude":-27.560883,
     "geom:longitude":151.951416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 2, Gardentown Shopping Centre, 222 Margaret St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253188627,
-    "wof:lastmodified":1449064298,
+    "wof:lastmodified":1466190015,
     "wof:name":"McCartney & Creed Shoes",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [151.951416,-27.560883,151.951416,-27.560883],
-  "geometry": {"coordinates":[151.951416,-27.560883],"type":"Point"}
+  "bbox": [
+    151.951416,
+    -27.560883,
+    151.951416,
+    -27.560883
+],
+  "geometry": {"coordinates":[151.95141599999999,-27.560883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253329299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.300903,-38.000572,145.300903,-38.000572",
     "geom:latitude":-38.000572,
     "geom:longitude":145.300903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Acre St",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253329299,
-    "wof:lastmodified":1449063635,
+    "wof:lastmodified":1466191079,
     "wof:name":"The South Eastern Driving Academy For Road Safety",
     "wof:parent_id":85770883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.300903,-38.000572,145.300903,-38.000572],
-  "geometry": {"coordinates":[145.300903,-38.000572],"type":"Point"}
+  "bbox": [
+    145.300903,
+    -38.000572,
+    145.300903,
+    -38.000572
+],
+  "geometry": {"coordinates":[145.30090300000001,-38.000572],"type":"Point"}
 }

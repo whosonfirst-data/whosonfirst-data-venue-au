@@ -2,13 +2,14 @@
   "id": 236579281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.052673,-33.949615,151.052673,-33.949615",
     "geom:latitude":-33.949615,
     "geom:longitude":151.052673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"268a Belmore Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236579281,
-    "wof:lastmodified":1449002545,
+    "wof:lastmodified":1466191563,
     "wof:name":"Riverwood Massage",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.052673,-33.949615,151.052673,-33.949615],
+  "bbox": [
+    151.052673,
+    -33.949615,
+    151.052673,
+    -33.949615
+],
   "geometry": {"coordinates":[151.052673,-33.949615],"type":"Point"}
 }

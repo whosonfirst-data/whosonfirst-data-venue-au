@@ -2,13 +2,14 @@
   "id": 203393445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.997787,-37.560135,143.997787,-37.560135",
     "geom:latitude":-37.560135,
     "geom:longitude":143.997787,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Lester Rd",
     "sg:city":"Bungaree",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203393445,
-    "wof:lastmodified":1449025513,
+    "wof:lastmodified":1466189429,
     "wof:name":"Joe De Grazia Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.997787,-37.560135,143.997787,-37.560135],
-  "geometry": {"coordinates":[143.997787,-37.560135],"type":"Point"}
+  "bbox": [
+    143.997787,
+    -37.560135,
+    143.997787,
+    -37.560135
+],
+  "geometry": {"coordinates":[143.99778699999999,-37.560135],"type":"Point"}
 }

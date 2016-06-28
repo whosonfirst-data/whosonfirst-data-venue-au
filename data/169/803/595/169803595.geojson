@@ -2,13 +2,14 @@
   "id": 169803595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.84549,-32.046272,115.84549,-32.046272",
     "geom:latitude":-32.046272,
     "geom:longitude":115.84549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Leach Hwy",
     "sg:city":"Bateman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169803595,
-    "wof:lastmodified":1449036009,
+    "wof:lastmodified":1466188750,
     "wof:name":"SiteNow",
     "wof:parent_id":85775657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [115.84549,-32.046272,115.84549,-32.046272],
+  "bbox": [
+    115.84549,
+    -32.046272,
+    115.84549,
+    -32.046272
+],
   "geometry": {"coordinates":[115.84549,-32.046272],"type":"Point"}
 }

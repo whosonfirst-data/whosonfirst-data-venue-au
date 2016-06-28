@@ -2,13 +2,14 @@
   "id": 202668809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.014999,-27.377548,153.014999,-27.377548",
     "geom:latitude":-27.377548,
     "geom:longitude":153.014999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Gilmour St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202668809,
-    "wof:lastmodified":1449061865,
+    "wof:lastmodified":1466188243,
     "wof:name":"Lillian Kemp",
     "wof:parent_id":85776239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.014999,-27.377548,153.014999,-27.377548],
-  "geometry": {"coordinates":[153.014999,-27.377548],"type":"Point"}
+  "bbox": [
+    153.014999,
+    -27.377548,
+    153.014999,
+    -27.377548
+],
+  "geometry": {"coordinates":[153.01499899999999,-27.377548],"type":"Point"}
 }

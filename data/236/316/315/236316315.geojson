@@ -2,13 +2,14 @@
   "id": 236316315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.756439,-32.053467,115.756439,-32.053467",
     "geom:latitude":-32.053467,
     "geom:longitude":115.756439,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Knutsford St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236316315,
-    "wof:lastmodified":1449003974,
+    "wof:lastmodified":1466190450,
     "wof:name":"City of Fremantle Waste Management",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "waste"
     ]
 },
-  "bbox": [115.756439,-32.053467,115.756439,-32.053467],
+  "bbox": [
+    115.756439,
+    -32.053467,
+    115.756439,
+    -32.053467
+],
   "geometry": {"coordinates":[115.756439,-32.053467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236302865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.733849,-32.274494,115.733849,-32.274494",
     "geom:latitude":-32.274494,
     "geom:longitude":115.733849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Flinders La & Kent",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236302865,
-    "wof:lastmodified":1449002622,
+    "wof:lastmodified":1466190395,
     "wof:name":"Rockingham Museum",
     "wof:parent_id":85775727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.733849,-32.274494,115.733849,-32.274494],
-  "geometry": {"coordinates":[115.733849,-32.274494],"type":"Point"}
+  "bbox": [
+    115.733849,
+    -32.274494,
+    115.733849,
+    -32.274494
+],
+  "geometry": {"coordinates":[115.73384900000001,-32.274494],"type":"Point"}
 }

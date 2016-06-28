@@ -2,13 +2,14 @@
   "id": 185890871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.709503,-25.521709,152.709503,-25.521709",
     "geom:latitude":-25.521709,
     "geom:longitude":152.709503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Demaine St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185890871,
-    "wof:lastmodified":1449006974,
+    "wof:lastmodified":1466187792,
     "wof:name":"Combat Muay Thai",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "martial art"
     ]
 },
-  "bbox": [152.709503,-25.521709,152.709503,-25.521709],
-  "geometry": {"coordinates":[152.709503,-25.521709],"type":"Point"}
+  "bbox": [
+    152.709503,
+    -25.521709,
+    152.709503,
+    -25.521709
+],
+  "geometry": {"coordinates":[152.70950300000001,-25.521709],"type":"Point"}
 }

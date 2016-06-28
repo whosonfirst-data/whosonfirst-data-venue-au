@@ -2,13 +2,14 @@
   "id": 235985165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.730103,-36.954216,140.730103,-36.954216",
     "geom:latitude":-36.954216,
     "geom:longitude":140.730103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Riddoch Hwy",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235985165,
-    "wof:lastmodified":1449008415,
+    "wof:lastmodified":1466187546,
     "wof:name":"Helifarm Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aerial"
     ]
 },
-  "bbox": [140.730103,-36.954216,140.730103,-36.954216],
-  "geometry": {"coordinates":[140.730103,-36.954216],"type":"Point"}
+  "bbox": [
+    140.730103,
+    -36.954216,
+    140.730103,
+    -36.954216
+],
+  "geometry": {"coordinates":[140.73010300000001,-36.954216],"type":"Point"}
 }

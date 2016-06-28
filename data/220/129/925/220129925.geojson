@@ -2,13 +2,14 @@
   "id": 220129925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.408615,-38.167328,144.408615,-38.167328",
     "geom:latitude":-38.167328,
     "geom:longitude":144.408615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Wattlepark Ave",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220129925,
-    "wof:lastmodified":1449074684,
+    "wof:lastmodified":1466188243,
     "wof:name":"Breakwater Panels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "panel"
     ]
 },
-  "bbox": [144.408615,-38.167328,144.408615,-38.167328],
+  "bbox": [
+    144.408615,
+    -38.167328,
+    144.408615,
+    -38.167328
+],
   "geometry": {"coordinates":[144.408615,-38.167328],"type":"Point"}
 }

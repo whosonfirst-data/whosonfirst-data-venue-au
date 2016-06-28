@@ -2,13 +2,14 @@
   "id": 203368789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849075,-37.552799,143.849075,-37.552799",
     "geom:latitude":-37.552799,
     "geom:longitude":143.849075,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Drummond St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203368789,
-    "wof:lastmodified":1449025375,
+    "wof:lastmodified":1466189002,
     "wof:name":"Spurgo Painting & Decorating Pty Ltd",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.849075,-37.552799,143.849075,-37.552799],
+  "bbox": [
+    143.849075,
+    -37.552799,
+    143.849075,
+    -37.552799
+],
   "geometry": {"coordinates":[143.849075,-37.552799],"type":"Point"}
 }

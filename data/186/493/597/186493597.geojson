@@ -2,13 +2,14 @@
   "id": 186493597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.755341,-19.270166,146.755341,-19.270166",
     "geom:latitude":-19.270166,
     "geom:longitude":146.755341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Vennard St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186493597,
-    "wof:lastmodified":1449051238,
+    "wof:lastmodified":1466190481,
     "wof:name":"Magnetic Steel Works",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [146.755341,-19.270166,146.755341,-19.270166],
-  "geometry": {"coordinates":[146.755341,-19.270166],"type":"Point"}
+  "bbox": [
+    146.755341,
+    -19.270166,
+    146.755341,
+    -19.270166
+],
+  "geometry": {"coordinates":[146.75534099999999,-19.270166],"type":"Point"}
 }

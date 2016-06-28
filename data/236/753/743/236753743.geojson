@@ -2,13 +2,14 @@
   "id": 236753743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.956635,-27.121534,152.956635,-27.121534",
     "geom:latitude":-27.121534,
     "geom:longitude":152.956635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8/ 379 Morayfield Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236753743,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466191994,
     "wof:name":"Autobarn Pty Ltd",
     "wof:parent_id":85769767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [152.956635,-27.121534,152.956635,-27.121534],
-  "geometry": {"coordinates":[152.956635,-27.121534],"type":"Point"}
+  "bbox": [
+    152.956635,
+    -27.121534,
+    152.956635,
+    -27.121534
+],
+  "geometry": {"coordinates":[152.95663500000001,-27.121534],"type":"Point"}
 }

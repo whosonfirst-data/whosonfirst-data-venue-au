@@ -2,13 +2,14 @@
   "id": 220112185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.523666,-38.267723,144.523666,-38.267723",
     "geom:latitude":-38.267723,
     "geom:longitude":144.523666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste2/ 85 The Terrace",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220112185,
-    "wof:lastmodified":1449074385,
+    "wof:lastmodified":1466188076,
     "wof:name":"Contours Ocean Grove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weight"
     ]
 },
-  "bbox": [144.523666,-38.267723,144.523666,-38.267723],
-  "geometry": {"coordinates":[144.523666,-38.267723],"type":"Point"}
+  "bbox": [
+    144.523666,
+    -38.267723,
+    144.523666,
+    -38.267723
+],
+  "geometry": {"coordinates":[144.52366599999999,-38.267723],"type":"Point"}
 }

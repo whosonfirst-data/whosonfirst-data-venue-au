@@ -2,13 +2,14 @@
   "id": 203005289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.503571,-20.732883,139.503571,-20.732883",
     "geom:latitude":-20.732883,
     "geom:longitude":139.503571,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Butler & Marion Sts",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203005289,
-    "wof:lastmodified":1449026711,
+    "wof:lastmodified":1466187096,
     "wof:name":"Autobarn",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [139.503571,-20.732883,139.503571,-20.732883],
-  "geometry": {"coordinates":[139.503571,-20.732883],"type":"Point"}
+  "bbox": [
+    139.503571,
+    -20.732883,
+    139.503571,
+    -20.732883
+],
+  "geometry": {"coordinates":[139.50357099999999,-20.732883],"type":"Point"}
 }

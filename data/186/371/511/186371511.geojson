@@ -2,13 +2,14 @@
   "id": 186371511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.125473,-33.870186,151.125473,-33.870186",
     "geom:latitude":-33.870186,
     "geom:longitude":151.125473,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31A Queens Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186371511,
-    "wof:lastmodified":1449052404,
+    "wof:lastmodified":1466188846,
     "wof:name":"Joe & Sons Building Supplies",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [151.125473,-33.870186,151.125473,-33.870186],
+  "bbox": [
+    151.125473,
+    -33.870186,
+    151.125473,
+    -33.870186
+],
   "geometry": {"coordinates":[151.125473,-33.870186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236589203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.051865,-33.948975,151.051865,-33.948975",
     "geom:latitude":-33.948975,
     "geom:longitude":151.051865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Killara Ave",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236589203,
-    "wof:lastmodified":1449003411,
+    "wof:lastmodified":1466191465,
     "wof:name":"Crystal Stargate",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [151.051865,-33.948975,151.051865,-33.948975],
-  "geometry": {"coordinates":[151.051865,-33.948975],"type":"Point"}
+  "bbox": [
+    151.051865,
+    -33.948975,
+    151.051865,
+    -33.948975
+],
+  "geometry": {"coordinates":[151.05186499999999,-33.948975],"type":"Point"}
 }

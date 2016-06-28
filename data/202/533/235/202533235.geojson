@@ -2,13 +2,14 @@
   "id": 202533235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.161606,-38.097557,145.161606,-38.097557",
     "geom:latitude":-38.097557,
     "geom:longitude":145.161606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 2- 4 Sonia St",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202533235,
-    "wof:lastmodified":1449060078,
+    "wof:lastmodified":1466190022,
     "wof:name":"Nordco Australia Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [145.161606,-38.097557,145.161606,-38.097557],
-  "geometry": {"coordinates":[145.161606,-38.097557],"type":"Point"}
+  "bbox": [
+    145.161606,
+    -38.097557,
+    145.161606,
+    -38.097557
+],
+  "geometry": {"coordinates":[145.16160600000001,-38.097557],"type":"Point"}
 }

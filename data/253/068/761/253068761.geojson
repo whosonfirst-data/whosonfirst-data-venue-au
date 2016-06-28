@@ -2,13 +2,14 @@
   "id": 253068761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.756958,-37.769184,144.756958,-37.769184",
     "geom:latitude":-37.769184,
     "geom:longitude":144.756958,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp T60 Brimbank Cntrl Shpng Cntr, Cnr Neal & Station Sts",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253068761,
-    "wof:lastmodified":1449064347,
+    "wof:lastmodified":1466188178,
     "wof:name":"Bradmans Stores",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "travel"
     ]
 },
-  "bbox": [144.756958,-37.769184,144.756958,-37.769184],
+  "bbox": [
+    144.756958,
+    -37.769184,
+    144.756958,
+    -37.769184
+],
   "geometry": {"coordinates":[144.756958,-37.769184],"type":"Point"}
 }

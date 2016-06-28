@@ -2,13 +2,14 @@
   "id": 202878887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.593597,-32.928265,151.593597,-32.928265",
     "geom:latitude":-32.928265,
     "geom:longitude":151.593597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 George St",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202878887,
-    "wof:lastmodified":1449061436,
+    "wof:lastmodified":1466190463,
     "wof:name":"Glackner Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.593597,-32.928265,151.593597,-32.928265],
-  "geometry": {"coordinates":[151.593597,-32.928265],"type":"Point"}
+  "bbox": [
+    151.593597,
+    -32.928265,
+    151.593597,
+    -32.928265
+],
+  "geometry": {"coordinates":[151.59359699999999,-32.928265],"type":"Point"}
 }

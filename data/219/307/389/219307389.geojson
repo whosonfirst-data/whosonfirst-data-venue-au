@@ -2,13 +2,14 @@
   "id": 219307389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.943832,-38.164509,145.943832,-38.164509",
     "geom:latitude":-38.164509,
     "geom:longitude":145.943832,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Queen St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219307389,
-    "wof:lastmodified":1449071312,
+    "wof:lastmodified":1466187589,
     "wof:name":"Warragul Screens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "screen"
     ]
 },
-  "bbox": [145.943832,-38.164509,145.943832,-38.164509],
-  "geometry": {"coordinates":[145.943832,-38.164509],"type":"Point"}
+  "bbox": [
+    145.943832,
+    -38.164509,
+    145.943832,
+    -38.164509
+],
+  "geometry": {"coordinates":[145.94383199999999,-38.164509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202656157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.042465,-27.412155,153.042465,-27.412155",
     "geom:latitude":-27.412155,
     "geom:longitude":153.042465,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Park Rd",
     "sg:city":"Kalinga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202656157,
-    "wof:lastmodified":1449061740,
+    "wof:lastmodified":1466188000,
     "wof:name":"Inglis P M",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [153.042465,-27.412155,153.042465,-27.412155],
-  "geometry": {"coordinates":[153.042465,-27.412155],"type":"Point"}
+  "bbox": [
+    153.042465,
+    -27.412155,
+    153.042465,
+    -27.412155
+],
+  "geometry": {"coordinates":[153.04246499999999,-27.412155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202777069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.780212,-32.926922,151.780212,-32.926922",
     "geom:latitude":-32.926922,
     "geom:longitude":151.780212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Hunter St",
     "sg:city":"Mall Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202777069,
-    "wof:lastmodified":1449061442,
+    "wof:lastmodified":1466190248,
     "wof:name":"Baggas Newcastle Pharmacy",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [151.780212,-32.926922,151.780212,-32.926922],
-  "geometry": {"coordinates":[151.780212,-32.926922],"type":"Point"}
+  "bbox": [
+    151.780212,
+    -32.926922,
+    151.780212,
+    -32.926922
+],
+  "geometry": {"coordinates":[151.78021200000001,-32.926922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219917703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.336655,-35.030163,143.336655,-35.030163",
     "geom:latitude":-35.030163,
     "geom:longitude":143.336655,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2 53-55 Murray St",
     "sg:city":"Tooleybuc",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219917703,
-    "wof:lastmodified":1449073445,
+    "wof:lastmodified":1466191844,
     "wof:name":"Tooleybuc Hairdressing Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [143.336655,-35.030163,143.336655,-35.030163],
-  "geometry": {"coordinates":[143.336655,-35.030163],"type":"Point"}
+  "bbox": [
+    143.336655,
+    -35.030163,
+    143.336655,
+    -35.030163
+],
+  "geometry": {"coordinates":[143.33665500000001,-35.030163],"type":"Point"}
 }

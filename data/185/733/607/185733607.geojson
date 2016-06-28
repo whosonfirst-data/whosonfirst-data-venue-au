@@ -2,13 +2,14 @@
   "id": 185733607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.085098,-32.783272,152.085098,-32.783272",
     "geom:latitude":-32.783272,
     "geom:longitude":152.085098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Morna Point Rd",
     "sg:city":"Anna Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185733607,
-    "wof:lastmodified":1449006825,
+    "wof:lastmodified":1466189408,
     "wof:name":"Hestelow P J & R C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "decorator"
     ]
 },
-  "bbox": [152.085098,-32.783272,152.085098,-32.783272],
-  "geometry": {"coordinates":[152.085098,-32.783272],"type":"Point"}
+  "bbox": [
+    152.085098,
+    -32.783272,
+    152.085098,
+    -32.783272
+],
+  "geometry": {"coordinates":[152.08509799999999,-32.783272],"type":"Point"}
 }

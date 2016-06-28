@@ -2,13 +2,14 @@
   "id": 186504109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.759796,-19.314442,146.759796,-19.314442",
     "geom:latitude":-19.314442,
     "geom:longitude":146.759796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Verhoeven Drv",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186504109,
-    "wof:lastmodified":1449050887,
+    "wof:lastmodified":1466190548,
     "wof:name":"Jones Russ",
     "wof:parent_id":85779483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skylight"
     ]
 },
-  "bbox": [146.759796,-19.314442,146.759796,-19.314442],
-  "geometry": {"coordinates":[146.759796,-19.314442],"type":"Point"}
+  "bbox": [
+    146.759796,
+    -19.314442,
+    146.759796,
+    -19.314442
+],
+  "geometry": {"coordinates":[146.75979599999999,-19.314442],"type":"Point"}
 }

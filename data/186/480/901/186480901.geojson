@@ -2,13 +2,14 @@
   "id": 186480901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.760284,-19.265823,146.760284,-19.265823",
     "geom:latitude":-19.265823,
     "geom:longitude":146.760284,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 2 / 1 Hammill St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186480901,
-    "wof:lastmodified":1449051266,
+    "wof:lastmodified":1466190271,
     "wof:name":"Protector Autoglass",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windscreen"
     ]
 },
-  "bbox": [146.760284,-19.265823,146.760284,-19.265823],
-  "geometry": {"coordinates":[146.760284,-19.265823],"type":"Point"}
+  "bbox": [
+    146.760284,
+    -19.265823,
+    146.760284,
+    -19.265823
+],
+  "geometry": {"coordinates":[146.76028400000001,-19.265823],"type":"Point"}
 }

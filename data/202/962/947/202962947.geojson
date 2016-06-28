@@ -2,13 +2,14 @@
   "id": 202962947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091721,-30.362101,153.091721,-30.362101",
     "geom:latitude":-30.362101,
     "geom:longitude":153.091721,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Newcastle Drive & Hulberts Rd",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202962947,
-    "wof:lastmodified":1449061607,
+    "wof:lastmodified":1466191134,
     "wof:name":"Toormina Landscape Centre",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [153.091721,-30.362101,153.091721,-30.362101],
-  "geometry": {"coordinates":[153.091721,-30.362101],"type":"Point"}
+  "bbox": [
+    153.091721,
+    -30.362101,
+    153.091721,
+    -30.362101
+],
+  "geometry": {"coordinates":[153.09172100000001,-30.362101],"type":"Point"}
 }

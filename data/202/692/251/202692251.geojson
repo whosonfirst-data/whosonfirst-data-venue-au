@@ -2,13 +2,14 @@
   "id": 202692251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.958817,-27.347452,152.958817,-27.347452",
     "geom:latitude":-27.347452,
     "geom:longitude":152.958817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Kingfisher St",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202692251,
-    "wof:lastmodified":1449060789,
+    "wof:lastmodified":1466188677,
     "wof:name":"Hill Lindsay",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [152.958817,-27.347452,152.958817,-27.347452],
-  "geometry": {"coordinates":[152.958817,-27.347452],"type":"Point"}
+  "bbox": [
+    152.958817,
+    -27.347452,
+    152.958817,
+    -27.347452
+],
+  "geometry": {"coordinates":[152.95881700000001,-27.347452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202981525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178146,-33.796188,151.178146,-33.796188",
     "geom:latitude":-33.796188,
     "geom:longitude":151.178146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 25, 809 Pacific Hwy",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202981525,
-    "wof:lastmodified":1449062703,
+    "wof:lastmodified":1466191224,
     "wof:name":"Relocations Australia",
     "wof:parent_id":85774325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relocation"
     ]
 },
-  "bbox": [151.178146,-33.796188,151.178146,-33.796188],
+  "bbox": [
+    151.178146,
+    -33.796188,
+    151.178146,
+    -33.796188
+],
   "geometry": {"coordinates":[151.178146,-33.796188],"type":"Point"}
 }

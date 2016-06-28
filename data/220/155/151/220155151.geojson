@@ -2,13 +2,14 @@
   "id": 220155151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.356857,-38.163773,144.356857,-38.163773",
     "geom:latitude":-38.163773,
     "geom:longitude":144.356857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Little Fyans St",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220155151,
-    "wof:lastmodified":1449074711,
+    "wof:lastmodified":1466188696,
     "wof:name":"Collins Construction Co Pty Ltd",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.356857,-38.163773,144.356857,-38.163773],
-  "geometry": {"coordinates":[144.356857,-38.163773],"type":"Point"}
+  "bbox": [
+    144.356857,
+    -38.163773,
+    144.356857,
+    -38.163773
+],
+  "geometry": {"coordinates":[144.35685699999999,-38.163773],"type":"Point"}
 }

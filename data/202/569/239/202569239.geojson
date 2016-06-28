@@ -2,13 +2,14 @@
   "id": 202569239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435226,-37.676018,144.435226,-37.676018",
     "geom:latitude":-37.676018,
     "geom:longitude":144.435226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 12 Turner St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202569239,
-    "wof:lastmodified":1449062537,
+    "wof:lastmodified":1466187039,
     "wof:name":"Gribbles Pathology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pathology"
     ]
 },
-  "bbox": [144.435226,-37.676018,144.435226,-37.676018],
+  "bbox": [
+    144.435226,
+    -37.676018,
+    144.435226,
+    -37.676018
+],
   "geometry": {"coordinates":[144.435226,-37.676018],"type":"Point"}
 }

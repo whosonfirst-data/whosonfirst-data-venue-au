@@ -2,13 +2,14 @@
   "id": 220129865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.308975,-38.142136,144.308975,-38.142136",
     "geom:latitude":-38.142136,
     "geom:longitude":144.308975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Hamilton Hwy",
     "sg:city":"Fyansford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220129865,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1466188243,
     "wof:name":"Australian Treated Timber",
     "wof:parent_id":85777705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [144.308975,-38.142136,144.308975,-38.142136],
+  "bbox": [
+    144.308975,
+    -38.142136,
+    144.308975,
+    -38.142136
+],
   "geometry": {"coordinates":[144.308975,-38.142136],"type":"Point"}
 }

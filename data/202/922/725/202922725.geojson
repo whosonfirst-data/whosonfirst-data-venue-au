@@ -2,13 +2,14 @@
   "id": 202922725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.116089,-30.302559,153.116089,-30.302559",
     "geom:latitude":-30.302559,
     "geom:longitude":153.116089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bonville St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202922725,
-    "wof:lastmodified":1449060342,
+    "wof:lastmodified":1466190945,
     "wof:name":"Richard's Reliable Service",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rubbish"
     ]
 },
-  "bbox": [153.116089,-30.302559,153.116089,-30.302559],
-  "geometry": {"coordinates":[153.116089,-30.302559],"type":"Point"}
+  "bbox": [
+    153.116089,
+    -30.302559,
+    153.116089,
+    -30.302559
+],
+  "geometry": {"coordinates":[153.11608899999999,-30.302559],"type":"Point"}
 }

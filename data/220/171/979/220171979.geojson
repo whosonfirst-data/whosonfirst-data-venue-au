@@ -2,13 +2,14 @@
   "id": 220171979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.334412,-38.151913,144.334412,-38.151913",
     "geom:latitude":-38.151913,
     "geom:longitude":144.334412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Shannon Ave",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220171979,
-    "wof:lastmodified":1449074886,
+    "wof:lastmodified":1466189035,
     "wof:name":"Guaran Bruce",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.334412,-38.151913,144.334412,-38.151913],
-  "geometry": {"coordinates":[144.334412,-38.151913],"type":"Point"}
+  "bbox": [
+    144.334412,
+    -38.151913,
+    144.334412,
+    -38.151913
+],
+  "geometry": {"coordinates":[144.33441199999999,-38.151913],"type":"Point"}
 }

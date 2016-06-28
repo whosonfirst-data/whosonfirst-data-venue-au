@@ -2,13 +2,14 @@
   "id": 253209155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.923874,-27.61326,151.923874,-27.61326",
     "geom:latitude":-27.61326,
     "geom:longitude":151.923874,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Charker St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253209155,
-    "wof:lastmodified":1449065466,
+    "wof:lastmodified":1466190164,
     "wof:name":"McDonald,Peter Building Services",
     "wof:parent_id":85780331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.923874,-27.61326,151.923874,-27.61326],
-  "geometry": {"coordinates":[151.923874,-27.61326],"type":"Point"}
+  "bbox": [
+    151.923874,
+    -27.61326,
+    151.923874,
+    -27.61326
+],
+  "geometry": {"coordinates":[151.92387400000001,-27.61326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202881759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.005844,-30.505844,153.005844,-30.505844",
     "geom:latitude":-30.505844,
     "geom:longitude":153.005844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8162 Pacific Hwy",
     "sg:city":"Urunga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202881759,
-    "wof:lastmodified":1449061587,
+    "wof:lastmodified":1466190692,
     "wof:name":"Crampos Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "transport"
     ]
 },
-  "bbox": [153.005844,-30.505844,153.005844,-30.505844],
+  "bbox": [
+    153.005844,
+    -30.505844,
+    153.005844,
+    -30.505844
+],
   "geometry": {"coordinates":[153.005844,-30.505844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186409525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.751099,-19.26193,146.751099,-19.26193",
     "geom:latitude":-19.26193,
     "geom:longitude":146.751099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186409525,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466189466,
     "wof:name":"IT Warehouse",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [146.751099,-19.26193,146.751099,-19.26193],
-  "geometry": {"coordinates":[146.751099,-19.26193],"type":"Point"}
+  "bbox": [
+    146.751099,
+    -19.26193,
+    146.751099,
+    -19.26193
+],
+  "geometry": {"coordinates":[146.75109900000001,-19.26193],"type":"Point"}
 }

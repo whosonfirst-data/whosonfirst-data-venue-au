@@ -2,13 +2,14 @@
   "id": 202666611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.040604,-27.38538,153.040604,-27.38538",
     "geom:latitude":-27.38538,
     "geom:longitude":153.040604,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Nielson St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202666611,
-    "wof:lastmodified":1449061040,
+    "wof:lastmodified":1466188201,
     "wof:name":"Wildvale Pty Ltd",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.040604,-27.38538,153.040604,-27.38538],
+  "bbox": [
+    153.040604,
+    -27.38538,
+    153.040604,
+    -27.38538
+],
   "geometry": {"coordinates":[153.040604,-27.38538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202711901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.011185,-27.372149,153.011185,-27.372149",
     "geom:latitude":-27.372149,
     "geom:longitude":153.011185,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Ironwood St",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202711901,
-    "wof:lastmodified":1449062200,
+    "wof:lastmodified":1466189061,
     "wof:name":"Savoia N & M",
     "wof:parent_id":85776239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [153.011185,-27.372149,153.011185,-27.372149],
-  "geometry": {"coordinates":[153.011185,-27.372149],"type":"Point"}
+  "bbox": [
+    153.011185,
+    -27.372149,
+    153.011185,
+    -27.372149
+],
+  "geometry": {"coordinates":[153.01118500000001,-27.372149],"type":"Point"}
 }

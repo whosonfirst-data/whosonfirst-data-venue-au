@@ -2,13 +2,14 @@
   "id": 203415215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.509827,-34.437904,138.509827,-34.437904",
     "geom:latitude":-34.437904,
     "geom:longitude":138.509827,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cnr Dublin & Balaklava Rd",
     "sg:city":"Mallala",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203415215,
-    "wof:lastmodified":1449026332,
+    "wof:lastmodified":1466189636,
     "wof:name":"Mallala Feed Barn Feed Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grain"
     ]
 },
-  "bbox": [138.509827,-34.437904,138.509827,-34.437904],
+  "bbox": [
+    138.509827,
+    -34.437904,
+    138.509827,
+    -34.437904
+],
   "geometry": {"coordinates":[138.509827,-34.437904],"type":"Point"}
 }

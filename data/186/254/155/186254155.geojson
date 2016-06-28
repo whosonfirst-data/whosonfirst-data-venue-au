@@ -2,13 +2,14 @@
   "id": 186254155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.915787,-31.445711,152.915787,-31.445711",
     "geom:latitude":-31.445711,
     "geom:longitude":152.915787,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Herschell St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186254155,
-    "wof:lastmodified":1449052214,
+    "wof:lastmodified":1466187443,
     "wof:name":"Paul Hammond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.915787,-31.445711,152.915787,-31.445711],
-  "geometry": {"coordinates":[152.915787,-31.445711],"type":"Point"}
+  "bbox": [
+    152.915787,
+    -31.445711,
+    152.915787,
+    -31.445711
+],
+  "geometry": {"coordinates":[152.91578699999999,-31.445711],"type":"Point"}
 }

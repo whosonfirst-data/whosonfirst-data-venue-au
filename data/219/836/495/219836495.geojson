@@ -2,13 +2,14 @@
   "id": 219836495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.815826,-31.976601,115.815826,-31.976601",
     "geom:latitude":-31.976601,
     "geom:longitude":115.815826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Stirling Hwy",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219836495,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466191468,
     "wof:name":"Urbanstone Pty Ltd",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "paving"
     ]
 },
-  "bbox": [115.815826,-31.976601,115.815826,-31.976601],
+  "bbox": [
+    115.815826,
+    -31.976601,
+    115.815826,
+    -31.976601
+],
   "geometry": {"coordinates":[115.815826,-31.976601],"type":"Point"}
 }

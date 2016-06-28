@@ -2,13 +2,14 @@
   "id": 253115557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.833023,-37.754318,144.833023,-37.754318",
     "geom:latitude":-37.754318,
     "geom:longitude":144.833023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"226 McIntyre Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253115557,
-    "wof:lastmodified":1449062806,
+    "wof:lastmodified":1466189049,
     "wof:name":"McCanns Plumbing Plus",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.833023,-37.754318,144.833023,-37.754318],
+  "bbox": [
+    144.833023,
+    -37.754318,
+    144.833023,
+    -37.754318
+],
   "geometry": {"coordinates":[144.833023,-37.754318],"type":"Point"}
 }

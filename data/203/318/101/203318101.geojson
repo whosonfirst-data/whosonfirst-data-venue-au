@@ -2,13 +2,14 @@
   "id": 203318101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.808777,-37.576889,143.808777,-37.576889",
     "geom:latitude":-37.576889,
     "geom:longitude":143.808777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Wiltshire La",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203318101,
-    "wof:lastmodified":1449025338,
+    "wof:lastmodified":1466188235,
     "wof:name":"Wiltshire Automotive Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [143.808777,-37.576889,143.808777,-37.576889],
-  "geometry": {"coordinates":[143.808777,-37.576889],"type":"Point"}
+  "bbox": [
+    143.808777,
+    -37.576889,
+    143.808777,
+    -37.576889
+],
+  "geometry": {"coordinates":[143.80877699999999,-37.576889],"type":"Point"}
 }

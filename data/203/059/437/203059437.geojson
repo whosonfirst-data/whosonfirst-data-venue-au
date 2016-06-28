@@ -2,13 +2,14 @@
   "id": 203059437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.919495,-33.726303,150.919495,-33.726303",
     "geom:latitude":-33.726303,
     "geom:longitude":150.919495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Blackbutt St",
     "sg:city":"Parklea",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203059437,
-    "wof:lastmodified":1449025428,
+    "wof:lastmodified":1466188376,
     "wof:name":"Aqua Telecoms",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [150.919495,-33.726303,150.919495,-33.726303],
-  "geometry": {"coordinates":[150.919495,-33.726303],"type":"Point"}
+  "bbox": [
+    150.919495,
+    -33.726303,
+    150.919495,
+    -33.726303
+],
+  "geometry": {"coordinates":[150.91949500000001,-33.726303],"type":"Point"}
 }

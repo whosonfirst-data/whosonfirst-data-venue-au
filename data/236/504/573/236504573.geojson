@@ -2,13 +2,14 @@
   "id": 236504573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.185684,-21.140974,149.185684,-21.140974",
     "geom:latitude":-21.140974,
     "geom:longitude":149.185684,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 2, 126 Victoria St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236504573,
-    "wof:lastmodified":1449002109,
+    "wof:lastmodified":1466191383,
     "wof:name":"Wizard",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [149.185684,-21.140974,149.185684,-21.140974],
-  "geometry": {"coordinates":[149.185684,-21.140974],"type":"Point"}
+  "bbox": [
+    149.185684,
+    -21.140974,
+    149.185684,
+    -21.140974
+],
+  "geometry": {"coordinates":[149.18568400000001,-21.140974],"type":"Point"}
 }

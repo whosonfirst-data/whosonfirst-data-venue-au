@@ -2,13 +2,14 @@
   "id": 186139889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.722626,-31.463764,152.722626,-31.463764",
     "geom:latitude":-31.463764,
     "geom:longitude":152.722626,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"178 High St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186139889,
-    "wof:lastmodified":1449050492,
+    "wof:lastmodified":1466189714,
     "wof:name":"West End Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.722626,-31.463764,152.722626,-31.463764],
-  "geometry": {"coordinates":[152.722626,-31.463764],"type":"Point"}
+  "bbox": [
+    152.722626,
+    -31.463764,
+    152.722626,
+    -31.463764
+],
+  "geometry": {"coordinates":[152.72262599999999,-31.463764],"type":"Point"}
 }

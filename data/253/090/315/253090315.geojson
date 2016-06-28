@@ -2,13 +2,14 @@
   "id": 253090315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.770676,-37.740093,144.770676,-37.740093",
     "geom:latitude":-37.740093,
     "geom:longitude":144.770676,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lambeth St",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253090315,
-    "wof:lastmodified":1449065167,
+    "wof:lastmodified":1466188541,
     "wof:name":"Enhanced Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.770676,-37.740093,144.770676,-37.740093],
-  "geometry": {"coordinates":[144.770676,-37.740093],"type":"Point"}
+  "bbox": [
+    144.770676,
+    -37.740093,
+    144.770676,
+    -37.740093
+],
+  "geometry": {"coordinates":[144.77067600000001,-37.740093],"type":"Point"}
 }

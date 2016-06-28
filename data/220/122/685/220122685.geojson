@@ -2,13 +2,14 @@
   "id": 220122685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.41394,-38.164219,144.41394,-38.164219",
     "geom:latitude":-38.164219,
     "geom:longitude":144.41394,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Moon St",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220122685,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466188180,
     "wof:name":"Kempe Manufacturing & Engineering Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.41394,-38.164219,144.41394,-38.164219],
+  "bbox": [
+    144.41394,
+    -38.164219,
+    144.41394,
+    -38.164219
+],
   "geometry": {"coordinates":[144.41394,-38.164219],"type":"Point"}
 }

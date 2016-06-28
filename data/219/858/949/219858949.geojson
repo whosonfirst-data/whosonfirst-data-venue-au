@@ -2,13 +2,14 @@
   "id": 219858949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.181503,-33.857479,151.181503,-33.857479",
     "geom:latitude":-33.857479,
     "geom:longitude":151.181503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6, 269- 271 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219858949,
-    "wof:lastmodified":1449070739,
+    "wof:lastmodified":1466191574,
     "wof:name":"Balmain Spa & Natural Beauty",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.181503,-33.857479,151.181503,-33.857479],
-  "geometry": {"coordinates":[151.181503,-33.857479],"type":"Point"}
+  "bbox": [
+    151.181503,
+    -33.857479,
+    151.181503,
+    -33.857479
+],
+  "geometry": {"coordinates":[151.18150299999999,-33.857479],"type":"Point"}
 }

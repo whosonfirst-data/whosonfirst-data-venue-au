@@ -2,13 +2,14 @@
   "id": 252836785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.575409,-32.587734,149.575409,-32.587734",
     "geom:latitude":-32.587734,
     "geom:longitude":149.575409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Market St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252836785,
-    "wof:lastmodified":1449006121,
+    "wof:lastmodified":1466188442,
     "wof:name":"Raine & Horne Mudgee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.575409,-32.587734,149.575409,-32.587734],
-  "geometry": {"coordinates":[149.575409,-32.587734],"type":"Point"}
+  "bbox": [
+    149.575409,
+    -32.587734,
+    149.575409,
+    -32.587734
+],
+  "geometry": {"coordinates":[149.57540900000001,-32.587734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253264989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.706329,-27.6782,151.706329,-27.6782",
     "geom:latitude":-27.6782,
     "geom:longitude":151.706329,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Oshea Ave",
     "sg:city":"Southbrook",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253264989,
-    "wof:lastmodified":1449064754,
+    "wof:lastmodified":1466190495,
     "wof:name":"Southbrook Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.706329,-27.6782,151.706329,-27.6782],
-  "geometry": {"coordinates":[151.706329,-27.6782],"type":"Point"}
+  "bbox": [
+    151.706329,
+    -27.6782,
+    151.706329,
+    -27.6782
+],
+  "geometry": {"coordinates":[151.70632900000001,-27.6782],"type":"Point"}
 }

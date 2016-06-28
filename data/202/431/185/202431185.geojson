@@ -2,13 +2,14 @@
   "id": 202431185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.954865,-37.841198,144.954865,-37.841198",
     "geom:latitude":-37.841198,
     "geom:longitude":144.954865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Dundas Pl",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202431185,
-    "wof:lastmodified":1449060447,
+    "wof:lastmodified":1466188434,
     "wof:name":"Brumby's Bakeries",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.954865,-37.841198,144.954865,-37.841198],
-  "geometry": {"coordinates":[144.954865,-37.841198],"type":"Point"}
+  "bbox": [
+    144.954865,
+    -37.841198,
+    144.954865,
+    -37.841198
+],
+  "geometry": {"coordinates":[144.95486500000001,-37.841198],"type":"Point"}
 }

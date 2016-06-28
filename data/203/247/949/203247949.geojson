@@ -2,13 +2,14 @@
   "id": 203247949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.039047,-26.772972,153.039047,-26.772972",
     "geom:latitude":-26.772972,
     "geom:longitude":153.039047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2859 Glass House Mountains Rd",
     "sg:city":"Glenview",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203247949,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466187558,
     "wof:name":"Rustic Cabin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [153.039047,-26.772972,153.039047,-26.772972],
-  "geometry": {"coordinates":[153.039047,-26.772972],"type":"Point"}
+  "bbox": [
+    153.039047,
+    -26.772972,
+    153.039047,
+    -26.772972
+],
+  "geometry": {"coordinates":[153.03904700000001,-26.772972],"type":"Point"}
 }

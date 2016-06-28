@@ -2,13 +2,14 @@
   "id": 203380169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.842819,-37.570801,143.842819,-37.570801",
     "geom:latitude":-37.570801,
     "geom:longitude":143.842819,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Sebastopol St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203380169,
-    "wof:lastmodified":1449025796,
+    "wof:lastmodified":1466189199,
     "wof:name":"Next Concept Painting and Design",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [143.842819,-37.570801,143.842819,-37.570801],
-  "geometry": {"coordinates":[143.842819,-37.570801],"type":"Point"}
+  "bbox": [
+    143.842819,
+    -37.570801,
+    143.842819,
+    -37.570801
+],
+  "geometry": {"coordinates":[143.84281899999999,-37.570801],"type":"Point"}
 }

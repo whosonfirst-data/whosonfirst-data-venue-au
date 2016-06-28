@@ -2,13 +2,14 @@
   "id": 235965013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054398,-27.43272,153.054398,-27.43272",
     "geom:latitude":-27.43272,
     "geom:longitude":153.054398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bale St",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235965013,
-    "wof:lastmodified":1449008480,
+    "wof:lastmodified":1466187283,
     "wof:name":"Quayle John",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.054398,-27.43272,153.054398,-27.43272],
-  "geometry": {"coordinates":[153.054398,-27.43272],"type":"Point"}
+  "bbox": [
+    153.054398,
+    -27.43272,
+    153.054398,
+    -27.43272
+],
+  "geometry": {"coordinates":[153.05439799999999,-27.43272],"type":"Point"}
 }

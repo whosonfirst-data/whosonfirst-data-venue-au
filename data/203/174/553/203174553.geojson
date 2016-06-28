@@ -2,13 +2,14 @@
   "id": 203174553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.975159,-38.541435,143.975159,-38.541435",
     "geom:latitude":-38.541435,
     "geom:longitude":143.975159,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Mount Joy Pde",
     "sg:city":"Lorne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203174553,
-    "wof:lastmodified":1449025195,
+    "wof:lastmodified":1466189864,
     "wof:name":"Andrew's Chicken Joint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [143.975159,-38.541435,143.975159,-38.541435],
-  "geometry": {"coordinates":[143.975159,-38.541435],"type":"Point"}
+  "bbox": [
+    143.975159,
+    -38.541435,
+    143.975159,
+    -38.541435
+],
+  "geometry": {"coordinates":[143.97515899999999,-38.541435],"type":"Point"}
 }

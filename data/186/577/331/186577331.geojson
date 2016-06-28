@@ -2,13 +2,14 @@
   "id": 186577331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.838623,-31.5002,145.838623,-31.5002",
     "geom:latitude":-31.5002,
     "geom:longitude":145.838623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Harcourt St",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186577331,
-    "wof:lastmodified":1449053102,
+    "wof:lastmodified":1466190954,
     "wof:name":"Acacia Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.838623,-31.5002,145.838623,-31.5002],
-  "geometry": {"coordinates":[145.838623,-31.5002],"type":"Point"}
+  "bbox": [
+    145.838623,
+    -31.5002,
+    145.838623,
+    -31.5002
+],
+  "geometry": {"coordinates":[145.83862300000001,-31.5002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253163455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.955276,-27.560123,151.955276,-27.560123",
     "geom:latitude":-27.560123,
     "geom:longitude":151.955276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 11, 28 Bell St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253163455,
-    "wof:lastmodified":1449065742,
+    "wof:lastmodified":1466189854,
     "wof:name":"GAB Robins Australia Pty Ltd",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "assessor"
     ]
 },
-  "bbox": [151.955276,-27.560123,151.955276,-27.560123],
+  "bbox": [
+    151.955276,
+    -27.560123,
+    151.955276,
+    -27.560123
+],
   "geometry": {"coordinates":[151.955276,-27.560123],"type":"Point"}
 }

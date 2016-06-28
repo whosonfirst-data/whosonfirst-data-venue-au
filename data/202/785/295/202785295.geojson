@@ -2,13 +2,14 @@
   "id": 202785295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.775177,-32.926525,151.775177,-32.926525",
     "geom:latitude":-32.926525,
     "geom:longitude":151.775177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202785295,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1466190041,
     "wof:name":"Connect Personnel",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relation"
     ]
 },
-  "bbox": [151.775177,-32.926525,151.775177,-32.926525],
-  "geometry": {"coordinates":[151.775177,-32.926525],"type":"Point"}
+  "bbox": [
+    151.775177,
+    -32.926525,
+    151.775177,
+    -32.926525
+],
+  "geometry": {"coordinates":[151.77517700000001,-32.926525],"type":"Point"}
 }

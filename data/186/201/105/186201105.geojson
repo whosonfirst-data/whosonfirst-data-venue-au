@@ -2,13 +2,14 @@
   "id": 186201105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.887115,-31.444555,152.887115,-31.444555",
     "geom:latitude":-31.444555,
     "geom:longitude":152.887115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Acacia Ave",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186201105,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1466187080,
     "wof:name":"Acacia Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [152.887115,-31.444555,152.887115,-31.444555],
-  "geometry": {"coordinates":[152.887115,-31.444555],"type":"Point"}
+  "bbox": [
+    152.887115,
+    -31.444555,
+    152.887115,
+    -31.444555
+],
+  "geometry": {"coordinates":[152.88711499999999,-31.444555],"type":"Point"}
 }

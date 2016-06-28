@@ -2,13 +2,14 @@
   "id": 236974973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.38649,-37.868462,145.38649,-37.868462",
     "geom:latitude":-37.868462,
     "geom:longitude":145.38649,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"'Quiddity', 7 Spencer Rd",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236974973,
-    "wof:lastmodified":1449004726,
+    "wof:lastmodified":1466192177,
     "wof:name":"Rosemary Grieve & Associates Pty Ltd",
     "wof:parent_id":85770233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [145.38649,-37.868462,145.38649,-37.868462],
-  "geometry": {"coordinates":[145.38649,-37.868462],"type":"Point"}
+  "bbox": [
+    145.38649,
+    -37.868462,
+    145.38649,
+    -37.868462
+],
+  "geometry": {"coordinates":[145.38649000000001,-37.868462],"type":"Point"}
 }

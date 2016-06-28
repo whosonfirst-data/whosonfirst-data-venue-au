@@ -2,13 +2,14 @@
   "id": 203317655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.819504,-37.586666,143.819504,-37.586666",
     "geom:latitude":-37.586666,
     "geom:longitude":143.819504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Grana Drv",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203317655,
-    "wof:lastmodified":1449025776,
+    "wof:lastmodified":1466188228,
     "wof:name":"Millers Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gate"
     ]
 },
-  "bbox": [143.819504,-37.586666,143.819504,-37.586666],
-  "geometry": {"coordinates":[143.819504,-37.586666],"type":"Point"}
+  "bbox": [
+    143.819504,
+    -37.586666,
+    143.819504,
+    -37.586666
+],
+  "geometry": {"coordinates":[143.81950399999999,-37.586666],"type":"Point"}
 }

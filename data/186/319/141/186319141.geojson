@@ -2,13 +2,14 @@
   "id": 186319141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.010094,-31.91049,116.010094,-31.91049",
     "geom:latitude":-31.91049,
     "geom:longitude":116.010094,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Bushmead Rd",
     "sg:city":"Hazelmere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186319141,
-    "wof:lastmodified":1449051469,
+    "wof:lastmodified":1466187932,
     "wof:name":"Fabco Pty Ltd",
     "wof:parent_id":85768807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relocatable"
     ]
 },
-  "bbox": [116.010094,-31.91049,116.010094,-31.91049],
+  "bbox": [
+    116.010094,
+    -31.91049,
+    116.010094,
+    -31.91049
+],
   "geometry": {"coordinates":[116.010094,-31.91049],"type":"Point"}
 }

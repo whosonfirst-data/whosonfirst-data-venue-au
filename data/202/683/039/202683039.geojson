@@ -2,13 +2,14 @@
   "id": 202683039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.961853,-27.364422,152.961853,-27.364422",
     "geom:latitude":-27.364422,
     "geom:longitude":152.961853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mounteford Pl",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202683039,
-    "wof:lastmodified":1449061044,
+    "wof:lastmodified":1466188517,
     "wof:name":"I & M Plumbing",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [152.961853,-27.364422,152.961853,-27.364422],
-  "geometry": {"coordinates":[152.961853,-27.364422],"type":"Point"}
+  "bbox": [
+    152.961853,
+    -27.364422,
+    152.961853,
+    -27.364422
+],
+  "geometry": {"coordinates":[152.96185299999999,-27.364422],"type":"Point"}
 }

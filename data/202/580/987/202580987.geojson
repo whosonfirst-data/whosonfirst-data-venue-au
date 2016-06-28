@@ -2,13 +2,14 @@
   "id": 202580987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.442123,-37.687668,144.442123,-37.687668",
     "geom:latitude":-37.687668,
     "geom:longitude":144.442123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Station St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202580987,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466187132,
     "wof:name":"Marshall Engineering Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.442123,-37.687668,144.442123,-37.687668],
-  "geometry": {"coordinates":[144.442123,-37.687668],"type":"Point"}
+  "bbox": [
+    144.442123,
+    -37.687668,
+    144.442123,
+    -37.687668
+],
+  "geometry": {"coordinates":[144.44212300000001,-37.687668],"type":"Point"}
 }

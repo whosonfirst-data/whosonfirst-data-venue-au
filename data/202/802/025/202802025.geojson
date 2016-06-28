@@ -2,13 +2,14 @@
   "id": 202802025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.759644,-32.926857,151.759644,-32.926857",
     "geom:latitude":-32.926857,
     "geom:longitude":151.759644,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3, Level 1 408 King St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202802025,
-    "wof:lastmodified":1449062193,
+    "wof:lastmodified":1466190461,
     "wof:name":"Disability Infoline",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [151.759644,-32.926857,151.759644,-32.926857],
-  "geometry": {"coordinates":[151.759644,-32.926857],"type":"Point"}
+  "bbox": [
+    151.759644,
+    -32.926857,
+    151.759644,
+    -32.926857
+],
+  "geometry": {"coordinates":[151.75964400000001,-32.926857],"type":"Point"}
 }

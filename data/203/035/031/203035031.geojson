@@ -2,13 +2,14 @@
   "id": 203035031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.157623,-37.672981,145.157623,-37.672981",
     "geom:latitude":-37.672981,
     "geom:longitude":145.157623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Station St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203035031,
-    "wof:lastmodified":1449026472,
+    "wof:lastmodified":1466187911,
     "wof:name":"Royal District Nursing Service",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [145.157623,-37.672981,145.157623,-37.672981],
+  "bbox": [
+    145.157623,
+    -37.672981,
+    145.157623,
+    -37.672981
+],
   "geometry": {"coordinates":[145.157623,-37.672981],"type":"Point"}
 }

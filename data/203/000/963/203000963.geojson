@@ -2,13 +2,14 @@
   "id": 203000963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.491577,-20.725796,139.491577,-20.725796",
     "geom:latitude":-20.725796,
     "geom:longitude":139.491577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203000963,
-    "wof:lastmodified":1449025236,
+    "wof:lastmodified":1466186960,
     "wof:name":"Reilly A W",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [139.491577,-20.725796,139.491577,-20.725796],
-  "geometry": {"coordinates":[139.491577,-20.725796],"type":"Point"}
+  "bbox": [
+    139.491577,
+    -20.725796,
+    139.491577,
+    -20.725796
+],
+  "geometry": {"coordinates":[139.49157700000001,-20.725796],"type":"Point"}
 }

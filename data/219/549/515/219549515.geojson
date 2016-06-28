@@ -2,13 +2,14 @@
   "id": 219549515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.997955,-33.914886,150.997955,-33.914886",
     "geom:latitude":-33.914886,
     "geom:longitude":150.997955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Eldon Ave",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219549515,
-    "wof:lastmodified":1449071374,
+    "wof:lastmodified":1466190267,
     "wof:name":"Gina's Take-Away",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [150.997955,-33.914886,150.997955,-33.914886],
-  "geometry": {"coordinates":[150.997955,-33.914886],"type":"Point"}
+  "bbox": [
+    150.997955,
+    -33.914886,
+    150.997955,
+    -33.914886
+],
+  "geometry": {"coordinates":[150.99795499999999,-33.914886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219176777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054504,-27.419176,153.054504,-27.419176",
     "geom:latitude":-27.419176,
     "geom:longitude":153.054504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"686 Sandgate Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219176777,
-    "wof:lastmodified":1449072685,
+    "wof:lastmodified":1466189836,
     "wof:name":"Mortgage Refunds",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [153.054504,-27.419176,153.054504,-27.419176],
-  "geometry": {"coordinates":[153.054504,-27.419176],"type":"Point"}
+  "bbox": [
+    153.054504,
+    -27.419176,
+    153.054504,
+    -27.419176
+],
+  "geometry": {"coordinates":[153.05450400000001,-27.419176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219551111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.001328,-33.911884,151.001328,-33.911884",
     "geom:latitude":-33.911884,
     "geom:longitude":151.001328,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bellevue Ave",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219551111,
-    "wof:lastmodified":1449071106,
+    "wof:lastmodified":1466190163,
     "wof:name":"Safety Assurance",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [151.001328,-33.911884,151.001328,-33.911884],
+  "bbox": [
+    151.001328,
+    -33.911884,
+    151.001328,
+    -33.911884
+],
   "geometry": {"coordinates":[151.001328,-33.911884],"type":"Point"}
 }

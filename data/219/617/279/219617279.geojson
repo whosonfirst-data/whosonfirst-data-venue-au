@@ -2,13 +2,14 @@
   "id": 219617279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165115,-33.905933,151.165115,-33.905933",
     "geom:latitude":-33.905933,
     "geom:longitude":151.165115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Victoria Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219617279,
-    "wof:lastmodified":1449070493,
+    "wof:lastmodified":1466190795,
     "wof:name":"Palace Function Centre",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [151.165115,-33.905933,151.165115,-33.905933],
-  "geometry": {"coordinates":[151.165115,-33.905933],"type":"Point"}
+  "bbox": [
+    151.165115,
+    -33.905933,
+    151.165115,
+    -33.905933
+],
+  "geometry": {"coordinates":[151.16511499999999,-33.905933],"type":"Point"}
 }

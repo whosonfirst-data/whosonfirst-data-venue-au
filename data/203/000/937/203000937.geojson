@@ -2,13 +2,14 @@
   "id": 203000937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.494919,-20.739519,139.494919,-20.739519",
     "geom:latitude":-20.739519,
     "geom:longitude":139.494919,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Thompson Rd",
     "sg:city":"Healy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203000937,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466186959,
     "wof:name":"Healy Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [139.494919,-20.739519,139.494919,-20.739519],
-  "geometry": {"coordinates":[139.494919,-20.739519],"type":"Point"}
+  "bbox": [
+    139.494919,
+    -20.739519,
+    139.494919,
+    -20.739519
+],
+  "geometry": {"coordinates":[139.49491900000001,-20.739519],"type":"Point"}
 }

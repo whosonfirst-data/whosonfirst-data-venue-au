@@ -2,13 +2,14 @@
   "id": 219506303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.086487,-33.914013,151.086487,-33.914013",
     "geom:latitude":-33.914013,
     "geom:longitude":151.086487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"265- 267 Burwood Rd",
     "sg:city":"Belmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219506303,
-    "wof:lastmodified":1449070444,
+    "wof:lastmodified":1466189630,
     "wof:name":"Autopro",
     "wof:parent_id":85770707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [151.086487,-33.914013,151.086487,-33.914013],
-  "geometry": {"coordinates":[151.086487,-33.914013],"type":"Point"}
+  "bbox": [
+    151.086487,
+    -33.914013,
+    151.086487,
+    -33.914013
+],
+  "geometry": {"coordinates":[151.08648700000001,-33.914013],"type":"Point"}
 }

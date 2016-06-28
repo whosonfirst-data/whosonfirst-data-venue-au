@@ -2,13 +2,14 @@
   "id": 219756723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.960907,-32.009491,151.960907,-32.009491",
     "geom:latitude":-32.009491,
     "geom:longitude":151.960907,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Hume St",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219756723,
-    "wof:lastmodified":1449072500,
+    "wof:lastmodified":1466191363,
     "wof:name":"Polly's Of Gloucester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.960907,-32.009491,151.960907,-32.009491],
-  "geometry": {"coordinates":[151.960907,-32.009491],"type":"Point"}
+  "bbox": [
+    151.960907,
+    -32.009491,
+    151.960907,
+    -32.009491
+],
+  "geometry": {"coordinates":[151.96090699999999,-32.009491],"type":"Point"}
 }

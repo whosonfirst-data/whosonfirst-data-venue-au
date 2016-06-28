@@ -2,13 +2,14 @@
   "id": 235999699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.745697,-36.955055,140.745697,-36.955055",
     "geom:latitude":-36.955055,
     "geom:longitude":140.745697,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Depot 241 Smith St",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235999699,
-    "wof:lastmodified":1449008565,
+    "wof:lastmodified":1466187658,
     "wof:name":"Fuelink Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.745697,-36.955055,140.745697,-36.955055],
-  "geometry": {"coordinates":[140.745697,-36.955055],"type":"Point"}
+  "bbox": [
+    140.745697,
+    -36.955055,
+    140.745697,
+    -36.955055
+],
+  "geometry": {"coordinates":[140.74569700000001,-36.955055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252989125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.125488,-26.728428,153.125488,-26.728428",
     "geom:latitude":-26.728428,
     "geom:longitude":153.125488,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Tandem Ave",
     "sg:city":"Warana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252989125,
-    "wof:lastmodified":1449006199,
+    "wof:lastmodified":1466189746,
     "wof:name":"Planet Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "marble"
     ]
 },
-  "bbox": [153.125488,-26.728428,153.125488,-26.728428],
-  "geometry": {"coordinates":[153.125488,-26.728428],"type":"Point"}
+  "bbox": [
+    153.125488,
+    -26.728428,
+    153.125488,
+    -26.728428
+],
+  "geometry": {"coordinates":[153.12548799999999,-26.728428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253241583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.901703,-27.55439,151.901703,-27.55439",
     "geom:latitude":-27.55439,
     "geom:longitude":151.901703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Boundary St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253241583,
-    "wof:lastmodified":1449065725,
+    "wof:lastmodified":1466190353,
     "wof:name":"Country Oz Thatch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [151.901703,-27.55439,151.901703,-27.55439],
+  "bbox": [
+    151.901703,
+    -27.55439,
+    151.901703,
+    -27.55439
+],
   "geometry": {"coordinates":[151.901703,-27.55439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236858839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.095367,-35.061096,148.095367,-35.061096",
     "geom:latitude":-35.061096,
     "geom:longitude":148.095367,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Snake Gully Hume Hwy",
     "sg:city":"Gundagai",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236858839,
-    "wof:lastmodified":1449001919,
+    "wof:lastmodified":1466192164,
     "wof:name":"Caltex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.095367,-35.061096,148.095367,-35.061096],
-  "geometry": {"coordinates":[148.095367,-35.061096],"type":"Point"}
+  "bbox": [
+    148.095367,
+    -35.061096,
+    148.095367,
+    -35.061096
+],
+  "geometry": {"coordinates":[148.09536700000001,-35.061096],"type":"Point"}
 }

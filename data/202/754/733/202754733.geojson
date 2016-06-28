@@ -2,13 +2,14 @@
   "id": 202754733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.928871,-32.032963,115.928871,-32.032963",
     "geom:latitude":-32.032963,
     "geom:longitude":115.928871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 564 Metcalfe Rd",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202754733,
-    "wof:lastmodified":1449061744,
+    "wof:lastmodified":1466189808,
     "wof:name":"Wong Louisa",
     "wof:parent_id":85778007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.928871,-32.032963,115.928871,-32.032963],
+  "bbox": [
+    115.928871,
+    -32.032963,
+    115.928871,
+    -32.032963
+],
   "geometry": {"coordinates":[115.928871,-32.032963],"type":"Point"}
 }

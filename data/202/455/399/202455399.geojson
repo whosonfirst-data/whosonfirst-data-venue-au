@@ -2,13 +2,14 @@
   "id": 202455399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.952164,-37.830048,144.952164,-37.830048",
     "geom:latitude":-37.830048,
     "geom:longitude":144.952164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31- 37 Buckhurst St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202455399,
-    "wof:lastmodified":1449062257,
+    "wof:lastmodified":1466188876,
     "wof:name":"MacPhees Wine Cellarage",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [144.952164,-37.830048,144.952164,-37.830048],
-  "geometry": {"coordinates":[144.952164,-37.830048],"type":"Point"}
+  "bbox": [
+    144.952164,
+    -37.830048,
+    144.952164,
+    -37.830048
+],
+  "geometry": {"coordinates":[144.95216400000001,-37.830048],"type":"Point"}
 }

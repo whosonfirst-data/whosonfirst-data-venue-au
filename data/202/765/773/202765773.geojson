@@ -2,13 +2,14 @@
   "id": 202765773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.766617,-32.936764,151.766617,-32.936764",
     "geom:latitude":-32.936764,
     "geom:longitude":151.766617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Darby St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202765773,
-    "wof:lastmodified":1449061572,
+    "wof:lastmodified":1466189951,
     "wof:name":"Judd Bros",
     "wof:parent_id":85777089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antenna"
     ]
 },
-  "bbox": [151.766617,-32.936764,151.766617,-32.936764],
+  "bbox": [
+    151.766617,
+    -32.936764,
+    151.766617,
+    -32.936764
+],
   "geometry": {"coordinates":[151.766617,-32.936764],"type":"Point"}
 }

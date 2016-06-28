@@ -2,13 +2,14 @@
   "id": 203091569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.739952,-32.518688,115.739952,-32.518688",
     "geom:latitude":-32.518688,
     "geom:longitude":115.739952,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 12, 12 Tindale St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203091569,
-    "wof:lastmodified":1449025126,
+    "wof:lastmodified":1466188921,
     "wof:name":"Bestway Window Tinting",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [115.739952,-32.518688,115.739952,-32.518688],
+  "bbox": [
+    115.739952,
+    -32.518688,
+    115.739952,
+    -32.518688
+],
   "geometry": {"coordinates":[115.739952,-32.518688],"type":"Point"}
 }

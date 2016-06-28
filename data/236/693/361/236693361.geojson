@@ -2,13 +2,14 @@
   "id": 236693361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.520065,-31.943989,152.520065,-31.943989",
     "geom:latitude":-31.943989,
     "geom:longitude":152.520065,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Wilga Rd",
     "sg:city":"Pampoolah",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236693361,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1466191839,
     "wof:name":"Peter Dale Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.520065,-31.943989,152.520065,-31.943989],
-  "geometry": {"coordinates":[152.520065,-31.943989],"type":"Point"}
+  "bbox": [
+    152.520065,
+    -31.943989,
+    152.520065,
+    -31.943989
+],
+  "geometry": {"coordinates":[152.52006499999999,-31.943989],"type":"Point"}
 }

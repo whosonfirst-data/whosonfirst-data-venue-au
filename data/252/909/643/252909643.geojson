@@ -2,13 +2,14 @@
   "id": 252909643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.497498,-36.270741,144.497498,-36.270741",
     "geom:latitude":-36.270741,
     "geom:longitude":144.497498,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Archibald St",
     "sg:city":"Lockington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252909643,
-    "wof:lastmodified":1449006230,
+    "wof:lastmodified":1466189078,
     "wof:name":"Lockington Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.497498,-36.270741,144.497498,-36.270741],
-  "geometry": {"coordinates":[144.497498,-36.270741],"type":"Point"}
+  "bbox": [
+    144.497498,
+    -36.270741,
+    144.497498,
+    -36.270741
+],
+  "geometry": {"coordinates":[144.49749800000001,-36.270741],"type":"Point"}
 }

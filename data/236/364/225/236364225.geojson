@@ -2,13 +2,14 @@
   "id": 236364225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.782547,-32.063442,115.782547,-32.063442",
     "geom:latitude":-32.063442,
     "geom:longitude":115.782547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3a Lee Ave",
     "sg:city":"Hilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236364225,
-    "wof:lastmodified":1449003519,
+    "wof:lastmodified":1466190965,
     "wof:name":"Bedrock Ceilings Pty Ltd",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceiling"
     ]
 },
-  "bbox": [115.782547,-32.063442,115.782547,-32.063442],
-  "geometry": {"coordinates":[115.782547,-32.063442],"type":"Point"}
+  "bbox": [
+    115.782547,
+    -32.063442,
+    115.782547,
+    -32.063442
+],
+  "geometry": {"coordinates":[115.78254699999999,-32.063442],"type":"Point"}
 }

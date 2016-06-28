@@ -2,13 +2,14 @@
   "id": 253186987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.974792,-27.56962,151.974792,-27.56962",
     "geom:latitude":-27.56962,
     "geom:longitude":151.974792,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ipswich St",
     "sg:city":"Toowoomba City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253186987,
-    "wof:lastmodified":1449065114,
+    "wof:lastmodified":1466190147,
     "wof:name":"netXP",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.974792,-27.56962,151.974792,-27.56962],
-  "geometry": {"coordinates":[151.974792,-27.56962],"type":"Point"}
+  "bbox": [
+    151.974792,
+    -27.56962,
+    151.974792,
+    -27.56962
+],
+  "geometry": {"coordinates":[151.97479200000001,-27.56962],"type":"Point"}
 }

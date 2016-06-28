@@ -2,13 +2,14 @@
   "id": 253041951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.777283,-37.82288,144.777283,-37.82288",
     "geom:latitude":-37.82288,
     "geom:longitude":144.777283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 William Angliss Drv",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253041951,
-    "wof:lastmodified":1449063895,
+    "wof:lastmodified":1466187759,
     "wof:name":"Anteo Tail Lifts",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [144.777283,-37.82288,144.777283,-37.82288],
-  "geometry": {"coordinates":[144.777283,-37.82288],"type":"Point"}
+  "bbox": [
+    144.777283,
+    -37.82288,
+    144.777283,
+    -37.82288
+],
+  "geometry": {"coordinates":[144.77728300000001,-37.82288],"type":"Point"}
 }

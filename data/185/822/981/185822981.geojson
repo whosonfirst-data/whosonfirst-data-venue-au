@@ -2,13 +2,14 @@
   "id": 185822981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.996063,-12.502002,130.996063,-12.502002",
     "geom:latitude":-12.502002,
     "geom:longitude":130.996063,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/ Granites Drv",
     "sg:city":"Rosebery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185822981,
-    "wof:lastmodified":1449008143,
+    "wof:lastmodified":1466187004,
     "wof:name":"Ballantyne Fish & Chips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [130.996063,-12.502002,130.996063,-12.502002],
-  "geometry": {"coordinates":[130.996063,-12.502002],"type":"Point"}
+  "bbox": [
+    130.996063,
+    -12.502002,
+    130.996063,
+    -12.502002
+],
+  "geometry": {"coordinates":[130.99606299999999,-12.502002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203029679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.144821,-37.663857,145.144821,-37.663857",
     "geom:latitude":-37.663857,
     "geom:longitude":145.144821,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Ironbark Rd",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203029679,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466187795,
     "wof:name":"S & S Excavations Vic P/L",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [145.144821,-37.663857,145.144821,-37.663857],
-  "geometry": {"coordinates":[145.144821,-37.663857],"type":"Point"}
+  "bbox": [
+    145.144821,
+    -37.663857,
+    145.144821,
+    -37.663857
+],
+  "geometry": {"coordinates":[145.14482100000001,-37.663857],"type":"Point"}
 }

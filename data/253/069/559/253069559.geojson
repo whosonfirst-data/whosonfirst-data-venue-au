@@ -2,13 +2,14 @@
   "id": 253069559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.755005,-37.752995,144.755005,-37.752995",
     "geom:latitude":-37.752995,
     "geom:longitude":144.755005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Billungah Pl",
     "sg:city":"Burnside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253069559,
-    "wof:lastmodified":1449064693,
+    "wof:lastmodified":1466188188,
     "wof:name":"V.S. Mobile Mechanic",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [144.755005,-37.752995,144.755005,-37.752995],
-  "geometry": {"coordinates":[144.755005,-37.752995],"type":"Point"}
+  "bbox": [
+    144.755005,
+    -37.752995,
+    144.755005,
+    -37.752995
+],
+  "geometry": {"coordinates":[144.75500500000001,-37.752995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203273903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.165665,-33.134834,148.165665,-33.134834",
     "geom:latitude":-33.134834,
     "geom:longitude":148.165665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dalton St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203273903,
-    "wof:lastmodified":1449025913,
+    "wof:lastmodified":1466187751,
     "wof:name":"St Vincent de Paul Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [148.165665,-33.134834,148.165665,-33.134834],
-  "geometry": {"coordinates":[148.165665,-33.134834],"type":"Point"}
+  "bbox": [
+    148.165665,
+    -33.134834,
+    148.165665,
+    -33.134834
+],
+  "geometry": {"coordinates":[148.16566499999999,-33.134834],"type":"Point"}
 }

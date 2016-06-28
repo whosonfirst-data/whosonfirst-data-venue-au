@@ -2,13 +2,14 @@
   "id": 203366261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.863998,-37.560799,143.863998,-37.560799",
     "geom:latitude":-37.560799,
     "geom:longitude":143.863998,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Peel St South",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203366261,
-    "wof:lastmodified":1449026348,
+    "wof:lastmodified":1466188958,
     "wof:name":"Go-Towin",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [143.863998,-37.560799,143.863998,-37.560799],
-  "geometry": {"coordinates":[143.863998,-37.560799],"type":"Point"}
+  "bbox": [
+    143.863998,
+    -37.560799,
+    143.863998,
+    -37.560799
+],
+  "geometry": {"coordinates":[143.86399800000001,-37.560799],"type":"Point"}
 }

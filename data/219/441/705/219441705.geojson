@@ -2,13 +2,14 @@
   "id": 219441705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.845871,-32.317169,115.845871,-32.317169",
     "geom:latitude":-32.317169,
     "geom:longitude":115.845871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"561 St Albans Rd",
     "sg:city":"Baldivis",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219441705,
-    "wof:lastmodified":1449070662,
+    "wof:lastmodified":1466188869,
     "wof:name":"Flynn Stockfeed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stock"
     ]
 },
-  "bbox": [115.845871,-32.317169,115.845871,-32.317169],
+  "bbox": [
+    115.845871,
+    -32.317169,
+    115.845871,
+    -32.317169
+],
   "geometry": {"coordinates":[115.845871,-32.317169],"type":"Point"}
 }

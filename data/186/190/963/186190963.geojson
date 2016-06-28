@@ -2,13 +2,14 @@
   "id": 186190963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.883575,-31.451773,152.883575,-31.451773",
     "geom:latitude":-31.451773,
     "geom:longitude":152.883575,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Uralla Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186190963,
-    "wof:lastmodified":1449052860,
+    "wof:lastmodified":1466187008,
     "wof:name":"Pumpability Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [152.883575,-31.451773,152.883575,-31.451773],
-  "geometry": {"coordinates":[152.883575,-31.451773],"type":"Point"}
+  "bbox": [
+    152.883575,
+    -31.451773,
+    152.883575,
+    -31.451773
+],
+  "geometry": {"coordinates":[152.88357500000001,-31.451773],"type":"Point"}
 }

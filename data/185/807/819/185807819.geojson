@@ -2,13 +2,14 @@
   "id": 185807819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.516556,-37.653931,145.516556,-37.653931",
     "geom:latitude":-37.653931,
     "geom:longitude":145.516556,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"201a Maroondah Hwy",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185807819,
-    "wof:lastmodified":1449007017,
+    "wof:lastmodified":1466186910,
     "wof:name":"A J's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [145.516556,-37.653931,145.516556,-37.653931],
-  "geometry": {"coordinates":[145.516556,-37.653931],"type":"Point"}
+  "bbox": [
+    145.516556,
+    -37.653931,
+    145.516556,
+    -37.653931
+],
+  "geometry": {"coordinates":[145.51655600000001,-37.653931],"type":"Point"}
 }

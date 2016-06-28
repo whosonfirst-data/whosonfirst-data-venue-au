@@ -2,13 +2,14 @@
   "id": 202672127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.039413,-27.386547,153.039413,-27.386547",
     "geom:latitude":-27.386547,
     "geom:longitude":153.039413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Corrie St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202672127,
-    "wof:lastmodified":1449060273,
+    "wof:lastmodified":1466188309,
     "wof:name":"Vroom Vroom Vroom",
     "wof:parent_id":85773851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [153.039413,-27.386547,153.039413,-27.386547],
+  "bbox": [
+    153.039413,
+    -27.386547,
+    153.039413,
+    -27.386547
+],
   "geometry": {"coordinates":[153.039413,-27.386547],"type":"Point"}
 }

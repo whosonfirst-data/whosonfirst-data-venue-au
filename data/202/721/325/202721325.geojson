@@ -2,13 +2,14 @@
   "id": 202721325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.020493,-27.348293,153.020493,-27.348293",
     "geom:latitude":-27.348293,
     "geom:longitude":153.020493,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 McCallum St",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202721325,
-    "wof:lastmodified":1449062639,
+    "wof:lastmodified":1466189235,
     "wof:name":"ABEN Hydraulics",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [153.020493,-27.348293,153.020493,-27.348293],
-  "geometry": {"coordinates":[153.020493,-27.348293],"type":"Point"}
+  "bbox": [
+    153.020493,
+    -27.348293,
+    153.020493,
+    -27.348293
+],
+  "geometry": {"coordinates":[153.02049299999999,-27.348293],"type":"Point"}
 }

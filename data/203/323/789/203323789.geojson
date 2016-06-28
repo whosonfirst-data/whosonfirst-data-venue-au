@@ -2,13 +2,14 @@
   "id": 203323789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840683,-37.587086,143.840683,-37.587086",
     "geom:latitude":-37.587086,
     "geom:longitude":143.840683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shops 5&6 58-60 Albert St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203323789,
-    "wof:lastmodified":1449025096,
+    "wof:lastmodified":1466188313,
     "wof:name":"Curves",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [143.840683,-37.587086,143.840683,-37.587086],
-  "geometry": {"coordinates":[143.840683,-37.587086],"type":"Point"}
+  "bbox": [
+    143.840683,
+    -37.587086,
+    143.840683,
+    -37.587086
+],
+  "geometry": {"coordinates":[143.84068300000001,-37.587086],"type":"Point"}
 }

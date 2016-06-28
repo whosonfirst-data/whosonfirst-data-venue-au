@@ -2,13 +2,14 @@
   "id": 185805219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.49147,-37.635628,145.49147,-37.635628",
     "geom:latitude":-37.635628,
     "geom:longitude":145.49147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Chaffer St",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185805219,
-    "wof:lastmodified":1449007139,
+    "wof:lastmodified":1466189945,
     "wof:name":"DJC Engineering Management Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.49147,-37.635628,145.49147,-37.635628],
-  "geometry": {"coordinates":[145.49147,-37.635628],"type":"Point"}
+  "bbox": [
+    145.49147,
+    -37.635628,
+    145.49147,
+    -37.635628
+],
+  "geometry": {"coordinates":[145.49146999999999,-37.635628],"type":"Point"}
 }

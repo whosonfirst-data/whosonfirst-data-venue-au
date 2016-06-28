@@ -2,13 +2,14 @@
   "id": 202727525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.009323,-27.314928,153.009323,-27.314928",
     "geom:latitude":-27.314928,
     "geom:longitude":153.009323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Moorhouse St",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202727525,
-    "wof:lastmodified":1449060489,
+    "wof:lastmodified":1466189351,
     "wof:name":"Sunbeam Owners Club Of Queensland Inc",
     "wof:parent_id":85770329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [153.009323,-27.314928,153.009323,-27.314928],
-  "geometry": {"coordinates":[153.009323,-27.314928],"type":"Point"}
+  "bbox": [
+    153.009323,
+    -27.314928,
+    153.009323,
+    -27.314928
+],
+  "geometry": {"coordinates":[153.00932299999999,-27.314928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185960423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.46611,-33.405846,151.46611,-33.405846",
     "geom:latitude":-33.405846,
     "geom:longitude":151.46611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8b, 15 Forresters Beach Rd",
     "sg:city":"Forresters Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185960423,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466188550,
     "wof:name":"Row, Steve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.46611,-33.405846,151.46611,-33.405846],
-  "geometry": {"coordinates":[151.46611,-33.405846],"type":"Point"}
+  "bbox": [
+    151.46611,
+    -33.405846,
+    151.46611,
+    -33.405846
+],
+  "geometry": {"coordinates":[151.46610999999999,-33.405846],"type":"Point"}
 }

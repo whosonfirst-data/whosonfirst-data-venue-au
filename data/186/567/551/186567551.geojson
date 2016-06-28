@@ -2,13 +2,14 @@
   "id": 186567551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.28476,-33.655113,151.28476,-33.655113",
     "geom:latitude":-33.655113,
     "geom:longitude":151.28476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Minkara Rd",
     "sg:city":"Bayview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186567551,
-    "wof:lastmodified":1449053044,
+    "wof:lastmodified":1466190927,
     "wof:name":"Sumnet Pty Ltd",
     "wof:parent_id":85774673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "satellite"
     ]
 },
-  "bbox": [151.28476,-33.655113,151.28476,-33.655113],
-  "geometry": {"coordinates":[151.28476,-33.655113],"type":"Point"}
+  "bbox": [
+    151.28476,
+    -33.655113,
+    151.28476,
+    -33.655113
+],
+  "geometry": {"coordinates":[151.28476000000001,-33.655113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203217515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.923141,-41.066624,145.923141,-41.066624",
     "geom:latitude":-41.066624,
     "geom:longitude":145.923141,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"341- 343 Bass Hwy",
     "sg:city":"Camdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203217515,
-    "wof:lastmodified":1449026757,
+    "wof:lastmodified":1466187263,
     "wof:name":"Skilled",
     "wof:parent_id":85780725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.923141,-41.066624,145.923141,-41.066624],
-  "geometry": {"coordinates":[145.923141,-41.066624],"type":"Point"}
+  "bbox": [
+    145.923141,
+    -41.066624,
+    145.923141,
+    -41.066624
+],
+  "geometry": {"coordinates":[145.92314099999999,-41.066624],"type":"Point"}
 }

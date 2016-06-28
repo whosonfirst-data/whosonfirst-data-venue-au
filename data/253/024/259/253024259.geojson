@@ -2,13 +2,14 @@
   "id": 253024259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.688004,-37.850006,144.688004,-37.850006",
     "geom:latitude":-37.850006,
     "geom:longitude":144.688004,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Derrimut Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253024259,
-    "wof:lastmodified":1449064243,
+    "wof:lastmodified":1466187402,
     "wof:name":"Air Speed Air Conditioning",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [144.688004,-37.850006,144.688004,-37.850006],
-  "geometry": {"coordinates":[144.688004,-37.850006],"type":"Point"}
+  "bbox": [
+    144.688004,
+    -37.850006,
+    144.688004,
+    -37.850006
+],
+  "geometry": {"coordinates":[144.68800400000001,-37.850006],"type":"Point"}
 }

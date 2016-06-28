@@ -2,13 +2,14 @@
   "id": 236050031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.924484,-37.767979,144.924484,-37.767979",
     "geom:latitude":-37.767979,
     "geom:longitude":144.924484,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1/ 337 Ascot Vale Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236050031,
-    "wof:lastmodified":1449003479,
+    "wof:lastmodified":1466187618,
     "wof:name":"Salcorp Group Pty Ltd",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.924484,-37.767979,144.924484,-37.767979],
-  "geometry": {"coordinates":[144.924484,-37.767979],"type":"Point"}
+  "bbox": [
+    144.924484,
+    -37.767979,
+    144.924484,
+    -37.767979
+],
+  "geometry": {"coordinates":[144.92448400000001,-37.767979],"type":"Point"}
 }

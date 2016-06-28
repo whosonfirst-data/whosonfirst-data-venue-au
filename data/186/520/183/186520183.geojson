@@ -2,13 +2,14 @@
   "id": 186520183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.889099,-31.928057,115.889099,-31.928057",
     "geom:latitude":-31.928057,
     "geom:longitude":115.889099,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, 91-93 Seventh Ave",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":186520183,
-    "wof:lastmodified":1449051279,
+    "wof:lastmodified":1466190568,
     "wof:name":"Anthonys Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "fixer"
     ]
 },
-  "bbox": [115.889099,-31.928057,115.889099,-31.928057],
+  "bbox": [
+    115.889099,
+    -31.928057,
+    115.889099,
+    -31.928057
+],
   "geometry": {"coordinates":[115.889099,-31.928057],"type":"Point"}
 }

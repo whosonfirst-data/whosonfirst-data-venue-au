@@ -2,13 +2,14 @@
   "id": 253056473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.609558,-37.879997,144.609558,-37.879997",
     "geom:latitude":-37.879997,
     "geom:longitude":144.609558,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Eppalock Drv",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253056473,
-    "wof:lastmodified":1449063658,
+    "wof:lastmodified":1466188022,
     "wof:name":"PCF Carpentry",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [144.609558,-37.879997,144.609558,-37.879997],
-  "geometry": {"coordinates":[144.609558,-37.879997],"type":"Point"}
+  "bbox": [
+    144.609558,
+    -37.879997,
+    144.609558,
+    -37.879997
+],
+  "geometry": {"coordinates":[144.60955799999999,-37.879997],"type":"Point"}
 }

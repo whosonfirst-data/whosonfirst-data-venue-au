@@ -2,13 +2,14 @@
   "id": 236343211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.803741,-32.061283,115.803741,-32.061283",
     "geom:latitude":-32.061283,
     "geom:longitude":115.803741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9a Parkinson La",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236343211,
-    "wof:lastmodified":1449004095,
+    "wof:lastmodified":1466190672,
     "wof:name":"Australian Global Exports",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exporter"
     ]
 },
-  "bbox": [115.803741,-32.061283,115.803741,-32.061283],
+  "bbox": [
+    115.803741,
+    -32.061283,
+    115.803741,
+    -32.061283
+],
   "geometry": {"coordinates":[115.803741,-32.061283],"type":"Point"}
 }

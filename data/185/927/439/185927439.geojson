@@ -2,13 +2,14 @@
   "id": 185927439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.541306,-33.263725,151.541306,-33.263725",
     "geom:latitude":-33.263725,
     "geom:longitude":151.541306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1/ 268 Main Rd",
     "sg:city":"Toukley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185927439,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466188294,
     "wof:name":"Edwards Maryanne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relaxation"
     ]
 },
-  "bbox": [151.541306,-33.263725,151.541306,-33.263725],
-  "geometry": {"coordinates":[151.541306,-33.263725],"type":"Point"}
+  "bbox": [
+    151.541306,
+    -33.263725,
+    151.541306,
+    -33.263725
+],
+  "geometry": {"coordinates":[151.54130599999999,-33.263725],"type":"Point"}
 }

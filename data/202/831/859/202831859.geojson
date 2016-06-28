@@ -2,13 +2,14 @@
   "id": 202831859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.157867,-23.525539,148.157867,-23.525539",
     "geom:latitude":-23.525539,
     "geom:longitude":148.157867,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Clermont St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202831859,
-    "wof:lastmodified":1449061603,
+    "wof:lastmodified":1466190434,
     "wof:name":"Central Bike Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [148.157867,-23.525539,148.157867,-23.525539],
-  "geometry": {"coordinates":[148.157867,-23.525539],"type":"Point"}
+  "bbox": [
+    148.157867,
+    -23.525539,
+    148.157867,
+    -23.525539
+],
+  "geometry": {"coordinates":[148.15786700000001,-23.525539],"type":"Point"}
 }

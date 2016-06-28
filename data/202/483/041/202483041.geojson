@@ -2,13 +2,14 @@
   "id": 202483041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.043121,-37.911816,145.043121,-37.911816",
     "geom:latitude":-37.911816,
     "geom:longitude":145.043121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"270B Mckinnon Rd",
     "sg:city":"McKinnon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202483041,
-    "wof:lastmodified":1449062119,
+    "wof:lastmodified":1466189250,
     "wof:name":"Accident Repair Centre Mckinnon",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [145.043121,-37.911816,145.043121,-37.911816],
-  "geometry": {"coordinates":[145.043121,-37.911816],"type":"Point"}
+  "bbox": [
+    145.043121,
+    -37.911816,
+    145.043121,
+    -37.911816
+],
+  "geometry": {"coordinates":[145.04312100000001,-37.911816],"type":"Point"}
 }

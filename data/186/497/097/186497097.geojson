@@ -2,13 +2,14 @@
   "id": 186497097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.786087,-19.311178,146.786087,-19.311178",
     "geom:latitude":-19.311178,
     "geom:longitude":146.786087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Taldora Pl",
     "sg:city":"Annandale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186497097,
-    "wof:lastmodified":1449052998,
+    "wof:lastmodified":1466190619,
     "wof:name":"Bob Patrick Developments",
     "wof:parent_id":85779361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [146.786087,-19.311178,146.786087,-19.311178],
-  "geometry": {"coordinates":[146.786087,-19.311178],"type":"Point"}
+  "bbox": [
+    146.786087,
+    -19.311178,
+    146.786087,
+    -19.311178
+],
+  "geometry": {"coordinates":[146.78608700000001,-19.311178],"type":"Point"}
 }

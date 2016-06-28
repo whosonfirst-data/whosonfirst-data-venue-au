@@ -2,13 +2,14 @@
   "id": 219921403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.767975,-36.105808,144.767975,-36.105808",
     "geom:latitude":-36.105808,
     "geom:longitude":144.767975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hickey Drv",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219921403,
-    "wof:lastmodified":1449072651,
+    "wof:lastmodified":1466191776,
     "wof:name":"Aussie Gumboot Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "footwear"
     ]
 },
-  "bbox": [144.767975,-36.105808,144.767975,-36.105808],
-  "geometry": {"coordinates":[144.767975,-36.105808],"type":"Point"}
+  "bbox": [
+    144.767975,
+    -36.105808,
+    144.767975,
+    -36.105808
+],
+  "geometry": {"coordinates":[144.76797500000001,-36.105808],"type":"Point"}
 }

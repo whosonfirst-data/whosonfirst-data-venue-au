@@ -2,13 +2,14 @@
   "id": 202490653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.043518,-37.90424,145.043518,-37.90424",
     "geom:latitude":-37.90424,
     "geom:longitude":145.043518,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"561A North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202490653,
-    "wof:lastmodified":1449062387,
+    "wof:lastmodified":1466189416,
     "wof:name":"Izaak Presser Psychotherapist",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [145.043518,-37.90424,145.043518,-37.90424],
-  "geometry": {"coordinates":[145.043518,-37.90424],"type":"Point"}
+  "bbox": [
+    145.043518,
+    -37.90424,
+    145.043518,
+    -37.90424
+],
+  "geometry": {"coordinates":[145.04351800000001,-37.90424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202761285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.778183,-32.928284,151.778183,-32.928284",
     "geom:latitude":-32.928284,
     "geom:longitude":151.778183,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Perkins St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202761285,
-    "wof:lastmodified":1449062051,
+    "wof:lastmodified":1466189866,
     "wof:name":"James Ross Group",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.778183,-32.928284,151.778183,-32.928284],
-  "geometry": {"coordinates":[151.778183,-32.928284],"type":"Point"}
+  "bbox": [
+    151.778183,
+    -32.928284,
+    151.778183,
+    -32.928284
+],
+  "geometry": {"coordinates":[151.77818300000001,-32.928284],"type":"Point"}
 }

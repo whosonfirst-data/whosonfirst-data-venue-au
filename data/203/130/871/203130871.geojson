@@ -2,13 +2,14 @@
   "id": 203130871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.722298,-32.533054,115.722298,-32.533054",
     "geom:latitude":-32.533054,
     "geom:longitude":115.722298,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"National Bank Buiding Unit 2, 12 Sutton St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203130871,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466189517,
     "wof:name":"Bouvard Settlements",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "wa"
     ]
 },
-  "bbox": [115.722298,-32.533054,115.722298,-32.533054],
-  "geometry": {"coordinates":[115.722298,-32.533054],"type":"Point"}
+  "bbox": [
+    115.722298,
+    -32.533054,
+    115.722298,
+    -32.533054
+],
+  "geometry": {"coordinates":[115.72229799999999,-32.533054],"type":"Point"}
 }

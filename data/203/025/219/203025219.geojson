@@ -2,13 +2,14 @@
   "id": 203025219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.131454,-36.643669,147.131454,-36.643669",
     "geom:latitude":-36.643669,
     "geom:longitude":147.131454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Reids La",
     "sg:city":"Tawonga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203025219,
-    "wof:lastmodified":1449026541,
+    "wof:lastmodified":1466187702,
     "wof:name":"Coral Bank Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.131454,-36.643669,147.131454,-36.643669],
-  "geometry": {"coordinates":[147.131454,-36.643669],"type":"Point"}
+  "bbox": [
+    147.131454,
+    -36.643669,
+    147.131454,
+    -36.643669
+],
+  "geometry": {"coordinates":[147.13145399999999,-36.643669],"type":"Point"}
 }

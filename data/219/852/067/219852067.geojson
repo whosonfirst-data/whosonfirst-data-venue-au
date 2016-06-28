@@ -2,13 +2,14 @@
   "id": 219852067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.174347,-33.857822,151.174347,-33.857822",
     "geom:latitude":-33.857822,
     "geom:longitude":151.174347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 A Elliott St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219852067,
-    "wof:lastmodified":1449073318,
+    "wof:lastmodified":1466191525,
     "wof:name":"Lachlan Project Management",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [151.174347,-33.857822,151.174347,-33.857822],
-  "geometry": {"coordinates":[151.174347,-33.857822],"type":"Point"}
+  "bbox": [
+    151.174347,
+    -33.857822,
+    151.174347,
+    -33.857822
+],
+  "geometry": {"coordinates":[151.17434700000001,-33.857822],"type":"Point"}
 }

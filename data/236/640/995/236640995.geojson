@@ -2,13 +2,14 @@
   "id": 236640995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.849693,-32.618584,115.849693,-32.618584",
     "geom:latitude":-32.618584,
     "geom:longitude":115.849693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 500 Field St",
     "sg:city":"Pinjarra",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236640995,
-    "wof:lastmodified":1449003023,
+    "wof:lastmodified":1466191733,
     "wof:name":"Pinjarra Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [115.849693,-32.618584,115.849693,-32.618584],
+  "bbox": [
+    115.849693,
+    -32.618584,
+    115.849693,
+    -32.618584
+],
   "geometry": {"coordinates":[115.849693,-32.618584],"type":"Point"}
 }

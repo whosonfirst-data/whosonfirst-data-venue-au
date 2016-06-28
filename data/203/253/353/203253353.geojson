@@ -2,13 +2,14 @@
   "id": 203253353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.014236,-33.376923,148.014236,-33.376923",
     "geom:latitude":-33.376923,
     "geom:longitude":148.014236,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sam St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203253353,
-    "wof:lastmodified":1449026629,
+    "wof:lastmodified":1466187599,
     "wof:name":"Forbes Indoor Cricket Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ground"
     ]
 },
-  "bbox": [148.014236,-33.376923,148.014236,-33.376923],
-  "geometry": {"coordinates":[148.014236,-33.376923],"type":"Point"}
+  "bbox": [
+    148.014236,
+    -33.376923,
+    148.014236,
+    -33.376923
+],
+  "geometry": {"coordinates":[148.01423600000001,-33.376923],"type":"Point"}
 }

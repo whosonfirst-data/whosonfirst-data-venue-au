@@ -2,13 +2,14 @@
   "id": 220149365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355865,-38.142426,144.355865,-38.142426",
     "geom:latitude":-38.142426,
     "geom:longitude":144.355865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220149365,
-    "wof:lastmodified":1449074060,
+    "wof:lastmodified":1466188579,
     "wof:name":"Rex Gorell Mitsubishi",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [144.355865,-38.142426,144.355865,-38.142426],
-  "geometry": {"coordinates":[144.355865,-38.142426],"type":"Point"}
+  "bbox": [
+    144.355865,
+    -38.142426,
+    144.355865,
+    -38.142426
+],
+  "geometry": {"coordinates":[144.35586499999999,-38.142426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202883489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.014008,-30.488728,153.014008,-30.488728",
     "geom:latitude":-30.488728,
     "geom:longitude":153.014008,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Vernon Crs",
     "sg:city":"Urunga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202883489,
-    "wof:lastmodified":1449062062,
+    "wof:lastmodified":1466190484,
     "wof:name":"Coastal Linemarking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "road"
     ]
 },
-  "bbox": [153.014008,-30.488728,153.014008,-30.488728],
-  "geometry": {"coordinates":[153.014008,-30.488728],"type":"Point"}
+  "bbox": [
+    153.014008,
+    -30.488728,
+    153.014008,
+    -30.488728
+],
+  "geometry": {"coordinates":[153.01400799999999,-30.488728],"type":"Point"}
 }

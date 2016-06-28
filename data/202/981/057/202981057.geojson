@@ -2,13 +2,14 @@
   "id": 202981057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.186646,-33.795349,151.186646,-33.795349",
     "geom:latitude":-33.795349,
     "geom:longitude":151.186646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 5, 282 Victoria Ave",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202981057,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466191139,
     "wof:name":"David Schofield",
     "wof:parent_id":85769015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [151.186646,-33.795349,151.186646,-33.795349],
+  "bbox": [
+    151.186646,
+    -33.795349,
+    151.186646,
+    -33.795349
+],
   "geometry": {"coordinates":[151.186646,-33.795349],"type":"Point"}
 }

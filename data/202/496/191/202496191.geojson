@@ -2,13 +2,14 @@
   "id": 202496191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.043411,-37.904224,145.043411,-37.904224",
     "geom:latitude":-37.904224,
     "geom:longitude":145.043411,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"559 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202496191,
-    "wof:lastmodified":1449062276,
+    "wof:lastmodified":1466189487,
     "wof:name":"North Road Fish Suppliers",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [145.043411,-37.904224,145.043411,-37.904224],
-  "geometry": {"coordinates":[145.043411,-37.904224],"type":"Point"}
+  "bbox": [
+    145.043411,
+    -37.904224,
+    145.043411,
+    -37.904224
+],
+  "geometry": {"coordinates":[145.04341099999999,-37.904224],"type":"Point"}
 }

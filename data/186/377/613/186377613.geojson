@@ -2,13 +2,14 @@
   "id": 186377613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.155075,-33.853184,151.155075,-33.853184",
     "geom:latitude":-33.853184,
     "geom:longitude":151.155075,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186377613,
-    "wof:lastmodified":1449051391,
+    "wof:lastmodified":1466188958,
     "wof:name":"Drummoyne Shoe Repairs",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [151.155075,-33.853184,151.155075,-33.853184],
-  "geometry": {"coordinates":[151.155075,-33.853184],"type":"Point"}
+  "bbox": [
+    151.155075,
+    -33.853184,
+    151.155075,
+    -33.853184
+],
+  "geometry": {"coordinates":[151.15507500000001,-33.853184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235934011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.569702,-38.179699,144.569702,-38.179699",
     "geom:latitude":-38.179699,
     "geom:longitude":144.569702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Princess St",
     "sg:city":"Drysdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235934011,
-    "wof:lastmodified":1449008294,
+    "wof:lastmodified":1466186924,
     "wof:name":"Doneden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.569702,-38.179699,144.569702,-38.179699],
-  "geometry": {"coordinates":[144.569702,-38.179699],"type":"Point"}
+  "bbox": [
+    144.569702,
+    -38.179699,
+    144.569702,
+    -38.179699
+],
+  "geometry": {"coordinates":[144.56970200000001,-38.179699],"type":"Point"}
 }

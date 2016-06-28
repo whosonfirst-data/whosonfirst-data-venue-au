@@ -2,13 +2,14 @@
   "id": 236035579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.794785,-37.710579,144.794785,-37.710579",
     "geom:latitude":-37.710579,
     "geom:longitude":144.794785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Coorong Crt",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236035579,
-    "wof:lastmodified":1449004485,
+    "wof:lastmodified":1466187329,
     "wof:name":"B & C Drafting Pty Ltd",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [144.794785,-37.710579,144.794785,-37.710579],
-  "geometry": {"coordinates":[144.794785,-37.710579],"type":"Point"}
+  "bbox": [
+    144.794785,
+    -37.710579,
+    144.794785,
+    -37.710579
+],
+  "geometry": {"coordinates":[144.79478499999999,-37.710579],"type":"Point"}
 }

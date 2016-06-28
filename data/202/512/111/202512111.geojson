@@ -2,13 +2,14 @@
   "id": 202512111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.166504,-38.103645,145.166504,-38.103645",
     "geom:latitude":-38.103645,
     "geom:longitude":145.166504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 1 Titan Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202512111,
-    "wof:lastmodified":1449061953,
+    "wof:lastmodified":1466189678,
     "wof:name":"Rebel Tyre Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [145.166504,-38.103645,145.166504,-38.103645],
+  "bbox": [
+    145.166504,
+    -38.103645,
+    145.166504,
+    -38.103645
+],
   "geometry": {"coordinates":[145.166504,-38.103645],"type":"Point"}
 }

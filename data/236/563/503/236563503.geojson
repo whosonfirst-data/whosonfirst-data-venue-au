@@ -2,13 +2,14 @@
   "id": 236563503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.006134,-33.935139,151.006134,-33.935139",
     "geom:latitude":-33.935139,
     "geom:longitude":151.006134,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Violet St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236563503,
-    "wof:lastmodified":1449001717,
+    "wof:lastmodified":1466191514,
     "wof:name":"CMD Majestic",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.006134,-33.935139,151.006134,-33.935139],
+  "bbox": [
+    151.006134,
+    -33.935139,
+    151.006134,
+    -33.935139
+],
   "geometry": {"coordinates":[151.006134,-33.935139],"type":"Point"}
 }

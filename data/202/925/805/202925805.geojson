@@ -2,13 +2,14 @@
   "id": 202925805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.111267,-30.288794,153.111267,-30.288794",
     "geom:latitude":-30.288794,
     "geom:longitude":153.111267,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Beryl St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202925805,
-    "wof:lastmodified":1449060131,
+    "wof:lastmodified":1466190740,
     "wof:name":"Computing 2 Business",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [153.111267,-30.288794,153.111267,-30.288794],
+  "bbox": [
+    153.111267,
+    -30.288794,
+    153.111267,
+    -30.288794
+],
   "geometry": {"coordinates":[153.111267,-30.288794],"type":"Point"}
 }

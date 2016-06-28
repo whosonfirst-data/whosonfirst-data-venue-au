@@ -2,13 +2,14 @@
   "id": 203352035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.865509,-37.546169,143.865509,-37.546169",
     "geom:latitude":-37.546169,
     "geom:longitude":143.865509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gregory St",
     "sg:city":"Ballarat West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203352035,
-    "wof:lastmodified":1449026102,
+    "wof:lastmodified":1466188712,
     "wof:name":"TLP Couriers Pty Ltd",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [143.865509,-37.546169,143.865509,-37.546169],
+  "bbox": [
+    143.865509,
+    -37.546169,
+    143.865509,
+    -37.546169
+],
   "geometry": {"coordinates":[143.865509,-37.546169],"type":"Point"}
 }

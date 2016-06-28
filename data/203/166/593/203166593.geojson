@@ -2,13 +2,14 @@
   "id": 203166593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.986908,-36.550812,145.986908,-36.550812",
     "geom:latitude":-36.550812,
     "geom:longitude":145.986908,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Bridge St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203166593,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466189782,
     "wof:name":"OzPlan Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [145.986908,-36.550812,145.986908,-36.550812],
+  "bbox": [
+    145.986908,
+    -36.550812,
+    145.986908,
+    -36.550812
+],
   "geometry": {"coordinates":[145.986908,-36.550812],"type":"Point"}
 }

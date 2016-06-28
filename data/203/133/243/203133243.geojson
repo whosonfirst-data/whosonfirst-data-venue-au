@@ -2,13 +2,14 @@
   "id": 203133243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.737328,-32.517464,115.737328,-32.517464",
     "geom:latitude":-32.517464,
     "geom:longitude":115.737328,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Tindale St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203133243,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466189559,
     "wof:name":"Murray Districts Brake & Clutch Service",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brake"
     ]
 },
-  "bbox": [115.737328,-32.517464,115.737328,-32.517464],
-  "geometry": {"coordinates":[115.737328,-32.517464],"type":"Point"}
+  "bbox": [
+    115.737328,
+    -32.517464,
+    115.737328,
+    -32.517464
+],
+  "geometry": {"coordinates":[115.73732800000001,-32.517464],"type":"Point"}
 }

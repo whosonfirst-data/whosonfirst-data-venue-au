@@ -2,13 +2,14 @@
   "id": 219635119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.105499,-33.926517,151.105499,-33.926517",
     "geom:latitude":-33.926517,
     "geom:longitude":151.105499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Tasker Ave",
     "sg:city":"Clemton Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219635119,
-    "wof:lastmodified":1449071918,
+    "wof:lastmodified":1466190805,
     "wof:name":"Doggie's Upholstery",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [151.105499,-33.926517,151.105499,-33.926517],
-  "geometry": {"coordinates":[151.105499,-33.926517],"type":"Point"}
+  "bbox": [
+    151.105499,
+    -33.926517,
+    151.105499,
+    -33.926517
+],
+  "geometry": {"coordinates":[151.10549900000001,-33.926517],"type":"Point"}
 }

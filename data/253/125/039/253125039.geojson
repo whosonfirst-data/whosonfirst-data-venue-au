@@ -2,13 +2,14 @@
   "id": 253125039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.057434,-27.269802,152.057434,-27.269802",
     "geom:latitude":-27.269802,
     "geom:longitude":152.057434,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"New England Hwy",
     "sg:city":"Crows Nest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253125039,
-    "wof:lastmodified":1449065701,
+    "wof:lastmodified":1466189213,
     "wof:name":"Crows Nest Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.057434,-27.269802,152.057434,-27.269802],
+  "bbox": [
+    152.057434,
+    -27.269802,
+    152.057434,
+    -27.269802
+],
   "geometry": {"coordinates":[152.057434,-27.269802],"type":"Point"}
 }

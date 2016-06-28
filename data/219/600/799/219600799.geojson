@@ -2,13 +2,14 @@
   "id": 219600799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.159851,-33.90461,151.159851,-33.90461",
     "geom:latitude":-33.90461,
     "geom:longitude":151.159851,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Woodland St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219600799,
-    "wof:lastmodified":1449070714,
+    "wof:lastmodified":1466190696,
     "wof:name":"smART# Shift",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [151.159851,-33.90461,151.159851,-33.90461],
+  "bbox": [
+    151.159851,
+    -33.90461,
+    151.159851,
+    -33.90461
+],
   "geometry": {"coordinates":[151.159851,-33.90461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219640749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.114166,-33.939663,151.114166,-33.939663",
     "geom:latitude":-33.939663,
     "geom:longitude":151.114166,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 New Illawarra Rd",
     "sg:city":"Bexley North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219640749,
-    "wof:lastmodified":1449071919,
+    "wof:lastmodified":1466191044,
     "wof:name":"Gerry's Sheepskins",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheepskin"
     ]
 },
-  "bbox": [151.114166,-33.939663,151.114166,-33.939663],
-  "geometry": {"coordinates":[151.114166,-33.939663],"type":"Point"}
+  "bbox": [
+    151.114166,
+    -33.939663,
+    151.114166,
+    -33.939663
+],
+  "geometry": {"coordinates":[151.11416600000001,-33.939663],"type":"Point"}
 }

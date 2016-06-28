@@ -2,13 +2,14 @@
   "id": 236055805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.905823,-37.768005,144.905823,-37.768005",
     "geom:latitude":-37.768005,
     "geom:longitude":144.905823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6, 38 Scotia Drv",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236055805,
-    "wof:lastmodified":1449002236,
+    "wof:lastmodified":1466187733,
     "wof:name":"Daryl Wheatcroft",
     "wof:parent_id":85776547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [144.905823,-37.768005,144.905823,-37.768005],
+  "bbox": [
+    144.905823,
+    -37.768005,
+    144.905823,
+    -37.768005
+],
   "geometry": {"coordinates":[144.905823,-37.768005],"type":"Point"}
 }

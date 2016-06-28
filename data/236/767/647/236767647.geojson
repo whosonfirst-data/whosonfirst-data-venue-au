@@ -2,13 +2,14 @@
   "id": 236767647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.978027,-27.079908,152.978027,-27.079908",
     "geom:latitude":-27.079908,
     "geom:longitude":152.978027,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Learjet Drv",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236767647,
-    "wof:lastmodified":1449002413,
+    "wof:lastmodified":1466191920,
     "wof:name":"Aussie Auto",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [152.978027,-27.079908,152.978027,-27.079908],
+  "bbox": [
+    152.978027,
+    -27.079908,
+    152.978027,
+    -27.079908
+],
   "geometry": {"coordinates":[152.978027,-27.079908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202695713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.04892,-27.362751,153.04892,-27.362751",
     "geom:latitude":-27.362751,
     "geom:longitude":153.04892,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Newman Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202695713,
-    "wof:lastmodified":1449061074,
+    "wof:lastmodified":1466188742,
     "wof:name":"Parrella Tiles",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wall"
     ]
 },
-  "bbox": [153.04892,-27.362751,153.04892,-27.362751],
-  "geometry": {"coordinates":[153.04892,-27.362751],"type":"Point"}
+  "bbox": [
+    153.04892,
+    -27.362751,
+    153.04892,
+    -27.362751
+],
+  "geometry": {"coordinates":[153.04892000000001,-27.362751],"type":"Point"}
 }

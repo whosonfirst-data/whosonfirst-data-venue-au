@@ -2,13 +2,14 @@
   "id": 203153237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.965393,-36.543602,145.965393,-36.543602",
     "geom:latitude":-36.543602,
     "geom:longitude":145.965393,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Faithfull St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203153237,
-    "wof:lastmodified":1449026285,
+    "wof:lastmodified":1466189681,
     "wof:name":"Levy R W & J D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.965393,-36.543602,145.965393,-36.543602],
-  "geometry": {"coordinates":[145.965393,-36.543602],"type":"Point"}
+  "bbox": [
+    145.965393,
+    -36.543602,
+    145.965393,
+    -36.543602
+],
+  "geometry": {"coordinates":[145.96539300000001,-36.543602],"type":"Point"}
 }

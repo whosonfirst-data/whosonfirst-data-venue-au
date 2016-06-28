@@ -2,13 +2,14 @@
   "id": 253028291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.758987,-37.868404,144.758987,-37.868404",
     "geom:latitude":-37.868404,
     "geom:longitude":144.758987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Oakdene Gr",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253028291,
-    "wof:lastmodified":1449064431,
+    "wof:lastmodified":1466187481,
     "wof:name":"The Plumbing Company",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.758987,-37.868404,144.758987,-37.868404],
-  "geometry": {"coordinates":[144.758987,-37.868404],"type":"Point"}
+  "bbox": [
+    144.758987,
+    -37.868404,
+    144.758987,
+    -37.868404
+],
+  "geometry": {"coordinates":[144.75898699999999,-37.868404],"type":"Point"}
 }

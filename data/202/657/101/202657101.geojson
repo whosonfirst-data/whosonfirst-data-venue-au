@@ -2,13 +2,14 @@
   "id": 202657101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.034653,-27.423666,153.034653,-27.423666",
     "geom:latitude":-27.423666,
     "geom:longitude":153.034653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 East St",
     "sg:city":"Lutwyche",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202657101,
-    "wof:lastmodified":1449060391,
+    "wof:lastmodified":1466188018,
     "wof:name":"Aussie Green Thumbs",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [153.034653,-27.423666,153.034653,-27.423666],
-  "geometry": {"coordinates":[153.034653,-27.423666],"type":"Point"}
+  "bbox": [
+    153.034653,
+    -27.423666,
+    153.034653,
+    -27.423666
+],
+  "geometry": {"coordinates":[153.03465299999999,-27.423666],"type":"Point"}
 }

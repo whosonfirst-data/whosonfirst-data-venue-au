@@ -2,13 +2,14 @@
   "id": 202461405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961746,-37.835308,144.961746,-37.835308",
     "geom:latitude":-37.835308,
     "geom:longitude":144.961746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Park St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202461405,
-    "wof:lastmodified":1449061070,
+    "wof:lastmodified":1466188960,
     "wof:name":"Sun Zone Tanning Studios",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [144.961746,-37.835308,144.961746,-37.835308],
-  "geometry": {"coordinates":[144.961746,-37.835308],"type":"Point"}
+  "bbox": [
+    144.961746,
+    -37.835308,
+    144.961746,
+    -37.835308
+],
+  "geometry": {"coordinates":[144.96174600000001,-37.835308],"type":"Point"}
 }

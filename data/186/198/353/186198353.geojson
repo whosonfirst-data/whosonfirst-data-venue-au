@@ -2,13 +2,14 @@
   "id": 186198353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.909897,-31.432638,152.909897,-31.432638",
     "geom:latitude":-31.432638,
     "geom:longitude":152.909897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hay St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186198353,
-    "wof:lastmodified":1449051360,
+    "wof:lastmodified":1466187059,
     "wof:name":"Rydges Port Macquarie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [152.909897,-31.432638,152.909897,-31.432638],
+  "bbox": [
+    152.909897,
+    -31.432638,
+    152.909897,
+    -31.432638
+],
   "geometry": {"coordinates":[152.909897,-31.432638],"type":"Point"}
 }

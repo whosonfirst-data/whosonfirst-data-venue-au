@@ -2,13 +2,14 @@
   "id": 236079343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.754135,-37.896065,144.754135,-37.896065",
     "geom:latitude":-37.896065,
     "geom:longitude":144.754135,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 14, Sanctuary Lakes Shopping Centre, Point Co",
     "sg:city":"Point Cook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236079343,
-    "wof:lastmodified":1449004584,
+    "wof:lastmodified":1466188212,
     "wof:name":"Bakers Delight Ltd",
     "wof:parent_id":85780023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.754135,-37.896065,144.754135,-37.896065],
-  "geometry": {"coordinates":[144.754135,-37.896065],"type":"Point"}
+  "bbox": [
+    144.754135,
+    -37.896065,
+    144.754135,
+    -37.896065
+],
+  "geometry": {"coordinates":[144.75413499999999,-37.896065],"type":"Point"}
 }

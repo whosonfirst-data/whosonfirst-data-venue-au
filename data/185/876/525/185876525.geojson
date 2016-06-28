@@ -2,13 +2,14 @@
   "id": 185876525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.697144,-25.527166,152.697144,-25.527166",
     "geom:latitude":-25.527166,
     "geom:longitude":152.697144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"163b Pallas St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185876525,
-    "wof:lastmodified":1449006940,
+    "wof:lastmodified":1466187638,
     "wof:name":"Box's N Packaging",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cardboard"
     ]
 },
-  "bbox": [152.697144,-25.527166,152.697144,-25.527166],
-  "geometry": {"coordinates":[152.697144,-25.527166],"type":"Point"}
+  "bbox": [
+    152.697144,
+    -25.527166,
+    152.697144,
+    -25.527166
+],
+  "geometry": {"coordinates":[152.69714400000001,-25.527166],"type":"Point"}
 }

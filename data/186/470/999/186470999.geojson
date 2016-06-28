@@ -2,13 +2,14 @@
   "id": 186470999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157196,-33.885715,151.157196,-33.885715",
     "geom:latitude":-33.885715,
     "geom:longitude":151.157196,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Norton St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186470999,
-    "wof:lastmodified":1449051045,
+    "wof:lastmodified":1466190191,
     "wof:name":"Norton Street Physiotherapy",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.157196,-33.885715,151.157196,-33.885715],
+  "bbox": [
+    151.157196,
+    -33.885715,
+    151.157196,
+    -33.885715
+],
   "geometry": {"coordinates":[151.157196,-33.885715],"type":"Point"}
 }

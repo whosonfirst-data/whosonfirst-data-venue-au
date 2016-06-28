@@ -2,13 +2,14 @@
   "id": 203216977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.923141,-41.066624,145.923141,-41.066624",
     "geom:latitude":-41.066624,
     "geom:longitude":145.923141,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Bass Hwy",
     "sg:city":"Camdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203216977,
-    "wof:lastmodified":1449026657,
+    "wof:lastmodified":1466187257,
     "wof:name":"Peter J Sutcliffe",
     "wof:parent_id":85780725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reproduction"
     ]
 },
-  "bbox": [145.923141,-41.066624,145.923141,-41.066624],
-  "geometry": {"coordinates":[145.923141,-41.066624],"type":"Point"}
+  "bbox": [
+    145.923141,
+    -41.066624,
+    145.923141,
+    -41.066624
+],
+  "geometry": {"coordinates":[145.92314099999999,-41.066624],"type":"Point"}
 }

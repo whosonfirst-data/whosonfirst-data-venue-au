@@ -2,13 +2,14 @@
   "id": 220015319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.578415,-35.021568,138.578415,-35.021568",
     "geom:latitude":-35.021568,
     "geom:longitude":138.578415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Sherwood Ave",
     "sg:city":"Bellevue Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220015319,
-    "wof:lastmodified":1449074229,
+    "wof:lastmodified":1466187046,
     "wof:name":"Lawrence D M",
     "wof:parent_id":85769151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [138.578415,-35.021568,138.578415,-35.021568],
-  "geometry": {"coordinates":[138.578415,-35.021568],"type":"Point"}
+  "bbox": [
+    138.578415,
+    -35.021568,
+    138.578415,
+    -35.021568
+],
+  "geometry": {"coordinates":[138.57841500000001,-35.021568],"type":"Point"}
 }

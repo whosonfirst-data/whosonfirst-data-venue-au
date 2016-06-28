@@ -2,13 +2,14 @@
   "id": 235955711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.895416,-12.377002,130.895416,-12.377002",
     "geom:latitude":-12.377002,
     "geom:longitude":130.895416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Leanyer Drv",
     "sg:city":"Leanyer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235955711,
-    "wof:lastmodified":1449008478,
+    "wof:lastmodified":1466187147,
     "wof:name":"Jackson Bronwyn",
     "wof:parent_id":85774863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [130.895416,-12.377002,130.895416,-12.377002],
-  "geometry": {"coordinates":[130.895416,-12.377002],"type":"Point"}
+  "bbox": [
+    130.895416,
+    -12.377002,
+    130.895416,
+    -12.377002
+],
+  "geometry": {"coordinates":[130.89541600000001,-12.377002],"type":"Point"}
 }

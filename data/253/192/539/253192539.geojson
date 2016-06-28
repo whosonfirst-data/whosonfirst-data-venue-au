@@ -2,13 +2,14 @@
   "id": 253192539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.905502,-27.569286,151.905502,-27.569286",
     "geom:latitude":-27.569286,
     "geom:longitude":151.905502,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"451 McDougall St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253192539,
-    "wof:lastmodified":1449064928,
+    "wof:lastmodified":1466190191,
     "wof:name":"Darling Downs Christian School And Preparatory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.905502,-27.569286,151.905502,-27.569286],
-  "geometry": {"coordinates":[151.905502,-27.569286],"type":"Point"}
+  "bbox": [
+    151.905502,
+    -27.569286,
+    151.905502,
+    -27.569286
+],
+  "geometry": {"coordinates":[151.90550200000001,-27.569286],"type":"Point"}
 }

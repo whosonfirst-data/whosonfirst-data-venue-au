@@ -2,13 +2,14 @@
   "id": 202983761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.205795,-33.832615,151.205795,-33.832615",
     "geom:latitude":-33.832615,
     "geom:longitude":151.205795,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 5, 5 Ridge St",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202983761,
-    "wof:lastmodified":1449062443,
+    "wof:lastmodified":1466191224,
     "wof:name":"Pinkerton Australia",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.205795,-33.832615,151.205795,-33.832615],
-  "geometry": {"coordinates":[151.205795,-33.832615],"type":"Point"}
+  "bbox": [
+    151.205795,
+    -33.832615,
+    151.205795,
+    -33.832615
+],
+  "geometry": {"coordinates":[151.20579499999999,-33.832615],"type":"Point"}
 }

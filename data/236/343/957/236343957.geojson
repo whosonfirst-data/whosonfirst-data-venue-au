@@ -2,13 +2,14 @@
   "id": 236343957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.839577,-32.085754,115.839577,-32.085754",
     "geom:latitude":-32.085754,
     "geom:longitude":115.839577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hope Rd Cnr Bibra Drive Bibra Lake",
     "sg:city":"Bibra Lake",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236343957,
-    "wof:lastmodified":1449004099,
+    "wof:lastmodified":1466190677,
     "wof:name":"Blue Gum Montessori School",
     "wof:parent_id":85775725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.839577,-32.085754,115.839577,-32.085754],
-  "geometry": {"coordinates":[115.839577,-32.085754],"type":"Point"}
+  "bbox": [
+    115.839577,
+    -32.085754,
+    115.839577,
+    -32.085754
+],
+  "geometry": {"coordinates":[115.83957700000001,-32.085754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236960149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.472412,-37.919582,145.472412,-37.919582",
     "geom:latitude":-37.919582,
     "geom:longitude":145.472412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Margaret Rd",
     "sg:city":"Avonsleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236960149,
-    "wof:lastmodified":1449004131,
+    "wof:lastmodified":1466192214,
     "wof:name":"Enterprise Network Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [145.472412,-37.919582,145.472412,-37.919582],
-  "geometry": {"coordinates":[145.472412,-37.919582],"type":"Point"}
+  "bbox": [
+    145.472412,
+    -37.919582,
+    145.472412,
+    -37.919582
+],
+  "geometry": {"coordinates":[145.47241199999999,-37.919582],"type":"Point"}
 }

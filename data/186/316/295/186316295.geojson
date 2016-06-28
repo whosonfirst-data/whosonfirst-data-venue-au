@@ -2,13 +2,14 @@
   "id": 186316295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.97261,-31.805664,115.97261,-31.805664",
     "geom:latitude":-31.805664,
     "geom:longitude":115.97261,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Henley St",
     "sg:city":"Henley Brook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186316295,
-    "wof:lastmodified":1449052190,
+    "wof:lastmodified":1466187899,
     "wof:name":"Steweys Brick Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [115.97261,-31.805664,115.97261,-31.805664],
+  "bbox": [
+    115.97261,
+    -31.805664,
+    115.97261,
+    -31.805664
+],
   "geometry": {"coordinates":[115.97261,-31.805664],"type":"Point"}
 }

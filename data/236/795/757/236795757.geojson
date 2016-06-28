@@ -2,13 +2,14 @@
   "id": 236795757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.981659,-34.190643,150.981659,-34.190643",
     "geom:latitude":-34.190643,
     "geom:longitude":150.981659,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Parkes St",
     "sg:city":"Helensburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236795757,
-    "wof:lastmodified":1449003631,
+    "wof:lastmodified":1466191944,
     "wof:name":"Lister Mason & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [150.981659,-34.190643,150.981659,-34.190643],
-  "geometry": {"coordinates":[150.981659,-34.190643],"type":"Point"}
+  "bbox": [
+    150.981659,
+    -34.190643,
+    150.981659,
+    -34.190643
+],
+  "geometry": {"coordinates":[150.98165900000001,-34.190643],"type":"Point"}
 }

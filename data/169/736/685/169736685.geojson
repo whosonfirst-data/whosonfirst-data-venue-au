@@ -2,13 +2,14 @@
   "id": 169736685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"131.001434,-12.477924,131.001434,-12.477924",
     "geom:latitude":-12.477924,
     "geom:longitude":131.001434,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Stuart Hwy",
     "sg:city":"(Cnr Yarrawonga Rd) Palmerston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169736685,
-    "wof:lastmodified":1449035931,
+    "wof:lastmodified":1466187494,
     "wof:name":"Shell Palmerston Self Serve",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [131.001434,-12.477924,131.001434,-12.477924],
-  "geometry": {"coordinates":[131.001434,-12.477924],"type":"Point"}
+  "bbox": [
+    131.001434,
+    -12.477924,
+    131.001434,
+    -12.477924
+],
+  "geometry": {"coordinates":[131.00143399999999,-12.477924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186469969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.161041,-33.887753,151.161041,-33.887753",
     "geom:latitude":-33.887753,
     "geom:longitude":151.161041,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"297 Parramatta Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186469969,
-    "wof:lastmodified":1449053082,
+    "wof:lastmodified":1466190175,
     "wof:name":"Novita Boutique",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boutique"
     ]
 },
-  "bbox": [151.161041,-33.887753,151.161041,-33.887753],
-  "geometry": {"coordinates":[151.161041,-33.887753],"type":"Point"}
+  "bbox": [
+    151.161041,
+    -33.887753,
+    151.161041,
+    -33.887753
+],
+  "geometry": {"coordinates":[151.16104100000001,-33.887753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219598181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.155716,-33.910355,151.155716,-33.910355",
     "geom:latitude":-33.910355,
     "geom:longitude":151.155716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Marrickville Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219598181,
-    "wof:lastmodified":1449070566,
+    "wof:lastmodified":1466190680,
     "wof:name":"Braga A M Dr",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.155716,-33.910355,151.155716,-33.910355],
-  "geometry": {"coordinates":[151.155716,-33.910355],"type":"Point"}
+  "bbox": [
+    151.155716,
+    -33.910355,
+    151.155716,
+    -33.910355
+],
+  "geometry": {"coordinates":[151.15571600000001,-33.910355],"type":"Point"}
 }

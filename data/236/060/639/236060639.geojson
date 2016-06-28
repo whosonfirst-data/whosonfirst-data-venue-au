@@ -2,13 +2,14 @@
   "id": 236060639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.925095,-37.765987,144.925095,-37.765987",
     "geom:latitude":-37.765987,
     "geom:longitude":144.925095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Pascoe Vale & Mt Alexander Rds",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236060639,
-    "wof:lastmodified":1449004891,
+    "wof:lastmodified":1466187836,
     "wof:name":"Clocktower Centre",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatre"
     ]
 },
-  "bbox": [144.925095,-37.765987,144.925095,-37.765987],
+  "bbox": [
+    144.925095,
+    -37.765987,
+    144.925095,
+    -37.765987
+],
   "geometry": {"coordinates":[144.925095,-37.765987],"type":"Point"}
 }

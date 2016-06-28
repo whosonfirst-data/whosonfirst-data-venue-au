@@ -2,13 +2,14 @@
   "id": 202652951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038345,-27.434313,153.038345,-27.434313",
     "geom:latitude":-27.434313,
     "geom:longitude":153.038345,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Bowen St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202652951,
-    "wof:lastmodified":1449061728,
+    "wof:lastmodified":1466187936,
     "wof:name":"Classic Cane",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [153.038345,-27.434313,153.038345,-27.434313],
-  "geometry": {"coordinates":[153.038345,-27.434313],"type":"Point"}
+  "bbox": [
+    153.038345,
+    -27.434313,
+    153.038345,
+    -27.434313
+],
+  "geometry": {"coordinates":[153.03834499999999,-27.434313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202932331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.087326,-30.287922,153.087326,-30.287922",
     "geom:latitude":-30.287922,
     "geom:longitude":153.087326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Bakker Drv",
     "sg:city":"Boambee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202932331,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466190769,
     "wof:name":"R.J. Rodgers Constructions",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.087326,-30.287922,153.087326,-30.287922],
-  "geometry": {"coordinates":[153.087326,-30.287922],"type":"Point"}
+  "bbox": [
+    153.087326,
+    -30.287922,
+    153.087326,
+    -30.287922
+],
+  "geometry": {"coordinates":[153.08732599999999,-30.287922],"type":"Point"}
 }

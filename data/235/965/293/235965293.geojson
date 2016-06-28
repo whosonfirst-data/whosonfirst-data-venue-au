@@ -2,13 +2,14 @@
   "id": 235965293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.070923,-27.435768,153.070923,-27.435768",
     "geom:latitude":-27.435768,
     "geom:longitude":153.070923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Nudgee Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235965293,
-    "wof:lastmodified":1449008480,
+    "wof:lastmodified":1466187290,
     "wof:name":"Chambers & Crosthwaite Antiques",
     "wof:parent_id":85777235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.070923,-27.435768,153.070923,-27.435768],
-  "geometry": {"coordinates":[153.070923,-27.435768],"type":"Point"}
+  "bbox": [
+    153.070923,
+    -27.435768,
+    153.070923,
+    -27.435768
+],
+  "geometry": {"coordinates":[153.07092299999999,-27.435768],"type":"Point"}
 }

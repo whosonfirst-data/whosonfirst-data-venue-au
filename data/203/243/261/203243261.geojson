@@ -2,13 +2,14 @@
   "id": 203243261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.017746,-26.777023,153.017746,-26.777023",
     "geom:latitude":-26.777023,
     "geom:longitude":153.017746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Mooloolah Connection Rd",
     "sg:city":"Mooloolah",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203243261,
-    "wof:lastmodified":1449025533,
+    "wof:lastmodified":1466187522,
     "wof:name":"Outlaw Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [153.017746,-26.777023,153.017746,-26.777023],
-  "geometry": {"coordinates":[153.017746,-26.777023],"type":"Point"}
+  "bbox": [
+    153.017746,
+    -26.777023,
+    153.017746,
+    -26.777023
+],
+  "geometry": {"coordinates":[153.01774599999999,-26.777023],"type":"Point"}
 }

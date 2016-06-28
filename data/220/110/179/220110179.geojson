@@ -2,13 +2,14 @@
   "id": 220110179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.540222,-38.252205,144.540222,-38.252205",
     "geom:latitude":-38.252205,
     "geom:longitude":144.540222,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 1 28 Everist Rd",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220110179,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466188056,
     "wof:name":"Datamasters Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.540222,-38.252205,144.540222,-38.252205],
+  "bbox": [
+    144.540222,
+    -38.252205,
+    144.540222,
+    -38.252205
+],
   "geometry": {"coordinates":[144.540222,-38.252205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202652553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.02858,-27.437695,153.02858,-27.437695",
     "geom:latitude":-27.437695,
     "geom:longitude":153.02858,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Newmarket Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202652553,
-    "wof:lastmodified":1449061728,
+    "wof:lastmodified":1466187928,
     "wof:name":"Bretts Inglewood Sawmilling Pty Ltd",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmillers"
     ]
 },
-  "bbox": [153.02858,-27.437695,153.02858,-27.437695],
-  "geometry": {"coordinates":[153.02858,-27.437695],"type":"Point"}
+  "bbox": [
+    153.02858,
+    -27.437695,
+    153.02858,
+    -27.437695
+],
+  "geometry": {"coordinates":[153.02858000000001,-27.437695],"type":"Point"}
 }

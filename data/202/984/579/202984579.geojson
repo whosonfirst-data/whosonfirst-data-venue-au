@@ -2,13 +2,14 @@
   "id": 202984579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.208771,-33.840748,151.208771,-33.840748",
     "geom:latitude":-33.840748,
     "geom:longitude":151.208771,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 302/ 97 Pacific Hwy",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202984579,
-    "wof:lastmodified":1449061538,
+    "wof:lastmodified":1466191142,
     "wof:name":"Pulse",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [151.208771,-33.840748,151.208771,-33.840748],
-  "geometry": {"coordinates":[151.208771,-33.840748],"type":"Point"}
+  "bbox": [
+    151.208771,
+    -33.840748,
+    151.208771,
+    -33.840748
+],
+  "geometry": {"coordinates":[151.20877100000001,-33.840748],"type":"Point"}
 }

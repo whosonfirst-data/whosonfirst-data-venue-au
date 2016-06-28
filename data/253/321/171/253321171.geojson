@@ -2,13 +2,14 @@
   "id": 253321171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.318192,-37.999416,145.318192,-37.999416",
     "geom:latitude":-37.999416,
     "geom:longitude":145.318192,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Opal Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253321171,
-    "wof:lastmodified":1449062895,
+    "wof:lastmodified":1466190802,
     "wof:name":"National Mobile Auto Electrical",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [145.318192,-37.999416,145.318192,-37.999416],
-  "geometry": {"coordinates":[145.318192,-37.999416],"type":"Point"}
+  "bbox": [
+    145.318192,
+    -37.999416,
+    145.318192,
+    -37.999416
+],
+  "geometry": {"coordinates":[145.31819200000001,-37.999416],"type":"Point"}
 }

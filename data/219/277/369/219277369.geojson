@@ -2,13 +2,14 @@
   "id": 219277369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.262741,-38.176399,146.262741,-38.176399",
     "geom:latitude":-38.176399,
     "geom:longitude":146.262741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 George St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219277369,
-    "wof:lastmodified":1449070787,
+    "wof:lastmodified":1466187343,
     "wof:name":"Mia's Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [146.262741,-38.176399,146.262741,-38.176399],
-  "geometry": {"coordinates":[146.262741,-38.176399],"type":"Point"}
+  "bbox": [
+    146.262741,
+    -38.176399,
+    146.262741,
+    -38.176399
+],
+  "geometry": {"coordinates":[146.26274100000001,-38.176399],"type":"Point"}
 }

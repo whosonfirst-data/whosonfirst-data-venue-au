@@ -2,13 +2,14 @@
   "id": 236803575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.893585,-34.491634,150.893585,-34.491634",
     "geom:latitude":-34.491634,
     "geom:longitude":150.893585,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Shellharbour Rd",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236803575,
-    "wof:lastmodified":1449005293,
+    "wof:lastmodified":1466191951,
     "wof:name":"Lasermax Engineering Pty Ltd",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "laser"
     ]
 },
-  "bbox": [150.893585,-34.491634,150.893585,-34.491634],
+  "bbox": [
+    150.893585,
+    -34.491634,
+    150.893585,
+    -34.491634
+],
   "geometry": {"coordinates":[150.893585,-34.491634],"type":"Point"}
 }

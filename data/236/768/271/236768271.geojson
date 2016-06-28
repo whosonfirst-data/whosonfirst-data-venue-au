@@ -2,13 +2,14 @@
   "id": 236768271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.931473,-27.045883,152.931473,-27.045883",
     "geom:latitude":-27.045883,
     "geom:longitude":152.931473,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Markwell Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236768271,
-    "wof:lastmodified":1449002820,
+    "wof:lastmodified":1466191909,
     "wof:name":"Torrens K A & J & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "timber"
     ]
 },
-  "bbox": [152.931473,-27.045883,152.931473,-27.045883],
-  "geometry": {"coordinates":[152.931473,-27.045883],"type":"Point"}
+  "bbox": [
+    152.931473,
+    -27.045883,
+    152.931473,
+    -27.045883
+],
+  "geometry": {"coordinates":[152.93147300000001,-27.045883],"type":"Point"}
 }

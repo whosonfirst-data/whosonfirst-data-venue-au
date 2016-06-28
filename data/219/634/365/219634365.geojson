@@ -2,13 +2,14 @@
   "id": 219634365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.125626,-33.926609,151.125626,-33.926609",
     "geom:latitude":-33.926609,
     "geom:longitude":151.125626,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Homer St",
     "sg:city":"Earlwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219634365,
-    "wof:lastmodified":1449072074,
+    "wof:lastmodified":1466190796,
     "wof:name":"Earlwood Chiropractic Clinic",
     "wof:parent_id":85769211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.125626,-33.926609,151.125626,-33.926609],
-  "geometry": {"coordinates":[151.125626,-33.926609],"type":"Point"}
+  "bbox": [
+    151.125626,
+    -33.926609,
+    151.125626,
+    -33.926609
+],
+  "geometry": {"coordinates":[151.12562600000001,-33.926609],"type":"Point"}
 }

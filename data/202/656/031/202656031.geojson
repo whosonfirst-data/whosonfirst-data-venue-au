@@ -2,13 +2,14 @@
   "id": 202656031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.032806,-27.43782,153.032806,-27.43782",
     "geom:latitude":-27.43782,
     "geom:longitude":153.032806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Cartwright St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202656031,
-    "wof:lastmodified":1449061737,
+    "wof:lastmodified":1466187996,
     "wof:name":"Karuna Hospice Service Ltd",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [153.032806,-27.43782,153.032806,-27.43782],
-  "geometry": {"coordinates":[153.032806,-27.43782],"type":"Point"}
+  "bbox": [
+    153.032806,
+    -27.43782,
+    153.032806,
+    -27.43782
+],
+  "geometry": {"coordinates":[153.03280599999999,-27.43782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219751185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.745895,-32.399487,151.745895,-32.399487",
     "geom:latitude":-32.399487,
     "geom:longitude":151.745895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Scott Ave",
     "sg:city":"Dungog",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219751185,
-    "wof:lastmodified":1449070578,
+    "wof:lastmodified":1466191256,
     "wof:name":"Jones Jennifer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.745895,-32.399487,151.745895,-32.399487],
-  "geometry": {"coordinates":[151.745895,-32.399487],"type":"Point"}
+  "bbox": [
+    151.745895,
+    -32.399487,
+    151.745895,
+    -32.399487
+],
+  "geometry": {"coordinates":[151.74589499999999,-32.399487],"type":"Point"}
 }

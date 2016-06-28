@@ -2,13 +2,14 @@
   "id": 202977383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.208435,-33.841778,151.208435,-33.841778",
     "geom:latitude":-33.841778,
     "geom:longitude":151.208435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste 201, 65 Walker St",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202977383,
-    "wof:lastmodified":1449062728,
+    "wof:lastmodified":1466191112,
     "wof:name":"Genesys Wealth Advisers",
     "wof:parent_id":85776763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.208435,-33.841778,151.208435,-33.841778],
-  "geometry": {"coordinates":[151.208435,-33.841778],"type":"Point"}
+  "bbox": [
+    151.208435,
+    -33.841778,
+    151.208435,
+    -33.841778
+],
+  "geometry": {"coordinates":[151.20843500000001,-33.841778],"type":"Point"}
 }

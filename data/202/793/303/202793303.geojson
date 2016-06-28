@@ -2,13 +2,14 @@
   "id": 202793303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.744308,-32.918243,151.744308,-32.918243",
     "geom:latitude":-32.918243,
     "geom:longitude":151.744308,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Hudson St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202793303,
-    "wof:lastmodified":1449061502,
+    "wof:lastmodified":1466190259,
     "wof:name":"Kooka Graphics",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [151.744308,-32.918243,151.744308,-32.918243],
-  "geometry": {"coordinates":[151.744308,-32.918243],"type":"Point"}
+  "bbox": [
+    151.744308,
+    -32.918243,
+    151.744308,
+    -32.918243
+],
+  "geometry": {"coordinates":[151.74430799999999,-32.918243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219428831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.566483,-34.885944,138.566483,-34.885944",
     "geom:latitude":-34.885944,
     "geom:longitude":138.566483,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Torrens Rd",
     "sg:city":"Croydon Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219428831,
-    "wof:lastmodified":1449073666,
+    "wof:lastmodified":1466188727,
     "wof:name":"Pimlott Framing",
     "wof:parent_id":85774909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [138.566483,-34.885944,138.566483,-34.885944],
-  "geometry": {"coordinates":[138.566483,-34.885944],"type":"Point"}
+  "bbox": [
+    138.566483,
+    -34.885944,
+    138.566483,
+    -34.885944
+],
+  "geometry": {"coordinates":[138.56648300000001,-34.885944],"type":"Point"}
 }

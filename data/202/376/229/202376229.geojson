@@ -2,13 +2,14 @@
   "id": 202376229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.744354,-34.606647,138.744354,-34.606647",
     "geom:latitude":-34.606647,
     "geom:longitude":138.744354,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Adelaide Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202376229,
-    "wof:lastmodified":1449060977,
+    "wof:lastmodified":1466186966,
     "wof:name":"Adelaide Heating & Cooling",
     "wof:parent_id":85780357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [138.744354,-34.606647,138.744354,-34.606647],
-  "geometry": {"coordinates":[138.744354,-34.606647],"type":"Point"}
+  "bbox": [
+    138.744354,
+    -34.606647,
+    138.744354,
+    -34.606647
+],
+  "geometry": {"coordinates":[138.74435399999999,-34.606647],"type":"Point"}
 }

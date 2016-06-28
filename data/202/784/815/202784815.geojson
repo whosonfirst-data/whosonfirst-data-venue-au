@@ -2,13 +2,14 @@
   "id": 202784815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.782288,-32.927444,151.782288,-32.927444",
     "geom:latitude":-32.927444,
     "geom:longitude":151.782288,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202784815,
-    "wof:lastmodified":1449061780,
+    "wof:lastmodified":1466190315,
     "wof:name":"Queensland Government Travel Centre",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.782288,-32.927444,151.782288,-32.927444],
-  "geometry": {"coordinates":[151.782288,-32.927444],"type":"Point"}
+  "bbox": [
+    151.782288,
+    -32.927444,
+    151.782288,
+    -32.927444
+],
+  "geometry": {"coordinates":[151.78228799999999,-32.927444],"type":"Point"}
 }

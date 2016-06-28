@@ -2,13 +2,14 @@
   "id": 236972353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.333725,-37.87619,145.333725,-37.87619",
     "geom:latitude":-37.87619,
     "geom:longitude":145.333725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Highview Rd",
     "sg:city":"Ferny Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236972353,
-    "wof:lastmodified":1449003279,
+    "wof:lastmodified":1466192216,
     "wof:name":"Sagtex Pty Ltd",
     "wof:parent_id":85776621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [145.333725,-37.87619,145.333725,-37.87619],
-  "geometry": {"coordinates":[145.333725,-37.87619],"type":"Point"}
+  "bbox": [
+    145.333725,
+    -37.87619,
+    145.333725,
+    -37.87619
+],
+  "geometry": {"coordinates":[145.33372499999999,-37.87619],"type":"Point"}
 }

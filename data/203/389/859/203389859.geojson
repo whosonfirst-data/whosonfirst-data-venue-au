@@ -2,13 +2,14 @@
   "id": 203389859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854843,-37.560581,143.854843,-37.560581",
     "geom:latitude":-37.560581,
     "geom:longitude":143.854843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13A Doveton St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203389859,
-    "wof:lastmodified":1449026439,
+    "wof:lastmodified":1466189374,
     "wof:name":"Cyanide Web Solutions",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [143.854843,-37.560581,143.854843,-37.560581],
-  "geometry": {"coordinates":[143.854843,-37.560581],"type":"Point"}
+  "bbox": [
+    143.854843,
+    -37.560581,
+    143.854843,
+    -37.560581
+],
+  "geometry": {"coordinates":[143.85484299999999,-37.560581],"type":"Point"}
 }

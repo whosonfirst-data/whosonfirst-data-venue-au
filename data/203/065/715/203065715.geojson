@@ -2,13 +2,14 @@
   "id": 203065715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.462097,-41.524559,147.462097,-41.524559",
     "geom:latitude":-41.524559,
     "geom:longitude":147.462097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sawpit Hill Rd",
     "sg:city":"Blessington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203065715,
-    "wof:lastmodified":1449026859,
+    "wof:lastmodified":1466188490,
     "wof:name":"Stuart Deane Excavations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.462097,-41.524559,147.462097,-41.524559],
+  "bbox": [
+    147.462097,
+    -41.524559,
+    147.462097,
+    -41.524559
+],
   "geometry": {"coordinates":[147.462097,-41.524559],"type":"Point"}
 }

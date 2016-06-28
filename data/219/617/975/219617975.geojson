@@ -2,13 +2,14 @@
   "id": 219617975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171371,-33.907742,151.171371,-33.907742",
     "geom:latitude":-33.907742,
     "geom:longitude":151.171371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 88 Marrickville Metro Cnr Murray & Smidmore S",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219617975,
-    "wof:lastmodified":1449070493,
+    "wof:lastmodified":1466190667,
     "wof:name":"Odyssey Jeans",
     "wof:parent_id":85774763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jean"
     ]
 },
-  "bbox": [151.171371,-33.907742,151.171371,-33.907742],
-  "geometry": {"coordinates":[151.171371,-33.907742],"type":"Point"}
+  "bbox": [
+    151.171371,
+    -33.907742,
+    151.171371,
+    -33.907742
+],
+  "geometry": {"coordinates":[151.17137099999999,-33.907742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253235253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.963486,-27.567394,151.963486,-27.567394",
     "geom:latitude":-27.567394,
     "geom:longitude":151.963486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr West & Hill Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253235253,
-    "wof:lastmodified":1449063327,
+    "wof:lastmodified":1466190311,
     "wof:name":"Unicorn Financial Services Pty Ltd",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.963486,-27.567394,151.963486,-27.567394],
-  "geometry": {"coordinates":[151.963486,-27.567394],"type":"Point"}
+  "bbox": [
+    151.963486,
+    -27.567394,
+    151.963486,
+    -27.567394
+],
+  "geometry": {"coordinates":[151.96348599999999,-27.567394],"type":"Point"}
 }

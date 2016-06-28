@@ -2,13 +2,14 @@
   "id": 202993873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.504623,-20.706875,140.504623,-20.706875",
     "geom:latitude":-20.706875,
     "geom:longitude":140.504623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Ramsay St",
     "sg:city":"Cloncurry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202993873,
-    "wof:lastmodified":1449061247,
+    "wof:lastmodified":1466191159,
     "wof:name":"Wagon Wheel Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.504623,-20.706875,140.504623,-20.706875],
-  "geometry": {"coordinates":[140.504623,-20.706875],"type":"Point"}
+  "bbox": [
+    140.504623,
+    -20.706875,
+    140.504623,
+    -20.706875
+],
+  "geometry": {"coordinates":[140.50462300000001,-20.706875],"type":"Point"}
 }

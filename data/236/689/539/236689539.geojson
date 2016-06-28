@@ -2,13 +2,14 @@
   "id": 236689539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.470459,-31.984371,152.470459,-31.984371",
     "geom:latitude":-31.984371,
     "geom:longitude":152.470459,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Pacific Hwy",
     "sg:city":"Cundletown",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236689539,
-    "wof:lastmodified":1449004583,
+    "wof:lastmodified":1466191833,
     "wof:name":"Roffey R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [152.470459,-31.984371,152.470459,-31.984371],
-  "geometry": {"coordinates":[152.470459,-31.984371],"type":"Point"}
+  "bbox": [
+    152.470459,
+    -31.984371,
+    152.470459,
+    -31.984371
+],
+  "geometry": {"coordinates":[152.47045900000001,-31.984371],"type":"Point"}
 }

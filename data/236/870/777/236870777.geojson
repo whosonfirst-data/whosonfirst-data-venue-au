@@ -2,13 +2,14 @@
   "id": 236870777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.226028,-35.3172,148.226028,-35.3172",
     "geom:latitude":-35.3172,
     "geom:longitude":148.226028,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Gadara Pl",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236870777,
-    "wof:lastmodified":1449002332,
+    "wof:lastmodified":1466192071,
     "wof:name":"Ballards Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [148.226028,-35.3172,148.226028,-35.3172],
-  "geometry": {"coordinates":[148.226028,-35.3172],"type":"Point"}
+  "bbox": [
+    148.226028,
+    -35.3172,
+    148.226028,
+    -35.3172
+],
+  "geometry": {"coordinates":[148.22602800000001,-35.3172],"type":"Point"}
 }

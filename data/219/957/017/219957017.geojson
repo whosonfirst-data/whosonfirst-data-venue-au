@@ -2,13 +2,14 @@
   "id": 219957017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.77887,-37.827557,140.77887,-37.827557",
     "geom:latitude":-37.827557,
     "geom:longitude":140.77887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 68 Gray St",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219957017,
-    "wof:lastmodified":1449073385,
+    "wof:lastmodified":1466191905,
     "wof:name":"Hairform",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [140.77887,-37.827557,140.77887,-37.827557],
-  "geometry": {"coordinates":[140.77887,-37.827557],"type":"Point"}
+  "bbox": [
+    140.77887,
+    -37.827557,
+    140.77887,
+    -37.827557
+],
+  "geometry": {"coordinates":[140.77887000000001,-37.827557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220102707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.491959,-38.282379,144.491959,-38.282379",
     "geom:latitude":-38.282379,
     "geom:longitude":144.491959,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1042",
     "sg:city":"Barwon Heads",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220102707,
-    "wof:lastmodified":1449074830,
+    "wof:lastmodified":1466187983,
     "wof:name":"Bellarine B.B.Q. Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [144.491959,-38.282379,144.491959,-38.282379],
-  "geometry": {"coordinates":[144.491959,-38.282379],"type":"Point"}
+  "bbox": [
+    144.491959,
+    -38.282379,
+    144.491959,
+    -38.282379
+],
+  "geometry": {"coordinates":[144.49195900000001,-38.282379],"type":"Point"}
 }

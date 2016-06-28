@@ -2,13 +2,14 @@
   "id": 203028905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.147736,-37.67004,145.147736,-37.67004",
     "geom:latitude":-37.67004,
     "geom:longitude":145.147736,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Parook Crt",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203028905,
-    "wof:lastmodified":1449025968,
+    "wof:lastmodified":1466187770,
     "wof:name":"BJ Plumbing Services",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.147736,-37.67004,145.147736,-37.67004],
-  "geometry": {"coordinates":[145.147736,-37.67004],"type":"Point"}
+  "bbox": [
+    145.147736,
+    -37.67004,
+    145.147736,
+    -37.67004
+],
+  "geometry": {"coordinates":[145.14773600000001,-37.67004],"type":"Point"}
 }

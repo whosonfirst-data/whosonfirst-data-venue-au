@@ -2,13 +2,14 @@
   "id": 236462377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.212723,-21.090897,149.212723,-21.090897",
     "geom:latitude":-21.090897,
     "geom:longitude":149.212723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 David Muir St",
     "sg:city":"Slade Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236462377,
-    "wof:lastmodified":1449005093,
+    "wof:lastmodified":1466191370,
     "wof:name":"Mackay Truss & Timber",
     "wof:parent_id":85780459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.212723,-21.090897,149.212723,-21.090897],
-  "geometry": {"coordinates":[149.212723,-21.090897],"type":"Point"}
+  "bbox": [
+    149.212723,
+    -21.090897,
+    149.212723,
+    -21.090897
+],
+  "geometry": {"coordinates":[149.21272300000001,-21.090897],"type":"Point"}
 }

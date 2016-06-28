@@ -2,13 +2,14 @@
   "id": 236590413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.052582,-33.950752,151.052582,-33.950752",
     "geom:latitude":-33.950752,
     "geom:longitude":151.052582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Belmore Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236590413,
-    "wof:lastmodified":1449003645,
+    "wof:lastmodified":1466191481,
     "wof:name":"Nicks Takeaway",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.052582,-33.950752,151.052582,-33.950752],
+  "bbox": [
+    151.052582,
+    -33.950752,
+    151.052582,
+    -33.950752
+],
   "geometry": {"coordinates":[151.052582,-33.950752],"type":"Point"}
 }

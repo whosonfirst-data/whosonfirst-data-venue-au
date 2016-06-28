@@ -2,13 +2,14 @@
   "id": 220117105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.539307,-38.250824,144.539307,-38.250824",
     "geom:latitude":-38.250824,
     "geom:longitude":144.539307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Sinclair St",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220117105,
-    "wof:lastmodified":1449074600,
+    "wof:lastmodified":1466188131,
     "wof:name":"Ocean Grove Joinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [144.539307,-38.250824,144.539307,-38.250824],
-  "geometry": {"coordinates":[144.539307,-38.250824],"type":"Point"}
+  "bbox": [
+    144.539307,
+    -38.250824,
+    144.539307,
+    -38.250824
+],
+  "geometry": {"coordinates":[144.53930700000001,-38.250824],"type":"Point"}
 }

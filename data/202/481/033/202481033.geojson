@@ -2,13 +2,14 @@
   "id": 202481033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041367,-37.919628,145.041367,-37.919628",
     "geom:latitude":-37.919628,
     "geom:longitude":145.041367,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Jasper Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202481033,
-    "wof:lastmodified":1449062334,
+    "wof:lastmodified":1466189239,
     "wof:name":"Ciconte A Dr",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.041367,-37.919628,145.041367,-37.919628],
-  "geometry": {"coordinates":[145.041367,-37.919628],"type":"Point"}
+  "bbox": [
+    145.041367,
+    -37.919628,
+    145.041367,
+    -37.919628
+],
+  "geometry": {"coordinates":[145.04136700000001,-37.919628],"type":"Point"}
 }

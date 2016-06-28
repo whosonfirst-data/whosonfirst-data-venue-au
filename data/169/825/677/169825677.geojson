@@ -2,13 +2,14 @@
   "id": 169825677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.851013,-31.974133,115.851013,-31.974133",
     "geom:latitude":-31.974133,
     "geom:longitude":115.851013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Labouchere Rd",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169825677,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466189111,
     "wof:name":"Delaney, Woods & Associates",
     "wof:parent_id":85775807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [115.851013,-31.974133,115.851013,-31.974133],
-  "geometry": {"coordinates":[115.851013,-31.974133],"type":"Point"}
+  "bbox": [
+    115.851013,
+    -31.974133,
+    115.851013,
+    -31.974133
+],
+  "geometry": {"coordinates":[115.85101299999999,-31.974133],"type":"Point"}
 }

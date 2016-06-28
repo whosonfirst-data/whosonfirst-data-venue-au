@@ -2,13 +2,14 @@
   "id": 202915123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.110519,-30.295593,153.110519,-30.295593",
     "geom:latitude":-30.295593,
     "geom:longitude":153.110519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Head Office 2. Murdock St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202915123,
-    "wof:lastmodified":1449062609,
+    "wof:lastmodified":1466190635,
     "wof:name":"Business College The",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [153.110519,-30.295593,153.110519,-30.295593],
-  "geometry": {"coordinates":[153.110519,-30.295593],"type":"Point"}
+  "bbox": [
+    153.110519,
+    -30.295593,
+    153.110519,
+    -30.295593
+],
+  "geometry": {"coordinates":[153.11051900000001,-30.295593],"type":"Point"}
 }

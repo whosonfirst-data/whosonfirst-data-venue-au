@@ -2,13 +2,14 @@
   "id": 169794077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.585144,-38.607639,145.585144,-38.607639",
     "geom:latitude":-38.607639,
     "geom:longitude":145.585144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Cameron St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169794077,
-    "wof:lastmodified":1449034266,
+    "wof:lastmodified":1466188608,
     "wof:name":"Pandora Metal Spinning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spinner"
     ]
 },
-  "bbox": [145.585144,-38.607639,145.585144,-38.607639],
-  "geometry": {"coordinates":[145.585144,-38.607639],"type":"Point"}
+  "bbox": [
+    145.585144,
+    -38.607639,
+    145.585144,
+    -38.607639
+],
+  "geometry": {"coordinates":[145.58514400000001,-38.607639],"type":"Point"}
 }

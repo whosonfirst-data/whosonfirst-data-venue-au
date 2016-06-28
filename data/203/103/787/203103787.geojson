@@ -2,13 +2,14 @@
   "id": 203103787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.743652,-32.493168,115.743652,-32.493168",
     "geom:latitude":-32.493168,
     "geom:longitude":115.743652,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Cuvier Pl",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203103787,
-    "wof:lastmodified":1449026134,
+    "wof:lastmodified":1466189101,
     "wof:name":"J.A.R. Plumbing & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.743652,-32.493168,115.743652,-32.493168],
+  "bbox": [
+    115.743652,
+    -32.493168,
+    115.743652,
+    -32.493168
+],
   "geometry": {"coordinates":[115.743652,-32.493168],"type":"Point"}
 }

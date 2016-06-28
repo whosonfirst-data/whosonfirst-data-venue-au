@@ -2,13 +2,14 @@
   "id": 203359003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855148,-37.560703,143.855148,-37.560703",
     "geom:latitude":-37.560703,
     "geom:longitude":143.855148,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Top Floor, RACV Building 22 Doveton St (North)",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203359003,
-    "wof:lastmodified":1449024916,
+    "wof:lastmodified":1466188834,
     "wof:name":"Kerry Moore School of Ballet",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tuition"
     ]
 },
-  "bbox": [143.855148,-37.560703,143.855148,-37.560703],
-  "geometry": {"coordinates":[143.855148,-37.560703],"type":"Point"}
+  "bbox": [
+    143.855148,
+    -37.560703,
+    143.855148,
+    -37.560703
+],
+  "geometry": {"coordinates":[143.85514800000001,-37.560703],"type":"Point"}
 }

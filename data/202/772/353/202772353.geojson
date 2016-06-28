@@ -2,13 +2,14 @@
   "id": 202772353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.769485,-32.928478,151.769485,-32.928478",
     "geom:latitude":-32.928478,
     "geom:longitude":151.769485,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Office 1 Level 2 335 Wharf Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202772353,
-    "wof:lastmodified":1449061260,
+    "wof:lastmodified":1466190088,
     "wof:name":"MJM Environmental Pty Ltd",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [151.769485,-32.928478,151.769485,-32.928478],
+  "bbox": [
+    151.769485,
+    -32.928478,
+    151.769485,
+    -32.928478
+],
   "geometry": {"coordinates":[151.769485,-32.928478],"type":"Point"}
 }

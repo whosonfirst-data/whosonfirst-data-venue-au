@@ -2,13 +2,14 @@
   "id": 202942127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.11348,-30.296959,153.11348,-30.296959",
     "geom:latitude":-30.296959,
     "geom:longitude":153.11348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Northside Shopng Centre, Shop 22/ Park Beach Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202942127,
-    "wof:lastmodified":1449061285,
+    "wof:lastmodified":1466190949,
     "wof:name":"Express Funding Centre Coffs Harbour",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [153.11348,-30.296959,153.11348,-30.296959],
-  "geometry": {"coordinates":[153.11348,-30.296959],"type":"Point"}
+  "bbox": [
+    153.11348,
+    -30.296959,
+    153.11348,
+    -30.296959
+],
+  "geometry": {"coordinates":[153.11348000000001,-30.296959],"type":"Point"}
 }

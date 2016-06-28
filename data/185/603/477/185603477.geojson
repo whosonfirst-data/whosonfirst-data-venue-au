@@ -2,13 +2,14 @@
   "id": 185603477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.815819,-32.033749,115.815819,-32.033749",
     "geom:latitude":-32.033749,
     "geom:longitude":115.815819,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 North Lake Rd",
     "sg:city":"Alfred Cove",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185603477,
-    "wof:lastmodified":1449007984,
+    "wof:lastmodified":1466187028,
     "wof:name":"Nursing Services Australia",
     "wof:parent_id":85775673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nursing"
     ]
 },
-  "bbox": [115.815819,-32.033749,115.815819,-32.033749],
+  "bbox": [
+    115.815819,
+    -32.033749,
+    115.815819,
+    -32.033749
+],
   "geometry": {"coordinates":[115.815819,-32.033749],"type":"Point"}
 }

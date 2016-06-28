@@ -2,13 +2,14 @@
   "id": 219370597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.553467,-35.330708,143.553467,-35.330708",
     "geom:latitude":-35.330708,
     "geom:longitude":143.553467,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 George St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219370597,
-    "wof:lastmodified":1449072303,
+    "wof:lastmodified":1466188103,
     "wof:name":"O'Grady Dennis Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [143.553467,-35.330708,143.553467,-35.330708],
-  "geometry": {"coordinates":[143.553467,-35.330708],"type":"Point"}
+  "bbox": [
+    143.553467,
+    -35.330708,
+    143.553467,
+    -35.330708
+],
+  "geometry": {"coordinates":[143.55346700000001,-35.330708],"type":"Point"}
 }

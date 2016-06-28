@@ -2,13 +2,14 @@
   "id": 252814493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.579605,-38.337746,143.579605,-38.337746",
     "geom:latitude":-38.337746,
     "geom:longitude":143.579605,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Skene St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252814493,
-    "wof:lastmodified":1449005610,
+    "wof:lastmodified":1466188258,
     "wof:name":"Henderson Ian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [143.579605,-38.337746,143.579605,-38.337746],
-  "geometry": {"coordinates":[143.579605,-38.337746],"type":"Point"}
+  "bbox": [
+    143.579605,
+    -38.337746,
+    143.579605,
+    -38.337746
+],
+  "geometry": {"coordinates":[143.57960499999999,-38.337746],"type":"Point"}
 }

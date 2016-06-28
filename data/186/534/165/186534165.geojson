@@ -2,13 +2,14 @@
   "id": 186534165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.704163,-19.261953,146.704163,-19.261953",
     "geom:latitude":-19.261953,
     "geom:longitude":146.704163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruce Hwy",
     "sg:city":"Bohle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186534165,
-    "wof:lastmodified":1449051092,
+    "wof:lastmodified":1466190740,
     "wof:name":"Readymix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [146.704163,-19.261953,146.704163,-19.261953],
-  "geometry": {"coordinates":[146.704163,-19.261953],"type":"Point"}
+  "bbox": [
+    146.704163,
+    -19.261953,
+    146.704163,
+    -19.261953
+],
+  "geometry": {"coordinates":[146.70416299999999,-19.261953],"type":"Point"}
 }

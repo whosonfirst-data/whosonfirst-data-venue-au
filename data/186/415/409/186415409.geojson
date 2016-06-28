@@ -2,13 +2,14 @@
   "id": 186415409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.817505,-19.260292,146.817505,-19.260292",
     "geom:latitude":-19.260292,
     "geom:longitude":146.817505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/ 86 Ogden St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186415409,
-    "wof:lastmodified":1449052290,
+    "wof:lastmodified":1466189565,
     "wof:name":"Trent Johnston",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.817505,-19.260292,146.817505,-19.260292],
-  "geometry": {"coordinates":[146.817505,-19.260292],"type":"Point"}
+  "bbox": [
+    146.817505,
+    -19.260292,
+    146.817505,
+    -19.260292
+],
+  "geometry": {"coordinates":[146.81750500000001,-19.260292],"type":"Point"}
 }

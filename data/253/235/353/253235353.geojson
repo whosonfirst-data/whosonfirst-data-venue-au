@@ -2,13 +2,14 @@
   "id": 253235353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.949722,-27.572193,151.949722,-27.572193",
     "geom:latitude":-27.572193,
     "geom:longitude":151.949722,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Perth St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253235353,
-    "wof:lastmodified":1449063324,
+    "wof:lastmodified":1466190444,
     "wof:name":"J N L Industries",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [151.949722,-27.572193,151.949722,-27.572193],
-  "geometry": {"coordinates":[151.949722,-27.572193],"type":"Point"}
+  "bbox": [
+    151.949722,
+    -27.572193,
+    151.949722,
+    -27.572193
+],
+  "geometry": {"coordinates":[151.94972200000001,-27.572193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202493309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.046005,-37.915409,145.046005,-37.915409",
     "geom:latitude":-37.915409,
     "geom:longitude":145.046005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Strathmore St",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202493309,
-    "wof:lastmodified":1449060912,
+    "wof:lastmodified":1466189439,
     "wof:name":"Phoenix Landscaping",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.046005,-37.915409,145.046005,-37.915409],
-  "geometry": {"coordinates":[145.046005,-37.915409],"type":"Point"}
+  "bbox": [
+    145.046005,
+    -37.915409,
+    145.046005,
+    -37.915409
+],
+  "geometry": {"coordinates":[145.04600500000001,-37.915409],"type":"Point"}
 }

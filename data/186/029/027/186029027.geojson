@@ -2,13 +2,14 @@
   "id": 186029027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.412811,-33.328728,151.412811,-33.328728",
     "geom:latitude":-33.328728,
     "geom:longitude":151.412811,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sanitarium Drv",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186029027,
-    "wof:lastmodified":1449051507,
+    "wof:lastmodified":1466187854,
     "wof:name":"Mayne Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [151.412811,-33.328728,151.412811,-33.328728],
+  "bbox": [
+    151.412811,
+    -33.328728,
+    151.412811,
+    -33.328728
+],
   "geometry": {"coordinates":[151.412811,-33.328728],"type":"Point"}
 }

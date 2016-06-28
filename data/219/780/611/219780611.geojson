@@ -2,13 +2,14 @@
   "id": 219780611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.686462,-31.871027,152.686462,-31.871027",
     "geom:latitude":-31.871027,
     "geom:longitude":152.686462,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Beach St",
     "sg:city":"Harrington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219780611,
-    "wof:lastmodified":1449073042,
+    "wof:lastmodified":1466191397,
     "wof:name":"Harrington Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [152.686462,-31.871027,152.686462,-31.871027],
-  "geometry": {"coordinates":[152.686462,-31.871027],"type":"Point"}
+  "bbox": [
+    152.686462,
+    -31.871027,
+    152.686462,
+    -31.871027
+],
+  "geometry": {"coordinates":[152.68646200000001,-31.871027],"type":"Point"}
 }

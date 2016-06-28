@@ -2,13 +2,14 @@
   "id": 253084453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.784073,-37.729622,144.784073,-37.729622",
     "geom:latitude":-37.729622,
     "geom:longitude":144.784073,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Gibbon St",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253084453,
-    "wof:lastmodified":1449063135,
+    "wof:lastmodified":1466188442,
     "wof:name":"L & J Concrete Pumping",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [144.784073,-37.729622,144.784073,-37.729622],
-  "geometry": {"coordinates":[144.784073,-37.729622],"type":"Point"}
+  "bbox": [
+    144.784073,
+    -37.729622,
+    144.784073,
+    -37.729622
+],
+  "geometry": {"coordinates":[144.78407300000001,-37.729622],"type":"Point"}
 }

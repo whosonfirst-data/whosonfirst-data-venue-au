@@ -2,13 +2,14 @@
   "id": 219231079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.516151,-31.720409,116.516151,-31.720409",
     "geom:latitude":-31.720409,
     "geom:longitude":116.516151,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Lockyer Rd",
     "sg:city":"Clackline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219231079,
-    "wof:lastmodified":1449072191,
+    "wof:lastmodified":1466189898,
     "wof:name":"Clackline General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [116.516151,-31.720409,116.516151,-31.720409],
-  "geometry": {"coordinates":[116.516151,-31.720409],"type":"Point"}
+  "bbox": [
+    116.516151,
+    -31.720409,
+    116.516151,
+    -31.720409
+],
+  "geometry": {"coordinates":[116.51615099999999,-31.720409],"type":"Point"}
 }

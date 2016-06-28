@@ -2,13 +2,14 @@
   "id": 202380405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.754257,-34.608906,138.754257,-34.608906",
     "geom:latitude":-34.608906,
     "geom:longitude":138.754257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Mckinlay Ave",
     "sg:city":"Gawler East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202380405,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466187112,
     "wof:name":"Monika's Entity",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homoeopath"
     ]
 },
-  "bbox": [138.754257,-34.608906,138.754257,-34.608906],
+  "bbox": [
+    138.754257,
+    -34.608906,
+    138.754257,
+    -34.608906
+],
   "geometry": {"coordinates":[138.754257,-34.608906],"type":"Point"}
 }

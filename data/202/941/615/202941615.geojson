@@ -2,13 +2,14 @@
   "id": 202941615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.128754,-30.286201,153.128754,-30.286201",
     "geom:latitude":-30.286201,
     "geom:longitude":153.128754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 / 179, Orlando St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202941615,
-    "wof:lastmodified":1449061631,
+    "wof:lastmodified":1466190843,
     "wof:name":"Carpet Call",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [153.128754,-30.286201,153.128754,-30.286201],
-  "geometry": {"coordinates":[153.128754,-30.286201],"type":"Point"}
+  "bbox": [
+    153.128754,
+    -30.286201,
+    153.128754,
+    -30.286201
+],
+  "geometry": {"coordinates":[153.12875399999999,-30.286201],"type":"Point"}
 }

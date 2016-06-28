@@ -2,13 +2,14 @@
   "id": 253062645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.766327,-37.771946,144.766327,-37.771946",
     "geom:latitude":-37.771946,
     "geom:longitude":144.766327,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bird St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253062645,
-    "wof:lastmodified":1449065575,
+    "wof:lastmodified":1466188100,
     "wof:name":"Dillon Consulting Pty Ltd",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [144.766327,-37.771946,144.766327,-37.771946],
-  "geometry": {"coordinates":[144.766327,-37.771946],"type":"Point"}
+  "bbox": [
+    144.766327,
+    -37.771946,
+    144.766327,
+    -37.771946
+],
+  "geometry": {"coordinates":[144.76632699999999,-37.771946],"type":"Point"}
 }

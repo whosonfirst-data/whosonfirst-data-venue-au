@@ -2,13 +2,14 @@
   "id": 236303251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.735352,-32.309132,115.735352,-32.309132",
     "geom:latitude":-32.309132,
     "geom:longitude":115.735352,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Tropicana Way",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236303251,
-    "wof:lastmodified":1449001700,
+    "wof:lastmodified":1466190525,
     "wof:name":"Spina F. & Co",
     "wof:parent_id":85770163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pre-cast"
     ]
 },
-  "bbox": [115.735352,-32.309132,115.735352,-32.309132],
-  "geometry": {"coordinates":[115.735352,-32.309132],"type":"Point"}
+  "bbox": [
+    115.735352,
+    -32.309132,
+    115.735352,
+    -32.309132
+],
+  "geometry": {"coordinates":[115.73535200000001,-32.309132],"type":"Point"}
 }

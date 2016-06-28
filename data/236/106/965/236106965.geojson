@@ -2,13 +2,14 @@
   "id": 236106965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.934616,-37.797646,144.934616,-37.797646",
     "geom:latitude":-37.797646,
     "geom:longitude":144.934616,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Barrett St",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":236106965,
-    "wof:lastmodified":1449001643,
+    "wof:lastmodified":1466188769,
     "wof:name":"Blind Citizens Australia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "organisation"
     ]
 },
-  "bbox": [144.934616,-37.797646,144.934616,-37.797646],
-  "geometry": {"coordinates":[144.934616,-37.797646],"type":"Point"}
+  "bbox": [
+    144.934616,
+    -37.797646,
+    144.934616,
+    -37.797646
+],
+  "geometry": {"coordinates":[144.93461600000001,-37.797646],"type":"Point"}
 }

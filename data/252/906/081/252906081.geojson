@@ -2,13 +2,14 @@
   "id": 252906081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.350601,-36.097584,140.350601,-36.097584",
     "geom:latitude":-36.097584,
     "geom:longitude":140.350601,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill Ave",
     "sg:city":"Keith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252906081,
-    "wof:lastmodified":1449005812,
+    "wof:lastmodified":1466189045,
     "wof:name":"El-Masri K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.350601,-36.097584,140.350601,-36.097584],
-  "geometry": {"coordinates":[140.350601,-36.097584],"type":"Point"}
+  "bbox": [
+    140.350601,
+    -36.097584,
+    140.350601,
+    -36.097584
+],
+  "geometry": {"coordinates":[140.35060100000001,-36.097584],"type":"Point"}
 }

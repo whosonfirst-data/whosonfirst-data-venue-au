@@ -2,13 +2,14 @@
   "id": 202993917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.505524,-20.704922,140.505524,-20.704922",
     "geom:latitude":-20.704922,
     "geom:longitude":140.505524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Sheaffe St",
     "sg:city":"Cloncurry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202993917,
-    "wof:lastmodified":1449061250,
+    "wof:lastmodified":1466191160,
     "wof:name":"Ernst Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [140.505524,-20.704922,140.505524,-20.704922],
-  "geometry": {"coordinates":[140.505524,-20.704922],"type":"Point"}
+  "bbox": [
+    140.505524,
+    -20.704922,
+    140.505524,
+    -20.704922
+],
+  "geometry": {"coordinates":[140.50552400000001,-20.704922],"type":"Point"}
 }

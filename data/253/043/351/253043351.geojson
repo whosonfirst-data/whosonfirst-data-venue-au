@@ -2,13 +2,14 @@
   "id": 253043351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.826126,-37.838341,144.826126,-37.838341",
     "geom:latitude":-37.838341,
     "geom:longitude":144.826126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"McDonald Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253043351,
-    "wof:lastmodified":1449065029,
+    "wof:lastmodified":1466187782,
     "wof:name":"Budget Cold Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cold"
     ]
 },
-  "bbox": [144.826126,-37.838341,144.826126,-37.838341],
-  "geometry": {"coordinates":[144.826126,-37.838341],"type":"Point"}
+  "bbox": [
+    144.826126,
+    -37.838341,
+    144.826126,
+    -37.838341
+],
+  "geometry": {"coordinates":[144.82612599999999,-37.838341],"type":"Point"}
 }

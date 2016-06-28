@@ -2,13 +2,14 @@
   "id": 253178267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.936752,-27.562531,151.936752,-27.562531",
     "geom:latitude":-27.562531,
     "geom:longitude":151.936752,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Carrington Rd",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253178267,
-    "wof:lastmodified":1449064958,
+    "wof:lastmodified":1466190068,
     "wof:name":"Fastway Couriers",
     "wof:parent_id":85780523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [151.936752,-27.562531,151.936752,-27.562531],
-  "geometry": {"coordinates":[151.936752,-27.562531],"type":"Point"}
+  "bbox": [
+    151.936752,
+    -27.562531,
+    151.936752,
+    -27.562531
+],
+  "geometry": {"coordinates":[151.93675200000001,-27.562531],"type":"Point"}
 }

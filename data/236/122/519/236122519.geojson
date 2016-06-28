@@ -2,13 +2,14 @@
   "id": 236122519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.929337,-37.776588,144.929337,-37.776588",
     "geom:latitude":-37.776588,
     "geom:longitude":144.929337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mascoma St",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236122519,
-    "wof:lastmodified":1449003538,
+    "wof:lastmodified":1466189095,
     "wof:name":"Prior Maintenance Services",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.929337,-37.776588,144.929337,-37.776588],
+  "bbox": [
+    144.929337,
+    -37.776588,
+    144.929337,
+    -37.776588
+],
   "geometry": {"coordinates":[144.929337,-37.776588],"type":"Point"}
 }

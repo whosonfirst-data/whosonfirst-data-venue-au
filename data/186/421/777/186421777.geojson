@@ -2,13 +2,14 @@
   "id": 186421777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.70079,-19.265482,146.70079,-19.265482",
     "geom:latitude":-19.265482,
     "geom:longitude":146.70079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Shaws Road Bohle",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186421777,
-    "wof:lastmodified":1449052079,
+    "wof:lastmodified":1466189673,
     "wof:name":"McElligotts Townsville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coating"
     ]
 },
-  "bbox": [146.70079,-19.265482,146.70079,-19.265482],
-  "geometry": {"coordinates":[146.70079,-19.265482],"type":"Point"}
+  "bbox": [
+    146.70079,
+    -19.265482,
+    146.70079,
+    -19.265482
+],
+  "geometry": {"coordinates":[146.70079000000001,-19.265482],"type":"Point"}
 }

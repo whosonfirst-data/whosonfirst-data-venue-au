@@ -2,13 +2,14 @@
   "id": 219596663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165985,-33.905495,151.165985,-33.905495",
     "geom:latitude":-33.905495,
     "geom:longitude":151.165985,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Cook Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219596663,
-    "wof:lastmodified":1449072192,
+    "wof:lastmodified":1466190667,
     "wof:name":"Ideal Metal Spinning",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spinner"
     ]
 },
-  "bbox": [151.165985,-33.905495,151.165985,-33.905495],
-  "geometry": {"coordinates":[151.165985,-33.905495],"type":"Point"}
+  "bbox": [
+    151.165985,
+    -33.905495,
+    151.165985,
+    -33.905495
+],
+  "geometry": {"coordinates":[151.16598500000001,-33.905495],"type":"Point"}
 }

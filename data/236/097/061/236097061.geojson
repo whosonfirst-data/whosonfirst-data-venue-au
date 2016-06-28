@@ -2,13 +2,14 @@
   "id": 236097061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.661362,-37.901428,144.661362,-37.901428",
     "geom:latitude":-37.901428,
     "geom:longitude":144.661362,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Watton St",
     "sg:city":"Werribee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236097061,
-    "wof:lastmodified":1449002861,
+    "wof:lastmodified":1466188567,
     "wof:name":"Latrobe Health Services",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.661362,-37.901428,144.661362,-37.901428],
+  "bbox": [
+    144.661362,
+    -37.901428,
+    144.661362,
+    -37.901428
+],
   "geometry": {"coordinates":[144.661362,-37.901428],"type":"Point"}
 }

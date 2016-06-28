@@ -2,13 +2,14 @@
   "id": 220177515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.33609,-38.155571,144.33609,-38.155571",
     "geom:latitude":-38.155571,
     "geom:longitude":144.33609,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Stinton Ave",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220177515,
-    "wof:lastmodified":1449074876,
+    "wof:lastmodified":1466189140,
     "wof:name":"Newtown Licensed Grocery",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [144.33609,-38.155571,144.33609,-38.155571],
-  "geometry": {"coordinates":[144.33609,-38.155571],"type":"Point"}
+  "bbox": [
+    144.33609,
+    -38.155571,
+    144.33609,
+    -38.155571
+],
+  "geometry": {"coordinates":[144.33609000000001,-38.155571],"type":"Point"}
 }

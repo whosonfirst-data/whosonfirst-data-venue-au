@@ -2,13 +2,14 @@
   "id": 236284897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.745461,-32.32708,115.745461,-32.32708",
     "geom:latitude":-32.32708,
     "geom:longitude":115.745461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Fendam St",
     "sg:city":"Waikiki",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236284897,
-    "wof:lastmodified":1449003748,
+    "wof:lastmodified":1466190270,
     "wof:name":"Mad Cow Entertainment Co",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "children's"
     ]
 },
-  "bbox": [115.745461,-32.32708,115.745461,-32.32708],
-  "geometry": {"coordinates":[115.745461,-32.32708],"type":"Point"}
+  "bbox": [
+    115.745461,
+    -32.32708,
+    115.745461,
+    -32.32708
+],
+  "geometry": {"coordinates":[115.74546100000001,-32.32708],"type":"Point"}
 }

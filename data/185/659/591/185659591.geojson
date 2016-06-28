@@ -2,13 +2,14 @@
   "id": 185659591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.787361,-32.025944,115.787361,-32.025944",
     "geom:latitude":-32.025944,
     "geom:longitude":115.787361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"103A Harris Rd",
     "sg:city":"Bicton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185659591,
-    "wof:lastmodified":1449006780,
+    "wof:lastmodified":1466188431,
     "wof:name":"Bicton Veterinary Clinic",
     "wof:parent_id":85768847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [115.787361,-32.025944,115.787361,-32.025944],
+  "bbox": [
+    115.787361,
+    -32.025944,
+    115.787361,
+    -32.025944
+],
   "geometry": {"coordinates":[115.787361,-32.025944],"type":"Point"}
 }

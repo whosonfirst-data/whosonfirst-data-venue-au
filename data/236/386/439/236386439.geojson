@@ -2,13 +2,14 @@
   "id": 236386439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.889328,-32.11319,115.889328,-32.11319",
     "geom:latitude":-32.11319,
     "geom:longitude":115.889328,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Cessna Drv",
     "sg:city":"Jandakot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236386439,
-    "wof:lastmodified":1449003370,
+    "wof:lastmodified":1466190978,
     "wof:name":"Bebbington Cartographics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mapping"
     ]
 },
-  "bbox": [115.889328,-32.11319,115.889328,-32.11319],
-  "geometry": {"coordinates":[115.889328,-32.11319],"type":"Point"}
+  "bbox": [
+    115.889328,
+    -32.11319,
+    115.889328,
+    -32.11319
+],
+  "geometry": {"coordinates":[115.88932800000001,-32.11319],"type":"Point"}
 }

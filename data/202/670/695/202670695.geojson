@@ -2,13 +2,14 @@
   "id": 202670695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.012436,-27.384182,153.012436,-27.384182",
     "geom:latitude":-27.384182,
     "geom:longitude":153.012436,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Basnett St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202670695,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466188280,
     "wof:name":"Leddys Proprietary",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [153.012436,-27.384182,153.012436,-27.384182],
-  "geometry": {"coordinates":[153.012436,-27.384182],"type":"Point"}
+  "bbox": [
+    153.012436,
+    -27.384182,
+    153.012436,
+    -27.384182
+],
+  "geometry": {"coordinates":[153.01243600000001,-27.384182],"type":"Point"}
 }

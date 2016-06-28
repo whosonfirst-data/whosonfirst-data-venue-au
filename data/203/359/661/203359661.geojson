@@ -2,13 +2,14 @@
   "id": 203359661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.883224,-37.576839,143.883224,-37.576839",
     "geom:latitude":-37.576839,
     "geom:longitude":143.883224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Kline St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203359661,
-    "wof:lastmodified":1449024916,
+    "wof:lastmodified":1466188846,
     "wof:name":"White Hawke Roofing Pty Ltd",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [143.883224,-37.576839,143.883224,-37.576839],
-  "geometry": {"coordinates":[143.883224,-37.576839],"type":"Point"}
+  "bbox": [
+    143.883224,
+    -37.576839,
+    143.883224,
+    -37.576839
+],
+  "geometry": {"coordinates":[143.88322400000001,-37.576839],"type":"Point"}
 }

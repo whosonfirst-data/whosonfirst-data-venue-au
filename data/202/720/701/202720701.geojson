@@ -2,13 +2,14 @@
   "id": 202720701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.06221,-27.354027,153.06221,-27.354027",
     "geom:latitude":-27.354027,
     "geom:longitude":153.06221,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Boondall St",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202720701,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466189224,
     "wof:name":"Richardsons Roofing & Maintenance",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.06221,-27.354027,153.06221,-27.354027],
-  "geometry": {"coordinates":[153.06221,-27.354027],"type":"Point"}
+  "bbox": [
+    153.06221,
+    -27.354027,
+    153.06221,
+    -27.354027
+],
+  "geometry": {"coordinates":[153.06220999999999,-27.354027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236211409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.481506,-38.077511,145.481506,-38.077511",
     "geom:latitude":-38.077511,
     "geom:longitude":145.481506,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3, 89 Main St",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236211409,
-    "wof:lastmodified":1449002289,
+    "wof:lastmodified":1466190110,
     "wof:name":"South East Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.481506,-38.077511,145.481506,-38.077511],
+  "bbox": [
+    145.481506,
+    -38.077511,
+    145.481506,
+    -38.077511
+],
   "geometry": {"coordinates":[145.481506,-38.077511],"type":"Point"}
 }

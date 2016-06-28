@@ -2,13 +2,14 @@
   "id": 169835855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.868584,-32.015095,115.868584,-32.015095",
     "geom:latitude":-32.015095,
     "geom:longitude":115.868584,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Welwyn Ave",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169835855,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466189280,
     "wof:name":"Festival Cafe & Bakery",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [115.868584,-32.015095,115.868584,-32.015095],
+  "bbox": [
+    115.868584,
+    -32.015095,
+    115.868584,
+    -32.015095
+],
   "geometry": {"coordinates":[115.868584,-32.015095],"type":"Point"}
 }

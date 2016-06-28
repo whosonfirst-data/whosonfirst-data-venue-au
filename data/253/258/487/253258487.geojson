@@ -2,13 +2,14 @@
   "id": 253258487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.962799,-27.54496,151.962799,-27.54496",
     "geom:latitude":-27.54496,
     "geom:longitude":151.962799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Prospect St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253258487,
-    "wof:lastmodified":1449065155,
+    "wof:lastmodified":1466190454,
     "wof:name":"Daniel Riwoe",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [151.962799,-27.54496,151.962799,-27.54496],
-  "geometry": {"coordinates":[151.962799,-27.54496],"type":"Point"}
+  "bbox": [
+    151.962799,
+    -27.54496,
+    151.962799,
+    -27.54496
+],
+  "geometry": {"coordinates":[151.96279899999999,-27.54496],"type":"Point"}
 }

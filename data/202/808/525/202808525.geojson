@@ -2,13 +2,14 @@
   "id": 202808525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.720749,-32.924404,151.720749,-32.924404",
     "geom:latitude":-32.924404,
     "geom:longitude":151.720749,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Bridges Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202808525,
-    "wof:lastmodified":1449060221,
+    "wof:lastmodified":1466190367,
     "wof:name":"Swimart Pool & Spa Services",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [151.720749,-32.924404,151.720749,-32.924404],
-  "geometry": {"coordinates":[151.720749,-32.924404],"type":"Point"}
+  "bbox": [
+    151.720749,
+    -32.924404,
+    151.720749,
+    -32.924404
+],
+  "geometry": {"coordinates":[151.72074900000001,-32.924404],"type":"Point"}
 }

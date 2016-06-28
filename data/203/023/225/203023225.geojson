@@ -2,13 +2,14 @@
   "id": 203023225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.260178,-20.071451,146.260178,-20.071451",
     "geom:latitude":-20.071451,
     "geom:longitude":146.260178,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mosman St",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203023225,
-    "wof:lastmodified":1449026681,
+    "wof:lastmodified":1466187660,
     "wof:name":"AAA Park Motel",
     "wof:parent_id":85779767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.260178,-20.071451,146.260178,-20.071451],
+  "bbox": [
+    146.260178,
+    -20.071451,
+    146.260178,
+    -20.071451
+],
   "geometry": {"coordinates":[146.260178,-20.071451],"type":"Point"}
 }

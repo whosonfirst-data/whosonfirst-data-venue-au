@@ -2,13 +2,14 @@
   "id": 220172649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357529,-38.160103,144.357529,-38.160103",
     "geom:latitude":-38.160103,
     "geom:longitude":144.357529,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Yarra St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220172649,
-    "wof:lastmodified":1449074362,
+    "wof:lastmodified":1466189047,
     "wof:name":"Wilson N & D Building Contractors",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.357529,-38.160103,144.357529,-38.160103],
+  "bbox": [
+    144.357529,
+    -38.160103,
+    144.357529,
+    -38.160103
+],
   "geometry": {"coordinates":[144.357529,-38.160103],"type":"Point"}
 }

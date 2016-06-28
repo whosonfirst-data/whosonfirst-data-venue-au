@@ -2,13 +2,14 @@
   "id": 169731345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.987564,-12.476108,130.987564,-12.476108",
     "geom:latitude":-12.476108,
     "geom:longitude":130.987564,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Adams Rd",
     "sg:city":"Yarrawonga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169731345,
-    "wof:lastmodified":1449035589,
+    "wof:lastmodified":1466187374,
     "wof:name":"Kakadu Winery",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [130.987564,-12.476108,130.987564,-12.476108],
-  "geometry": {"coordinates":[130.987564,-12.476108],"type":"Point"}
+  "bbox": [
+    130.987564,
+    -12.476108,
+    130.987564,
+    -12.476108
+],
+  "geometry": {"coordinates":[130.98756399999999,-12.476108],"type":"Point"}
 }

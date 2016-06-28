@@ -2,13 +2,14 @@
   "id": 185764299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.143692,-32.721798,152.143692,-32.721798",
     "geom:latitude":-32.721798,
     "geom:longitude":152.143692,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2 17- 19 Stockton St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185764299,
-    "wof:lastmodified":1449008119,
+    "wof:lastmodified":1466189692,
     "wof:name":"Hunter Discount Specs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "prescription"
     ]
 },
-  "bbox": [152.143692,-32.721798,152.143692,-32.721798],
-  "geometry": {"coordinates":[152.143692,-32.721798],"type":"Point"}
+  "bbox": [
+    152.143692,
+    -32.721798,
+    152.143692,
+    -32.721798
+],
+  "geometry": {"coordinates":[152.14369199999999,-32.721798],"type":"Point"}
 }

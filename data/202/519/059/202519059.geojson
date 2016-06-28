@@ -2,13 +2,14 @@
   "id": 202519059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.193283,-38.11068,145.193283,-38.11068",
     "geom:latitude":-38.11068,
     "geom:longitude":145.193283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Josephina Crt",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202519059,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466190018,
     "wof:name":"LBJ Upholstering & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "restoration"
     ]
 },
-  "bbox": [145.193283,-38.11068,145.193283,-38.11068],
-  "geometry": {"coordinates":[145.193283,-38.11068],"type":"Point"}
+  "bbox": [
+    145.193283,
+    -38.11068,
+    145.193283,
+    -38.11068
+],
+  "geometry": {"coordinates":[145.19328300000001,-38.11068],"type":"Point"}
 }

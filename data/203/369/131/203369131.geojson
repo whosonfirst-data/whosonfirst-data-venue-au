@@ -2,13 +2,14 @@
   "id": 203369131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.862045,-37.561935,143.862045,-37.561935",
     "geom:latitude":-37.561935,
     "geom:longitude":143.862045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Curtis St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203369131,
-    "wof:lastmodified":1449026776,
+    "wof:lastmodified":1466189009,
     "wof:name":"Complete Bowls Specialists",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [143.862045,-37.561935,143.862045,-37.561935],
-  "geometry": {"coordinates":[143.862045,-37.561935],"type":"Point"}
+  "bbox": [
+    143.862045,
+    -37.561935,
+    143.862045,
+    -37.561935
+],
+  "geometry": {"coordinates":[143.86204499999999,-37.561935],"type":"Point"}
 }

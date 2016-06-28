@@ -2,13 +2,14 @@
   "id": 186356203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.124893,-33.867939,151.124893,-33.867939",
     "geom:latitude":-33.867939,
     "geom:longitude":151.124893,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 9/ 63 Garfield St",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186356203,
-    "wof:lastmodified":1449052533,
+    "wof:lastmodified":1466188567,
     "wof:name":"Multilanguage Web Pages",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [151.124893,-33.867939,151.124893,-33.867939],
-  "geometry": {"coordinates":[151.124893,-33.867939],"type":"Point"}
+  "bbox": [
+    151.124893,
+    -33.867939,
+    151.124893,
+    -33.867939
+],
+  "geometry": {"coordinates":[151.12489299999999,-33.867939],"type":"Point"}
 }

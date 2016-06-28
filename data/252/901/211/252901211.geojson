@@ -2,13 +2,14 @@
   "id": 252901211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.565765,-37.698421,144.565765,-37.698421",
     "geom:latitude":-37.698421,
     "geom:longitude":144.565765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Coburns Rd",
     "sg:city":"Melton South",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252901211,
-    "wof:lastmodified":1449005861,
+    "wof:lastmodified":1466189004,
     "wof:name":"Coburns Childcare Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.565765,-37.698421,144.565765,-37.698421],
+  "bbox": [
+    144.565765,
+    -37.698421,
+    144.565765,
+    -37.698421
+],
   "geometry": {"coordinates":[144.565765,-37.698421],"type":"Point"}
 }

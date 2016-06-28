@@ -2,13 +2,14 @@
   "id": 219508957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.133408,-33.908806,151.133408,-33.908806",
     "geom:latitude":-33.908806,
     "geom:longitude":151.133408,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Hampden St",
     "sg:city":"Hurlstone Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219508957,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466189681,
     "wof:name":"Trucks with Cranes",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [151.133408,-33.908806,151.133408,-33.908806],
+  "bbox": [
+    151.133408,
+    -33.908806,
+    151.133408,
+    -33.908806
+],
   "geometry": {"coordinates":[151.133408,-33.908806],"type":"Point"}
 }

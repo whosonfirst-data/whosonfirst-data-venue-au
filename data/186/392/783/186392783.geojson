@@ -2,13 +2,14 @@
   "id": 186392783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.819656,-19.2659,146.819656,-19.2659",
     "geom:latitude":-19.2659,
     "geom:longitude":146.819656,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Band Hall Rooney St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186392783,
-    "wof:lastmodified":1449052476,
+    "wof:lastmodified":1466189204,
     "wof:name":"Townsville Citizens Band",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "orchestra"
     ]
 },
-  "bbox": [146.819656,-19.2659,146.819656,-19.2659],
-  "geometry": {"coordinates":[146.819656,-19.2659],"type":"Point"}
+  "bbox": [
+    146.819656,
+    -19.2659,
+    146.819656,
+    -19.2659
+],
+  "geometry": {"coordinates":[146.81965600000001,-19.2659],"type":"Point"}
 }

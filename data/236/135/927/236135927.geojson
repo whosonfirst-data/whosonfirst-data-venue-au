@@ -2,13 +2,14 @@
   "id": 236135927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.859177,-37.732056,144.859177,-37.732056",
     "geom:latitude":-37.732056,
     "geom:longitude":144.859177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 85 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236135927,
-    "wof:lastmodified":1449002818,
+    "wof:lastmodified":1466189369,
     "wof:name":"Magnetite Windows",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "energy"
     ]
 },
-  "bbox": [144.859177,-37.732056,144.859177,-37.732056],
-  "geometry": {"coordinates":[144.859177,-37.732056],"type":"Point"}
+  "bbox": [
+    144.859177,
+    -37.732056,
+    144.859177,
+    -37.732056
+],
+  "geometry": {"coordinates":[144.85917699999999,-37.732056],"type":"Point"}
 }

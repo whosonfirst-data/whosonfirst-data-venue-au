@@ -2,13 +2,14 @@
   "id": 185998463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.424896,-33.328625,151.424896,-33.328625",
     "geom:latitude":-33.328625,
     "geom:longitude":151.424896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 39 Apprentice Drv",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185998463,
-    "wof:lastmodified":1449007125,
+    "wof:lastmodified":1466188894,
     "wof:name":"Berkeley Vale Auto Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.424896,-33.328625,151.424896,-33.328625],
-  "geometry": {"coordinates":[151.424896,-33.328625],"type":"Point"}
+  "bbox": [
+    151.424896,
+    -33.328625,
+    151.424896,
+    -33.328625
+],
+  "geometry": {"coordinates":[151.42489599999999,-33.328625],"type":"Point"}
 }

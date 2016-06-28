@@ -2,13 +2,14 @@
   "id": 253057631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.767197,-37.767788,144.767197,-37.767788",
     "geom:latitude":-37.767788,
     "geom:longitude":144.767197,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Ballarat Rd",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253057631,
-    "wof:lastmodified":1449064284,
+    "wof:lastmodified":1466188035,
     "wof:name":"St Peter Chanel's Primary",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [144.767197,-37.767788,144.767197,-37.767788],
-  "geometry": {"coordinates":[144.767197,-37.767788],"type":"Point"}
+  "bbox": [
+    144.767197,
+    -37.767788,
+    144.767197,
+    -37.767788
+],
+  "geometry": {"coordinates":[144.76719700000001,-37.767788],"type":"Point"}
 }

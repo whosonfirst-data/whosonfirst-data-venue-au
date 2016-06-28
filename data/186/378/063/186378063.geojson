@@ -2,13 +2,14 @@
   "id": 186378063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.151016,-33.859325,151.151016,-33.859325",
     "geom:latitude":-33.859325,
     "geom:longitude":151.151016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Gipps St",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186378063,
-    "wof:lastmodified":1449052179,
+    "wof:lastmodified":1466188967,
     "wof:name":"Iron Cove Trading",
     "wof:parent_id":85776743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [151.151016,-33.859325,151.151016,-33.859325],
+  "bbox": [
+    151.151016,
+    -33.859325,
+    151.151016,
+    -33.859325
+],
   "geometry": {"coordinates":[151.151016,-33.859325],"type":"Point"}
 }

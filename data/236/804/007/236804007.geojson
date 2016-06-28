@@ -2,13 +2,14 @@
   "id": 236804007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.888321,-34.473213,150.888321,-34.473213",
     "geom:latitude":-34.473213,
     "geom:longitude":150.888321,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Flinders St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236804007,
-    "wof:lastmodified":1449004044,
+    "wof:lastmodified":1466192047,
     "wof:name":"National Hire The Cat Rental Store",
     "wof:parent_id":85780569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [150.888321,-34.473213,150.888321,-34.473213],
-  "geometry": {"coordinates":[150.888321,-34.473213],"type":"Point"}
+  "bbox": [
+    150.888321,
+    -34.473213,
+    150.888321,
+    -34.473213
+],
+  "geometry": {"coordinates":[150.88832099999999,-34.473213],"type":"Point"}
 }

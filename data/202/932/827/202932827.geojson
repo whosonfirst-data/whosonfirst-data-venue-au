@@ -2,13 +2,14 @@
   "id": 202932827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.118393,-30.289833,153.118393,-30.289833",
     "geom:latitude":-30.289833,
     "geom:longitude":153.118393,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 June St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202932827,
-    "wof:lastmodified":1449061051,
+    "wof:lastmodified":1466190778,
     "wof:name":"Bob's 4WD Centre",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.118393,-30.289833,153.118393,-30.289833],
+  "bbox": [
+    153.118393,
+    -30.289833,
+    153.118393,
+    -30.289833
+],
   "geometry": {"coordinates":[153.118393,-30.289833],"type":"Point"}
 }

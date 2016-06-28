@@ -2,13 +2,14 @@
   "id": 202894433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.948746,-30.480875,152.948746,-30.480875",
     "geom:latitude":-30.480875,
     "geom:longitude":152.948746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 28 McDougall Pl",
     "sg:city":"Fernmount",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202894433,
-    "wof:lastmodified":1449061156,
+    "wof:lastmodified":1466190636,
     "wof:name":"North Coast Testing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "investigation"
     ]
 },
-  "bbox": [152.948746,-30.480875,152.948746,-30.480875],
+  "bbox": [
+    152.948746,
+    -30.480875,
+    152.948746,
+    -30.480875
+],
   "geometry": {"coordinates":[152.948746,-30.480875],"type":"Point"}
 }

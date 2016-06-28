@@ -2,13 +2,14 @@
   "id": 202728237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.008759,-27.33062,153.008759,-27.33062",
     "geom:latitude":-27.33062,
     "geom:longitude":153.008759,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 Gympie Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202728237,
-    "wof:lastmodified":1449060695,
+    "wof:lastmodified":1466189366,
     "wof:name":"P.M. Village",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [153.008759,-27.33062,153.008759,-27.33062],
+  "bbox": [
+    153.008759,
+    -27.33062,
+    153.008759,
+    -27.33062
+],
   "geometry": {"coordinates":[153.008759,-27.33062],"type":"Point"}
 }

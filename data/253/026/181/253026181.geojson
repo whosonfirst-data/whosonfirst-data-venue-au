@@ -2,13 +2,14 @@
   "id": 253026181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.757355,-37.867908,144.757355,-37.867908",
     "geom:latitude":-37.867908,
     "geom:longitude":144.757355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Triholme Ave",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253026181,
-    "wof:lastmodified":1449064559,
+    "wof:lastmodified":1466187437,
     "wof:name":"Gondara Trucking Pty Ltd",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.757355,-37.867908,144.757355,-37.867908],
-  "geometry": {"coordinates":[144.757355,-37.867908],"type":"Point"}
+  "bbox": [
+    144.757355,
+    -37.867908,
+    144.757355,
+    -37.867908
+],
+  "geometry": {"coordinates":[144.75735499999999,-37.867908],"type":"Point"}
 }

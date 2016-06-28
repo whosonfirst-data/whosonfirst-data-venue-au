@@ -2,13 +2,14 @@
   "id": 236112485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.934814,-37.799339,144.934814,-37.799339",
     "geom:latitude":-37.799339,
     "geom:longitude":144.934814,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Arden St",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236112485,
-    "wof:lastmodified":1449003116,
+    "wof:lastmodified":1466188886,
     "wof:name":"A & D Mercury Pty.Ltd.",
     "wof:parent_id":85776485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weighing"
     ]
 },
-  "bbox": [144.934814,-37.799339,144.934814,-37.799339],
-  "geometry": {"coordinates":[144.934814,-37.799339],"type":"Point"}
+  "bbox": [
+    144.934814,
+    -37.799339,
+    144.934814,
+    -37.799339
+],
+  "geometry": {"coordinates":[144.93481399999999,-37.799339],"type":"Point"}
 }

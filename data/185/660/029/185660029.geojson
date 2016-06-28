@@ -2,13 +2,14 @@
   "id": 185660029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.78476,-32.03347,115.78476,-32.03347",
     "geom:latitude":-32.03347,
     "geom:longitude":115.78476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 / 26 Point Walter Rd",
     "sg:city":"Bicton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185660029,
-    "wof:lastmodified":1449008055,
+    "wof:lastmodified":1466189984,
     "wof:name":"Bel-Air Antique Restorations",
     "wof:parent_id":85768847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "reproduction"
     ]
 },
-  "bbox": [115.78476,-32.03347,115.78476,-32.03347],
-  "geometry": {"coordinates":[115.78476,-32.03347],"type":"Point"}
+  "bbox": [
+    115.78476,
+    -32.03347,
+    115.78476,
+    -32.03347
+],
+  "geometry": {"coordinates":[115.78476000000001,-32.03347],"type":"Point"}
 }

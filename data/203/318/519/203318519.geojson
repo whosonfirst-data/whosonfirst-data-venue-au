@@ -2,13 +2,14 @@
   "id": 203318519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.842865,-37.593067,143.842865,-37.593067",
     "geom:latitude":-37.593067,
     "geom:longitude":143.842865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Yarrowee St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203318519,
-    "wof:lastmodified":1449025339,
+    "wof:lastmodified":1466188242,
     "wof:name":"Body Zone Panels",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [143.842865,-37.593067,143.842865,-37.593067],
-  "geometry": {"coordinates":[143.842865,-37.593067],"type":"Point"}
+  "bbox": [
+    143.842865,
+    -37.593067,
+    143.842865,
+    -37.593067
+],
+  "geometry": {"coordinates":[143.84286499999999,-37.593067],"type":"Point"}
 }

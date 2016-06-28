@@ -2,13 +2,14 @@
   "id": 236827081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.881607,-34.408512,150.881607,-34.408512",
     "geom:latitude":-34.408512,
     "geom:longitude":150.881607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Building 13 Northfields Ave",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236827081,
-    "wof:lastmodified":1449002701,
+    "wof:lastmodified":1466192126,
     "wof:name":"Bite Nutrition Consulting",
     "wof:parent_id":85769429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [150.881607,-34.408512,150.881607,-34.408512],
+  "bbox": [
+    150.881607,
+    -34.408512,
+    150.881607,
+    -34.408512
+],
   "geometry": {"coordinates":[150.881607,-34.408512],"type":"Point"}
 }

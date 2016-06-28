@@ -2,13 +2,14 @@
   "id": 185801885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.528442,-37.701416,145.528442,-37.701416",
     "geom:latitude":-37.701416,
     "geom:longitude":145.528442,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Pine Ave",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185801885,
-    "wof:lastmodified":1449007953,
+    "wof:lastmodified":1466189933,
     "wof:name":"Lavender Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "attractions"
     ]
 },
-  "bbox": [145.528442,-37.701416,145.528442,-37.701416],
-  "geometry": {"coordinates":[145.528442,-37.701416],"type":"Point"}
+  "bbox": [
+    145.528442,
+    -37.701416,
+    145.528442,
+    -37.701416
+],
+  "geometry": {"coordinates":[145.52844200000001,-37.701416],"type":"Point"}
 }

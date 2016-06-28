@@ -2,13 +2,14 @@
   "id": 253096001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.818436,-37.808914,144.818436,-37.808914",
     "geom:latitude":-37.808914,
     "geom:longitude":144.818436,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"128- 132 Fairbairn Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253096001,
-    "wof:lastmodified":1449063783,
+    "wof:lastmodified":1466188648,
     "wof:name":"Roadmaster Pty Ltd.",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refrigerated"
     ]
 },
-  "bbox": [144.818436,-37.808914,144.818436,-37.808914],
-  "geometry": {"coordinates":[144.818436,-37.808914],"type":"Point"}
+  "bbox": [
+    144.818436,
+    -37.808914,
+    144.818436,
+    -37.808914
+],
+  "geometry": {"coordinates":[144.81843599999999,-37.808914],"type":"Point"}
 }

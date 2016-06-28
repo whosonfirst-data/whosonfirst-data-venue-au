@@ -2,13 +2,14 @@
   "id": 236127847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.859406,-37.74287,144.859406,-37.74287",
     "geom:latitude":-37.74287,
     "geom:longitude":144.859406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Regent St",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236127847,
-    "wof:lastmodified":1449004923,
+    "wof:lastmodified":1466189203,
     "wof:name":"Cesile C",
     "wof:parent_id":85775129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drainers"
     ]
 },
-  "bbox": [144.859406,-37.74287,144.859406,-37.74287],
-  "geometry": {"coordinates":[144.859406,-37.74287],"type":"Point"}
+  "bbox": [
+    144.859406,
+    -37.74287,
+    144.859406,
+    -37.74287
+],
+  "geometry": {"coordinates":[144.85940600000001,-37.74287],"type":"Point"}
 }

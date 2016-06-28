@@ -2,13 +2,14 @@
   "id": 253310699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.418854,-37.994534,145.418854,-37.994534",
     "geom:latitude":-37.994534,
     "geom:longitude":145.418854,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Burton Rd",
     "sg:city":"Beaconsfield Upper",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253310699,
-    "wof:lastmodified":1449064631,
+    "wof:lastmodified":1466190818,
     "wof:name":"Burridge Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.418854,-37.994534,145.418854,-37.994534],
-  "geometry": {"coordinates":[145.418854,-37.994534],"type":"Point"}
+  "bbox": [
+    145.418854,
+    -37.994534,
+    145.418854,
+    -37.994534
+],
+  "geometry": {"coordinates":[145.41885400000001,-37.994534],"type":"Point"}
 }

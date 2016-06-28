@@ -2,13 +2,14 @@
   "id": 203153989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.960754,-36.556915,145.960754,-36.556915",
     "geom:latitude":-36.556915,
     "geom:longitude":145.960754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hume Crt",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203153989,
-    "wof:lastmodified":1449026287,
+    "wof:lastmodified":1466189683,
     "wof:name":"Airconditioning 4 U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [145.960754,-36.556915,145.960754,-36.556915],
-  "geometry": {"coordinates":[145.960754,-36.556915],"type":"Point"}
+  "bbox": [
+    145.960754,
+    -36.556915,
+    145.960754,
+    -36.556915
+],
+  "geometry": {"coordinates":[145.96075400000001,-36.556915],"type":"Point"}
 }

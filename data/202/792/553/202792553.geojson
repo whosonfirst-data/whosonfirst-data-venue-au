@@ -2,13 +2,14 @@
   "id": 202792553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.747665,-32.921051,151.747665,-32.921051",
     "geom:latitude":-32.921051,
     "geom:longitude":151.747665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Beaumont St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202792553,
-    "wof:lastmodified":1449060662,
+    "wof:lastmodified":1466190144,
     "wof:name":"Sportsmans Barber",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.747665,-32.921051,151.747665,-32.921051],
-  "geometry": {"coordinates":[151.747665,-32.921051],"type":"Point"}
+  "bbox": [
+    151.747665,
+    -32.921051,
+    151.747665,
+    -32.921051
+],
+  "geometry": {"coordinates":[151.74766500000001,-32.921051],"type":"Point"}
 }

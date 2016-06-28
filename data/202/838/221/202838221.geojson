@@ -2,13 +2,14 @@
   "id": 202838221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.156876,-23.516962,148.156876,-23.516962",
     "geom:latitude":-23.516962,
     "geom:longitude":148.156876,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Esmond St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202838221,
-    "wof:lastmodified":1449060407,
+    "wof:lastmodified":1466190459,
     "wof:name":"Emerald Twin Cinemas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.156876,-23.516962,148.156876,-23.516962],
-  "geometry": {"coordinates":[148.156876,-23.516962],"type":"Point"}
+  "bbox": [
+    148.156876,
+    -23.516962,
+    148.156876,
+    -23.516962
+],
+  "geometry": {"coordinates":[148.15687600000001,-23.516962],"type":"Point"}
 }

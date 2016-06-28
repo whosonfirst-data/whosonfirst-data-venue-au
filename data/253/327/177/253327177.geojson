@@ -2,13 +2,14 @@
   "id": 253327177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.296997,-38.067547,145.296997,-38.067547",
     "geom:latitude":-38.067547,
     "geom:longitude":145.296997,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Golden Grove Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253327177,
-    "wof:lastmodified":1449063047,
+    "wof:lastmodified":1466190860,
     "wof:name":"Home Lodge",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.296997,-38.067547,145.296997,-38.067547],
+  "bbox": [
+    145.296997,
+    -38.067547,
+    145.296997,
+    -38.067547
+],
   "geometry": {"coordinates":[145.296997,-38.067547],"type":"Point"}
 }

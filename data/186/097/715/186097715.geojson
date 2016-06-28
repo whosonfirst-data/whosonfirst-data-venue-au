@@ -2,13 +2,14 @@
   "id": 186097715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.836273,-31.057512,152.836273,-31.057512",
     "geom:latitude":-31.057512,
     "geom:longitude":152.836273,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Kemp & Elbow Sts",
     "sg:city":"Kempsey West",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186097715,
-    "wof:lastmodified":1449051423,
+    "wof:lastmodified":1466189218,
     "wof:name":"Appliance Traders (N.S.W.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "washing"
     ]
 },
-  "bbox": [152.836273,-31.057512,152.836273,-31.057512],
-  "geometry": {"coordinates":[152.836273,-31.057512],"type":"Point"}
+  "bbox": [
+    152.836273,
+    -31.057512,
+    152.836273,
+    -31.057512
+],
+  "geometry": {"coordinates":[152.83627300000001,-31.057512],"type":"Point"}
 }

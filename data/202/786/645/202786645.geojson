@@ -2,13 +2,14 @@
   "id": 202786645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.770355,-32.933121,151.770355,-32.933121",
     "geom:latitude":-32.933121,
     "geom:longitude":151.770355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4- 185 Darby St",
     "sg:city":"Cooks Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202786645,
-    "wof:lastmodified":1449060435,
+    "wof:lastmodified":1466190210,
     "wof:name":"Alexander Pilates",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "method"
     ]
 },
-  "bbox": [151.770355,-32.933121,151.770355,-32.933121],
+  "bbox": [
+    151.770355,
+    -32.933121,
+    151.770355,
+    -32.933121
+],
   "geometry": {"coordinates":[151.770355,-32.933121],"type":"Point"}
 }

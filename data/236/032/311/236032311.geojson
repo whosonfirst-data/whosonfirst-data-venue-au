@@ -2,13 +2,14 @@
   "id": 236032311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.002357,-32.07201,116.002357,-32.07201",
     "geom:latitude":-32.07201,
     "geom:longitude":116.002357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 254",
     "sg:city":"Gosnells PLB",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236032311,
-    "wof:lastmodified":1449003227,
+    "wof:lastmodified":1466187273,
     "wof:name":"South of The River Mobile Veterinary Services",
     "wof:parent_id":85771365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [116.002357,-32.07201,116.002357,-32.07201],
+  "bbox": [
+    116.002357,
+    -32.07201,
+    116.002357,
+    -32.07201
+],
   "geometry": {"coordinates":[116.002357,-32.07201],"type":"Point"}
 }

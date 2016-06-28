@@ -2,13 +2,14 @@
   "id": 203333673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.816818,-37.555241,143.816818,-37.555241",
     "geom:latitude":-37.555241,
     "geom:longitude":143.816818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203333673,
-    "wof:lastmodified":1449026744,
+    "wof:lastmodified":1466188397,
     "wof:name":"Park Hotel Bistro",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.816818,-37.555241,143.816818,-37.555241],
-  "geometry": {"coordinates":[143.816818,-37.555241],"type":"Point"}
+  "bbox": [
+    143.816818,
+    -37.555241,
+    143.816818,
+    -37.555241
+],
+  "geometry": {"coordinates":[143.81681800000001,-37.555241],"type":"Point"}
 }

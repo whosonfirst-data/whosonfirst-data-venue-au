@@ -2,13 +2,14 @@
   "id": 185994817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.448685,-33.369656,151.448685,-33.369656",
     "geom:latitude":-33.369656,
     "geom:longitude":151.448685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Molsten Ave",
     "sg:city":"Tumbi Umbi",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185994817,
-    "wof:lastmodified":1449006658,
+    "wof:lastmodified":1466188863,
     "wof:name":"Kings Limousines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "limousine"
     ]
 },
-  "bbox": [151.448685,-33.369656,151.448685,-33.369656],
-  "geometry": {"coordinates":[151.448685,-33.369656],"type":"Point"}
+  "bbox": [
+    151.448685,
+    -33.369656,
+    151.448685,
+    -33.369656
+],
+  "geometry": {"coordinates":[151.44868500000001,-33.369656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203349139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.857391,-37.559483,143.857391,-37.559483",
     "geom:latitude":-37.559483,
     "geom:longitude":143.857391,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216A Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203349139,
-    "wof:lastmodified":1449025635,
+    "wof:lastmodified":1466188662,
     "wof:name":"Landlink Property Group",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [143.857391,-37.559483,143.857391,-37.559483],
-  "geometry": {"coordinates":[143.857391,-37.559483],"type":"Point"}
+  "bbox": [
+    143.857391,
+    -37.559483,
+    143.857391,
+    -37.559483
+],
+  "geometry": {"coordinates":[143.85739100000001,-37.559483],"type":"Point"}
 }

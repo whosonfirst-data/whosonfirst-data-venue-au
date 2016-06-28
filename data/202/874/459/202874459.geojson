@@ -2,13 +2,14 @@
   "id": 202874459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.299637,-25.58774,151.299637,-25.58774",
     "geom:latitude":-25.58774,
     "geom:longitude":151.299637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bouverie St",
     "sg:city":"Mundubbera",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202874459,
-    "wof:lastmodified":1449062480,
+    "wof:lastmodified":1466190568,
     "wof:name":"Mundubbera Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.299637,-25.58774,151.299637,-25.58774],
-  "geometry": {"coordinates":[151.299637,-25.58774],"type":"Point"}
+  "bbox": [
+    151.299637,
+    -25.58774,
+    151.299637,
+    -25.58774
+],
+  "geometry": {"coordinates":[151.29963699999999,-25.58774],"type":"Point"}
 }

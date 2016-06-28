@@ -2,13 +2,14 @@
   "id": 236604189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.139435,-33.976864,151.139435,-33.976864",
     "geom:latitude":-33.976864,
     "geom:longitude":151.139435,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 33 Phillips Rd",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236604189,
-    "wof:lastmodified":1449004785,
+    "wof:lastmodified":1466191784,
     "wof:name":"Aargus Pty Ltd",
     "wof:parent_id":85770051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [151.139435,-33.976864,151.139435,-33.976864],
-  "geometry": {"coordinates":[151.139435,-33.976864],"type":"Point"}
+  "bbox": [
+    151.139435,
+    -33.976864,
+    151.139435,
+    -33.976864
+],
+  "geometry": {"coordinates":[151.13943499999999,-33.976864],"type":"Point"}
 }

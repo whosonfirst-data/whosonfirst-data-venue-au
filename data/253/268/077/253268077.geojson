@@ -2,13 +2,14 @@
   "id": 253268077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950348,-27.66326,151.950348,-27.66326",
     "geom:latitude":-27.66326,
     "geom:longitude":151.950348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Carroll Rd",
     "sg:city":"Hodgson Vale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253268077,
-    "wof:lastmodified":1449064505,
+    "wof:lastmodified":1466190506,
     "wof:name":"Garden City Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [151.950348,-27.66326,151.950348,-27.66326],
-  "geometry": {"coordinates":[151.950348,-27.66326],"type":"Point"}
+  "bbox": [
+    151.950348,
+    -27.66326,
+    151.950348,
+    -27.66326
+],
+  "geometry": {"coordinates":[151.95034799999999,-27.66326],"type":"Point"}
 }

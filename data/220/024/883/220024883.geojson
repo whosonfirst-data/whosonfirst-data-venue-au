@@ -2,13 +2,14 @@
   "id": 220024883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.615524,-35.02113,138.615524,-35.02113",
     "geom:latitude":-35.02113,
     "geom:longitude":138.615524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"368a Shepherds Hill Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220024883,
-    "wof:lastmodified":1449074408,
+    "wof:lastmodified":1466187224,
     "wof:name":"Suzies Hair Studio",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [138.615524,-35.02113,138.615524,-35.02113],
-  "geometry": {"coordinates":[138.615524,-35.02113],"type":"Point"}
+  "bbox": [
+    138.615524,
+    -35.02113,
+    138.615524,
+    -35.02113
+],
+  "geometry": {"coordinates":[138.61552399999999,-35.02113],"type":"Point"}
 }

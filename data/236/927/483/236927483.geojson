@@ -2,13 +2,14 @@
   "id": 236927483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.527527,-34.997997,138.527527,-34.997997",
     "geom:latitude":-34.997997,
     "geom:longitude":138.527527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Byre Ave",
     "sg:city":"Somerton Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236927483,
-    "wof:lastmodified":1449004831,
+    "wof:lastmodified":1466192133,
     "wof:name":"Sturm's Mechanical & Manufacturing Pty Ltd",
     "wof:parent_id":85774989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [138.527527,-34.997997,138.527527,-34.997997],
-  "geometry": {"coordinates":[138.527527,-34.997997],"type":"Point"}
+  "bbox": [
+    138.527527,
+    -34.997997,
+    138.527527,
+    -34.997997
+],
+  "geometry": {"coordinates":[138.52752699999999,-34.997997],"type":"Point"}
 }

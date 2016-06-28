@@ -2,13 +2,14 @@
   "id": 253016903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.702347,-37.879684,144.702347,-37.879684",
     "geom:latitude":-37.879684,
     "geom:longitude":144.702347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 - 43 Heaths Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253016903,
-    "wof:lastmodified":1449063327,
+    "wof:lastmodified":1466187250,
     "wof:name":"Midas",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [144.702347,-37.879684,144.702347,-37.879684],
+  "bbox": [
+    144.702347,
+    -37.879684,
+    144.702347,
+    -37.879684
+],
   "geometry": {"coordinates":[144.702347,-37.879684],"type":"Point"}
 }

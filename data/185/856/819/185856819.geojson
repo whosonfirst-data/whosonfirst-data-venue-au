@@ -2,13 +2,14 @@
   "id": 185856819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.888809,-25.30669,152.888809,-25.30669",
     "geom:latitude":-25.30669,
     "geom:longitude":152.888809,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Kruger Crt",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185856819,
-    "wof:lastmodified":1449007069,
+    "wof:lastmodified":1466187425,
     "wof:name":"Avis Car Rentals",
     "wof:parent_id":85770521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "minibus"
     ]
 },
-  "bbox": [152.888809,-25.30669,152.888809,-25.30669],
-  "geometry": {"coordinates":[152.888809,-25.30669],"type":"Point"}
+  "bbox": [
+    152.888809,
+    -25.30669,
+    152.888809,
+    -25.30669
+],
+  "geometry": {"coordinates":[152.88880900000001,-25.30669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236800187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.854385,-34.474216,150.854385,-34.474216",
     "geom:latitude":-34.474216,
     "geom:longitude":150.854385,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Berkeley Rd",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236800187,
-    "wof:lastmodified":1449001870,
+    "wof:lastmodified":1466191947,
     "wof:name":"Nan Tien Temple (IBAA - International Buddhist Association Of Australia)",
     "wof:parent_id":85769125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cultural"
     ]
 },
-  "bbox": [150.854385,-34.474216,150.854385,-34.474216],
-  "geometry": {"coordinates":[150.854385,-34.474216],"type":"Point"}
+  "bbox": [
+    150.854385,
+    -34.474216,
+    150.854385,
+    -34.474216
+],
+  "geometry": {"coordinates":[150.85438500000001,-34.474216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252875681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.584763,-37.682957,144.584763,-37.682957",
     "geom:latitude":-37.682957,
     "geom:longitude":144.584763,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"264 High St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252875681,
-    "wof:lastmodified":1449006216,
+    "wof:lastmodified":1466188767,
     "wof:name":"Melton Chinese Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [144.584763,-37.682957,144.584763,-37.682957],
-  "geometry": {"coordinates":[144.584763,-37.682957],"type":"Point"}
+  "bbox": [
+    144.584763,
+    -37.682957,
+    144.584763,
+    -37.682957
+],
+  "geometry": {"coordinates":[144.58476300000001,-37.682957],"type":"Point"}
 }

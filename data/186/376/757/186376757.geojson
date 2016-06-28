@@ -2,13 +2,14 @@
   "id": 186376757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154739,-33.851467,151.154739,-33.851467",
     "geom:latitude":-33.851467,
     "geom:longitude":151.154739,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186376757,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1466188942,
     "wof:name":"Laing + Simmons Drummoyne",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [151.154739,-33.851467,151.154739,-33.851467],
-  "geometry": {"coordinates":[151.154739,-33.851467],"type":"Point"}
+  "bbox": [
+    151.154739,
+    -33.851467,
+    151.154739,
+    -33.851467
+],
+  "geometry": {"coordinates":[151.15473900000001,-33.851467],"type":"Point"}
 }

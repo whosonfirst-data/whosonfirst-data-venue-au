@@ -2,13 +2,14 @@
   "id": 202914265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.09053,-30.318281,153.09053,-30.318281",
     "geom:latitude":-30.318281,
     "geom:longitude":153.09053,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3 150 Pacific Hwy",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202914265,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466190873,
     "wof:name":"O&#039;Meara Wood & Accociates",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.09053,-30.318281,153.09053,-30.318281],
+  "bbox": [
+    153.09053,
+    -30.318281,
+    153.09053,
+    -30.318281
+],
   "geometry": {"coordinates":[153.09053,-30.318281],"type":"Point"}
 }

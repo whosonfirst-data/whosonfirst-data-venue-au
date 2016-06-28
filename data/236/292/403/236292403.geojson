@@ -2,13 +2,14 @@
   "id": 236292403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.77124,-32.269058,115.77124,-32.269058",
     "geom:latitude":-32.269058,
     "geom:longitude":115.77124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lodge Drv",
     "sg:city":"East Rockingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236292403,
-    "wof:lastmodified":1449001881,
+    "wof:lastmodified":1466190316,
     "wof:name":"Jandakot Wool Washing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "processing"
     ]
 },
-  "bbox": [115.77124,-32.269058,115.77124,-32.269058],
-  "geometry": {"coordinates":[115.77124,-32.269058],"type":"Point"}
+  "bbox": [
+    115.77124,
+    -32.269058,
+    115.77124,
+    -32.269058
+],
+  "geometry": {"coordinates":[115.77124000000001,-32.269058],"type":"Point"}
 }

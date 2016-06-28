@@ -2,13 +2,14 @@
   "id": 236635861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.980377,-33.938313,150.980377,-33.938313",
     "geom:latitude":-33.938313,
     "geom:longitude":150.980377,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Amiens Ave",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236635861,
-    "wof:lastmodified":1449003021,
+    "wof:lastmodified":1466191729,
     "wof:name":"KU Children's Services",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [150.980377,-33.938313,150.980377,-33.938313],
+  "bbox": [
+    150.980377,
+    -33.938313,
+    150.980377,
+    -33.938313
+],
   "geometry": {"coordinates":[150.980377,-33.938313],"type":"Point"}
 }

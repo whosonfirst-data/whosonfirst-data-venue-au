@@ -2,13 +2,14 @@
   "id": 252745687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.65184,-33.336391,115.65184,-33.336391",
     "geom:latitude":-33.336391,
     "geom:longitude":115.65184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69B Strickland Street,",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252745687,
-    "wof:lastmodified":1449006452,
+    "wof:lastmodified":1466187556,
     "wof:name":"Bunbury Air-Conditioning & Electrical Services Pty. Ltd",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [115.65184,-33.336391,115.65184,-33.336391],
-  "geometry": {"coordinates":[115.65184,-33.336391],"type":"Point"}
+  "bbox": [
+    115.65184,
+    -33.336391,
+    115.65184,
+    -33.336391
+],
+  "geometry": {"coordinates":[115.65184000000001,-33.336391],"type":"Point"}
 }

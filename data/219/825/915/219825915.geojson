@@ -2,13 +2,14 @@
   "id": 219825915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.607452,-36.151398,146.607452,-36.151398",
     "geom:latitude":-36.151398,
     "geom:longitude":146.607452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Conness St",
     "sg:city":"Chiltern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219825915,
-    "wof:lastmodified":1449070512,
+    "wof:lastmodified":1466191448,
     "wof:name":"Chiltern Hair Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [146.607452,-36.151398,146.607452,-36.151398],
-  "geometry": {"coordinates":[146.607452,-36.151398],"type":"Point"}
+  "bbox": [
+    146.607452,
+    -36.151398,
+    146.607452,
+    -36.151398
+],
+  "geometry": {"coordinates":[146.60745199999999,-36.151398],"type":"Point"}
 }

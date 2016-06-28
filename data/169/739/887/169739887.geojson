@@ -2,13 +2,14 @@
   "id": 169739887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.982849,-12.477503,130.982849,-12.477503",
     "geom:latitude":-12.477503,
     "geom:longitude":130.982849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr University Drv & Cambridge St",
     "sg:city":"Palmerston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169739887,
-    "wof:lastmodified":1449034064,
+    "wof:lastmodified":1466187583,
     "wof:name":"McDonald's Family Restaurants",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [130.982849,-12.477503,130.982849,-12.477503],
-  "geometry": {"coordinates":[130.982849,-12.477503],"type":"Point"}
+  "bbox": [
+    130.982849,
+    -12.477503,
+    130.982849,
+    -12.477503
+],
+  "geometry": {"coordinates":[130.98284899999999,-12.477503],"type":"Point"}
 }

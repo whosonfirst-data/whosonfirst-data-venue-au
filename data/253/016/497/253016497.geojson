@@ -2,13 +2,14 @@
   "id": 253016497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.670929,-37.864178,144.670929,-37.864178",
     "geom:latitude":-37.864178,
     "geom:longitude":144.670929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wilmington Ave",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253016497,
-    "wof:lastmodified":1449063331,
+    "wof:lastmodified":1466187242,
     "wof:name":"Robyn Wilson",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [144.670929,-37.864178,144.670929,-37.864178],
+  "bbox": [
+    144.670929,
+    -37.864178,
+    144.670929,
+    -37.864178
+],
   "geometry": {"coordinates":[144.670929,-37.864178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202434503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.967606,-37.854973,144.967606,-37.854973",
     "geom:latitude":-37.854973,
     "geom:longitude":144.967606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Fraser St",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202434503,
-    "wof:lastmodified":1449060676,
+    "wof:lastmodified":1466188493,
     "wof:name":"Right Connections Travel",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.967606,-37.854973,144.967606,-37.854973],
-  "geometry": {"coordinates":[144.967606,-37.854973],"type":"Point"}
+  "bbox": [
+    144.967606,
+    -37.854973,
+    144.967606,
+    -37.854973
+],
+  "geometry": {"coordinates":[144.96760599999999,-37.854973],"type":"Point"}
 }

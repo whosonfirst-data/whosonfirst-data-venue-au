@@ -2,13 +2,14 @@
   "id": 202672529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.042816,-27.38567,153.042816,-27.38567",
     "geom:latitude":-27.38567,
     "geom:longitude":153.042816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Nielson St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202672529,
-    "wof:lastmodified":1449060272,
+    "wof:lastmodified":1466188316,
     "wof:name":"Derek Vanderbyl",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.042816,-27.38567,153.042816,-27.38567],
-  "geometry": {"coordinates":[153.042816,-27.38567],"type":"Point"}
+  "bbox": [
+    153.042816,
+    -27.38567,
+    153.042816,
+    -27.38567
+],
+  "geometry": {"coordinates":[153.04281599999999,-27.38567],"type":"Point"}
 }

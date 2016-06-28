@@ -2,13 +2,14 @@
   "id": 203092139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.772728,-32.546909,115.772728,-32.546909",
     "geom:latitude":-32.546909,
     "geom:longitude":115.772728,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203092139,
-    "wof:lastmodified":1449026479,
+    "wof:lastmodified":1466188917,
     "wof:name":"BP Aust Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.772728,-32.546909,115.772728,-32.546909],
+  "bbox": [
+    115.772728,
+    -32.546909,
+    115.772728,
+    -32.546909
+],
   "geometry": {"coordinates":[115.772728,-32.546909],"type":"Point"}
 }

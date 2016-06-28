@@ -2,13 +2,14 @@
   "id": 202612609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.87793,-28.739277,151.87793,-28.739277",
     "geom:latitude":-28.739277,
     "geom:longitude":151.87793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Mt Stirling Rd",
     "sg:city":"Glen Aplin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202612609,
-    "wof:lastmodified":1449061242,
+    "wof:lastmodified":1466187451,
     "wof:name":"Glen Aplin Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nsw"
     ]
 },
-  "bbox": [151.87793,-28.739277,151.87793,-28.739277],
-  "geometry": {"coordinates":[151.87793,-28.739277],"type":"Point"}
+  "bbox": [
+    151.87793,
+    -28.739277,
+    151.87793,
+    -28.739277
+],
+  "geometry": {"coordinates":[151.87792999999999,-28.739277],"type":"Point"}
 }

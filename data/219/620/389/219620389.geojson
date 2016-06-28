@@ -2,13 +2,14 @@
   "id": 219620389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.163101,-33.910431,151.163101,-33.910431",
     "geom:latitude":-33.910431,
     "geom:longitude":151.163101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Sydenham Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219620389,
-    "wof:lastmodified":1449073616,
+    "wof:lastmodified":1466190683,
     "wof:name":"DSM Smash Repairs",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [151.163101,-33.910431,151.163101,-33.910431],
-  "geometry": {"coordinates":[151.163101,-33.910431],"type":"Point"}
+  "bbox": [
+    151.163101,
+    -33.910431,
+    151.163101,
+    -33.910431
+],
+  "geometry": {"coordinates":[151.16310100000001,-33.910431],"type":"Point"}
 }

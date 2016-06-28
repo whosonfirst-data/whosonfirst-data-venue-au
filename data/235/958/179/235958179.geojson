@@ -2,13 +2,14 @@
   "id": 235958179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855286,-38.108894,143.855286,-38.108894",
     "geom:latitude":-38.108894,
     "geom:longitude":143.855286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"895 Wingeel Rd",
     "sg:city":"Inverleigh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235958179,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466187186,
     "wof:name":"The Shearing Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shearing"
     ]
 },
-  "bbox": [143.855286,-38.108894,143.855286,-38.108894],
-  "geometry": {"coordinates":[143.855286,-38.108894],"type":"Point"}
+  "bbox": [
+    143.855286,
+    -38.108894,
+    143.855286,
+    -38.108894
+],
+  "geometry": {"coordinates":[143.85528600000001,-38.108894],"type":"Point"}
 }

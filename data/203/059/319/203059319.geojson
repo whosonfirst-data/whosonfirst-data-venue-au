@@ -2,13 +2,14 @@
   "id": 203059319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.927048,-33.738373,150.927048,-33.738373",
     "geom:latitude":-33.738373,
     "geom:longitude":150.927048,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"'Kings View'",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203059319,
-    "wof:lastmodified":1449025426,
+    "wof:lastmodified":1466188373,
     "wof:name":"Australand Properties",
     "wof:parent_id":85774813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.927048,-33.738373,150.927048,-33.738373],
-  "geometry": {"coordinates":[150.927048,-33.738373],"type":"Point"}
+  "bbox": [
+    150.927048,
+    -33.738373,
+    150.927048,
+    -33.738373
+],
+  "geometry": {"coordinates":[150.92704800000001,-33.738373],"type":"Point"}
 }

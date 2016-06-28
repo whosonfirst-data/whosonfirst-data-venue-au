@@ -2,13 +2,14 @@
   "id": 186561605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.147476,-33.893623,151.147476,-33.893623",
     "geom:latitude":-33.893623,
     "geom:longitude":151.147476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6a Victoria St",
     "sg:city":"Lewisham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186561605,
-    "wof:lastmodified":1449052258,
+    "wof:lastmodified":1466190774,
     "wof:name":"Lewisham Laundry",
     "wof:parent_id":85774561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.147476,-33.893623,151.147476,-33.893623],
-  "geometry": {"coordinates":[151.147476,-33.893623],"type":"Point"}
+  "bbox": [
+    151.147476,
+    -33.893623,
+    151.147476,
+    -33.893623
+],
+  "geometry": {"coordinates":[151.14747600000001,-33.893623],"type":"Point"}
 }

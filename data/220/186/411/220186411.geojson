@@ -2,13 +2,14 @@
   "id": 220186411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.649353,-38.114716,144.649353,-38.114716",
     "geom:latitude":-38.114716,
     "geom:longitude":144.649353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Newcombe St",
     "sg:city":"Portarlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220186411,
-    "wof:lastmodified":1449074663,
+    "wof:lastmodified":1466189283,
     "wof:name":"Wissfeld Jan Dr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.649353,-38.114716,144.649353,-38.114716],
-  "geometry": {"coordinates":[144.649353,-38.114716],"type":"Point"}
+  "bbox": [
+    144.649353,
+    -38.114716,
+    144.649353,
+    -38.114716
+],
+  "geometry": {"coordinates":[144.64935299999999,-38.114716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203372337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.852539,-37.558956,143.852539,-37.558956",
     "geom:latitude":-37.558956,
     "geom:longitude":143.852539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203372337,
-    "wof:lastmodified":1449026088,
+    "wof:lastmodified":1466189066,
     "wof:name":"Greg Dunne's Upholstery",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reproduction"
     ]
 },
-  "bbox": [143.852539,-37.558956,143.852539,-37.558956],
-  "geometry": {"coordinates":[143.852539,-37.558956],"type":"Point"}
+  "bbox": [
+    143.852539,
+    -37.558956,
+    143.852539,
+    -37.558956
+],
+  "geometry": {"coordinates":[143.85253900000001,-37.558956],"type":"Point"}
 }

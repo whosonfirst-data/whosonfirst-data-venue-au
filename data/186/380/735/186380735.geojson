@@ -2,13 +2,14 @@
   "id": 186380735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15451,-33.851234,151.15451,-33.851234",
     "geom:latitude":-33.851234,
     "geom:longitude":151.15451,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186380735,
-    "wof:lastmodified":1449051622,
+    "wof:lastmodified":1466189014,
     "wof:name":"P J Gallagher's Irish Pub Drummoyne",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.15451,-33.851234,151.15451,-33.851234],
-  "geometry": {"coordinates":[151.15451,-33.851234],"type":"Point"}
+  "bbox": [
+    151.15451,
+    -33.851234,
+    151.15451,
+    -33.851234
+],
+  "geometry": {"coordinates":[151.15450999999999,-33.851234],"type":"Point"}
 }

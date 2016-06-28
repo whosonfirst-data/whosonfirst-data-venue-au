@@ -2,13 +2,14 @@
   "id": 253040473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.80304,-37.82423,144.80304,-37.82423",
     "geom:latitude":-37.82423,
     "geom:longitude":144.80304,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79- 85 Pipe Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253040473,
-    "wof:lastmodified":1449065713,
+    "wof:lastmodified":1466187728,
     "wof:name":"Oceania Container Services",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "container"
     ]
 },
-  "bbox": [144.80304,-37.82423,144.80304,-37.82423],
-  "geometry": {"coordinates":[144.80304,-37.82423],"type":"Point"}
+  "bbox": [
+    144.80304,
+    -37.82423,
+    144.80304,
+    -37.82423
+],
+  "geometry": {"coordinates":[144.80304000000001,-37.82423],"type":"Point"}
 }

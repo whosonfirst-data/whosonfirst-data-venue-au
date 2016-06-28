@@ -2,13 +2,14 @@
   "id": 185870231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.844574,-25.283823,152.844574,-25.283823",
     "geom:latitude":-25.283823,
     "geom:longitude":152.844574,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Torquay Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185870231,
-    "wof:lastmodified":1449007030,
+    "wof:lastmodified":1466187569,
     "wof:name":"Alex J. Saunders Valuations Pty Ltd",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [152.844574,-25.283823,152.844574,-25.283823],
-  "geometry": {"coordinates":[152.844574,-25.283823],"type":"Point"}
+  "bbox": [
+    152.844574,
+    -25.283823,
+    152.844574,
+    -25.283823
+],
+  "geometry": {"coordinates":[152.84457399999999,-25.283823],"type":"Point"}
 }

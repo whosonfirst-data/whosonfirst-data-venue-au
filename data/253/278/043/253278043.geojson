@@ -2,13 +2,14 @@
   "id": 253278043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950623,-27.601547,151.950623,-27.601547",
     "geom:latitude":-27.601547,
     "geom:longitude":151.950623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"461- 469 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253278043,
-    "wof:lastmodified":1449064461,
+    "wof:lastmodified":1466190651,
     "wof:name":"HumeRidge Community Network",
     "wof:parent_id":85779701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [151.950623,-27.601547,151.950623,-27.601547],
-  "geometry": {"coordinates":[151.950623,-27.601547],"type":"Point"}
+  "bbox": [
+    151.950623,
+    -27.601547,
+    151.950623,
+    -27.601547
+],
+  "geometry": {"coordinates":[151.95062300000001,-27.601547],"type":"Point"}
 }

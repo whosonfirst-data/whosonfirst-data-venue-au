@@ -2,13 +2,14 @@
   "id": 236518589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.135406,-32.549534,151.135406,-32.549534",
     "geom:latitude":-32.549534,
     "geom:longitude":151.135406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Maison Dieu Rd",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236518589,
-    "wof:lastmodified":1449003529,
+    "wof:lastmodified":1466191532,
     "wof:name":"Fanquip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "blower"
     ]
 },
-  "bbox": [151.135406,-32.549534,151.135406,-32.549534],
-  "geometry": {"coordinates":[151.135406,-32.549534],"type":"Point"}
+  "bbox": [
+    151.135406,
+    -32.549534,
+    151.135406,
+    -32.549534
+],
+  "geometry": {"coordinates":[151.13540599999999,-32.549534],"type":"Point"}
 }

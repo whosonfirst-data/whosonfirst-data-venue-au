@@ -2,13 +2,14 @@
   "id": 185871619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.825836,-25.282682,152.825836,-25.282682",
     "geom:latitude":-25.282682,
     "geom:longitude":152.825836,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Old Maryborough Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185871619,
-    "wof:lastmodified":1449007117,
+    "wof:lastmodified":1466187586,
     "wof:name":"Monier Wunderlich",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "roofing"
     ]
 },
-  "bbox": [152.825836,-25.282682,152.825836,-25.282682],
-  "geometry": {"coordinates":[152.825836,-25.282682],"type":"Point"}
+  "bbox": [
+    152.825836,
+    -25.282682,
+    152.825836,
+    -25.282682
+],
+  "geometry": {"coordinates":[152.82583600000001,-25.282682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236355697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.780907,-32.06295,115.780907,-32.06295",
     "geom:latitude":-32.06295,
     "geom:longitude":115.780907,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 / 19 Victor St",
     "sg:city":"Hilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236355697,
-    "wof:lastmodified":1449002388,
+    "wof:lastmodified":1466190911,
     "wof:name":"Achilles Heal Podiatry",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [115.780907,-32.06295,115.780907,-32.06295],
+  "bbox": [
+    115.780907,
+    -32.06295,
+    115.780907,
+    -32.06295
+],
   "geometry": {"coordinates":[115.780907,-32.06295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202515437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.188873,-38.113911,145.188873,-38.113911",
     "geom:latitude":-38.113911,
     "geom:longitude":145.188873,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Burlorn Crt",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202515437,
-    "wof:lastmodified":1449060695,
+    "wof:lastmodified":1466189709,
     "wof:name":"Kings Gas Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.188873,-38.113911,145.188873,-38.113911],
+  "bbox": [
+    145.188873,
+    -38.113911,
+    145.188873,
+    -38.113911
+],
   "geometry": {"coordinates":[145.188873,-38.113911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236753409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.949356,-27.084467,152.949356,-27.084467",
     "geom:latitude":-27.084467,
     "geom:longitude":152.949356,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4, 69 King St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236753409,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466191992,
     "wof:name":"Roderique Katie",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.949356,-27.084467,152.949356,-27.084467],
-  "geometry": {"coordinates":[152.949356,-27.084467],"type":"Point"}
+  "bbox": [
+    152.949356,
+    -27.084467,
+    152.949356,
+    -27.084467
+],
+  "geometry": {"coordinates":[152.94935599999999,-27.084467],"type":"Point"}
 }

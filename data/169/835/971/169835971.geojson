@@ -2,13 +2,14 @@
   "id": 169835971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.862793,-32.020641,115.862793,-32.020641",
     "geom:latitude":-32.020641,
     "geom:longitude":115.862793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1- 11",
     "sg:city":"Benson Ch Salter Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169835971,
-    "wof:lastmodified":1449033162,
+    "wof:lastmodified":1466189284,
     "wof:name":"Peter Arney Village",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [115.862793,-32.020641,115.862793,-32.020641],
+  "bbox": [
+    115.862793,
+    -32.020641,
+    115.862793,
+    -32.020641
+],
   "geometry": {"coordinates":[115.862793,-32.020641],"type":"Point"}
 }

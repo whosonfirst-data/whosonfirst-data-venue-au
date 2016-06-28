@@ -2,13 +2,14 @@
   "id": 186477619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160721,-33.876423,151.160721,-33.876423",
     "geom:latitude":-33.876423,
     "geom:longitude":151.160721,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Balmain Rd",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186477619,
-    "wof:lastmodified":1449050870,
+    "wof:lastmodified":1466190243,
     "wof:name":"Continental Bakery Pty Ltd",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.160721,-33.876423,151.160721,-33.876423],
+  "bbox": [
+    151.160721,
+    -33.876423,
+    151.160721,
+    -33.876423
+],
   "geometry": {"coordinates":[151.160721,-33.876423],"type":"Point"}
 }

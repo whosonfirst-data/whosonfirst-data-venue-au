@@ -2,13 +2,14 @@
   "id": 236766507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.950409,-27.076563,152.950409,-27.076563",
     "geom:latitude":-27.076563,
     "geom:longitude":152.950409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Beerburrum Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236766507,
-    "wof:lastmodified":1449001645,
+    "wof:lastmodified":1466191913,
     "wof:name":"NCP Plumbing Centres",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [152.950409,-27.076563,152.950409,-27.076563],
-  "geometry": {"coordinates":[152.950409,-27.076563],"type":"Point"}
+  "bbox": [
+    152.950409,
+    -27.076563,
+    152.950409,
+    -27.076563
+],
+  "geometry": {"coordinates":[152.95040900000001,-27.076563],"type":"Point"}
 }

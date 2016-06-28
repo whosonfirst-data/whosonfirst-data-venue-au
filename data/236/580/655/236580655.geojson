@@ -2,13 +2,14 @@
   "id": 236580655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.065445,-33.957932,151.065445,-33.957932",
     "geom:latitude":-33.957932,
     "geom:longitude":151.065445,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"776 Forest Rd",
     "sg:city":"Peakhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236580655,
-    "wof:lastmodified":1449003956,
+    "wof:lastmodified":1466191574,
     "wof:name":"Bennett Steve Plumbing Service",
     "wof:parent_id":85769979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.065445,-33.957932,151.065445,-33.957932],
-  "geometry": {"coordinates":[151.065445,-33.957932],"type":"Point"}
+  "bbox": [
+    151.065445,
+    -33.957932,
+    151.065445,
+    -33.957932
+],
+  "geometry": {"coordinates":[151.06544500000001,-33.957932],"type":"Point"}
 }

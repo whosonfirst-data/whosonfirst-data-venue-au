@@ -2,13 +2,14 @@
   "id": 236255075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"134.188171,-19.642332,134.188171,-19.642332",
     "geom:latitude":-19.642332,
     "geom:longitude":134.188171,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Scott St",
     "sg:city":"Tennant Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236255075,
-    "wof:lastmodified":1449003097,
+    "wof:lastmodified":1466190093,
     "wof:name":"Toll Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [134.188171,-19.642332,134.188171,-19.642332],
-  "geometry": {"coordinates":[134.188171,-19.642332],"type":"Point"}
+  "bbox": [
+    134.188171,
+    -19.642332,
+    134.188171,
+    -19.642332
+],
+  "geometry": {"coordinates":[134.18817100000001,-19.642332],"type":"Point"}
 }

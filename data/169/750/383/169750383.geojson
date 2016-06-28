@@ -2,13 +2,14 @@
   "id": 169750383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.105743,-27.229406,153.105743,-27.229406",
     "geom:latitude":-27.229406,
     "geom:longitude":153.105743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Anzac Ave",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169750383,
-    "wof:lastmodified":1449034675,
+    "wof:lastmodified":1466187846,
     "wof:name":"Peninsula Metal Recycling",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchant"
     ]
 },
-  "bbox": [153.105743,-27.229406,153.105743,-27.229406],
-  "geometry": {"coordinates":[153.105743,-27.229406],"type":"Point"}
+  "bbox": [
+    153.105743,
+    -27.229406,
+    153.105743,
+    -27.229406
+],
+  "geometry": {"coordinates":[153.10574299999999,-27.229406],"type":"Point"}
 }

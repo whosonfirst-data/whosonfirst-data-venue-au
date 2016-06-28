@@ -2,13 +2,14 @@
   "id": 236563197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.016418,-33.951702,151.016418,-33.951702",
     "geom:latitude":-33.951702,
     "geom:longitude":151.016418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Marco Ave",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236563197,
-    "wof:lastmodified":1449001717,
+    "wof:lastmodified":1466191511,
     "wof:name":"Revesby Soul Pattinson",
     "wof:parent_id":85770077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [151.016418,-33.951702,151.016418,-33.951702],
-  "geometry": {"coordinates":[151.016418,-33.951702],"type":"Point"}
+  "bbox": [
+    151.016418,
+    -33.951702,
+    151.016418,
+    -33.951702
+],
+  "geometry": {"coordinates":[151.01641799999999,-33.951702],"type":"Point"}
 }

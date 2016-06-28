@@ -2,13 +2,14 @@
   "id": 219585557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.033646,-33.915459,151.033646,-33.915459",
     "geom:latitude":-33.915459,
     "geom:longitude":151.033646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite4 Level2/ 402 Chapel Rd",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219585557,
-    "wof:lastmodified":1449072737,
+    "wof:lastmodified":1466190466,
     "wof:name":"Lifecare Counselling & Family Services",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [151.033646,-33.915459,151.033646,-33.915459],
+  "bbox": [
+    151.033646,
+    -33.915459,
+    151.033646,
+    -33.915459
+],
   "geometry": {"coordinates":[151.033646,-33.915459],"type":"Point"}
 }

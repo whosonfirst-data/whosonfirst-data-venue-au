@@ -2,13 +2,14 @@
   "id": 220169937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.361465,-38.164108,144.361465,-38.164108",
     "geom:latitude":-38.164108,
     "geom:longitude":144.361465,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Swanston & Balliang Sts",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220169937,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466188996,
     "wof:name":"The Corner Store",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [144.361465,-38.164108,144.361465,-38.164108],
-  "geometry": {"coordinates":[144.361465,-38.164108],"type":"Point"}
+  "bbox": [
+    144.361465,
+    -38.164108,
+    144.361465,
+    -38.164108
+],
+  "geometry": {"coordinates":[144.36146500000001,-38.164108],"type":"Point"}
 }

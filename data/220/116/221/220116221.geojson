@@ -2,13 +2,14 @@
   "id": 220116221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.548981,-38.265427,144.548981,-38.265427",
     "geom:latitude":-38.265427,
     "geom:longitude":144.548981,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Somerdale Ave",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220116221,
-    "wof:lastmodified":1449074147,
+    "wof:lastmodified":1466188121,
     "wof:name":"Stefanie Szlapa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "speech"
     ]
 },
-  "bbox": [144.548981,-38.265427,144.548981,-38.265427],
+  "bbox": [
+    144.548981,
+    -38.265427,
+    144.548981,
+    -38.265427
+],
   "geometry": {"coordinates":[144.548981,-38.265427],"type":"Point"}
 }

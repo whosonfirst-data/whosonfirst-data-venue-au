@@ -2,13 +2,14 @@
   "id": 219519957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.108505,-33.910805,151.108505,-33.910805",
     "geom:latitude":-33.910805,
     "geom:longitude":151.108505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 9/5- 9 Gould St",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219519957,
-    "wof:lastmodified":1449073671,
+    "wof:lastmodified":1466189892,
     "wof:name":"Promaster Builders Pty Ltd",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.108505,-33.910805,151.108505,-33.910805],
-  "geometry": {"coordinates":[151.108505,-33.910805],"type":"Point"}
+  "bbox": [
+    151.108505,
+    -33.910805,
+    151.108505,
+    -33.910805
+],
+  "geometry": {"coordinates":[151.10850500000001,-33.910805],"type":"Point"}
 }

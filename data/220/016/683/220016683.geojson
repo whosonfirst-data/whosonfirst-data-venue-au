@@ -2,13 +2,14 @@
   "id": 220016683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.585953,-35.032181,138.585953,-35.032181",
     "geom:latitude":-35.032181,
     "geom:longitude":138.585953,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Toorak Ave",
     "sg:city":"Bellevue Heights",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220016683,
-    "wof:lastmodified":1449074180,
+    "wof:lastmodified":1466187075,
     "wof:name":"Bellevue Stump Cutters",
     "wof:parent_id":85774993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [138.585953,-35.032181,138.585953,-35.032181],
-  "geometry": {"coordinates":[138.585953,-35.032181],"type":"Point"}
+  "bbox": [
+    138.585953,
+    -35.032181,
+    138.585953,
+    -35.032181
+],
+  "geometry": {"coordinates":[138.58595299999999,-35.032181],"type":"Point"}
 }

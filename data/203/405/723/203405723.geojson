@@ -2,13 +2,14 @@
   "id": 203405723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.862534,-37.457703,143.862534,-37.457703",
     "geom:latitude":-37.457703,
     "geom:longitude":143.862534,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Midland Hwy",
     "sg:city":"Sulky",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203405723,
-    "wof:lastmodified":1449026699,
+    "wof:lastmodified":1466189527,
     "wof:name":"Dunrite Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.862534,-37.457703,143.862534,-37.457703],
-  "geometry": {"coordinates":[143.862534,-37.457703],"type":"Point"}
+  "bbox": [
+    143.862534,
+    -37.457703,
+    143.862534,
+    -37.457703
+],
+  "geometry": {"coordinates":[143.86253400000001,-37.457703],"type":"Point"}
 }

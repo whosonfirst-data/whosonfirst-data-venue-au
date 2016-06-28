@@ -2,13 +2,14 @@
   "id": 202423165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.920624,-37.828281,144.920624,-37.828281",
     "geom:latitude":-37.828281,
     "geom:longitude":144.920624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Cook St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202423165,
-    "wof:lastmodified":1449060522,
+    "wof:lastmodified":1466188200,
     "wof:name":"Dexion Citiport",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [144.920624,-37.828281,144.920624,-37.828281],
+  "bbox": [
+    144.920624,
+    -37.828281,
+    144.920624,
+    -37.828281
+],
   "geometry": {"coordinates":[144.920624,-37.828281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253053913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.848267,-37.820152,144.848267,-37.820152",
     "geom:latitude":-37.820152,
     "geom:longitude":144.848267,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Eames Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253053913,
-    "wof:lastmodified":1449063368,
+    "wof:lastmodified":1466187974,
     "wof:name":"Vicetech",
     "wof:parent_id":85776515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.848267,-37.820152,144.848267,-37.820152],
-  "geometry": {"coordinates":[144.848267,-37.820152],"type":"Point"}
+  "bbox": [
+    144.848267,
+    -37.820152,
+    144.848267,
+    -37.820152
+],
+  "geometry": {"coordinates":[144.84826699999999,-37.820152],"type":"Point"}
 }

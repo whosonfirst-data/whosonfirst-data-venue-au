@@ -2,13 +2,14 @@
   "id": 236767205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.941727,-27.085405,152.941727,-27.085405",
     "geom:latitude":-27.085405,
     "geom:longitude":152.941727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"134- 136 King St",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236767205,
-    "wof:lastmodified":1449002413,
+    "wof:lastmodified":1466191910,
     "wof:name":"Village Life",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [152.941727,-27.085405,152.941727,-27.085405],
-  "geometry": {"coordinates":[152.941727,-27.085405],"type":"Point"}
+  "bbox": [
+    152.941727,
+    -27.085405,
+    152.941727,
+    -27.085405
+],
+  "geometry": {"coordinates":[152.94172699999999,-27.085405],"type":"Point"}
 }

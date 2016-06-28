@@ -2,13 +2,14 @@
   "id": 202763159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.780685,-32.926422,151.780685,-32.926422",
     "geom:latitude":-32.926422,
     "geom:longitude":151.780685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2 175 Scott St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202763159,
-    "wof:lastmodified":1449062635,
+    "wof:lastmodified":1466189903,
     "wof:name":"McKeown Allan",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [151.780685,-32.926422,151.780685,-32.926422],
-  "geometry": {"coordinates":[151.780685,-32.926422],"type":"Point"}
+  "bbox": [
+    151.780685,
+    -32.926422,
+    151.780685,
+    -32.926422
+],
+  "geometry": {"coordinates":[151.78068500000001,-32.926422],"type":"Point"}
 }

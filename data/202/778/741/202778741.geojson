@@ -2,13 +2,14 @@
   "id": 202778741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.775116,-32.926792,151.775116,-32.926792",
     "geom:latitude":-32.926792,
     "geom:longitude":151.775116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202778741,
-    "wof:lastmodified":1449060147,
+    "wof:lastmodified":1466190152,
     "wof:name":"CPS Serviced Offices",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "serviced"
     ]
 },
-  "bbox": [151.775116,-32.926792,151.775116,-32.926792],
+  "bbox": [
+    151.775116,
+    -32.926792,
+    151.775116,
+    -32.926792
+],
   "geometry": {"coordinates":[151.775116,-32.926792],"type":"Point"}
 }

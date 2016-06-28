@@ -2,13 +2,14 @@
   "id": 253210785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.943954,-27.538912,151.943954,-27.538912",
     "geom:latitude":-27.538912,
     "geom:longitude":151.943954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3, Mort Estate Cnr West & Campbell Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253210785,
-    "wof:lastmodified":1449063826,
+    "wof:lastmodified":1466190295,
     "wof:name":"Hair By Design",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.943954,-27.538912,151.943954,-27.538912],
-  "geometry": {"coordinates":[151.943954,-27.538912],"type":"Point"}
+  "bbox": [
+    151.943954,
+    -27.538912,
+    151.943954,
+    -27.538912
+],
+  "geometry": {"coordinates":[151.94395399999999,-27.538912],"type":"Point"}
 }

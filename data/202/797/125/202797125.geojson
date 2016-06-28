@@ -2,13 +2,14 @@
   "id": 202797125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.743835,-32.933048,151.743835,-32.933048",
     "geom:latitude":-32.933048,
     "geom:longitude":151.743835,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Hibberd St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202797125,
-    "wof:lastmodified":1449062400,
+    "wof:lastmodified":1466190167,
     "wof:name":"Holdstock Constructions",
     "wof:parent_id":85778067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.743835,-32.933048,151.743835,-32.933048],
-  "geometry": {"coordinates":[151.743835,-32.933048],"type":"Point"}
+  "bbox": [
+    151.743835,
+    -32.933048,
+    151.743835,
+    -32.933048
+],
+  "geometry": {"coordinates":[151.74383499999999,-32.933048],"type":"Point"}
 }

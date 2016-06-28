@@ -2,13 +2,14 @@
   "id": 169752543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.10614,-27.229456,153.10614,-27.229456",
     "geom:latitude":-27.229456,
     "geom:longitude":153.10614,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Anzac Ave",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169752543,
-    "wof:lastmodified":1449033248,
+    "wof:lastmodified":1466187890,
     "wof:name":"Strathfield",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [153.10614,-27.229456,153.10614,-27.229456],
-  "geometry": {"coordinates":[153.10614,-27.229456],"type":"Point"}
+  "bbox": [
+    153.10614,
+    -27.229456,
+    153.10614,
+    -27.229456
+],
+  "geometry": {"coordinates":[153.10614000000001,-27.229456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202528625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.184677,-38.100876,145.184677,-38.100876",
     "geom:latitude":-38.100876,
     "geom:longitude":145.184677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 /115 Hall Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202528625,
-    "wof:lastmodified":1449060806,
+    "wof:lastmodified":1466189801,
     "wof:name":"Carrum Downs Sports Physiotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [145.184677,-38.100876,145.184677,-38.100876],
-  "geometry": {"coordinates":[145.184677,-38.100876],"type":"Point"}
+  "bbox": [
+    145.184677,
+    -38.100876,
+    145.184677,
+    -38.100876
+],
+  "geometry": {"coordinates":[145.18467699999999,-38.100876],"type":"Point"}
 }

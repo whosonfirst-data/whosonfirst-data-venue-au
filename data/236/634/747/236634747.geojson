@@ -2,13 +2,14 @@
   "id": 236634747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.146271,-33.959957,151.146271,-33.959957",
     "geom:latitude":-33.959957,
     "geom:longitude":151.146271,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Bermill St",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236634747,
-    "wof:lastmodified":1449003181,
+    "wof:lastmodified":1466191810,
     "wof:name":"Australian Soil & Concrete Testing",
     "wof:parent_id":85768933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "investigation"
     ]
 },
-  "bbox": [151.146271,-33.959957,151.146271,-33.959957],
-  "geometry": {"coordinates":[151.146271,-33.959957],"type":"Point"}
+  "bbox": [
+    151.146271,
+    -33.959957,
+    151.146271,
+    -33.959957
+],
+  "geometry": {"coordinates":[151.14627100000001,-33.959957],"type":"Point"}
 }

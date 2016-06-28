@@ -2,13 +2,14 @@
   "id": 202411367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.932556,-37.840481,144.932556,-37.840481",
     "geom:latitude":-37.840481,
     "geom:longitude":144.932556,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 103 Beach St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202411367,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466187933,
     "wof:name":"Astec Building Coatings",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [144.932556,-37.840481,144.932556,-37.840481],
-  "geometry": {"coordinates":[144.932556,-37.840481],"type":"Point"}
+  "bbox": [
+    144.932556,
+    -37.840481,
+    144.932556,
+    -37.840481
+],
+  "geometry": {"coordinates":[144.93255600000001,-37.840481],"type":"Point"}
 }

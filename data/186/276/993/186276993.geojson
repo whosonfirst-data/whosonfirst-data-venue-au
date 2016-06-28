@@ -2,13 +2,14 @@
   "id": 186276993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.90242,-31.402523,152.90242,-31.402523",
     "geom:latitude":-31.402523,
     "geom:longitude":152.90242,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Shoreline Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186276993,
-    "wof:lastmodified":1449050372,
+    "wof:lastmodified":1466187603,
     "wof:name":"Septicleen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "septic"
     ]
 },
-  "bbox": [152.90242,-31.402523,152.90242,-31.402523],
-  "geometry": {"coordinates":[152.90242,-31.402523],"type":"Point"}
+  "bbox": [
+    152.90242,
+    -31.402523,
+    152.90242,
+    -31.402523
+],
+  "geometry": {"coordinates":[152.90242000000001,-31.402523],"type":"Point"}
 }

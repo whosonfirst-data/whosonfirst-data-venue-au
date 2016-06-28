@@ -2,13 +2,14 @@
   "id": 252739907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.67691,-33.355572,115.67691,-33.355572",
     "geom:latitude":-33.355572,
     "geom:longitude":115.67691,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Clifford St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252739907,
-    "wof:lastmodified":1449005868,
+    "wof:lastmodified":1466187449,
     "wof:name":"Spurling Engineering",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [115.67691,-33.355572,115.67691,-33.355572],
-  "geometry": {"coordinates":[115.67691,-33.355572],"type":"Point"}
+  "bbox": [
+    115.67691,
+    -33.355572,
+    115.67691,
+    -33.355572
+],
+  "geometry": {"coordinates":[115.67691000000001,-33.355572],"type":"Point"}
 }

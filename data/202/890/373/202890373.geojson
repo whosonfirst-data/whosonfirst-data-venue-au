@@ -2,13 +2,14 @@
   "id": 202890373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.895874,-30.451887,152.895874,-30.451887",
     "geom:latitude":-30.451887,
     "geom:longitude":152.895874,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Hyde St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202890373,
-    "wof:lastmodified":1449060683,
+    "wof:lastmodified":1466190513,
     "wof:name":"Perfect Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [152.895874,-30.451887,152.895874,-30.451887],
-  "geometry": {"coordinates":[152.895874,-30.451887],"type":"Point"}
+  "bbox": [
+    152.895874,
+    -30.451887,
+    152.895874,
+    -30.451887
+],
+  "geometry": {"coordinates":[152.89587399999999,-30.451887],"type":"Point"}
 }

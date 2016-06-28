@@ -2,13 +2,14 @@
   "id": 236298721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752151,-32.275864,115.752151,-32.275864",
     "geom:latitude":-32.275864,
     "geom:longitude":115.752151,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Morgan St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236298721,
-    "wof:lastmodified":1449002360,
+    "wof:lastmodified":1466190499,
     "wof:name":"Handiland Salvage & Hardware",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "secondhand"
     ]
 },
-  "bbox": [115.752151,-32.275864,115.752151,-32.275864],
+  "bbox": [
+    115.752151,
+    -32.275864,
+    115.752151,
+    -32.275864
+],
   "geometry": {"coordinates":[115.752151,-32.275864],"type":"Point"}
 }

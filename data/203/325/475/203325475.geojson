@@ -2,13 +2,14 @@
   "id": 203325475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840393,-37.603531,143.840393,-37.603531",
     "geom:latitude":-37.603531,
     "geom:longitude":143.840393,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Albert St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203325475,
-    "wof:lastmodified":1449025657,
+    "wof:lastmodified":1466188335,
     "wof:name":"St James School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "co-educational"
     ]
 },
-  "bbox": [143.840393,-37.603531,143.840393,-37.603531],
-  "geometry": {"coordinates":[143.840393,-37.603531],"type":"Point"}
+  "bbox": [
+    143.840393,
+    -37.603531,
+    143.840393,
+    -37.603531
+],
+  "geometry": {"coordinates":[143.84039300000001,-37.603531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202571241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.434845,-37.677444,144.434845,-37.677444",
     "geom:latitude":-37.677444,
     "geom:longitude":144.434845,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Grant St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202571241,
-    "wof:lastmodified":1449061822,
+    "wof:lastmodified":1466187055,
     "wof:name":"Ryan Mark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [144.434845,-37.677444,144.434845,-37.677444],
+  "bbox": [
+    144.434845,
+    -37.677444,
+    144.434845,
+    -37.677444
+],
   "geometry": {"coordinates":[144.434845,-37.677444],"type":"Point"}
 }

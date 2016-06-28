@@ -2,13 +2,14 @@
   "id": 202625313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.076813,-28.41814,151.076813,-28.41814",
     "geom:latitude":-28.41814,
     "geom:longitude":151.076813,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Albert St",
     "sg:city":"Inglewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202625313,
-    "wof:lastmodified":1449062696,
+    "wof:lastmodified":1466187553,
     "wof:name":"Motel Olympic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.076813,-28.41814,151.076813,-28.41814],
-  "geometry": {"coordinates":[151.076813,-28.41814],"type":"Point"}
+  "bbox": [
+    151.076813,
+    -28.41814,
+    151.076813,
+    -28.41814
+],
+  "geometry": {"coordinates":[151.07681299999999,-28.41814],"type":"Point"}
 }

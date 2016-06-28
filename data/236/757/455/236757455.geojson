@@ -2,13 +2,14 @@
   "id": 236757455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.95491,-27.078463,152.95491,-27.078463",
     "geom:latitude":-27.078463,
     "geom:longitude":152.95491,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1374",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236757455,
-    "wof:lastmodified":1449003526,
+    "wof:lastmodified":1466191899,
     "wof:name":"GBS Mortgage Centre",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [152.95491,-27.078463,152.95491,-27.078463],
-  "geometry": {"coordinates":[152.95491,-27.078463],"type":"Point"}
+  "bbox": [
+    152.95491,
+    -27.078463,
+    152.95491,
+    -27.078463
+],
+  "geometry": {"coordinates":[152.95491000000001,-27.078463],"type":"Point"}
 }

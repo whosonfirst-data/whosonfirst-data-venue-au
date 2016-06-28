@@ -2,13 +2,14 @@
   "id": 253324425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.314209,-38.003925,145.314209,-38.003925",
     "geom:latitude":-38.003925,
     "geom:longitude":145.314209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Landor Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253324425,
-    "wof:lastmodified":1449064540,
+    "wof:lastmodified":1466190818,
     "wof:name":"Bret G Walker",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [145.314209,-38.003925,145.314209,-38.003925],
-  "geometry": {"coordinates":[145.314209,-38.003925],"type":"Point"}
+  "bbox": [
+    145.314209,
+    -38.003925,
+    145.314209,
+    -38.003925
+],
+  "geometry": {"coordinates":[145.31420900000001,-38.003925],"type":"Point"}
 }

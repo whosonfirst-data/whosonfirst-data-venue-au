@@ -2,13 +2,14 @@
   "id": 203251001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.009384,-33.383579,148.009384,-33.383579",
     "geom:latitude":-33.383579,
     "geom:longitude":148.009384,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Spring St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203251001,
-    "wof:lastmodified":1449024981,
+    "wof:lastmodified":1466187580,
     "wof:name":"Lucinda Jays Health & Harmony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [148.009384,-33.383579,148.009384,-33.383579],
-  "geometry": {"coordinates":[148.009384,-33.383579],"type":"Point"}
+  "bbox": [
+    148.009384,
+    -33.383579,
+    148.009384,
+    -33.383579
+],
+  "geometry": {"coordinates":[148.00938400000001,-33.383579],"type":"Point"}
 }

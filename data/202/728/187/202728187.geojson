@@ -2,13 +2,14 @@
   "id": 202728187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.008743,-27.327501,153.008743,-27.327501",
     "geom:latitude":-27.327501,
     "geom:longitude":153.008743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1981 Gympie Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202728187,
-    "wof:lastmodified":1449060697,
+    "wof:lastmodified":1466189365,
     "wof:name":"Stephen Kirby",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [153.008743,-27.327501,153.008743,-27.327501],
-  "geometry": {"coordinates":[153.008743,-27.327501],"type":"Point"}
+  "bbox": [
+    153.008743,
+    -27.327501,
+    153.008743,
+    -27.327501
+],
+  "geometry": {"coordinates":[153.00874300000001,-27.327501],"type":"Point"}
 }

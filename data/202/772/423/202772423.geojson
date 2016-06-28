@@ -2,13 +2,14 @@
   "id": 202772423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.767426,-32.927616,151.767426,-32.927616",
     "geom:latitude":-32.927616,
     "geom:longitude":151.767426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Union St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202772423,
-    "wof:lastmodified":1449061262,
+    "wof:lastmodified":1466190089,
     "wof:name":"Pure Pleasure",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [151.767426,-32.927616,151.767426,-32.927616],
+  "bbox": [
+    151.767426,
+    -32.927616,
+    151.767426,
+    -32.927616
+],
   "geometry": {"coordinates":[151.767426,-32.927616],"type":"Point"}
 }

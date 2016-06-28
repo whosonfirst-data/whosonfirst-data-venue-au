@@ -2,13 +2,14 @@
   "id": 186382875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.153549,-33.849533,151.153549,-33.849533",
     "geom:latitude":-33.849533,
     "geom:longitude":151.153549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186382875,
-    "wof:lastmodified":1449051100,
+    "wof:lastmodified":1466189054,
     "wof:name":"McGowan John",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.153549,-33.849533,151.153549,-33.849533],
+  "bbox": [
+    151.153549,
+    -33.849533,
+    151.153549,
+    -33.849533
+],
   "geometry": {"coordinates":[151.153549,-33.849533],"type":"Point"}
 }

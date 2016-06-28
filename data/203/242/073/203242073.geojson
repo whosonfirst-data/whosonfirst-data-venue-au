@@ -2,13 +2,14 @@
   "id": 203242073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.021088,-26.763021,153.021088,-26.763021",
     "geom:latitude":-26.763021,
     "geom:longitude":153.021088,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Whipbird Pl",
     "sg:city":"Glenview",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203242073,
-    "wof:lastmodified":1449026640,
+    "wof:lastmodified":1466187514,
     "wof:name":"Glenview Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.021088,-26.763021,153.021088,-26.763021],
-  "geometry": {"coordinates":[153.021088,-26.763021],"type":"Point"}
+  "bbox": [
+    153.021088,
+    -26.763021,
+    153.021088,
+    -26.763021
+],
+  "geometry": {"coordinates":[153.02108799999999,-26.763021],"type":"Point"}
 }

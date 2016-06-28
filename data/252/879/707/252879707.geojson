@@ -2,13 +2,14 @@
   "id": 252879707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.592056,-37.686268,144.592056,-37.686268",
     "geom:latitude":-37.686268,
     "geom:longitude":144.592056,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 1 Lot 1 Reserve Rd",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252879707,
-    "wof:lastmodified":1449005421,
+    "wof:lastmodified":1466188798,
     "wof:name":"Melton Bodyworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "panel"
     ]
 },
-  "bbox": [144.592056,-37.686268,144.592056,-37.686268],
-  "geometry": {"coordinates":[144.592056,-37.686268],"type":"Point"}
+  "bbox": [
+    144.592056,
+    -37.686268,
+    144.592056,
+    -37.686268
+],
+  "geometry": {"coordinates":[144.59205600000001,-37.686268],"type":"Point"}
 }

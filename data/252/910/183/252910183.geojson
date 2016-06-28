@@ -2,13 +2,14 @@
   "id": 252910183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.336807,-35.690479,139.336807,-35.690479",
     "geom:latitude":-35.690479,
     "geom:longitude":139.336807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 227",
     "sg:city":"Meningie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252910183,
-    "wof:lastmodified":1449005858,
+    "wof:lastmodified":1466189082,
     "wof:name":"Jude A B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [139.336807,-35.690479,139.336807,-35.690479],
-  "geometry": {"coordinates":[139.336807,-35.690479],"type":"Point"}
+  "bbox": [
+    139.336807,
+    -35.690479,
+    139.336807,
+    -35.690479
+],
+  "geometry": {"coordinates":[139.33680699999999,-35.690479],"type":"Point"}
 }

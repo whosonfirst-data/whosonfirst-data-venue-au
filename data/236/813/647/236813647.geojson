@@ -2,13 +2,14 @@
   "id": 236813647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.893723,-34.435394,150.893723,-34.435394",
     "geom:latitude":-34.435394,
     "geom:longitude":150.893723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Swan St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236813647,
-    "wof:lastmodified":1449002316,
+    "wof:lastmodified":1466191978,
     "wof:name":"I O H Injury & Occupational Health",
     "wof:parent_id":85769093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "safety"
     ]
 },
-  "bbox": [150.893723,-34.435394,150.893723,-34.435394],
-  "geometry": {"coordinates":[150.893723,-34.435394],"type":"Point"}
+  "bbox": [
+    150.893723,
+    -34.435394,
+    150.893723,
+    -34.435394
+],
+  "geometry": {"coordinates":[150.89372299999999,-34.435394],"type":"Point"}
 }

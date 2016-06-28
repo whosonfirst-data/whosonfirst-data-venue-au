@@ -2,13 +2,14 @@
   "id": 202950485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.111923,-30.294622,153.111923,-30.294622",
     "geom:latitude":-30.294622,
     "geom:longitude":153.111923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Scarba St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202950485,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1466191013,
     "wof:name":"Bizarre Bazaar The",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [153.111923,-30.294622,153.111923,-30.294622],
-  "geometry": {"coordinates":[153.111923,-30.294622],"type":"Point"}
+  "bbox": [
+    153.111923,
+    -30.294622,
+    153.111923,
+    -30.294622
+],
+  "geometry": {"coordinates":[153.11192299999999,-30.294622],"type":"Point"}
 }

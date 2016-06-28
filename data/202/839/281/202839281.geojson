@@ -2,13 +2,14 @@
   "id": 202839281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.682205,-32.992691,151.682205,-32.992691",
     "geom:latitude":-32.992691,
     "geom:longitude":151.682205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr South & Lake Sts",
     "sg:city":"Windale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202839281,
-    "wof:lastmodified":1449061647,
+    "wof:lastmodified":1466190457,
     "wof:name":"Ampol Ltd",
     "wof:parent_id":85777099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.682205,-32.992691,151.682205,-32.992691],
-  "geometry": {"coordinates":[151.682205,-32.992691],"type":"Point"}
+  "bbox": [
+    151.682205,
+    -32.992691,
+    151.682205,
+    -32.992691
+],
+  "geometry": {"coordinates":[151.68220500000001,-32.992691],"type":"Point"}
 }

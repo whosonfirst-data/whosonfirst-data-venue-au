@@ -2,13 +2,14 @@
   "id": 185914429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.543167,-33.264221,151.543167,-33.264221",
     "geom:latitude":-33.264221,
     "geom:longitude":151.543167,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste11/ 190-198 Main Rd",
     "sg:city":"Toukley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185914429,
-    "wof:lastmodified":1449007223,
+    "wof:lastmodified":1466188200,
     "wof:name":"SolutionCentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.543167,-33.264221,151.543167,-33.264221],
-  "geometry": {"coordinates":[151.543167,-33.264221],"type":"Point"}
+  "bbox": [
+    151.543167,
+    -33.264221,
+    151.543167,
+    -33.264221
+],
+  "geometry": {"coordinates":[151.54316700000001,-33.264221],"type":"Point"}
 }

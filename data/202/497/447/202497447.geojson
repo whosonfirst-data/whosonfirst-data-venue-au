@@ -2,13 +2,14 @@
   "id": 202497447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.052368,-37.905586,145.052368,-37.905586",
     "geom:latitude":-37.905586,
     "geom:longitude":145.052368,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"742 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202497447,
-    "wof:lastmodified":1449062599,
+    "wof:lastmodified":1466189497,
     "wof:name":"Carnegie Collectables",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "memorabilia"
     ]
 },
-  "bbox": [145.052368,-37.905586,145.052368,-37.905586],
+  "bbox": [
+    145.052368,
+    -37.905586,
+    145.052368,
+    -37.905586
+],
   "geometry": {"coordinates":[145.052368,-37.905586],"type":"Point"}
 }

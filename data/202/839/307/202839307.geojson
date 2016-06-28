@@ -2,13 +2,14 @@
   "id": 202839307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.682693,-32.992748,151.682693,-32.992748",
     "geom:latitude":-32.992748,
     "geom:longitude":151.682693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 South St",
     "sg:city":"Windale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202839307,
-    "wof:lastmodified":1449061646,
+    "wof:lastmodified":1466190457,
     "wof:name":"Welcome Mart",
     "wof:parent_id":85777099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [151.682693,-32.992748,151.682693,-32.992748],
+  "bbox": [
+    151.682693,
+    -32.992748,
+    151.682693,
+    -32.992748
+],
   "geometry": {"coordinates":[151.682693,-32.992748],"type":"Point"}
 }

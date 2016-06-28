@@ -2,13 +2,14 @@
   "id": 186450017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178665,-33.89724,151.178665,-33.89724",
     "geom:latitude":-33.89724,
     "geom:longitude":151.178665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Australia & Lennox Sts",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186450017,
-    "wof:lastmodified":1449052596,
+    "wof:lastmodified":1466190158,
     "wof:name":"Courthouse Hotel",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.178665,-33.89724,151.178665,-33.89724],
+  "bbox": [
+    151.178665,
+    -33.89724,
+    151.178665,
+    -33.89724
+],
   "geometry": {"coordinates":[151.178665,-33.89724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236722961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.457703,-31.911282,152.457703,-31.911282",
     "geom:latitude":-31.911282,
     "geom:longitude":152.457703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Pulteney St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236722961,
-    "wof:lastmodified":1449002676,
+    "wof:lastmodified":1466191867,
     "wof:name":"Salvation Army Welfare Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [152.457703,-31.911282,152.457703,-31.911282],
-  "geometry": {"coordinates":[152.457703,-31.911282],"type":"Point"}
+  "bbox": [
+    152.457703,
+    -31.911282,
+    152.457703,
+    -31.911282
+],
+  "geometry": {"coordinates":[152.45770300000001,-31.911282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202447075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.958023,-37.832302,144.958023,-37.832302",
     "geom:latitude":-37.832302,
     "geom:longitude":144.958023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Coventry St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202447075,
-    "wof:lastmodified":1449061886,
+    "wof:lastmodified":1466188725,
     "wof:name":"Cottle Coffee Tea & Nuts",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "edible"
     ]
 },
-  "bbox": [144.958023,-37.832302,144.958023,-37.832302],
+  "bbox": [
+    144.958023,
+    -37.832302,
+    144.958023,
+    -37.832302
+],
   "geometry": {"coordinates":[144.958023,-37.832302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219729239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.80307,-19.272411,146.80307,-19.272411",
     "geom:latitude":-19.272411,
     "geom:longitude":146.80307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Smith St",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219729239,
-    "wof:lastmodified":1449072159,
+    "wof:lastmodified":1466191134,
     "wof:name":"Australian Kidney Foundation",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [146.80307,-19.272411,146.80307,-19.272411],
-  "geometry": {"coordinates":[146.80307,-19.272411],"type":"Point"}
+  "bbox": [
+    146.80307,
+    -19.272411,
+    146.80307,
+    -19.272411
+],
+  "geometry": {"coordinates":[146.80306999999999,-19.272411],"type":"Point"}
 }

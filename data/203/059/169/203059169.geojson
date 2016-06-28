@@ -2,13 +2,14 @@
   "id": 203059169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.94371,-33.740395,150.94371,-33.740395",
     "geom:latitude":-33.740395,
     "geom:longitude":150.94371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Meurants La",
     "sg:city":"Glenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203059169,
-    "wof:lastmodified":1449025428,
+    "wof:lastmodified":1466188372,
     "wof:name":"Harper Andrew",
     "wof:parent_id":85776879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [150.94371,-33.740395,150.94371,-33.740395],
-  "geometry": {"coordinates":[150.94371,-33.740395],"type":"Point"}
+  "bbox": [
+    150.94371,
+    -33.740395,
+    150.94371,
+    -33.740395
+],
+  "geometry": {"coordinates":[150.94371000000001,-33.740395],"type":"Point"}
 }

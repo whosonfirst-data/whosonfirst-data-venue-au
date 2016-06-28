@@ -2,13 +2,14 @@
   "id": 202485309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.042206,-37.904335,145.042206,-37.904335",
     "geom:latitude":-37.904335,
     "geom:longitude":145.042206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"608 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202485309,
-    "wof:lastmodified":1449061663,
+    "wof:lastmodified":1466189309,
     "wof:name":"Petstock Animal Supplies",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stock"
     ]
 },
-  "bbox": [145.042206,-37.904335,145.042206,-37.904335],
-  "geometry": {"coordinates":[145.042206,-37.904335],"type":"Point"}
+  "bbox": [
+    145.042206,
+    -37.904335,
+    145.042206,
+    -37.904335
+],
+  "geometry": {"coordinates":[145.04220599999999,-37.904335],"type":"Point"}
 }

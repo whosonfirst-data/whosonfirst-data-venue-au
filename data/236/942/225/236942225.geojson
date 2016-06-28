@@ -2,13 +2,14 @@
   "id": 236942225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.575104,-34.992966,138.575104,-34.992966",
     "geom:latitude":-34.992966,
     "geom:longitude":138.575104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 South Rd",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236942225,
-    "wof:lastmodified":1449003099,
+    "wof:lastmodified":1466192146,
     "wof:name":"Adtrans Used Cars",
     "wof:parent_id":85777539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [138.575104,-34.992966,138.575104,-34.992966],
-  "geometry": {"coordinates":[138.575104,-34.992966],"type":"Point"}
+  "bbox": [
+    138.575104,
+    -34.992966,
+    138.575104,
+    -34.992966
+],
+  "geometry": {"coordinates":[138.57510400000001,-34.992966],"type":"Point"}
 }

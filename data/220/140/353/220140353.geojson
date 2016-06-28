@@ -2,13 +2,14 @@
   "id": 220140353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.358704,-38.152054,144.358704,-38.152054",
     "geom:latitude":-38.152054,
     "geom:longitude":144.358704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, Westfield Shopping Centre, Geelong",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220140353,
-    "wof:lastmodified":1449074142,
+    "wof:lastmodified":1466188394,
     "wof:name":"Computers Now",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [144.358704,-38.152054,144.358704,-38.152054],
-  "geometry": {"coordinates":[144.358704,-38.152054],"type":"Point"}
+  "bbox": [
+    144.358704,
+    -38.152054,
+    144.358704,
+    -38.152054
+],
+  "geometry": {"coordinates":[144.35870399999999,-38.152054],"type":"Point"}
 }

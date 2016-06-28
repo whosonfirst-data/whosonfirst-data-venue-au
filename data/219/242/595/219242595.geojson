@@ -2,13 +2,14 @@
   "id": 219242595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.997879,-37.774117,144.997879,-37.774117",
     "geom:latitude":-37.774117,
     "geom:longitude":144.997879,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"207 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219242595,
-    "wof:lastmodified":1449073505,
+    "wof:lastmodified":1466186918,
     "wof:name":"Raine & Horne Valuations (VIC)",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [144.997879,-37.774117,144.997879,-37.774117],
-  "geometry": {"coordinates":[144.997879,-37.774117],"type":"Point"}
+  "bbox": [
+    144.997879,
+    -37.774117,
+    144.997879,
+    -37.774117
+],
+  "geometry": {"coordinates":[144.99787900000001,-37.774117],"type":"Point"}
 }

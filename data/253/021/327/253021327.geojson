@@ -2,13 +2,14 @@
   "id": 253021327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.674103,-37.874302,144.674103,-37.874302",
     "geom:latitude":-37.874302,
     "geom:longitude":144.674103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 McKenzie Crs",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253021327,
-    "wof:lastmodified":1449064683,
+    "wof:lastmodified":1466187342,
     "wof:name":"David Deck",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "translation"
     ]
 },
-  "bbox": [144.674103,-37.874302,144.674103,-37.874302],
+  "bbox": [
+    144.674103,
+    -37.874302,
+    144.674103,
+    -37.874302
+],
   "geometry": {"coordinates":[144.674103,-37.874302],"type":"Point"}
 }

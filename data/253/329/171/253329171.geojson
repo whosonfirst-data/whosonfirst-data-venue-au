@@ -2,13 +2,14 @@
   "id": 253329171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.311203,-38.015747,145.311203,-38.015747",
     "geom:latitude":-38.015747,
     "geom:longitude":145.311203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Albens Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253329171,
-    "wof:lastmodified":1449063640,
+    "wof:lastmodified":1466190985,
     "wof:name":"Prolac Painting",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [145.311203,-38.015747,145.311203,-38.015747],
-  "geometry": {"coordinates":[145.311203,-38.015747],"type":"Point"}
+  "bbox": [
+    145.311203,
+    -38.015747,
+    145.311203,
+    -38.015747
+],
+  "geometry": {"coordinates":[145.31120300000001,-38.015747],"type":"Point"}
 }

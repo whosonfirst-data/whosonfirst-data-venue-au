@@ -2,13 +2,14 @@
   "id": 219435565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.760078,-32.367313,115.760078,-32.367313",
     "geom:latitude":-32.367313,
     "geom:longitude":115.760078,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Crowley St",
     "sg:city":"Port Kennedy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219435565,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466188811,
     "wof:name":"Port Kennedy Tyre & Brake Centre",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [115.760078,-32.367313,115.760078,-32.367313],
-  "geometry": {"coordinates":[115.760078,-32.367313],"type":"Point"}
+  "bbox": [
+    115.760078,
+    -32.367313,
+    115.760078,
+    -32.367313
+],
+  "geometry": {"coordinates":[115.76007799999999,-32.367313],"type":"Point"}
 }

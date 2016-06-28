@@ -2,13 +2,14 @@
   "id": 253043769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.825562,-37.838017,144.825562,-37.838017",
     "geom:latitude":-37.838017,
     "geom:longitude":144.825562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gate 3/421- 437 Grieve Pde",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253043769,
-    "wof:lastmodified":1449065026,
+    "wof:lastmodified":1466187789,
     "wof:name":"Action Workforce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.825562,-37.838017,144.825562,-37.838017],
-  "geometry": {"coordinates":[144.825562,-37.838017],"type":"Point"}
+  "bbox": [
+    144.825562,
+    -37.838017,
+    144.825562,
+    -37.838017
+],
+  "geometry": {"coordinates":[144.82556199999999,-37.838017],"type":"Point"}
 }

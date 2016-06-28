@@ -2,13 +2,14 @@
   "id": 220124831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.330048,-38.203636,144.330048,-38.203636",
     "geom:latitude":-38.203636,
     "geom:longitude":144.330048,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Wills Crs",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220124831,
-    "wof:lastmodified":1449074824,
+    "wof:lastmodified":1466188201,
     "wof:name":"C J Hawkes Refrigerated Transport Pty Ltd",
     "wof:parent_id":85769417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refrigerated"
     ]
 },
-  "bbox": [144.330048,-38.203636,144.330048,-38.203636],
-  "geometry": {"coordinates":[144.330048,-38.203636],"type":"Point"}
+  "bbox": [
+    144.330048,
+    -38.203636,
+    144.330048,
+    -38.203636
+],
+  "geometry": {"coordinates":[144.33004800000001,-38.203636],"type":"Point"}
 }

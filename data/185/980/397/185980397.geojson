@@ -2,13 +2,14 @@
   "id": 185980397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.412613,-33.426548,151.412613,-33.426548",
     "geom:latitude":-33.426548,
     "geom:longitude":151.412613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3, 490 The Entrance Rd",
     "sg:city":"Erina Heights",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185980397,
-    "wof:lastmodified":1449006712,
+    "wof:lastmodified":1466188733,
     "wof:name":"Erina Hairport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.412613,-33.426548,151.412613,-33.426548],
-  "geometry": {"coordinates":[151.412613,-33.426548],"type":"Point"}
+  "bbox": [
+    151.412613,
+    -33.426548,
+    151.412613,
+    -33.426548
+],
+  "geometry": {"coordinates":[151.41261299999999,-33.426548],"type":"Point"}
 }

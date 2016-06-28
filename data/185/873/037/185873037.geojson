@@ -2,13 +2,14 @@
   "id": 185873037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699234,-25.535517,152.699234,-25.535517",
     "geom:latitude":-25.535517,
     "geom:longitude":152.699234,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87/89 Bazaar St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185873037,
-    "wof:lastmodified":1449006951,
+    "wof:lastmodified":1466187604,
     "wof:name":"Corporate Express",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopier"
     ]
 },
-  "bbox": [152.699234,-25.535517,152.699234,-25.535517],
-  "geometry": {"coordinates":[152.699234,-25.535517],"type":"Point"}
+  "bbox": [
+    152.699234,
+    -25.535517,
+    152.699234,
+    -25.535517
+],
+  "geometry": {"coordinates":[152.69923399999999,-25.535517],"type":"Point"}
 }

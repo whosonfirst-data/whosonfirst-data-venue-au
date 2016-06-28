@@ -2,13 +2,14 @@
   "id": 202638737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.017014,-18.255812,146.017014,-18.255812",
     "geom:latitude":-18.255812,
     "geom:longitude":146.017014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1-14 Raleigh St",
     "sg:city":"Cardwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202638737,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466187727,
     "wof:name":"Colour Harmony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "decorator"
     ]
 },
-  "bbox": [146.017014,-18.255812,146.017014,-18.255812],
-  "geometry": {"coordinates":[146.017014,-18.255812],"type":"Point"}
+  "bbox": [
+    146.017014,
+    -18.255812,
+    146.017014,
+    -18.255812
+],
+  "geometry": {"coordinates":[146.01701399999999,-18.255812],"type":"Point"}
 }

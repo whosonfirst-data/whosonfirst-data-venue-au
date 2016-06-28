@@ -2,13 +2,14 @@
   "id": 186628083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.050278,-34.288155,146.050278,-34.288155",
     "geom:latitude":-34.288155,
     "geom:longitude":146.050278,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"201-227 Banna Ave",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186628083,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466191004,
     "wof:name":"Comfort Inn Gemini Motels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.050278,-34.288155,146.050278,-34.288155],
-  "geometry": {"coordinates":[146.050278,-34.288155],"type":"Point"}
+  "bbox": [
+    146.050278,
+    -34.288155,
+    146.050278,
+    -34.288155
+],
+  "geometry": {"coordinates":[146.05027799999999,-34.288155],"type":"Point"}
 }

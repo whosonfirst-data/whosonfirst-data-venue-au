@@ -2,13 +2,14 @@
   "id": 236453729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.178574,-21.146385,149.178574,-21.146385",
     "geom:latitude":-21.146385,
     "geom:longitude":149.178574,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3, 326 Shakespeares St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236453729,
-    "wof:lastmodified":1449004260,
+    "wof:lastmodified":1466191260,
     "wof:name":"CQ Point Of Sale Pty Ltd",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cash"
     ]
 },
-  "bbox": [149.178574,-21.146385,149.178574,-21.146385],
+  "bbox": [
+    149.178574,
+    -21.146385,
+    149.178574,
+    -21.146385
+],
   "geometry": {"coordinates":[149.178574,-21.146385],"type":"Point"}
 }

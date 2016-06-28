@@ -2,13 +2,14 @@
   "id": 203032335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.160263,-37.659153,145.160263,-37.659153",
     "geom:latitude":-37.659153,
     "geom:longitude":145.160263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Blackgully Rd",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203032335,
-    "wof:lastmodified":1449025845,
+    "wof:lastmodified":1466187841,
     "wof:name":"Diamond Creek Osteopathic Clinic",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [145.160263,-37.659153,145.160263,-37.659153],
-  "geometry": {"coordinates":[145.160263,-37.659153],"type":"Point"}
+  "bbox": [
+    145.160263,
+    -37.659153,
+    145.160263,
+    -37.659153
+],
+  "geometry": {"coordinates":[145.16026299999999,-37.659153],"type":"Point"}
 }

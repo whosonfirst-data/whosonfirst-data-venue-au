@@ -2,13 +2,14 @@
   "id": 253208431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.947815,-27.539244,151.947815,-27.539244",
     "geom:latitude":-27.539244,
     "geom:longitude":151.947815,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Jones St",
     "sg:city":"Harlaxton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253208431,
-    "wof:lastmodified":1449063164,
+    "wof:lastmodified":1466190281,
     "wof:name":"Towers & Booms Pty Ltd",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "elevating"
     ]
 },
-  "bbox": [151.947815,-27.539244,151.947815,-27.539244],
-  "geometry": {"coordinates":[151.947815,-27.539244],"type":"Point"}
+  "bbox": [
+    151.947815,
+    -27.539244,
+    151.947815,
+    -27.539244
+],
+  "geometry": {"coordinates":[151.94781499999999,-27.539244],"type":"Point"}
 }

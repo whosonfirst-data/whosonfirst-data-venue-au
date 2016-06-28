@@ -2,13 +2,14 @@
   "id": 186320325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.968452,-31.897182,115.968452,-31.897182",
     "geom:latitude":-31.897182,
     "geom:longitude":115.968452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Swan St",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186320325,
-    "wof:lastmodified":1449051072,
+    "wof:lastmodified":1466187947,
     "wof:name":"Ford Michael",
     "wof:parent_id":85769421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "farrier"
     ]
 },
-  "bbox": [115.968452,-31.897182,115.968452,-31.897182],
+  "bbox": [
+    115.968452,
+    -31.897182,
+    115.968452,
+    -31.897182
+],
   "geometry": {"coordinates":[115.968452,-31.897182],"type":"Point"}
 }

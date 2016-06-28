@@ -2,13 +2,14 @@
   "id": 252818557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.582123,-38.339149,143.582123,-38.339149",
     "geom:latitude":-38.339149,
     "geom:longitude":143.582123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"249-251 Murray St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252818557,
-    "wof:lastmodified":1449005946,
+    "wof:lastmodified":1466188291,
     "wof:name":"Colac Auto Replacements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [143.582123,-38.339149,143.582123,-38.339149],
+  "bbox": [
+    143.582123,
+    -38.339149,
+    143.582123,
+    -38.339149
+],
   "geometry": {"coordinates":[143.582123,-38.339149],"type":"Point"}
 }

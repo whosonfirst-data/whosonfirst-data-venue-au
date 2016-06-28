@@ -2,13 +2,14 @@
   "id": 236127221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.854156,-37.737377,144.854156,-37.737377",
     "geom:latitude":-37.737377,
     "geom:longitude":144.854156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Webber Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236127221,
-    "wof:lastmodified":1449004923,
+    "wof:lastmodified":1466189189,
     "wof:name":"Pingitore Imports Pty Ltd",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [144.854156,-37.737377,144.854156,-37.737377],
-  "geometry": {"coordinates":[144.854156,-37.737377],"type":"Point"}
+  "bbox": [
+    144.854156,
+    -37.737377,
+    144.854156,
+    -37.737377
+],
+  "geometry": {"coordinates":[144.85415599999999,-37.737377],"type":"Point"}
 }

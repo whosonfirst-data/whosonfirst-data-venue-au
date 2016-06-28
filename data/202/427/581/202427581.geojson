@@ -2,13 +2,14 @@
   "id": 202427581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959625,-37.852867,144.959625,-37.852867",
     "geom:latitude":-37.852867,
     "geom:longitude":144.959625,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U31/ 225 Beaconsfield Pde",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202427581,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466188345,
     "wof:name":"Hobson Bay Consulting Pty Ltd",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.959625,-37.852867,144.959625,-37.852867],
-  "geometry": {"coordinates":[144.959625,-37.852867],"type":"Point"}
+  "bbox": [
+    144.959625,
+    -37.852867,
+    144.959625,
+    -37.852867
+],
+  "geometry": {"coordinates":[144.95962499999999,-37.852867],"type":"Point"}
 }

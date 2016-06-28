@@ -2,13 +2,14 @@
   "id": 185880329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.679413,-25.52725,152.679413,-25.52725",
     "geom:latitude":-25.52725,
     "geom:longitude":152.679413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Alice St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185880329,
-    "wof:lastmodified":1449008220,
+    "wof:lastmodified":1466187676,
     "wof:name":"B J's Hair Salon",
     "wof:parent_id":85768735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.679413,-25.52725,152.679413,-25.52725],
-  "geometry": {"coordinates":[152.679413,-25.52725],"type":"Point"}
+  "bbox": [
+    152.679413,
+    -25.52725,
+    152.679413,
+    -25.52725
+],
+  "geometry": {"coordinates":[152.67941300000001,-25.52725],"type":"Point"}
 }

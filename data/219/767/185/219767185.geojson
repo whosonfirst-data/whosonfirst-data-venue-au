@@ -2,13 +2,14 @@
   "id": 219767185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179245,-33.911263,151.179245,-33.911263",
     "geom:latitude":-33.911263,
     "geom:longitude":151.179245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Applebee St St",
     "sg:city":"Peters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219767185,
-    "wof:lastmodified":1449071413,
+    "wof:lastmodified":1466191279,
     "wof:name":"Premier Commercial Interiors",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitting"
     ]
 },
-  "bbox": [151.179245,-33.911263,151.179245,-33.911263],
-  "geometry": {"coordinates":[151.179245,-33.911263],"type":"Point"}
+  "bbox": [
+    151.179245,
+    -33.911263,
+    151.179245,
+    -33.911263
+],
+  "geometry": {"coordinates":[151.17924500000001,-33.911263],"type":"Point"}
 }

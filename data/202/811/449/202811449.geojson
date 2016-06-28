@@ -2,13 +2,14 @@
   "id": 202811449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.723404,-32.926128,151.723404,-32.926128",
     "geom:latitude":-32.926128,
     "geom:longitude":151.723404,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Kings Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202811449,
-    "wof:lastmodified":1449061354,
+    "wof:lastmodified":1466190372,
     "wof:name":"Garry Jeans Kitchens",
     "wof:parent_id":85778069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [151.723404,-32.926128,151.723404,-32.926128],
-  "geometry": {"coordinates":[151.723404,-32.926128],"type":"Point"}
+  "bbox": [
+    151.723404,
+    -32.926128,
+    151.723404,
+    -32.926128
+],
+  "geometry": {"coordinates":[151.72340399999999,-32.926128],"type":"Point"}
 }

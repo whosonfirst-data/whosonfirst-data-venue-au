@@ -2,13 +2,14 @@
   "id": 202971855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.180527,-33.887859,151.180527,-33.887859",
     "geom:latitude":-33.887859,
     "geom:longitude":151.180527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 6, 35- 47 Missenden Rd",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202971855,
-    "wof:lastmodified":1449061404,
+    "wof:lastmodified":1466191180,
     "wof:name":"Clark R J",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.180527,-33.887859,151.180527,-33.887859],
-  "geometry": {"coordinates":[151.180527,-33.887859],"type":"Point"}
+  "bbox": [
+    151.180527,
+    -33.887859,
+    151.180527,
+    -33.887859
+],
+  "geometry": {"coordinates":[151.18052700000001,-33.887859],"type":"Point"}
 }

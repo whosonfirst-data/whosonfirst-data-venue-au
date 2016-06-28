@@ -2,13 +2,14 @@
   "id": 236332821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.801651,-32.060638,115.801651,-32.060638",
     "geom:latitude":-32.060638,
     "geom:longitude":115.801651,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Adams St",
     "sg:city":"O&#039;Connor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236332821,
-    "wof:lastmodified":1449003501,
+    "wof:lastmodified":1466190705,
     "wof:name":"Matts Cabinets",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [115.801651,-32.060638,115.801651,-32.060638],
-  "geometry": {"coordinates":[115.801651,-32.060638],"type":"Point"}
+  "bbox": [
+    115.801651,
+    -32.060638,
+    115.801651,
+    -32.060638
+],
+  "geometry": {"coordinates":[115.80165100000001,-32.060638],"type":"Point"}
 }

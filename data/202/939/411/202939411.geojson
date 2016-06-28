@@ -2,13 +2,14 @@
   "id": 202939411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.132416,-30.285742,153.132416,-30.285742",
     "geom:latitude":-30.285742,
     "geom:longitude":153.132416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Park Beach Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202939411,
-    "wof:lastmodified":1449060863,
+    "wof:lastmodified":1466190932,
     "wof:name":"Granma's Restaurant",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.132416,-30.285742,153.132416,-30.285742],
-  "geometry": {"coordinates":[153.132416,-30.285742],"type":"Point"}
+  "bbox": [
+    153.132416,
+    -30.285742,
+    153.132416,
+    -30.285742
+],
+  "geometry": {"coordinates":[153.13241600000001,-30.285742],"type":"Point"}
 }

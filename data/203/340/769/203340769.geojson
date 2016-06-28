@@ -2,13 +2,14 @@
   "id": 203340769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.890472,-37.580212,143.890472,-37.580212",
     "geom:latitude":-37.580212,
     "geom:longitude":143.890472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Fussell & York Sts",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203340769,
-    "wof:lastmodified":1449026403,
+    "wof:lastmodified":1466188512,
     "wof:name":"Ballarat Wildlife & Reptile Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "animal"
     ]
 },
-  "bbox": [143.890472,-37.580212,143.890472,-37.580212],
-  "geometry": {"coordinates":[143.890472,-37.580212],"type":"Point"}
+  "bbox": [
+    143.890472,
+    -37.580212,
+    143.890472,
+    -37.580212
+],
+  "geometry": {"coordinates":[143.89047199999999,-37.580212],"type":"Point"}
 }

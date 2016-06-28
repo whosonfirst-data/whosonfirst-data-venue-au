@@ -2,13 +2,14 @@
   "id": 169786205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.592529,-38.605789,145.592529,-38.605789",
     "geom:latitude":-38.605789,
     "geom:longitude":145.592529,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Graham St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169786205,
-    "wof:lastmodified":1449033114,
+    "wof:lastmodified":1466188461,
     "wof:name":"Wonthaggi Auto-Lec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [145.592529,-38.605789,145.592529,-38.605789],
-  "geometry": {"coordinates":[145.592529,-38.605789],"type":"Point"}
+  "bbox": [
+    145.592529,
+    -38.605789,
+    145.592529,
+    -38.605789
+],
+  "geometry": {"coordinates":[145.59252900000001,-38.605789],"type":"Point"}
 }

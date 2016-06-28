@@ -2,13 +2,14 @@
   "id": 235965297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050903,-27.435253,153.050903,-27.435253",
     "geom:latitude":-27.435253,
     "geom:longitude":153.050903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Joynt St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235965297,
-    "wof:lastmodified":1449008480,
+    "wof:lastmodified":1466187290,
     "wof:name":"Prime Landscaping",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.050903,-27.435253,153.050903,-27.435253],
-  "geometry": {"coordinates":[153.050903,-27.435253],"type":"Point"}
+  "bbox": [
+    153.050903,
+    -27.435253,
+    153.050903,
+    -27.435253
+],
+  "geometry": {"coordinates":[153.05090300000001,-27.435253],"type":"Point"}
 }

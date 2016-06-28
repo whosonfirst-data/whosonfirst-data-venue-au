@@ -2,13 +2,14 @@
   "id": 202643993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.024246,-27.396135,153.024246,-27.396135",
     "geom:latitude":-27.396135,
     "geom:longitude":153.024246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Yiada St",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202643993,
-    "wof:lastmodified":1449062317,
+    "wof:lastmodified":1466187768,
     "wof:name":"Smith Brad Plumbing",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.024246,-27.396135,153.024246,-27.396135],
-  "geometry": {"coordinates":[153.024246,-27.396135],"type":"Point"}
+  "bbox": [
+    153.024246,
+    -27.396135,
+    153.024246,
+    -27.396135
+],
+  "geometry": {"coordinates":[153.02424600000001,-27.396135],"type":"Point"}
 }

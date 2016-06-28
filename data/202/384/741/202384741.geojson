@@ -2,13 +2,14 @@
   "id": 202384741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.728226,-34.596329,138.728226,-34.596329",
     "geom:latitude":-34.596329,
     "geom:longitude":138.728226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1533",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202384741,
-    "wof:lastmodified":1449060416,
+    "wof:lastmodified":1466187237,
     "wof:name":"Earthshifters",
     "wof:parent_id":85780765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.728226,-34.596329,138.728226,-34.596329],
-  "geometry": {"coordinates":[138.728226,-34.596329],"type":"Point"}
+  "bbox": [
+    138.728226,
+    -34.596329,
+    138.728226,
+    -34.596329
+],
+  "geometry": {"coordinates":[138.72822600000001,-34.596329],"type":"Point"}
 }

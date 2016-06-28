@@ -2,13 +2,14 @@
   "id": 253227481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.921722,-27.577253,151.921722,-27.577253",
     "geom:latitude":-27.577253,
     "geom:longitude":151.921722,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Clifford Gardens Anzac Ave",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253227481,
-    "wof:lastmodified":1449063449,
+    "wof:lastmodified":1466190266,
     "wof:name":"Brumbys Bakeries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.921722,-27.577253,151.921722,-27.577253],
-  "geometry": {"coordinates":[151.921722,-27.577253],"type":"Point"}
+  "bbox": [
+    151.921722,
+    -27.577253,
+    151.921722,
+    -27.577253
+],
+  "geometry": {"coordinates":[151.92172199999999,-27.577253],"type":"Point"}
 }

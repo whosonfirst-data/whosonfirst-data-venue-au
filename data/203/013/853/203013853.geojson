@@ -2,13 +2,14 @@
   "id": 203013853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.49144,-20.728334,139.49144,-20.728334",
     "geom:latitude":-20.728334,
     "geom:longitude":139.49144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Isa St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203013853,
-    "wof:lastmodified":1449026259,
+    "wof:lastmodified":1466187359,
     "wof:name":"Mt Isa Tavern",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.49144,-20.728334,139.49144,-20.728334],
-  "geometry": {"coordinates":[139.49144,-20.728334],"type":"Point"}
+  "bbox": [
+    139.49144,
+    -20.728334,
+    139.49144,
+    -20.728334
+],
+  "geometry": {"coordinates":[139.49144000000001,-20.728334],"type":"Point"}
 }

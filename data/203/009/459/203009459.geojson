@@ -2,13 +2,14 @@
   "id": 203009459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.489792,-20.727636,139.489792,-20.727636",
     "geom:latitude":-20.727636,
     "geom:longitude":139.489792,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1A Isa Square Arc",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203009459,
-    "wof:lastmodified":1449026847,
+    "wof:lastmodified":1466187225,
     "wof:name":"Chopsticks Palace",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.489792,-20.727636,139.489792,-20.727636],
-  "geometry": {"coordinates":[139.489792,-20.727636],"type":"Point"}
+  "bbox": [
+    139.489792,
+    -20.727636,
+    139.489792,
+    -20.727636
+],
+  "geometry": {"coordinates":[139.48979199999999,-20.727636],"type":"Point"}
 }

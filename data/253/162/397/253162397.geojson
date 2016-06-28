@@ -2,13 +2,14 @@
   "id": 253162397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952301,-27.568165,151.952301,-27.568165",
     "geom:latitude":-27.568165,
     "geom:longitude":151.952301,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"487 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253162397,
-    "wof:lastmodified":1449065342,
+    "wof:lastmodified":1466189836,
     "wof:name":"Hartley's Officesmart",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.952301,-27.568165,151.952301,-27.568165],
-  "geometry": {"coordinates":[151.952301,-27.568165],"type":"Point"}
+  "bbox": [
+    151.952301,
+    -27.568165,
+    151.952301,
+    -27.568165
+],
+  "geometry": {"coordinates":[151.95230100000001,-27.568165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236561807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.014709,-33.953831,151.014709,-33.953831",
     "geom:latitude":-33.953831,
     "geom:longitude":151.014709,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Macarthur Ave",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236561807,
-    "wof:lastmodified":1449004091,
+    "wof:lastmodified":1466191521,
     "wof:name":"G.W. Kelly Family Funerals",
     "wof:parent_id":85770077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [151.014709,-33.953831,151.014709,-33.953831],
-  "geometry": {"coordinates":[151.014709,-33.953831],"type":"Point"}
+  "bbox": [
+    151.014709,
+    -33.953831,
+    151.014709,
+    -33.953831
+],
+  "geometry": {"coordinates":[151.01470900000001,-33.953831],"type":"Point"}
 }

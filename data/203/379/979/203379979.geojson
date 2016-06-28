@@ -2,13 +2,14 @@
   "id": 203379979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.852737,-37.563812,143.852737,-37.563812",
     "geom:latitude":-37.563812,
     "geom:longitude":143.852737,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Dawson St Sth",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203379979,
-    "wof:lastmodified":1449026050,
+    "wof:lastmodified":1466189198,
     "wof:name":"Bruce Hollioake",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigation"
     ]
 },
-  "bbox": [143.852737,-37.563812,143.852737,-37.563812],
-  "geometry": {"coordinates":[143.852737,-37.563812],"type":"Point"}
+  "bbox": [
+    143.852737,
+    -37.563812,
+    143.852737,
+    -37.563812
+],
+  "geometry": {"coordinates":[143.85273699999999,-37.563812],"type":"Point"}
 }

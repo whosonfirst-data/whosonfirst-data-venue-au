@@ -2,13 +2,14 @@
   "id": 220061609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.315567,-38.327583,144.315567,-38.327583",
     "geom:latitude":-38.327583,
     "geom:longitude":144.315567,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14- 16 Baines Crt",
     "sg:city":"Torquay",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220061609,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466187612,
     "wof:name":"Torquay Mitre 10 Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.315567,-38.327583,144.315567,-38.327583],
-  "geometry": {"coordinates":[144.315567,-38.327583],"type":"Point"}
+  "bbox": [
+    144.315567,
+    -38.327583,
+    144.315567,
+    -38.327583
+],
+  "geometry": {"coordinates":[144.31556699999999,-38.327583],"type":"Point"}
 }

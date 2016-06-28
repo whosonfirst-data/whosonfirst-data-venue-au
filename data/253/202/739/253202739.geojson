@@ -2,13 +2,14 @@
   "id": 253202739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.984207,-27.580778,151.984207,-27.580778",
     "geom:latitude":-27.580778,
     "geom:longitude":151.984207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kimmins St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253202739,
-    "wof:lastmodified":1449065386,
+    "wof:lastmodified":1466190111,
     "wof:name":"Q R C",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [151.984207,-27.580778,151.984207,-27.580778],
+  "bbox": [
+    151.984207,
+    -27.580778,
+    151.984207,
+    -27.580778
+],
   "geometry": {"coordinates":[151.984207,-27.580778],"type":"Point"}
 }

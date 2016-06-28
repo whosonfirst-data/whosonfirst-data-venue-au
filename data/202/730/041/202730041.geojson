@@ -2,13 +2,14 @@
   "id": 202730041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.635132,-34.792542,138.635132,-34.792542",
     "geom:latitude":-34.792542,
     "geom:longitude":138.635132,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hangar 59, Parafield Airport",
     "sg:city":"Parafield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202730041,
-    "wof:lastmodified":1449062251,
+    "wof:lastmodified":1466189399,
     "wof:name":"Bruce Hartwig Flying School",
     "wof:parent_id":85777595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "flying"
     ]
 },
-  "bbox": [138.635132,-34.792542,138.635132,-34.792542],
+  "bbox": [
+    138.635132,
+    -34.792542,
+    138.635132,
+    -34.792542
+],
   "geometry": {"coordinates":[138.635132,-34.792542],"type":"Point"}
 }

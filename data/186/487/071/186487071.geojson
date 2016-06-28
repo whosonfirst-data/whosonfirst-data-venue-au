@@ -2,13 +2,14 @@
   "id": 186487071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.756516,-19.269955,146.756516,-19.269955",
     "geom:latitude":-19.269955,
     "geom:longitude":146.756516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bombala St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186487071,
-    "wof:lastmodified":1449051271,
+    "wof:lastmodified":1466190553,
     "wof:name":"ALS Laboratory Group",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [146.756516,-19.269955,146.756516,-19.269955],
+  "bbox": [
+    146.756516,
+    -19.269955,
+    146.756516,
+    -19.269955
+],
   "geometry": {"coordinates":[146.756516,-19.269955],"type":"Point"}
 }

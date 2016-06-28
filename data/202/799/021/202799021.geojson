@@ -2,13 +2,14 @@
   "id": 202799021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.748657,-32.925339,151.748657,-32.925339",
     "geom:latitude":-32.925339,
     "geom:longitude":151.748657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Denison St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202799021,
-    "wof:lastmodified":1449062658,
+    "wof:lastmodified":1466190189,
     "wof:name":"Denison St Automotive Services",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.748657,-32.925339,151.748657,-32.925339],
-  "geometry": {"coordinates":[151.748657,-32.925339],"type":"Point"}
+  "bbox": [
+    151.748657,
+    -32.925339,
+    151.748657,
+    -32.925339
+],
+  "geometry": {"coordinates":[151.74865700000001,-32.925339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236960539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.444443,-37.927441,145.444443,-37.927441",
     "geom:latitude":-37.927441,
     "geom:longitude":145.444443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Main & Emerald-Monbulk Rds",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236960539,
-    "wof:lastmodified":1449004133,
+    "wof:lastmodified":1466192169,
     "wof:name":"Porter Daniel",
     "wof:parent_id":85769507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [145.444443,-37.927441,145.444443,-37.927441],
-  "geometry": {"coordinates":[145.444443,-37.927441],"type":"Point"}
+  "bbox": [
+    145.444443,
+    -37.927441,
+    145.444443,
+    -37.927441
+],
+  "geometry": {"coordinates":[145.44444300000001,-37.927441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202759055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.284073,-23.55266,145.284073,-23.55266",
     "geom:latitude":-23.55266,
     "geom:longitude":145.284073,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 232",
     "sg:city":"Barcaldine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202759055,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466189845,
     "wof:name":"Artesian Country Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attractions"
     ]
 },
-  "bbox": [145.284073,-23.55266,145.284073,-23.55266],
-  "geometry": {"coordinates":[145.284073,-23.55266],"type":"Point"}
+  "bbox": [
+    145.284073,
+    -23.55266,
+    145.284073,
+    -23.55266
+],
+  "geometry": {"coordinates":[145.28407300000001,-23.55266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202405749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942459,-37.837215,144.942459,-37.837215",
     "geom:latitude":-37.837215,
     "geom:longitude":144.942459,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Lalor St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202405749,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466187784,
     "wof:name":"Rowlands Alison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [144.942459,-37.837215,144.942459,-37.837215],
-  "geometry": {"coordinates":[144.942459,-37.837215],"type":"Point"}
+  "bbox": [
+    144.942459,
+    -37.837215,
+    144.942459,
+    -37.837215
+],
+  "geometry": {"coordinates":[144.94245900000001,-37.837215],"type":"Point"}
 }

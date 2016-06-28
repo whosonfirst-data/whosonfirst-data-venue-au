@@ -2,13 +2,14 @@
   "id": 236601375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.137482,-33.96434,151.137482,-33.96434",
     "geom:latitude":-33.96434,
     "geom:longitude":151.137482,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr President Ave & Traynor Ave",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236601375,
-    "wof:lastmodified":1449003063,
+    "wof:lastmodified":1466191632,
     "wof:name":"Caltex Ampol Service Station",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.137482,-33.96434,151.137482,-33.96434],
-  "geometry": {"coordinates":[151.137482,-33.96434],"type":"Point"}
+  "bbox": [
+    151.137482,
+    -33.96434,
+    151.137482,
+    -33.96434
+],
+  "geometry": {"coordinates":[151.13748200000001,-33.96434],"type":"Point"}
 }

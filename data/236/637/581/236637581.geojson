@@ -2,13 +2,14 @@
   "id": 236637581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.985031,-33.929253,150.985031,-33.929253",
     "geom:latitude":-33.929253,
     "geom:longitude":150.985031,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Milperra Rd",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236637581,
-    "wof:lastmodified":1449001675,
+    "wof:lastmodified":1466191724,
     "wof:name":"GP Transport",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [150.985031,-33.929253,150.985031,-33.929253],
-  "geometry": {"coordinates":[150.985031,-33.929253],"type":"Point"}
+  "bbox": [
+    150.985031,
+    -33.929253,
+    150.985031,
+    -33.929253
+],
+  "geometry": {"coordinates":[150.98503099999999,-33.929253],"type":"Point"}
 }

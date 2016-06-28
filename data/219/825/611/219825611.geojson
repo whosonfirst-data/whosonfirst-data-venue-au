@@ -2,13 +2,14 @@
   "id": 219825611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.608398,-36.151108,146.608398,-36.151108",
     "geom:latitude":-36.151108,
     "geom:longitude":146.608398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Conness St",
     "sg:city":"Chiltern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219825611,
-    "wof:lastmodified":1449070508,
+    "wof:lastmodified":1466191446,
     "wof:name":"Chiltern Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [146.608398,-36.151108,146.608398,-36.151108],
-  "geometry": {"coordinates":[146.608398,-36.151108],"type":"Point"}
+  "bbox": [
+    146.608398,
+    -36.151108,
+    146.608398,
+    -36.151108
+],
+  "geometry": {"coordinates":[146.60839799999999,-36.151108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202903619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.192413,-30.111925,153.192413,-30.111925",
     "geom:latitude":-30.111925,
     "geom:longitude":153.192413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Turon Pde",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202903619,
-    "wof:lastmodified":1449060261,
+    "wof:lastmodified":1466190672,
     "wof:name":"Singh Sohan & Jaswinder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grower"
     ]
 },
-  "bbox": [153.192413,-30.111925,153.192413,-30.111925],
-  "geometry": {"coordinates":[153.192413,-30.111925],"type":"Point"}
+  "bbox": [
+    153.192413,
+    -30.111925,
+    153.192413,
+    -30.111925
+],
+  "geometry": {"coordinates":[153.19241299999999,-30.111925],"type":"Point"}
 }

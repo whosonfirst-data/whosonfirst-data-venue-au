@@ -2,13 +2,14 @@
   "id": 219253467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.99939,-37.768181,144.99939,-37.768181",
     "geom:latitude":-37.768181,
     "geom:longitude":144.99939,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"396 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219253467,
-    "wof:lastmodified":1449073483,
+    "wof:lastmodified":1466187128,
     "wof:name":"Red Star Plumbing & Hardware Supplies",
     "wof:parent_id":85771397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.99939,-37.768181,144.99939,-37.768181],
-  "geometry": {"coordinates":[144.99939,-37.768181],"type":"Point"}
+  "bbox": [
+    144.99939,
+    -37.768181,
+    144.99939,
+    -37.768181
+],
+  "geometry": {"coordinates":[144.99939000000001,-37.768181],"type":"Point"}
 }

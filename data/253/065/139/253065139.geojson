@@ -2,13 +2,14 @@
   "id": 253065139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.772507,-37.770222,144.772507,-37.770222",
     "geom:latitude":-37.770222,
     "geom:longitude":144.772507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 825 Ballarat Rd",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253065139,
-    "wof:lastmodified":1449065774,
+    "wof:lastmodified":1466188134,
     "wof:name":"Deer Park Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [144.772507,-37.770222,144.772507,-37.770222],
-  "geometry": {"coordinates":[144.772507,-37.770222],"type":"Point"}
+  "bbox": [
+    144.772507,
+    -37.770222,
+    144.772507,
+    -37.770222
+],
+  "geometry": {"coordinates":[144.77250699999999,-37.770222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219546845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.00795,-33.895725,151.00795,-33.895725",
     "geom:latitude":-33.895725,
     "geom:longitude":151.00795,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Baird St",
     "sg:city":"Bass Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219546845,
-    "wof:lastmodified":1449070371,
+    "wof:lastmodified":1466190121,
     "wof:name":"Ledbrook J W Sawdust Supplies",
     "wof:parent_id":85774337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shaving"
     ]
 },
-  "bbox": [151.00795,-33.895725,151.00795,-33.895725],
-  "geometry": {"coordinates":[151.00795,-33.895725],"type":"Point"}
+  "bbox": [
+    151.00795,
+    -33.895725,
+    151.00795,
+    -33.895725
+],
+  "geometry": {"coordinates":[151.00794999999999,-33.895725],"type":"Point"}
 }

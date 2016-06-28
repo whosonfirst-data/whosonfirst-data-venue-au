@@ -2,13 +2,14 @@
   "id": 186510461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.751617,-19.27145,146.751617,-19.27145",
     "geom:latitude":-19.27145,
     "geom:longitude":146.751617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Camuglia St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186510461,
-    "wof:lastmodified":1449051975,
+    "wof:lastmodified":1466190496,
     "wof:name":"Aussie Aluminium Fencing",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.751617,-19.27145,146.751617,-19.27145],
-  "geometry": {"coordinates":[146.751617,-19.27145],"type":"Point"}
+  "bbox": [
+    146.751617,
+    -19.27145,
+    146.751617,
+    -19.27145
+],
+  "geometry": {"coordinates":[146.75161700000001,-19.27145],"type":"Point"}
 }

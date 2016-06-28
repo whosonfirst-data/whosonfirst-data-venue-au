@@ -2,13 +2,14 @@
   "id": 236113077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915146,-37.777485,144.915146,-37.777485",
     "geom:latitude":-37.777485,
     "geom:longitude":144.915146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor 71 Union Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236113077,
-    "wof:lastmodified":1449004921,
+    "wof:lastmodified":1466188899,
     "wof:name":"Physequip",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.915146,-37.777485,144.915146,-37.777485],
-  "geometry": {"coordinates":[144.915146,-37.777485],"type":"Point"}
+  "bbox": [
+    144.915146,
+    -37.777485,
+    144.915146,
+    -37.777485
+],
+  "geometry": {"coordinates":[144.91514599999999,-37.777485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220175977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.353104,-38.15239,144.353104,-38.15239",
     "geom:latitude":-38.15239,
     "geom:longitude":144.353104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, Number 2, Fenwick St South",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220175977,
-    "wof:lastmodified":1449074614,
+    "wof:lastmodified":1466189109,
     "wof:name":"Elite Event Solutions",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [144.353104,-38.15239,144.353104,-38.15239],
+  "bbox": [
+    144.353104,
+    -38.15239,
+    144.353104,
+    -38.15239
+],
   "geometry": {"coordinates":[144.353104,-38.15239],"type":"Point"}
 }

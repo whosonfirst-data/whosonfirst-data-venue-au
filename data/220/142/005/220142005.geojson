@@ -2,13 +2,14 @@
   "id": 220142005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354126,-38.149799,144.354126,-38.149799",
     "geom:latitude":-38.149799,
     "geom:longitude":144.354126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Fenwick St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220142005,
-    "wof:lastmodified":1449074678,
+    "wof:lastmodified":1466188427,
     "wof:name":"Tonkin John",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [144.354126,-38.149799,144.354126,-38.149799],
-  "geometry": {"coordinates":[144.354126,-38.149799],"type":"Point"}
+  "bbox": [
+    144.354126,
+    -38.149799,
+    144.354126,
+    -38.149799
+],
+  "geometry": {"coordinates":[144.35412600000001,-38.149799],"type":"Point"}
 }

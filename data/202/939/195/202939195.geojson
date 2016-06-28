@@ -2,13 +2,14 @@
   "id": 202939195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112671,-30.296825,153.112671,-30.296825",
     "geom:latitude":-30.296825,
     "geom:longitude":153.112671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Moonee St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202939195,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466190930,
     "wof:name":"Smart Tax",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [153.112671,-30.296825,153.112671,-30.296825],
-  "geometry": {"coordinates":[153.112671,-30.296825],"type":"Point"}
+  "bbox": [
+    153.112671,
+    -30.296825,
+    153.112671,
+    -30.296825
+],
+  "geometry": {"coordinates":[153.11267100000001,-30.296825],"type":"Point"}
 }

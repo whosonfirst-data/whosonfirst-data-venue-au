@@ -2,13 +2,14 @@
   "id": 202406923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.938904,-37.842514,144.938904,-37.842514",
     "geom:latitude":-37.842514,
     "geom:longitude":144.938904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202406923,
-    "wof:lastmodified":1449061475,
+    "wof:lastmodified":1466187817,
     "wof:name":"The Local Port Melbourne",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [144.938904,-37.842514,144.938904,-37.842514],
-  "geometry": {"coordinates":[144.938904,-37.842514],"type":"Point"}
+  "bbox": [
+    144.938904,
+    -37.842514,
+    144.938904,
+    -37.842514
+],
+  "geometry": {"coordinates":[144.93890400000001,-37.842514],"type":"Point"}
 }

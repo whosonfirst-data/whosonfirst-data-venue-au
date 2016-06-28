@@ -2,13 +2,14 @@
   "id": 185847943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.837494,-25.290672,152.837494,-25.290672",
     "geom:latitude":-25.290672,
     "geom:longitude":152.837494,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Main St",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185847943,
-    "wof:lastmodified":1449007179,
+    "wof:lastmodified":1466187315,
     "wof:name":"Re/max",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.837494,-25.290672,152.837494,-25.290672],
-  "geometry": {"coordinates":[152.837494,-25.290672],"type":"Point"}
+  "bbox": [
+    152.837494,
+    -25.290672,
+    152.837494,
+    -25.290672
+],
+  "geometry": {"coordinates":[152.83749399999999,-25.290672],"type":"Point"}
 }

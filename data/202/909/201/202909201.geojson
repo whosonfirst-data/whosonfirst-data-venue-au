@@ -2,13 +2,14 @@
   "id": 202909201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.188126,-30.078148,153.188126,-30.078148",
     "geom:latitude":-30.078148,
     "geom:longitude":153.188126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 Pacific Hwy",
     "sg:city":"Mullaway",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202909201,
-    "wof:lastmodified":1449062022,
+    "wof:lastmodified":1466190689,
     "wof:name":"Autotorque Automotives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.188126,-30.078148,153.188126,-30.078148],
-  "geometry": {"coordinates":[153.188126,-30.078148],"type":"Point"}
+  "bbox": [
+    153.188126,
+    -30.078148,
+    153.188126,
+    -30.078148
+],
+  "geometry": {"coordinates":[153.18812600000001,-30.078148],"type":"Point"}
 }

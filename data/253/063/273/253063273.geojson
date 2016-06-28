@@ -2,13 +2,14 @@
   "id": 253063273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.772125,-37.77013,144.772125,-37.77013",
     "geom:latitude":-37.77013,
     "geom:longitude":144.772125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"827a Ballarat Rd",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253063273,
-    "wof:lastmodified":1449063074,
+    "wof:lastmodified":1466188108,
     "wof:name":"Deer Park Lotto & Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [144.772125,-37.77013,144.772125,-37.77013],
-  "geometry": {"coordinates":[144.772125,-37.77013],"type":"Point"}
+  "bbox": [
+    144.772125,
+    -37.77013,
+    144.772125,
+    -37.77013
+],
+  "geometry": {"coordinates":[144.77212499999999,-37.77013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219856975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.172363,-33.855495,151.172363,-33.855495",
     "geom:latitude":-33.855495,
     "geom:longitude":151.172363,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Glassop St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219856975,
-    "wof:lastmodified":1449071410,
+    "wof:lastmodified":1466191445,
     "wof:name":"Balmain Counselling",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [151.172363,-33.855495,151.172363,-33.855495],
-  "geometry": {"coordinates":[151.172363,-33.855495],"type":"Point"}
+  "bbox": [
+    151.172363,
+    -33.855495,
+    151.172363,
+    -33.855495
+],
+  "geometry": {"coordinates":[151.17236299999999,-33.855495],"type":"Point"}
 }

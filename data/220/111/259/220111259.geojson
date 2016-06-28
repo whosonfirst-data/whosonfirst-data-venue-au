@@ -2,13 +2,14 @@
   "id": 220111259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.542679,-38.258003,144.542679,-38.258003",
     "geom:latitude":-38.258003,
     "geom:longitude":144.542679,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Shell Rd",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220111259,
-    "wof:lastmodified":1449074896,
+    "wof:lastmodified":1466188067,
     "wof:name":"Back on Track Remedial Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [144.542679,-38.258003,144.542679,-38.258003],
-  "geometry": {"coordinates":[144.542679,-38.258003],"type":"Point"}
+  "bbox": [
+    144.542679,
+    -38.258003,
+    144.542679,
+    -38.258003
+],
+  "geometry": {"coordinates":[144.54267899999999,-38.258003],"type":"Point"}
 }

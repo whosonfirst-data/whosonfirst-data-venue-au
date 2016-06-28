@@ -2,13 +2,14 @@
   "id": 203355791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854385,-37.563,143.854385,-37.563",
     "geom:latitude":-37.563,
     "geom:longitude":143.854385,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Doveton St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203355791,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1466188776,
     "wof:name":"RACV Insurance",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marine"
     ]
 },
-  "bbox": [143.854385,-37.563,143.854385,-37.563],
-  "geometry": {"coordinates":[143.854385,-37.563],"type":"Point"}
+  "bbox": [
+    143.854385,
+    -37.563,
+    143.854385,
+    -37.563
+],
+  "geometry": {"coordinates":[143.85438500000001,-37.563],"type":"Point"}
 }

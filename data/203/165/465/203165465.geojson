@@ -2,13 +2,14 @@
   "id": 203165465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.976151,-36.557289,145.976151,-36.557289",
     "geom:latitude":-36.557289,
     "geom:longitude":145.976151,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Benson St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203165465,
-    "wof:lastmodified":1449026867,
+    "wof:lastmodified":1466189761,
     "wof:name":"Beauty On Benson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.976151,-36.557289,145.976151,-36.557289],
-  "geometry": {"coordinates":[145.976151,-36.557289],"type":"Point"}
+  "bbox": [
+    145.976151,
+    -36.557289,
+    145.976151,
+    -36.557289
+],
+  "geometry": {"coordinates":[145.97615099999999,-36.557289],"type":"Point"}
 }

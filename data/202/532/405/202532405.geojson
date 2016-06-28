@@ -2,13 +2,14 @@
   "id": 202532405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.192276,-38.108692,145.192276,-38.108692",
     "geom:latitude":-38.108692,
     "geom:longitude":145.192276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Petley Crt",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202532405,
-    "wof:lastmodified":1449060971,
+    "wof:lastmodified":1466189842,
     "wof:name":"Coopers Canvas & Vinyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tarpaulin"
     ]
 },
-  "bbox": [145.192276,-38.108692,145.192276,-38.108692],
-  "geometry": {"coordinates":[145.192276,-38.108692],"type":"Point"}
+  "bbox": [
+    145.192276,
+    -38.108692,
+    145.192276,
+    -38.108692
+],
+  "geometry": {"coordinates":[145.19227599999999,-38.108692],"type":"Point"}
 }

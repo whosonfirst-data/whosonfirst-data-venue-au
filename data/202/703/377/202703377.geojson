@@ -2,13 +2,14 @@
   "id": 202703377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054886,-27.354467,153.054886,-27.354467",
     "geom:latitude":-27.354467,
     "geom:longitude":153.054886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Moongalba St",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202703377,
-    "wof:lastmodified":1449060884,
+    "wof:lastmodified":1466188893,
     "wof:name":"Steve Cleary Landscaping",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [153.054886,-27.354467,153.054886,-27.354467],
-  "geometry": {"coordinates":[153.054886,-27.354467],"type":"Point"}
+  "bbox": [
+    153.054886,
+    -27.354467,
+    153.054886,
+    -27.354467
+],
+  "geometry": {"coordinates":[153.05488600000001,-27.354467],"type":"Point"}
 }

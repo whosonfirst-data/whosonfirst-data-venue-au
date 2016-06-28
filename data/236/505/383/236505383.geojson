@@ -2,13 +2,14 @@
   "id": 236505383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.139801,-21.21784,149.139801,-21.21784",
     "geom:latitude":-21.21784,
     "geom:longitude":149.139801,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"396 Holmes Rd",
     "sg:city":"Bakers Creek",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236505383,
-    "wof:lastmodified":1449004596,
+    "wof:lastmodified":1466191379,
     "wof:name":"ACA Fibreglass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fibreglass"
     ]
 },
-  "bbox": [149.139801,-21.21784,149.139801,-21.21784],
-  "geometry": {"coordinates":[149.139801,-21.21784],"type":"Point"}
+  "bbox": [
+    149.139801,
+    -21.21784,
+    149.139801,
+    -21.21784
+],
+  "geometry": {"coordinates":[149.13980100000001,-21.21784],"type":"Point"}
 }

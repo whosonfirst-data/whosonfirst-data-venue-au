@@ -2,13 +2,14 @@
   "id": 186493141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.758102,-19.294399,146.758102,-19.294399",
     "geom:latitude":-19.294399,
     "geom:longitude":146.758102,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Poinciana St",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186493141,
-    "wof:lastmodified":1449051236,
+    "wof:lastmodified":1466190334,
     "wof:name":"Abel John & Sue",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [146.758102,-19.294399,146.758102,-19.294399],
-  "geometry": {"coordinates":[146.758102,-19.294399],"type":"Point"}
+  "bbox": [
+    146.758102,
+    -19.294399,
+    146.758102,
+    -19.294399
+],
+  "geometry": {"coordinates":[146.75810200000001,-19.294399],"type":"Point"}
 }

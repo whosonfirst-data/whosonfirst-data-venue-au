@@ -2,13 +2,14 @@
   "id": 202424785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.963715,-37.848515,144.963715,-37.848515",
     "geom:latitude":-37.848515,
     "geom:longitude":144.963715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Canterbury Rd",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202424785,
-    "wof:lastmodified":1449062490,
+    "wof:lastmodified":1466188236,
     "wof:name":"Wedding Magazine",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "periodical"
     ]
 },
-  "bbox": [144.963715,-37.848515,144.963715,-37.848515],
-  "geometry": {"coordinates":[144.963715,-37.848515],"type":"Point"}
+  "bbox": [
+    144.963715,
+    -37.848515,
+    144.963715,
+    -37.848515
+],
+  "geometry": {"coordinates":[144.96371500000001,-37.848515],"type":"Point"}
 }

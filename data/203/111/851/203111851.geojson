@@ -2,13 +2,14 @@
   "id": 203111851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.705788,-32.539433,115.705788,-32.539433",
     "geom:latitude":-32.539433,
     "geom:longitude":115.705788,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Mclarty Rd",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203111851,
-    "wof:lastmodified":1449026904,
+    "wof:lastmodified":1466189220,
     "wof:name":"McLarty Road Deli",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [115.705788,-32.539433,115.705788,-32.539433],
+  "bbox": [
+    115.705788,
+    -32.539433,
+    115.705788,
+    -32.539433
+],
   "geometry": {"coordinates":[115.705788,-32.539433],"type":"Point"}
 }

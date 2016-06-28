@@ -2,13 +2,14 @@
   "id": 185603519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.815048,-32.046486,115.815048,-32.046486",
     "geom:latitude":-32.046486,
     "geom:longitude":115.815048,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Leech Hwy",
     "sg:city":"Myaree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185603519,
-    "wof:lastmodified":1449007988,
+    "wof:lastmodified":1466187029,
     "wof:name":"Summit Projects",
     "wof:parent_id":85775671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [115.815048,-32.046486,115.815048,-32.046486],
+  "bbox": [
+    115.815048,
+    -32.046486,
+    115.815048,
+    -32.046486
+],
   "geometry": {"coordinates":[115.815048,-32.046486],"type":"Point"}
 }

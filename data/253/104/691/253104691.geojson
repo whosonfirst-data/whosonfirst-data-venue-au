@@ -2,13 +2,14 @@
   "id": 253104691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.837723,-37.760536,144.837723,-37.760536",
     "geom:latitude":-37.760536,
     "geom:longitude":144.837723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Harvester Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253104691,
-    "wof:lastmodified":1449064044,
+    "wof:lastmodified":1466188830,
     "wof:name":"Grimac Transport & Storage",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.837723,-37.760536,144.837723,-37.760536],
-  "geometry": {"coordinates":[144.837723,-37.760536],"type":"Point"}
+  "bbox": [
+    144.837723,
+    -37.760536,
+    144.837723,
+    -37.760536
+],
+  "geometry": {"coordinates":[144.83772300000001,-37.760536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220186437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.652695,-38.116257,144.652695,-38.116257",
     "geom:latitude":-38.116257,
     "geom:longitude":144.652695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Fenwick St",
     "sg:city":"Portarlington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220186437,
-    "wof:lastmodified":1449074665,
+    "wof:lastmodified":1466189284,
     "wof:name":"Balla-Wein Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.652695,-38.116257,144.652695,-38.116257],
-  "geometry": {"coordinates":[144.652695,-38.116257],"type":"Point"}
+  "bbox": [
+    144.652695,
+    -38.116257,
+    144.652695,
+    -38.116257
+],
+  "geometry": {"coordinates":[144.65269499999999,-38.116257],"type":"Point"}
 }

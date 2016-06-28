@@ -2,13 +2,14 @@
   "id": 219487575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.058151,-33.902248,151.058151,-33.902248",
     "geom:latitude":-33.902248,
     "geom:longitude":151.058151,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Waterloo Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219487575,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466189269,
     "wof:name":"Supreme Mixed Business",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.058151,-33.902248,151.058151,-33.902248],
-  "geometry": {"coordinates":[151.058151,-33.902248],"type":"Point"}
+  "bbox": [
+    151.058151,
+    -33.902248,
+    151.058151,
+    -33.902248
+],
+  "geometry": {"coordinates":[151.05815100000001,-33.902248],"type":"Point"}
 }

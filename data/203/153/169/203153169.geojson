@@ -2,13 +2,14 @@
   "id": 203153169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.997116,-36.548813,145.997116,-36.548813",
     "geom:latitude":-36.548813,
     "geom:longitude":145.997116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Samaria Rd",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203153169,
-    "wof:lastmodified":1449026286,
+    "wof:lastmodified":1466189679,
     "wof:name":"Bill Robertson Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.997116,-36.548813,145.997116,-36.548813],
-  "geometry": {"coordinates":[145.997116,-36.548813],"type":"Point"}
+  "bbox": [
+    145.997116,
+    -36.548813,
+    145.997116,
+    -36.548813
+],
+  "geometry": {"coordinates":[145.99711600000001,-36.548813],"type":"Point"}
 }

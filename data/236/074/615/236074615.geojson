@@ -2,13 +2,14 @@
   "id": 236074615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.766495,-37.723942,144.766495,-37.723942",
     "geom:latitude":-37.723942,
     "geom:longitude":144.766495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Stone Rd",
     "sg:city":"Delahey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236074615,
-    "wof:lastmodified":1449003432,
+    "wof:lastmodified":1466188116,
     "wof:name":"S.G.M Electrical",
     "wof:parent_id":85780511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.766495,-37.723942,144.766495,-37.723942],
-  "geometry": {"coordinates":[144.766495,-37.723942],"type":"Point"}
+  "bbox": [
+    144.766495,
+    -37.723942,
+    144.766495,
+    -37.723942
+],
+  "geometry": {"coordinates":[144.76649499999999,-37.723942],"type":"Point"}
 }

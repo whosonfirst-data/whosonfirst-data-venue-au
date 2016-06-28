@@ -2,13 +2,14 @@
   "id": 186399501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.803116,-19.26841,146.803116,-19.26841",
     "geom:latitude":-19.26841,
     "geom:longitude":146.803116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Ingham Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186399501,
-    "wof:lastmodified":1449050891,
+    "wof:lastmodified":1466189297,
     "wof:name":"North Queensland Internet Services",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [146.803116,-19.26841,146.803116,-19.26841],
-  "geometry": {"coordinates":[146.803116,-19.26841],"type":"Point"}
+  "bbox": [
+    146.803116,
+    -19.26841,
+    146.803116,
+    -19.26841
+],
+  "geometry": {"coordinates":[146.80311599999999,-19.26841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202891937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.895096,-30.451654,152.895096,-30.451654",
     "geom:latitude":-30.451654,
     "geom:longitude":152.895096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1 Old Bellingen Council Chambers Oak St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202891937,
-    "wof:lastmodified":1449061653,
+    "wof:lastmodified":1466190627,
     "wof:name":"Home Care Service Of NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [152.895096,-30.451654,152.895096,-30.451654],
+  "bbox": [
+    152.895096,
+    -30.451654,
+    152.895096,
+    -30.451654
+],
   "geometry": {"coordinates":[152.895096,-30.451654],"type":"Point"}
 }

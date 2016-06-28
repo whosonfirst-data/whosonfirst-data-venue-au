@@ -2,13 +2,14 @@
   "id": 253040551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.806305,-37.817219,144.806305,-37.817219",
     "geom:latitude":-37.817219,
     "geom:longitude":144.806305,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Raymond Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253040551,
-    "wof:lastmodified":1449065712,
+    "wof:lastmodified":1466187731,
     "wof:name":"Avweld Australasia Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hard"
     ]
 },
-  "bbox": [144.806305,-37.817219,144.806305,-37.817219],
-  "geometry": {"coordinates":[144.806305,-37.817219],"type":"Point"}
+  "bbox": [
+    144.806305,
+    -37.817219,
+    144.806305,
+    -37.817219
+],
+  "geometry": {"coordinates":[144.80630500000001,-37.817219],"type":"Point"}
 }

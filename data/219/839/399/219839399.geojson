@@ -2,13 +2,14 @@
   "id": 219839399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.814697,-31.984783,115.814697,-31.984783",
     "geom:latitude":-31.984783,
     "geom:longitude":115.814697,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Broadway Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219839399,
-    "wof:lastmodified":1449072507,
+    "wof:lastmodified":1466191500,
     "wof:name":"Broadway Laundrobar",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.814697,-31.984783,115.814697,-31.984783],
+  "bbox": [
+    115.814697,
+    -31.984783,
+    115.814697,
+    -31.984783
+],
   "geometry": {"coordinates":[115.814697,-31.984783],"type":"Point"}
 }

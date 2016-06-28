@@ -2,13 +2,14 @@
   "id": 186079861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.837509,-31.092049,152.837509,-31.092049",
     "geom:latitude":-31.092049,
     "geom:longitude":152.837509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Lachlan St",
     "sg:city":"Kempsey MSC",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186079861,
-    "wof:lastmodified":1449052558,
+    "wof:lastmodified":1466188906,
     "wof:name":"Kempsey SSangyong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "new"
     ]
 },
-  "bbox": [152.837509,-31.092049,152.837509,-31.092049],
-  "geometry": {"coordinates":[152.837509,-31.092049],"type":"Point"}
+  "bbox": [
+    152.837509,
+    -31.092049,
+    152.837509,
+    -31.092049
+],
+  "geometry": {"coordinates":[152.83750900000001,-31.092049],"type":"Point"}
 }

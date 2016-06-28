@@ -2,13 +2,14 @@
   "id": 186015225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.500397,-33.351368,151.500397,-33.351368",
     "geom:latitude":-33.351368,
     "geom:longitude":151.500397,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 20 Bay Vlge",
     "sg:city":"Bateau Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186015225,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466187298,
     "wof:name":"Eyeworx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.500397,-33.351368,151.500397,-33.351368],
-  "geometry": {"coordinates":[151.500397,-33.351368],"type":"Point"}
+  "bbox": [
+    151.500397,
+    -33.351368,
+    151.500397,
+    -33.351368
+],
+  "geometry": {"coordinates":[151.50039699999999,-33.351368],"type":"Point"}
 }

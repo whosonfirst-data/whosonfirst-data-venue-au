@@ -2,13 +2,14 @@
   "id": 202710261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055084,-27.377338,153.055084,-27.377338",
     "geom:latitude":-27.377338,
     "geom:longitude":153.055084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Bilsen Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202710261,
-    "wof:lastmodified":1449060263,
+    "wof:lastmodified":1466189029,
     "wof:name":"De Neefe Signs",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [153.055084,-27.377338,153.055084,-27.377338],
-  "geometry": {"coordinates":[153.055084,-27.377338],"type":"Point"}
+  "bbox": [
+    153.055084,
+    -27.377338,
+    153.055084,
+    -27.377338
+],
+  "geometry": {"coordinates":[153.05508399999999,-27.377338],"type":"Point"}
 }

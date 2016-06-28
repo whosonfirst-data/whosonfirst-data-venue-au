@@ -2,13 +2,14 @@
   "id": 236432417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.160858,-21.164089,149.160858,-21.164089",
     "geom:latitude":-21.164089,
     "geom:longitude":149.160858,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Steinbeck Crt",
     "sg:city":"West Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236432417,
-    "wof:lastmodified":1449001633,
+    "wof:lastmodified":1466191091,
     "wof:name":"Watson E H & Sons",
     "wof:parent_id":85780189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cement"
     ]
 },
-  "bbox": [149.160858,-21.164089,149.160858,-21.164089],
-  "geometry": {"coordinates":[149.160858,-21.164089],"type":"Point"}
+  "bbox": [
+    149.160858,
+    -21.164089,
+    149.160858,
+    -21.164089
+],
+  "geometry": {"coordinates":[149.16085799999999,-21.164089],"type":"Point"}
 }

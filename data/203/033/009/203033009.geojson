@@ -2,13 +2,14 @@
   "id": 203033009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.158203,-37.680813,145.158203,-37.680813",
     "geom:latitude":-37.680813,
     "geom:longitude":145.158203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Mitchell Crt",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203033009,
-    "wof:lastmodified":1449025329,
+    "wof:lastmodified":1466187861,
     "wof:name":"Mitchell Secretarial Services",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [145.158203,-37.680813,145.158203,-37.680813],
-  "geometry": {"coordinates":[145.158203,-37.680813],"type":"Point"}
+  "bbox": [
+    145.158203,
+    -37.680813,
+    145.158203,
+    -37.680813
+],
+  "geometry": {"coordinates":[145.15820299999999,-37.680813],"type":"Point"}
 }

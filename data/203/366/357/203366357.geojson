@@ -2,13 +2,14 @@
   "id": 203366357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.866623,-37.548328,143.866623,-37.548328",
     "geom:latitude":-37.548328,
     "geom:longitude":143.866623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"616 North Peel St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203366357,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466188960,
     "wof:name":"Groobi Design",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "exhibition"
     ]
 },
-  "bbox": [143.866623,-37.548328,143.866623,-37.548328],
+  "bbox": [
+    143.866623,
+    -37.548328,
+    143.866623,
+    -37.548328
+],
   "geometry": {"coordinates":[143.866623,-37.548328],"type":"Point"}
 }

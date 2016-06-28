@@ -2,13 +2,14 @@
   "id": 203403741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.885635,-37.534706,143.885635,-37.534706",
     "geom:latitude":-37.534706,
     "geom:longitude":143.885635,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Alkera Rd",
     "sg:city":"Invermay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203403741,
-    "wof:lastmodified":1449026593,
+    "wof:lastmodified":1466189511,
     "wof:name":"Corbett R C & C A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.885635,-37.534706,143.885635,-37.534706],
-  "geometry": {"coordinates":[143.885635,-37.534706],"type":"Point"}
+  "bbox": [
+    143.885635,
+    -37.534706,
+    143.885635,
+    -37.534706
+],
+  "geometry": {"coordinates":[143.88563500000001,-37.534706],"type":"Point"}
 }

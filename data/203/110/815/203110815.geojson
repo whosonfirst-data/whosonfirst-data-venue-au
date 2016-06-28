@@ -2,13 +2,14 @@
   "id": 203110815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.746407,-32.511074,115.746407,-32.511074",
     "geom:latitude":-32.511074,
     "geom:longitude":115.746407,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Aprt 3/ 43 Gordon Rd",
     "sg:city":"Greenfields",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203110815,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1466189186,
     "wof:name":"Liquid Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repairer"
     ]
 },
-  "bbox": [115.746407,-32.511074,115.746407,-32.511074],
+  "bbox": [
+    115.746407,
+    -32.511074,
+    115.746407,
+    -32.511074
+],
   "geometry": {"coordinates":[115.746407,-32.511074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220170219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.326904,-38.157944,144.326904,-38.157944",
     "geom:latitude":-38.157944,
     "geom:longitude":144.326904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Holyrood Ave",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220170219,
-    "wof:lastmodified":1449074101,
+    "wof:lastmodified":1466189000,
     "wof:name":"Walden's Appliance Service",
     "wof:parent_id":85777709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "washing"
     ]
 },
-  "bbox": [144.326904,-38.157944,144.326904,-38.157944],
-  "geometry": {"coordinates":[144.326904,-38.157944],"type":"Point"}
+  "bbox": [
+    144.326904,
+    -38.157944,
+    144.326904,
+    -38.157944
+],
+  "geometry": {"coordinates":[144.32690400000001,-38.157944],"type":"Point"}
 }

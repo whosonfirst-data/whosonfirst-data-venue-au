@@ -2,13 +2,14 @@
   "id": 236642699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.870956,-32.627525,115.870956,-32.627525",
     "geom:latitude":-32.627525,
     "geom:longitude":115.870956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 3 Pinjarra Rd",
     "sg:city":"Pinjarra",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236642699,
-    "wof:lastmodified":1449001820,
+    "wof:lastmodified":1466191738,
     "wof:name":"Liquor Barons Pinjarra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [115.870956,-32.627525,115.870956,-32.627525],
-  "geometry": {"coordinates":[115.870956,-32.627525],"type":"Point"}
+  "bbox": [
+    115.870956,
+    -32.627525,
+    115.870956,
+    -32.627525
+],
+  "geometry": {"coordinates":[115.87095600000001,-32.627525],"type":"Point"}
 }

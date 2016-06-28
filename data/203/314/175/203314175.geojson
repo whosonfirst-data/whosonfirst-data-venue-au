@@ -2,13 +2,14 @@
   "id": 203314175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.886276,-37.650761,143.886276,-37.650761",
     "geom:latitude":-37.650761,
     "geom:longitude":143.886276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 267",
     "sg:city":"Buninyong",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203314175,
-    "wof:lastmodified":1449026793,
+    "wof:lastmodified":1466188174,
     "wof:name":"Coopelec Pty Ltd",
     "wof:parent_id":85768961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.886276,-37.650761,143.886276,-37.650761],
-  "geometry": {"coordinates":[143.886276,-37.650761],"type":"Point"}
+  "bbox": [
+    143.886276,
+    -37.650761,
+    143.886276,
+    -37.650761
+],
+  "geometry": {"coordinates":[143.88627600000001,-37.650761],"type":"Point"}
 }

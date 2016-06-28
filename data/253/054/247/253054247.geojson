@@ -2,13 +2,14 @@
   "id": 253054247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.837997,-37.820152,144.837997,-37.820152",
     "geom:latitude":-37.820152,
     "geom:longitude":144.837997,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 13/ 640- 680 Geelong Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253054247,
-    "wof:lastmodified":1449064220,
+    "wof:lastmodified":1466187980,
     "wof:name":"Traco DC Power Supplies",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "switch"
     ]
 },
-  "bbox": [144.837997,-37.820152,144.837997,-37.820152],
+  "bbox": [
+    144.837997,
+    -37.820152,
+    144.837997,
+    -37.820152
+],
   "geometry": {"coordinates":[144.837997,-37.820152],"type":"Point"}
 }

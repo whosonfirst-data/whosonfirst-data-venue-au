@@ -2,13 +2,14 @@
   "id": 202481673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.050537,-37.920151,145.050537,-37.920151",
     "geom:latitude":-37.920151,
     "geom:longitude":145.050537,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202481673,
-    "wof:lastmodified":1449062334,
+    "wof:lastmodified":1466189250,
     "wof:name":"Stratigakos, Georgina",
     "wof:parent_id":85775331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [145.050537,-37.920151,145.050537,-37.920151],
-  "geometry": {"coordinates":[145.050537,-37.920151],"type":"Point"}
+  "bbox": [
+    145.050537,
+    -37.920151,
+    145.050537,
+    -37.920151
+],
+  "geometry": {"coordinates":[145.05053699999999,-37.920151],"type":"Point"}
 }

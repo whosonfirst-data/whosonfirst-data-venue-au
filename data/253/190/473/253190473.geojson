@@ -2,13 +2,14 @@
   "id": 253190473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.949203,-27.563076,151.949203,-27.563076",
     "geom:latitude":-27.563076,
     "geom:longitude":151.949203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Dent St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253190473,
-    "wof:lastmodified":1449065599,
+    "wof:lastmodified":1466190184,
     "wof:name":"Screenmend",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windscreen"
     ]
 },
-  "bbox": [151.949203,-27.563076,151.949203,-27.563076],
-  "geometry": {"coordinates":[151.949203,-27.563076],"type":"Point"}
+  "bbox": [
+    151.949203,
+    -27.563076,
+    151.949203,
+    -27.563076
+],
+  "geometry": {"coordinates":[151.94920300000001,-27.563076],"type":"Point"}
 }

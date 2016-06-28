@@ -2,13 +2,14 @@
   "id": 236244043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.817886,-38.179939,145.817886,-38.179939",
     "geom:latitude":-38.179939,
     "geom:longitude":145.817886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Thompson Rd",
     "sg:city":"Drouin South",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236244043,
-    "wof:lastmodified":1449002875,
+    "wof:lastmodified":1466190043,
     "wof:name":"Carrington Park Angus Stud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [145.817886,-38.179939,145.817886,-38.179939],
-  "geometry": {"coordinates":[145.817886,-38.179939],"type":"Point"}
+  "bbox": [
+    145.817886,
+    -38.179939,
+    145.817886,
+    -38.179939
+],
+  "geometry": {"coordinates":[145.81788599999999,-38.179939],"type":"Point"}
 }

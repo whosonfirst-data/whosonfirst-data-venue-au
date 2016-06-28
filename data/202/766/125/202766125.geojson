@@ -2,13 +2,14 @@
   "id": 202766125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.772186,-32.931137,151.772186,-32.931137",
     "geom:latitude":-32.931137,
     "geom:longitude":151.772186,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 9 115 Darby St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202766125,
-    "wof:lastmodified":1449060077,
+    "wof:lastmodified":1466189957,
     "wof:name":"Olex",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cable"
     ]
 },
-  "bbox": [151.772186,-32.931137,151.772186,-32.931137],
+  "bbox": [
+    151.772186,
+    -32.931137,
+    151.772186,
+    -32.931137
+],
   "geometry": {"coordinates":[151.772186,-32.931137],"type":"Point"}
 }

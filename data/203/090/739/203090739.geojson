@@ -2,13 +2,14 @@
   "id": 203090739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.082947,-32.708858,116.082947,-32.708858",
     "geom:latitude":-32.708858,
     "geom:longitude":116.082947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Holyoake Rd",
     "sg:city":"Dwellingup",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203090739,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466188912,
     "wof:name":"WSL Earthmoving Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [116.082947,-32.708858,116.082947,-32.708858],
+  "bbox": [
+    116.082947,
+    -32.708858,
+    116.082947,
+    -32.708858
+],
   "geometry": {"coordinates":[116.082947,-32.708858],"type":"Point"}
 }

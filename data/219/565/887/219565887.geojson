@@ -2,13 +2,14 @@
   "id": 219565887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.035843,-33.934715,151.035843,-33.934715",
     "geom:latitude":-33.934715,
     "geom:longitude":151.035843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 38 Canterbury Rd",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219565887,
-    "wof:lastmodified":1449073606,
+    "wof:lastmodified":1466190417,
     "wof:name":"Solartint",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [151.035843,-33.934715,151.035843,-33.934715],
+  "bbox": [
+    151.035843,
+    -33.934715,
+    151.035843,
+    -33.934715
+],
   "geometry": {"coordinates":[151.035843,-33.934715],"type":"Point"}
 }

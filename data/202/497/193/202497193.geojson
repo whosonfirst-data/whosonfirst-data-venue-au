@@ -2,13 +2,14 @@
   "id": 202497193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.044205,-37.931435,145.044205,-37.931435",
     "geom:latitude":-37.931435,
     "geom:longitude":145.044205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Luckins Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202497193,
-    "wof:lastmodified":1449062596,
+    "wof:lastmodified":1466189493,
     "wof:name":"Tech Access Pty Ltd",
     "wof:parent_id":85769755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [145.044205,-37.931435,145.044205,-37.931435],
-  "geometry": {"coordinates":[145.044205,-37.931435],"type":"Point"}
+  "bbox": [
+    145.044205,
+    -37.931435,
+    145.044205,
+    -37.931435
+],
+  "geometry": {"coordinates":[145.04420500000001,-37.931435],"type":"Point"}
 }

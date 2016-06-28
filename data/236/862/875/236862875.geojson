@@ -2,13 +2,14 @@
   "id": 236862875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.791672,-34.010517,147.791672,-34.010517",
     "geom:latitude":-34.010517,
     "geom:longitude":147.791672,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Third St",
     "sg:city":"Quandialla",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236862875,
-    "wof:lastmodified":1449005348,
+    "wof:lastmodified":1466192059,
     "wof:name":"Quandialla Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "nsw"
     ]
 },
-  "bbox": [147.791672,-34.010517,147.791672,-34.010517],
-  "geometry": {"coordinates":[147.791672,-34.010517],"type":"Point"}
+  "bbox": [
+    147.791672,
+    -34.010517,
+    147.791672,
+    -34.010517
+],
+  "geometry": {"coordinates":[147.79167200000001,-34.010517],"type":"Point"}
 }

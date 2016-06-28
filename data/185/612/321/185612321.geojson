@@ -2,13 +2,14 @@
   "id": 185612321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.911682,-32.074039,115.911682,-32.074039",
     "geom:latitude":-32.074039,
     "geom:longitude":115.911682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Canning Vale Professional Centre 98",
     "sg:city":"Waratah Boulevard Canning Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185612321,
-    "wof:lastmodified":1449007320,
+    "wof:lastmodified":1466187303,
     "wof:name":"Physiotherapy West",
     "wof:parent_id":85780705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.911682,-32.074039,115.911682,-32.074039],
+  "bbox": [
+    115.911682,
+    -32.074039,
+    115.911682,
+    -32.074039
+],
   "geometry": {"coordinates":[115.911682,-32.074039],"type":"Point"}
 }

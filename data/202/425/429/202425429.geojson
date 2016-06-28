@@ -2,13 +2,14 @@
   "id": 202425429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.955124,-37.842308,144.955124,-37.842308",
     "geom:latitude":-37.842308,
     "geom:longitude":144.955124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Faussett St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202425429,
-    "wof:lastmodified":1449060998,
+    "wof:lastmodified":1466188247,
     "wof:name":"Business Techniques Australia (BITA)",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [144.955124,-37.842308,144.955124,-37.842308],
-  "geometry": {"coordinates":[144.955124,-37.842308],"type":"Point"}
+  "bbox": [
+    144.955124,
+    -37.842308,
+    144.955124,
+    -37.842308
+],
+  "geometry": {"coordinates":[144.95512400000001,-37.842308],"type":"Point"}
 }

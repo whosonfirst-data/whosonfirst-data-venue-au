@@ -2,13 +2,14 @@
   "id": 219229787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942108,-37.663025,144.942108,-37.663025",
     "geom:latitude":-37.663025,
     "geom:longitude":144.942108,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36- 40a Maffra St",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219229787,
-    "wof:lastmodified":1449073218,
+    "wof:lastmodified":1466189907,
     "wof:name":"D.V.R. Engineering Pty Ltd",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.942108,-37.663025,144.942108,-37.663025],
-  "geometry": {"coordinates":[144.942108,-37.663025],"type":"Point"}
+  "bbox": [
+    144.942108,
+    -37.663025,
+    144.942108,
+    -37.663025
+],
+  "geometry": {"coordinates":[144.94210799999999,-37.663025],"type":"Point"}
 }

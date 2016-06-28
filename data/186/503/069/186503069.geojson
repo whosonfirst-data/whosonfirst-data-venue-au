@@ -2,13 +2,14 @@
   "id": 186503069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.767181,-19.269167,146.767181,-19.269167",
     "geom:latitude":-19.269167,
     "geom:longitude":146.767181,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Pilkington St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186503069,
-    "wof:lastmodified":1449053037,
+    "wof:lastmodified":1466190535,
     "wof:name":"C.N.W. Electrical Wholesalers",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [146.767181,-19.269167,146.767181,-19.269167],
-  "geometry": {"coordinates":[146.767181,-19.269167],"type":"Point"}
+  "bbox": [
+    146.767181,
+    -19.269167,
+    146.767181,
+    -19.269167
+],
+  "geometry": {"coordinates":[146.76718099999999,-19.269167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235978649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.761353,-37.164925,139.761353,-37.164925",
     "geom:latitude":-37.164925,
     "geom:longitude":139.761353,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 Victoria St",
     "sg:city":"Robe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235978649,
-    "wof:lastmodified":1449008443,
+    "wof:lastmodified":1466187489,
     "wof:name":"Robe Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.761353,-37.164925,139.761353,-37.164925],
-  "geometry": {"coordinates":[139.761353,-37.164925],"type":"Point"}
+  "bbox": [
+    139.761353,
+    -37.164925,
+    139.761353,
+    -37.164925
+],
+  "geometry": {"coordinates":[139.76135300000001,-37.164925],"type":"Point"}
 }

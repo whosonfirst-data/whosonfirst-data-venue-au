@@ -2,13 +2,14 @@
   "id": 203029799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.127029,-37.679276,145.127029,-37.679276",
     "geom:latitude":-37.679276,
     "geom:longitude":145.127029,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 James Crt",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203029799,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466187798,
     "wof:name":"Shamrock Consulting Pty Ltd",
     "wof:parent_id":85776581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [145.127029,-37.679276,145.127029,-37.679276],
-  "geometry": {"coordinates":[145.127029,-37.679276],"type":"Point"}
+  "bbox": [
+    145.127029,
+    -37.679276,
+    145.127029,
+    -37.679276
+],
+  "geometry": {"coordinates":[145.12702899999999,-37.679276],"type":"Point"}
 }

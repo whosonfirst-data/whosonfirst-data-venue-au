@@ -2,13 +2,14 @@
   "id": 202724521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.018784,-27.349264,153.018784,-27.349264",
     "geom:latitude":-27.349264,
     "geom:longitude":153.018784,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Willara St",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202724521,
-    "wof:lastmodified":1449062577,
+    "wof:lastmodified":1466189298,
     "wof:name":"Douglas Communications Systems",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "address"
     ]
 },
-  "bbox": [153.018784,-27.349264,153.018784,-27.349264],
-  "geometry": {"coordinates":[153.018784,-27.349264],"type":"Point"}
+  "bbox": [
+    153.018784,
+    -27.349264,
+    153.018784,
+    -27.349264
+],
+  "geometry": {"coordinates":[153.01878400000001,-27.349264],"type":"Point"}
 }

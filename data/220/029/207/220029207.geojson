@@ -2,13 +2,14 @@
   "id": 220029207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.619415,-35.007271,138.619415,-35.007271",
     "geom:latitude":-35.007271,
     "geom:longitude":138.619415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Acorn Ave",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220029207,
-    "wof:lastmodified":1449074381,
+    "wof:lastmodified":1466187299,
     "wof:name":"AC/DC",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [138.619415,-35.007271,138.619415,-35.007271],
+  "bbox": [
+    138.619415,
+    -35.007271,
+    138.619415,
+    -35.007271
+],
   "geometry": {"coordinates":[138.619415,-35.007271],"type":"Point"}
 }

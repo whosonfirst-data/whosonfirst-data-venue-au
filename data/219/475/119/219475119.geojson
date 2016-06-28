@@ -2,13 +2,14 @@
   "id": 219475119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.133743,-37.51244,145.133743,-37.51244",
     "geom:latitude":-37.51244,
     "geom:longitude":145.133743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Sherwin St",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219475119,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466189162,
     "wof:name":"Eastwood Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.133743,-37.51244,145.133743,-37.51244],
-  "geometry": {"coordinates":[145.133743,-37.51244],"type":"Point"}
+  "bbox": [
+    145.133743,
+    -37.51244,
+    145.133743,
+    -37.51244
+],
+  "geometry": {"coordinates":[145.13374300000001,-37.51244],"type":"Point"}
 }

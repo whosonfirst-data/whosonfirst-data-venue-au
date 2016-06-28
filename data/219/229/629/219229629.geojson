@@ -2,13 +2,14 @@
   "id": 219229629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.938202,-37.664406,144.938202,-37.664406",
     "geom:latitude":-37.664406,
     "geom:longitude":144.938202,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Kyabram St",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219229629,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466189904,
     "wof:name":"East Street Upholstery",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [144.938202,-37.664406,144.938202,-37.664406],
-  "geometry": {"coordinates":[144.938202,-37.664406],"type":"Point"}
+  "bbox": [
+    144.938202,
+    -37.664406,
+    144.938202,
+    -37.664406
+],
+  "geometry": {"coordinates":[144.93820199999999,-37.664406],"type":"Point"}
 }

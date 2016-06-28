@@ -2,13 +2,14 @@
   "id": 202952479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.113647,-30.297699,153.113647,-30.297699",
     "geom:latitude":-30.297699,
     "geom:longitude":153.113647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 Park Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202952479,
-    "wof:lastmodified":1449061925,
+    "wof:lastmodified":1466191013,
     "wof:name":"Cheeki Sportswear",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "women's"
     ]
 },
-  "bbox": [153.113647,-30.297699,153.113647,-30.297699],
-  "geometry": {"coordinates":[153.113647,-30.297699],"type":"Point"}
+  "bbox": [
+    153.113647,
+    -30.297699,
+    153.113647,
+    -30.297699
+],
+  "geometry": {"coordinates":[153.11364699999999,-30.297699],"type":"Point"}
 }

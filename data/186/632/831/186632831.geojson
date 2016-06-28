@@ -2,13 +2,14 @@
   "id": 186632831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.050461,-34.289539,146.050461,-34.289539",
     "geom:latitude":-34.289539,
     "geom:longitude":146.050461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Jondaryan St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186632831,
-    "wof:lastmodified":1449052092,
+    "wof:lastmodified":1466191186,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [146.050461,-34.289539,146.050461,-34.289539],
-  "geometry": {"coordinates":[146.050461,-34.289539],"type":"Point"}
+  "bbox": [
+    146.050461,
+    -34.289539,
+    146.050461,
+    -34.289539
+],
+  "geometry": {"coordinates":[146.05046100000001,-34.289539],"type":"Point"}
 }

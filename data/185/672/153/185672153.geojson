@@ -2,13 +2,14 @@
   "id": 185672153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.769653,-32.03093,115.769653,-32.03093",
     "geom:latitude":-32.03093,
     "geom:longitude":115.769653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Habgood St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185672153,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1466188641,
     "wof:name":"International Aero-Medical",
     "wof:parent_id":85768847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flying"
     ]
 },
-  "bbox": [115.769653,-32.03093,115.769653,-32.03093],
-  "geometry": {"coordinates":[115.769653,-32.03093],"type":"Point"}
+  "bbox": [
+    115.769653,
+    -32.03093,
+    115.769653,
+    -32.03093
+],
+  "geometry": {"coordinates":[115.76965300000001,-32.03093],"type":"Point"}
 }

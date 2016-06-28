@@ -2,13 +2,14 @@
   "id": 253207537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952301,-27.568197,151.952301,-27.568197",
     "geom:latitude":-27.568197,
     "geom:longitude":151.952301,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253207537,
-    "wof:lastmodified":1449064904,
+    "wof:lastmodified":1466190149,
     "wof:name":"Town & Country Industries",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.952301,-27.568197,151.952301,-27.568197],
-  "geometry": {"coordinates":[151.952301,-27.568197],"type":"Point"}
+  "bbox": [
+    151.952301,
+    -27.568197,
+    151.952301,
+    -27.568197
+],
+  "geometry": {"coordinates":[151.95230100000001,-27.568197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186372791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15361,-33.848885,151.15361,-33.848885",
     "geom:latitude":-33.848885,
     "geom:longitude":151.15361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 12, 9 Wrights Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186372791,
-    "wof:lastmodified":1449051991,
+    "wof:lastmodified":1466188870,
     "wof:name":"Export Solutions",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export"
     ]
 },
-  "bbox": [151.15361,-33.848885,151.15361,-33.848885],
-  "geometry": {"coordinates":[151.15361,-33.848885],"type":"Point"}
+  "bbox": [
+    151.15361,
+    -33.848885,
+    151.15361,
+    -33.848885
+],
+  "geometry": {"coordinates":[151.15360999999999,-33.848885],"type":"Point"}
 }

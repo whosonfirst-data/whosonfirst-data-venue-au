@@ -2,13 +2,14 @@
   "id": 203140193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.738579,-32.555637,115.738579,-32.555637",
     "geom:latitude":-32.555637,
     "geom:longitude":115.738579,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Hudson Drv",
     "sg:city":"Dudley Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203140193,
-    "wof:lastmodified":1449025205,
+    "wof:lastmodified":1466189609,
     "wof:name":"Mandurah Doctors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.738579,-32.555637,115.738579,-32.555637],
+  "bbox": [
+    115.738579,
+    -32.555637,
+    115.738579,
+    -32.555637
+],
   "geometry": {"coordinates":[115.738579,-32.555637],"type":"Point"}
 }

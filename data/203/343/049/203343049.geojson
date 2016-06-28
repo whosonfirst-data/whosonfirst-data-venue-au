@@ -2,13 +2,14 @@
   "id": 203343049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.880478,-37.566113,143.880478,-37.566113",
     "geom:latitude":-37.566113,
     "geom:longitude":143.880478,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Eureka St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203343049,
-    "wof:lastmodified":1449026312,
+    "wof:lastmodified":1466188553,
     "wof:name":"Wendy Watts",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [143.880478,-37.566113,143.880478,-37.566113],
-  "geometry": {"coordinates":[143.880478,-37.566113],"type":"Point"}
+  "bbox": [
+    143.880478,
+    -37.566113,
+    143.880478,
+    -37.566113
+],
+  "geometry": {"coordinates":[143.88047800000001,-37.566113],"type":"Point"}
 }

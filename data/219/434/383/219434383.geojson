@@ -2,13 +2,14 @@
   "id": 219434383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.759331,-32.363571,115.759331,-32.363571",
     "geom:latitude":-32.363571,
     "geom:longitude":115.759331,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 1 Fielden Way",
     "sg:city":"Port Kennedy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219434383,
-    "wof:lastmodified":1449071164,
+    "wof:lastmodified":1466188795,
     "wof:name":"Port Kennedy Physiotherapy Centre",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.759331,-32.363571,115.759331,-32.363571],
+  "bbox": [
+    115.759331,
+    -32.363571,
+    115.759331,
+    -32.363571
+],
   "geometry": {"coordinates":[115.759331,-32.363571],"type":"Point"}
 }

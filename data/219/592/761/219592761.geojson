@@ -2,13 +2,14 @@
   "id": 219592761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.12999,-33.903328,151.12999,-33.903328",
     "geom:latitude":-33.903328,
     "geom:longitude":151.12999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Old Canterbury Rd",
     "sg:city":"Dulwich Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219592761,
-    "wof:lastmodified":1449072402,
+    "wof:lastmodified":1466190534,
     "wof:name":"Stanton Ian P",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.12999,-33.903328,151.12999,-33.903328],
-  "geometry": {"coordinates":[151.12999,-33.903328],"type":"Point"}
+  "bbox": [
+    151.12999,
+    -33.903328,
+    151.12999,
+    -33.903328
+],
+  "geometry": {"coordinates":[151.12998999999999,-33.903328],"type":"Point"}
 }

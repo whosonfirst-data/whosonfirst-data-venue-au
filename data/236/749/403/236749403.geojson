@@ -2,13 +2,14 @@
   "id": 236749403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"120.16433,-33.87133,120.16433,-33.87133",
     "geom:latitude":-33.87133,
     "geom:longitude":120.16433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 36",
     "sg:city":"Hopetoun",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236749403,
-    "wof:lastmodified":1449002408,
+    "wof:lastmodified":1466191892,
     "wof:name":"Hopetoun Development & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [120.16433,-33.87133,120.16433,-33.87133],
-  "geometry": {"coordinates":[120.16433,-33.87133],"type":"Point"}
+  "bbox": [
+    120.16433,
+    -33.87133,
+    120.16433,
+    -33.87133
+],
+  "geometry": {"coordinates":[120.16433000000001,-33.87133],"type":"Point"}
 }

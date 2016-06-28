@@ -2,13 +2,14 @@
   "id": 236927195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.521957,-34.997269,138.521957,-34.997269",
     "geom:latitude":-34.997269,
     "geom:longitude":138.521957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Oaklands Rd",
     "sg:city":"Somerton Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236927195,
-    "wof:lastmodified":1449004831,
+    "wof:lastmodified":1466192130,
     "wof:name":"Precise Crash Repairs",
     "wof:parent_id":85779087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [138.521957,-34.997269,138.521957,-34.997269],
-  "geometry": {"coordinates":[138.521957,-34.997269],"type":"Point"}
+  "bbox": [
+    138.521957,
+    -34.997269,
+    138.521957,
+    -34.997269
+],
+  "geometry": {"coordinates":[138.52195699999999,-34.997269],"type":"Point"}
 }

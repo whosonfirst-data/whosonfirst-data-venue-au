@@ -2,13 +2,14 @@
   "id": 236219973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.479843,-38.076004,145.479843,-38.076004",
     "geom:latitude":-38.076004,
     "geom:longitude":145.479843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Princes Hwy",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236219973,
-    "wof:lastmodified":1449005086,
+    "wof:lastmodified":1466190129,
     "wof:name":"Cardinia Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.479843,-38.076004,145.479843,-38.076004],
-  "geometry": {"coordinates":[145.479843,-38.076004],"type":"Point"}
+  "bbox": [
+    145.479843,
+    -38.076004,
+    145.479843,
+    -38.076004
+],
+  "geometry": {"coordinates":[145.47984299999999,-38.076004],"type":"Point"}
 }

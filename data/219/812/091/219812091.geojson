@@ -2,13 +2,14 @@
   "id": 219812091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.872284,-36.152103,146.872284,-36.152103",
     "geom:latitude":-36.152103,
     "geom:longitude":146.872284,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hanna Crt",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219812091,
-    "wof:lastmodified":1449070463,
+    "wof:lastmodified":1466191409,
     "wof:name":"Geoff Moar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [146.872284,-36.152103,146.872284,-36.152103],
-  "geometry": {"coordinates":[146.872284,-36.152103],"type":"Point"}
+  "bbox": [
+    146.872284,
+    -36.152103,
+    146.872284,
+    -36.152103
+],
+  "geometry": {"coordinates":[146.87228400000001,-36.152103],"type":"Point"}
 }

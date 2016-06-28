@@ -2,13 +2,14 @@
   "id": 219893415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.895905,-34.374825,150.895905,-34.374825",
     "geom:latitude":-34.374825,
     "geom:longitude":150.895905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Tarrawanna Rd & Caroline St",
     "sg:city":"Corrimal",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219893415,
-    "wof:lastmodified":1449073259,
+    "wof:lastmodified":1466191771,
     "wof:name":"O'Briens Service Centre",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [150.895905,-34.374825,150.895905,-34.374825],
+  "bbox": [
+    150.895905,
+    -34.374825,
+    150.895905,
+    -34.374825
+],
   "geometry": {"coordinates":[150.895905,-34.374825],"type":"Point"}
 }

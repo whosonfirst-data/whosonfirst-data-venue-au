@@ -2,13 +2,14 @@
   "id": 219857493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.186737,-33.851528,151.186737,-33.851528",
     "geom:latitude":-33.851528,
     "geom:longitude":151.186737,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15b Wharf Rd",
     "sg:city":"Birchgrove",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219857493,
-    "wof:lastmodified":1449072672,
+    "wof:lastmodified":1466191453,
     "wof:name":"Planned Environment Pty Ltd",
     "wof:parent_id":85776711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.186737,-33.851528,151.186737,-33.851528],
-  "geometry": {"coordinates":[151.186737,-33.851528],"type":"Point"}
+  "bbox": [
+    151.186737,
+    -33.851528,
+    151.186737,
+    -33.851528
+],
+  "geometry": {"coordinates":[151.18673699999999,-33.851528],"type":"Point"}
 }

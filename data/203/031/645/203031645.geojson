@@ -2,13 +2,14 @@
   "id": 203031645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.15799,-37.674252,145.15799,-37.674252",
     "geom:latitude":-37.674252,
     "geom:longitude":145.15799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Hurstbridge Rd",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203031645,
-    "wof:lastmodified":1449025621,
+    "wof:lastmodified":1466187838,
     "wof:name":"Anderson R & J",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tuition"
     ]
 },
-  "bbox": [145.15799,-37.674252,145.15799,-37.674252],
-  "geometry": {"coordinates":[145.15799,-37.674252],"type":"Point"}
+  "bbox": [
+    145.15799,
+    -37.674252,
+    145.15799,
+    -37.674252
+],
+  "geometry": {"coordinates":[145.15799000000001,-37.674252],"type":"Point"}
 }

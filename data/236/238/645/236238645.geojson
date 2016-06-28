@@ -2,13 +2,14 @@
   "id": 236238645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.727905,-38.094521,145.727905,-38.094521",
     "geom:latitude":-38.094521,
     "geom:longitude":145.727905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"166 A'Beckett Rd",
     "sg:city":"Bunyip",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236238645,
-    "wof:lastmodified":1449002776,
+    "wof:lastmodified":1466190182,
     "wof:name":"Jamieson Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.727905,-38.094521,145.727905,-38.094521],
-  "geometry": {"coordinates":[145.727905,-38.094521],"type":"Point"}
+  "bbox": [
+    145.727905,
+    -38.094521,
+    145.727905,
+    -38.094521
+],
+  "geometry": {"coordinates":[145.72790499999999,-38.094521],"type":"Point"}
 }

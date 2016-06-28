@@ -2,13 +2,14 @@
   "id": 253323247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.312088,-38.007122,145.312088,-38.007122",
     "geom:latitude":-38.007122,
     "geom:longitude":145.312088,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Denise Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253323247,
-    "wof:lastmodified":1449063070,
+    "wof:lastmodified":1466191034,
     "wof:name":"Ausweep",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machine"
     ]
 },
-  "bbox": [145.312088,-38.007122,145.312088,-38.007122],
-  "geometry": {"coordinates":[145.312088,-38.007122],"type":"Point"}
+  "bbox": [
+    145.312088,
+    -38.007122,
+    145.312088,
+    -38.007122
+],
+  "geometry": {"coordinates":[145.31208799999999,-38.007122],"type":"Point"}
 }

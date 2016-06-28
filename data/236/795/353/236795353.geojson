@@ -2,13 +2,14 @@
   "id": 236795353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.945068,-34.251007,150.945068,-34.251007",
     "geom:latitude":-34.251007,
     "geom:longitude":150.945068,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Princes Hwy",
     "sg:city":"Helensburgh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236795353,
-    "wof:lastmodified":1449003630,
+    "wof:lastmodified":1466191847,
     "wof:name":"Helensburgh Motorist Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.945068,-34.251007,150.945068,-34.251007],
-  "geometry": {"coordinates":[150.945068,-34.251007],"type":"Point"}
+  "bbox": [
+    150.945068,
+    -34.251007,
+    150.945068,
+    -34.251007
+],
+  "geometry": {"coordinates":[150.94506799999999,-34.251007],"type":"Point"}
 }

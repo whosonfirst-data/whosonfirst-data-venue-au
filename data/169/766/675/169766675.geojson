@@ -2,13 +2,14 @@
   "id": 169766675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.086517,-27.226822,153.086517,-27.226822",
     "geom:latitude":-27.226822,
     "geom:longitude":153.086517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Anzac Ave",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169766675,
-    "wof:lastmodified":1449032639,
+    "wof:lastmodified":1466188164,
     "wof:name":"Northfield Car Sound",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [153.086517,-27.226822,153.086517,-27.226822],
-  "geometry": {"coordinates":[153.086517,-27.226822],"type":"Point"}
+  "bbox": [
+    153.086517,
+    -27.226822,
+    153.086517,
+    -27.226822
+],
+  "geometry": {"coordinates":[153.08651699999999,-27.226822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203372969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.850998,-37.567509,143.850998,-37.567509",
     "geom:latitude":-37.567509,
     "geom:longitude":143.850998,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Urquhart St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203372969,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466189077,
     "wof:name":"Paterson M",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.850998,-37.567509,143.850998,-37.567509],
+  "bbox": [
+    143.850998,
+    -37.567509,
+    143.850998,
+    -37.567509
+],
   "geometry": {"coordinates":[143.850998,-37.567509],"type":"Point"}
 }

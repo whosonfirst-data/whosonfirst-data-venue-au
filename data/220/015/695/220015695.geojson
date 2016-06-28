@@ -2,13 +2,14 @@
   "id": 220015695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.592392,-35.029507,138.592392,-35.029507",
     "geom:latitude":-35.029507,
     "geom:longitude":138.592392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gothic Rd",
     "sg:city":"Bellevue Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220015695,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466187054,
     "wof:name":"Neville Newton",
     "wof:parent_id":85774993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [138.592392,-35.029507,138.592392,-35.029507],
-  "geometry": {"coordinates":[138.592392,-35.029507],"type":"Point"}
+  "bbox": [
+    138.592392,
+    -35.029507,
+    138.592392,
+    -35.029507
+],
+  "geometry": {"coordinates":[138.59239199999999,-35.029507],"type":"Point"}
 }

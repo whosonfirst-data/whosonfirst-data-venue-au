@@ -2,13 +2,14 @@
   "id": 202491285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.039597,-37.903881,145.039597,-37.903881",
     "geom:latitude":-37.903881,
     "geom:longitude":145.039597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"946 North Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202491285,
-    "wof:lastmodified":1449060067,
+    "wof:lastmodified":1466189413,
     "wof:name":"MGN Car Repairs",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "vehicle"
     ]
 },
-  "bbox": [145.039597,-37.903881,145.039597,-37.903881],
-  "geometry": {"coordinates":[145.039597,-37.903881],"type":"Point"}
+  "bbox": [
+    145.039597,
+    -37.903881,
+    145.039597,
+    -37.903881
+],
+  "geometry": {"coordinates":[145.03959699999999,-37.903881],"type":"Point"}
 }

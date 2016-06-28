@@ -2,13 +2,14 @@
   "id": 169766699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.089813,-27.222233,153.089813,-27.222233",
     "geom:latitude":-27.222233,
     "geom:longitude":153.089813,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 McCosker St",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169766699,
-    "wof:lastmodified":1449032639,
+    "wof:lastmodified":1466188164,
     "wof:name":"Back-Chat",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beauty"
     ]
 },
-  "bbox": [153.089813,-27.222233,153.089813,-27.222233],
-  "geometry": {"coordinates":[153.089813,-27.222233],"type":"Point"}
+  "bbox": [
+    153.089813,
+    -27.222233,
+    153.089813,
+    -27.222233
+],
+  "geometry": {"coordinates":[153.08981299999999,-27.222233],"type":"Point"}
 }

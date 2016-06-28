@@ -2,13 +2,14 @@
   "id": 202760131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.283722,-23.553076,145.283722,-23.553076",
     "geom:latitude":-23.553076,
     "geom:longitude":145.283722,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Ash St",
     "sg:city":"Barcaldine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202760131,
-    "wof:lastmodified":1449062546,
+    "wof:lastmodified":1466189854,
     "wof:name":"Ash Street Medical Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.283722,-23.553076,145.283722,-23.553076],
-  "geometry": {"coordinates":[145.283722,-23.553076],"type":"Point"}
+  "bbox": [
+    145.283722,
+    -23.553076,
+    145.283722,
+    -23.553076
+],
+  "geometry": {"coordinates":[145.28372200000001,-23.553076],"type":"Point"}
 }

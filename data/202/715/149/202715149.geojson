@@ -2,13 +2,14 @@
   "id": 202715149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049103,-27.369453,153.049103,-27.369453",
     "geom:latitude":-27.369453,
     "geom:longitude":153.049103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Morrisby St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202715149,
-    "wof:lastmodified":1449062152,
+    "wof:lastmodified":1466189120,
     "wof:name":"Love 2 Fish",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [153.049103,-27.369453,153.049103,-27.369453],
+  "bbox": [
+    153.049103,
+    -27.369453,
+    153.049103,
+    -27.369453
+],
   "geometry": {"coordinates":[153.049103,-27.369453],"type":"Point"}
 }

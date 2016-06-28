@@ -2,13 +2,14 @@
   "id": 202724009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.011444,-27.358454,153.011444,-27.358454",
     "geom:latitude":-27.358454,
     "geom:longitude":153.011444,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Nemira St",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202724009,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466189285,
     "wof:name":"Carseldine Natural Health & Lifestyle Clinic",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [153.011444,-27.358454,153.011444,-27.358454],
-  "geometry": {"coordinates":[153.011444,-27.358454],"type":"Point"}
+  "bbox": [
+    153.011444,
+    -27.358454,
+    153.011444,
+    -27.358454
+],
+  "geometry": {"coordinates":[153.01144400000001,-27.358454],"type":"Point"}
 }

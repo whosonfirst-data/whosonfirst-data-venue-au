@@ -2,13 +2,14 @@
   "id": 219435205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.750038,-32.350628,115.750038,-32.350628",
     "geom:latitude":-32.350628,
     "geom:longitude":115.750038,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Durance Drv",
     "sg:city":"Port Kennedy",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219435205,
-    "wof:lastmodified":1449073594,
+    "wof:lastmodified":1466188807,
     "wof:name":"Cloud 9 Limousines",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "limousine"
     ]
 },
-  "bbox": [115.750038,-32.350628,115.750038,-32.350628],
+  "bbox": [
+    115.750038,
+    -32.350628,
+    115.750038,
+    -32.350628
+],
   "geometry": {"coordinates":[115.750038,-32.350628],"type":"Point"}
 }

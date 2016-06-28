@@ -2,13 +2,14 @@
   "id": 252810987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.574615,-38.329395,143.574615,-38.329395",
     "geom:latitude":-38.329395,
     "geom:longitude":143.574615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Colac Ballarat Rd",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252810987,
-    "wof:lastmodified":1449005738,
+    "wof:lastmodified":1466188229,
     "wof:name":"Greg Pownceby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.574615,-38.329395,143.574615,-38.329395],
-  "geometry": {"coordinates":[143.574615,-38.329395],"type":"Point"}
+  "bbox": [
+    143.574615,
+    -38.329395,
+    143.574615,
+    -38.329395
+],
+  "geometry": {"coordinates":[143.57461499999999,-38.329395],"type":"Point"}
 }

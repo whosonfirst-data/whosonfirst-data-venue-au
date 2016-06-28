@@ -2,13 +2,14 @@
   "id": 202524051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.159576,-38.096703,145.159576,-38.096703",
     "geom:latitude":-38.096703,
     "geom:longitude":145.159576,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Frankston Garden Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202524051,
-    "wof:lastmodified":1449060085,
+    "wof:lastmodified":1466189763,
     "wof:name":"Tankmasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.159576,-38.096703,145.159576,-38.096703],
-  "geometry": {"coordinates":[145.159576,-38.096703],"type":"Point"}
+  "bbox": [
+    145.159576,
+    -38.096703,
+    145.159576,
+    -38.096703
+],
+  "geometry": {"coordinates":[145.15957599999999,-38.096703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203029765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.150955,-37.672813,145.150955,-37.672813",
     "geom:latitude":-37.672813,
     "geom:longitude":145.150955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Chute St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203029765,
-    "wof:lastmodified":1449025723,
+    "wof:lastmodified":1466187796,
     "wof:name":"Jonar Hair & Beauty Salon",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [145.150955,-37.672813,145.150955,-37.672813],
-  "geometry": {"coordinates":[145.150955,-37.672813],"type":"Point"}
+  "bbox": [
+    145.150955,
+    -37.672813,
+    145.150955,
+    -37.672813
+],
+  "geometry": {"coordinates":[145.15095500000001,-37.672813],"type":"Point"}
 }

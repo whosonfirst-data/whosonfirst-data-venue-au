@@ -2,13 +2,14 @@
   "id": 202923263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112762,-30.295601,153.112762,-30.295601",
     "geom:latitude":-30.295601,
     "geom:longitude":153.112762,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"127 High St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202923263,
-    "wof:lastmodified":1449062559,
+    "wof:lastmodified":1466190703,
     "wof:name":"Caba's Drapery",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "quilt"
     ]
 },
-  "bbox": [153.112762,-30.295601,153.112762,-30.295601],
+  "bbox": [
+    153.112762,
+    -30.295601,
+    153.112762,
+    -30.295601
+],
   "geometry": {"coordinates":[153.112762,-30.295601],"type":"Point"}
 }

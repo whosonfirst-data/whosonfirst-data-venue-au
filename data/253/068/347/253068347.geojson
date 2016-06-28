@@ -2,13 +2,14 @@
   "id": 253068347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.775528,-37.757267,144.775528,-37.757267",
     "geom:latitude":-37.757267,
     "geom:longitude":144.775528,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Soames St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253068347,
-    "wof:lastmodified":1449064347,
+    "wof:lastmodified":1466188172,
     "wof:name":"A.AAABAAB Phone Installs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [144.775528,-37.757267,144.775528,-37.757267],
-  "geometry": {"coordinates":[144.775528,-37.757267],"type":"Point"}
+  "bbox": [
+    144.775528,
+    -37.757267,
+    144.775528,
+    -37.757267
+],
+  "geometry": {"coordinates":[144.77552800000001,-37.757267],"type":"Point"}
 }

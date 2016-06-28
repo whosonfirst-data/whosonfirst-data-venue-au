@@ -2,13 +2,14 @@
   "id": 203326251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.821487,-37.579056,143.821487,-37.579056",
     "geom:latitude":-37.579056,
     "geom:longitude":143.821487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 5 Kirkpatrick Drv",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203326251,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466188345,
     "wof:name":"Bruce Williams Motorsport",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [143.821487,-37.579056,143.821487,-37.579056],
-  "geometry": {"coordinates":[143.821487,-37.579056],"type":"Point"}
+  "bbox": [
+    143.821487,
+    -37.579056,
+    143.821487,
+    -37.579056
+],
+  "geometry": {"coordinates":[143.82148699999999,-37.579056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253114707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.836914,-37.768555,144.836914,-37.768555",
     "geom:latitude":-37.768555,
     "geom:longitude":144.836914,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Warwick Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253114707,
-    "wof:lastmodified":1449064059,
+    "wof:lastmodified":1466189032,
     "wof:name":"Sunshine North Coin Laundry Services",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.836914,-37.768555,144.836914,-37.768555],
-  "geometry": {"coordinates":[144.836914,-37.768555],"type":"Point"}
+  "bbox": [
+    144.836914,
+    -37.768555,
+    144.836914,
+    -37.768555
+],
+  "geometry": {"coordinates":[144.83691400000001,-37.768555],"type":"Point"}
 }

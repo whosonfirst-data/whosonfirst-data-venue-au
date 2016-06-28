@@ -2,13 +2,14 @@
   "id": 203011845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.492691,-20.727478,139.492691,-20.727478",
     "geom:latitude":-20.727478,
     "geom:longitude":139.492691,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Camooweal St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203011845,
-    "wof:lastmodified":1449026489,
+    "wof:lastmodified":1466187289,
     "wof:name":"Department of State Development, Trade and Innovation",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advisory"
     ]
 },
-  "bbox": [139.492691,-20.727478,139.492691,-20.727478],
-  "geometry": {"coordinates":[139.492691,-20.727478],"type":"Point"}
+  "bbox": [
+    139.492691,
+    -20.727478,
+    139.492691,
+    -20.727478
+],
+  "geometry": {"coordinates":[139.49269100000001,-20.727478],"type":"Point"}
 }

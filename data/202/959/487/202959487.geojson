@@ -2,13 +2,14 @@
   "id": 202959487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.096039,-30.358521,153.096039,-30.358521",
     "geom:latitude":-30.358521,
     "geom:longitude":153.096039,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Wallis Ave",
     "sg:city":"Sawtell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202959487,
-    "wof:lastmodified":1449062392,
+    "wof:lastmodified":1466190931,
     "wof:name":"Profile Powder Coaters",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "powder"
     ]
 },
-  "bbox": [153.096039,-30.358521,153.096039,-30.358521],
-  "geometry": {"coordinates":[153.096039,-30.358521],"type":"Point"}
+  "bbox": [
+    153.096039,
+    -30.358521,
+    153.096039,
+    -30.358521
+],
+  "geometry": {"coordinates":[153.09603899999999,-30.358521],"type":"Point"}
 }

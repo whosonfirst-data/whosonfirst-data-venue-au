@@ -2,13 +2,14 @@
   "id": 219739121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.800705,-19.271954,146.800705,-19.271954",
     "geom:latitude":-19.271954,
     "geom:longitude":146.800705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hyde Park Centre Woolcock St",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219739121,
-    "wof:lastmodified":1449071874,
+    "wof:lastmodified":1466191232,
     "wof:name":"Freedom Furniture Townsville",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [146.800705,-19.271954,146.800705,-19.271954],
-  "geometry": {"coordinates":[146.800705,-19.271954],"type":"Point"}
+  "bbox": [
+    146.800705,
+    -19.271954,
+    146.800705,
+    -19.271954
+],
+  "geometry": {"coordinates":[146.80070499999999,-19.271954],"type":"Point"}
 }

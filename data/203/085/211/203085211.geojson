@@ -2,13 +2,14 @@
   "id": 203085211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.930603,-32.854908,115.930603,-32.854908",
     "geom:latitude":-32.854908,
     "geom:longitude":115.930603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 McLarty St",
     "sg:city":"Waroona",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203085211,
-    "wof:lastmodified":1449025390,
+    "wof:lastmodified":1466188824,
     "wof:name":"McCall Bros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [115.930603,-32.854908,115.930603,-32.854908],
+  "bbox": [
+    115.930603,
+    -32.854908,
+    115.930603,
+    -32.854908
+],
   "geometry": {"coordinates":[115.930603,-32.854908],"type":"Point"}
 }

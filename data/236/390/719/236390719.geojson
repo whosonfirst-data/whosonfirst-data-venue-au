@@ -2,13 +2,14 @@
   "id": 236390719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.848618,-32.120956,115.848618,-32.120956",
     "geom:latitude":-32.120956,
     "geom:longitude":115.848618,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 850 North Lake Rd",
     "sg:city":"Cockburn Central",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236390719,
-    "wof:lastmodified":1449005290,
+    "wof:lastmodified":1466191086,
     "wof:name":"Sleeman Hadyn",
     "wof:parent_id":85775691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.848618,-32.120956,115.848618,-32.120956],
+  "bbox": [
+    115.848618,
+    -32.120956,
+    115.848618,
+    -32.120956
+],
   "geometry": {"coordinates":[115.848618,-32.120956],"type":"Point"}
 }

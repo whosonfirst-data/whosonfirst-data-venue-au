@@ -2,13 +2,14 @@
   "id": 236378899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.855392,-32.097431,115.855392,-32.097431",
     "geom:latitude":-32.097431,
     "geom:longitude":115.855392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Glen Iris Drv",
     "sg:city":"Jandakot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236378899,
-    "wof:lastmodified":1449003959,
+    "wof:lastmodified":1466190918,
     "wof:name":"Wasima Pty Ltd",
     "wof:parent_id":85775979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [115.855392,-32.097431,115.855392,-32.097431],
-  "geometry": {"coordinates":[115.855392,-32.097431],"type":"Point"}
+  "bbox": [
+    115.855392,
+    -32.097431,
+    115.855392,
+    -32.097431
+],
+  "geometry": {"coordinates":[115.85539199999999,-32.097431],"type":"Point"}
 }

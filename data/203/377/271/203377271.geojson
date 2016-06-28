@@ -2,13 +2,14 @@
   "id": 203377271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.859299,-37.552597,143.859299,-37.552597",
     "geom:latitude":-37.552597,
     "geom:longitude":143.859299,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Lydiard St",
     "sg:city":"Ballarat North",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203377271,
-    "wof:lastmodified":1449025630,
+    "wof:lastmodified":1466189150,
     "wof:name":"Lydiard North Dental Practice",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.859299,-37.552597,143.859299,-37.552597],
-  "geometry": {"coordinates":[143.859299,-37.552597],"type":"Point"}
+  "bbox": [
+    143.859299,
+    -37.552597,
+    143.859299,
+    -37.552597
+],
+  "geometry": {"coordinates":[143.85929899999999,-37.552597],"type":"Point"}
 }

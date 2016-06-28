@@ -2,13 +2,14 @@
   "id": 252919591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.931305,-36.313538,140.931305,-36.313538",
     "geom:latitude":-36.313538,
     "geom:longitude":140.931305,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunalbyn Drv",
     "sg:city":"Wolseley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252919591,
-    "wof:lastmodified":1449006241,
+    "wof:lastmodified":1466189163,
     "wof:name":"Dunalbyn Gladiolus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.931305,-36.313538,140.931305,-36.313538],
-  "geometry": {"coordinates":[140.931305,-36.313538],"type":"Point"}
+  "bbox": [
+    140.931305,
+    -36.313538,
+    140.931305,
+    -36.313538
+],
+  "geometry": {"coordinates":[140.93130500000001,-36.313538],"type":"Point"}
 }

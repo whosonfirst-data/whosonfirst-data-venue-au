@@ -2,13 +2,14 @@
   "id": 235974387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.858032,-36.828705,139.858032,-36.828705",
     "geom:latitude":-36.828705,
     "geom:longitude":139.858032,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Agnes St",
     "sg:city":"Kingston SE",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235974387,
-    "wof:lastmodified":1449008559,
+    "wof:lastmodified":1466187452,
     "wof:name":"Mac's Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [139.858032,-36.828705,139.858032,-36.828705],
-  "geometry": {"coordinates":[139.858032,-36.828705],"type":"Point"}
+  "bbox": [
+    139.858032,
+    -36.828705,
+    139.858032,
+    -36.828705
+],
+  "geometry": {"coordinates":[139.85803200000001,-36.828705],"type":"Point"}
 }

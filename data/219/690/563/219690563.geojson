@@ -2,13 +2,14 @@
   "id": 219690563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.525314,-32.18401,152.525314,-32.18401",
     "geom:latitude":-32.18401,
     "geom:longitude":152.525314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Lake St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219690563,
-    "wof:lastmodified":1449072241,
+    "wof:lastmodified":1466191044,
     "wof:name":"The Farmers Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesale"
     ]
 },
-  "bbox": [152.525314,-32.18401,152.525314,-32.18401],
-  "geometry": {"coordinates":[152.525314,-32.18401],"type":"Point"}
+  "bbox": [
+    152.525314,
+    -32.18401,
+    152.525314,
+    -32.18401
+],
+  "geometry": {"coordinates":[152.52531400000001,-32.18401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219518835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.099457,-33.925011,151.099457,-33.925011",
     "geom:latitude":-33.925011,
     "geom:longitude":151.099457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fcty2/ 34 Harp St",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219518835,
-    "wof:lastmodified":1449072371,
+    "wof:lastmodified":1466189871,
     "wof:name":"TXT Company Pty Ltd",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.099457,-33.925011,151.099457,-33.925011],
+  "bbox": [
+    151.099457,
+    -33.925011,
+    151.099457,
+    -33.925011
+],
   "geometry": {"coordinates":[151.099457,-33.925011],"type":"Point"}
 }

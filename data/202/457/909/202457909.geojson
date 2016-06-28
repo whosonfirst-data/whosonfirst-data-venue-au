@@ -2,13 +2,14 @@
   "id": 202457909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.971497,-37.833748,144.971497,-37.833748",
     "geom:latitude":-37.833748,
     "geom:longitude":144.971497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 3 36-38 Albert Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202457909,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466188904,
     "wof:name":"Aust Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.971497,-37.833748,144.971497,-37.833748],
+  "bbox": [
+    144.971497,
+    -37.833748,
+    144.971497,
+    -37.833748
+],
   "geometry": {"coordinates":[144.971497,-37.833748],"type":"Point"}
 }

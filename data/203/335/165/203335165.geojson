@@ -2,13 +2,14 @@
   "id": 203335165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.880264,-37.581226,143.880264,-37.581226",
     "geom:latitude":-37.581226,
     "geom:longitude":143.880264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Butt St",
     "sg:city":"Ballarat East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203335165,
-    "wof:lastmodified":1449026232,
+    "wof:lastmodified":1466188420,
     "wof:name":"Strange Air Conditioning Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [143.880264,-37.581226,143.880264,-37.581226],
-  "geometry": {"coordinates":[143.880264,-37.581226],"type":"Point"}
+  "bbox": [
+    143.880264,
+    -37.581226,
+    143.880264,
+    -37.581226
+],
+  "geometry": {"coordinates":[143.88026400000001,-37.581226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236145833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.880676,-34.733292,135.880676,-34.733292",
     "geom:latitude":-34.733292,
     "geom:longitude":135.880676,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Slipway Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236145833,
-    "wof:lastmodified":1449002489,
+    "wof:lastmodified":1466189465,
     "wof:name":"Boston Marine Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blasting"
     ]
 },
-  "bbox": [135.880676,-34.733292,135.880676,-34.733292],
-  "geometry": {"coordinates":[135.880676,-34.733292],"type":"Point"}
+  "bbox": [
+    135.880676,
+    -34.733292,
+    135.880676,
+    -34.733292
+],
+  "geometry": {"coordinates":[135.88067599999999,-34.733292],"type":"Point"}
 }

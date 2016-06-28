@@ -2,13 +2,14 @@
   "id": 202697155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.060333,-27.352106,153.060333,-27.352106",
     "geom:latitude":-27.352106,
     "geom:longitude":153.060333,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8/ 2128 Sandgate Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202697155,
-    "wof:lastmodified":1449061695,
+    "wof:lastmodified":1466188771,
     "wof:name":"The Love Shop",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [153.060333,-27.352106,153.060333,-27.352106],
-  "geometry": {"coordinates":[153.060333,-27.352106],"type":"Point"}
+  "bbox": [
+    153.060333,
+    -27.352106,
+    153.060333,
+    -27.352106
+],
+  "geometry": {"coordinates":[153.06033300000001,-27.352106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236870395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.225266,-35.3008,148.225266,-35.3008",
     "geom:latitude":-35.3008,
     "geom:longitude":148.225266,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Fitzroy St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236870395,
-    "wof:lastmodified":1449002332,
+    "wof:lastmodified":1466192069,
     "wof:name":"Tumut Log Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.225266,-35.3008,148.225266,-35.3008],
+  "bbox": [
+    148.225266,
+    -35.3008,
+    148.225266,
+    -35.3008
+],
   "geometry": {"coordinates":[148.225266,-35.3008],"type":"Point"}
 }

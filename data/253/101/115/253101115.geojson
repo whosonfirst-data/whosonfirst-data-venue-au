@@ -2,13 +2,14 @@
   "id": 253101115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.819016,-37.805973,144.819016,-37.805973",
     "geom:latitude":-37.805973,
     "geom:longitude":144.819016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Somerville Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253101115,
-    "wof:lastmodified":1449064376,
+    "wof:lastmodified":1466188754,
     "wof:name":"Adventure One Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "activity"
     ]
 },
-  "bbox": [144.819016,-37.805973,144.819016,-37.805973],
+  "bbox": [
+    144.819016,
+    -37.805973,
+    144.819016,
+    -37.805973
+],
   "geometry": {"coordinates":[144.819016,-37.805973],"type":"Point"}
 }

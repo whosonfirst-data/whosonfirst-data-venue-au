@@ -2,13 +2,14 @@
   "id": 252772631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.122391,-41.594715,147.122391,-41.594715",
     "geom:latitude":-41.594715,
     "geom:longitude":147.122391,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Wellington St",
     "sg:city":"Longford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252772631,
-    "wof:lastmodified":1449005897,
+    "wof:lastmodified":1466187902,
     "wof:name":"Queen's Arms Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [147.122391,-41.594715,147.122391,-41.594715],
-  "geometry": {"coordinates":[147.122391,-41.594715],"type":"Point"}
+  "bbox": [
+    147.122391,
+    -41.594715,
+    147.122391,
+    -41.594715
+],
+  "geometry": {"coordinates":[147.12239099999999,-41.594715],"type":"Point"}
 }

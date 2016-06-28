@@ -2,13 +2,14 @@
   "id": 235968467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.066696,-27.437349,153.066696,-27.437349",
     "geom:latitude":-27.437349,
     "geom:longitude":153.066696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cullen Ave (West)",
     "sg:city":"Whinstanes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235968467,
-    "wof:lastmodified":1449008296,
+    "wof:lastmodified":1466187358,
     "wof:name":"Boral Asphalt",
     "wof:parent_id":85777235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.066696,-27.437349,153.066696,-27.437349],
-  "geometry": {"coordinates":[153.066696,-27.437349],"type":"Point"}
+  "bbox": [
+    153.066696,
+    -27.437349,
+    153.066696,
+    -27.437349
+],
+  "geometry": {"coordinates":[153.06669600000001,-27.437349],"type":"Point"}
 }

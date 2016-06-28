@@ -2,13 +2,14 @@
   "id": 185887955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.701996,-25.53385,152.701996,-25.53385",
     "geom:latitude":-25.53385,
     "geom:longitude":152.701996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"172 John St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185887955,
-    "wof:lastmodified":1449007901,
+    "wof:lastmodified":1466187758,
     "wof:name":"Southern X-Ray Clinics",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.701996,-25.53385,152.701996,-25.53385],
-  "geometry": {"coordinates":[152.701996,-25.53385],"type":"Point"}
+  "bbox": [
+    152.701996,
+    -25.53385,
+    152.701996,
+    -25.53385
+],
+  "geometry": {"coordinates":[152.70199600000001,-25.53385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203020625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.261826,-20.076729,146.261826,-20.076729",
     "geom:latitude":-20.076729,
     "geom:longitude":146.261826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Gill St",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203020625,
-    "wof:lastmodified":1449025802,
+    "wof:lastmodified":1466187579,
     "wof:name":"Geaneys",
     "wof:parent_id":85779767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stock"
     ]
 },
-  "bbox": [146.261826,-20.076729,146.261826,-20.076729],
-  "geometry": {"coordinates":[146.261826,-20.076729],"type":"Point"}
+  "bbox": [
+    146.261826,
+    -20.076729,
+    146.261826,
+    -20.076729
+],
+  "geometry": {"coordinates":[146.26182600000001,-20.076729],"type":"Point"}
 }

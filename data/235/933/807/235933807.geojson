@@ -2,13 +2,14 @@
   "id": 235933807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.57579,-38.173367,144.57579,-38.173367",
     "geom:latitude":-38.173367,
     "geom:longitude":144.57579,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Murradoc Rd",
     "sg:city":"Drysdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235933807,
-    "wof:lastmodified":1449008329,
+    "wof:lastmodified":1466186921,
     "wof:name":"Graeme Hutchinson Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.57579,-38.173367,144.57579,-38.173367],
-  "geometry": {"coordinates":[144.57579,-38.173367],"type":"Point"}
+  "bbox": [
+    144.57579,
+    -38.173367,
+    144.57579,
+    -38.173367
+],
+  "geometry": {"coordinates":[144.57579000000001,-38.173367],"type":"Point"}
 }

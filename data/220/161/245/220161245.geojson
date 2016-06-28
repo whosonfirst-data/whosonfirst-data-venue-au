@@ -2,13 +2,14 @@
   "id": 220161245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357727,-38.145569,144.357727,-38.145569",
     "geom:latitude":-38.145569,
     "geom:longitude":144.357727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220161245,
-    "wof:lastmodified":1449074355,
+    "wof:lastmodified":1466188817,
     "wof:name":"Budget Truck & Car Rentals",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [144.357727,-38.145569,144.357727,-38.145569],
-  "geometry": {"coordinates":[144.357727,-38.145569],"type":"Point"}
+  "bbox": [
+    144.357727,
+    -38.145569,
+    144.357727,
+    -38.145569
+],
+  "geometry": {"coordinates":[144.35772700000001,-38.145569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186471263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.165466,-33.879402,151.165466,-33.879402",
     "geom:latitude":-33.879402,
     "geom:longitude":151.165466,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17/ 19-19 Moore St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186471263,
-    "wof:lastmodified":1449051451,
+    "wof:lastmodified":1466190195,
     "wof:name":"Webstercare",
     "wof:parent_id":85768679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.165466,-33.879402,151.165466,-33.879402],
-  "geometry": {"coordinates":[151.165466,-33.879402],"type":"Point"}
+  "bbox": [
+    151.165466,
+    -33.879402,
+    151.165466,
+    -33.879402
+],
+  "geometry": {"coordinates":[151.16546600000001,-33.879402],"type":"Point"}
 }

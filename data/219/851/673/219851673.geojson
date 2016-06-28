@@ -2,13 +2,14 @@
   "id": 219851673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176544,-33.855957,151.176544,-33.855957",
     "geom:latitude":-33.855957,
     "geom:longitude":151.176544,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219851673,
-    "wof:lastmodified":1449072711,
+    "wof:lastmodified":1466191519,
     "wof:name":"Forster Kenney Balmain",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.176544,-33.855957,151.176544,-33.855957],
-  "geometry": {"coordinates":[151.176544,-33.855957],"type":"Point"}
+  "bbox": [
+    151.176544,
+    -33.855957,
+    151.176544,
+    -33.855957
+],
+  "geometry": {"coordinates":[151.17654400000001,-33.855957],"type":"Point"}
 }

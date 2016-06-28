@@ -2,13 +2,14 @@
   "id": 202750315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.889389,-32.034691,115.889389,-32.034691",
     "geom:latitude":-32.034691,
     "geom:longitude":115.889389,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Midillion Ave",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202750315,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466189721,
     "wof:name":"JA Van Bruchem",
     "wof:parent_id":85775623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [115.889389,-32.034691,115.889389,-32.034691],
-  "geometry": {"coordinates":[115.889389,-32.034691],"type":"Point"}
+  "bbox": [
+    115.889389,
+    -32.034691,
+    115.889389,
+    -32.034691
+],
+  "geometry": {"coordinates":[115.88938899999999,-32.034691],"type":"Point"}
 }

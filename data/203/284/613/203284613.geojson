@@ -2,13 +2,14 @@
   "id": 203284613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.174606,-33.136871,148.174606,-33.136871",
     "geom:latitude":-33.136871,
     "geom:longitude":148.174606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 218",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203284613,
-    "wof:lastmodified":1449026123,
+    "wof:lastmodified":1466187830,
     "wof:name":"Central Exploration Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [148.174606,-33.136871,148.174606,-33.136871],
-  "geometry": {"coordinates":[148.174606,-33.136871],"type":"Point"}
+  "bbox": [
+    148.174606,
+    -33.136871,
+    148.174606,
+    -33.136871
+],
+  "geometry": {"coordinates":[148.17460600000001,-33.136871],"type":"Point"}
 }

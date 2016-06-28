@@ -2,13 +2,14 @@
   "id": 202638765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.017883,-18.257044,146.017883,-18.257044",
     "geom:latitude":-18.257044,
     "geom:longitude":146.017883,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Victoria St",
     "sg:city":"Cardwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202638765,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466187727,
     "wof:name":"Cardwell Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.017883,-18.257044,146.017883,-18.257044],
-  "geometry": {"coordinates":[146.017883,-18.257044],"type":"Point"}
+  "bbox": [
+    146.017883,
+    -18.257044,
+    146.017883,
+    -18.257044
+],
+  "geometry": {"coordinates":[146.01788300000001,-18.257044],"type":"Point"}
 }

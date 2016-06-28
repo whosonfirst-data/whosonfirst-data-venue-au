@@ -2,13 +2,14 @@
   "id": 169737621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.988983,-12.47516,130.988983,-12.47516",
     "geom:latitude":-12.47516,
     "geom:longitude":130.988983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 7 Adams Rd",
     "sg:city":"Palmerston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169737621,
-    "wof:lastmodified":1449033422,
+    "wof:lastmodified":1466187528,
     "wof:name":"Annie's Barber Shop",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [130.988983,-12.47516,130.988983,-12.47516],
-  "geometry": {"coordinates":[130.988983,-12.47516],"type":"Point"}
+  "bbox": [
+    130.988983,
+    -12.47516,
+    130.988983,
+    -12.47516
+],
+  "geometry": {"coordinates":[130.98898299999999,-12.47516],"type":"Point"}
 }

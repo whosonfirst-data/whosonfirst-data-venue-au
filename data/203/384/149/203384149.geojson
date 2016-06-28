@@ -2,13 +2,14 @@
   "id": 203384149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854935,-37.563992,143.854935,-37.563992",
     "geom:latitude":-37.563992,
     "geom:longitude":143.854935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"305A Dana St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203384149,
-    "wof:lastmodified":1449025183,
+    "wof:lastmodified":1466189272,
     "wof:name":"VECCI - New Apprenticeships Services",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [143.854935,-37.563992,143.854935,-37.563992],
-  "geometry": {"coordinates":[143.854935,-37.563992],"type":"Point"}
+  "bbox": [
+    143.854935,
+    -37.563992,
+    143.854935,
+    -37.563992
+],
+  "geometry": {"coordinates":[143.85493500000001,-37.563992],"type":"Point"}
 }

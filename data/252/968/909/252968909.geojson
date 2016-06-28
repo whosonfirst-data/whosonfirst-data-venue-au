@@ -2,13 +2,14 @@
   "id": 252968909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.12262,-26.700216,153.12262,-26.700216",
     "geom:latitude":-26.700216,
     "geom:longitude":153.12262,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1/ 10 Nicklin Way",
     "sg:city":"Minyama",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252968909,
-    "wof:lastmodified":1449005479,
+    "wof:lastmodified":1466189574,
     "wof:name":"Julian Leigh Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.12262,-26.700216,153.12262,-26.700216],
-  "geometry": {"coordinates":[153.12262,-26.700216],"type":"Point"}
+  "bbox": [
+    153.12262,
+    -26.700216,
+    153.12262,
+    -26.700216
+],
+  "geometry": {"coordinates":[153.12262000000001,-26.700216],"type":"Point"}
 }

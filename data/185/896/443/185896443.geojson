@@ -2,13 +2,14 @@
   "id": 185896443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.701981,-25.539825,152.701981,-25.539825",
     "geom:latitude":-25.539825,
     "geom:longitude":152.701981,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Bazaar St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185896443,
-    "wof:lastmodified":1449007184,
+    "wof:lastmodified":1466188024,
     "wof:name":"Absolute Financial Services",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [152.701981,-25.539825,152.701981,-25.539825],
-  "geometry": {"coordinates":[152.701981,-25.539825],"type":"Point"}
+  "bbox": [
+    152.701981,
+    -25.539825,
+    152.701981,
+    -25.539825
+],
+  "geometry": {"coordinates":[152.70198099999999,-25.539825],"type":"Point"}
 }

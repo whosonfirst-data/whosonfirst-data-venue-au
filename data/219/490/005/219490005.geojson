@@ -2,13 +2,14 @@
   "id": 219490005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.058212,-33.901943,151.058212,-33.901943",
     "geom:latitude":-33.901943,
     "geom:longitude":151.058212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Waterloo Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219490005,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466189319,
     "wof:name":"Secret Touch Hair Design",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.058212,-33.901943,151.058212,-33.901943],
+  "bbox": [
+    151.058212,
+    -33.901943,
+    151.058212,
+    -33.901943
+],
   "geometry": {"coordinates":[151.058212,-33.901943],"type":"Point"}
 }

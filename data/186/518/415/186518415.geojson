@@ -2,13 +2,14 @@
   "id": 186518415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.763916,-19.272406,146.763916,-19.272406",
     "geom:latitude":-19.272406,
     "geom:longitude":146.763916,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Leyland St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186518415,
-    "wof:lastmodified":1449051897,
+    "wof:lastmodified":1466190658,
     "wof:name":"Analabs",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "analyst"
     ]
 },
-  "bbox": [146.763916,-19.272406,146.763916,-19.272406],
-  "geometry": {"coordinates":[146.763916,-19.272406],"type":"Point"}
+  "bbox": [
+    146.763916,
+    -19.272406,
+    146.763916,
+    -19.272406
+],
+  "geometry": {"coordinates":[146.76391599999999,-19.272406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252808847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.604126,-38.340492,143.604126,-38.340492",
     "geom:latitude":-38.340492,
     "geom:longitude":143.604126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Douglas St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252808847,
-    "wof:lastmodified":1449005450,
+    "wof:lastmodified":1466188212,
     "wof:name":"Russell Plant Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.604126,-38.340492,143.604126,-38.340492],
-  "geometry": {"coordinates":[143.604126,-38.340492],"type":"Point"}
+  "bbox": [
+    143.604126,
+    -38.340492,
+    143.604126,
+    -38.340492
+],
+  "geometry": {"coordinates":[143.60412600000001,-38.340492],"type":"Point"}
 }

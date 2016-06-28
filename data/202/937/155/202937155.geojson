@@ -2,13 +2,14 @@
   "id": 202937155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.097412,-30.314486,153.097412,-30.314486",
     "geom:latitude":-30.314486,
     "geom:longitude":153.097412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202937155,
-    "wof:lastmodified":1449060591,
+    "wof:lastmodified":1466190807,
     "wof:name":"Active Car & Truck Electrics",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [153.097412,-30.314486,153.097412,-30.314486],
-  "geometry": {"coordinates":[153.097412,-30.314486],"type":"Point"}
+  "bbox": [
+    153.097412,
+    -30.314486,
+    153.097412,
+    -30.314486
+],
+  "geometry": {"coordinates":[153.09741199999999,-30.314486],"type":"Point"}
 }

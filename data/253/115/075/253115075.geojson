@@ -2,13 +2,14 @@
   "id": 253115075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.831741,-37.78775,144.831741,-37.78775",
     "geom:latitude":-37.78775,
     "geom:longitude":144.831741,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 City Pl",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253115075,
-    "wof:lastmodified":1449062804,
+    "wof:lastmodified":1466189039,
     "wof:name":"Sunshine Chicken Bar",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.831741,-37.78775,144.831741,-37.78775],
-  "geometry": {"coordinates":[144.831741,-37.78775],"type":"Point"}
+  "bbox": [
+    144.831741,
+    -37.78775,
+    144.831741,
+    -37.78775
+],
+  "geometry": {"coordinates":[144.83174099999999,-37.78775],"type":"Point"}
 }

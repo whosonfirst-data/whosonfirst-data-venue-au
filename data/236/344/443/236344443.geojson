@@ -2,13 +2,14 @@
   "id": 236344443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.823051,-32.067566,115.823051,-32.067566",
     "geom:latitude":-32.067566,
     "geom:longitude":115.823051,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Walker Crt",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236344443,
-    "wof:lastmodified":1449001803,
+    "wof:lastmodified":1466190683,
     "wof:name":"Murray Cleaning Services",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [115.823051,-32.067566,115.823051,-32.067566],
-  "geometry": {"coordinates":[115.823051,-32.067566],"type":"Point"}
+  "bbox": [
+    115.823051,
+    -32.067566,
+    115.823051,
+    -32.067566
+],
+  "geometry": {"coordinates":[115.82305100000001,-32.067566],"type":"Point"}
 }

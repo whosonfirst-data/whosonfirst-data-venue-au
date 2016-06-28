@@ -2,13 +2,14 @@
   "id": 202705975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050674,-27.364285,153.050674,-27.364285",
     "geom:latitude":-27.364285,
     "geom:longitude":153.050674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Granite St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202705975,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466188943,
     "wof:name":"Seacliff Maintenance Engineering",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [153.050674,-27.364285,153.050674,-27.364285],
-  "geometry": {"coordinates":[153.050674,-27.364285],"type":"Point"}
+  "bbox": [
+    153.050674,
+    -27.364285,
+    153.050674,
+    -27.364285
+],
+  "geometry": {"coordinates":[153.05067399999999,-27.364285],"type":"Point"}
 }

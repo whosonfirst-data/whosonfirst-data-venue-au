@@ -2,13 +2,14 @@
   "id": 236885551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.359695,-37.604847,140.359695,-37.604847",
     "geom:latitude":-37.604847,
     "geom:longitude":140.359695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wyrie Rd",
     "sg:city":"Millicent",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236885551,
-    "wof:lastmodified":1449003397,
+    "wof:lastmodified":1466192079,
     "wof:name":"Smith's Junction Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [140.359695,-37.604847,140.359695,-37.604847],
-  "geometry": {"coordinates":[140.359695,-37.604847],"type":"Point"}
+  "bbox": [
+    140.359695,
+    -37.604847,
+    140.359695,
+    -37.604847
+],
+  "geometry": {"coordinates":[140.35969499999999,-37.604847],"type":"Point"}
 }

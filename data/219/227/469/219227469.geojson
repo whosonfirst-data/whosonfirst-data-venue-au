@@ -2,13 +2,14 @@
   "id": 219227469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.941116,-37.65522,144.941116,-37.65522",
     "geom:latitude":-37.65522,
     "geom:longitude":144.941116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Lisa Pl",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227469,
-    "wof:lastmodified":1449071177,
+    "wof:lastmodified":1466189879,
     "wof:name":"E.F.I. Office Furniture",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [144.941116,-37.65522,144.941116,-37.65522],
-  "geometry": {"coordinates":[144.941116,-37.65522],"type":"Point"}
+  "bbox": [
+    144.941116,
+    -37.65522,
+    144.941116,
+    -37.65522
+],
+  "geometry": {"coordinates":[144.94111599999999,-37.65522],"type":"Point"}
 }

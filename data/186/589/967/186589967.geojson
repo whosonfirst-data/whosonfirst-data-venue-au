@@ -2,13 +2,14 @@
   "id": 186589967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.516724,-41.158237,147.516724,-41.158237",
     "geom:latitude":-41.158237,
     "geom:longitude":147.516724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ellenor St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186589967,
-    "wof:lastmodified":1449051808,
+    "wof:lastmodified":1466190999,
     "wof:name":"Scottsdale Suzuki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [147.516724,-41.158237,147.516724,-41.158237],
-  "geometry": {"coordinates":[147.516724,-41.158237],"type":"Point"}
+  "bbox": [
+    147.516724,
+    -41.158237,
+    147.516724,
+    -41.158237
+],
+  "geometry": {"coordinates":[147.51672400000001,-41.158237],"type":"Point"}
 }

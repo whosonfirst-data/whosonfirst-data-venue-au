@@ -2,13 +2,14 @@
   "id": 252727583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.647247,-33.336945,115.647247,-33.336945",
     "geom:latitude":-33.336945,
     "geom:longitude":115.647247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"unit 4/ 1 Armitage St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252727583,
-    "wof:lastmodified":1449005570,
+    "wof:lastmodified":1466187212,
     "wof:name":"Goody's Automotive Repairs",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.647247,-33.336945,115.647247,-33.336945],
-  "geometry": {"coordinates":[115.647247,-33.336945],"type":"Point"}
+  "bbox": [
+    115.647247,
+    -33.336945,
+    115.647247,
+    -33.336945
+],
+  "geometry": {"coordinates":[115.64724699999999,-33.336945],"type":"Point"}
 }

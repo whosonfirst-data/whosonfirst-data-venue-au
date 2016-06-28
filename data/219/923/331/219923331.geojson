@@ -2,13 +2,14 @@
   "id": 219923331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.742081,-36.104523,144.742081,-36.104523",
     "geom:latitude":-36.104523,
     "geom:longitude":144.742081,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Perricoota Rd",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219923331,
-    "wof:lastmodified":1449073793,
+    "wof:lastmodified":1466191845,
     "wof:name":"Moama Sports Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "venue"
     ]
 },
-  "bbox": [144.742081,-36.104523,144.742081,-36.104523],
-  "geometry": {"coordinates":[144.742081,-36.104523],"type":"Point"}
+  "bbox": [
+    144.742081,
+    -36.104523,
+    144.742081,
+    -36.104523
+],
+  "geometry": {"coordinates":[144.74208100000001,-36.104523],"type":"Point"}
 }

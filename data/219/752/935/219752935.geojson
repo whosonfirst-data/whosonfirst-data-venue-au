@@ -2,13 +2,14 @@
   "id": 219752935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.619507,-32.599323,151.619507,-32.599323",
     "geom:latitude":-32.599323,
     "geom:longitude":151.619507,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"King St",
     "sg:city":"Paterson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219752935,
-    "wof:lastmodified":1449070981,
+    "wof:lastmodified":1466191265,
     "wof:name":"Court House Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.619507,-32.599323,151.619507,-32.599323],
+  "bbox": [
+    151.619507,
+    -32.599323,
+    151.619507,
+    -32.599323
+],
   "geometry": {"coordinates":[151.619507,-32.599323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185764595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.144653,-32.721245,152.144653,-32.721245",
     "geom:latitude":-32.721245,
     "geom:longitude":152.144653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116A Magnus St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185764595,
-    "wof:lastmodified":1449008121,
+    "wof:lastmodified":1466189694,
     "wof:name":"Total Strata Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stratum"
     ]
 },
-  "bbox": [152.144653,-32.721245,152.144653,-32.721245],
-  "geometry": {"coordinates":[152.144653,-32.721245],"type":"Point"}
+  "bbox": [
+    152.144653,
+    -32.721245,
+    152.144653,
+    -32.721245
+],
+  "geometry": {"coordinates":[152.14465300000001,-32.721245],"type":"Point"}
 }

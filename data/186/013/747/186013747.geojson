@@ -2,13 +2,14 @@
   "id": 186013747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.492462,-33.349312,151.492462,-33.349312",
     "geom:latitude":-33.349312,
     "geom:longitude":151.492462,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"300 The Entrance Rd",
     "sg:city":"The Entrance",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186013747,
-    "wof:lastmodified":1449052183,
+    "wof:lastmodified":1466187244,
     "wof:name":"Central Coast Beauty Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [151.492462,-33.349312,151.492462,-33.349312],
-  "geometry": {"coordinates":[151.492462,-33.349312],"type":"Point"}
+  "bbox": [
+    151.492462,
+    -33.349312,
+    151.492462,
+    -33.349312
+],
+  "geometry": {"coordinates":[151.49246199999999,-33.349312],"type":"Point"}
 }

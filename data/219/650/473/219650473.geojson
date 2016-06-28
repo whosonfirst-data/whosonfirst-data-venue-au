@@ -2,13 +2,14 @@
   "id": 219650473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.102509,-33.946514,151.102509,-33.946514",
     "geom:latitude":-33.946514,
     "geom:longitude":151.102509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Kingsgrove Rd",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219650473,
-    "wof:lastmodified":1449072546,
+    "wof:lastmodified":1466191013,
     "wof:name":"Cheesecake World",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.102509,-33.946514,151.102509,-33.946514],
+  "bbox": [
+    151.102509,
+    -33.946514,
+    151.102509,
+    -33.946514
+],
   "geometry": {"coordinates":[151.102509,-33.946514],"type":"Point"}
 }

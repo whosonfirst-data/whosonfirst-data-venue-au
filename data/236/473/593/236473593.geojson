@@ -2,13 +2,14 @@
   "id": 236473593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.158508,-21.147608,149.158508,-21.147608",
     "geom:latitude":-21.147608,
     "geom:longitude":149.158508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bridge Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236473593,
-    "wof:lastmodified":1449002193,
+    "wof:lastmodified":1466191315,
     "wof:name":"Rokic B & L E",
     "wof:parent_id":85780189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [149.158508,-21.147608,149.158508,-21.147608],
-  "geometry": {"coordinates":[149.158508,-21.147608],"type":"Point"}
+  "bbox": [
+    149.158508,
+    -21.147608,
+    149.158508,
+    -21.147608
+],
+  "geometry": {"coordinates":[149.15850800000001,-21.147608],"type":"Point"}
 }

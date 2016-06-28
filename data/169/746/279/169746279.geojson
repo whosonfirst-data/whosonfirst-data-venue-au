@@ -2,13 +2,14 @@
   "id": 169746279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.107224,-27.22217,153.107224,-27.22217",
     "geom:latitude":-27.22217,
     "geom:longitude":153.107224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 177",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169746279,
-    "wof:lastmodified":1449032654,
+    "wof:lastmodified":1466187726,
     "wof:name":"SEQLD Surveillance Services",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [153.107224,-27.22217,153.107224,-27.22217],
+  "bbox": [
+    153.107224,
+    -27.22217,
+    153.107224,
+    -27.22217
+],
   "geometry": {"coordinates":[153.107224,-27.22217],"type":"Point"}
 }

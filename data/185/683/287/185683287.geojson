@@ -2,13 +2,14 @@
   "id": 185683287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.248459,-23.447214,144.248459,-23.447214",
     "geom:latitude":-23.447214,
     "geom:longitude":144.248459,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Crane St",
     "sg:city":"Longreach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185683287,
-    "wof:lastmodified":1449007192,
+    "wof:lastmodified":1466188825,
     "wof:name":"Andrew Egan Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.248459,-23.447214,144.248459,-23.447214],
+  "bbox": [
+    144.248459,
+    -23.447214,
+    144.248459,
+    -23.447214
+],
   "geometry": {"coordinates":[144.248459,-23.447214],"type":"Point"}
 }

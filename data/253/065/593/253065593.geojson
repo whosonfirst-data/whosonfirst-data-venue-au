@@ -2,13 +2,14 @@
   "id": 253065593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.740097,-37.730774,144.740097,-37.730774",
     "geom:latitude":-37.730774,
     "geom:longitude":144.740097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 2503 Caroline Springs Blvd cnr College St",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253065593,
-    "wof:lastmodified":1449065775,
+    "wof:lastmodified":1466188140,
     "wof:name":"ICB Gait & Posture Clinic",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [144.740097,-37.730774,144.740097,-37.730774],
-  "geometry": {"coordinates":[144.740097,-37.730774],"type":"Point"}
+  "bbox": [
+    144.740097,
+    -37.730774,
+    144.740097,
+    -37.730774
+],
+  "geometry": {"coordinates":[144.74009699999999,-37.730774],"type":"Point"}
 }

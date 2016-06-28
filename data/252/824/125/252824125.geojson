@@ -2,13 +2,14 @@
   "id": 252824125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.639496,-38.19595,143.639496,-38.19595",
     "geom:latitude":-38.19595,
     "geom:longitude":143.639496,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wallace St",
     "sg:city":"Beeac",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252824125,
-    "wof:lastmodified":1449005790,
+    "wof:lastmodified":1466188338,
     "wof:name":"G J Leigh Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [143.639496,-38.19595,143.639496,-38.19595],
-  "geometry": {"coordinates":[143.639496,-38.19595],"type":"Point"}
+  "bbox": [
+    143.639496,
+    -38.19595,
+    143.639496,
+    -38.19595
+],
+  "geometry": {"coordinates":[143.63949600000001,-38.19595],"type":"Point"}
 }

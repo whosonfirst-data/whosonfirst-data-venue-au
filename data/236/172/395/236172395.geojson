@@ -2,13 +2,14 @@
   "id": 236172395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.897476,-37.673618,144.897476,-37.673618",
     "geom:latitude":-37.673618,
     "geom:longitude":144.897476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Wilton Pl",
     "sg:city":"Attwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236172395,
-    "wof:lastmodified":1449002894,
+    "wof:lastmodified":1466189763,
     "wof:name":"Bliss Painting Services",
     "wof:parent_id":85777833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [144.897476,-37.673618,144.897476,-37.673618],
-  "geometry": {"coordinates":[144.897476,-37.673618],"type":"Point"}
+  "bbox": [
+    144.897476,
+    -37.673618,
+    144.897476,
+    -37.673618
+],
+  "geometry": {"coordinates":[144.89747600000001,-37.673618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203260949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.004913,-33.374599,148.004913,-33.374599",
     "geom:latitude":-33.374599,
     "geom:longitude":148.004913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bogan St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203260949,
-    "wof:lastmodified":1449025260,
+    "wof:lastmodified":1466187654,
     "wof:name":"Forbes Pre-School Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [148.004913,-33.374599,148.004913,-33.374599],
-  "geometry": {"coordinates":[148.004913,-33.374599],"type":"Point"}
+  "bbox": [
+    148.004913,
+    -33.374599,
+    148.004913,
+    -33.374599
+],
+  "geometry": {"coordinates":[148.00491299999999,-33.374599],"type":"Point"}
 }

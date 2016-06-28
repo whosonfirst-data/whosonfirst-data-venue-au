@@ -2,13 +2,14 @@
   "id": 253307163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.414764,-38.060555,145.414764,-38.060555",
     "geom:latitude":-38.060555,
     "geom:longitude":145.414764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Starling Rd",
     "sg:city":"Officer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253307163,
-    "wof:lastmodified":1449063580,
+    "wof:lastmodified":1466190666,
     "wof:name":"Landscape Architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [145.414764,-38.060555,145.414764,-38.060555],
-  "geometry": {"coordinates":[145.414764,-38.060555],"type":"Point"}
+  "bbox": [
+    145.414764,
+    -38.060555,
+    145.414764,
+    -38.060555
+],
+  "geometry": {"coordinates":[145.41476399999999,-38.060555],"type":"Point"}
 }

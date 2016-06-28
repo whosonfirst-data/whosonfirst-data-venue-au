@@ -2,13 +2,14 @@
   "id": 236904031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.541794,-35.026585,138.541794,-35.026585",
     "geom:latitude":-35.026585,
     "geom:longitude":138.541794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"577g Morphett Rd",
     "sg:city":"Seacombe Gardens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236904031,
-    "wof:lastmodified":1449005337,
+    "wof:lastmodified":1466192097,
     "wof:name":"Dynamic Hair",
     "wof:parent_id":85770335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [138.541794,-35.026585,138.541794,-35.026585],
-  "geometry": {"coordinates":[138.541794,-35.026585],"type":"Point"}
+  "bbox": [
+    138.541794,
+    -35.026585,
+    138.541794,
+    -35.026585
+],
+  "geometry": {"coordinates":[138.54179400000001,-35.026585],"type":"Point"}
 }

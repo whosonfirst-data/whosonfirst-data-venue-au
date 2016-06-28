@@ -2,13 +2,14 @@
   "id": 253034303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.781403,-37.844738,144.781403,-37.844738",
     "geom:latitude":-37.844738,
     "geom:longitude":144.781403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 10 Fitzgerald Rd",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253034303,
-    "wof:lastmodified":1449063142,
+    "wof:lastmodified":1466187605,
     "wof:name":"Pirtek",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [144.781403,-37.844738,144.781403,-37.844738],
-  "geometry": {"coordinates":[144.781403,-37.844738],"type":"Point"}
+  "bbox": [
+    144.781403,
+    -37.844738,
+    144.781403,
+    -37.844738
+],
+  "geometry": {"coordinates":[144.78140300000001,-37.844738],"type":"Point"}
 }

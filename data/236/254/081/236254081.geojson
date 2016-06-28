@@ -2,13 +2,14 @@
   "id": 236254081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"133.545746,-17.55389,133.545746,-17.55389",
     "geom:latitude":-17.55389,
     "geom:longitude":133.545746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Stuart Hwy",
     "sg:city":"Elliott",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236254081,
-    "wof:lastmodified":1449004009,
+    "wof:lastmodified":1466190087,
     "wof:name":"Elliott Hotel The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [133.545746,-17.55389,133.545746,-17.55389],
-  "geometry": {"coordinates":[133.545746,-17.55389],"type":"Point"}
+  "bbox": [
+    133.545746,
+    -17.55389,
+    133.545746,
+    -17.55389
+],
+  "geometry": {"coordinates":[133.54574600000001,-17.55389],"type":"Point"}
 }

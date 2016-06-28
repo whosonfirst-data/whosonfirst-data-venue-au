@@ -2,13 +2,14 @@
   "id": 202431131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.978775,-37.851433,144.978775,-37.851433",
     "geom:latitude":-37.851433,
     "geom:longitude":144.978775,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Queens Rd",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202431131,
-    "wof:lastmodified":1449060449,
+    "wof:lastmodified":1466188433,
     "wof:name":"At Sweethearts Cafe",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.978775,-37.851433,144.978775,-37.851433],
-  "geometry": {"coordinates":[144.978775,-37.851433],"type":"Point"}
+  "bbox": [
+    144.978775,
+    -37.851433,
+    144.978775,
+    -37.851433
+],
+  "geometry": {"coordinates":[144.97877500000001,-37.851433],"type":"Point"}
 }

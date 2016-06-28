@@ -2,13 +2,14 @@
   "id": 236415795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.648865,-20.834946,148.648865,-20.834946",
     "geom:latitude":-20.834946,
     "geom:longitude":148.648865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93466 Bruce Hwy",
     "sg:city":"Rosella",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236415795,
-    "wof:lastmodified":1449004140,
+    "wof:lastmodified":1466191229,
     "wof:name":"Rosella Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.648865,-20.834946,148.648865,-20.834946],
+  "bbox": [
+    148.648865,
+    -20.834946,
+    148.648865,
+    -20.834946
+],
   "geometry": {"coordinates":[148.648865,-20.834946],"type":"Point"}
 }

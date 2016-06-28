@@ -2,13 +2,14 @@
   "id": 203316095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.842606,-37.592869,143.842606,-37.592869",
     "geom:latitude":-37.592869,
     "geom:longitude":143.842606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Vickers St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203316095,
-    "wof:lastmodified":1449026265,
+    "wof:lastmodified":1466188207,
     "wof:name":"C & A Auto Repairs",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [143.842606,-37.592869,143.842606,-37.592869],
-  "geometry": {"coordinates":[143.842606,-37.592869],"type":"Point"}
+  "bbox": [
+    143.842606,
+    -37.592869,
+    143.842606,
+    -37.592869
+],
+  "geometry": {"coordinates":[143.84260599999999,-37.592869],"type":"Point"}
 }

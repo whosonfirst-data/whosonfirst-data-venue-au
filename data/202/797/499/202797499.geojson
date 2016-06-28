@@ -2,13 +2,14 @@
   "id": 202797499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.747437,-32.922081,151.747437,-32.922081",
     "geom:latitude":-32.922081,
     "geom:longitude":151.747437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59- 61 Beaumont St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202797499,
-    "wof:lastmodified":1449062398,
+    "wof:lastmodified":1466190288,
     "wof:name":"Kent Hotel",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [151.747437,-32.922081,151.747437,-32.922081],
-  "geometry": {"coordinates":[151.747437,-32.922081],"type":"Point"}
+  "bbox": [
+    151.747437,
+    -32.922081,
+    151.747437,
+    -32.922081
+],
+  "geometry": {"coordinates":[151.74743699999999,-32.922081],"type":"Point"}
 }

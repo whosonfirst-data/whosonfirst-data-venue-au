@@ -2,13 +2,14 @@
   "id": 236418297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.83223,-20.958267,148.83223,-20.958267",
     "geom:latitude":-20.958267,
     "geom:longitude":148.83223,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mt Ossa Rd",
     "sg:city":"Seaforth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236418297,
-    "wof:lastmodified":1449004388,
+    "wof:lastmodified":1466191153,
     "wof:name":"Cowley F R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [148.83223,-20.958267,148.83223,-20.958267],
-  "geometry": {"coordinates":[148.83223,-20.958267],"type":"Point"}
+  "bbox": [
+    148.83223,
+    -20.958267,
+    148.83223,
+    -20.958267
+],
+  "geometry": {"coordinates":[148.83223000000001,-20.958267],"type":"Point"}
 }

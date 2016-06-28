@@ -2,13 +2,14 @@
   "id": 253056643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.755447,-37.760033,144.755447,-37.760033",
     "geom:latitude":-37.760033,
     "geom:longitude":144.755447,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 18-20 Westwood Drv",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253056643,
-    "wof:lastmodified":1449063659,
+    "wof:lastmodified":1466188024,
     "wof:name":"HTR Automotive",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.755447,-37.760033,144.755447,-37.760033],
+  "bbox": [
+    144.755447,
+    -37.760033,
+    144.755447,
+    -37.760033
+],
   "geometry": {"coordinates":[144.755447,-37.760033],"type":"Point"}
 }

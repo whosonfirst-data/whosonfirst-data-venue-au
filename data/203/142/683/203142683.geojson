@@ -2,13 +2,14 @@
   "id": 203142683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.773033,-32.547134,115.773033,-32.547134",
     "geom:latitude":-32.547134,
     "geom:longitude":115.773033,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3 Bird Cameron House 119-121 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203142683,
-    "wof:lastmodified":1449026453,
+    "wof:lastmodified":1466189623,
     "wof:name":"Mandurah Business Enterprise Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [115.773033,-32.547134,115.773033,-32.547134],
+  "bbox": [
+    115.773033,
+    -32.547134,
+    115.773033,
+    -32.547134
+],
   "geometry": {"coordinates":[115.773033,-32.547134],"type":"Point"}
 }

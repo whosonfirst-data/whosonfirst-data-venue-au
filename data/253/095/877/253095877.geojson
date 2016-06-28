@@ -2,13 +2,14 @@
   "id": 253095877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.837418,-37.798691,144.837418,-37.798691",
     "geom:latitude":-37.798691,
     "geom:longitude":144.837418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 4 18 Second Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253095877,
-    "wof:lastmodified":1449064328,
+    "wof:lastmodified":1466188645,
     "wof:name":"Astra Fencing",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [144.837418,-37.798691,144.837418,-37.798691],
-  "geometry": {"coordinates":[144.837418,-37.798691],"type":"Point"}
+  "bbox": [
+    144.837418,
+    -37.798691,
+    144.837418,
+    -37.798691
+],
+  "geometry": {"coordinates":[144.83741800000001,-37.798691],"type":"Point"}
 }

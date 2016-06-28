@@ -2,13 +2,14 @@
   "id": 186582659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.215088,-41.253773,147.215088,-41.253773",
     "geom:latitude":-41.253773,
     "geom:longitude":147.215088,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Main & Lalla Rds",
     "sg:city":"Lilydale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186582659,
-    "wof:lastmodified":1449051822,
+    "wof:lastmodified":1466190979,
     "wof:name":"Mary Walsh Centre Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [147.215088,-41.253773,147.215088,-41.253773],
-  "geometry": {"coordinates":[147.215088,-41.253773],"type":"Point"}
+  "bbox": [
+    147.215088,
+    -41.253773,
+    147.215088,
+    -41.253773
+],
+  "geometry": {"coordinates":[147.21508800000001,-41.253773],"type":"Point"}
 }

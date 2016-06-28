@@ -2,13 +2,14 @@
   "id": 202715915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038269,-27.355337,153.038269,-27.355337",
     "geom:latitude":-27.355337,
     "geom:longitude":153.038269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kolberg St",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202715915,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466189131,
     "wof:name":"Ashworth House",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [153.038269,-27.355337,153.038269,-27.355337],
-  "geometry": {"coordinates":[153.038269,-27.355337],"type":"Point"}
+  "bbox": [
+    153.038269,
+    -27.355337,
+    153.038269,
+    -27.355337
+],
+  "geometry": {"coordinates":[153.03826900000001,-27.355337],"type":"Point"}
 }

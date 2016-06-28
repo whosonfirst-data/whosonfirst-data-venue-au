@@ -2,13 +2,14 @@
   "id": 186419893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.828247,-19.268682,146.828247,-19.268682",
     "geom:latitude":-19.268682,
     "geom:longitude":146.828247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tenth Ave Cnr Boundary St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186419893,
-    "wof:lastmodified":1449052984,
+    "wof:lastmodified":1466189641,
     "wof:name":"Tropical Cruise & Dive",
     "wof:parent_id":85780081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "scuba"
     ]
 },
-  "bbox": [146.828247,-19.268682,146.828247,-19.268682],
+  "bbox": [
+    146.828247,
+    -19.268682,
+    146.828247,
+    -19.268682
+],
   "geometry": {"coordinates":[146.828247,-19.268682],"type":"Point"}
 }

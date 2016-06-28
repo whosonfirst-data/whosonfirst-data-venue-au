@@ -2,13 +2,14 @@
   "id": 185895293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699966,-25.524479,152.699966,-25.524479",
     "geom:latitude":-25.524479,
     "geom:longitude":152.699966,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Pallas St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185895293,
-    "wof:lastmodified":1449007286,
+    "wof:lastmodified":1466187957,
     "wof:name":"Barber Shop The",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.699966,-25.524479,152.699966,-25.524479],
-  "geometry": {"coordinates":[152.699966,-25.524479],"type":"Point"}
+  "bbox": [
+    152.699966,
+    -25.524479,
+    152.699966,
+    -25.524479
+],
+  "geometry": {"coordinates":[152.69996599999999,-25.524479],"type":"Point"}
 }

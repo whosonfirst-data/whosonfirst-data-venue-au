@@ -2,13 +2,14 @@
   "id": 203283663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.175369,-33.139782,148.175369,-33.139782",
     "geom:latitude":-33.139782,
     "geom:longitude":148.175369,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Clarinda St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203283663,
-    "wof:lastmodified":1449025471,
+    "wof:lastmodified":1466187824,
     "wof:name":"Bryson's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.175369,-33.139782,148.175369,-33.139782],
-  "geometry": {"coordinates":[148.175369,-33.139782],"type":"Point"}
+  "bbox": [
+    148.175369,
+    -33.139782,
+    148.175369,
+    -33.139782
+],
+  "geometry": {"coordinates":[148.17536899999999,-33.139782],"type":"Point"}
 }

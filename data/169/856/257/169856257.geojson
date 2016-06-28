@@ -2,13 +2,14 @@
   "id": 169856257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.84861,-32.014889,115.84861,-32.014889",
     "geom:latitude":-32.014889,
     "geom:longitude":115.84861,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3/ Level 1 11 Ogilvie Rd",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169856257,
-    "wof:lastmodified":1449033616,
+    "wof:lastmodified":1466189466,
     "wof:name":"Moody International Pty Limited",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [115.84861,-32.014889,115.84861,-32.014889],
-  "geometry": {"coordinates":[115.84861,-32.014889],"type":"Point"}
+  "bbox": [
+    115.84861,
+    -32.014889,
+    115.84861,
+    -32.014889
+],
+  "geometry": {"coordinates":[115.84860999999999,-32.014889],"type":"Point"}
 }

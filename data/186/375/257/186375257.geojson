@@ -2,13 +2,14 @@
   "id": 186375257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.144897,-33.843678,151.144897,-33.843678",
     "geom:latitude":-33.843678,
     "geom:longitude":151.144897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Victoria Pl",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186375257,
-    "wof:lastmodified":1449050364,
+    "wof:lastmodified":1466188917,
     "wof:name":"Empire Marina Drummoyne",
     "wof:parent_id":85776971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.144897,-33.843678,151.144897,-33.843678],
-  "geometry": {"coordinates":[151.144897,-33.843678],"type":"Point"}
+  "bbox": [
+    151.144897,
+    -33.843678,
+    151.144897,
+    -33.843678
+],
+  "geometry": {"coordinates":[151.14489699999999,-33.843678],"type":"Point"}
 }

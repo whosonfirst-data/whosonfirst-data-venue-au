@@ -2,13 +2,14 @@
   "id": 236363799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.802361,-32.074528,115.802361,-32.074528",
     "geom:latitude":-32.074528,
     "geom:longitude":115.802361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Winterfold Rd",
     "sg:city":"Samson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236363799,
-    "wof:lastmodified":1449004767,
+    "wof:lastmodified":1466191067,
     "wof:name":"Eddie The Poolman",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [115.802361,-32.074528,115.802361,-32.074528],
+  "bbox": [
+    115.802361,
+    -32.074528,
+    115.802361,
+    -32.074528
+],
   "geometry": {"coordinates":[115.802361,-32.074528],"type":"Point"}
 }

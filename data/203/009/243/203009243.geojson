@@ -2,13 +2,14 @@
   "id": 203009243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.492935,-20.727629,139.492935,-20.727629",
     "geom:latitude":-20.727629,
     "geom:longitude":139.492935,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp2/ 76 Camooweal St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203009243,
-    "wof:lastmodified":1449026844,
+    "wof:lastmodified":1466187220,
     "wof:name":"Curves Mount Isa",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitness"
     ]
 },
-  "bbox": [139.492935,-20.727629,139.492935,-20.727629],
-  "geometry": {"coordinates":[139.492935,-20.727629],"type":"Point"}
+  "bbox": [
+    139.492935,
+    -20.727629,
+    139.492935,
+    -20.727629
+],
+  "geometry": {"coordinates":[139.49293499999999,-20.727629],"type":"Point"}
 }

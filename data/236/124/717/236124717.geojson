@@ -2,13 +2,14 @@
   "id": 236124717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.881638,-37.773315,144.881638,-37.773315",
     "geom:latitude":-37.773315,
     "geom:longitude":144.881638,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U6/ 4 Wests Rd",
     "sg:city":"Maribyrnong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236124717,
-    "wof:lastmodified":1449004940,
+    "wof:lastmodified":1466189140,
     "wof:name":"Mgm Australian Education",
     "wof:parent_id":85771437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [144.881638,-37.773315,144.881638,-37.773315],
-  "geometry": {"coordinates":[144.881638,-37.773315],"type":"Point"}
+  "bbox": [
+    144.881638,
+    -37.773315,
+    144.881638,
+    -37.773315
+],
+  "geometry": {"coordinates":[144.88163800000001,-37.773315],"type":"Point"}
 }

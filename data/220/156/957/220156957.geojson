@@ -2,13 +2,14 @@
   "id": 220156957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.35994,-38.16436,144.35994,-38.16436",
     "geom:latitude":-38.16436,
     "geom:longitude":144.35994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Little Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220156957,
-    "wof:lastmodified":1449074200,
+    "wof:lastmodified":1466188732,
     "wof:name":"A V Detailing",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [144.35994,-38.16436,144.35994,-38.16436],
-  "geometry": {"coordinates":[144.35994,-38.16436],"type":"Point"}
+  "bbox": [
+    144.35994,
+    -38.16436,
+    144.35994,
+    -38.16436
+],
+  "geometry": {"coordinates":[144.35993999999999,-38.16436],"type":"Point"}
 }

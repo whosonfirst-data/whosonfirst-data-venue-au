@@ -2,13 +2,14 @@
   "id": 236298983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.739449,-32.284576,115.739449,-32.284576",
     "geom:latitude":-32.284576,
     "geom:longitude":115.739449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Home Building Centre 85 Leghorn St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236298983,
-    "wof:lastmodified":1449002355,
+    "wof:lastmodified":1466190609,
     "wof:name":"Ballantyne Plumbing, Gas & Electrical (WA)",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.739449,-32.284576,115.739449,-32.284576],
-  "geometry": {"coordinates":[115.739449,-32.284576],"type":"Point"}
+  "bbox": [
+    115.739449,
+    -32.284576,
+    115.739449,
+    -32.284576
+],
+  "geometry": {"coordinates":[115.73944899999999,-32.284576],"type":"Point"}
 }

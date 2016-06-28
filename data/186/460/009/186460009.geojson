@@ -2,13 +2,14 @@
   "id": 186460009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160355,-33.883453,151.160355,-33.883453",
     "geom:latitude":-33.883453,
     "geom:longitude":151.160355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 52, Market Place Cnr Marion & Flood Sts",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186460009,
-    "wof:lastmodified":1449052884,
+    "wof:lastmodified":1466190127,
     "wof:name":"Just Cuts",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.160355,-33.883453,151.160355,-33.883453],
-  "geometry": {"coordinates":[151.160355,-33.883453],"type":"Point"}
+  "bbox": [
+    151.160355,
+    -33.883453,
+    151.160355,
+    -33.883453
+],
+  "geometry": {"coordinates":[151.16035500000001,-33.883453],"type":"Point"}
 }

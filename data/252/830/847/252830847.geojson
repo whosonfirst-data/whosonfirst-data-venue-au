@@ -2,13 +2,14 @@
   "id": 252830847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.5755,-32.587807,149.5755,-32.587807",
     "geom:latitude":-32.587807,
     "geom:longitude":149.5755,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5 & 6, 72-78 Market St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252830847,
-    "wof:lastmodified":1449005650,
+    "wof:lastmodified":1466188391,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [149.5755,-32.587807,149.5755,-32.587807],
-  "geometry": {"coordinates":[149.5755,-32.587807],"type":"Point"}
+  "bbox": [
+    149.5755,
+    -32.587807,
+    149.5755,
+    -32.587807
+],
+  "geometry": {"coordinates":[149.57550000000001,-32.587807],"type":"Point"}
 }

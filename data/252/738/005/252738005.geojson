@@ -2,13 +2,14 @@
   "id": 252738005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.705261,-33.342941,115.705261,-33.342941",
     "geom:latitude":-33.342941,
     "geom:longitude":115.705261,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Sutherland Way",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252738005,
-    "wof:lastmodified":1449006194,
+    "wof:lastmodified":1466187414,
     "wof:name":"Geographe Bins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "waste"
     ]
 },
-  "bbox": [115.705261,-33.342941,115.705261,-33.342941],
-  "geometry": {"coordinates":[115.705261,-33.342941],"type":"Point"}
+  "bbox": [
+    115.705261,
+    -33.342941,
+    115.705261,
+    -33.342941
+],
+  "geometry": {"coordinates":[115.70526099999999,-33.342941],"type":"Point"}
 }

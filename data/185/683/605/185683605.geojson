@@ -2,13 +2,14 @@
   "id": 185683605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.246796,-23.444603,144.246796,-23.444603",
     "geom:latitude":-23.444603,
     "geom:longitude":144.246796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Eagle St",
     "sg:city":"Longreach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185683605,
-    "wof:lastmodified":1449007194,
+    "wof:lastmodified":1466188829,
     "wof:name":"Longreach Tyre Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [144.246796,-23.444603,144.246796,-23.444603],
-  "geometry": {"coordinates":[144.246796,-23.444603],"type":"Point"}
+  "bbox": [
+    144.246796,
+    -23.444603,
+    144.246796,
+    -23.444603
+],
+  "geometry": {"coordinates":[144.24679599999999,-23.444603],"type":"Point"}
 }

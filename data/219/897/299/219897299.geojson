@@ -2,13 +2,14 @@
   "id": 219897299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.876663,-34.393131,150.876663,-34.393131",
     "geom:latitude":-34.393131,
     "geom:longitude":150.876663,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 New Mt Pleasant Rd",
     "sg:city":"Balgownie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219897299,
-    "wof:lastmodified":1449073340,
+    "wof:lastmodified":1466191657,
     "wof:name":"Taeo",
     "wof:parent_id":85776059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [150.876663,-34.393131,150.876663,-34.393131],
-  "geometry": {"coordinates":[150.876663,-34.393131],"type":"Point"}
+  "bbox": [
+    150.876663,
+    -34.393131,
+    150.876663,
+    -34.393131
+],
+  "geometry": {"coordinates":[150.87666300000001,-34.393131],"type":"Point"}
 }

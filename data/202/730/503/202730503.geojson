@@ -2,13 +2,14 @@
   "id": 202730503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.638077,-34.786152,138.638077,-34.786152",
     "geom:latitude":-34.786152,
     "geom:longitude":138.638077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 700",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202730503,
-    "wof:lastmodified":1449062256,
+    "wof:lastmodified":1466189410,
     "wof:name":"Twilight Delights",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plan"
     ]
 },
-  "bbox": [138.638077,-34.786152,138.638077,-34.786152],
-  "geometry": {"coordinates":[138.638077,-34.786152],"type":"Point"}
+  "bbox": [
+    138.638077,
+    -34.786152,
+    138.638077,
+    -34.786152
+],
+  "geometry": {"coordinates":[138.63807700000001,-34.786152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169757967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.095184,-27.208904,153.095184,-27.208904",
     "geom:latitude":-27.208904,
     "geom:longitude":153.095184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Courageous Crt",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169757967,
-    "wof:lastmodified":1449034552,
+    "wof:lastmodified":1466188002,
     "wof:name":"Horizon Yachts Australasia Pty Ltd",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [153.095184,-27.208904,153.095184,-27.208904],
-  "geometry": {"coordinates":[153.095184,-27.208904],"type":"Point"}
+  "bbox": [
+    153.095184,
+    -27.208904,
+    153.095184,
+    -27.208904
+],
+  "geometry": {"coordinates":[153.09518399999999,-27.208904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219549797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.975723,-33.913921,150.975723,-33.913921",
     "geom:latitude":-33.913921,
     "geom:longitude":150.975723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Henry Lawson Drv",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219549797,
-    "wof:lastmodified":1449071375,
+    "wof:lastmodified":1466190272,
     "wof:name":"Jag Excavations NSW Pty Ltd",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.975723,-33.913921,150.975723,-33.913921],
-  "geometry": {"coordinates":[150.975723,-33.913921],"type":"Point"}
+  "bbox": [
+    150.975723,
+    -33.913921,
+    150.975723,
+    -33.913921
+],
+  "geometry": {"coordinates":[150.97572299999999,-33.913921],"type":"Point"}
 }

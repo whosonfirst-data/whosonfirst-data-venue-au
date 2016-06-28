@@ -2,13 +2,14 @@
   "id": 202812607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.714417,-32.92329,151.714417,-32.92329",
     "geom:latitude":-32.92329,
     "geom:longitude":151.714417,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cromwell St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202812607,
-    "wof:lastmodified":1449060167,
+    "wof:lastmodified":1466190374,
     "wof:name":"Cathy Weiss Podiatry",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [151.714417,-32.92329,151.714417,-32.92329],
+  "bbox": [
+    151.714417,
+    -32.92329,
+    151.714417,
+    -32.92329
+],
   "geometry": {"coordinates":[151.714417,-32.92329],"type":"Point"}
 }

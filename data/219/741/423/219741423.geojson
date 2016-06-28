@@ -2,13 +2,14 @@
   "id": 219741423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.79744,-19.285244,146.79744,-19.285244",
     "geom:latitude":-19.285244,
     "geom:longitude":146.79744,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Charters Towers Rd",
     "sg:city":"Hermit Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219741423,
-    "wof:lastmodified":1449070567,
+    "wof:lastmodified":1466191348,
     "wof:name":"Canning Greg",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.79744,-19.285244,146.79744,-19.285244],
-  "geometry": {"coordinates":[146.79744,-19.285244],"type":"Point"}
+  "bbox": [
+    146.79744,
+    -19.285244,
+    146.79744,
+    -19.285244
+],
+  "geometry": {"coordinates":[146.79743999999999,-19.285244],"type":"Point"}
 }

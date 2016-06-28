@@ -2,13 +2,14 @@
   "id": 203129641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.672081,-32.567192,115.672081,-32.567192",
     "geom:latitude":-32.567192,
     "geom:longitude":115.672081,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lyalta St",
     "sg:city":"Falcon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203129641,
-    "wof:lastmodified":1449026470,
+    "wof:lastmodified":1466189507,
     "wof:name":"Koster M J",
     "wof:parent_id":85770815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [115.672081,-32.567192,115.672081,-32.567192],
-  "geometry": {"coordinates":[115.672081,-32.567192],"type":"Point"}
+  "bbox": [
+    115.672081,
+    -32.567192,
+    115.672081,
+    -32.567192
+],
+  "geometry": {"coordinates":[115.67208100000001,-32.567192],"type":"Point"}
 }

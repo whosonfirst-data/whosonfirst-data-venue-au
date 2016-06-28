@@ -2,13 +2,14 @@
   "id": 186317285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.999519,-31.800066,115.999519,-31.800066",
     "geom:latitude":-31.800066,
     "geom:longitude":115.999519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 West Swan Rd",
     "sg:city":"Henley Brook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186317285,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466187909,
     "wof:name":"Woodbridge Thoroughbreds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stud"
     ]
 },
-  "bbox": [115.999519,-31.800066,115.999519,-31.800066],
-  "geometry": {"coordinates":[115.999519,-31.800066],"type":"Point"}
+  "bbox": [
+    115.999519,
+    -31.800066,
+    115.999519,
+    -31.800066
+],
+  "geometry": {"coordinates":[115.99951900000001,-31.800066],"type":"Point"}
 }

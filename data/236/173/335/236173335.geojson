@@ -2,13 +2,14 @@
   "id": 236173335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.888107,-37.6735,144.888107,-37.6735",
     "geom:latitude":-37.6735,
     "geom:longitude":144.888107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Ardlie St (off Mickleham Rd)",
     "sg:city":"Attwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236173335,
-    "wof:lastmodified":1449002155,
+    "wof:lastmodified":1466189782,
     "wof:name":"Airport Motel & Convention Centre",
     "wof:parent_id":85777801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.888107,-37.6735,144.888107,-37.6735],
-  "geometry": {"coordinates":[144.888107,-37.6735],"type":"Point"}
+  "bbox": [
+    144.888107,
+    -37.6735,
+    144.888107,
+    -37.6735
+],
+  "geometry": {"coordinates":[144.88810699999999,-37.6735],"type":"Point"}
 }

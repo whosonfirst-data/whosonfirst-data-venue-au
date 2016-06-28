@@ -2,13 +2,14 @@
   "id": 202646813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031036,-27.402214,153.031036,-27.402214",
     "geom:latitude":-27.402214,
     "geom:longitude":153.031036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Wallin St",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202646813,
-    "wof:lastmodified":1449060043,
+    "wof:lastmodified":1466187822,
     "wof:name":"Jungle Imports",
     "wof:parent_id":85774043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [153.031036,-27.402214,153.031036,-27.402214],
+  "bbox": [
+    153.031036,
+    -27.402214,
+    153.031036,
+    -27.402214
+],
   "geometry": {"coordinates":[153.031036,-27.402214],"type":"Point"}
 }

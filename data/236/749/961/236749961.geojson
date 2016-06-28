@@ -2,13 +2,14 @@
   "id": 236749961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.908249,-27.105022,152.908249,-27.105022",
     "geom:latitude":-27.105022,
     "geom:longitude":152.908249,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Caboolture River Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236749961,
-    "wof:lastmodified":1449002410,
+    "wof:lastmodified":1466191993,
     "wof:name":"Abbey Gardens",
     "wof:parent_id":85770515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [152.908249,-27.105022,152.908249,-27.105022],
-  "geometry": {"coordinates":[152.908249,-27.105022],"type":"Point"}
+  "bbox": [
+    152.908249,
+    -27.105022,
+    152.908249,
+    -27.105022
+],
+  "geometry": {"coordinates":[152.90824900000001,-27.105022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252766069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.833557,-41.454018,146.833557,-41.454018",
     "geom:latitude":-41.454018,
     "geom:longitude":146.833557,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"943 Birralee Rd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252766069,
-    "wof:lastmodified":1449005389,
+    "wof:lastmodified":1466187845,
     "wof:name":"Stemic Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.833557,-41.454018,146.833557,-41.454018],
-  "geometry": {"coordinates":[146.833557,-41.454018],"type":"Point"}
+  "bbox": [
+    146.833557,
+    -41.454018,
+    146.833557,
+    -41.454018
+],
+  "geometry": {"coordinates":[146.83355700000001,-41.454018],"type":"Point"}
 }

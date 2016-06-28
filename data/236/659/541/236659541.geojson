@@ -2,13 +2,14 @@
   "id": 236659541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.117462,-33.976505,151.117462,-33.976505",
     "geom:latitude":-33.976505,
     "geom:longitude":151.117462,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 40 Planthurst Rd",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236659541,
-    "wof:lastmodified":1449001941,
+    "wof:lastmodified":1466191850,
     "wof:name":"D F Eastern Trading",
     "wof:parent_id":85768883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [151.117462,-33.976505,151.117462,-33.976505],
-  "geometry": {"coordinates":[151.117462,-33.976505],"type":"Point"}
+  "bbox": [
+    151.117462,
+    -33.976505,
+    151.117462,
+    -33.976505
+],
+  "geometry": {"coordinates":[151.11746199999999,-33.976505],"type":"Point"}
 }

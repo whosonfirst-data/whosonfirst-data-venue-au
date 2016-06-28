@@ -2,13 +2,14 @@
   "id": 202420059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.935959,-37.834064,144.935959,-37.834064",
     "geom:latitude":-37.834064,
     "geom:longitude":144.935959,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Clark St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202420059,
-    "wof:lastmodified":1449061341,
+    "wof:lastmodified":1466188129,
     "wof:name":"Design Habitat",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.935959,-37.834064,144.935959,-37.834064],
+  "bbox": [
+    144.935959,
+    -37.834064,
+    144.935959,
+    -37.834064
+],
   "geometry": {"coordinates":[144.935959,-37.834064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202711253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.027176,-27.348154,153.027176,-27.348154",
     "geom:latitude":-27.348154,
     "geom:longitude":153.027176,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 / 521 Beams Road, Clock Corner",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202711253,
-    "wof:lastmodified":1449062202,
+    "wof:lastmodified":1466189049,
     "wof:name":"Elva Pty. Ltd.",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.027176,-27.348154,153.027176,-27.348154],
+  "bbox": [
+    153.027176,
+    -27.348154,
+    153.027176,
+    -27.348154
+],
   "geometry": {"coordinates":[153.027176,-27.348154],"type":"Point"}
 }

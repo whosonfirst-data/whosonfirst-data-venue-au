@@ -2,13 +2,14 @@
   "id": 203360099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.845428,-37.560833,143.845428,-37.560833",
     "geom:latitude":-37.560833,
     "geom:longitude":143.845428,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203360099,
-    "wof:lastmodified":1449026398,
+    "wof:lastmodified":1466188855,
     "wof:name":"Williams T R",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [143.845428,-37.560833,143.845428,-37.560833],
+  "bbox": [
+    143.845428,
+    -37.560833,
+    143.845428,
+    -37.560833
+],
   "geometry": {"coordinates":[143.845428,-37.560833],"type":"Point"}
 }

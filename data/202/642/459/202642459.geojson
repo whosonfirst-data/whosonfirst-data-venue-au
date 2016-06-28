@@ -2,13 +2,14 @@
   "id": 202642459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.961426,-38.018578,145.961426,-38.018578",
     "geom:latitude":-38.018578,
     "geom:longitude":145.961426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Queen St",
     "sg:city":"Neerim South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202642459,
-    "wof:lastmodified":1449060257,
+    "wof:lastmodified":1466187751,
     "wof:name":"Marks Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.961426,-38.018578,145.961426,-38.018578],
-  "geometry": {"coordinates":[145.961426,-38.018578],"type":"Point"}
+  "bbox": [
+    145.961426,
+    -38.018578,
+    145.961426,
+    -38.018578
+],
+  "geometry": {"coordinates":[145.96142599999999,-38.018578],"type":"Point"}
 }

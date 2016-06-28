@@ -2,13 +2,14 @@
   "id": 202518755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.162857,-38.097553,145.162857,-38.097553",
     "geom:latitude":-38.097553,
     "geom:longitude":145.162857,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Brett Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202518755,
-    "wof:lastmodified":1449061532,
+    "wof:lastmodified":1466189745,
     "wof:name":"General Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toolmaker"
     ]
 },
-  "bbox": [145.162857,-38.097553,145.162857,-38.097553],
+  "bbox": [
+    145.162857,
+    -38.097553,
+    145.162857,
+    -38.097553
+],
   "geometry": {"coordinates":[145.162857,-38.097553],"type":"Point"}
 }

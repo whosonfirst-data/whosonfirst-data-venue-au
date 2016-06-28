@@ -2,13 +2,14 @@
   "id": 185831749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.826889,-25.282785,152.826889,-25.282785",
     "geom:latitude":-25.282785,
     "geom:longitude":152.826889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Old Maryborough Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185831749,
-    "wof:lastmodified":1449007556,
+    "wof:lastmodified":1466187112,
     "wof:name":"Coastline Caravans Hervey Bay",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [152.826889,-25.282785,152.826889,-25.282785],
-  "geometry": {"coordinates":[152.826889,-25.282785],"type":"Point"}
+  "bbox": [
+    152.826889,
+    -25.282785,
+    152.826889,
+    -25.282785
+],
+  "geometry": {"coordinates":[152.82688899999999,-25.282785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185880257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.709747,-25.509373,152.709747,-25.509373",
     "geom:latitude":-25.509373,
     "geom:longitude":152.709747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Saltwater Creek Rd",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185880257,
-    "wof:lastmodified":1449008220,
+    "wof:lastmodified":1466187675,
     "wof:name":"Griffiths C J",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [152.709747,-25.509373,152.709747,-25.509373],
-  "geometry": {"coordinates":[152.709747,-25.509373],"type":"Point"}
+  "bbox": [
+    152.709747,
+    -25.509373,
+    152.709747,
+    -25.509373
+],
+  "geometry": {"coordinates":[152.70974699999999,-25.509373],"type":"Point"}
 }

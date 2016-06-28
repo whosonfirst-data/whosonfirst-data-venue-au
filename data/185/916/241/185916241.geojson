@@ -2,13 +2,14 @@
   "id": 185916241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.543365,-33.264244,151.543365,-33.264244",
     "geom:latitude":-33.264244,
     "geom:longitude":151.543365,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"233b Main Rd",
     "sg:city":"Toukley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185916241,
-    "wof:lastmodified":1449007495,
+    "wof:lastmodified":1466188212,
     "wof:name":"Brian Groth And Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "doors"
     ]
 },
-  "bbox": [151.543365,-33.264244,151.543365,-33.264244],
-  "geometry": {"coordinates":[151.543365,-33.264244],"type":"Point"}
+  "bbox": [
+    151.543365,
+    -33.264244,
+    151.543365,
+    -33.264244
+],
+  "geometry": {"coordinates":[151.54336499999999,-33.264244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186312227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.850906,-30.647587,152.850906,-30.647587",
     "geom:latitude":-30.647587,
     "geom:longitude":152.850906,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Coronation St",
     "sg:city":"Bowraville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186312227,
-    "wof:lastmodified":1449051726,
+    "wof:lastmodified":1466187855,
     "wof:name":"Bowraville Community Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [152.850906,-30.647587,152.850906,-30.647587],
-  "geometry": {"coordinates":[152.850906,-30.647587],"type":"Point"}
+  "bbox": [
+    152.850906,
+    -30.647587,
+    152.850906,
+    -30.647587
+],
+  "geometry": {"coordinates":[152.85090600000001,-30.647587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203105209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.649689,-32.595459,115.649689,-32.595459",
     "geom:latitude":-32.595459,
     "geom:longitude":115.649689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Old Coast Rd",
     "sg:city":"Wannanup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203105209,
-    "wof:lastmodified":1449025642,
+    "wof:lastmodified":1466189131,
     "wof:name":"Waratah Community Village The",
     "wof:parent_id":85780149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [115.649689,-32.595459,115.649689,-32.595459],
+  "bbox": [
+    115.649689,
+    -32.595459,
+    115.649689,
+    -32.595459
+],
   "geometry": {"coordinates":[115.649689,-32.595459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235997659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.73114,-36.954624,140.73114,-36.954624",
     "geom:latitude":-36.954624,
     "geom:longitude":140.73114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"McDonnell St",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235997659,
-    "wof:lastmodified":1449008538,
+    "wof:lastmodified":1466187655,
     "wof:name":"The Sheeps Back Wool Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [140.73114,-36.954624,140.73114,-36.954624],
-  "geometry": {"coordinates":[140.73114,-36.954624],"type":"Point"}
+  "bbox": [
+    140.73114,
+    -36.954624,
+    140.73114,
+    -36.954624
+],
+  "geometry": {"coordinates":[140.73114000000001,-36.954624],"type":"Point"}
 }

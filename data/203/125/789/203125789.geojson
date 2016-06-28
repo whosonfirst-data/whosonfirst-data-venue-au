@@ -2,13 +2,14 @@
   "id": 203125789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.701508,-32.525105,115.701508,-32.525105",
     "geom:latitude":-32.525105,
     "geom:longitude":115.701508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Shayne St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203125789,
-    "wof:lastmodified":1449026805,
+    "wof:lastmodified":1466189459,
     "wof:name":"Peel Private Investigations",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [115.701508,-32.525105,115.701508,-32.525105],
+  "bbox": [
+    115.701508,
+    -32.525105,
+    115.701508,
+    -32.525105
+],
   "geometry": {"coordinates":[115.701508,-32.525105],"type":"Point"}
 }

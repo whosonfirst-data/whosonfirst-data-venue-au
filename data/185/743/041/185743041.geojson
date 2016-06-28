@@ -2,13 +2,14 @@
   "id": 185743041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.082901,-32.733349,152.082901,-32.733349",
     "geom:latitude":-32.733349,
     "geom:longitude":152.082901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 253 Soldiers Point Rd",
     "sg:city":"Salamander Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185743041,
-    "wof:lastmodified":1449008191,
+    "wof:lastmodified":1466190008,
     "wof:name":"Salamander Bay Laundrette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.082901,-32.733349,152.082901,-32.733349],
-  "geometry": {"coordinates":[152.082901,-32.733349],"type":"Point"}
+  "bbox": [
+    152.082901,
+    -32.733349,
+    152.082901,
+    -32.733349
+],
+  "geometry": {"coordinates":[152.08290099999999,-32.733349],"type":"Point"}
 }

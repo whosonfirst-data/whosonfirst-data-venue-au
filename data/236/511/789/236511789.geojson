@@ -2,13 +2,14 @@
   "id": 236511789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.172913,-32.561886,151.172913,-32.561886",
     "geom:latitude":-32.561886,
     "geom:longitude":151.172913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 3033",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236511789,
-    "wof:lastmodified":1449003119,
+    "wof:lastmodified":1466191328,
     "wof:name":"Hunter Premium Lubricants",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [151.172913,-32.561886,151.172913,-32.561886],
-  "geometry": {"coordinates":[151.172913,-32.561886],"type":"Point"}
+  "bbox": [
+    151.172913,
+    -32.561886,
+    151.172913,
+    -32.561886
+],
+  "geometry": {"coordinates":[151.17291299999999,-32.561886],"type":"Point"}
 }

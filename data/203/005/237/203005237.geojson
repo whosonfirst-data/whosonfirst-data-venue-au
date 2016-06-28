@@ -2,13 +2,14 @@
   "id": 203005237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.484695,-20.731632,139.484695,-20.731632",
     "geom:latitude":-20.731632,
     "geom:longitude":139.484695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Railway Ave",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203005237,
-    "wof:lastmodified":1449026709,
+    "wof:lastmodified":1466187095,
     "wof:name":"Daintree Fruit Farm",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [139.484695,-20.731632,139.484695,-20.731632],
-  "geometry": {"coordinates":[139.484695,-20.731632],"type":"Point"}
+  "bbox": [
+    139.484695,
+    -20.731632,
+    139.484695,
+    -20.731632
+],
+  "geometry": {"coordinates":[139.48469499999999,-20.731632],"type":"Point"}
 }

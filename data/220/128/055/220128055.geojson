@@ -2,13 +2,14 @@
   "id": 220128055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.414352,-38.167534,144.414352,-38.167534",
     "geom:latitude":-38.167534,
     "geom:longitude":144.414352,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Albert St",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220128055,
-    "wof:lastmodified":1449074346,
+    "wof:lastmodified":1466188228,
     "wof:name":"Macs Action Vehicles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "transporting"
     ]
 },
-  "bbox": [144.414352,-38.167534,144.414352,-38.167534],
-  "geometry": {"coordinates":[144.414352,-38.167534],"type":"Point"}
+  "bbox": [
+    144.414352,
+    -38.167534,
+    144.414352,
+    -38.167534
+],
+  "geometry": {"coordinates":[144.41435200000001,-38.167534],"type":"Point"}
 }

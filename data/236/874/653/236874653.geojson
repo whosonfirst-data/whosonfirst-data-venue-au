@@ -2,13 +2,14 @@
   "id": 236874653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.223114,-35.302521,148.223114,-35.302521",
     "geom:latitude":-35.302521,
     "geom:longitude":148.223114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Russell St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236874653,
-    "wof:lastmodified":1449004995,
+    "wof:lastmodified":1466192067,
     "wof:name":"Tumut Star Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [148.223114,-35.302521,148.223114,-35.302521],
-  "geometry": {"coordinates":[148.223114,-35.302521],"type":"Point"}
+  "bbox": [
+    148.223114,
+    -35.302521,
+    148.223114,
+    -35.302521
+],
+  "geometry": {"coordinates":[148.22311400000001,-35.302521],"type":"Point"}
 }

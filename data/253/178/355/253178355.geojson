@@ -2,13 +2,14 @@
   "id": 253178355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.928604,-27.586323,151.928604,-27.586323",
     "geom:latitude":-27.586323,
     "geom:longitude":151.928604,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 133",
     "sg:city":"Smithfield Shoppng Cntr Cnr Kennedy & Cook Hw",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253178355,
-    "wof:lastmodified":1449064956,
+    "wof:lastmodified":1466190069,
     "wof:name":"Lowes Menswear",
     "wof:parent_id":85780331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [151.928604,-27.586323,151.928604,-27.586323],
-  "geometry": {"coordinates":[151.928604,-27.586323],"type":"Point"}
+  "bbox": [
+    151.928604,
+    -27.586323,
+    151.928604,
+    -27.586323
+],
+  "geometry": {"coordinates":[151.92860400000001,-27.586323],"type":"Point"}
 }

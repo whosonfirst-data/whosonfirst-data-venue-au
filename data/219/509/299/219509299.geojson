@@ -2,13 +2,14 @@
   "id": 219509299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.131607,-33.914612,151.131607,-33.914612",
     "geom:latitude":-33.914612,
     "geom:longitude":151.131607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Tennent Pde",
     "sg:city":"Hurlstone Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219509299,
-    "wof:lastmodified":1449070518,
+    "wof:lastmodified":1466189689,
     "wof:name":"The Bellevue Riverside",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [151.131607,-33.914612,151.131607,-33.914612],
+  "bbox": [
+    151.131607,
+    -33.914612,
+    151.131607,
+    -33.914612
+],
   "geometry": {"coordinates":[151.131607,-33.914612],"type":"Point"}
 }

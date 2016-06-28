@@ -2,13 +2,14 @@
   "id": 202501979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040512,-37.924099,145.040512,-37.924099",
     "geom:latitude":-37.924099,
     "geom:longitude":145.040512,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Jasper Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202501979,
-    "wof:lastmodified":1449062671,
+    "wof:lastmodified":1466189549,
     "wof:name":"Baptcare",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aged"
     ]
 },
-  "bbox": [145.040512,-37.924099,145.040512,-37.924099],
-  "geometry": {"coordinates":[145.040512,-37.924099],"type":"Point"}
+  "bbox": [
+    145.040512,
+    -37.924099,
+    145.040512,
+    -37.924099
+],
+  "geometry": {"coordinates":[145.04051200000001,-37.924099],"type":"Point"}
 }

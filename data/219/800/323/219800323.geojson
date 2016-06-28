@@ -2,13 +2,14 @@
   "id": 219800323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.420563,-20.003567,146.420563,-20.003567",
     "geom:latitude":-20.003567,
     "geom:longitude":146.420563,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Flinders Hwy",
     "sg:city":"Sellheim",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219800323,
-    "wof:lastmodified":1449070666,
+    "wof:lastmodified":1466191386,
     "wof:name":"Burdekin Duck Service Station & Van Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.420563,-20.003567,146.420563,-20.003567],
-  "geometry": {"coordinates":[146.420563,-20.003567],"type":"Point"}
+  "bbox": [
+    146.420563,
+    -20.003567,
+    146.420563,
+    -20.003567
+],
+  "geometry": {"coordinates":[146.42056299999999,-20.003567],"type":"Point"}
 }

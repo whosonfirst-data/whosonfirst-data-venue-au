@@ -2,13 +2,14 @@
   "id": 202421409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.937088,-37.8325,144.937088,-37.8325",
     "geom:latitude":-37.8325,
     "geom:longitude":144.937088,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 473 Williamstown Rd",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202421409,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466188154,
     "wof:name":"Kegs On Legs",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hire"
     ]
 },
-  "bbox": [144.937088,-37.8325,144.937088,-37.8325],
-  "geometry": {"coordinates":[144.937088,-37.8325],"type":"Point"}
+  "bbox": [
+    144.937088,
+    -37.8325,
+    144.937088,
+    -37.8325
+],
+  "geometry": {"coordinates":[144.93708799999999,-37.8325],"type":"Point"}
 }

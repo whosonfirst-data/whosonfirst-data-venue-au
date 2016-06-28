@@ -2,13 +2,14 @@
   "id": 252853367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.532944,-32.362679,149.532944,-32.362679",
     "geom:latitude":-32.362679,
     "geom:longitude":149.532944,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Mayne St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252853367,
-    "wof:lastmodified":1449005848,
+    "wof:lastmodified":1466188578,
     "wof:name":"Caterson G J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [149.532944,-32.362679,149.532944,-32.362679],
-  "geometry": {"coordinates":[149.532944,-32.362679],"type":"Point"}
+  "bbox": [
+    149.532944,
+    -32.362679,
+    149.532944,
+    -32.362679
+],
+  "geometry": {"coordinates":[149.53294399999999,-32.362679],"type":"Point"}
 }

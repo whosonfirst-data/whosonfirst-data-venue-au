@@ -2,13 +2,14 @@
   "id": 253166471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952179,-27.561741,151.952179,-27.561741",
     "geom:latitude":-27.561741,
     "geom:longitude":151.952179,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hopetoun House, 4 Duggan St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253166471,
-    "wof:lastmodified":1449064480,
+    "wof:lastmodified":1466189914,
     "wof:name":"Family Planning Queensland (FPQ)",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [151.952179,-27.561741,151.952179,-27.561741],
+  "bbox": [
+    151.952179,
+    -27.561741,
+    151.952179,
+    -27.561741
+],
   "geometry": {"coordinates":[151.952179,-27.561741],"type":"Point"}
 }

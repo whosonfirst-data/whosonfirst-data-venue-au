@@ -2,13 +2,14 @@
   "id": 185724735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.014267,-32.727287,152.014267,-32.727287",
     "geom:latitude":-32.727287,
     "geom:longitude":152.014267,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bay St",
     "sg:city":"Mallabula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185724735,
-    "wof:lastmodified":1449008156,
+    "wof:lastmodified":1466189370,
     "wof:name":"Wild About Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [152.014267,-32.727287,152.014267,-32.727287],
-  "geometry": {"coordinates":[152.014267,-32.727287],"type":"Point"}
+  "bbox": [
+    152.014267,
+    -32.727287,
+    152.014267,
+    -32.727287
+],
+  "geometry": {"coordinates":[152.01426699999999,-32.727287],"type":"Point"}
 }

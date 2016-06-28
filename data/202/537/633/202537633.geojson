@@ -2,13 +2,14 @@
   "id": 202537633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.155838,-38.123211,145.155838,-38.123211",
     "geom:latitude":-38.123211,
     "geom:longitude":145.155838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Ribbon Crt",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202537633,
-    "wof:lastmodified":1449060745,
+    "wof:lastmodified":1466189867,
     "wof:name":"Australian College of Clinical Hypnotherapy The",
     "wof:parent_id":85776451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [145.155838,-38.123211,145.155838,-38.123211],
-  "geometry": {"coordinates":[145.155838,-38.123211],"type":"Point"}
+  "bbox": [
+    145.155838,
+    -38.123211,
+    145.155838,
+    -38.123211
+],
+  "geometry": {"coordinates":[145.15583799999999,-38.123211],"type":"Point"}
 }

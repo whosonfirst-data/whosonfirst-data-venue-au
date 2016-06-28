@@ -2,13 +2,14 @@
   "id": 203350699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.870514,-37.571785,143.870514,-37.571785",
     "geom:latitude":-37.571785,
     "geom:longitude":143.870514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Main Rd",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203350699,
-    "wof:lastmodified":1449025893,
+    "wof:lastmodified":1466188688,
     "wof:name":"Hair&#039;Itage",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [143.870514,-37.571785,143.870514,-37.571785],
-  "geometry": {"coordinates":[143.870514,-37.571785],"type":"Point"}
+  "bbox": [
+    143.870514,
+    -37.571785,
+    143.870514,
+    -37.571785
+],
+  "geometry": {"coordinates":[143.87051399999999,-37.571785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203085835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.929031,-32.854908,115.929031,-32.854908",
     "geom:latitude":-32.854908,
     "geom:longitude":115.929031,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 McLarty St",
     "sg:city":"Waroona",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203085835,
-    "wof:lastmodified":1449025390,
+    "wof:lastmodified":1466188827,
     "wof:name":"Keith Landwehr & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.929031,-32.854908,115.929031,-32.854908],
-  "geometry": {"coordinates":[115.929031,-32.854908],"type":"Point"}
+  "bbox": [
+    115.929031,
+    -32.854908,
+    115.929031,
+    -32.854908
+],
+  "geometry": {"coordinates":[115.92903099999999,-32.854908],"type":"Point"}
 }

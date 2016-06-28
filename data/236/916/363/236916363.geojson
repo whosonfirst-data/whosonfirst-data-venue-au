@@ -2,13 +2,14 @@
   "id": 236916363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.518356,-34.990475,138.518356,-34.990475",
     "geom:latitude":-34.990475,
     "geom:longitude":138.518356,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Bath St",
     "sg:city":"Glenelg South",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236916363,
-    "wof:lastmodified":1449003467,
+    "wof:lastmodified":1466192114,
     "wof:name":"Elders Real Estate Glenelg",
     "wof:parent_id":85777499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.518356,-34.990475,138.518356,-34.990475],
-  "geometry": {"coordinates":[138.518356,-34.990475],"type":"Point"}
+  "bbox": [
+    138.518356,
+    -34.990475,
+    138.518356,
+    -34.990475
+],
+  "geometry": {"coordinates":[138.51835600000001,-34.990475],"type":"Point"}
 }

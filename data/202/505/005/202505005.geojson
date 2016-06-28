@@ -2,13 +2,14 @@
   "id": 202505005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.084793,-37.95306,145.084793,-37.95306",
     "geom:latitude":-37.95306,
     "geom:longitude":145.084793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Enid Crt",
     "sg:city":"Heatherton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202505005,
-    "wof:lastmodified":1449062242,
+    "wof:lastmodified":1466190011,
     "wof:name":"Quality Technologies Pty Ltd",
     "wof:parent_id":85771461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "assurance"
     ]
 },
-  "bbox": [145.084793,-37.95306,145.084793,-37.95306],
-  "geometry": {"coordinates":[145.084793,-37.95306],"type":"Point"}
+  "bbox": [
+    145.084793,
+    -37.95306,
+    145.084793,
+    -37.95306
+],
+  "geometry": {"coordinates":[145.08479299999999,-37.95306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236456417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.166611,-21.181351,149.166611,-21.181351",
     "geom:latitude":-21.181351,
     "geom:longitude":149.166611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45A Michelmore St",
     "sg:city":"Paget",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236456417,
-    "wof:lastmodified":1449002459,
+    "wof:lastmodified":1466191361,
     "wof:name":"Steel Central Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchant"
     ]
 },
-  "bbox": [149.166611,-21.181351,149.166611,-21.181351],
-  "geometry": {"coordinates":[149.166611,-21.181351],"type":"Point"}
+  "bbox": [
+    149.166611,
+    -21.181351,
+    149.166611,
+    -21.181351
+],
+  "geometry": {"coordinates":[149.16661099999999,-21.181351],"type":"Point"}
 }

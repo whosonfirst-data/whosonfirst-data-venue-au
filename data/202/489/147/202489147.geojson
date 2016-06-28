@@ -2,13 +2,14 @@
   "id": 202489147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041763,-37.904282,145.041763,-37.904282",
     "geom:latitude":-37.904282,
     "geom:longitude":145.041763,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 5A 600 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202489147,
-    "wof:lastmodified":1449061499,
+    "wof:lastmodified":1466189388,
     "wof:name":"Sokolski Consulting Group Pty Ltd",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.041763,-37.904282,145.041763,-37.904282],
+  "bbox": [
+    145.041763,
+    -37.904282,
+    145.041763,
+    -37.904282
+],
   "geometry": {"coordinates":[145.041763,-37.904282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219842021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.807823,-31.984711,115.807823,-31.984711",
     "geom:latitude":-31.984711,
     "geom:longitude":115.807823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 503 Nedlands 6909",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219842021,
-    "wof:lastmodified":1449070647,
+    "wof:lastmodified":1466191598,
     "wof:name":"BAWA",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bridge"
     ]
 },
-  "bbox": [115.807823,-31.984711,115.807823,-31.984711],
+  "bbox": [
+    115.807823,
+    -31.984711,
+    115.807823,
+    -31.984711
+],
   "geometry": {"coordinates":[115.807823,-31.984711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185806927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.517654,-37.653584,145.517654,-37.653584",
     "geom:latitude":-37.653584,
     "geom:longitude":145.517654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Maroondah Hwy",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185806927,
-    "wof:lastmodified":1449006591,
+    "wof:lastmodified":1466189949,
     "wof:name":"Bakers Delight Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [145.517654,-37.653584,145.517654,-37.653584],
-  "geometry": {"coordinates":[145.517654,-37.653584],"type":"Point"}
+  "bbox": [
+    145.517654,
+    -37.653584,
+    145.517654,
+    -37.653584
+],
+  "geometry": {"coordinates":[145.51765399999999,-37.653584],"type":"Point"}
 }

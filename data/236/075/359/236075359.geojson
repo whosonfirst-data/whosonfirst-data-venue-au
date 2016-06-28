@@ -2,13 +2,14 @@
   "id": 236075359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.777145,-37.69886,144.777145,-37.69886",
     "geom:latitude":-37.69886,
     "geom:longitude":144.777145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Brimbank Shopping Centre 399 Melton Hwy",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236075359,
-    "wof:lastmodified":1449003441,
+    "wof:lastmodified":1466188130,
     "wof:name":"Bonaman Menswear",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [144.777145,-37.69886,144.777145,-37.69886],
-  "geometry": {"coordinates":[144.777145,-37.69886],"type":"Point"}
+  "bbox": [
+    144.777145,
+    -37.69886,
+    144.777145,
+    -37.69886
+],
+  "geometry": {"coordinates":[144.77714499999999,-37.69886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253080955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.800797,-37.741962,144.800797,-37.741962",
     "geom:latitude":-37.741962,
     "geom:longitude":144.800797,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Alfrieda St",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253080955,
-    "wof:lastmodified":1449065721,
+    "wof:lastmodified":1466188380,
     "wof:name":"Bout Vinetta",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [144.800797,-37.741962,144.800797,-37.741962],
-  "geometry": {"coordinates":[144.800797,-37.741962],"type":"Point"}
+  "bbox": [
+    144.800797,
+    -37.741962,
+    144.800797,
+    -37.741962
+],
+  "geometry": {"coordinates":[144.80079699999999,-37.741962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185629211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.912811,-32.067036,115.912811,-32.067036",
     "geom:latitude":-32.067036,
     "geom:longitude":115.912811,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 28 Baile Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185629211,
-    "wof:lastmodified":1449007854,
+    "wof:lastmodified":1466187792,
     "wof:name":"StonCor",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "flooring"
     ]
 },
-  "bbox": [115.912811,-32.067036,115.912811,-32.067036],
+  "bbox": [
+    115.912811,
+    -32.067036,
+    115.912811,
+    -32.067036
+],
   "geometry": {"coordinates":[115.912811,-32.067036],"type":"Point"}
 }

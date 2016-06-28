@@ -2,13 +2,14 @@
   "id": 202683565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.975403,-27.367363,152.975403,-27.367363",
     "geom:latitude":-27.367363,
     "geom:longitude":152.975403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Listonia Drv",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202683565,
-    "wof:lastmodified":1449061046,
+    "wof:lastmodified":1466188526,
     "wof:name":"Holmes Mobile Auto Electrics",
     "wof:parent_id":85774013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [152.975403,-27.367363,152.975403,-27.367363],
+  "bbox": [
+    152.975403,
+    -27.367363,
+    152.975403,
+    -27.367363
+],
   "geometry": {"coordinates":[152.975403,-27.367363],"type":"Point"}
 }

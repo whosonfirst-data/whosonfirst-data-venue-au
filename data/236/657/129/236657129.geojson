@@ -2,13 +2,14 @@
   "id": 236657129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.123718,-33.967777,151.123718,-33.967777",
     "geom:latitude":-33.967777,
     "geom:longitude":151.123718,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 1 Short St",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236657129,
-    "wof:lastmodified":1449001954,
+    "wof:lastmodified":1466191783,
     "wof:name":"St George Prosthetic Services",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [151.123718,-33.967777,151.123718,-33.967777],
+  "bbox": [
+    151.123718,
+    -33.967777,
+    151.123718,
+    -33.967777
+],
   "geometry": {"coordinates":[151.123718,-33.967777],"type":"Point"}
 }

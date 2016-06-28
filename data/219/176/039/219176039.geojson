@@ -2,13 +2,14 @@
   "id": 219176039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.054108,-27.420216,153.054108,-27.420216",
     "geom:latitude":-27.420216,
     "geom:longitude":153.054108,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 London Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219176039,
-    "wof:lastmodified":1449072685,
+    "wof:lastmodified":1466189822,
     "wof:name":"Chiron Therapeutic Homes",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [153.054108,-27.420216,153.054108,-27.420216],
-  "geometry": {"coordinates":[153.054108,-27.420216],"type":"Point"}
+  "bbox": [
+    153.054108,
+    -27.420216,
+    153.054108,
+    -27.420216
+],
+  "geometry": {"coordinates":[153.05410800000001,-27.420216],"type":"Point"}
 }

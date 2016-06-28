@@ -2,13 +2,14 @@
   "id": 219515883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.101486,-33.919575,151.101486,-33.919575",
     "geom:latitude":-33.919575,
     "geom:longitude":151.101486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"488 Canterbury Rd",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219515883,
-    "wof:lastmodified":1449071214,
+    "wof:lastmodified":1466189813,
     "wof:name":"Chu Thomas Centre For Dominic House",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [151.101486,-33.919575,151.101486,-33.919575],
-  "geometry": {"coordinates":[151.101486,-33.919575],"type":"Point"}
+  "bbox": [
+    151.101486,
+    -33.919575,
+    151.101486,
+    -33.919575
+],
+  "geometry": {"coordinates":[151.10148599999999,-33.919575],"type":"Point"}
 }

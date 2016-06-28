@@ -2,13 +2,14 @@
   "id": 186523963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.892723,-31.929548,115.892723,-31.929548",
     "geom:latitude":-31.929548,
     "geom:longitude":115.892723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57a Eighth Ave",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186523963,
-    "wof:lastmodified":1449051929,
+    "wof:lastmodified":1466190711,
     "wof:name":"White Eagle Travel",
     "wof:parent_id":85769691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.892723,-31.929548,115.892723,-31.929548],
+  "bbox": [
+    115.892723,
+    -31.929548,
+    115.892723,
+    -31.929548
+],
   "geometry": {"coordinates":[115.892723,-31.929548],"type":"Point"}
 }

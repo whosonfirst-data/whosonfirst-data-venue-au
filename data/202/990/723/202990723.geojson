@@ -2,13 +2,14 @@
   "id": 202990723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.753464,-36.068329,146.753464,-36.068329",
     "geom:latitude":-36.068329,
     "geom:longitude":146.753464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Davy Rd",
     "sg:city":"Barnawartha North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202990723,
-    "wof:lastmodified":1449061786,
+    "wof:lastmodified":1466191230,
     "wof:name":"Davy Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [146.753464,-36.068329,146.753464,-36.068329],
-  "geometry": {"coordinates":[146.753464,-36.068329],"type":"Point"}
+  "bbox": [
+    146.753464,
+    -36.068329,
+    146.753464,
+    -36.068329
+],
+  "geometry": {"coordinates":[146.75346400000001,-36.068329],"type":"Point"}
 }

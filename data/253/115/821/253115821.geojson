@@ -2,13 +2,14 @@
   "id": 253115821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.831985,-37.760376,144.831985,-37.760376",
     "geom:latitude":-37.760376,
     "geom:longitude":144.831985,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"150- 152 Mclntyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253115821,
-    "wof:lastmodified":1449062805,
+    "wof:lastmodified":1466189053,
     "wof:name":"MAZ Auto Recycler",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recyclers"
     ]
 },
-  "bbox": [144.831985,-37.760376,144.831985,-37.760376],
+  "bbox": [
+    144.831985,
+    -37.760376,
+    144.831985,
+    -37.760376
+],
   "geometry": {"coordinates":[144.831985,-37.760376],"type":"Point"}
 }

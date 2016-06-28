@@ -2,13 +2,14 @@
   "id": 186605305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.070709,-34.286587,146.070709,-34.286587",
     "geom:latitude":-34.286587,
     "geom:longitude":146.070709,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Turnell St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186605305,
-    "wof:lastmodified":1449051677,
+    "wof:lastmodified":1466190927,
     "wof:name":"Towns Bill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wallcovering"
     ]
 },
-  "bbox": [146.070709,-34.286587,146.070709,-34.286587],
-  "geometry": {"coordinates":[146.070709,-34.286587],"type":"Point"}
+  "bbox": [
+    146.070709,
+    -34.286587,
+    146.070709,
+    -34.286587
+],
+  "geometry": {"coordinates":[146.07070899999999,-34.286587],"type":"Point"}
 }

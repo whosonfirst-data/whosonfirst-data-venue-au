@@ -2,13 +2,14 @@
   "id": 203315185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.876389,-37.654755,143.876389,-37.654755",
     "geom:latitude":-37.654755,
     "geom:longitude":143.876389,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Hedrick St",
     "sg:city":"Buninyong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203315185,
-    "wof:lastmodified":1449026772,
+    "wof:lastmodified":1466188195,
     "wof:name":"Durham View Water",
     "wof:parent_id":85768961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [143.876389,-37.654755,143.876389,-37.654755],
-  "geometry": {"coordinates":[143.876389,-37.654755],"type":"Point"}
+  "bbox": [
+    143.876389,
+    -37.654755,
+    143.876389,
+    -37.654755
+],
+  "geometry": {"coordinates":[143.87638899999999,-37.654755],"type":"Point"}
 }

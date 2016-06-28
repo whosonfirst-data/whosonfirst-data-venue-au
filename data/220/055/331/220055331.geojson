@@ -2,13 +2,14 @@
   "id": 220055331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.127007,-31.899933,116.127007,-31.899933",
     "geom:latitude":-31.899933,
     "geom:longitude":116.127007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3530 Great Eastern Hwy",
     "sg:city":"Mahogany Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220055331,
-    "wof:lastmodified":1449074217,
+    "wof:lastmodified":1466187556,
     "wof:name":"Goddard D",
     "wof:parent_id":85769945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [116.127007,-31.899933,116.127007,-31.899933],
-  "geometry": {"coordinates":[116.127007,-31.899933],"type":"Point"}
+  "bbox": [
+    116.127007,
+    -31.899933,
+    116.127007,
+    -31.899933
+],
+  "geometry": {"coordinates":[116.12700700000001,-31.899933],"type":"Point"}
 }

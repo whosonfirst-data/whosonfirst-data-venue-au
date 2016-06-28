@@ -2,13 +2,14 @@
   "id": 186549941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.164612,-33.894756,151.164612,-33.894756",
     "geom:latitude":-33.894756,
     "geom:longitude":151.164612,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Cambridge St",
     "sg:city":"Stanmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186549941,
-    "wof:lastmodified":1449051122,
+    "wof:lastmodified":1466190809,
     "wof:name":"Stanmore Cellars",
     "wof:parent_id":85770309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.164612,-33.894756,151.164612,-33.894756],
-  "geometry": {"coordinates":[151.164612,-33.894756],"type":"Point"}
+  "bbox": [
+    151.164612,
+    -33.894756,
+    151.164612,
+    -33.894756
+],
+  "geometry": {"coordinates":[151.16461200000001,-33.894756],"type":"Point"}
 }

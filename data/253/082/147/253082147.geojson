@@ -2,13 +2,14 @@
   "id": 253082147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.80394,-37.755314,144.80394,-37.755314",
     "geom:latitude":-37.755314,
     "geom:longitude":144.80394,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lister St",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253082147,
-    "wof:lastmodified":1449062901,
+    "wof:lastmodified":1466188401,
     "wof:name":"St. Albans School Of Music",
     "wof:parent_id":85777915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [144.80394,-37.755314,144.80394,-37.755314],
-  "geometry": {"coordinates":[144.80394,-37.755314],"type":"Point"}
+  "bbox": [
+    144.80394,
+    -37.755314,
+    144.80394,
+    -37.755314
+],
+  "geometry": {"coordinates":[144.80394000000001,-37.755314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202428409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.956192,-37.840416,144.956192,-37.840416",
     "geom:latitude":-37.840416,
     "geom:longitude":144.956192,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 120 Bridport St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202428409,
-    "wof:lastmodified":1449062469,
+    "wof:lastmodified":1466188369,
     "wof:name":"Lifespan Financial Planning Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [144.956192,-37.840416,144.956192,-37.840416],
-  "geometry": {"coordinates":[144.956192,-37.840416],"type":"Point"}
+  "bbox": [
+    144.956192,
+    -37.840416,
+    144.956192,
+    -37.840416
+],
+  "geometry": {"coordinates":[144.95619199999999,-37.840416],"type":"Point"}
 }

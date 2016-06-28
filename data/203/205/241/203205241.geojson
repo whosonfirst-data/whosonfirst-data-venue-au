@@ -2,13 +2,14 @@
   "id": 203205241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.844482,-41.039555,145.844482,-41.039555",
     "geom:latitude":-41.039555,
     "geom:longitude":145.844482,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"East Cam Rd",
     "sg:city":"Camdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203205241,
-    "wof:lastmodified":1449026083,
+    "wof:lastmodified":1466187083,
     "wof:name":"Young J I & M M",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.844482,-41.039555,145.844482,-41.039555],
+  "bbox": [
+    145.844482,
+    -41.039555,
+    145.844482,
+    -41.039555
+],
   "geometry": {"coordinates":[145.844482,-41.039555],"type":"Point"}
 }

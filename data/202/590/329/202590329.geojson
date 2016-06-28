@@ -2,13 +2,14 @@
   "id": 202590329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.611588,-33.832966,138.611588,-33.832966",
     "geom:latitude":-33.832966,
     "geom:longitude":138.611588,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74a Main North Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202590329,
-    "wof:lastmodified":1449061622,
+    "wof:lastmodified":1466187207,
     "wof:name":"Clare Valley Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.611588,-33.832966,138.611588,-33.832966],
-  "geometry": {"coordinates":[138.611588,-33.832966],"type":"Point"}
+  "bbox": [
+    138.611588,
+    -33.832966,
+    138.611588,
+    -33.832966
+],
+  "geometry": {"coordinates":[138.61158800000001,-33.832966],"type":"Point"}
 }

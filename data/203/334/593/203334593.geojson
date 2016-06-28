@@ -2,13 +2,14 @@
   "id": 203334593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.85376,-37.566395,143.85376,-37.566395",
     "geom:latitude":-37.566395,
     "geom:longitude":143.85376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Doveton St South",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203334593,
-    "wof:lastmodified":1449025459,
+    "wof:lastmodified":1466188411,
     "wof:name":"Kym Southwell",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [143.85376,-37.566395,143.85376,-37.566395],
-  "geometry": {"coordinates":[143.85376,-37.566395],"type":"Point"}
+  "bbox": [
+    143.85376,
+    -37.566395,
+    143.85376,
+    -37.566395
+],
+  "geometry": {"coordinates":[143.85375999999999,-37.566395],"type":"Point"}
 }

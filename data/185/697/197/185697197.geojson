@@ -2,13 +2,14 @@
   "id": 185697197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.312561,-21.387175,149.312561,-21.387175",
     "geom:latitude":-21.387175,
     "geom:longitude":149.312561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Owen Jenkins Drv",
     "sg:city":"Sarina Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185697197,
-    "wof:lastmodified":1449007620,
+    "wof:lastmodified":1466189086,
     "wof:name":"Sarina Surf Lifesaving Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "saving"
     ]
 },
-  "bbox": [149.312561,-21.387175,149.312561,-21.387175],
-  "geometry": {"coordinates":[149.312561,-21.387175],"type":"Point"}
+  "bbox": [
+    149.312561,
+    -21.387175,
+    149.312561,
+    -21.387175
+],
+  "geometry": {"coordinates":[149.31256099999999,-21.387175],"type":"Point"}
 }

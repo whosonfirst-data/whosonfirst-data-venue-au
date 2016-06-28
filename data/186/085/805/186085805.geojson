@@ -2,13 +2,14 @@
   "id": 186085805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.797165,-31.652428,152.797165,-31.652428",
     "geom:latitude":-31.652428,
     "geom:longitude":152.797165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10 Laurie St",
     "sg:city":"Medical Cntr Laurieton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186085805,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466188995,
     "wof:name":"Jansen David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [152.797165,-31.652428,152.797165,-31.652428],
-  "geometry": {"coordinates":[152.797165,-31.652428],"type":"Point"}
+  "bbox": [
+    152.797165,
+    -31.652428,
+    152.797165,
+    -31.652428
+],
+  "geometry": {"coordinates":[152.79716500000001,-31.652428],"type":"Point"}
 }

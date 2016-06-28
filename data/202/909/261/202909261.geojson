@@ -2,13 +2,14 @@
   "id": 202909261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.186523,-30.050507,153.186523,-30.050507",
     "geom:latitude":-30.050507,
     "geom:longitude":153.186523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Eggins Drv",
     "sg:city":"Arrawarra",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202909261,
-    "wof:lastmodified":1449062021,
+    "wof:lastmodified":1466190820,
     "wof:name":"Arrawarra Palms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.186523,-30.050507,153.186523,-30.050507],
-  "geometry": {"coordinates":[153.186523,-30.050507],"type":"Point"}
+  "bbox": [
+    153.186523,
+    -30.050507,
+    153.186523,
+    -30.050507
+],
+  "geometry": {"coordinates":[153.18652299999999,-30.050507],"type":"Point"}
 }

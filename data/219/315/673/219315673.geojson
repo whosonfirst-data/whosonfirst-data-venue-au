@@ -2,13 +2,14 @@
   "id": 219315673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.950165,-38.164577,145.950165,-38.164577",
     "geom:latitude":-38.164577,
     "geom:longitude":145.950165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19-21-21 June Crt",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219315673,
-    "wof:lastmodified":1449073723,
+    "wof:lastmodified":1466187662,
     "wof:name":"Isles Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [145.950165,-38.164577,145.950165,-38.164577],
+  "bbox": [
+    145.950165,
+    -38.164577,
+    145.950165,
+    -38.164577
+],
   "geometry": {"coordinates":[145.950165,-38.164577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202759969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.284805,-23.55315,145.284805,-23.55315",
     "geom:latitude":-23.55315,
     "geom:longitude":145.284805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Ash St",
     "sg:city":"Barcaldine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202759969,
-    "wof:lastmodified":1449062693,
+    "wof:lastmodified":1466189852,
     "wof:name":"Anglicare Central Queensland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [145.284805,-23.55315,145.284805,-23.55315],
-  "geometry": {"coordinates":[145.284805,-23.55315],"type":"Point"}
+  "bbox": [
+    145.284805,
+    -23.55315,
+    145.284805,
+    -23.55315
+],
+  "geometry": {"coordinates":[145.28480500000001,-23.55315],"type":"Point"}
 }

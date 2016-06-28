@@ -2,13 +2,14 @@
   "id": 220188229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.715607,-38.15723,144.715607,-38.15723",
     "geom:latitude":-38.15723,
     "geom:longitude":144.715607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"424 The Esplanade",
     "sg:city":"St Leonards",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220188229,
-    "wof:lastmodified":1449074437,
+    "wof:lastmodified":1466189301,
     "wof:name":"Aris Seitanidis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beekeeper"
     ]
 },
-  "bbox": [144.715607,-38.15723,144.715607,-38.15723],
-  "geometry": {"coordinates":[144.715607,-38.15723],"type":"Point"}
+  "bbox": [
+    144.715607,
+    -38.15723,
+    144.715607,
+    -38.15723
+],
+  "geometry": {"coordinates":[144.71560700000001,-38.15723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186458503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.164703,-33.876202,151.164703,-33.876202",
     "geom:latitude":-33.876202,
     "geom:longitude":151.164703,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U4/ 364 Catherine St",
     "sg:city":"Lilyfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186458503,
-    "wof:lastmodified":1449052267,
+    "wof:lastmodified":1466190235,
     "wof:name":"ConcordNet",
     "wof:parent_id":85776737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [151.164703,-33.876202,151.164703,-33.876202],
+  "bbox": [
+    151.164703,
+    -33.876202,
+    151.164703,
+    -33.876202
+],
   "geometry": {"coordinates":[151.164703,-33.876202],"type":"Point"}
 }

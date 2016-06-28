@@ -2,13 +2,14 @@
   "id": 202708671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049469,-27.36883,153.049469,-27.36883",
     "geom:latitude":-27.36883,
     "geom:longitude":153.049469,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Robinson Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202708671,
-    "wof:lastmodified":1449060504,
+    "wof:lastmodified":1466188997,
     "wof:name":"Letterbox Kingdom",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [153.049469,-27.36883,153.049469,-27.36883],
-  "geometry": {"coordinates":[153.049469,-27.36883],"type":"Point"}
+  "bbox": [
+    153.049469,
+    -27.36883,
+    153.049469,
+    -27.36883
+],
+  "geometry": {"coordinates":[153.04946899999999,-27.36883],"type":"Point"}
 }

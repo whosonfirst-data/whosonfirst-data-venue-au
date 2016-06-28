@@ -2,13 +2,14 @@
   "id": 186419309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.810074,-19.266464,146.810074,-19.266464",
     "geom:latitude":-19.266464,
     "geom:longitude":146.810074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Flinders St",
     "sg:city":"Townsville City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186419309,
-    "wof:lastmodified":1449052982,
+    "wof:lastmodified":1466189633,
     "wof:name":"Monsoons Bar & Grill",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "organiser"
     ]
 },
-  "bbox": [146.810074,-19.266464,146.810074,-19.266464],
-  "geometry": {"coordinates":[146.810074,-19.266464],"type":"Point"}
+  "bbox": [
+    146.810074,
+    -19.266464,
+    146.810074,
+    -19.266464
+],
+  "geometry": {"coordinates":[146.81007399999999,-19.266464],"type":"Point"}
 }

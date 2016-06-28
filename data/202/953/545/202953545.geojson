@@ -2,13 +2,14 @@
   "id": 202953545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.116165,-30.303959,153.116165,-30.303959",
     "geom:latitude":-30.303959,
     "geom:longitude":153.116165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Raleigh St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202953545,
-    "wof:lastmodified":1449061835,
+    "wof:lastmodified":1466191014,
     "wof:name":"Achieve Outcomes Autstralia",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [153.116165,-30.303959,153.116165,-30.303959],
+  "bbox": [
+    153.116165,
+    -30.303959,
+    153.116165,
+    -30.303959
+],
   "geometry": {"coordinates":[153.116165,-30.303959],"type":"Point"}
 }

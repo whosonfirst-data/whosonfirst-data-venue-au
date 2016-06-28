@@ -2,13 +2,14 @@
   "id": 202812119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.706818,-32.93211,151.706818,-32.93211",
     "geom:latitude":-32.93211,
     "geom:longitude":151.706818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Roslyn St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202812119,
-    "wof:lastmodified":1449060168,
+    "wof:lastmodified":1466190366,
     "wof:name":"Smith I & G Bricklaying",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.706818,-32.93211,151.706818,-32.93211],
+  "bbox": [
+    151.706818,
+    -32.93211,
+    151.706818,
+    -32.93211
+],
   "geometry": {"coordinates":[151.706818,-32.93211],"type":"Point"}
 }

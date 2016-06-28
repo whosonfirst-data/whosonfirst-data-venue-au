@@ -2,13 +2,14 @@
   "id": 253313759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.304504,-38.026306,145.304504,-38.026306",
     "geom:latitude":-38.026306,
     "geom:longitude":145.304504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 28 Webb St",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253313759,
-    "wof:lastmodified":1449062911,
+    "wof:lastmodified":1466190726,
     "wof:name":"Golden IT",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [145.304504,-38.026306,145.304504,-38.026306],
-  "geometry": {"coordinates":[145.304504,-38.026306],"type":"Point"}
+  "bbox": [
+    145.304504,
+    -38.026306,
+    145.304504,
+    -38.026306
+],
+  "geometry": {"coordinates":[145.30450400000001,-38.026306],"type":"Point"}
 }

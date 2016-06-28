@@ -2,13 +2,14 @@
   "id": 220142377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357895,-38.148579,144.357895,-38.148579",
     "geom:latitude":-38.148579,
     "geom:longitude":144.357895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220142377,
-    "wof:lastmodified":1449074678,
+    "wof:lastmodified":1466188435,
     "wof:name":"Peoples Pub",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.357895,-38.148579,144.357895,-38.148579],
-  "geometry": {"coordinates":[144.357895,-38.148579],"type":"Point"}
+  "bbox": [
+    144.357895,
+    -38.148579,
+    144.357895,
+    -38.148579
+],
+  "geometry": {"coordinates":[144.35789500000001,-38.148579],"type":"Point"}
 }

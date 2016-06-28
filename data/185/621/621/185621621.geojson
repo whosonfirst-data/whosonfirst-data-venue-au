@@ -2,13 +2,14 @@
   "id": 185621621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.919418,-32.05872,115.919418,-32.05872",
     "geom:latitude":-32.05872,
     "geom:longitude":115.919418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1176",
     "sg:city":"Canning Vale DC",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185621621,
-    "wof:lastmodified":1449008033,
+    "wof:lastmodified":1466187623,
     "wof:name":"West Weld Fabrications",
     "wof:parent_id":85775581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [115.919418,-32.05872,115.919418,-32.05872],
-  "geometry": {"coordinates":[115.919418,-32.05872],"type":"Point"}
+  "bbox": [
+    115.919418,
+    -32.05872,
+    115.919418,
+    -32.05872
+],
+  "geometry": {"coordinates":[115.91941799999999,-32.05872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253130389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.635193,-27.715551,151.635193,-27.715551",
     "geom:latitude":-27.715551,
     "geom:longitude":151.635193,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Yandilla St",
     "sg:city":"Pittsworth",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":253130389,
-    "wof:lastmodified":1449063843,
+    "wof:lastmodified":1466189271,
     "wof:name":"Cleary Matt Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valuer"
     ]
 },
-  "bbox": [151.635193,-27.715551,151.635193,-27.715551],
-  "geometry": {"coordinates":[151.635193,-27.715551],"type":"Point"}
+  "bbox": [
+    151.635193,
+    -27.715551,
+    151.635193,
+    -27.715551
+],
+  "geometry": {"coordinates":[151.63519299999999,-27.715551],"type":"Point"}
 }

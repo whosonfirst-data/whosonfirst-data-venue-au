@@ -2,13 +2,14 @@
   "id": 253183575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.949203,-27.569061,151.949203,-27.569061",
     "geom:latitude":-27.569061,
     "geom:longitude":151.949203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Fitzgibbon St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253183575,
-    "wof:lastmodified":1449064415,
+    "wof:lastmodified":1466189995,
     "wof:name":"Horton's Auto Electrical & Air Conditioning",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [151.949203,-27.569061,151.949203,-27.569061],
-  "geometry": {"coordinates":[151.949203,-27.569061],"type":"Point"}
+  "bbox": [
+    151.949203,
+    -27.569061,
+    151.949203,
+    -27.569061
+],
+  "geometry": {"coordinates":[151.94920300000001,-27.569061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169744353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112396,-27.21496,153.112396,-27.21496",
     "geom:latitude":-27.21496,
     "geom:longitude":153.112396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Oxley Ave & Gommersall St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169744353,
-    "wof:lastmodified":1449033879,
+    "wof:lastmodified":1466187695,
     "wof:name":"Toy's Muffler & Mechanical",
     "wof:parent_id":85780439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.112396,-27.21496,153.112396,-27.21496],
-  "geometry": {"coordinates":[153.112396,-27.21496],"type":"Point"}
+  "bbox": [
+    153.112396,
+    -27.21496,
+    153.112396,
+    -27.21496
+],
+  "geometry": {"coordinates":[153.11239599999999,-27.21496],"type":"Point"}
 }

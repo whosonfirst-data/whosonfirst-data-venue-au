@@ -2,13 +2,14 @@
   "id": 203366567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.868362,-37.602245,143.868362,-37.602245",
     "geom:latitude":-37.602245,
     "geom:longitude":143.868362,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp9/ 1174 Geelong Rd",
     "sg:city":"Mt Clear",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203366567,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466188963,
     "wof:name":"Hair By Hart",
     "wof:parent_id":85769791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [143.868362,-37.602245,143.868362,-37.602245],
-  "geometry": {"coordinates":[143.868362,-37.602245],"type":"Point"}
+  "bbox": [
+    143.868362,
+    -37.602245,
+    143.868362,
+    -37.602245
+],
+  "geometry": {"coordinates":[143.86836199999999,-37.602245],"type":"Point"}
 }

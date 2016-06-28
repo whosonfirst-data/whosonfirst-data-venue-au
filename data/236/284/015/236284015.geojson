@@ -2,13 +2,14 @@
   "id": 236284015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752052,-32.323215,115.752052,-32.323215",
     "geom:latitude":-32.323215,
     "geom:longitude":115.752052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Etchell Mews",
     "sg:city":"Waikiki",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236284015,
-    "wof:lastmodified":1449003746,
+    "wof:lastmodified":1466190253,
     "wof:name":"Dave Rothwell Electrical Services",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.752052,-32.323215,115.752052,-32.323215],
-  "geometry": {"coordinates":[115.752052,-32.323215],"type":"Point"}
+  "bbox": [
+    115.752052,
+    -32.323215,
+    115.752052,
+    -32.323215
+],
+  "geometry": {"coordinates":[115.75205200000001,-32.323215],"type":"Point"}
 }

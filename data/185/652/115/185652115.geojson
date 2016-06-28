@@ -2,13 +2,14 @@
   "id": 185652115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.80233,-32.026348,115.80233,-32.026348",
     "geom:latitude":-32.026348,
     "geom:longitude":115.80233,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Warragoon Crs",
     "sg:city":"Attadale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185652115,
-    "wof:lastmodified":1449007635,
+    "wof:lastmodified":1466188291,
     "wof:name":"A K Resources Pty Ltd",
     "wof:parent_id":85768709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.80233,-32.026348,115.80233,-32.026348],
+  "bbox": [
+    115.80233,
+    -32.026348,
+    115.80233,
+    -32.026348
+],
   "geometry": {"coordinates":[115.80233,-32.026348],"type":"Point"}
 }

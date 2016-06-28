@@ -2,13 +2,14 @@
   "id": 253033131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.759293,-37.86797,144.759293,-37.86797",
     "geom:latitude":-37.86797,
     "geom:longitude":144.759293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 2/ 4",
     "sg:city":"Oakdene Gr Laverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253033131,
-    "wof:lastmodified":1449063421,
+    "wof:lastmodified":1466187577,
     "wof:name":"Aplico Services",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coating"
     ]
 },
-  "bbox": [144.759293,-37.86797,144.759293,-37.86797],
-  "geometry": {"coordinates":[144.759293,-37.86797],"type":"Point"}
+  "bbox": [
+    144.759293,
+    -37.86797,
+    144.759293,
+    -37.86797
+],
+  "geometry": {"coordinates":[144.75929300000001,-37.86797],"type":"Point"}
 }

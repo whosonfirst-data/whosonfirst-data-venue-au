@@ -2,13 +2,14 @@
   "id": 203319381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.82753,-37.576534,143.82753,-37.576534",
     "geom:latitude":-37.576534,
     "geom:longitude":143.82753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Martin Drv",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203319381,
-    "wof:lastmodified":1449025689,
+    "wof:lastmodified":1466188256,
     "wof:name":"Ballarat Custom Fabrications",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [143.82753,-37.576534,143.82753,-37.576534],
+  "bbox": [
+    143.82753,
+    -37.576534,
+    143.82753,
+    -37.576534
+],
   "geometry": {"coordinates":[143.82753,-37.576534],"type":"Point"}
 }

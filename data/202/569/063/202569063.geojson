@@ -2,13 +2,14 @@
   "id": 202569063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.441666,-37.676186,144.441666,-37.676186",
     "geom:latitude":-37.676186,
     "geom:longitude":144.441666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Main St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202569063,
-    "wof:lastmodified":1449062536,
+    "wof:lastmodified":1466187038,
     "wof:name":"Bacchus Marsh Stock Feeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stock"
     ]
 },
-  "bbox": [144.441666,-37.676186,144.441666,-37.676186],
+  "bbox": [
+    144.441666,
+    -37.676186,
+    144.441666,
+    -37.676186
+],
   "geometry": {"coordinates":[144.441666,-37.676186],"type":"Point"}
 }

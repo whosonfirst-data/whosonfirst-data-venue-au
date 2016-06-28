@@ -2,13 +2,14 @@
   "id": 202472087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961731,-37.826534,144.961731,-37.826534",
     "geom:latitude":-37.826534,
     "geom:longitude":144.961731,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Kavanagh St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202472087,
-    "wof:lastmodified":1449060309,
+    "wof:lastmodified":1466189115,
     "wof:name":"Data Decor Interiors Pty Ltd",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [144.961731,-37.826534,144.961731,-37.826534],
-  "geometry": {"coordinates":[144.961731,-37.826534],"type":"Point"}
+  "bbox": [
+    144.961731,
+    -37.826534,
+    144.961731,
+    -37.826534
+],
+  "geometry": {"coordinates":[144.96173099999999,-37.826534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253219357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.955048,-27.54995,151.955048,-27.54995",
     "geom:latitude":-27.54995,
     "geom:longitude":151.955048,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Ruthven St",
     "sg:city":"North Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253219357,
-    "wof:lastmodified":1449065680,
+    "wof:lastmodified":1466190238,
     "wof:name":"TC'S -That Craft Shop",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [151.955048,-27.54995,151.955048,-27.54995],
-  "geometry": {"coordinates":[151.955048,-27.54995],"type":"Point"}
+  "bbox": [
+    151.955048,
+    -27.54995,
+    151.955048,
+    -27.54995
+],
+  "geometry": {"coordinates":[151.95504800000001,-27.54995],"type":"Point"}
 }

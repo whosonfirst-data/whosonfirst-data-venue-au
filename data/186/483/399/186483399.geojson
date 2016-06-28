@@ -2,13 +2,14 @@
   "id": 186483399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.769394,-19.291115,146.769394,-19.291115",
     "geom:latitude":-19.291115,
     "geom:longitude":146.769394,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Madden St",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186483399,
-    "wof:lastmodified":1449052436,
+    "wof:lastmodified":1466190546,
     "wof:name":"Woodworkers North",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "timber"
     ]
 },
-  "bbox": [146.769394,-19.291115,146.769394,-19.291115],
-  "geometry": {"coordinates":[146.769394,-19.291115],"type":"Point"}
+  "bbox": [
+    146.769394,
+    -19.291115,
+    146.769394,
+    -19.291115
+],
+  "geometry": {"coordinates":[146.76939400000001,-19.291115],"type":"Point"}
 }

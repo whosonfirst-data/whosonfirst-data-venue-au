@@ -2,13 +2,14 @@
   "id": 202870303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.60849,-25.624666,151.60849,-25.624666",
     "geom:latitude":-25.624666,
     "geom:longitude":151.60849,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Capper St",
     "sg:city":"Gayndah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202870303,
-    "wof:lastmodified":1449060779,
+    "wof:lastmodified":1466190563,
     "wof:name":"Gayndah Leather & Pet Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfrs"
     ]
 },
-  "bbox": [151.60849,-25.624666,151.60849,-25.624666],
-  "geometry": {"coordinates":[151.60849,-25.624666],"type":"Point"}
+  "bbox": [
+    151.60849,
+    -25.624666,
+    151.60849,
+    -25.624666
+],
+  "geometry": {"coordinates":[151.60848999999999,-25.624666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252947083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.079147,-26.537022,153.079147,-26.537022",
     "geom:latitude":-26.537022,
     "geom:longitude":153.079147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Greenoaks Drv",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252947083,
-    "wof:lastmodified":1449006184,
+    "wof:lastmodified":1466189391,
     "wof:name":"Coolum Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.079147,-26.537022,153.079147,-26.537022],
-  "geometry": {"coordinates":[153.079147,-26.537022],"type":"Point"}
+  "bbox": [
+    153.079147,
+    -26.537022,
+    153.079147,
+    -26.537022
+],
+  "geometry": {"coordinates":[153.07914700000001,-26.537022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202544675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.752304,-32.929623,148.752304,-32.929623",
     "geom:latitude":-32.929623,
     "geom:longitude":148.752304,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 McLachlan St",
     "sg:city":"Cumnock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202544675,
-    "wof:lastmodified":1449062643,
+    "wof:lastmodified":1466189892,
     "wof:name":"Coles D V A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [148.752304,-32.929623,148.752304,-32.929623],
-  "geometry": {"coordinates":[148.752304,-32.929623],"type":"Point"}
+  "bbox": [
+    148.752304,
+    -32.929623,
+    148.752304,
+    -32.929623
+],
+  "geometry": {"coordinates":[148.75230400000001,-32.929623],"type":"Point"}
 }

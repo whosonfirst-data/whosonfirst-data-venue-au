@@ -2,13 +2,14 @@
   "id": 202935577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.089264,-30.315058,153.089264,-30.315058",
     "geom:latitude":-30.315058,
     "geom:longitude":153.089264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Isles Drv & Elswick St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202935577,
-    "wof:lastmodified":1449062217,
+    "wof:lastmodified":1466190908,
     "wof:name":"OneSteel Metaland",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [153.089264,-30.315058,153.089264,-30.315058],
-  "geometry": {"coordinates":[153.089264,-30.315058],"type":"Point"}
+  "bbox": [
+    153.089264,
+    -30.315058,
+    153.089264,
+    -30.315058
+],
+  "geometry": {"coordinates":[153.08926399999999,-30.315058],"type":"Point"}
 }

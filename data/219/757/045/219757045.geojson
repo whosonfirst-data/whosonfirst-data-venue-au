@@ -2,13 +2,14 @@
   "id": 219757045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.954651,-32.026154,151.954651,-32.026154",
     "geom:latitude":-32.026154,
     "geom:longitude":151.954651,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 - 5 Cemetery Rd",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219757045,
-    "wof:lastmodified":1449072369,
+    "wof:lastmodified":1466191192,
     "wof:name":"Gloucester Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [151.954651,-32.026154,151.954651,-32.026154],
-  "geometry": {"coordinates":[151.954651,-32.026154],"type":"Point"}
+  "bbox": [
+    151.954651,
+    -32.026154,
+    151.954651,
+    -32.026154
+],
+  "geometry": {"coordinates":[151.95465100000001,-32.026154],"type":"Point"}
 }

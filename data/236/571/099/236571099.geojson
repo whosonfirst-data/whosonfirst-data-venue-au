@@ -2,13 +2,14 @@
   "id": 236571099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.034653,-33.937538,151.034653,-33.937538",
     "geom:latitude":-33.937538,
     "geom:longitude":151.034653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Gow St",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236571099,
-    "wof:lastmodified":1449003995,
+    "wof:lastmodified":1466191640,
     "wof:name":"Maher Tyres Pty Ltd",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [151.034653,-33.937538,151.034653,-33.937538],
-  "geometry": {"coordinates":[151.034653,-33.937538],"type":"Point"}
+  "bbox": [
+    151.034653,
+    -33.937538,
+    151.034653,
+    -33.937538
+],
+  "geometry": {"coordinates":[151.03465299999999,-33.937538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202413209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.924805,-37.8349,144.924805,-37.8349",
     "geom:latitude":-37.8349,
     "geom:longitude":144.924805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 104/ 2 Salmon St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202413209,
-    "wof:lastmodified":1449060513,
+    "wof:lastmodified":1466187980,
     "wof:name":"ARGENTO (AUST) Pty Ltd",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfrg"
     ]
 },
-  "bbox": [144.924805,-37.8349,144.924805,-37.8349],
-  "geometry": {"coordinates":[144.924805,-37.8349],"type":"Point"}
+  "bbox": [
+    144.924805,
+    -37.8349,
+    144.924805,
+    -37.8349
+],
+  "geometry": {"coordinates":[144.92480499999999,-37.8349],"type":"Point"}
 }

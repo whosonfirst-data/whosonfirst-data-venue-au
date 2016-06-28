@@ -2,13 +2,14 @@
   "id": 186251191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.888336,-31.450857,152.888336,-31.450857",
     "geom:latitude":-31.450857,
     "geom:longitude":152.888336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Blackbutt Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186251191,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1466187422,
     "wof:name":"Hales Automotive Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [152.888336,-31.450857,152.888336,-31.450857],
-  "geometry": {"coordinates":[152.888336,-31.450857],"type":"Point"}
+  "bbox": [
+    152.888336,
+    -31.450857,
+    152.888336,
+    -31.450857
+],
+  "geometry": {"coordinates":[152.88833600000001,-31.450857],"type":"Point"}
 }

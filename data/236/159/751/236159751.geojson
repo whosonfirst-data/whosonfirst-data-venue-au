@@ -2,13 +2,14 @@
   "id": 236159751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.848373,-34.737568,135.848373,-34.737568",
     "geom:latitude":-34.737568,
     "geom:longitude":135.848373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fram St",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236159751,
-    "wof:lastmodified":1449001972,
+    "wof:lastmodified":1466189589,
     "wof:name":"Fram Street Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [135.848373,-34.737568,135.848373,-34.737568],
-  "geometry": {"coordinates":[135.848373,-34.737568],"type":"Point"}
+  "bbox": [
+    135.848373,
+    -34.737568,
+    135.848373,
+    -34.737568
+],
+  "geometry": {"coordinates":[135.84837300000001,-34.737568],"type":"Point"}
 }

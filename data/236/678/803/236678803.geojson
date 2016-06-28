@@ -2,13 +2,14 @@
   "id": 236678803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.44603,-31.904055,152.44603,-31.904055",
     "geom:latitude":-31.904055,
     "geom:longitude":152.44603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Wingham Rd",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236678803,
-    "wof:lastmodified":1449003207,
+    "wof:lastmodified":1466191816,
     "wof:name":"PSA Driver Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "training"
     ]
 },
-  "bbox": [152.44603,-31.904055,152.44603,-31.904055],
-  "geometry": {"coordinates":[152.44603,-31.904055],"type":"Point"}
+  "bbox": [
+    152.44603,
+    -31.904055,
+    152.44603,
+    -31.904055
+],
+  "geometry": {"coordinates":[152.44603000000001,-31.904055],"type":"Point"}
 }

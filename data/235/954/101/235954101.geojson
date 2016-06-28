@@ -2,13 +2,14 @@
   "id": 235954101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.874588,-12.40389,130.874588,-12.40389",
     "geom:latitude":-12.40389,
     "geom:longitude":130.874588,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Darwin International Airport, 2 Slade Crt",
     "sg:city":"Marrara",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235954101,
-    "wof:lastmodified":1449008561,
+    "wof:lastmodified":1466187112,
     "wof:name":"Overell Aircraft Maintenance Company Pty Ltd",
     "wof:parent_id":85774859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [130.874588,-12.40389,130.874588,-12.40389],
-  "geometry": {"coordinates":[130.874588,-12.40389],"type":"Point"}
+  "bbox": [
+    130.874588,
+    -12.40389,
+    130.874588,
+    -12.40389
+],
+  "geometry": {"coordinates":[130.87458799999999,-12.40389],"type":"Point"}
 }

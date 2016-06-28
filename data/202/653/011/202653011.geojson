@@ -2,13 +2,14 @@
   "id": 202653011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.025513,-27.437429,153.025513,-27.437429",
     "geom:latitude":-27.437429,
     "geom:longitude":153.025513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 104 Newmarket Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202653011,
-    "wof:lastmodified":1449060296,
+    "wof:lastmodified":1466187937,
     "wof:name":"Zone Fresh Gourmet Markets",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicacy"
     ]
 },
-  "bbox": [153.025513,-27.437429,153.025513,-27.437429],
-  "geometry": {"coordinates":[153.025513,-27.437429],"type":"Point"}
+  "bbox": [
+    153.025513,
+    -27.437429,
+    153.025513,
+    -27.437429
+],
+  "geometry": {"coordinates":[153.02551299999999,-27.437429],"type":"Point"}
 }

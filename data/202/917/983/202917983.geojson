@@ -2,13 +2,14 @@
   "id": 202917983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088013,-30.315706,153.088013,-30.315706",
     "geom:latitude":-30.315706,
     "geom:longitude":153.088013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Isles Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202917983,
-    "wof:lastmodified":1449062323,
+    "wof:lastmodified":1466190665,
     "wof:name":"Gasweld Discount Tool Centre",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [153.088013,-30.315706,153.088013,-30.315706],
-  "geometry": {"coordinates":[153.088013,-30.315706],"type":"Point"}
+  "bbox": [
+    153.088013,
+    -30.315706,
+    153.088013,
+    -30.315706
+],
+  "geometry": {"coordinates":[153.08801299999999,-30.315706],"type":"Point"}
 }

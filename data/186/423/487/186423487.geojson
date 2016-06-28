@@ -2,13 +2,14 @@
   "id": 186423487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.789566,-19.269709,146.789566,-19.269709",
     "geom:latitude":-19.269709,
     "geom:longitude":146.789566,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Martinez Ave",
     "sg:city":"West End",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186423487,
-    "wof:lastmodified":1449050857,
+    "wof:lastmodified":1466189699,
     "wof:name":"NQ Web Design",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [146.789566,-19.269709,146.789566,-19.269709],
-  "geometry": {"coordinates":[146.789566,-19.269709],"type":"Point"}
+  "bbox": [
+    146.789566,
+    -19.269709,
+    146.789566,
+    -19.269709
+],
+  "geometry": {"coordinates":[146.78956600000001,-19.269709],"type":"Point"}
 }

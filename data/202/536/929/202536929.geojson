@@ -2,13 +2,14 @@
   "id": 202536929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.148087,-38.123768,145.148087,-38.123768",
     "geom:latitude":-38.123768,
     "geom:longitude":145.148087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Mahogany Ave",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202536929,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466189871,
     "wof:name":"Pine Forest Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [145.148087,-38.123768,145.148087,-38.123768],
+  "bbox": [
+    145.148087,
+    -38.123768,
+    145.148087,
+    -38.123768
+],
   "geometry": {"coordinates":[145.148087,-38.123768],"type":"Point"}
 }

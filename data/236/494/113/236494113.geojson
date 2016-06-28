@@ -2,13 +2,14 @@
   "id": 236494113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.111847,-21.15519,149.111847,-21.15519",
     "geom:latitude":-21.15519,
     "geom:longitude":149.111847,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2024",
     "sg:city":"a Canelands Shopping Centre Mackay",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236494113,
-    "wof:lastmodified":1449004808,
+    "wof:lastmodified":1466191414,
     "wof:name":"Kleins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [149.111847,-21.15519,149.111847,-21.15519],
-  "geometry": {"coordinates":[149.111847,-21.15519],"type":"Point"}
+  "bbox": [
+    149.111847,
+    -21.15519,
+    149.111847,
+    -21.15519
+],
+  "geometry": {"coordinates":[149.11184700000001,-21.15519],"type":"Point"}
 }

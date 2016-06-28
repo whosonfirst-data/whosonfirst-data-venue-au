@@ -2,13 +2,14 @@
   "id": 236333931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.799973,-32.078133,115.799973,-32.078133",
     "geom:latitude":-32.078133,
     "geom:longitude":115.799973,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Simons St",
     "sg:city":"Coolbellup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236333931,
-    "wof:lastmodified":1449004975,
+    "wof:lastmodified":1466190703,
     "wof:name":"McIntyre James",
     "wof:parent_id":85777945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [115.799973,-32.078133,115.799973,-32.078133],
-  "geometry": {"coordinates":[115.799973,-32.078133],"type":"Point"}
+  "bbox": [
+    115.799973,
+    -32.078133,
+    115.799973,
+    -32.078133
+],
+  "geometry": {"coordinates":[115.79997299999999,-32.078133],"type":"Point"}
 }

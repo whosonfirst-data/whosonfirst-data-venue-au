@@ -2,13 +2,14 @@
   "id": 236255801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"134.190567,-19.647739,134.190567,-19.647739",
     "geom:latitude":-19.647739,
     "geom:longitude":134.190567,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Paterson St",
     "sg:city":"Tennant Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236255801,
-    "wof:lastmodified":1449003097,
+    "wof:lastmodified":1466190097,
     "wof:name":"Tennant Creek Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homoeopath"
     ]
 },
-  "bbox": [134.190567,-19.647739,134.190567,-19.647739],
-  "geometry": {"coordinates":[134.190567,-19.647739],"type":"Point"}
+  "bbox": [
+    134.190567,
+    -19.647739,
+    134.190567,
+    -19.647739
+],
+  "geometry": {"coordinates":[134.19056699999999,-19.647739],"type":"Point"}
 }

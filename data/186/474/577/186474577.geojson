@@ -2,13 +2,14 @@
   "id": 186474577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156006,-33.887531,151.156006,-33.887531",
     "geom:latitude":-33.887531,
     "geom:longitude":151.156006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Thornley St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186474577,
-    "wof:lastmodified":1449050392,
+    "wof:lastmodified":1466190341,
     "wof:name":"Feldenkrais Method",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [151.156006,-33.887531,151.156006,-33.887531],
-  "geometry": {"coordinates":[151.156006,-33.887531],"type":"Point"}
+  "bbox": [
+    151.156006,
+    -33.887531,
+    151.156006,
+    -33.887531
+],
+  "geometry": {"coordinates":[151.15600599999999,-33.887531],"type":"Point"}
 }

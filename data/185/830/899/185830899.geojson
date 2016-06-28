@@ -2,13 +2,14 @@
   "id": 185830899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.844727,-25.292358,152.844727,-25.292358",
     "geom:latitude":-25.292358,
     "geom:longitude":152.844727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Oleander Ave",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185830899,
-    "wof:lastmodified":1449006960,
+    "wof:lastmodified":1466187100,
     "wof:name":"Hoffie's Corner Store & Takeaway",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.844727,-25.292358,152.844727,-25.292358],
-  "geometry": {"coordinates":[152.844727,-25.292358],"type":"Point"}
+  "bbox": [
+    152.844727,
+    -25.292358,
+    152.844727,
+    -25.292358
+],
+  "geometry": {"coordinates":[152.84472700000001,-25.292358],"type":"Point"}
 }

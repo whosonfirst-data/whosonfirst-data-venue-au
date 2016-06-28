@@ -2,13 +2,14 @@
   "id": 202662533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.035095,-27.419409,153.035095,-27.419409",
     "geom:latitude":-27.419409,
     "geom:longitude":153.035095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Lutwyche Rd",
     "sg:city":"Lutwyche",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202662533,
-    "wof:lastmodified":1449061806,
+    "wof:lastmodified":1466188123,
     "wof:name":"Denning Car Radio",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [153.035095,-27.419409,153.035095,-27.419409],
-  "geometry": {"coordinates":[153.035095,-27.419409],"type":"Point"}
+  "bbox": [
+    153.035095,
+    -27.419409,
+    153.035095,
+    -27.419409
+],
+  "geometry": {"coordinates":[153.03509500000001,-27.419409],"type":"Point"}
 }

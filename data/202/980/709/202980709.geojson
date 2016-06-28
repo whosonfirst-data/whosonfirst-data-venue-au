@@ -2,13 +2,14 @@
   "id": 202980709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178299,-33.795788,151.178299,-33.795788",
     "geom:latitude":-33.795788,
     "geom:longitude":151.178299,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 10/ 815 Pacific Hwy",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202980709,
-    "wof:lastmodified":1449060279,
+    "wof:lastmodified":1466191058,
     "wof:name":"Scientific-Atlanta Pty Limited",
     "wof:parent_id":85774325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "satellite"
     ]
 },
-  "bbox": [151.178299,-33.795788,151.178299,-33.795788],
-  "geometry": {"coordinates":[151.178299,-33.795788],"type":"Point"}
+  "bbox": [
+    151.178299,
+    -33.795788,
+    151.178299,
+    -33.795788
+],
+  "geometry": {"coordinates":[151.17829900000001,-33.795788],"type":"Point"}
 }

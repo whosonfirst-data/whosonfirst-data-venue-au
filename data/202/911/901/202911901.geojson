@@ -2,13 +2,14 @@
   "id": 202911901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.195541,-30.024374,153.195541,-30.024374",
     "geom:latitude":-30.024374,
     "geom:longitude":153.195541,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Pacific St",
     "sg:city":"Corindi Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202911901,
-    "wof:lastmodified":1449062246,
+    "wof:lastmodified":1466190605,
     "wof:name":"Curnow G N & K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.195541,-30.024374,153.195541,-30.024374],
-  "geometry": {"coordinates":[153.195541,-30.024374],"type":"Point"}
+  "bbox": [
+    153.195541,
+    -30.024374,
+    153.195541,
+    -30.024374
+],
+  "geometry": {"coordinates":[153.19554099999999,-30.024374],"type":"Point"}
 }

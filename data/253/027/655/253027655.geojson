@@ -2,13 +2,14 @@
   "id": 253027655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.771454,-37.862907,144.771454,-37.862907",
     "geom:latitude":-37.862907,
     "geom:longitude":144.771454,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Lohse St",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253027655,
-    "wof:lastmodified":1449063364,
+    "wof:lastmodified":1466187465,
     "wof:name":"Ray's Coffee Shop & Takeaway",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.771454,-37.862907,144.771454,-37.862907],
-  "geometry": {"coordinates":[144.771454,-37.862907],"type":"Point"}
+  "bbox": [
+    144.771454,
+    -37.862907,
+    144.771454,
+    -37.862907
+],
+  "geometry": {"coordinates":[144.77145400000001,-37.862907],"type":"Point"}
 }

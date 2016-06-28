@@ -2,13 +2,14 @@
   "id": 203310289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.844788,-37.524551,143.844788,-37.524551",
     "geom:latitude":-37.524551,
     "geom:longitude":143.844788,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Traminer Crt",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310289,
-    "wof:lastmodified":1449026108,
+    "wof:lastmodified":1466188108,
     "wof:name":"Sinclair Mobile Welding Service",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [143.844788,-37.524551,143.844788,-37.524551],
-  "geometry": {"coordinates":[143.844788,-37.524551],"type":"Point"}
+  "bbox": [
+    143.844788,
+    -37.524551,
+    143.844788,
+    -37.524551
+],
+  "geometry": {"coordinates":[143.84478799999999,-37.524551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219911793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.913269,-34.335117,150.913269,-34.335117",
     "geom:latitude":-34.335117,
     "geom:longitude":150.913269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Princes Hwy",
     "sg:city":"Bulli",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219911793,
-    "wof:lastmodified":1449073338,
+    "wof:lastmodified":1466191823,
     "wof:name":"Body Dynamics Illawarra",
     "wof:parent_id":85770735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "method"
     ]
 },
-  "bbox": [150.913269,-34.335117,150.913269,-34.335117],
-  "geometry": {"coordinates":[150.913269,-34.335117],"type":"Point"}
+  "bbox": [
+    150.913269,
+    -34.335117,
+    150.913269,
+    -34.335117
+],
+  "geometry": {"coordinates":[150.91326900000001,-34.335117],"type":"Point"}
 }

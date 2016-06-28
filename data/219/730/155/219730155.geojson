@@ -2,13 +2,14 @@
   "id": 219730155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.790924,-19.28161,146.790924,-19.28161",
     "geom:latitude":-19.28161,
     "geom:longitude":146.790924,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Sycamore St",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219730155,
-    "wof:lastmodified":1449073347,
+    "wof:lastmodified":1466191210,
     "wof:name":"North Qld Hair Clinic",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "replacement"
     ]
 },
-  "bbox": [146.790924,-19.28161,146.790924,-19.28161],
-  "geometry": {"coordinates":[146.790924,-19.28161],"type":"Point"}
+  "bbox": [
+    146.790924,
+    -19.28161,
+    146.790924,
+    -19.28161
+],
+  "geometry": {"coordinates":[146.79092399999999,-19.28161],"type":"Point"}
 }

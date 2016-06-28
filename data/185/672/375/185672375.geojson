@@ -2,13 +2,14 @@
   "id": 185672375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753258,-32.035587,115.753258,-32.035587",
     "geom:latitude":-32.035587,
     "geom:longitude":115.753258,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Queen Victoria St",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185672375,
-    "wof:lastmodified":1449006701,
+    "wof:lastmodified":1466188644,
     "wof:name":"Old Bridge Cellars",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wine"
     ]
 },
-  "bbox": [115.753258,-32.035587,115.753258,-32.035587],
+  "bbox": [
+    115.753258,
+    -32.035587,
+    115.753258,
+    -32.035587
+],
   "geometry": {"coordinates":[115.753258,-32.035587],"type":"Point"}
 }

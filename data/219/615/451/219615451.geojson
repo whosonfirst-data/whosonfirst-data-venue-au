@@ -2,13 +2,14 @@
   "id": 219615451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.161896,-33.913483,151.161896,-33.913483",
     "geom:latitude":-33.913483,
     "geom:longitude":151.161896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Marrickville Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219615451,
-    "wof:lastmodified":1449071510,
+    "wof:lastmodified":1466190776,
     "wof:name":"Curves Marrickville",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [151.161896,-33.913483,151.161896,-33.913483],
-  "geometry": {"coordinates":[151.161896,-33.913483],"type":"Point"}
+  "bbox": [
+    151.161896,
+    -33.913483,
+    151.161896,
+    -33.913483
+],
+  "geometry": {"coordinates":[151.16189600000001,-33.913483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203367171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.859344,-37.560654,143.859344,-37.560654",
     "geom:latitude":-37.560654,
     "geom:longitude":143.859344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Camp St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203367171,
-    "wof:lastmodified":1449026070,
+    "wof:lastmodified":1466188975,
     "wof:name":"Kearney & Crowe Financial Services",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [143.859344,-37.560654,143.859344,-37.560654],
-  "geometry": {"coordinates":[143.859344,-37.560654],"type":"Point"}
+  "bbox": [
+    143.859344,
+    -37.560654,
+    143.859344,
+    -37.560654
+],
+  "geometry": {"coordinates":[143.85934399999999,-37.560654],"type":"Point"}
 }

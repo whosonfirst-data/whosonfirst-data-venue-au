@@ -2,13 +2,14 @@
   "id": 220171471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355392,-38.161007,144.355392,-38.161007",
     "geom:latitude":-38.161007,
     "geom:longitude":144.355392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Balliang St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220171471,
-    "wof:lastmodified":1449074885,
+    "wof:lastmodified":1466189025,
     "wof:name":"Concern Welfare",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [144.355392,-38.161007,144.355392,-38.161007],
-  "geometry": {"coordinates":[144.355392,-38.161007],"type":"Point"}
+  "bbox": [
+    144.355392,
+    -38.161007,
+    144.355392,
+    -38.161007
+],
+  "geometry": {"coordinates":[144.35539199999999,-38.161007],"type":"Point"}
 }

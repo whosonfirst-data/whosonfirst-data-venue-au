@@ -2,13 +2,14 @@
   "id": 203363765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.809311,-37.577198,143.809311,-37.577198",
     "geom:latitude":-37.577198,
     "geom:longitude":143.809311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Wiltshire La",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203363765,
-    "wof:lastmodified":1449026638,
+    "wof:lastmodified":1466188914,
     "wof:name":"Modern Towing & Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [143.809311,-37.577198,143.809311,-37.577198],
-  "geometry": {"coordinates":[143.809311,-37.577198],"type":"Point"}
+  "bbox": [
+    143.809311,
+    -37.577198,
+    143.809311,
+    -37.577198
+],
+  "geometry": {"coordinates":[143.80931100000001,-37.577198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219421819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.826645,-33.756153,150.826645,-33.756153",
     "geom:latitude":-33.756153,
     "geom:longitude":150.826645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Alvis Pl",
     "sg:city":"Plumpton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219421819,
-    "wof:lastmodified":1449072623,
+    "wof:lastmodified":1466188598,
     "wof:name":"Auto Rose Driving",
     "wof:parent_id":85769805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.826645,-33.756153,150.826645,-33.756153],
-  "geometry": {"coordinates":[150.826645,-33.756153],"type":"Point"}
+  "bbox": [
+    150.826645,
+    -33.756153,
+    150.826645,
+    -33.756153
+],
+  "geometry": {"coordinates":[150.82664500000001,-33.756153],"type":"Point"}
 }

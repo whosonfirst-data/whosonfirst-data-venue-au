@@ -2,13 +2,14 @@
   "id": 236131833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.86174,-37.729557,144.86174,-37.729557",
     "geom:latitude":-37.729557,
     "geom:longitude":144.86174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236131833,
-    "wof:lastmodified":1449002477,
+    "wof:lastmodified":1466189285,
     "wof:name":"A.M.M.A. Steel Works Pty Ltd",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [144.86174,-37.729557,144.86174,-37.729557],
+  "bbox": [
+    144.86174,
+    -37.729557,
+    144.86174,
+    -37.729557
+],
   "geometry": {"coordinates":[144.86174,-37.729557],"type":"Point"}
 }

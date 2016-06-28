@@ -2,13 +2,14 @@
   "id": 202696437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050049,-27.368656,153.050049,-27.368656",
     "geom:latitude":-27.368656,
     "geom:longitude":153.050049,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 9/ 209 Robinson Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202696437,
-    "wof:lastmodified":1449060303,
+    "wof:lastmodified":1466188757,
     "wof:name":"Cardiotech Australia",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitness"
     ]
 },
-  "bbox": [153.050049,-27.368656,153.050049,-27.368656],
+  "bbox": [
+    153.050049,
+    -27.368656,
+    153.050049,
+    -27.368656
+],
   "geometry": {"coordinates":[153.050049,-27.368656],"type":"Point"}
 }

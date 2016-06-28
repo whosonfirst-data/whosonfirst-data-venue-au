@@ -2,13 +2,14 @@
   "id": 219440877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.849258,-32.336636,115.849258,-32.336636",
     "geom:latitude":-32.336636,
     "geom:longitude":115.849258,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Doghill Rd",
     "sg:city":"Baldivis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219440877,
-    "wof:lastmodified":1449071640,
+    "wof:lastmodified":1466188863,
     "wof:name":"Bennett Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.849258,-32.336636,115.849258,-32.336636],
-  "geometry": {"coordinates":[115.849258,-32.336636],"type":"Point"}
+  "bbox": [
+    115.849258,
+    -32.336636,
+    115.849258,
+    -32.336636
+],
+  "geometry": {"coordinates":[115.84925800000001,-32.336636],"type":"Point"}
 }

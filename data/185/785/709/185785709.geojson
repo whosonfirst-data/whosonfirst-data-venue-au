@@ -2,13 +2,14 @@
   "id": 185785709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.383606,-37.695969,145.383606,-37.695969",
     "geom:latitude":-37.695969,
     "geom:longitude":145.383606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 139",
     "sg:city":"Yering",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185785709,
-    "wof:lastmodified":1449007955,
+    "wof:lastmodified":1466189819,
     "wof:name":"Yering Primary",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.383606,-37.695969,145.383606,-37.695969],
-  "geometry": {"coordinates":[145.383606,-37.695969],"type":"Point"}
+  "bbox": [
+    145.383606,
+    -37.695969,
+    145.383606,
+    -37.695969
+],
+  "geometry": {"coordinates":[145.38360599999999,-37.695969],"type":"Point"}
 }

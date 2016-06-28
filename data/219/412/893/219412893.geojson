@@ -2,13 +2,14 @@
   "id": 219412893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.856079,-33.736347,150.856079,-33.736347",
     "geom:latitude":-33.736347,
     "geom:longitude":150.856079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Kyleanne Pl",
     "sg:city":"Dean Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219412893,
-    "wof:lastmodified":1449071115,
+    "wof:lastmodified":1466188493,
     "wof:name":"Erolrone Pty Ltd",
     "wof:parent_id":85774811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "control"
     ]
 },
-  "bbox": [150.856079,-33.736347,150.856079,-33.736347],
-  "geometry": {"coordinates":[150.856079,-33.736347],"type":"Point"}
+  "bbox": [
+    150.856079,
+    -33.736347,
+    150.856079,
+    -33.736347
+],
+  "geometry": {"coordinates":[150.85607899999999,-33.736347],"type":"Point"}
 }

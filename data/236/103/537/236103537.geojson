@@ -2,13 +2,14 @@
   "id": 236103537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.661163,-37.902706,144.661163,-37.902706",
     "geom:latitude":-37.902706,
     "geom:longitude":144.661163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 40 Synott St",
     "sg:city":"Werribee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236103537,
-    "wof:lastmodified":1449003762,
+    "wof:lastmodified":1466188700,
     "wof:name":"Supportworks",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.661163,-37.902706,144.661163,-37.902706],
-  "geometry": {"coordinates":[144.661163,-37.902706],"type":"Point"}
+  "bbox": [
+    144.661163,
+    -37.902706,
+    144.661163,
+    -37.902706
+],
+  "geometry": {"coordinates":[144.66116299999999,-37.902706],"type":"Point"}
 }

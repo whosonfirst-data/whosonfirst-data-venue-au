@@ -2,13 +2,14 @@
   "id": 235952069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.942001,-30.087893,145.942001,-30.087893",
     "geom:latitude":-30.087893,
     "geom:longitude":145.942001,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Darling St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235952069,
-    "wof:lastmodified":1449008496,
+    "wof:lastmodified":1466187080,
     "wof:name":"River Gum Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [145.942001,-30.087893,145.942001,-30.087893],
+  "bbox": [
+    145.942001,
+    -30.087893,
+    145.942001,
+    -30.087893
+],
   "geometry": {"coordinates":[145.942001,-30.087893],"type":"Point"}
 }

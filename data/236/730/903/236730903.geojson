@@ -2,13 +2,14 @@
   "id": 236730903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.447723,-31.909182,152.447723,-31.909182",
     "geom:latitude":-31.909182,
     "geom:longitude":152.447723,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Flett St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236730903,
-    "wof:lastmodified":1449004609,
+    "wof:lastmodified":1466191879,
     "wof:name":"McCarthy L K & N M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cab"
     ]
 },
-  "bbox": [152.447723,-31.909182,152.447723,-31.909182],
+  "bbox": [
+    152.447723,
+    -31.909182,
+    152.447723,
+    -31.909182
+],
   "geometry": {"coordinates":[152.447723,-31.909182],"type":"Point"}
 }

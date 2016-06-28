@@ -2,13 +2,14 @@
   "id": 219647989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.110672,-33.948582,151.110672,-33.948582",
     "geom:latitude":-33.948582,
     "geom:longitude":151.110672,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Laycock St",
     "sg:city":"Bexley North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219647989,
-    "wof:lastmodified":1449072065,
+    "wof:lastmodified":1466190898,
     "wof:name":"Vascom",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [151.110672,-33.948582,151.110672,-33.948582],
-  "geometry": {"coordinates":[151.110672,-33.948582],"type":"Point"}
+  "bbox": [
+    151.110672,
+    -33.948582,
+    151.110672,
+    -33.948582
+],
+  "geometry": {"coordinates":[151.11067199999999,-33.948582],"type":"Point"}
 }

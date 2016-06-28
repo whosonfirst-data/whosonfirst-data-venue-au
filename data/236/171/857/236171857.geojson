@@ -2,13 +2,14 @@
   "id": 236171857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"137.555832,-33.020256,137.555832,-33.020256",
     "geom:latitude":-33.020256,
     "geom:longitude":137.555832,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"142a Lacey St",
     "sg:city":"Whyalla",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236171857,
-    "wof:lastmodified":1449005263,
+    "wof:lastmodified":1466189753,
     "wof:name":"Whyalla Tech-Dry Pty Ltd",
     "wof:parent_id":85780203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "waterproofing"
     ]
 },
-  "bbox": [137.555832,-33.020256,137.555832,-33.020256],
-  "geometry": {"coordinates":[137.555832,-33.020256],"type":"Point"}
+  "bbox": [
+    137.555832,
+    -33.020256,
+    137.555832,
+    -33.020256
+],
+  "geometry": {"coordinates":[137.55583200000001,-33.020256],"type":"Point"}
 }

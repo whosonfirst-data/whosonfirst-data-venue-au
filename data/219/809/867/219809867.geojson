@@ -2,13 +2,14 @@
   "id": 219809867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.864365,-36.129135,146.864365,-36.129135",
     "geom:latitude":-36.129135,
     "geom:longitude":146.864365,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hanlon Crt",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219809867,
-    "wof:lastmodified":1449073286,
+    "wof:lastmodified":1466191506,
     "wof:name":"Village Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [146.864365,-36.129135,146.864365,-36.129135],
-  "geometry": {"coordinates":[146.864365,-36.129135],"type":"Point"}
+  "bbox": [
+    146.864365,
+    -36.129135,
+    146.864365,
+    -36.129135
+],
+  "geometry": {"coordinates":[146.86436499999999,-36.129135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202733723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.640076,-34.787296,138.640076,-34.787296",
     "geom:latitude":-34.787296,
     "geom:longitude":138.640076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U1/ 104 Rundle Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202733723,
-    "wof:lastmodified":1449060458,
+    "wof:lastmodified":1466189472,
     "wof:name":"Sahara Pools Pty Ltd",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [138.640076,-34.787296,138.640076,-34.787296],
-  "geometry": {"coordinates":[138.640076,-34.787296],"type":"Point"}
+  "bbox": [
+    138.640076,
+    -34.787296,
+    138.640076,
+    -34.787296
+],
+  "geometry": {"coordinates":[138.64007599999999,-34.787296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186387479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.833588,-19.340284,146.833588,-19.340284",
     "geom:latitude":-19.340284,
     "geom:longitude":146.833588,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Brookhouse St",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186387479,
-    "wof:lastmodified":1449052656,
+    "wof:lastmodified":1466189123,
     "wof:name":"Wagners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "concrete"
     ]
 },
-  "bbox": [146.833588,-19.340284,146.833588,-19.340284],
-  "geometry": {"coordinates":[146.833588,-19.340284],"type":"Point"}
+  "bbox": [
+    146.833588,
+    -19.340284,
+    146.833588,
+    -19.340284
+],
+  "geometry": {"coordinates":[146.83358799999999,-19.340284],"type":"Point"}
 }

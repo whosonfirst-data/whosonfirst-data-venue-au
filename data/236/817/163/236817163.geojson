@@ -2,13 +2,14 @@
   "id": 236817163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892624,-34.42337,150.892624,-34.42337",
     "geom:latitude":-34.42337,
     "geom:longitude":150.892624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Richardson St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236817163,
-    "wof:lastmodified":1449004472,
+    "wof:lastmodified":1466191967,
     "wof:name":"ahm Total Health",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "safety"
     ]
 },
-  "bbox": [150.892624,-34.42337,150.892624,-34.42337],
-  "geometry": {"coordinates":[150.892624,-34.42337],"type":"Point"}
+  "bbox": [
+    150.892624,
+    -34.42337,
+    150.892624,
+    -34.42337
+],
+  "geometry": {"coordinates":[150.89262400000001,-34.42337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186444991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.180161,-33.904579,151.180161,-33.904579",
     "geom:latitude":-33.904579,
     "geom:longitude":151.180161,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35-39 Dickson St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186444991,
-    "wof:lastmodified":1449052650,
+    "wof:lastmodified":1466190102,
     "wof:name":"Newtown Yoga Room",
     "wof:parent_id":85774541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [151.180161,-33.904579,151.180161,-33.904579],
+  "bbox": [
+    151.180161,
+    -33.904579,
+    151.180161,
+    -33.904579
+],
   "geometry": {"coordinates":[151.180161,-33.904579],"type":"Point"}
 }

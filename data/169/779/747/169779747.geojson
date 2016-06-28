@@ -2,13 +2,14 @@
   "id": 169779747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.588547,-38.605999,145.588547,-38.605999",
     "geom:latitude":-38.605999,
     "geom:longitude":145.588547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Billson St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169779747,
-    "wof:lastmodified":1449033196,
+    "wof:lastmodified":1466188352,
     "wof:name":"Wonthaggi Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.588547,-38.605999,145.588547,-38.605999],
-  "geometry": {"coordinates":[145.588547,-38.605999],"type":"Point"}
+  "bbox": [
+    145.588547,
+    -38.605999,
+    145.588547,
+    -38.605999
+],
+  "geometry": {"coordinates":[145.58854700000001,-38.605999],"type":"Point"}
 }

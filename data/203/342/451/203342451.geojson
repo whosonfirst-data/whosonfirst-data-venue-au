@@ -2,13 +2,14 @@
   "id": 203342451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.861664,-37.560303,143.861664,-37.560303",
     "geom:latitude":-37.560303,
     "geom:longitude":143.861664,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203342451,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1466188543,
     "wof:name":"Godbehears.",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [143.861664,-37.560303,143.861664,-37.560303],
-  "geometry": {"coordinates":[143.861664,-37.560303],"type":"Point"}
+  "bbox": [
+    143.861664,
+    -37.560303,
+    143.861664,
+    -37.560303
+],
+  "geometry": {"coordinates":[143.86166399999999,-37.560303],"type":"Point"}
 }

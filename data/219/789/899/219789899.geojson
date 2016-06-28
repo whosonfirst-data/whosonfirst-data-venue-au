@@ -2,13 +2,14 @@
   "id": 219789899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.735153,-19.303686,146.735153,-19.303686",
     "geom:latitude":-19.303686,
     "geom:longitude":146.735153,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkside Plaza Cnr Charles St & Bamford La",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219789899,
-    "wof:lastmodified":1449071992,
+    "wof:lastmodified":1466191360,
     "wof:name":"Parkside Florist",
     "wof:parent_id":85770141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "novelty"
     ]
 },
-  "bbox": [146.735153,-19.303686,146.735153,-19.303686],
+  "bbox": [
+    146.735153,
+    -19.303686,
+    146.735153,
+    -19.303686
+],
   "geometry": {"coordinates":[146.735153,-19.303686],"type":"Point"}
 }

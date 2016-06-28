@@ -2,13 +2,14 @@
   "id": 186612179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.040863,-34.283352,146.040863,-34.283352",
     "geom:latitude":-34.283352,
     "geom:longitude":146.040863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Noorebar Ave",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186612179,
-    "wof:lastmodified":1449051564,
+    "wof:lastmodified":1466191049,
     "wof:name":"ARMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "therapist"
     ]
 },
-  "bbox": [146.040863,-34.283352,146.040863,-34.283352],
+  "bbox": [
+    146.040863,
+    -34.283352,
+    146.040863,
+    -34.283352
+],
   "geometry": {"coordinates":[146.040863,-34.283352],"type":"Point"}
 }

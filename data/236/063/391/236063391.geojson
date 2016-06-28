@@ -2,13 +2,14 @@
   "id": 236063391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.865784,-37.761021,144.865784,-37.761021",
     "geom:latitude":-37.761021,
     "geom:longitude":144.865784,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Lorgrove Crt",
     "sg:city":"Avondale Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236063391,
-    "wof:lastmodified":1449001890,
+    "wof:lastmodified":1466187894,
     "wof:name":"Valentine Bros.",
     "wof:parent_id":85777819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finish"
     ]
 },
-  "bbox": [144.865784,-37.761021,144.865784,-37.761021],
-  "geometry": {"coordinates":[144.865784,-37.761021],"type":"Point"}
+  "bbox": [
+    144.865784,
+    -37.761021,
+    144.865784,
+    -37.761021
+],
+  "geometry": {"coordinates":[144.86578399999999,-37.761021],"type":"Point"}
 }

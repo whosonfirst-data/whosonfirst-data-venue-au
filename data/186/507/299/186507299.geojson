@@ -2,13 +2,14 @@
   "id": 186507299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.758377,-19.265837,146.758377,-19.265837",
     "geom:latitude":-19.265837,
     "geom:longitude":146.758377,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Hamill St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186507299,
-    "wof:lastmodified":1449051747,
+    "wof:lastmodified":1466190584,
     "wof:name":"Northern Equipment",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [146.758377,-19.265837,146.758377,-19.265837],
+  "bbox": [
+    146.758377,
+    -19.265837,
+    146.758377,
+    -19.265837
+],
   "geometry": {"coordinates":[146.758377,-19.265837],"type":"Point"}
 }

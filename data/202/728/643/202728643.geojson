@@ -2,13 +2,14 @@
   "id": 202728643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.009872,-27.32176,153.009872,-27.32176",
     "geom:latitude":-27.32176,
     "geom:longitude":153.009872,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bald Hills Rd",
     "sg:city":"Bald Hills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202728643,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466189374,
     "wof:name":"Bald Hills Hair Design",
     "wof:parent_id":85770687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [153.009872,-27.32176,153.009872,-27.32176],
+  "bbox": [
+    153.009872,
+    -27.32176,
+    153.009872,
+    -27.32176
+],
   "geometry": {"coordinates":[153.009872,-27.32176],"type":"Point"}
 }

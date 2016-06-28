@@ -2,13 +2,14 @@
   "id": 203311135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.810333,-37.526413,143.810333,-37.526413",
     "geom:latitude":-37.526413,
     "geom:longitude":143.810333,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Learmonth Rd",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311135,
-    "wof:lastmodified":1449025379,
+    "wof:lastmodified":1466188123,
     "wof:name":"Learmonth Rd. Smash Repairs",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [143.810333,-37.526413,143.810333,-37.526413],
-  "geometry": {"coordinates":[143.810333,-37.526413],"type":"Point"}
+  "bbox": [
+    143.810333,
+    -37.526413,
+    143.810333,
+    -37.526413
+],
+  "geometry": {"coordinates":[143.81033300000001,-37.526413],"type":"Point"}
 }

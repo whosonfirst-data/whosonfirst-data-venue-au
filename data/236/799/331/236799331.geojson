@@ -2,13 +2,14 @@
   "id": 236799331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.980789,-34.191067,150.980789,-34.191067",
     "geom:latitude":-34.191067,
     "geom:longitude":150.980789,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 131 Parkes St",
     "sg:city":"Helensburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236799331,
-    "wof:lastmodified":1449005269,
+    "wof:lastmodified":1466191948,
     "wof:name":"Helensburgh Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [150.980789,-34.191067,150.980789,-34.191067],
-  "geometry": {"coordinates":[150.980789,-34.191067],"type":"Point"}
+  "bbox": [
+    150.980789,
+    -34.191067,
+    150.980789,
+    -34.191067
+],
+  "geometry": {"coordinates":[150.98078899999999,-34.191067],"type":"Point"}
 }

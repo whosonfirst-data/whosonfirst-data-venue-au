@@ -2,13 +2,14 @@
   "id": 219737099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.786469,-19.279392,146.786469,-19.279392",
     "geom:latitude":-19.279392,
     "geom:longitude":146.786469,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Hopkins St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219737099,
-    "wof:lastmodified":1449071188,
+    "wof:lastmodified":1466191296,
     "wof:name":"Design Engineer",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [146.786469,-19.279392,146.786469,-19.279392],
-  "geometry": {"coordinates":[146.786469,-19.279392],"type":"Point"}
+  "bbox": [
+    146.786469,
+    -19.279392,
+    146.786469,
+    -19.279392
+],
+  "geometry": {"coordinates":[146.78646900000001,-19.279392],"type":"Point"}
 }

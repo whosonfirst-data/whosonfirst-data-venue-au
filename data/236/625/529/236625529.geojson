@@ -2,13 +2,14 @@
   "id": 236625529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154724,-33.964283,151.154724,-33.964283",
     "geom:latitude":-33.964283,
     "geom:longitude":151.154724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"114 The Grand Pde",
     "sg:city":"Brighton-le-Sands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236625529,
-    "wof:lastmodified":1449005311,
+    "wof:lastmodified":1466191704,
     "wof:name":"Gang Thai Take Away",
     "wof:parent_id":85768933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [151.154724,-33.964283,151.154724,-33.964283],
-  "geometry": {"coordinates":[151.154724,-33.964283],"type":"Point"}
+  "bbox": [
+    151.154724,
+    -33.964283,
+    151.154724,
+    -33.964283
+],
+  "geometry": {"coordinates":[151.15472399999999,-33.964283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236510549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166443,-32.566181,151.166443,-32.566181",
     "geom:latitude":-32.566181,
     "geom:longitude":151.166443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236510549,
-    "wof:lastmodified":1449003671,
+    "wof:lastmodified":1466191314,
     "wof:name":"Singleton Heights Bakery",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.166443,-32.566181,151.166443,-32.566181],
-  "geometry": {"coordinates":[151.166443,-32.566181],"type":"Point"}
+  "bbox": [
+    151.166443,
+    -32.566181,
+    151.166443,
+    -32.566181
+],
+  "geometry": {"coordinates":[151.16644299999999,-32.566181],"type":"Point"}
 }

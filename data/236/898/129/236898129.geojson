@@ -2,13 +2,14 @@
   "id": 236898129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.519241,-35.018227,138.519241,-35.018227",
     "geom:latitude":-35.018227,
     "geom:longitude":138.519241,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Commercial Rd",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236898129,
-    "wof:lastmodified":1449001626,
+    "wof:lastmodified":1466192085,
     "wof:name":"Windsor Theatres",
     "wof:parent_id":85768923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.519241,-35.018227,138.519241,-35.018227],
-  "geometry": {"coordinates":[138.519241,-35.018227],"type":"Point"}
+  "bbox": [
+    138.519241,
+    -35.018227,
+    138.519241,
+    -35.018227
+],
+  "geometry": {"coordinates":[138.51924099999999,-35.018227],"type":"Point"}
 }

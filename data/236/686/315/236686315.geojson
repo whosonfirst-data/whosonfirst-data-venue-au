@@ -2,13 +2,14 @@
   "id": 236686315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.471054,-31.899162,152.471054,-31.899162",
     "geom:latitude":-31.899162,
     "geom:longitude":152.471054,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Cowper St",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236686315,
-    "wof:lastmodified":1449004282,
+    "wof:lastmodified":1466191824,
     "wof:name":"A R L Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rugby"
     ]
 },
-  "bbox": [152.471054,-31.899162,152.471054,-31.899162],
-  "geometry": {"coordinates":[152.471054,-31.899162],"type":"Point"}
+  "bbox": [
+    152.471054,
+    -31.899162,
+    152.471054,
+    -31.899162
+],
+  "geometry": {"coordinates":[152.47105400000001,-31.899162],"type":"Point"}
 }

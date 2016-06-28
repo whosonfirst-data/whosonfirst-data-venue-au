@@ -2,13 +2,14 @@
   "id": 219498511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.058777,-33.898621,151.058777,-33.898621",
     "geom:latitude":-33.898621,
     "geom:longitude":151.058777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195c Waterloo Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219498511,
-    "wof:lastmodified":1449073078,
+    "wof:lastmodified":1466189480,
     "wof:name":"Livanos, Francene Optometrist",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.058777,-33.898621,151.058777,-33.898621],
-  "geometry": {"coordinates":[151.058777,-33.898621],"type":"Point"}
+  "bbox": [
+    151.058777,
+    -33.898621,
+    151.058777,
+    -33.898621
+],
+  "geometry": {"coordinates":[151.05877699999999,-33.898621],"type":"Point"}
 }

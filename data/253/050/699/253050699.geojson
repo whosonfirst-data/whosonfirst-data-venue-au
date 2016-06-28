@@ -2,13 +2,14 @@
   "id": 253050699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.830627,-37.828007,144.830627,-37.828007",
     "geom:latitude":-37.828007,
     "geom:longitude":144.830627,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"488 Blackshaws Rd",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253050699,
-    "wof:lastmodified":1449064453,
+    "wof:lastmodified":1466187916,
     "wof:name":"Detroit Diesel - MTU Detroit Diesel Australia",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "generator"
     ]
 },
-  "bbox": [144.830627,-37.828007,144.830627,-37.828007],
-  "geometry": {"coordinates":[144.830627,-37.828007],"type":"Point"}
+  "bbox": [
+    144.830627,
+    -37.828007,
+    144.830627,
+    -37.828007
+],
+  "geometry": {"coordinates":[144.83062699999999,-37.828007],"type":"Point"}
 }

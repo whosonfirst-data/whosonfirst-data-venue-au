@@ -2,13 +2,14 @@
   "id": 202683963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.975128,-27.345907,152.975128,-27.345907",
     "geom:latitude":-27.345907,
     "geom:longitude":152.975128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2C 721 Albany Creek Rd",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202683963,
-    "wof:lastmodified":1449061040,
+    "wof:lastmodified":1466188533,
     "wof:name":"Bailey Debbie",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.975128,-27.345907,152.975128,-27.345907],
-  "geometry": {"coordinates":[152.975128,-27.345907],"type":"Point"}
+  "bbox": [
+    152.975128,
+    -27.345907,
+    152.975128,
+    -27.345907
+],
+  "geometry": {"coordinates":[152.97512800000001,-27.345907],"type":"Point"}
 }

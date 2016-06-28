@@ -2,13 +2,14 @@
   "id": 220161923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.369019,-38.168064,144.369019,-38.168064",
     "geom:latitude":-38.168064,
     "geom:longitude":144.369019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Wood St",
     "sg:city":"South Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220161923,
-    "wof:lastmodified":1449074355,
+    "wof:lastmodified":1466188832,
     "wof:name":"Elliots Fire And Safety Services",
     "wof:parent_id":85777711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [144.369019,-38.168064,144.369019,-38.168064],
-  "geometry": {"coordinates":[144.369019,-38.168064],"type":"Point"}
+  "bbox": [
+    144.369019,
+    -38.168064,
+    144.369019,
+    -38.168064
+],
+  "geometry": {"coordinates":[144.36901900000001,-38.168064],"type":"Point"}
 }

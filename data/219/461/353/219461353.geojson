@@ -2,13 +2,14 @@
   "id": 219461353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.015472,-37.606892,145.015472,-37.606892",
     "geom:latitude":-37.606892,
     "geom:longitude":145.015472,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Craigieburn Rd",
     "sg:city":"Wollert",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219461353,
-    "wof:lastmodified":1449071715,
+    "wof:lastmodified":1466189029,
     "wof:name":"Wallace M R",
     "wof:parent_id":85769261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.015472,-37.606892,145.015472,-37.606892],
-  "geometry": {"coordinates":[145.015472,-37.606892],"type":"Point"}
+  "bbox": [
+    145.015472,
+    -37.606892,
+    145.015472,
+    -37.606892
+],
+  "geometry": {"coordinates":[145.01547199999999,-37.606892],"type":"Point"}
 }

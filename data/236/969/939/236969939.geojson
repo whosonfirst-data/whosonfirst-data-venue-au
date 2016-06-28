@@ -2,13 +2,14 @@
   "id": 236969939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.507309,-37.975964,145.507309,-37.975964",
     "geom:latitude":-37.975964,
     "geom:longitude":145.507309,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"546 Paternoster Rd",
     "sg:city":"Mt Burnett",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236969939,
-    "wof:lastmodified":1449002273,
+    "wof:lastmodified":1466192174,
     "wof:name":"Ray Road Boring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.507309,-37.975964,145.507309,-37.975964],
-  "geometry": {"coordinates":[145.507309,-37.975964],"type":"Point"}
+  "bbox": [
+    145.507309,
+    -37.975964,
+    145.507309,
+    -37.975964
+],
+  "geometry": {"coordinates":[145.50730899999999,-37.975964],"type":"Point"}
 }

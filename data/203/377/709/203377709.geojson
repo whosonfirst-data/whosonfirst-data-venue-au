@@ -2,13 +2,14 @@
   "id": 203377709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.83284,-37.540577,143.83284,-37.540577",
     "geom:latitude":-37.540577,
     "geom:longitude":143.83284,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Howitt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203377709,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466189158,
     "wof:name":"Chris Vaughan",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [143.83284,-37.540577,143.83284,-37.540577],
+  "bbox": [
+    143.83284,
+    -37.540577,
+    143.83284,
+    -37.540577
+],
   "geometry": {"coordinates":[143.83284,-37.540577],"type":"Point"}
 }

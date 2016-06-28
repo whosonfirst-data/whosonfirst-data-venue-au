@@ -2,13 +2,14 @@
   "id": 219419247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.854416,-33.741959,150.854416,-33.741959",
     "geom:latitude":-33.741959,
     "geom:longitude":150.854416,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Glendenning Preschool, 48",
     "sg:city":"Golding Drv, Glendenning",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219419247,
-    "wof:lastmodified":1449073850,
+    "wof:lastmodified":1466188569,
     "wof:name":"Blacktown City Council",
     "wof:parent_id":85774811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "child"
     ]
 },
-  "bbox": [150.854416,-33.741959,150.854416,-33.741959],
-  "geometry": {"coordinates":[150.854416,-33.741959],"type":"Point"}
+  "bbox": [
+    150.854416,
+    -33.741959,
+    150.854416,
+    -33.741959
+],
+  "geometry": {"coordinates":[150.85441599999999,-33.741959],"type":"Point"}
 }

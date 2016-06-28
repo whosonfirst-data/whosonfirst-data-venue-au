@@ -2,13 +2,14 @@
   "id": 202765709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.782669,-32.929882,151.782669,-32.929882",
     "geom:latitude":-32.929882,
     "geom:longitude":151.782669,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Church St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202765709,
-    "wof:lastmodified":1449061572,
+    "wof:lastmodified":1466189949,
     "wof:name":"Discovery CCTV",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [151.782669,-32.929882,151.782669,-32.929882],
+  "bbox": [
+    151.782669,
+    -32.929882,
+    151.782669,
+    -32.929882
+],
   "geometry": {"coordinates":[151.782669,-32.929882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202399053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.936157,-37.830448,144.936157,-37.830448",
     "geom:latitude":-37.830448,
     "geom:longitude":144.936157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 2, 577 Plummer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202399053,
-    "wof:lastmodified":1449060549,
+    "wof:lastmodified":1466187664,
     "wof:name":"Whelans Warehouse",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [144.936157,-37.830448,144.936157,-37.830448],
-  "geometry": {"coordinates":[144.936157,-37.830448],"type":"Point"}
+  "bbox": [
+    144.936157,
+    -37.830448,
+    144.936157,
+    -37.830448
+],
+  "geometry": {"coordinates":[144.93615700000001,-37.830448],"type":"Point"}
 }

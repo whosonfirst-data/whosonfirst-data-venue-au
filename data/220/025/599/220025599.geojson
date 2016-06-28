@@ -2,13 +2,14 @@
   "id": 220025599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.616486,-35.021412,138.616486,-35.021412",
     "geom:latitude":-35.021412,
     "geom:longitude":138.616486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Shepherds Hill Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025599,
-    "wof:lastmodified":1449074732,
+    "wof:lastmodified":1466187237,
     "wof:name":"Fairley's Shoe Store",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [138.616486,-35.021412,138.616486,-35.021412],
-  "geometry": {"coordinates":[138.616486,-35.021412],"type":"Point"}
+  "bbox": [
+    138.616486,
+    -35.021412,
+    138.616486,
+    -35.021412
+],
+  "geometry": {"coordinates":[138.61648600000001,-35.021412],"type":"Point"}
 }

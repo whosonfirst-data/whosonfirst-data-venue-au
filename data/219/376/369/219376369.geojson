@@ -2,13 +2,14 @@
   "id": 219376369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.560242,-35.342442,143.560242,-35.342442",
     "geom:latitude":-35.342442,
     "geom:longitude":143.560242,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Campbell St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219376369,
-    "wof:lastmodified":1449071609,
+    "wof:lastmodified":1466188158,
     "wof:name":"Pinky's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [143.560242,-35.342442,143.560242,-35.342442],
-  "geometry": {"coordinates":[143.560242,-35.342442],"type":"Point"}
+  "bbox": [
+    143.560242,
+    -35.342442,
+    143.560242,
+    -35.342442
+],
+  "geometry": {"coordinates":[143.56024199999999,-35.342442],"type":"Point"}
 }

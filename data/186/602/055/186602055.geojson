@@ -2,13 +2,14 @@
   "id": 186602055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.052917,-34.292034,146.052917,-34.292034",
     "geom:latitude":-34.292034,
     "geom:longitude":146.052917,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Bridge Rd",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186602055,
-    "wof:lastmodified":1449051643,
+    "wof:lastmodified":1466191030,
     "wof:name":"Zanotto Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [146.052917,-34.292034,146.052917,-34.292034],
-  "geometry": {"coordinates":[146.052917,-34.292034],"type":"Point"}
+  "bbox": [
+    146.052917,
+    -34.292034,
+    146.052917,
+    -34.292034
+],
+  "geometry": {"coordinates":[146.05291700000001,-34.292034],"type":"Point"}
 }

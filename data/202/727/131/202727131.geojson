@@ -2,13 +2,14 @@
   "id": 202727131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.952026,-27.335981,152.952026,-27.335981",
     "geom:latitude":-27.335981,
     "geom:longitude":152.952026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Queen Elizabeth Drv",
     "sg:city":"Eatons Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202727131,
-    "wof:lastmodified":1449060489,
+    "wof:lastmodified":1466189343,
     "wof:name":"PartyJuke",
     "wof:parent_id":85773841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jukebox"
     ]
 },
-  "bbox": [152.952026,-27.335981,152.952026,-27.335981],
-  "geometry": {"coordinates":[152.952026,-27.335981],"type":"Point"}
+  "bbox": [
+    152.952026,
+    -27.335981,
+    152.952026,
+    -27.335981
+],
+  "geometry": {"coordinates":[152.95202599999999,-27.335981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202988157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.077026,-36.07333,147.077026,-36.07333",
     "geom:latitude":-36.07333,
     "geom:longitude":147.077026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Tankards Rd",
     "sg:city":"Talgarno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202988157,
-    "wof:lastmodified":1449060987,
+    "wof:lastmodified":1466191149,
     "wof:name":"Upper Murray Freight Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carrier"
     ]
 },
-  "bbox": [147.077026,-36.07333,147.077026,-36.07333],
-  "geometry": {"coordinates":[147.077026,-36.07333],"type":"Point"}
+  "bbox": [
+    147.077026,
+    -36.07333,
+    147.077026,
+    -36.07333
+],
+  "geometry": {"coordinates":[147.07702599999999,-36.07333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236100443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.660645,-37.886883,144.660645,-37.886883",
     "geom:latitude":-37.886883,
     "geom:longitude":144.660645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Rd",
     "sg:city":"Werribee South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236100443,
-    "wof:lastmodified":1449004218,
+    "wof:lastmodified":1466188635,
     "wof:name":"Price J & H",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grower"
     ]
 },
-  "bbox": [144.660645,-37.886883,144.660645,-37.886883],
-  "geometry": {"coordinates":[144.660645,-37.886883],"type":"Point"}
+  "bbox": [
+    144.660645,
+    -37.886883,
+    144.660645,
+    -37.886883
+],
+  "geometry": {"coordinates":[144.66064499999999,-37.886883],"type":"Point"}
 }

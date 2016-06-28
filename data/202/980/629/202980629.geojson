@@ -2,13 +2,14 @@
   "id": 202980629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178146,-33.7962,151.178146,-33.7962",
     "geom:latitude":-33.7962,
     "geom:longitude":151.178146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tower B, Ste 1501, Lvl 15, 799 Pacific Hwy",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202980629,
-    "wof:lastmodified":1449060282,
+    "wof:lastmodified":1466191137,
     "wof:name":"Genesys Wealth Advisers",
     "wof:parent_id":85774325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.178146,-33.7962,151.178146,-33.7962],
+  "bbox": [
+    151.178146,
+    -33.7962,
+    151.178146,
+    -33.7962
+],
   "geometry": {"coordinates":[151.178146,-33.7962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219467993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.098312,-37.600838,145.098312,-37.600838",
     "geom:latitude":-37.600838,
     "geom:longitude":145.098312,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bridge Inn Rd",
     "sg:city":"Mernda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219467993,
-    "wof:lastmodified":1449073171,
+    "wof:lastmodified":1466189104,
     "wof:name":"Feature Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [145.098312,-37.600838,145.098312,-37.600838],
-  "geometry": {"coordinates":[145.098312,-37.600838],"type":"Point"}
+  "bbox": [
+    145.098312,
+    -37.600838,
+    145.098312,
+    -37.600838
+],
+  "geometry": {"coordinates":[145.09831199999999,-37.600838],"type":"Point"}
 }

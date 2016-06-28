@@ -2,13 +2,14 @@
   "id": 252944529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.080856,-26.565887,153.080856,-26.565887",
     "geom:latitude":-26.565887,
     "geom:longitude":153.080856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Suncoast Beach Drv",
     "sg:city":"Mt Coolum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252944529,
-    "wof:lastmodified":1449005959,
+    "wof:lastmodified":1466189370,
     "wof:name":"Lawrence G B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [153.080856,-26.565887,153.080856,-26.565887],
-  "geometry": {"coordinates":[153.080856,-26.565887],"type":"Point"}
+  "bbox": [
+    153.080856,
+    -26.565887,
+    153.080856,
+    -26.565887
+],
+  "geometry": {"coordinates":[153.08085600000001,-26.565887],"type":"Point"}
 }

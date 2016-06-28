@@ -2,13 +2,14 @@
   "id": 253039119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.816147,-37.81786,144.816147,-37.81786",
     "geom:latitude":-37.81786,
     "geom:longitude":144.816147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17- 19 Somerleigh Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253039119,
-    "wof:lastmodified":1449065405,
+    "wof:lastmodified":1466187702,
     "wof:name":"Rentco",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [144.816147,-37.81786,144.816147,-37.81786],
+  "bbox": [
+    144.816147,
+    -37.81786,
+    144.816147,
+    -37.81786
+],
   "geometry": {"coordinates":[144.816147,-37.81786],"type":"Point"}
 }

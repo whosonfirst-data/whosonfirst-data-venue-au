@@ -2,13 +2,14 @@
   "id": 219673105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.510696,-32.180424,152.510696,-32.180424",
     "geom:latitude":-32.180424,
     "geom:longitude":152.510696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Wharf St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":219673105,
-    "wof:lastmodified":1449071754,
+    "wof:lastmodified":1466191095,
     "wof:name":"Professionals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.510696,-32.180424,152.510696,-32.180424],
+  "bbox": [
+    152.510696,
+    -32.180424,
+    152.510696,
+    -32.180424
+],
   "geometry": {"coordinates":[152.510696,-32.180424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185676883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.735443,-32.051147,115.735443,-32.051147",
     "geom:latitude":-32.051147,
     "geom:longitude":115.735443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Birksgate Rd",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185676883,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1466188718,
     "wof:name":"Pacific Terminals (Australia) Pty Ltd",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "liquid"
     ]
 },
-  "bbox": [115.735443,-32.051147,115.735443,-32.051147],
+  "bbox": [
+    115.735443,
+    -32.051147,
+    115.735443,
+    -32.051147
+],
   "geometry": {"coordinates":[115.735443,-32.051147],"type":"Point"}
 }

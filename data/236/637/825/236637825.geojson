@@ -2,13 +2,14 @@
   "id": 236637825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.98912,-33.937592,150.98912,-33.937592",
     "geom:latitude":-33.937592,
     "geom:longitude":150.98912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bullecourt Ave",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236637825,
-    "wof:lastmodified":1449001675,
+    "wof:lastmodified":1466191727,
     "wof:name":"Hyster Asia-Pacific",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [150.98912,-33.937592,150.98912,-33.937592],
-  "geometry": {"coordinates":[150.98912,-33.937592],"type":"Point"}
+  "bbox": [
+    150.98912,
+    -33.937592,
+    150.98912,
+    -33.937592
+],
+  "geometry": {"coordinates":[150.98912000000001,-33.937592],"type":"Point"}
 }

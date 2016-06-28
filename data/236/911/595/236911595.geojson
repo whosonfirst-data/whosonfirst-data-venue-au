@@ -2,13 +2,14 @@
   "id": 236911595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.512817,-34.978844,138.512817,-34.978844",
     "geom:latitude":-34.978844,
     "geom:longitude":138.512817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18- 20 Durham St",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236911595,
-    "wof:lastmodified":1449004604,
+    "wof:lastmodified":1466192114,
     "wof:name":"Glenelg Seaway Apartments",
     "wof:parent_id":85779625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.512817,-34.978844,138.512817,-34.978844],
-  "geometry": {"coordinates":[138.512817,-34.978844],"type":"Point"}
+  "bbox": [
+    138.512817,
+    -34.978844,
+    138.512817,
+    -34.978844
+],
+  "geometry": {"coordinates":[138.51281700000001,-34.978844],"type":"Point"}
 }

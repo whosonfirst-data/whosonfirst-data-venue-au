@@ -2,13 +2,14 @@
   "id": 236840907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.895447,-34.399498,150.895447,-34.399498",
     "geom:latitude":-34.399498,
     "geom:longitude":150.895447,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Montague St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236840907,
-    "wof:lastmodified":1449004352,
+    "wof:lastmodified":1466192030,
     "wof:name":"Motto Merchandise",
     "wof:parent_id":85769267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [150.895447,-34.399498,150.895447,-34.399498],
-  "geometry": {"coordinates":[150.895447,-34.399498],"type":"Point"}
+  "bbox": [
+    150.895447,
+    -34.399498,
+    150.895447,
+    -34.399498
+],
+  "geometry": {"coordinates":[150.89544699999999,-34.399498],"type":"Point"}
 }

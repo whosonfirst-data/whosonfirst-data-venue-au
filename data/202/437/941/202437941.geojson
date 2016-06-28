@@ -2,13 +2,14 @@
   "id": 202437941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.950317,-37.83382,144.950317,-37.83382",
     "geom:latitude":-37.83382,
     "geom:longitude":144.950317,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"491 City Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202437941,
-    "wof:lastmodified":1449061934,
+    "wof:lastmodified":1466188557,
     "wof:name":"Business Choice",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [144.950317,-37.83382,144.950317,-37.83382],
-  "geometry": {"coordinates":[144.950317,-37.83382],"type":"Point"}
+  "bbox": [
+    144.950317,
+    -37.83382,
+    144.950317,
+    -37.83382
+],
+  "geometry": {"coordinates":[144.95031700000001,-37.83382],"type":"Point"}
 }

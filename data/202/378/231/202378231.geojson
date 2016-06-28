@@ -2,13 +2,14 @@
   "id": 202378231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.751038,-34.596401,138.751038,-34.596401",
     "geom:latitude":-34.596401,
     "geom:longitude":138.751038,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyndoch Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202378231,
-    "wof:lastmodified":1449061804,
+    "wof:lastmodified":1466187040,
     "wof:name":"Tundarri Sales & Service Pty Ltd",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.751038,-34.596401,138.751038,-34.596401],
-  "geometry": {"coordinates":[138.751038,-34.596401],"type":"Point"}
+  "bbox": [
+    138.751038,
+    -34.596401,
+    138.751038,
+    -34.596401
+],
+  "geometry": {"coordinates":[138.75103799999999,-34.596401],"type":"Point"}
 }

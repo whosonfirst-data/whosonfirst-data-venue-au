@@ -2,13 +2,14 @@
   "id": 219542233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.052643,-33.917507,151.052643,-33.917507",
     "geom:latitude":-33.917507,
     "geom:longitude":151.052643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Mount Lewis Ave",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219542233,
-    "wof:lastmodified":1449073149,
+    "wof:lastmodified":1466190220,
     "wof:name":"Australia Care Employment Agency",
     "wof:parent_id":85776865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.052643,-33.917507,151.052643,-33.917507],
-  "geometry": {"coordinates":[151.052643,-33.917507],"type":"Point"}
+  "bbox": [
+    151.052643,
+    -33.917507,
+    151.052643,
+    -33.917507
+],
+  "geometry": {"coordinates":[151.05264299999999,-33.917507],"type":"Point"}
 }

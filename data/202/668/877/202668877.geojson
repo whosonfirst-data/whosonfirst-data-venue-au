@@ -2,13 +2,14 @@
   "id": 202668877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.018784,-27.378544,153.018784,-27.378544",
     "geom:latitude":-27.378544,
     "geom:longitude":153.018784,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Milburn St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202668877,
-    "wof:lastmodified":1449061865,
+    "wof:lastmodified":1466188244,
     "wof:name":"Physiologic Chermside West",
     "wof:parent_id":85776239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [153.018784,-27.378544,153.018784,-27.378544],
-  "geometry": {"coordinates":[153.018784,-27.378544],"type":"Point"}
+  "bbox": [
+    153.018784,
+    -27.378544,
+    153.018784,
+    -27.378544
+],
+  "geometry": {"coordinates":[153.01878400000001,-27.378544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185887951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.706985,-25.528265,152.706985,-25.528265",
     "geom:latitude":-25.528265,
     "geom:longitude":152.706985,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Janet Rd Via Saltwater Creek Rd",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185887951,
-    "wof:lastmodified":1449007900,
+    "wof:lastmodified":1466187757,
     "wof:name":"B & G Haulage",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cartage"
     ]
 },
-  "bbox": [152.706985,-25.528265,152.706985,-25.528265],
+  "bbox": [
+    152.706985,
+    -25.528265,
+    152.706985,
+    -25.528265
+],
   "geometry": {"coordinates":[152.706985,-25.528265],"type":"Point"}
 }

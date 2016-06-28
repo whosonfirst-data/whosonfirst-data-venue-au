@@ -2,13 +2,14 @@
   "id": 236067733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.807693,-37.703125,144.807693,-37.703125",
     "geom:latitude":-37.703125,
     "geom:longitude":144.807693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"874 Old Calder Hwy",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236067733,
-    "wof:lastmodified":1449001839,
+    "wof:lastmodified":1466187985,
     "wof:name":"Castoni Marine",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [144.807693,-37.703125,144.807693,-37.703125],
+  "bbox": [
+    144.807693,
+    -37.703125,
+    144.807693,
+    -37.703125
+],
   "geometry": {"coordinates":[144.807693,-37.703125],"type":"Point"}
 }

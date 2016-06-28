@@ -2,13 +2,14 @@
   "id": 202465047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.960724,-37.833683,144.960724,-37.833683",
     "geom:latitude":-37.833683,
     "geom:longitude":144.960724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"306- 308 Clarendon St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202465047,
-    "wof:lastmodified":1449061797,
+    "wof:lastmodified":1466188990,
     "wof:name":"Mitchell McCabe",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [144.960724,-37.833683,144.960724,-37.833683],
+  "bbox": [
+    144.960724,
+    -37.833683,
+    144.960724,
+    -37.833683
+],
   "geometry": {"coordinates":[144.960724,-37.833683],"type":"Point"}
 }

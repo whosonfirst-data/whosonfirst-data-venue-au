@@ -2,13 +2,14 @@
   "id": 169769987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.733231,-38.629395,145.733231,-38.629395",
     "geom:latitude":-38.629395,
     "geom:longitude":145.733231,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Kenneth St",
     "sg:city":"Inverloch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169769987,
-    "wof:lastmodified":1449033786,
+    "wof:lastmodified":1466188230,
     "wof:name":"Parks W.K. & J.M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.733231,-38.629395,145.733231,-38.629395],
-  "geometry": {"coordinates":[145.733231,-38.629395],"type":"Point"}
+  "bbox": [
+    145.733231,
+    -38.629395,
+    145.733231,
+    -38.629395
+],
+  "geometry": {"coordinates":[145.73323099999999,-38.629395],"type":"Point"}
 }

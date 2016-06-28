@@ -2,13 +2,14 @@
   "id": 219585485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.994064,-33.916348,150.994064,-33.916348",
     "geom:latitude":-33.916348,
     "geom:longitude":150.994064,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hangar 480, Miles St",
     "sg:city":"Bankstown Airport Bankstown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219585485,
-    "wof:lastmodified":1449072736,
+    "wof:lastmodified":1466190464,
     "wof:name":"Heli-Muster Pty Ltd",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [150.994064,-33.916348,150.994064,-33.916348],
-  "geometry": {"coordinates":[150.994064,-33.916348],"type":"Point"}
+  "bbox": [
+    150.994064,
+    -33.916348,
+    150.994064,
+    -33.916348
+],
+  "geometry": {"coordinates":[150.99406400000001,-33.916348],"type":"Point"}
 }

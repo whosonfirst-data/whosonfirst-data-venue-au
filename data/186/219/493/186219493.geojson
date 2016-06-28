@@ -2,13 +2,14 @@
   "id": 186219493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.901413,-31.4349,152.901413,-31.4349",
     "geom:latitude":-31.4349,
     "geom:longitude":152.901413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Gordon St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186219493,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1466187205,
     "wof:name":"BIStel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [152.901413,-31.4349,152.901413,-31.4349],
-  "geometry": {"coordinates":[152.901413,-31.4349],"type":"Point"}
+  "bbox": [
+    152.901413,
+    -31.4349,
+    152.901413,
+    -31.4349
+],
+  "geometry": {"coordinates":[152.90141299999999,-31.4349],"type":"Point"}
 }

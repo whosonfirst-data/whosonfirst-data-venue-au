@@ -2,13 +2,14 @@
   "id": 236259223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.328278,-31.234112,119.328278,-31.234112",
     "geom:latitude":-31.234112,
     "geom:longitude":119.328278,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Great Eastern Hwy",
     "sg:city":"Southern Cross",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236259223,
-    "wof:lastmodified":1449002245,
+    "wof:lastmodified":1466190108,
     "wof:name":"Caltex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [119.328278,-31.234112,119.328278,-31.234112],
+  "bbox": [
+    119.328278,
+    -31.234112,
+    119.328278,
+    -31.234112
+],
   "geometry": {"coordinates":[119.328278,-31.234112],"type":"Point"}
 }

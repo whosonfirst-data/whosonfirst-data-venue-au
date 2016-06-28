@@ -2,13 +2,14 @@
   "id": 219566311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.030518,-33.93417,151.030518,-33.93417",
     "geom:latitude":-33.93417,
     "geom:longitude":151.030518,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Canterbury Rd",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219566311,
-    "wof:lastmodified":1449070442,
+    "wof:lastmodified":1466190421,
     "wof:name":"Hertz.",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [151.030518,-33.93417,151.030518,-33.93417],
+  "bbox": [
+    151.030518,
+    -33.93417,
+    151.030518,
+    -33.93417
+],
   "geometry": {"coordinates":[151.030518,-33.93417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203383075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.841492,-37.559643,143.841492,-37.559643",
     "geom:latitude":-37.559643,
     "geom:longitude":143.841492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Ripon St South & Dana St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203383075,
-    "wof:lastmodified":1449025731,
+    "wof:lastmodified":1466189253,
     "wof:name":"Local Home Improvements",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roof"
     ]
 },
-  "bbox": [143.841492,-37.559643,143.841492,-37.559643],
-  "geometry": {"coordinates":[143.841492,-37.559643],"type":"Point"}
+  "bbox": [
+    143.841492,
+    -37.559643,
+    143.841492,
+    -37.559643
+],
+  "geometry": {"coordinates":[143.84149199999999,-37.559643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202919965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088913,-30.31583,153.088913,-30.31583",
     "geom:latitude":-30.31583,
     "geom:longitude":153.088913,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Isles Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202919965,
-    "wof:lastmodified":1449062033,
+    "wof:lastmodified":1466190809,
     "wof:name":"Hills Transport",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [153.088913,-30.31583,153.088913,-30.31583],
-  "geometry": {"coordinates":[153.088913,-30.31583],"type":"Point"}
+  "bbox": [
+    153.088913,
+    -30.31583,
+    153.088913,
+    -30.31583
+],
+  "geometry": {"coordinates":[153.08891299999999,-30.31583],"type":"Point"}
 }

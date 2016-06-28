@@ -2,13 +2,14 @@
   "id": 219549785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.979965,-33.914982,150.979965,-33.914982",
     "geom:latitude":-33.914982,
     "geom:longitude":150.979965,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Endeavour Rd",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219549785,
-    "wof:lastmodified":1449071375,
+    "wof:lastmodified":1466190271,
     "wof:name":"McInnes L R",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [150.979965,-33.914982,150.979965,-33.914982],
-  "geometry": {"coordinates":[150.979965,-33.914982],"type":"Point"}
+  "bbox": [
+    150.979965,
+    -33.914982,
+    150.979965,
+    -33.914982
+],
+  "geometry": {"coordinates":[150.97996499999999,-33.914982],"type":"Point"}
 }

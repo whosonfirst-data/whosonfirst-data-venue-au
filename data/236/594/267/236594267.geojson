@@ -2,13 +2,14 @@
   "id": 236594267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.052246,-33.952778,151.052246,-33.952778",
     "geom:latitude":-33.952778,
     "geom:longitude":151.052246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Belmore Rd",
     "sg:city":"Riverwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236594267,
-    "wof:lastmodified":1449002031,
+    "wof:lastmodified":1466191607,
     "wof:name":"Fit & Active Physiotherapy",
     "wof:parent_id":85770105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.052246,-33.952778,151.052246,-33.952778],
+  "bbox": [
+    151.052246,
+    -33.952778,
+    151.052246,
+    -33.952778
+],
   "geometry": {"coordinates":[151.052246,-33.952778],"type":"Point"}
 }

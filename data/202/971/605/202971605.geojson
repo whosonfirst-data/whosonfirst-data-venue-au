@@ -2,13 +2,14 @@
   "id": 202971605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175461,-33.89209,151.175461,-33.89209",
     "geom:latitude":-33.89209,
     "geom:longitude":151.175461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Denison St",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202971605,
-    "wof:lastmodified":1449061405,
+    "wof:lastmodified":1466191093,
     "wof:name":"Jones & Jones Automotive",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.175461,-33.89209,151.175461,-33.89209],
-  "geometry": {"coordinates":[151.175461,-33.89209],"type":"Point"}
+  "bbox": [
+    151.175461,
+    -33.89209,
+    151.175461,
+    -33.89209
+],
+  "geometry": {"coordinates":[151.17546100000001,-33.89209],"type":"Point"}
 }

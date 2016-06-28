@@ -2,13 +2,14 @@
   "id": 219285715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.204254,-38.196472,146.204254,-38.196472",
     "geom:latitude":-38.196472,
     "geom:longitude":146.204254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Melaleuca Drv",
     "sg:city":"Trafalgar East",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219285715,
-    "wof:lastmodified":1449070467,
+    "wof:lastmodified":1466187415,
     "wof:name":"Williams Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "portable"
     ]
 },
-  "bbox": [146.204254,-38.196472,146.204254,-38.196472],
-  "geometry": {"coordinates":[146.204254,-38.196472],"type":"Point"}
+  "bbox": [
+    146.204254,
+    -38.196472,
+    146.204254,
+    -38.196472
+],
+  "geometry": {"coordinates":[146.20425399999999,-38.196472],"type":"Point"}
 }

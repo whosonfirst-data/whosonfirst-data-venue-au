@@ -2,13 +2,14 @@
   "id": 220085143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.081055,-40.839176,145.081055,-40.839176",
     "geom:latitude":-40.839176,
     "geom:longitude":145.081055,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Mella Rd",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220085143,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1466187795,
     "wof:name":"Circular Head Spreading Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "insecticide"
     ]
 },
-  "bbox": [145.081055,-40.839176,145.081055,-40.839176],
-  "geometry": {"coordinates":[145.081055,-40.839176],"type":"Point"}
+  "bbox": [
+    145.081055,
+    -40.839176,
+    145.081055,
+    -40.839176
+],
+  "geometry": {"coordinates":[145.08105499999999,-40.839176],"type":"Point"}
 }

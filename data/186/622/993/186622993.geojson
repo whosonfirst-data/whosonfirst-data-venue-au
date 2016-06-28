@@ -2,13 +2,14 @@
   "id": 186622993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.039551,-34.288628,146.039551,-34.288628",
     "geom:latitude":-34.288628,
     "geom:longitude":146.039551,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Yambil St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186622993,
-    "wof:lastmodified":1449052528,
+    "wof:lastmodified":1466191075,
     "wof:name":"AGL Energy Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [146.039551,-34.288628,146.039551,-34.288628],
-  "geometry": {"coordinates":[146.039551,-34.288628],"type":"Point"}
+  "bbox": [
+    146.039551,
+    -34.288628,
+    146.039551,
+    -34.288628
+],
+  "geometry": {"coordinates":[146.03955099999999,-34.288628],"type":"Point"}
 }

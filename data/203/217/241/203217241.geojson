@@ -2,13 +2,14 @@
   "id": 203217241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.904373,-41.054062,145.904373,-41.054062",
     "geom:latitude":-41.054062,
     "geom:longitude":145.904373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Ladbrooke St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203217241,
-    "wof:lastmodified":1449026762,
+    "wof:lastmodified":1466187260,
     "wof:name":"Burnie Exhaust & Service Centre",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.904373,-41.054062,145.904373,-41.054062],
-  "geometry": {"coordinates":[145.904373,-41.054062],"type":"Point"}
+  "bbox": [
+    145.904373,
+    -41.054062,
+    145.904373,
+    -41.054062
+],
+  "geometry": {"coordinates":[145.90437299999999,-41.054062],"type":"Point"}
 }

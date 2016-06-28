@@ -2,13 +2,14 @@
   "id": 236131171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.859528,-37.732098,144.859528,-37.732098",
     "geom:latitude":-37.732098,
     "geom:longitude":144.859528,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236131171,
-    "wof:lastmodified":1449002479,
+    "wof:lastmodified":1466189271,
     "wof:name":"Construction Electrical Services",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.859528,-37.732098,144.859528,-37.732098],
-  "geometry": {"coordinates":[144.859528,-37.732098],"type":"Point"}
+  "bbox": [
+    144.859528,
+    -37.732098,
+    144.859528,
+    -37.732098
+],
+  "geometry": {"coordinates":[144.85952800000001,-37.732098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219546853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.986206,-33.897545,150.986206,-33.897545",
     "geom:latitude":-33.897545,
     "geom:longitude":150.986206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Johnstone Rd",
     "sg:city":"Bass Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219546853,
-    "wof:lastmodified":1449070372,
+    "wof:lastmodified":1466190122,
     "wof:name":"Borgo Concrete Services",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [150.986206,-33.897545,150.986206,-33.897545],
-  "geometry": {"coordinates":[150.986206,-33.897545],"type":"Point"}
+  "bbox": [
+    150.986206,
+    -33.897545,
+    150.986206,
+    -33.897545
+],
+  "geometry": {"coordinates":[150.98620600000001,-33.897545],"type":"Point"}
 }

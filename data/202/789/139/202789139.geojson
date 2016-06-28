@@ -2,13 +2,14 @@
   "id": 202789139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.739349,-32.912506,151.739349,-32.912506",
     "geom:latitude":-32.912506,
     "geom:longitude":151.739349,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Clyde St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202789139,
-    "wof:lastmodified":1449061271,
+    "wof:lastmodified":1466190096,
     "wof:name":"Store-Safe",
     "wof:parent_id":85777109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "commercial"
     ]
 },
-  "bbox": [151.739349,-32.912506,151.739349,-32.912506],
+  "bbox": [
+    151.739349,
+    -32.912506,
+    151.739349,
+    -32.912506
+],
   "geometry": {"coordinates":[151.739349,-32.912506],"type":"Point"}
 }

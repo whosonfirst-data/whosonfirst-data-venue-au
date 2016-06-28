@@ -2,13 +2,14 @@
   "id": 219701541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.541321,-32.199821,152.541321,-32.199821",
     "geom:latitude":-32.199821,
     "geom:longitude":152.541321,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 19 Burgess Rd",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219701541,
-    "wof:lastmodified":1449073190,
+    "wof:lastmodified":1466191158,
     "wof:name":"Goodwin Shannon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "layer"
     ]
 },
-  "bbox": [152.541321,-32.199821,152.541321,-32.199821],
-  "geometry": {"coordinates":[152.541321,-32.199821],"type":"Point"}
+  "bbox": [
+    152.541321,
+    -32.199821,
+    152.541321,
+    -32.199821
+],
+  "geometry": {"coordinates":[152.54132100000001,-32.199821],"type":"Point"}
 }

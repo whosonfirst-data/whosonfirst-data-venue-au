@@ -2,13 +2,14 @@
   "id": 219434885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.751312,-32.358112,115.751312,-32.358112",
     "geom:latitude":-32.358112,
     "geom:longitude":115.751312,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8/ 14 Helmshore Way",
     "sg:city":"Port Kennedy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219434885,
-    "wof:lastmodified":1449071162,
+    "wof:lastmodified":1466188803,
     "wof:name":"Allen Air & Refrigeration",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [115.751312,-32.358112,115.751312,-32.358112],
+  "bbox": [
+    115.751312,
+    -32.358112,
+    115.751312,
+    -32.358112
+],
   "geometry": {"coordinates":[115.751312,-32.358112],"type":"Point"}
 }

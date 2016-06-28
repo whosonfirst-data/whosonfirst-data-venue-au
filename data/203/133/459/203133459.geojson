@@ -2,13 +2,14 @@
   "id": 203133459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.798912,-32.516064,115.798912,-32.516064",
     "geom:latitude":-32.516064,
     "geom:longitude":115.798912,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 22 Lakelands Rd",
     "sg:city":"Barragup Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203133459,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466189561,
     "wof:name":"KDK Engines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [115.798912,-32.516064,115.798912,-32.516064],
+  "bbox": [
+    115.798912,
+    -32.516064,
+    115.798912,
+    -32.516064
+],
   "geometry": {"coordinates":[115.798912,-32.516064],"type":"Point"}
 }

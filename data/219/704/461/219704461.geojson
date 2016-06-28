@@ -2,13 +2,14 @@
   "id": 219704461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.515167,-32.194149,152.515167,-32.194149",
     "geom:latitude":-32.194149,
     "geom:longitude":152.515167,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 2 Kularoo Drv",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219704461,
-    "wof:lastmodified":1449071320,
+    "wof:lastmodified":1466191163,
     "wof:name":"Tile Power Forster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "wall"
     ]
 },
-  "bbox": [152.515167,-32.194149,152.515167,-32.194149],
-  "geometry": {"coordinates":[152.515167,-32.194149],"type":"Point"}
+  "bbox": [
+    152.515167,
+    -32.194149,
+    152.515167,
+    -32.194149
+],
+  "geometry": {"coordinates":[152.51516699999999,-32.194149],"type":"Point"}
 }

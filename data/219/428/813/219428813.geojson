@@ -2,13 +2,14 @@
   "id": 219428813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.580841,-34.881912,138.580841,-34.881912",
     "geom:latitude":-34.881912,
     "geom:longitude":138.580841,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70- 72 Pym St",
     "sg:city":"Dudley Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219428813,
-    "wof:lastmodified":1449073664,
+    "wof:lastmodified":1466188726,
     "wof:name":"Middleton's Distribution",
     "wof:parent_id":85779095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [138.580841,-34.881912,138.580841,-34.881912],
-  "geometry": {"coordinates":[138.580841,-34.881912],"type":"Point"}
+  "bbox": [
+    138.580841,
+    -34.881912,
+    138.580841,
+    -34.881912
+],
+  "geometry": {"coordinates":[138.58084099999999,-34.881912],"type":"Point"}
 }

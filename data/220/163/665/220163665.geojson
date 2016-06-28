@@ -2,13 +2,14 @@
   "id": 220163665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363052,-38.15416,144.363052,-38.15416",
     "geom:latitude":-38.15416,
     "geom:longitude":144.363052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Bellerine St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220163665,
-    "wof:lastmodified":1449074858,
+    "wof:lastmodified":1466188868,
     "wof:name":"Malone James Dr",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.363052,-38.15416,144.363052,-38.15416],
-  "geometry": {"coordinates":[144.363052,-38.15416],"type":"Point"}
+  "bbox": [
+    144.363052,
+    -38.15416,
+    144.363052,
+    -38.15416
+],
+  "geometry": {"coordinates":[144.36305200000001,-38.15416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186489327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.769119,-19.296387,146.769119,-19.296387",
     "geom:latitude":-19.296387,
     "geom:longitude":146.769119,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7, Building G, Domain Central, Duckworth St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186489327,
-    "wof:lastmodified":1449051846,
+    "wof:lastmodified":1466190313,
     "wof:name":"Aussie",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [146.769119,-19.296387,146.769119,-19.296387],
-  "geometry": {"coordinates":[146.769119,-19.296387],"type":"Point"}
+  "bbox": [
+    146.769119,
+    -19.296387,
+    146.769119,
+    -19.296387
+],
+  "geometry": {"coordinates":[146.76911899999999,-19.296387],"type":"Point"}
 }

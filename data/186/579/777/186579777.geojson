@@ -2,13 +2,14 @@
   "id": 186579777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.979233,-29.42848,147.979233,-29.42848",
     "geom:latitude":-29.42848,
     "geom:longitude":147.979233,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Opal St",
     "sg:city":"Lightning Ridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186579777,
-    "wof:lastmodified":1449051242,
+    "wof:lastmodified":1466190859,
     "wof:name":"Murray John Art Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [147.979233,-29.42848,147.979233,-29.42848],
-  "geometry": {"coordinates":[147.979233,-29.42848],"type":"Point"}
+  "bbox": [
+    147.979233,
+    -29.42848,
+    147.979233,
+    -29.42848
+],
+  "geometry": {"coordinates":[147.97923299999999,-29.42848],"type":"Point"}
 }

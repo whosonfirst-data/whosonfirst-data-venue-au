@@ -2,13 +2,14 @@
   "id": 202377805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.746124,-34.604965,138.746124,-34.604965",
     "geom:latitude":-34.604965,
     "geom:longitude":138.746124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Adelaide Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202377805,
-    "wof:lastmodified":1449061063,
+    "wof:lastmodified":1466187020,
     "wof:name":"Clayton Hentschke Accountants",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [138.746124,-34.604965,138.746124,-34.604965],
-  "geometry": {"coordinates":[138.746124,-34.604965],"type":"Point"}
+  "bbox": [
+    138.746124,
+    -34.604965,
+    138.746124,
+    -34.604965
+],
+  "geometry": {"coordinates":[138.74612400000001,-34.604965],"type":"Point"}
 }

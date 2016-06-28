@@ -2,13 +2,14 @@
   "id": 236652193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.132095,-33.992371,151.132095,-33.992371",
     "geom:latitude":-33.992371,
     "geom:longitude":151.132095,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Rocky Pt & Russel Ave",
     "sg:city":"Sans Souci",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236652193,
-    "wof:lastmodified":1449003843,
+    "wof:lastmodified":1466191761,
     "wof:name":"BP SuperWash",
     "wof:parent_id":85770179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [151.132095,-33.992371,151.132095,-33.992371],
-  "geometry": {"coordinates":[151.132095,-33.992371],"type":"Point"}
+  "bbox": [
+    151.132095,
+    -33.992371,
+    151.132095,
+    -33.992371
+],
+  "geometry": {"coordinates":[151.13209499999999,-33.992371],"type":"Point"}
 }

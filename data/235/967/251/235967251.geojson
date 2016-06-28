@@ -2,13 +2,14 @@
   "id": 235967251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.062057,-27.424753,153.062057,-27.424753",
     "geom:latitude":-27.424753,
     "geom:longitude":153.062057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Wattle St",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235967251,
-    "wof:lastmodified":1449008590,
+    "wof:lastmodified":1466187330,
     "wof:name":"Sandford & Associates",
     "wof:parent_id":85774101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [153.062057,-27.424753,153.062057,-27.424753],
-  "geometry": {"coordinates":[153.062057,-27.424753],"type":"Point"}
+  "bbox": [
+    153.062057,
+    -27.424753,
+    153.062057,
+    -27.424753
+],
+  "geometry": {"coordinates":[153.06205700000001,-27.424753],"type":"Point"}
 }

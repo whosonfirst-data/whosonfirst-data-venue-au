@@ -2,13 +2,14 @@
   "id": 169758421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.105881,-27.21044,153.105881,-27.21044",
     "geom:latitude":-27.21044,
     "geom:longitude":153.105881,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Roma St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169758421,
-    "wof:lastmodified":1449033684,
+    "wof:lastmodified":1466188015,
     "wof:name":"Dave Little Fencing",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.105881,-27.21044,153.105881,-27.21044],
-  "geometry": {"coordinates":[153.105881,-27.21044],"type":"Point"}
+  "bbox": [
+    153.105881,
+    -27.21044,
+    153.105881,
+    -27.21044
+],
+  "geometry": {"coordinates":[153.10588100000001,-27.21044],"type":"Point"}
 }

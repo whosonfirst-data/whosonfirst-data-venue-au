@@ -2,13 +2,14 @@
   "id": 253110035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.843948,-37.754074,144.843948,-37.754074",
     "geom:latitude":-37.754074,
     "geom:longitude":144.843948,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Balfour Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253110035,
-    "wof:lastmodified":1449063799,
+    "wof:lastmodified":1466188939,
     "wof:name":"Dazmark Windows",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aluminium"
     ]
 },
-  "bbox": [144.843948,-37.754074,144.843948,-37.754074],
-  "geometry": {"coordinates":[144.843948,-37.754074],"type":"Point"}
+  "bbox": [
+    144.843948,
+    -37.754074,
+    144.843948,
+    -37.754074
+],
+  "geometry": {"coordinates":[144.84394800000001,-37.754074],"type":"Point"}
 }

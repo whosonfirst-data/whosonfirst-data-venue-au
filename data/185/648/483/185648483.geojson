@@ -2,13 +2,14 @@
   "id": 185648483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.794693,-32.055931,115.794693,-32.055931",
     "geom:latitude":-32.055931,
     "geom:longitude":115.794693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cole Pl",
     "sg:city":"Willagee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185648483,
-    "wof:lastmodified":1449007051,
+    "wof:lastmodified":1466188251,
     "wof:name":"Tilewest",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [115.794693,-32.055931,115.794693,-32.055931],
+  "bbox": [
+    115.794693,
+    -32.055931,
+    115.794693,
+    -32.055931
+],
   "geometry": {"coordinates":[115.794693,-32.055931],"type":"Point"}
 }

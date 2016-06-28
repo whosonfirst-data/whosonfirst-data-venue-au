@@ -2,13 +2,14 @@
   "id": 186364921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.138657,-33.84964,151.138657,-33.84964",
     "geom:latitude":-33.84964,
     "geom:longitude":151.138657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Burns Crs",
     "sg:city":"Chiswick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186364921,
-    "wof:lastmodified":1449051890,
+    "wof:lastmodified":1466188720,
     "wof:name":"Denton J M",
     "wof:parent_id":85776719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.138657,-33.84964,151.138657,-33.84964],
-  "geometry": {"coordinates":[151.138657,-33.84964],"type":"Point"}
+  "bbox": [
+    151.138657,
+    -33.84964,
+    151.138657,
+    -33.84964
+],
+  "geometry": {"coordinates":[151.13865699999999,-33.84964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219328879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.932327,-38.159737,145.932327,-38.159737",
     "geom:latitude":-38.159737,
     "geom:longitude":145.932327,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp1/ 63 Smith St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219328879,
-    "wof:lastmodified":1449072461,
+    "wof:lastmodified":1466187767,
     "wof:name":"Golden Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [145.932327,-38.159737,145.932327,-38.159737],
-  "geometry": {"coordinates":[145.932327,-38.159737],"type":"Point"}
+  "bbox": [
+    145.932327,
+    -38.159737,
+    145.932327,
+    -38.159737
+],
+  "geometry": {"coordinates":[145.93232699999999,-38.159737],"type":"Point"}
 }

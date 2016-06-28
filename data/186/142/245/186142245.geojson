@@ -2,13 +2,14 @@
   "id": 186142245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.726639,-31.452543,152.726639,-31.452543",
     "geom:latitude":-31.452543,
     "geom:longitude":152.726639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Clareville Ave",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186142245,
-    "wof:lastmodified":1449052477,
+    "wof:lastmodified":1466189734,
     "wof:name":"McNeil A Geoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [152.726639,-31.452543,152.726639,-31.452543],
-  "geometry": {"coordinates":[152.726639,-31.452543],"type":"Point"}
+  "bbox": [
+    152.726639,
+    -31.452543,
+    152.726639,
+    -31.452543
+],
+  "geometry": {"coordinates":[152.72663900000001,-31.452543],"type":"Point"}
 }

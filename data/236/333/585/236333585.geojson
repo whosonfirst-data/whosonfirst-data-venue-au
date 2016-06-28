@@ -2,13 +2,14 @@
   "id": 236333585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.789993,-32.095596,115.789993,-32.095596",
     "geom:latitude":-32.095596,
     "geom:longitude":115.789993,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Malcolm St",
     "sg:city":"Spearwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236333585,
-    "wof:lastmodified":1449004975,
+    "wof:lastmodified":1466190697,
     "wof:name":"Fremantle Gate Doctor",
     "wof:parent_id":85780711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gate"
     ]
 },
-  "bbox": [115.789993,-32.095596,115.789993,-32.095596],
+  "bbox": [
+    115.789993,
+    -32.095596,
+    115.789993,
+    -32.095596
+],
   "geometry": {"coordinates":[115.789993,-32.095596],"type":"Point"}
 }

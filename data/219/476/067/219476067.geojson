@@ -2,13 +2,14 @@
   "id": 219476067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.025742,-37.510391,145.025742,-37.510391",
     "geom:latitude":-37.510391,
     "geom:longitude":145.025742,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 Merriang Rd",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219476067,
-    "wof:lastmodified":1449071814,
+    "wof:lastmodified":1466189169,
     "wof:name":"Barrow Scott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dentist"
     ]
 },
-  "bbox": [145.025742,-37.510391,145.025742,-37.510391],
-  "geometry": {"coordinates":[145.025742,-37.510391],"type":"Point"}
+  "bbox": [
+    145.025742,
+    -37.510391,
+    145.025742,
+    -37.510391
+],
+  "geometry": {"coordinates":[145.02574200000001,-37.510391],"type":"Point"}
 }

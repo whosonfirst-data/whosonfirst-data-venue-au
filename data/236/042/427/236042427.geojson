@@ -2,13 +2,14 @@
   "id": 236042427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.803711,-37.71146,144.803711,-37.71146",
     "geom:latitude":-37.71146,
     "geom:longitude":144.803711,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wyperfeld Ave",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236042427,
-    "wof:lastmodified":1449004289,
+    "wof:lastmodified":1466187461,
     "wof:name":"Wyperfeld Medical Clinic",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.803711,-37.71146,144.803711,-37.71146],
-  "geometry": {"coordinates":[144.803711,-37.71146],"type":"Point"}
+  "bbox": [
+    144.803711,
+    -37.71146,
+    144.803711,
+    -37.71146
+],
+  "geometry": {"coordinates":[144.80371099999999,-37.71146],"type":"Point"}
 }

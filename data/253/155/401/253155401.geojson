@@ -2,13 +2,14 @@
   "id": 253155401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.978409,-27.587971,151.978409,-27.587971",
     "geom:latitude":-27.587971,
     "geom:longitude":151.978409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Jacquelyn St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253155401,
-    "wof:lastmodified":1449065248,
+    "wof:lastmodified":1466189703,
     "wof:name":"Vauxhall Spare Parts",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [151.978409,-27.587971,151.978409,-27.587971],
+  "bbox": [
+    151.978409,
+    -27.587971,
+    151.978409,
+    -27.587971
+],
   "geometry": {"coordinates":[151.978409,-27.587971],"type":"Point"}
 }

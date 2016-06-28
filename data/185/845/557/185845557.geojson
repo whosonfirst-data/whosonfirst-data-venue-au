@@ -2,13 +2,14 @@
   "id": 185845557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.847168,-25.293547,152.847168,-25.293547",
     "geom:latitude":-25.293547,
     "geom:longitude":152.847168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Byron St",
     "sg:city":"Scarness",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185845557,
-    "wof:lastmodified":1449006874,
+    "wof:lastmodified":1466187284,
     "wof:name":"Solarwind Electrical",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.847168,-25.293547,152.847168,-25.293547],
-  "geometry": {"coordinates":[152.847168,-25.293547],"type":"Point"}
+  "bbox": [
+    152.847168,
+    -25.293547,
+    152.847168,
+    -25.293547
+],
+  "geometry": {"coordinates":[152.84716800000001,-25.293547],"type":"Point"}
 }

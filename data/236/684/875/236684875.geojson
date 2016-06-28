@@ -2,13 +2,14 @@
   "id": 236684875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.444778,-31.891781,152.444778,-31.891781",
     "geom:latitude":-31.891781,
     "geom:longitude":152.444778,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Kolodong Rd",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236684875,
-    "wof:lastmodified":1449002297,
+    "wof:lastmodified":1466191908,
     "wof:name":"Walsh R R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [152.444778,-31.891781,152.444778,-31.891781],
-  "geometry": {"coordinates":[152.444778,-31.891781],"type":"Point"}
+  "bbox": [
+    152.444778,
+    -31.891781,
+    152.444778,
+    -31.891781
+],
+  "geometry": {"coordinates":[152.44477800000001,-31.891781],"type":"Point"}
 }

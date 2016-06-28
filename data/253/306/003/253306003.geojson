@@ -2,13 +2,14 @@
   "id": 253306003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.389954,-38.053349,145.389954,-38.053349",
     "geom:latitude":-38.053349,
     "geom:longitude":145.389954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Whiteside Rd",
     "sg:city":"Officer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253306003,
-    "wof:lastmodified":1449065664,
+    "wof:lastmodified":1466190657,
     "wof:name":"J & A Tucci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.389954,-38.053349,145.389954,-38.053349],
-  "geometry": {"coordinates":[145.389954,-38.053349],"type":"Point"}
+  "bbox": [
+    145.389954,
+    -38.053349,
+    145.389954,
+    -38.053349
+],
+  "geometry": {"coordinates":[145.38995399999999,-38.053349],"type":"Point"}
 }

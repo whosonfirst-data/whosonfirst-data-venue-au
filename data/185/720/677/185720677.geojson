@@ -2,13 +2,14 @@
   "id": 185720677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.035355,-32.730888,152.035355,-32.730888",
     "geom:latitude":-32.730888,
     "geom:longitude":152.035355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 James Scott Crs",
     "sg:city":"Lemon Tree Passage",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185720677,
-    "wof:lastmodified":1449006997,
+    "wof:lastmodified":1466189338,
     "wof:name":"Fire Consultancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [152.035355,-32.730888,152.035355,-32.730888],
-  "geometry": {"coordinates":[152.035355,-32.730888],"type":"Point"}
+  "bbox": [
+    152.035355,
+    -32.730888,
+    152.035355,
+    -32.730888
+],
+  "geometry": {"coordinates":[152.03535500000001,-32.730888],"type":"Point"}
 }

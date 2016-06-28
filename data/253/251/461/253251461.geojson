@@ -2,13 +2,14 @@
   "id": 253251461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.984955,-27.58079,151.984955,-27.58079",
     "geom:latitude":-27.58079,
     "geom:longitude":151.984955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rowbotham St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253251461,
-    "wof:lastmodified":1449062876,
+    "wof:lastmodified":1466190414,
     "wof:name":"Drive 4 You",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pooling"
     ]
 },
-  "bbox": [151.984955,-27.58079,151.984955,-27.58079],
-  "geometry": {"coordinates":[151.984955,-27.58079],"type":"Point"}
+  "bbox": [
+    151.984955,
+    -27.58079,
+    151.984955,
+    -27.58079
+],
+  "geometry": {"coordinates":[151.98495500000001,-27.58079],"type":"Point"}
 }

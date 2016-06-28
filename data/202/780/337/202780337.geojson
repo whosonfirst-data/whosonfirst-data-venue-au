@@ -2,13 +2,14 @@
   "id": 202780337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.767624,-32.927555,151.767624,-32.927555",
     "geom:latitude":-32.927555,
     "geom:longitude":151.767624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202780337,
-    "wof:lastmodified":1449062006,
+    "wof:lastmodified":1466190169,
     "wof:name":"Antiques on Hunter",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.767624,-32.927555,151.767624,-32.927555],
-  "geometry": {"coordinates":[151.767624,-32.927555],"type":"Point"}
+  "bbox": [
+    151.767624,
+    -32.927555,
+    151.767624,
+    -32.927555
+],
+  "geometry": {"coordinates":[151.76762400000001,-32.927555],"type":"Point"}
 }

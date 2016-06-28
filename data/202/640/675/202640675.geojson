@@ -2,13 +2,14 @@
   "id": 202640675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.953537,-38.017227,145.953537,-38.017227",
     "geom:latitude":-38.017227,
     "geom:longitude":145.953537,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Main Neerim Rd",
     "sg:city":"Neerim South",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202640675,
-    "wof:lastmodified":1449061223,
+    "wof:lastmodified":1466187740,
     "wof:name":"Piglets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.953537,-38.017227,145.953537,-38.017227],
-  "geometry": {"coordinates":[145.953537,-38.017227],"type":"Point"}
+  "bbox": [
+    145.953537,
+    -38.017227,
+    145.953537,
+    -38.017227
+],
+  "geometry": {"coordinates":[145.95353700000001,-38.017227],"type":"Point"}
 }

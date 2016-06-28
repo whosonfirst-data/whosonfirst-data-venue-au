@@ -2,13 +2,14 @@
   "id": 253329101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.311447,-38.061897,145.311447,-38.061897",
     "geom:latitude":-38.061897,
     "geom:longitude":145.311447,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Orchid St",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253329101,
-    "wof:lastmodified":1449063635,
+    "wof:lastmodified":1466190983,
     "wof:name":"Resilience Floor Coverings",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "layer"
     ]
 },
-  "bbox": [145.311447,-38.061897,145.311447,-38.061897],
-  "geometry": {"coordinates":[145.311447,-38.061897],"type":"Point"}
+  "bbox": [
+    145.311447,
+    -38.061897,
+    145.311447,
+    -38.061897
+],
+  "geometry": {"coordinates":[145.31144699999999,-38.061897],"type":"Point"}
 }

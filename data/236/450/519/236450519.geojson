@@ -2,13 +2,14 @@
   "id": 236450519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.222519,-21.076653,149.222519,-21.076653",
     "geom:latitude":-21.076653,
     "geom:longitude":149.222519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Anvil St",
     "sg:city":"Lamberts Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236450519,
-    "wof:lastmodified":1449004642,
+    "wof:lastmodified":1466191250,
     "wof:name":"Juicy Juice Mackay",
     "wof:parent_id":85780459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "processor"
     ]
 },
-  "bbox": [149.222519,-21.076653,149.222519,-21.076653],
-  "geometry": {"coordinates":[149.222519,-21.076653],"type":"Point"}
+  "bbox": [
+    149.222519,
+    -21.076653,
+    149.222519,
+    -21.076653
+],
+  "geometry": {"coordinates":[149.22251900000001,-21.076653],"type":"Point"}
 }

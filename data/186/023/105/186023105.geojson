@@ -2,13 +2,14 @@
   "id": 186023105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.447433,-33.380932,151.447433,-33.380932",
     "geom:latitude":-33.380932,
     "geom:longitude":151.447433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Tumbi Rd",
     "sg:city":"Tumbi Umbi",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186023105,
-    "wof:lastmodified":1449052757,
+    "wof:lastmodified":1466187568,
     "wof:name":"Central Coast Paramedical Laser & Dermal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.447433,-33.380932,151.447433,-33.380932],
-  "geometry": {"coordinates":[151.447433,-33.380932],"type":"Point"}
+  "bbox": [
+    151.447433,
+    -33.380932,
+    151.447433,
+    -33.380932
+],
+  "geometry": {"coordinates":[151.44743299999999,-33.380932],"type":"Point"}
 }

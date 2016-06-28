@@ -2,13 +2,14 @@
   "id": 203103439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.731682,-32.520905,115.731682,-32.520905",
     "geom:latitude":-32.520905,
     "geom:longitude":115.731682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116B Anstruther Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203103439,
-    "wof:lastmodified":1449026134,
+    "wof:lastmodified":1466189096,
     "wof:name":"Timark Accounting Pty Ltd",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [115.731682,-32.520905,115.731682,-32.520905],
-  "geometry": {"coordinates":[115.731682,-32.520905],"type":"Point"}
+  "bbox": [
+    115.731682,
+    -32.520905,
+    115.731682,
+    -32.520905
+],
+  "geometry": {"coordinates":[115.73168200000001,-32.520905],"type":"Point"}
 }

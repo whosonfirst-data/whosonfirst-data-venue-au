@@ -2,13 +2,14 @@
   "id": 203358811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.84549,-37.560841,143.84549,-37.560841",
     "geom:latitude":-37.560841,
     "geom:longitude":143.84549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203358811,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1466188830,
     "wof:name":"Colour On Canvas By Shandelle",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [143.84549,-37.560841,143.84549,-37.560841],
-  "geometry": {"coordinates":[143.84549,-37.560841],"type":"Point"}
+  "bbox": [
+    143.84549,
+    -37.560841,
+    143.84549,
+    -37.560841
+],
+  "geometry": {"coordinates":[143.84549000000001,-37.560841],"type":"Point"}
 }

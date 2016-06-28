@@ -2,13 +2,14 @@
   "id": 203327421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.747726,-37.651463,143.747726,-37.651463",
     "geom:latitude":-37.651463,
     "geom:longitude":143.747726,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Spratlings Rd",
     "sg:city":"Ross Creek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203327421,
-    "wof:lastmodified":1449025082,
+    "wof:lastmodified":1466188352,
     "wof:name":"Cast Jointed Gates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gate"
     ]
 },
-  "bbox": [143.747726,-37.651463,143.747726,-37.651463],
+  "bbox": [
+    143.747726,
+    -37.651463,
+    143.747726,
+    -37.651463
+],
   "geometry": {"coordinates":[143.747726,-37.651463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220114195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.538269,-38.25441,144.538269,-38.25441",
     "geom:latitude":-38.25441,
     "geom:longitude":144.538269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18- 24 Smithton Gr",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220114195,
-    "wof:lastmodified":1449074375,
+    "wof:lastmodified":1466188099,
     "wof:name":"South Coast Prefab",
     "wof:parent_id":85775099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "roof"
     ]
 },
-  "bbox": [144.538269,-38.25441,144.538269,-38.25441],
-  "geometry": {"coordinates":[144.538269,-38.25441],"type":"Point"}
+  "bbox": [
+    144.538269,
+    -38.25441,
+    144.538269,
+    -38.25441
+],
+  "geometry": {"coordinates":[144.53826900000001,-38.25441],"type":"Point"}
 }

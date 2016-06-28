@@ -2,13 +2,14 @@
   "id": 202433761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.949341,-37.846668,144.949341,-37.846668",
     "geom:latitude":-37.846668,
     "geom:longitude":144.949341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Victoria Ave",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202433761,
-    "wof:lastmodified":1449060400,
+    "wof:lastmodified":1466188480,
     "wof:name":"Transeasi Pty Ltd",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.949341,-37.846668,144.949341,-37.846668],
+  "bbox": [
+    144.949341,
+    -37.846668,
+    144.949341,
+    -37.846668
+],
   "geometry": {"coordinates":[144.949341,-37.846668],"type":"Point"}
 }

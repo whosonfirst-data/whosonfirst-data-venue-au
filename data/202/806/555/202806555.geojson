@@ -2,13 +2,14 @@
   "id": 202806555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.718445,-32.922482,151.718445,-32.922482",
     "geom:latitude":-32.922482,
     "geom:longitude":151.718445,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Lambton Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202806555,
-    "wof:lastmodified":1449060102,
+    "wof:lastmodified":1466190234,
     "wof:name":"Aroma Tiling",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [151.718445,-32.922482,151.718445,-32.922482],
+  "bbox": [
+    151.718445,
+    -32.922482,
+    151.718445,
+    -32.922482
+],
   "geometry": {"coordinates":[151.718445,-32.922482],"type":"Point"}
 }

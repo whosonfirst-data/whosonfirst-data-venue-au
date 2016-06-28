@@ -2,13 +2,14 @@
   "id": 219526373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.104019,-33.91494,151.104019,-33.91494",
     "geom:latitude":-33.91494,
     "geom:longitude":151.104019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"308- 312 Beamish Pde",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219526373,
-    "wof:lastmodified":1449071482,
+    "wof:lastmodified":1466190093,
     "wof:name":"Hunter Peter Dr",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.104019,-33.91494,151.104019,-33.91494],
-  "geometry": {"coordinates":[151.104019,-33.91494],"type":"Point"}
+  "bbox": [
+    151.104019,
+    -33.91494,
+    151.104019,
+    -33.91494
+],
+  "geometry": {"coordinates":[151.10401899999999,-33.91494],"type":"Point"}
 }

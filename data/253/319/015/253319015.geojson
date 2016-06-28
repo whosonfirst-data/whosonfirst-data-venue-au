@@ -2,13 +2,14 @@
   "id": 253319015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.296707,-38.019711,145.296707,-38.019711",
     "geom:latitude":-38.019711,
     "geom:longitude":145.296707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 / 1 Vesper Drv",
     "sg:city":"Fountain Gate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253319015,
-    "wof:lastmodified":1449064034,
+    "wof:lastmodified":1466190775,
     "wof:name":"Natrad",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [145.296707,-38.019711,145.296707,-38.019711],
+  "bbox": [
+    145.296707,
+    -38.019711,
+    145.296707,
+    -38.019711
+],
   "geometry": {"coordinates":[145.296707,-38.019711],"type":"Point"}
 }

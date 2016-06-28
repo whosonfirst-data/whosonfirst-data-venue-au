@@ -2,13 +2,14 @@
   "id": 219174133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.058228,-27.416729,153.058228,-27.416729",
     "geom:latitude":-27.416729,
     "geom:longitude":153.058228,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"789 Sandgate Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219174133,
-    "wof:lastmodified":1449070877,
+    "wof:lastmodified":1466189806,
     "wof:name":"Dunglison, Nigel",
     "wof:parent_id":85774101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.058228,-27.416729,153.058228,-27.416729],
-  "geometry": {"coordinates":[153.058228,-27.416729],"type":"Point"}
+  "bbox": [
+    153.058228,
+    -27.416729,
+    153.058228,
+    -27.416729
+],
+  "geometry": {"coordinates":[153.05822800000001,-27.416729],"type":"Point"}
 }

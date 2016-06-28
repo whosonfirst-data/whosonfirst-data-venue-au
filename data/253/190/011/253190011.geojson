@@ -2,13 +2,14 @@
   "id": 253190011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.961014,-27.593246,151.961014,-27.593246",
     "geom:latitude":-27.593246,
     "geom:longitude":151.961014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Ramsay St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253190011,
-    "wof:lastmodified":1449065602,
+    "wof:lastmodified":1466190293,
     "wof:name":"Endeavour Business Service",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "assembling"
     ]
 },
-  "bbox": [151.961014,-27.593246,151.961014,-27.593246],
-  "geometry": {"coordinates":[151.961014,-27.593246],"type":"Point"}
+  "bbox": [
+    151.961014,
+    -27.593246,
+    151.961014,
+    -27.593246
+],
+  "geometry": {"coordinates":[151.96101400000001,-27.593246],"type":"Point"}
 }

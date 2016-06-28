@@ -2,13 +2,14 @@
   "id": 186215227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.896881,-31.439026,152.896881,-31.439026",
     "geom:latitude":-31.439026,
     "geom:longitude":152.896881,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Boronia St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186215227,
-    "wof:lastmodified":1449052539,
+    "wof:lastmodified":1466187176,
     "wof:name":"St Agnes Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.896881,-31.439026,152.896881,-31.439026],
-  "geometry": {"coordinates":[152.896881,-31.439026],"type":"Point"}
+  "bbox": [
+    152.896881,
+    -31.439026,
+    152.896881,
+    -31.439026
+],
+  "geometry": {"coordinates":[152.89688100000001,-31.439026],"type":"Point"}
 }

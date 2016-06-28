@@ -2,13 +2,14 @@
   "id": 202822827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.161453,-23.516262,148.161453,-23.516262",
     "geom:latitude":-23.516262,
     "geom:longitude":148.161453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Harris St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202822827,
-    "wof:lastmodified":1449062561,
+    "wof:lastmodified":1466190406,
     "wof:name":"Emerald Gardens Motel & Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.161453,-23.516262,148.161453,-23.516262],
-  "geometry": {"coordinates":[148.161453,-23.516262],"type":"Point"}
+  "bbox": [
+    148.161453,
+    -23.516262,
+    148.161453,
+    -23.516262
+],
+  "geometry": {"coordinates":[148.16145299999999,-23.516262],"type":"Point"}
 }

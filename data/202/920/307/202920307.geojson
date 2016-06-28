@@ -2,13 +2,14 @@
   "id": 202920307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.109131,-30.305401,153.109131,-30.305401",
     "geom:latitude":-30.305401,
     "geom:longitude":153.109131,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 30 Greenlinks Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202920307,
-    "wof:lastmodified":1449062082,
+    "wof:lastmodified":1466190680,
     "wof:name":"Mals Environmental Pest Management",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.109131,-30.305401,153.109131,-30.305401],
-  "geometry": {"coordinates":[153.109131,-30.305401],"type":"Point"}
+  "bbox": [
+    153.109131,
+    -30.305401,
+    153.109131,
+    -30.305401
+],
+  "geometry": {"coordinates":[153.10913099999999,-30.305401],"type":"Point"}
 }

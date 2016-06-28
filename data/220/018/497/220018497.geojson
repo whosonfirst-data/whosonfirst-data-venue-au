@@ -2,13 +2,14 @@
   "id": 220018497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.611084,-35.017944,138.611084,-35.017944",
     "geom:latitude":-35.017944,
     "geom:longitude":138.611084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Melton St",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220018497,
-    "wof:lastmodified":1449074443,
+    "wof:lastmodified":1466187110,
     "wof:name":"Accent Roofing",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [138.611084,-35.017944,138.611084,-35.017944],
-  "geometry": {"coordinates":[138.611084,-35.017944],"type":"Point"}
+  "bbox": [
+    138.611084,
+    -35.017944,
+    138.611084,
+    -35.017944
+],
+  "geometry": {"coordinates":[138.61108400000001,-35.017944],"type":"Point"}
 }

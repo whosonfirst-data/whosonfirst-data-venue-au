@@ -2,13 +2,14 @@
   "id": 219615071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166519,-33.911167,151.166519,-33.911167",
     "geom:latitude":-33.911167,
     "geom:longitude":151.166519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Sloane St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219615071,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466190891,
     "wof:name":"Savoy Bakery",
     "wof:parent_id":85774763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.166519,-33.911167,151.166519,-33.911167],
-  "geometry": {"coordinates":[151.166519,-33.911167],"type":"Point"}
+  "bbox": [
+    151.166519,
+    -33.911167,
+    151.166519,
+    -33.911167
+],
+  "geometry": {"coordinates":[151.16651899999999,-33.911167],"type":"Point"}
 }

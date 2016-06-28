@@ -2,13 +2,14 @@
   "id": 202688877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.005951,-27.343954,153.005951,-27.343954",
     "geom:latitude":-27.343954,
     "geom:longitude":153.005951,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Ridley Rd",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202688877,
-    "wof:lastmodified":1449061061,
+    "wof:lastmodified":1466188619,
     "wof:name":"Johnny Gray Experience",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [153.005951,-27.343954,153.005951,-27.343954],
-  "geometry": {"coordinates":[153.005951,-27.343954],"type":"Point"}
+  "bbox": [
+    153.005951,
+    -27.343954,
+    153.005951,
+    -27.343954
+],
+  "geometry": {"coordinates":[153.00595100000001,-27.343954],"type":"Point"}
 }

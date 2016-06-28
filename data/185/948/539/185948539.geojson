@@ -2,13 +2,14 @@
   "id": 185948539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.555832,-33.26749,151.555832,-33.26749",
     "geom:latitude":-33.26749,
     "geom:longitude":151.555832,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Merino Rd",
     "sg:city":"Noraville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185948539,
-    "wof:lastmodified":1449007894,
+    "wof:lastmodified":1466188452,
     "wof:name":"Bishop Josh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixer"
     ]
 },
-  "bbox": [151.555832,-33.26749,151.555832,-33.26749],
-  "geometry": {"coordinates":[151.555832,-33.26749],"type":"Point"}
+  "bbox": [
+    151.555832,
+    -33.26749,
+    151.555832,
+    -33.26749
+],
+  "geometry": {"coordinates":[151.55583200000001,-33.26749],"type":"Point"}
 }

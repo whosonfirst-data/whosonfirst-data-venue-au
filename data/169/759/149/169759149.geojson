@@ -2,13 +2,14 @@
   "id": 169759149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.106293,-27.219303,153.106293,-27.219303",
     "geom:latitude":-27.219303,
     "geom:longitude":153.106293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Longland St",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169759149,
-    "wof:lastmodified":1449036017,
+    "wof:lastmodified":1466188031,
     "wof:name":"Mobile Computerfix",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [153.106293,-27.219303,153.106293,-27.219303],
-  "geometry": {"coordinates":[153.106293,-27.219303],"type":"Point"}
+  "bbox": [
+    153.106293,
+    -27.219303,
+    153.106293,
+    -27.219303
+],
+  "geometry": {"coordinates":[153.10629299999999,-27.219303],"type":"Point"}
 }

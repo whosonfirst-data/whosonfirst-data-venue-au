@@ -2,13 +2,14 @@
   "id": 219760039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.958145,-32.007305,151.958145,-32.007305",
     "geom:latitude":-32.007305,
     "geom:longitude":151.958145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Church St",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219760039,
-    "wof:lastmodified":1449073783,
+    "wof:lastmodified":1466191364,
     "wof:name":"Salon 63",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.958145,-32.007305,151.958145,-32.007305],
+  "bbox": [
+    151.958145,
+    -32.007305,
+    151.958145,
+    -32.007305
+],
   "geometry": {"coordinates":[151.958145,-32.007305],"type":"Point"}
 }

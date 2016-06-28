@@ -2,13 +2,14 @@
   "id": 186414583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.81308,-19.249933,146.81308,-19.249933",
     "geom:latitude":-19.249933,
     "geom:longitude":146.81308,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1, 57 Mitchell St",
     "sg:city":"North Ward",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186414583,
-    "wof:lastmodified":1449051637,
+    "wof:lastmodified":1466189552,
     "wof:name":"Physionorth",
     "wof:parent_id":85779935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.81308,-19.249933,146.81308,-19.249933],
-  "geometry": {"coordinates":[146.81308,-19.249933],"type":"Point"}
+  "bbox": [
+    146.81308,
+    -19.249933,
+    146.81308,
+    -19.249933
+],
+  "geometry": {"coordinates":[146.81308000000001,-19.249933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236133283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.866425,-37.744579,144.866425,-37.744579",
     "geom:latitude":-37.744579,
     "geom:longitude":144.866425,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 McFarlane St",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236133283,
-    "wof:lastmodified":1449004559,
+    "wof:lastmodified":1466189315,
     "wof:name":"Breath Treatment Centre",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.866425,-37.744579,144.866425,-37.744579],
-  "geometry": {"coordinates":[144.866425,-37.744579],"type":"Point"}
+  "bbox": [
+    144.866425,
+    -37.744579,
+    144.866425,
+    -37.744579
+],
+  "geometry": {"coordinates":[144.86642499999999,-37.744579],"type":"Point"}
 }

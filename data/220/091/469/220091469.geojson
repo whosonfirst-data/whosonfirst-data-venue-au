@@ -2,13 +2,14 @@
   "id": 220091469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.666458,-38.265896,144.666458,-38.265896",
     "geom:latitude":-38.265896,
     "geom:longitude":144.666458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Weeroona Pde",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220091469,
-    "wof:lastmodified":1449074110,
+    "wof:lastmodified":1466187866,
     "wof:name":"Queenscliff Marine Station",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "scientific"
     ]
 },
-  "bbox": [144.666458,-38.265896,144.666458,-38.265896],
-  "geometry": {"coordinates":[144.666458,-38.265896],"type":"Point"}
+  "bbox": [
+    144.666458,
+    -38.265896,
+    144.666458,
+    -38.265896
+],
+  "geometry": {"coordinates":[144.66645800000001,-38.265896],"type":"Point"}
 }

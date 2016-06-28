@@ -2,13 +2,14 @@
   "id": 236922917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.518158,-34.983185,138.518158,-34.983185",
     "geom:latitude":-34.983185,
     "geom:longitude":138.518158,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Partridge St",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236922917,
-    "wof:lastmodified":1449001899,
+    "wof:lastmodified":1466192132,
     "wof:name":"City Of Holdfast Bay",
     "wof:parent_id":85770879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.518158,-34.983185,138.518158,-34.983185],
+  "bbox": [
+    138.518158,
+    -34.983185,
+    138.518158,
+    -34.983185
+],
   "geometry": {"coordinates":[138.518158,-34.983185],"type":"Point"}
 }

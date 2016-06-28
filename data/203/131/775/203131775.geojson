@@ -2,13 +2,14 @@
   "id": 203131775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.771248,-32.546276,115.771248,-32.546276",
     "geom:latitude":-32.546276,
     "geom:longitude":115.771248,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"579 Pinjarra Rd",
     "sg:city":"Barragup",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203131775,
-    "wof:lastmodified":1449025481,
+    "wof:lastmodified":1466189526,
     "wof:name":"Barragup Stockfeeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grain"
     ]
 },
-  "bbox": [115.771248,-32.546276,115.771248,-32.546276],
+  "bbox": [
+    115.771248,
+    -32.546276,
+    115.771248,
+    -32.546276
+],
   "geometry": {"coordinates":[115.771248,-32.546276],"type":"Point"}
 }

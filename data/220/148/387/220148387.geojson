@@ -2,13 +2,14 @@
   "id": 220148387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.364426,-38.149284,144.364426,-38.149284",
     "geom:latitude":-38.149284,
     "geom:longitude":144.364426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Little Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220148387,
-    "wof:lastmodified":1449074743,
+    "wof:lastmodified":1466188559,
     "wof:name":"ECT International",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.364426,-38.149284,144.364426,-38.149284],
-  "geometry": {"coordinates":[144.364426,-38.149284],"type":"Point"}
+  "bbox": [
+    144.364426,
+    -38.149284,
+    144.364426,
+    -38.149284
+],
+  "geometry": {"coordinates":[144.36442600000001,-38.149284],"type":"Point"}
 }

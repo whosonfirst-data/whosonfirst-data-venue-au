@@ -2,13 +2,14 @@
   "id": 220005293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.7742,-37.783913,140.7742,-37.783913",
     "geom:latitude":-37.783913,
     "geom:longitude":140.7742,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunnybrae Rd",
     "sg:city":"Suttontown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220005293,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466186922,
     "wof:name":"Ascot Thoroughbred Stud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stud"
     ]
 },
-  "bbox": [140.7742,-37.783913,140.7742,-37.783913],
-  "geometry": {"coordinates":[140.7742,-37.783913],"type":"Point"}
+  "bbox": [
+    140.7742,
+    -37.783913,
+    140.7742,
+    -37.783913
+],
+  "geometry": {"coordinates":[140.77420000000001,-37.783913],"type":"Point"}
 }

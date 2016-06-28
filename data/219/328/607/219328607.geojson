@@ -2,13 +2,14 @@
   "id": 219328607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.941422,-38.164474,145.941422,-38.164474",
     "geom:latitude":-38.164474,
     "geom:longitude":145.941422,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Olympic St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219328607,
-    "wof:lastmodified":1449072462,
+    "wof:lastmodified":1466187765,
     "wof:name":"Norman Jones Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [145.941422,-38.164474,145.941422,-38.164474],
-  "geometry": {"coordinates":[145.941422,-38.164474],"type":"Point"}
+  "bbox": [
+    145.941422,
+    -38.164474,
+    145.941422,
+    -38.164474
+],
+  "geometry": {"coordinates":[145.94142199999999,-38.164474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202781389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.772308,-32.930573,151.772308,-32.930573",
     "geom:latitude":-32.930573,
     "geom:longitude":151.772308,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Darby St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202781389,
-    "wof:lastmodified":1449060588,
+    "wof:lastmodified":1466190022,
     "wof:name":"Darby Street Take Away",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "take"
     ]
 },
-  "bbox": [151.772308,-32.930573,151.772308,-32.930573],
-  "geometry": {"coordinates":[151.772308,-32.930573],"type":"Point"}
+  "bbox": [
+    151.772308,
+    -32.930573,
+    151.772308,
+    -32.930573
+],
+  "geometry": {"coordinates":[151.77230800000001,-32.930573],"type":"Point"}
 }

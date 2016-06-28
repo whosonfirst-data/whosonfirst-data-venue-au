@@ -2,13 +2,14 @@
   "id": 236848973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.890045,-34.425701,150.890045,-34.425701",
     "geom:latitude":-34.425701,
     "geom:longitude":150.890045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box W64",
     "sg:city":"West Wollongong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236848973,
-    "wof:lastmodified":1449002023,
+    "wof:lastmodified":1466192041,
     "wof:name":"Laing + Simmons Wollongong",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.890045,-34.425701,150.890045,-34.425701],
-  "geometry": {"coordinates":[150.890045,-34.425701],"type":"Point"}
+  "bbox": [
+    150.890045,
+    -34.425701,
+    150.890045,
+    -34.425701
+],
+  "geometry": {"coordinates":[150.89004499999999,-34.425701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253117821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.817032,-37.790493,144.817032,-37.790493",
     "geom:latitude":-37.790493,
     "geom:longitude":144.817032,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Glengala Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253117821,
-    "wof:lastmodified":1449064852,
+    "wof:lastmodified":1466189098,
     "wof:name":"Western Unisex",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.817032,-37.790493,144.817032,-37.790493],
-  "geometry": {"coordinates":[144.817032,-37.790493],"type":"Point"}
+  "bbox": [
+    144.817032,
+    -37.790493,
+    144.817032,
+    -37.790493
+],
+  "geometry": {"coordinates":[144.81703200000001,-37.790493],"type":"Point"}
 }

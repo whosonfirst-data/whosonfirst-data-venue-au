@@ -2,13 +2,14 @@
   "id": 202481611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.035843,-37.925819,145.035843,-37.925819",
     "geom:latitude":-37.925819,
     "geom:longitude":145.035843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Patterson Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202481611,
-    "wof:lastmodified":1449062335,
+    "wof:lastmodified":1466189249,
     "wof:name":"FGA Partners",
     "wof:parent_id":85775363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [145.035843,-37.925819,145.035843,-37.925819],
+  "bbox": [
+    145.035843,
+    -37.925819,
+    145.035843,
+    -37.925819
+],
   "geometry": {"coordinates":[145.035843,-37.925819],"type":"Point"}
 }

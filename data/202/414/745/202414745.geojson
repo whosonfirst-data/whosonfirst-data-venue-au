@@ -2,13 +2,14 @@
   "id": 202414745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942123,-37.838596,144.942123,-37.838596",
     "geom:latitude":-37.838596,
     "geom:longitude":144.942123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 9-10/191- 219 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202414745,
-    "wof:lastmodified":1449061311,
+    "wof:lastmodified":1466188009,
     "wof:name":"Vintage Cellars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.942123,-37.838596,144.942123,-37.838596],
-  "geometry": {"coordinates":[144.942123,-37.838596],"type":"Point"}
+  "bbox": [
+    144.942123,
+    -37.838596,
+    144.942123,
+    -37.838596
+],
+  "geometry": {"coordinates":[144.94212300000001,-37.838596],"type":"Point"}
 }

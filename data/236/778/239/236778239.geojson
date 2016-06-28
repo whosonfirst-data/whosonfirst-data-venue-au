@@ -2,13 +2,14 @@
   "id": 236778239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.94371,-27.012085,152.94371,-27.012085",
     "geom:latitude":-27.012085,
     "geom:longitude":152.94371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Beerburrum Rd",
     "sg:city":"Elimbah",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236778239,
-    "wof:lastmodified":1449001726,
+    "wof:lastmodified":1466192002,
     "wof:name":"Elimbah General Store Takeaway & Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.94371,-27.012085,152.94371,-27.012085],
-  "geometry": {"coordinates":[152.94371,-27.012085],"type":"Point"}
+  "bbox": [
+    152.94371,
+    -27.012085,
+    152.94371,
+    -27.012085
+],
+  "geometry": {"coordinates":[152.94371000000001,-27.012085],"type":"Point"}
 }

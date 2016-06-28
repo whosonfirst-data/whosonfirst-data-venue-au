@@ -2,13 +2,14 @@
   "id": 202502715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.03891,-37.90366,145.03891,-37.90366",
     "geom:latitude":-37.90366,
     "geom:longitude":145.03891,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"483 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202502715,
-    "wof:lastmodified":1449061291,
+    "wof:lastmodified":1466189552,
     "wof:name":"Davey Sandy",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kinesiology"
     ]
 },
-  "bbox": [145.03891,-37.90366,145.03891,-37.90366],
-  "geometry": {"coordinates":[145.03891,-37.90366],"type":"Point"}
+  "bbox": [
+    145.03891,
+    -37.90366,
+    145.03891,
+    -37.90366
+],
+  "geometry": {"coordinates":[145.03890999999999,-37.90366],"type":"Point"}
 }

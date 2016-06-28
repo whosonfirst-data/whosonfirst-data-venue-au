@@ -2,13 +2,14 @@
   "id": 202845757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.676453,-36.368496,146.676453,-36.368496",
     "geom:latitude":-36.368496,
     "geom:longitude":146.676453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Spring St",
     "sg:city":"Beechworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202845757,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466190347,
     "wof:name":"Schroder P/L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.676453,-36.368496,146.676453,-36.368496],
-  "geometry": {"coordinates":[146.676453,-36.368496],"type":"Point"}
+  "bbox": [
+    146.676453,
+    -36.368496,
+    146.676453,
+    -36.368496
+],
+  "geometry": {"coordinates":[146.67645300000001,-36.368496],"type":"Point"}
 }

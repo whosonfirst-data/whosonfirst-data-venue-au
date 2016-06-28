@@ -2,13 +2,14 @@
   "id": 185889193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.688553,-25.52356,152.688553,-25.52356",
     "geom:latitude":-25.52356,
     "geom:longitude":152.688553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Cunningham St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185889193,
-    "wof:lastmodified":1449006573,
+    "wof:lastmodified":1466187771,
     "wof:name":"The Chip Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [152.688553,-25.52356,152.688553,-25.52356],
-  "geometry": {"coordinates":[152.688553,-25.52356],"type":"Point"}
+  "bbox": [
+    152.688553,
+    -25.52356,
+    152.688553,
+    -25.52356
+],
+  "geometry": {"coordinates":[152.68855300000001,-25.52356],"type":"Point"}
 }

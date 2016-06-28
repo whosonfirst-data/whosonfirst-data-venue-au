@@ -2,13 +2,14 @@
   "id": 219301733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.945267,-38.122726,145.945267,-38.122726",
     "geom:latitude":-38.122726,
     "geom:longitude":145.945267,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Roberts Rd",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219301733,
-    "wof:lastmodified":1449071296,
+    "wof:lastmodified":1466187543,
     "wof:name":"Application Software (Aust) Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "installation"
     ]
 },
-  "bbox": [145.945267,-38.122726,145.945267,-38.122726],
+  "bbox": [
+    145.945267,
+    -38.122726,
+    145.945267,
+    -38.122726
+],
   "geometry": {"coordinates":[145.945267,-38.122726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203392801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.896286,-37.557316,143.896286,-37.557316",
     "geom:latitude":-37.557316,
     "geom:longitude":143.896286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Melbourne Rd",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203392801,
-    "wof:lastmodified":1449026458,
+    "wof:lastmodified":1466189424,
     "wof:name":"P & D Diesel Service",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diesel"
     ]
 },
-  "bbox": [143.896286,-37.557316,143.896286,-37.557316],
+  "bbox": [
+    143.896286,
+    -37.557316,
+    143.896286,
+    -37.557316
+],
   "geometry": {"coordinates":[143.896286,-37.557316],"type":"Point"}
 }

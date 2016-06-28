@@ -2,13 +2,14 @@
   "id": 236515425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.167114,-32.565102,151.167114,-32.565102",
     "geom:latitude":-32.565102,
     "geom:longitude":151.167114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"122- 124 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236515425,
-    "wof:lastmodified":1449002253,
+    "wof:lastmodified":1466191357,
     "wof:name":"Singleton Pharmacy",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [151.167114,-32.565102,151.167114,-32.565102],
+  "bbox": [
+    151.167114,
+    -32.565102,
+    151.167114,
+    -32.565102
+],
   "geometry": {"coordinates":[151.167114,-32.565102],"type":"Point"}
 }

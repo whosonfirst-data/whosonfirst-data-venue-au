@@ -2,13 +2,14 @@
   "id": 219645565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.128693,-33.949337,151.128693,-33.949337",
     "geom:latitude":-33.949337,
     "geom:longitude":151.128693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Albyn St, 7 Harrow Rd",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219645565,
-    "wof:lastmodified":1449070745,
+    "wof:lastmodified":1466190971,
     "wof:name":"Bexley Family Clinic",
     "wof:parent_id":85771209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.128693,-33.949337,151.128693,-33.949337],
+  "bbox": [
+    151.128693,
+    -33.949337,
+    151.128693,
+    -33.949337
+],
   "geometry": {"coordinates":[151.128693,-33.949337],"type":"Point"}
 }

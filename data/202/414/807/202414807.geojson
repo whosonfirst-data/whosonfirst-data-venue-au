@@ -2,13 +2,14 @@
   "id": 202414807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.940094,-37.828224,144.940094,-37.828224",
     "geom:latitude":-37.828224,
     "geom:longitude":144.940094,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Ingles St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202414807,
-    "wof:lastmodified":1449061309,
+    "wof:lastmodified":1466188011,
     "wof:name":"Diverse Data Communications",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "data"
     ]
 },
-  "bbox": [144.940094,-37.828224,144.940094,-37.828224],
-  "geometry": {"coordinates":[144.940094,-37.828224],"type":"Point"}
+  "bbox": [
+    144.940094,
+    -37.828224,
+    144.940094,
+    -37.828224
+],
+  "geometry": {"coordinates":[144.94009399999999,-37.828224],"type":"Point"}
 }

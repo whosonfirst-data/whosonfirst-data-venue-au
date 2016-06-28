@@ -2,13 +2,14 @@
   "id": 220156523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354446,-38.148369,144.354446,-38.148369",
     "geom:latitude":-38.148369,
     "geom:longitude":144.354446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Fenwick St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220156523,
-    "wof:lastmodified":1449074200,
+    "wof:lastmodified":1466188723,
     "wof:name":"Burmeister Systems Consultants",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.354446,-38.148369,144.354446,-38.148369],
+  "bbox": [
+    144.354446,
+    -38.148369,
+    144.354446,
+    -38.148369
+],
   "geometry": {"coordinates":[144.354446,-38.148369],"type":"Point"}
 }

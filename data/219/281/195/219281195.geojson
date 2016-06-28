@@ -2,13 +2,14 @@
   "id": 219281195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.288361,-38.175488,146.288361,-38.175488",
     "geom:latitude":-38.175488,
     "geom:longitude":146.288361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Old Sale Rd",
     "sg:city":"Newborough North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219281195,
-    "wof:lastmodified":1449073374,
+    "wof:lastmodified":1466187376,
     "wof:name":"Network Video Newborough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "library"
     ]
 },
-  "bbox": [146.288361,-38.175488,146.288361,-38.175488],
-  "geometry": {"coordinates":[146.288361,-38.175488],"type":"Point"}
+  "bbox": [
+    146.288361,
+    -38.175488,
+    146.288361,
+    -38.175488
+],
+  "geometry": {"coordinates":[146.28836100000001,-38.175488],"type":"Point"}
 }

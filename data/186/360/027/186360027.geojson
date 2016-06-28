@@ -2,13 +2,14 @@
   "id": 186360027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.126541,-33.873302,151.126541,-33.873302",
     "geom:latitude":-33.873302,
     "geom:longitude":151.126541,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Walker & Parramatta St",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186360027,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1466188636,
     "wof:name":"Car Wash (Shell)",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.126541,-33.873302,151.126541,-33.873302],
+  "bbox": [
+    151.126541,
+    -33.873302,
+    151.126541,
+    -33.873302
+],
   "geometry": {"coordinates":[151.126541,-33.873302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236393045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.776947,-32.243549,115.776947,-32.243549",
     "geom:latitude":-32.243549,
     "geom:longitude":115.776947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Beach St",
     "sg:city":"Kwinana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236393045,
-    "wof:lastmodified":1449002532,
+    "wof:lastmodified":1466191014,
     "wof:name":"H Rose & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "foundry"
     ]
 },
-  "bbox": [115.776947,-32.243549,115.776947,-32.243549],
-  "geometry": {"coordinates":[115.776947,-32.243549],"type":"Point"}
+  "bbox": [
+    115.776947,
+    -32.243549,
+    115.776947,
+    -32.243549
+],
+  "geometry": {"coordinates":[115.77694700000001,-32.243549],"type":"Point"}
 }

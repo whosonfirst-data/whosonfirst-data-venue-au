@@ -2,13 +2,14 @@
   "id": 186453633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.182495,-33.899559,151.182495,-33.899559",
     "geom:latitude":-33.899559,
     "geom:longitude":151.182495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2B Union St",
     "sg:city":"Erskineville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186453633,
-    "wof:lastmodified":1449052355,
+    "wof:lastmodified":1466190029,
     "wof:name":"Fix Catering",
     "wof:parent_id":85774541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [151.182495,-33.899559,151.182495,-33.899559],
-  "geometry": {"coordinates":[151.182495,-33.899559],"type":"Point"}
+  "bbox": [
+    151.182495,
+    -33.899559,
+    151.182495,
+    -33.899559
+],
+  "geometry": {"coordinates":[151.18249499999999,-33.899559],"type":"Point"}
 }

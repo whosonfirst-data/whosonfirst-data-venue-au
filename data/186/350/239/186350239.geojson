@@ -2,13 +2,14 @@
   "id": 186350239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.300446,-33.699249,151.300446,-33.699249",
     "geom:latitude":-33.699249,
     "geom:longitude":151.300446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Berry Ave",
     "sg:city":"North Narrabeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186350239,
-    "wof:lastmodified":1449051734,
+    "wof:lastmodified":1466188457,
     "wof:name":"B.T.S. Welding Services",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [151.300446,-33.699249,151.300446,-33.699249],
-  "geometry": {"coordinates":[151.300446,-33.699249],"type":"Point"}
+  "bbox": [
+    151.300446,
+    -33.699249,
+    151.300446,
+    -33.699249
+],
+  "geometry": {"coordinates":[151.30044599999999,-33.699249],"type":"Point"}
 }

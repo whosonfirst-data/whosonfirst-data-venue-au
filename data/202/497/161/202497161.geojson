@@ -2,13 +2,14 @@
   "id": 202497161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.04126,-37.903961,145.04126,-37.903961",
     "geom:latitude":-37.903961,
     "geom:longitude":145.04126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"rear 519 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202497161,
-    "wof:lastmodified":1449062598,
+    "wof:lastmodified":1466189492,
     "wof:name":"Vining Air Pty Ltd",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [145.04126,-37.903961,145.04126,-37.903961],
-  "geometry": {"coordinates":[145.04126,-37.903961],"type":"Point"}
+  "bbox": [
+    145.04126,
+    -37.903961,
+    145.04126,
+    -37.903961
+],
+  "geometry": {"coordinates":[145.04125999999999,-37.903961],"type":"Point"}
 }

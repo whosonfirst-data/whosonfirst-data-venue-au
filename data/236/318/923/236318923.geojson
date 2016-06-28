@@ -2,13 +2,14 @@
   "id": 236318923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.752731,-32.046761,115.752731,-32.046761",
     "geom:latitude":-32.046761,
     "geom:longitude":115.752731,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Quarry St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236318923,
-    "wof:lastmodified":1449002227,
+    "wof:lastmodified":1466190603,
     "wof:name":"Mole Check",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.752731,-32.046761,115.752731,-32.046761],
+  "bbox": [
+    115.752731,
+    -32.046761,
+    115.752731,
+    -32.046761
+],
   "geometry": {"coordinates":[115.752731,-32.046761],"type":"Point"}
 }

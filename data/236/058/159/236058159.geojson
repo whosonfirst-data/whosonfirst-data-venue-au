@@ -2,13 +2,14 @@
   "id": 236058159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.922897,-37.767796,144.922897,-37.767796",
     "geom:latitude":-37.767796,
     "geom:longitude":144.922897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Young St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236058159,
-    "wof:lastmodified":1449002037,
+    "wof:lastmodified":1466187784,
     "wof:name":"Vicolo Cafe & Risoto Bar",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.922897,-37.767796,144.922897,-37.767796],
-  "geometry": {"coordinates":[144.922897,-37.767796],"type":"Point"}
+  "bbox": [
+    144.922897,
+    -37.767796,
+    144.922897,
+    -37.767796
+],
+  "geometry": {"coordinates":[144.92289700000001,-37.767796],"type":"Point"}
 }

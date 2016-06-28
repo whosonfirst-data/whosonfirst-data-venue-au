@@ -2,13 +2,14 @@
   "id": 202739991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.950279,-32.040459,115.950279,-32.040459",
     "geom:latitude":-32.040459,
     "geom:longitude":115.950279,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hester St",
     "sg:city":"Langford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202739991,
-    "wof:lastmodified":1449061180,
+    "wof:lastmodified":1466189529,
     "wof:name":"Crashline Towing Service",
     "wof:parent_id":85777971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [115.950279,-32.040459,115.950279,-32.040459],
-  "geometry": {"coordinates":[115.950279,-32.040459],"type":"Point"}
+  "bbox": [
+    115.950279,
+    -32.040459,
+    115.950279,
+    -32.040459
+],
+  "geometry": {"coordinates":[115.95027899999999,-32.040459],"type":"Point"}
 }

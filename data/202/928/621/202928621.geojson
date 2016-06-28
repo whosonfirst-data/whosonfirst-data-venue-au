@@ -2,13 +2,14 @@
   "id": 202928621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.11557,-30.289032,153.11557,-30.289032",
     "geom:latitude":-30.289032,
     "geom:longitude":153.11557,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7 Marina",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202928621,
-    "wof:lastmodified":1449062302,
+    "wof:lastmodified":1466190886,
     "wof:name":"Pirates Galley",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retail"
     ]
 },
-  "bbox": [153.11557,-30.289032,153.11557,-30.289032],
-  "geometry": {"coordinates":[153.11557,-30.289032],"type":"Point"}
+  "bbox": [
+    153.11557,
+    -30.289032,
+    153.11557,
+    -30.289032
+],
+  "geometry": {"coordinates":[153.11556999999999,-30.289032],"type":"Point"}
 }

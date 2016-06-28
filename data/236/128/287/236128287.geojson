@@ -2,13 +2,14 @@
   "id": 236128287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.852264,-37.74197,144.852264,-37.74197",
     "geom:latitude":-37.74197,
     "geom:longitude":144.852264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Sterling Drv",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236128287,
-    "wof:lastmodified":1449002846,
+    "wof:lastmodified":1466189211,
     "wof:name":"Variety Concrete Paving",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [144.852264,-37.74197,144.852264,-37.74197],
-  "geometry": {"coordinates":[144.852264,-37.74197],"type":"Point"}
+  "bbox": [
+    144.852264,
+    -37.74197,
+    144.852264,
+    -37.74197
+],
+  "geometry": {"coordinates":[144.85226399999999,-37.74197],"type":"Point"}
 }

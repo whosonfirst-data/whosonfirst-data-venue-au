@@ -2,13 +2,14 @@
   "id": 202874785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.294662,-25.582113,151.294662,-25.582113",
     "geom:latitude":-25.582113,
     "geom:longitude":151.294662,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Spoor St",
     "sg:city":"Mundubbera",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202874785,
-    "wof:lastmodified":1449062485,
+    "wof:lastmodified":1466190445,
     "wof:name":"Caltex Australia Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [151.294662,-25.582113,151.294662,-25.582113],
-  "geometry": {"coordinates":[151.294662,-25.582113],"type":"Point"}
+  "bbox": [
+    151.294662,
+    -25.582113,
+    151.294662,
+    -25.582113
+],
+  "geometry": {"coordinates":[151.29466199999999,-25.582113],"type":"Point"}
 }

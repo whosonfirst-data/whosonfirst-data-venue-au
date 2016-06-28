@@ -2,13 +2,14 @@
   "id": 185690887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.31102,-21.378881,149.31102,-21.378881",
     "geom:latitude":-21.378881,
     "geom:longitude":149.31102,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Campbell St",
     "sg:city":"Campwin Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185690887,
-    "wof:lastmodified":1449007477,
+    "wof:lastmodified":1466188966,
     "wof:name":"Stratton B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [149.31102,-21.378881,149.31102,-21.378881],
-  "geometry": {"coordinates":[149.31102,-21.378881],"type":"Point"}
+  "bbox": [
+    149.31102,
+    -21.378881,
+    149.31102,
+    -21.378881
+],
+  "geometry": {"coordinates":[149.31102000000001,-21.378881],"type":"Point"}
 }

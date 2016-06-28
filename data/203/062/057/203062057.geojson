@@ -2,13 +2,14 @@
   "id": 203062057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.49295,-41.931084,147.49295,-41.931084",
     "geom:latitude":-41.931084,
     "geom:longitude":147.49295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 High St",
     "sg:city":"Campbell Town",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203062057,
-    "wof:lastmodified":1449026735,
+    "wof:lastmodified":1466188437,
     "wof:name":"Unique Bieniek Fine Arts & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.49295,-41.931084,147.49295,-41.931084],
-  "geometry": {"coordinates":[147.49295,-41.931084],"type":"Point"}
+  "bbox": [
+    147.49295,
+    -41.931084,
+    147.49295,
+    -41.931084
+],
+  "geometry": {"coordinates":[147.49295000000001,-41.931084],"type":"Point"}
 }

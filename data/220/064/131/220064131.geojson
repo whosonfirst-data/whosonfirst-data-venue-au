@@ -2,13 +2,14 @@
   "id": 220064131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.335831,-38.302025,144.335831,-38.302025",
     "geom:latitude":-38.302025,
     "geom:longitude":144.335831,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 South Beach Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220064131,
-    "wof:lastmodified":1449074307,
+    "wof:lastmodified":1466187632,
     "wof:name":"Grant Sharp Plumbing and Waterproofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.335831,-38.302025,144.335831,-38.302025],
-  "geometry": {"coordinates":[144.335831,-38.302025],"type":"Point"}
+  "bbox": [
+    144.335831,
+    -38.302025,
+    144.335831,
+    -38.302025
+],
+  "geometry": {"coordinates":[144.33583100000001,-38.302025],"type":"Point"}
 }

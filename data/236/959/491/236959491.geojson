@@ -2,13 +2,14 @@
   "id": 236959491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.47316,-37.924278,145.47316,-37.924278",
     "geom:latitude":-37.924278,
     "geom:longitude":145.47316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Belgrave Gembrook Rd",
     "sg:city":"Avonsleigh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236959491,
-    "wof:lastmodified":1449004848,
+    "wof:lastmodified":1466192167,
     "wof:name":"Peters Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [145.47316,-37.924278,145.47316,-37.924278],
-  "geometry": {"coordinates":[145.47316,-37.924278],"type":"Point"}
+  "bbox": [
+    145.47316,
+    -37.924278,
+    145.47316,
+    -37.924278
+],
+  "geometry": {"coordinates":[145.47316000000001,-37.924278],"type":"Point"}
 }

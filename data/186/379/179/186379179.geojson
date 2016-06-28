@@ -2,13 +2,14 @@
   "id": 186379179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157104,-33.853531,151.157104,-33.853531",
     "geom:latitude":-33.853531,
     "geom:longitude":151.157104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186379179,
-    "wof:lastmodified":1449051936,
+    "wof:lastmodified":1466188985,
     "wof:name":"Malcolm St James",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sink"
     ]
 },
-  "bbox": [151.157104,-33.853531,151.157104,-33.853531],
+  "bbox": [
+    151.157104,
+    -33.853531,
+    151.157104,
+    -33.853531
+],
   "geometry": {"coordinates":[151.157104,-33.853531],"type":"Point"}
 }

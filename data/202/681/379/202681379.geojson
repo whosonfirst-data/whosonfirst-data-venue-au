@@ -2,13 +2,14 @@
   "id": 202681379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.964691,-27.34647,152.964691,-27.34647",
     "geom:latitude":-27.34647,
     "geom:longitude":152.964691,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"South Pine Rd",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202681379,
-    "wof:lastmodified":1449061673,
+    "wof:lastmodified":1466188486,
     "wof:name":"Albany Links Golf Course",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [152.964691,-27.34647,152.964691,-27.34647],
-  "geometry": {"coordinates":[152.964691,-27.34647],"type":"Point"}
+  "bbox": [
+    152.964691,
+    -27.34647,
+    152.964691,
+    -27.34647
+],
+  "geometry": {"coordinates":[152.96469099999999,-27.34647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220012639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.276337,-36.753929,144.276337,-36.753929",
     "geom:latitude":-36.753929,
     "geom:longitude":144.276337,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Barnard St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220012639,
-    "wof:lastmodified":1449074797,
+    "wof:lastmodified":1466186990,
     "wof:name":"Alzheimers Australia Vic",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [144.276337,-36.753929,144.276337,-36.753929],
-  "geometry": {"coordinates":[144.276337,-36.753929],"type":"Point"}
+  "bbox": [
+    144.276337,
+    -36.753929,
+    144.276337,
+    -36.753929
+],
+  "geometry": {"coordinates":[144.27633700000001,-36.753929],"type":"Point"}
 }

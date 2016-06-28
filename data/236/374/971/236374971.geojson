@@ -2,13 +2,14 @@
   "id": 236374971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.779243,-32.198395,115.779243,-32.198395",
     "geom:latitude":-32.198395,
     "geom:longitude":115.779243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Weston & Morley Sts",
     "sg:city":"Naval Base",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236374971,
-    "wof:lastmodified":1449003025,
+    "wof:lastmodified":1466191002,
     "wof:name":"Brambles Industrial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.779243,-32.198395,115.779243,-32.198395],
-  "geometry": {"coordinates":[115.779243,-32.198395],"type":"Point"}
+  "bbox": [
+    115.779243,
+    -32.198395,
+    115.779243,
+    -32.198395
+],
+  "geometry": {"coordinates":[115.77924299999999,-32.198395],"type":"Point"}
 }

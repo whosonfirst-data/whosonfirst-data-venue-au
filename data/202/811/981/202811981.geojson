@@ -2,13 +2,14 @@
   "id": 202811981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.713043,-32.923748,151.713043,-32.923748",
     "geom:latitude":-32.923748,
     "geom:longitude":151.713043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Victoria St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202811981,
-    "wof:lastmodified":1449061353,
+    "wof:lastmodified":1466190379,
     "wof:name":"Aqua Assets",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.713043,-32.923748,151.713043,-32.923748],
+  "bbox": [
+    151.713043,
+    -32.923748,
+    151.713043,
+    -32.923748
+],
   "geometry": {"coordinates":[151.713043,-32.923748],"type":"Point"}
 }

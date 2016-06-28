@@ -2,13 +2,14 @@
   "id": 203181483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.720322,-40.989403,145.720322,-40.989403",
     "geom:latitude":-40.989403,
     "geom:longitude":145.720322,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Inglis St",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203181483,
-    "wof:lastmodified":1449026096,
+    "wof:lastmodified":1466189914,
     "wof:name":"Inglis Filling Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.720322,-40.989403,145.720322,-40.989403],
-  "geometry": {"coordinates":[145.720322,-40.989403],"type":"Point"}
+  "bbox": [
+    145.720322,
+    -40.989403,
+    145.720322,
+    -40.989403
+],
+  "geometry": {"coordinates":[145.72032200000001,-40.989403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236256275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"134.183777,-19.649595,134.183777,-19.649595",
     "geom:latitude":-19.649595,
     "geom:longitude":134.183777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Maloney St",
     "sg:city":"Tennant Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236256275,
-    "wof:lastmodified":1449004296,
+    "wof:lastmodified":1466190100,
     "wof:name":"T.C. Sand Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [134.183777,-19.649595,134.183777,-19.649595],
-  "geometry": {"coordinates":[134.183777,-19.649595],"type":"Point"}
+  "bbox": [
+    134.183777,
+    -19.649595,
+    134.183777,
+    -19.649595
+],
+  "geometry": {"coordinates":[134.18377699999999,-19.649595],"type":"Point"}
 }

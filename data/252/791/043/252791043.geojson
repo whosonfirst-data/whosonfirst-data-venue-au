@@ -2,13 +2,14 @@
   "id": 252791043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.502243,-41.393959,146.502243,-41.393959",
     "geom:latitude":-41.393959,
     "geom:longitude":146.502243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Morrison St",
     "sg:city":"Kimberley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252791043,
-    "wof:lastmodified":1449006257,
+    "wof:lastmodified":1466188063,
     "wof:name":"Tasmanian Excavators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.502243,-41.393959,146.502243,-41.393959],
-  "geometry": {"coordinates":[146.502243,-41.393959],"type":"Point"}
+  "bbox": [
+    146.502243,
+    -41.393959,
+    146.502243,
+    -41.393959
+],
+  "geometry": {"coordinates":[146.50224299999999,-41.393959],"type":"Point"}
 }

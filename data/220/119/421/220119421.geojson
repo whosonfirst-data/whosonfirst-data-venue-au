@@ -2,13 +2,14 @@
   "id": 220119421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.309845,-38.141548,144.309845,-38.141548",
     "geom:latitude":-38.141548,
     "geom:longitude":144.309845,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Hamilton Hwy",
     "sg:city":"Fyansford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220119421,
-    "wof:lastmodified":1449074626,
+    "wof:lastmodified":1466188151,
     "wof:name":"VW Auto Parts & Repairs",
     "wof:parent_id":85777705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recyclers"
     ]
 },
-  "bbox": [144.309845,-38.141548,144.309845,-38.141548],
+  "bbox": [
+    144.309845,
+    -38.141548,
+    144.309845,
+    -38.141548
+],
   "geometry": {"coordinates":[144.309845,-38.141548],"type":"Point"}
 }

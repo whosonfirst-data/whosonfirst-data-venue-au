@@ -2,13 +2,14 @@
   "id": 202609567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.699142,-33.754959,150.699142,-33.754959",
     "geom:latitude":-33.754959,
     "geom:longitude":150.699142,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 6, 20- 24 Castlereagh St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202609567,
-    "wof:lastmodified":1449061058,
+    "wof:lastmodified":1466187430,
     "wof:name":"WB & MT Bowler Pty Ltd",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [150.699142,-33.754959,150.699142,-33.754959],
-  "geometry": {"coordinates":[150.699142,-33.754959],"type":"Point"}
+  "bbox": [
+    150.699142,
+    -33.754959,
+    150.699142,
+    -33.754959
+],
+  "geometry": {"coordinates":[150.69914199999999,-33.754959],"type":"Point"}
 }

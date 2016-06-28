@@ -2,13 +2,14 @@
   "id": 253019397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.727386,-37.871143,144.727386,-37.871143",
     "geom:latitude":-37.871143,
     "geom:longitude":144.727386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253019397,
-    "wof:lastmodified":1449064520,
+    "wof:lastmodified":1466187303,
     "wof:name":"Benton's Plumbtec",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.727386,-37.871143,144.727386,-37.871143],
+  "bbox": [
+    144.727386,
+    -37.871143,
+    144.727386,
+    -37.871143
+],
   "geometry": {"coordinates":[144.727386,-37.871143],"type":"Point"}
 }

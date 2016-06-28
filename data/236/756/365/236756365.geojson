@@ -2,13 +2,14 @@
   "id": 236756365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.980453,-27.080402,152.980453,-27.080402",
     "geom:latitude":-27.080402,
     "geom:longitude":152.980453,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Learjet Drv",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236756365,
-    "wof:lastmodified":1449003654,
+    "wof:lastmodified":1466191896,
     "wof:name":"Suncoast Packaging",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [152.980453,-27.080402,152.980453,-27.080402],
-  "geometry": {"coordinates":[152.980453,-27.080402],"type":"Point"}
+  "bbox": [
+    152.980453,
+    -27.080402,
+    152.980453,
+    -27.080402
+],
+  "geometry": {"coordinates":[152.98045300000001,-27.080402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220173751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.362015,-38.144112,144.362015,-38.144112",
     "geom:latitude":-38.144112,
     "geom:longitude":144.362015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Studio 3-4 6 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220173751,
-    "wof:lastmodified":1449074194,
+    "wof:lastmodified":1466189068,
     "wof:name":"Dyer Stacie",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [144.362015,-38.144112,144.362015,-38.144112],
-  "geometry": {"coordinates":[144.362015,-38.144112],"type":"Point"}
+  "bbox": [
+    144.362015,
+    -38.144112,
+    144.362015,
+    -38.144112
+],
+  "geometry": {"coordinates":[144.36201500000001,-38.144112],"type":"Point"}
 }

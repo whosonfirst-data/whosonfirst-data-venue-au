@@ -2,13 +2,14 @@
   "id": 219733387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.803497,-19.277672,146.803497,-19.277672",
     "geom:latitude":-19.277672,
     "geom:longitude":146.803497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Armstrong St",
     "sg:city":"Hermit Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219733387,
-    "wof:lastmodified":1449070887,
+    "wof:lastmodified":1466191215,
     "wof:name":"Adam Macks",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.803497,-19.277672,146.803497,-19.277672],
-  "geometry": {"coordinates":[146.803497,-19.277672],"type":"Point"}
+  "bbox": [
+    146.803497,
+    -19.277672,
+    146.803497,
+    -19.277672
+],
+  "geometry": {"coordinates":[146.80349699999999,-19.277672],"type":"Point"}
 }

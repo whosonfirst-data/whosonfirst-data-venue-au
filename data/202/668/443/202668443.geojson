@@ -2,13 +2,14 @@
   "id": 202668443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.035187,-27.390463,153.035187,-27.390463",
     "geom:latitude":-27.390463,
     "geom:longitude":153.035187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Kuran St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202668443,
-    "wof:lastmodified":1449061864,
+    "wof:lastmodified":1466188237,
     "wof:name":"Kuran Kreations",
     "wof:parent_id":85773851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [153.035187,-27.390463,153.035187,-27.390463],
-  "geometry": {"coordinates":[153.035187,-27.390463],"type":"Point"}
+  "bbox": [
+    153.035187,
+    -27.390463,
+    153.035187,
+    -27.390463
+],
+  "geometry": {"coordinates":[153.03518700000001,-27.390463],"type":"Point"}
 }

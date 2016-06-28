@@ -2,13 +2,14 @@
   "id": 220016165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.597397,-35.028107,138.597397,-35.028107",
     "geom:latitude":-35.028107,
     "geom:longitude":138.597397,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Shepards Hill Rd",
     "sg:city":"Eden Hills",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220016165,
-    "wof:lastmodified":1449074184,
+    "wof:lastmodified":1466187065,
     "wof:name":"Hills Counselling Services",
     "wof:parent_id":85774993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [138.597397,-35.028107,138.597397,-35.028107],
+  "bbox": [
+    138.597397,
+    -35.028107,
+    138.597397,
+    -35.028107
+],
   "geometry": {"coordinates":[138.597397,-35.028107],"type":"Point"}
 }

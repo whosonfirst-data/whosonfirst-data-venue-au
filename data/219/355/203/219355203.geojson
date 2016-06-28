@@ -2,13 +2,14 @@
   "id": 219355203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.552521,-35.355762,143.552521,-35.355762",
     "geom:latitude":-35.355762,
     "geom:longitude":143.552521,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Coronation Ave & Wattie St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219355203,
-    "wof:lastmodified":1449071389,
+    "wof:lastmodified":1466187973,
     "wof:name":"B & B Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [143.552521,-35.355762,143.552521,-35.355762],
-  "geometry": {"coordinates":[143.552521,-35.355762],"type":"Point"}
+  "bbox": [
+    143.552521,
+    -35.355762,
+    143.552521,
+    -35.355762
+],
+  "geometry": {"coordinates":[143.55252100000001,-35.355762],"type":"Point"}
 }

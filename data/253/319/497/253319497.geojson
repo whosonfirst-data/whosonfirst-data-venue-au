@@ -2,13 +2,14 @@
   "id": 253319497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.310928,-38.014965,145.310928,-38.014965",
     "geom:latitude":-38.014965,
     "geom:longitude":145.310928,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Salignus Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253319497,
-    "wof:lastmodified":1449064036,
+    "wof:lastmodified":1466190782,
     "wof:name":"C.D.B. Tiling",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [145.310928,-38.014965,145.310928,-38.014965],
-  "geometry": {"coordinates":[145.310928,-38.014965],"type":"Point"}
+  "bbox": [
+    145.310928,
+    -38.014965,
+    145.310928,
+    -38.014965
+],
+  "geometry": {"coordinates":[145.31092799999999,-38.014965],"type":"Point"}
 }

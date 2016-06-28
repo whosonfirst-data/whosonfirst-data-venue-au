@@ -2,13 +2,14 @@
   "id": 252718945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.648109,-33.338131,115.648109,-33.338131",
     "geom:latitude":-33.338131,
     "geom:longitude":115.648109,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Albert Rd",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252718945,
-    "wof:lastmodified":1449005656,
+    "wof:lastmodified":1466187054,
     "wof:name":"Bunbury Automotive Spraypainters",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painting"
     ]
 },
-  "bbox": [115.648109,-33.338131,115.648109,-33.338131],
-  "geometry": {"coordinates":[115.648109,-33.338131],"type":"Point"}
+  "bbox": [
+    115.648109,
+    -33.338131,
+    115.648109,
+    -33.338131
+],
+  "geometry": {"coordinates":[115.64810900000001,-33.338131],"type":"Point"}
 }

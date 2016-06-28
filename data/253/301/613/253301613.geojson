@@ -2,13 +2,14 @@
   "id": 253301613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.862579,-24.248684,151.862579,-24.248684",
     "geom:latitude":-24.248684,
     "geom:longitude":151.862579,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Rocky Crossing Rd",
     "sg:city":"Agnes Water",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253301613,
-    "wof:lastmodified":1449063575,
+    "wof:lastmodified":1466190776,
     "wof:name":"Boral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [151.862579,-24.248684,151.862579,-24.248684],
-  "geometry": {"coordinates":[151.862579,-24.248684],"type":"Point"}
+  "bbox": [
+    151.862579,
+    -24.248684,
+    151.862579,
+    -24.248684
+],
+  "geometry": {"coordinates":[151.86257900000001,-24.248684],"type":"Point"}
 }

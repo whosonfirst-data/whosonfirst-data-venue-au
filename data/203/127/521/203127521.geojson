@@ -2,13 +2,14 @@
   "id": 203127521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.728523,-32.527359,115.728523,-32.527359",
     "geom:latitude":-32.527359,
     "geom:longitude":115.728523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Peel St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203127521,
-    "wof:lastmodified":1449026708,
+    "wof:lastmodified":1466189479,
     "wof:name":"Woodward K & C",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.728523,-32.527359,115.728523,-32.527359],
+  "bbox": [
+    115.728523,
+    -32.527359,
+    115.728523,
+    -32.527359
+],
   "geometry": {"coordinates":[115.728523,-32.527359],"type":"Point"}
 }

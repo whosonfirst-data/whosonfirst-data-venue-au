@@ -2,13 +2,14 @@
   "id": 219894217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.877975,-34.388756,150.877975,-34.388756",
     "geom:latitude":-34.388756,
     "geom:longitude":150.877975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Balgownie Rd",
     "sg:city":"Balgownie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219894217,
-    "wof:lastmodified":1449071844,
+    "wof:lastmodified":1466191551,
     "wof:name":"Jason The Village Barber",
     "wof:parent_id":85768745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.877975,-34.388756,150.877975,-34.388756],
-  "geometry": {"coordinates":[150.877975,-34.388756],"type":"Point"}
+  "bbox": [
+    150.877975,
+    -34.388756,
+    150.877975,
+    -34.388756
+],
+  "geometry": {"coordinates":[150.87797499999999,-34.388756],"type":"Point"}
 }

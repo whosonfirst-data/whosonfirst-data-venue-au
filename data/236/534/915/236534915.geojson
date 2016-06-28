@@ -2,13 +2,14 @@
   "id": 236534915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.875443,-26.317236,151.875443,-26.317236",
     "geom:latitude":-26.317236,
     "geom:longitude":151.875443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr MacKenzie & Bramston Sts",
     "sg:city":"Wondai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236534915,
-    "wof:lastmodified":1449002325,
+    "wof:lastmodified":1466191442,
     "wof:name":"Kolli C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.875443,-26.317236,151.875443,-26.317236],
-  "geometry": {"coordinates":[151.875443,-26.317236],"type":"Point"}
+  "bbox": [
+    151.875443,
+    -26.317236,
+    151.875443,
+    -26.317236
+],
+  "geometry": {"coordinates":[151.87544299999999,-26.317236],"type":"Point"}
 }

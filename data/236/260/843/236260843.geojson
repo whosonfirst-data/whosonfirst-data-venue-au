@@ -2,13 +2,14 @@
   "id": 236260843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.320641,-31.225063,119.320641,-31.225063",
     "geom:latitude":-31.225063,
     "geom:longitude":119.320641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Altair St",
     "sg:city":"Southern Cross",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236260843,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466190119,
     "wof:name":"Della Bosca Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [119.320641,-31.225063,119.320641,-31.225063],
-  "geometry": {"coordinates":[119.320641,-31.225063],"type":"Point"}
+  "bbox": [
+    119.320641,
+    -31.225063,
+    119.320641,
+    -31.225063
+],
+  "geometry": {"coordinates":[119.32064099999999,-31.225063],"type":"Point"}
 }

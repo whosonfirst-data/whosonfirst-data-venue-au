@@ -2,13 +2,14 @@
   "id": 219768287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175842,-33.916656,151.175842,-33.916656",
     "geom:latitude":-33.916656,
     "geom:longitude":151.175842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 1 Canal Rd",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219768287,
-    "wof:lastmodified":1449071744,
+    "wof:lastmodified":1466191291,
     "wof:name":"John's Pineboard Centre",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "particle"
     ]
 },
-  "bbox": [151.175842,-33.916656,151.175842,-33.916656],
-  "geometry": {"coordinates":[151.175842,-33.916656],"type":"Point"}
+  "bbox": [
+    151.175842,
+    -33.916656,
+    151.175842,
+    -33.916656
+],
+  "geometry": {"coordinates":[151.17584199999999,-33.916656],"type":"Point"}
 }

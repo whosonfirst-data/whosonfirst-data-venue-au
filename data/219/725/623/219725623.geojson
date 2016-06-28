@@ -2,13 +2,14 @@
   "id": 219725623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.780487,-19.297623,146.780487,-19.297623",
     "geom:latitude":-19.297623,
     "geom:longitude":146.780487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Wentworth Ave",
     "sg:city":"Mundingburra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219725623,
-    "wof:lastmodified":1449071255,
+    "wof:lastmodified":1466191291,
     "wof:name":"Keppel Communications",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [146.780487,-19.297623,146.780487,-19.297623],
-  "geometry": {"coordinates":[146.780487,-19.297623],"type":"Point"}
+  "bbox": [
+    146.780487,
+    -19.297623,
+    146.780487,
+    -19.297623
+],
+  "geometry": {"coordinates":[146.78048699999999,-19.297623],"type":"Point"}
 }

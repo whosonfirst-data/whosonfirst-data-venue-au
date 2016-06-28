@@ -2,13 +2,14 @@
   "id": 253212781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.957016,-27.566561,151.957016,-27.566561",
     "geom:latitude":-27.566561,
     "geom:longitude":151.957016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253212781,
-    "wof:lastmodified":1449064749,
+    "wof:lastmodified":1466190309,
     "wof:name":"Approveit Home Loans Pty Ltd",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [151.957016,-27.566561,151.957016,-27.566561],
-  "geometry": {"coordinates":[151.957016,-27.566561],"type":"Point"}
+  "bbox": [
+    151.957016,
+    -27.566561,
+    151.957016,
+    -27.566561
+],
+  "geometry": {"coordinates":[151.95701600000001,-27.566561],"type":"Point"}
 }

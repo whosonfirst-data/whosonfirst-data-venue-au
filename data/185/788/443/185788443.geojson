@@ -2,13 +2,14 @@
   "id": 185788443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.386536,-37.726639,145.386536,-37.726639",
     "geom:latitude":-37.726639,
     "geom:longitude":145.386536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Lauriston Drv",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185788443,
-    "wof:lastmodified":1449007460,
+    "wof:lastmodified":1466189837,
     "wof:name":"Welding Solutions",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.386536,-37.726639,145.386536,-37.726639],
-  "geometry": {"coordinates":[145.386536,-37.726639],"type":"Point"}
+  "bbox": [
+    145.386536,
+    -37.726639,
+    145.386536,
+    -37.726639
+],
+  "geometry": {"coordinates":[145.38653600000001,-37.726639],"type":"Point"}
 }

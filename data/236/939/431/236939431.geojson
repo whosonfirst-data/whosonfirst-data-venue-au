@@ -2,13 +2,14 @@
   "id": 236939431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.571671,-35.028885,138.571671,-35.028885",
     "geom:latitude":-35.028885,
     "geom:longitude":138.571671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Car Park 9, Physical Sciences Rd",
     "sg:city":"Bedford Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236939431,
-    "wof:lastmodified":1449002446,
+    "wof:lastmodified":1466192149,
     "wof:name":"Flinders Press",
     "wof:parent_id":85769151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [138.571671,-35.028885,138.571671,-35.028885],
-  "geometry": {"coordinates":[138.571671,-35.028885],"type":"Point"}
+  "bbox": [
+    138.571671,
+    -35.028885,
+    138.571671,
+    -35.028885
+],
+  "geometry": {"coordinates":[138.57167100000001,-35.028885],"type":"Point"}
 }

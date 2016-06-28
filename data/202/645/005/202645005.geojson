@@ -2,13 +2,14 @@
   "id": 202645005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.03157,-27.403311,153.03157,-27.403311",
     "geom:latitude":-27.403311,
     "geom:longitude":153.03157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 88",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202645005,
-    "wof:lastmodified":1449060370,
+    "wof:lastmodified":1466187788,
     "wof:name":"Electrocomm",
     "wof:parent_id":85774043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.03157,-27.403311,153.03157,-27.403311],
-  "geometry": {"coordinates":[153.03157,-27.403311],"type":"Point"}
+  "bbox": [
+    153.03157,
+    -27.403311,
+    153.03157,
+    -27.403311
+],
+  "geometry": {"coordinates":[153.03156999999999,-27.403311],"type":"Point"}
 }

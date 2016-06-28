@@ -2,13 +2,14 @@
   "id": 202803449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.756241,-32.924995,151.756241,-32.924995",
     "geom:latitude":-32.924995,
     "geom:longitude":151.756241,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Denison St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202803449,
-    "wof:lastmodified":1449062687,
+    "wof:lastmodified":1466190331,
     "wof:name":"AOK Health",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [151.756241,-32.924995,151.756241,-32.924995],
-  "geometry": {"coordinates":[151.756241,-32.924995],"type":"Point"}
+  "bbox": [
+    151.756241,
+    -32.924995,
+    151.756241,
+    -32.924995
+],
+  "geometry": {"coordinates":[151.75624099999999,-32.924995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219636713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.10994,-33.927681,151.10994,-33.927681",
     "geom:latitude":-33.927681,
     "geom:longitude":151.10994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"198 William St",
     "sg:city":"Earlwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219636713,
-    "wof:lastmodified":1449071786,
+    "wof:lastmodified":1466190821,
     "wof:name":"Sydney Wide Timber Flooring",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wood"
     ]
 },
-  "bbox": [151.10994,-33.927681,151.10994,-33.927681],
-  "geometry": {"coordinates":[151.10994,-33.927681],"type":"Point"}
+  "bbox": [
+    151.10994,
+    -33.927681,
+    151.10994,
+    -33.927681
+],
+  "geometry": {"coordinates":[151.10993999999999,-33.927681],"type":"Point"}
 }

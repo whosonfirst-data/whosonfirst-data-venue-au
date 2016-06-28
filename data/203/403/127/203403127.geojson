@@ -2,13 +2,14 @@
   "id": 203403127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.949493,-37.497326,143.949493,-37.497326",
     "geom:latitude":-37.497326,
     "geom:longitude":143.949493,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Madderns Rd",
     "sg:city":"Clarks Hill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203403127,
-    "wof:lastmodified":1449026596,
+    "wof:lastmodified":1466189506,
     "wof:name":"Rosehill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stud"
     ]
 },
-  "bbox": [143.949493,-37.497326,143.949493,-37.497326],
-  "geometry": {"coordinates":[143.949493,-37.497326],"type":"Point"}
+  "bbox": [
+    143.949493,
+    -37.497326,
+    143.949493,
+    -37.497326
+],
+  "geometry": {"coordinates":[143.94949299999999,-37.497326],"type":"Point"}
 }

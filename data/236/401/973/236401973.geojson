@@ -2,13 +2,14 @@
   "id": 236401973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.825203,-32.251858,115.825203,-32.251858",
     "geom:latitude":-32.251858,
     "geom:longitude":115.825203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Parmelia Ave & Sutherland Pde",
     "sg:city":"Parmelia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236401973,
-    "wof:lastmodified":1449004659,
+    "wof:lastmodified":1466191127,
     "wof:name":"Move Well Physiotherapy",
     "wof:parent_id":85770599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.825203,-32.251858,115.825203,-32.251858],
+  "bbox": [
+    115.825203,
+    -32.251858,
+    115.825203,
+    -32.251858
+],
   "geometry": {"coordinates":[115.825203,-32.251858],"type":"Point"}
 }

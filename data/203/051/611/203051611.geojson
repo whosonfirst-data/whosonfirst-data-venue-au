@@ -2,13 +2,14 @@
   "id": 203051611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.705002,-36.919907,144.705002,-36.919907",
     "geom:latitude":-36.919907,
     "geom:longitude":144.705002,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Playne St",
     "sg:city":"Heathcote",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203051611,
-    "wof:lastmodified":1449026116,
+    "wof:lastmodified":1466188247,
     "wof:name":"Gilmore J D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.705002,-36.919907,144.705002,-36.919907],
-  "geometry": {"coordinates":[144.705002,-36.919907],"type":"Point"}
+  "bbox": [
+    144.705002,
+    -36.919907,
+    144.705002,
+    -36.919907
+],
+  "geometry": {"coordinates":[144.70500200000001,-36.919907],"type":"Point"}
 }

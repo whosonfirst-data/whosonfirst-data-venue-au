@@ -2,13 +2,14 @@
   "id": 253132955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.263885,-27.885351,151.263885,-27.885351",
     "geom:latitude":-27.885351,
     "geom:longitude":151.263885,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 2-4 Flynn St",
     "sg:city":"Millmerran",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253132955,
-    "wof:lastmodified":1449064266,
+    "wof:lastmodified":1466189301,
     "wof:name":"Nicks Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [151.263885,-27.885351,151.263885,-27.885351],
-  "geometry": {"coordinates":[151.263885,-27.885351],"type":"Point"}
+  "bbox": [
+    151.263885,
+    -27.885351,
+    151.263885,
+    -27.885351
+],
+  "geometry": {"coordinates":[151.26388499999999,-27.885351],"type":"Point"}
 }

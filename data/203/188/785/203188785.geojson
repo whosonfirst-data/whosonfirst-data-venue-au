@@ -2,13 +2,14 @@
   "id": 203188785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.690781,-40.995281,145.690781,-40.995281",
     "geom:latitude":-40.995281,
     "geom:longitude":145.690781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Timothy Drv",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203188785,
-    "wof:lastmodified":1449025870,
+    "wof:lastmodified":1466186918,
     "wof:name":"Mathew Dixon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "aluminium"
     ]
 },
-  "bbox": [145.690781,-40.995281,145.690781,-40.995281],
-  "geometry": {"coordinates":[145.690781,-40.995281],"type":"Point"}
+  "bbox": [
+    145.690781,
+    -40.995281,
+    145.690781,
+    -40.995281
+],
+  "geometry": {"coordinates":[145.69078099999999,-40.995281],"type":"Point"}
 }

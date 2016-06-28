@@ -2,13 +2,14 @@
   "id": 203356461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854446,-37.562656,143.854446,-37.562656",
     "geom:latitude":-37.562656,
     "geom:longitude":143.854446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Doveton St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203356461,
-    "wof:lastmodified":1449026501,
+    "wof:lastmodified":1466188787,
     "wof:name":"Cafe Audax",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.854446,-37.562656,143.854446,-37.562656],
+  "bbox": [
+    143.854446,
+    -37.562656,
+    143.854446,
+    -37.562656
+],
   "geometry": {"coordinates":[143.854446,-37.562656],"type":"Point"}
 }

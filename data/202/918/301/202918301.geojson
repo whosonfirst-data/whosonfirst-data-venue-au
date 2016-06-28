@@ -2,13 +2,14 @@
   "id": 202918301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.100281,-30.316345,153.100281,-30.316345",
     "geom:latitude":-30.316345,
     "geom:longitude":153.100281,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Wingara Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202918301,
-    "wof:lastmodified":1449061808,
+    "wof:lastmodified":1466190800,
     "wof:name":"Fews Transport Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [153.100281,-30.316345,153.100281,-30.316345],
+  "bbox": [
+    153.100281,
+    -30.316345,
+    153.100281,
+    -30.316345
+],
   "geometry": {"coordinates":[153.100281,-30.316345],"type":"Point"}
 }

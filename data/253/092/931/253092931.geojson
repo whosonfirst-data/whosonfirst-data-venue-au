@@ -2,13 +2,14 @@
   "id": 253092931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.769547,-37.747864,144.769547,-37.747864",
     "geom:latitude":-37.747864,
     "geom:longitude":144.769547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 President Rd",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253092931,
-    "wof:lastmodified":1449065211,
+    "wof:lastmodified":1466188586,
     "wof:name":"Designed Tiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [144.769547,-37.747864,144.769547,-37.747864],
-  "geometry": {"coordinates":[144.769547,-37.747864],"type":"Point"}
+  "bbox": [
+    144.769547,
+    -37.747864,
+    144.769547,
+    -37.747864
+],
+  "geometry": {"coordinates":[144.76954699999999,-37.747864],"type":"Point"}
 }

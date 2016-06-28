@@ -2,13 +2,14 @@
   "id": 169761371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.09108,-27.224949,153.09108,-27.224949",
     "geom:latitude":-27.224949,
     "geom:longitude":153.09108,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Beach St",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169761371,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466188058,
     "wof:name":"City Powder Coating",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "powder"
     ]
 },
-  "bbox": [153.09108,-27.224949,153.09108,-27.224949],
-  "geometry": {"coordinates":[153.09108,-27.224949],"type":"Point"}
+  "bbox": [
+    153.09108,
+    -27.224949,
+    153.09108,
+    -27.224949
+],
+  "geometry": {"coordinates":[153.09108000000001,-27.224949],"type":"Point"}
 }

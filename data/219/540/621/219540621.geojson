@@ -2,13 +2,14 @@
   "id": 219540621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.056076,-33.933273,151.056076,-33.933273",
     "geom:latitude":-33.933273,
     "geom:longitude":151.056076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Belmore Rd",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219540621,
-    "wof:lastmodified":1449071780,
+    "wof:lastmodified":1466190078,
     "wof:name":"Paul Jones Staircases",
     "wof:parent_id":85774747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "handrail"
     ]
 },
-  "bbox": [151.056076,-33.933273,151.056076,-33.933273],
-  "geometry": {"coordinates":[151.056076,-33.933273],"type":"Point"}
+  "bbox": [
+    151.056076,
+    -33.933273,
+    151.056076,
+    -33.933273
+],
+  "geometry": {"coordinates":[151.05607599999999,-33.933273],"type":"Point"}
 }

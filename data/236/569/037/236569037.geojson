@@ -2,13 +2,14 @@
   "id": 236569037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.038269,-33.955059,151.038269,-33.955059",
     "geom:latitude":-33.955059,
     "geom:longitude":151.038269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Davies Rd",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236569037,
-    "wof:lastmodified":1449005092,
+    "wof:lastmodified":1466191448,
     "wof:name":"Globe Battery Sales & Service",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [151.038269,-33.955059,151.038269,-33.955059],
-  "geometry": {"coordinates":[151.038269,-33.955059],"type":"Point"}
+  "bbox": [
+    151.038269,
+    -33.955059,
+    151.038269,
+    -33.955059
+],
+  "geometry": {"coordinates":[151.03826900000001,-33.955059],"type":"Point"}
 }

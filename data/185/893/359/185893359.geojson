@@ -2,13 +2,14 @@
   "id": 185893359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.699936,-25.524492,152.699936,-25.524492",
     "geom:latitude":-25.524492,
     "geom:longitude":152.699936,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Pallas St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185893359,
-    "wof:lastmodified":1449007921,
+    "wof:lastmodified":1466187847,
     "wof:name":"Patchwork On Pallas",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [152.699936,-25.524492,152.699936,-25.524492],
-  "geometry": {"coordinates":[152.699936,-25.524492],"type":"Point"}
+  "bbox": [
+    152.699936,
+    -25.524492,
+    152.699936,
+    -25.524492
+],
+  "geometry": {"coordinates":[152.69993600000001,-25.524492],"type":"Point"}
 }

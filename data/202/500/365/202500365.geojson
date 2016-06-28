@@ -2,13 +2,14 @@
   "id": 202500365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.038055,-37.903542,145.038055,-37.903542",
     "geom:latitude":-37.903542,
     "geom:longitude":145.038055,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"457 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202500365,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1466189517,
     "wof:name":"Equilibrium Kinesiology",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [145.038055,-37.903542,145.038055,-37.903542],
-  "geometry": {"coordinates":[145.038055,-37.903542],"type":"Point"}
+  "bbox": [
+    145.038055,
+    -37.903542,
+    145.038055,
+    -37.903542
+],
+  "geometry": {"coordinates":[145.03805500000001,-37.903542],"type":"Point"}
 }

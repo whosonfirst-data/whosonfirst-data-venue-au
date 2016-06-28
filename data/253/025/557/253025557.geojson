@@ -2,13 +2,14 @@
   "id": 253025557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.785645,-37.873165,144.785645,-37.873165",
     "geom:latitude":-37.873165,
     "geom:longitude":144.785645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Queen St",
     "sg:city":"Altona Meadows",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253025557,
-    "wof:lastmodified":1449065280,
+    "wof:lastmodified":1466187425,
     "wof:name":"Altona Meadows Osteopathy & Healthcare Clinic",
     "wof:parent_id":85777895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [144.785645,-37.873165,144.785645,-37.873165],
-  "geometry": {"coordinates":[144.785645,-37.873165],"type":"Point"}
+  "bbox": [
+    144.785645,
+    -37.873165,
+    144.785645,
+    -37.873165
+],
+  "geometry": {"coordinates":[144.78564499999999,-37.873165],"type":"Point"}
 }

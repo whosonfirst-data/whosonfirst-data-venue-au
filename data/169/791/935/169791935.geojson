@@ -2,13 +2,14 @@
   "id": 169791935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.587326,-38.590641,145.587326,-38.590641",
     "geom:latitude":-38.590641,
     "geom:longitude":145.587326,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Gordon St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169791935,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466188574,
     "wof:name":"Park T & J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.587326,-38.590641,145.587326,-38.590641],
-  "geometry": {"coordinates":[145.587326,-38.590641],"type":"Point"}
+  "bbox": [
+    145.587326,
+    -38.590641,
+    145.587326,
+    -38.590641
+],
+  "geometry": {"coordinates":[145.58732599999999,-38.590641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202714195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.063965,-27.347639,153.063965,-27.347639",
     "geom:latitude":-27.347639,
     "geom:longitude":153.063965,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Landsboro Ave",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202714195,
-    "wof:lastmodified":1449061374,
+    "wof:lastmodified":1466189105,
     "wof:name":"Kings Mini Vac",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.063965,-27.347639,153.063965,-27.347639],
+  "bbox": [
+    153.063965,
+    -27.347639,
+    153.063965,
+    -27.347639
+],
   "geometry": {"coordinates":[153.063965,-27.347639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203069877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.282639,-41.86462,148.282639,-41.86462",
     "geom:latitude":-41.86462,
     "geom:longitude":148.282639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U1/ 144 Tasman Hwy",
     "sg:city":"Bicheno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203069877,
-    "wof:lastmodified":1449026162,
+    "wof:lastmodified":1466188580,
     "wof:name":"Nick Ackers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "assessor"
     ]
 },
-  "bbox": [148.282639,-41.86462,148.282639,-41.86462],
-  "geometry": {"coordinates":[148.282639,-41.86462],"type":"Point"}
+  "bbox": [
+    148.282639,
+    -41.86462,
+    148.282639,
+    -41.86462
+],
+  "geometry": {"coordinates":[148.28263899999999,-41.86462],"type":"Point"}
 }

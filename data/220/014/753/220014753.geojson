@@ -2,13 +2,14 @@
   "id": 220014753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.292984,-36.751186,144.292984,-36.751186",
     "geom:latitude":-36.751186,
     "geom:longitude":144.292984,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Nolan St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220014753,
-    "wof:lastmodified":1449074421,
+    "wof:lastmodified":1466187034,
     "wof:name":"National Tiles",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [144.292984,-36.751186,144.292984,-36.751186],
-  "geometry": {"coordinates":[144.292984,-36.751186],"type":"Point"}
+  "bbox": [
+    144.292984,
+    -36.751186,
+    144.292984,
+    -36.751186
+],
+  "geometry": {"coordinates":[144.29298399999999,-36.751186],"type":"Point"}
 }

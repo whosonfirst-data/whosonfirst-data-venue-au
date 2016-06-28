@@ -2,13 +2,14 @@
   "id": 185985353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.416077,-33.437294,151.416077,-33.437294",
     "geom:latitude":-33.437294,
     "geom:longitude":151.416077,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Serpentine Rd",
     "sg:city":"Terrigal",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185985353,
-    "wof:lastmodified":1449007425,
+    "wof:lastmodified":1466188782,
     "wof:name":"MV8 Personal Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [151.416077,-33.437294,151.416077,-33.437294],
+  "bbox": [
+    151.416077,
+    -33.437294,
+    151.416077,
+    -33.437294
+],
   "geometry": {"coordinates":[151.416077,-33.437294],"type":"Point"}
 }

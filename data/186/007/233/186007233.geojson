@@ -2,13 +2,14 @@
   "id": 186007233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.481384,-33.385998,151.481384,-33.385998",
     "geom:latitude":-33.385998,
     "geom:longitude":151.481384,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Burrawong St",
     "sg:city":"Bateau Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186007233,
-    "wof:lastmodified":1449052551,
+    "wof:lastmodified":1466187085,
     "wof:name":"Contour Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [151.481384,-33.385998,151.481384,-33.385998],
-  "geometry": {"coordinates":[151.481384,-33.385998],"type":"Point"}
+  "bbox": [
+    151.481384,
+    -33.385998,
+    151.481384,
+    -33.385998
+],
+  "geometry": {"coordinates":[151.48138399999999,-33.385998],"type":"Point"}
 }

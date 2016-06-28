@@ -2,13 +2,14 @@
   "id": 185875345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.693192,-25.53582,152.693192,-25.53582",
     "geom:latitude":-25.53582,
     "geom:longitude":152.693192,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Alice St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185875345,
-    "wof:lastmodified":1449007798,
+    "wof:lastmodified":1466187626,
     "wof:name":"Bob Batten Pools",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [152.693192,-25.53582,152.693192,-25.53582],
-  "geometry": {"coordinates":[152.693192,-25.53582],"type":"Point"}
+  "bbox": [
+    152.693192,
+    -25.53582,
+    152.693192,
+    -25.53582
+],
+  "geometry": {"coordinates":[152.69319200000001,-25.53582],"type":"Point"}
 }

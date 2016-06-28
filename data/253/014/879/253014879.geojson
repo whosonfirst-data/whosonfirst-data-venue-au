@@ -2,13 +2,14 @@
   "id": 253014879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.718079,-37.87458,144.718079,-37.87458",
     "geom:latitude":-37.87458,
     "geom:longitude":144.718079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Costas Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253014879,
-    "wof:lastmodified":1449064270,
+    "wof:lastmodified":1466187209,
     "wof:name":"Reserve Cars",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [144.718079,-37.87458,144.718079,-37.87458],
-  "geometry": {"coordinates":[144.718079,-37.87458],"type":"Point"}
+  "bbox": [
+    144.718079,
+    -37.87458,
+    144.718079,
+    -37.87458
+],
+  "geometry": {"coordinates":[144.71807899999999,-37.87458],"type":"Point"}
 }

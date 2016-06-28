@@ -2,13 +2,14 @@
   "id": 185872569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.839005,-25.283989,152.839005,-25.283989",
     "geom:latitude":-25.283989,
     "geom:longitude":152.839005,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Main St",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185872569,
-    "wof:lastmodified":1449006752,
+    "wof:lastmodified":1466187599,
     "wof:name":"Payless Business Furniture",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [152.839005,-25.283989,152.839005,-25.283989],
-  "geometry": {"coordinates":[152.839005,-25.283989],"type":"Point"}
+  "bbox": [
+    152.839005,
+    -25.283989,
+    152.839005,
+    -25.283989
+],
+  "geometry": {"coordinates":[152.83900499999999,-25.283989],"type":"Point"}
 }

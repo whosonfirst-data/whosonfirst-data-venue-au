@@ -2,13 +2,14 @@
   "id": 219808999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.893845,-36.163033,146.893845,-36.163033",
     "geom:latitude":-36.163033,
     "geom:longitude":146.893845,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Streets Rd",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219808999,
-    "wof:lastmodified":1449070544,
+    "wof:lastmodified":1466191344,
     "wof:name":"Azure Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.893845,-36.163033,146.893845,-36.163033],
+  "bbox": [
+    146.893845,
+    -36.163033,
+    146.893845,
+    -36.163033
+],
   "geometry": {"coordinates":[146.893845,-36.163033],"type":"Point"}
 }

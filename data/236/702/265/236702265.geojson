@@ -2,13 +2,14 @@
   "id": 236702265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.485458,-31.899408,152.485458,-31.899408",
     "geom:latitude":-31.899408,
     "geom:longitude":152.485458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cowper St",
     "sg:city":"Chatham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236702265,
-    "wof:lastmodified":1449003273,
+    "wof:lastmodified":1466191775,
     "wof:name":"Wallace's Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "library"
     ]
 },
-  "bbox": [152.485458,-31.899408,152.485458,-31.899408],
-  "geometry": {"coordinates":[152.485458,-31.899408],"type":"Point"}
+  "bbox": [
+    152.485458,
+    -31.899408,
+    152.485458,
+    -31.899408
+],
+  "geometry": {"coordinates":[152.48545799999999,-31.899408],"type":"Point"}
 }

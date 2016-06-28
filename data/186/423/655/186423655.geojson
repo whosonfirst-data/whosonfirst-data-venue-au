@@ -2,13 +2,14 @@
   "id": 186423655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.798187,-19.244362,146.798187,-19.244362",
     "geom:latitude":-19.244362,
     "geom:longitude":146.798187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, Bayside Shopping Centre, 34 Primrose St",
     "sg:city":"Belgian Gardens",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186423655,
-    "wof:lastmodified":1449050856,
+    "wof:lastmodified":1466189702,
     "wof:name":"Beauty Bayside",
     "wof:parent_id":85779935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [146.798187,-19.244362,146.798187,-19.244362],
-  "geometry": {"coordinates":[146.798187,-19.244362],"type":"Point"}
+  "bbox": [
+    146.798187,
+    -19.244362,
+    146.798187,
+    -19.244362
+],
+  "geometry": {"coordinates":[146.79818700000001,-19.244362],"type":"Point"}
 }

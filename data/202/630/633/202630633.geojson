@@ -2,13 +2,14 @@
   "id": 202630633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.225418,-33.915436,151.225418,-33.915436",
     "geom:latitude":-33.915436,
     "geom:longitude":151.225418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Anzac Pde",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202630633,
-    "wof:lastmodified":1449061013,
+    "wof:lastmodified":1466187600,
     "wof:name":"NIDA OPEN PROGRAM",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tuition"
     ]
 },
-  "bbox": [151.225418,-33.915436,151.225418,-33.915436],
-  "geometry": {"coordinates":[151.225418,-33.915436],"type":"Point"}
+  "bbox": [
+    151.225418,
+    -33.915436,
+    151.225418,
+    -33.915436
+],
+  "geometry": {"coordinates":[151.22541799999999,-33.915436],"type":"Point"}
 }

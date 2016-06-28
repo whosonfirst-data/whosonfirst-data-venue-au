@@ -2,13 +2,14 @@
   "id": 202568359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.433395,-37.664936,144.433395,-37.664936",
     "geom:latitude":-37.664936,
     "geom:longitude":144.433395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste3/ 1 Clifton Drv",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202568359,
-    "wof:lastmodified":1449060045,
+    "wof:lastmodified":1466187033,
     "wof:name":"J P Drafting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [144.433395,-37.664936,144.433395,-37.664936],
-  "geometry": {"coordinates":[144.433395,-37.664936],"type":"Point"}
+  "bbox": [
+    144.433395,
+    -37.664936,
+    144.433395,
+    -37.664936
+],
+  "geometry": {"coordinates":[144.43339499999999,-37.664936],"type":"Point"}
 }

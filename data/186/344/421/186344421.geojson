@@ -2,13 +2,14 @@
   "id": 186344421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.297195,-33.715675,151.297195,-33.715675",
     "geom:latitude":-33.715675,
     "geom:longitude":151.297195,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1383 Pittwater Rd",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186344421,
-    "wof:lastmodified":1449050402,
+    "wof:lastmodified":1466188347,
     "wof:name":"Allen Peter W",
     "wof:parent_id":85769849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [151.297195,-33.715675,151.297195,-33.715675],
-  "geometry": {"coordinates":[151.297195,-33.715675],"type":"Point"}
+  "bbox": [
+    151.297195,
+    -33.715675,
+    151.297195,
+    -33.715675
+],
+  "geometry": {"coordinates":[151.29719499999999,-33.715675],"type":"Point"}
 }

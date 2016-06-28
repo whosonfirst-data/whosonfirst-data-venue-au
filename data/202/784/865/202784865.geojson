@@ -2,13 +2,14 @@
   "id": 202784865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.783951,-32.927841,151.783951,-32.927841",
     "geom:latitude":-32.927841,
     "geom:longitude":151.783951,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 55 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202784865,
-    "wof:lastmodified":1449061780,
+    "wof:lastmodified":1466190209,
     "wof:name":"WRC Consulting",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relation"
     ]
 },
-  "bbox": [151.783951,-32.927841,151.783951,-32.927841],
+  "bbox": [
+    151.783951,
+    -32.927841,
+    151.783951,
+    -32.927841
+],
   "geometry": {"coordinates":[151.783951,-32.927841],"type":"Point"}
 }

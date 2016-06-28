@@ -2,13 +2,14 @@
   "id": 203209995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.931992,-41.070663,145.931992,-41.070663",
     "geom:latitude":-41.070663,
     "geom:longitude":145.931992,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19b Smith St",
     "sg:city":"Wivenhoe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203209995,
-    "wof:lastmodified":1449026667,
+    "wof:lastmodified":1466187154,
     "wof:name":"Besser Engineering",
     "wof:parent_id":85780725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [145.931992,-41.070663,145.931992,-41.070663],
-  "geometry": {"coordinates":[145.931992,-41.070663],"type":"Point"}
+  "bbox": [
+    145.931992,
+    -41.070663,
+    145.931992,
+    -41.070663
+],
+  "geometry": {"coordinates":[145.93199200000001,-41.070663],"type":"Point"}
 }

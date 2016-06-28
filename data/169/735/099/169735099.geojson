@@ -2,13 +2,14 @@
   "id": 169735099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.986465,-12.469489,130.986465,-12.469489",
     "geom:latitude":-12.469489,
     "geom:longitude":130.986465,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1983 Yarrawonga Rd",
     "sg:city":"Yarrawonga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169735099,
-    "wof:lastmodified":1449035892,
+    "wof:lastmodified":1466187459,
     "wof:name":"Palmerston Mini Mix",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [130.986465,-12.469489,130.986465,-12.469489],
-  "geometry": {"coordinates":[130.986465,-12.469489],"type":"Point"}
+  "bbox": [
+    130.986465,
+    -12.469489,
+    130.986465,
+    -12.469489
+],
+  "geometry": {"coordinates":[130.98646500000001,-12.469489],"type":"Point"}
 }

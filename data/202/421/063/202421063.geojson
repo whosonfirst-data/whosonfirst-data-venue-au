@@ -2,13 +2,14 @@
   "id": 202421063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942551,-37.838585,144.942551,-37.838585",
     "geom:latitude":-37.838585,
     "geom:longitude":144.942551,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202421063,
-    "wof:lastmodified":1449061697,
+    "wof:lastmodified":1466188147,
     "wof:name":"Port Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.942551,-37.838585,144.942551,-37.838585],
-  "geometry": {"coordinates":[144.942551,-37.838585],"type":"Point"}
+  "bbox": [
+    144.942551,
+    -37.838585,
+    144.942551,
+    -37.838585
+],
+  "geometry": {"coordinates":[144.94255100000001,-37.838585],"type":"Point"}
 }

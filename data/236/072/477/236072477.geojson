@@ -2,13 +2,14 @@
   "id": 236072477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.72847,-37.68187,144.72847,-37.68187",
     "geom:latitude":-37.68187,
     "geom:longitude":144.72847,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lancelot Crt",
     "sg:city":"Hillside (Sydenham)",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236072477,
-    "wof:lastmodified":1449003378,
+    "wof:lastmodified":1466188077,
     "wof:name":"Zokee Transportation",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.72847,-37.68187,144.72847,-37.68187],
-  "geometry": {"coordinates":[144.72847,-37.68187],"type":"Point"}
+  "bbox": [
+    144.72847,
+    -37.68187,
+    144.72847,
+    -37.68187
+],
+  "geometry": {"coordinates":[144.72846999999999,-37.68187],"type":"Point"}
 }

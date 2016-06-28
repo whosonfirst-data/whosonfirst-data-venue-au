@@ -2,13 +2,14 @@
   "id": 186313487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.858948,-30.654682,152.858948,-30.654682",
     "geom:latitude":-30.654682,
     "geom:longitude":152.858948,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Wilson Rd",
     "sg:city":"Bowraville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186313487,
-    "wof:lastmodified":1449050343,
+    "wof:lastmodified":1466187865,
     "wof:name":"Coastcert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [152.858948,-30.654682,152.858948,-30.654682],
+  "bbox": [
+    152.858948,
+    -30.654682,
+    152.858948,
+    -30.654682
+],
   "geometry": {"coordinates":[152.858948,-30.654682],"type":"Point"}
 }

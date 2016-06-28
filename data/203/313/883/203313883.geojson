@@ -2,13 +2,14 @@
   "id": 203313883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.893463,-37.647369,143.893463,-37.647369",
     "geom:latitude":-37.647369,
     "geom:longitude":143.893463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Barkly St",
     "sg:city":"Buninyong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203313883,
-    "wof:lastmodified":1449025009,
+    "wof:lastmodified":1466188170,
     "wof:name":"Gray Richard",
     "wof:parent_id":85768961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.893463,-37.647369,143.893463,-37.647369],
+  "bbox": [
+    143.893463,
+    -37.647369,
+    143.893463,
+    -37.647369
+],
   "geometry": {"coordinates":[143.893463,-37.647369],"type":"Point"}
 }

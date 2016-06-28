@@ -2,13 +2,14 @@
   "id": 220049299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.156311,-33.35685,116.156311,-33.35685",
     "geom:latitude":-33.35685,
     "geom:longitude":116.156311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Coombe St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220049299,
-    "wof:lastmodified":1449074430,
+    "wof:lastmodified":1466187495,
     "wof:name":"Roche Park Recreation Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ground"
     ]
 },
-  "bbox": [116.156311,-33.35685,116.156311,-33.35685],
+  "bbox": [
+    116.156311,
+    -33.35685,
+    116.156311,
+    -33.35685
+],
   "geometry": {"coordinates":[116.156311,-33.35685],"type":"Point"}
 }

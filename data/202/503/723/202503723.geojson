@@ -2,13 +2,14 @@
   "id": 202503723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.04805,-37.913651,145.04805,-37.913651",
     "geom:latitude":-37.913651,
     "geom:longitude":145.04805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Selkirk Ave",
     "sg:city":"McKinnon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202503723,
-    "wof:lastmodified":1449062654,
+    "wof:lastmodified":1466189558,
     "wof:name":"Silver Strings Trio-Quartet",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [145.04805,-37.913651,145.04805,-37.913651],
-  "geometry": {"coordinates":[145.04805,-37.913651],"type":"Point"}
+  "bbox": [
+    145.04805,
+    -37.913651,
+    145.04805,
+    -37.913651
+],
+  "geometry": {"coordinates":[145.04804999999999,-37.913651],"type":"Point"}
 }

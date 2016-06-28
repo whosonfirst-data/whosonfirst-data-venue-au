@@ -2,13 +2,14 @@
   "id": 219228611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942017,-37.662655,144.942017,-37.662655",
     "geom:latitude":-37.662655,
     "geom:longitude":144.942017,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Maffra St",
     "sg:city":"Coolaroo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219228611,
-    "wof:lastmodified":1449071498,
+    "wof:lastmodified":1466189891,
     "wof:name":"Dempsters Woodshavings Supplies",
     "wof:parent_id":85777855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shaving"
     ]
 },
-  "bbox": [144.942017,-37.662655,144.942017,-37.662655],
-  "geometry": {"coordinates":[144.942017,-37.662655],"type":"Point"}
+  "bbox": [
+    144.942017,
+    -37.662655,
+    144.942017,
+    -37.662655
+],
+  "geometry": {"coordinates":[144.94201699999999,-37.662655],"type":"Point"}
 }

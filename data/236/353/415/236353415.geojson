@@ -2,13 +2,14 @@
   "id": 236353415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.818863,-32.059429,115.818863,-32.059429",
     "geom:latitude":-32.059429,
     "geom:longitude":115.818863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 Kardinya Park Shopping Centre",
     "sg:city":"Kardinya",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236353415,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466190903,
     "wof:name":"Kardinya Health Foods",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [115.818863,-32.059429,115.818863,-32.059429],
-  "geometry": {"coordinates":[115.818863,-32.059429],"type":"Point"}
+  "bbox": [
+    115.818863,
+    -32.059429,
+    115.818863,
+    -32.059429
+],
+  "geometry": {"coordinates":[115.81886299999999,-32.059429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185751785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.075043,-32.726852,152.075043,-32.726852",
     "geom:latitude":-32.726852,
     "geom:longitude":152.075043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 27 George Rd",
     "sg:city":"Salamander Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185751785,
-    "wof:lastmodified":1449006681,
+    "wof:lastmodified":1466189601,
     "wof:name":"Profencing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.075043,-32.726852,152.075043,-32.726852],
-  "geometry": {"coordinates":[152.075043,-32.726852],"type":"Point"}
+  "bbox": [
+    152.075043,
+    -32.726852,
+    152.075043,
+    -32.726852
+],
+  "geometry": {"coordinates":[152.07504299999999,-32.726852],"type":"Point"}
 }

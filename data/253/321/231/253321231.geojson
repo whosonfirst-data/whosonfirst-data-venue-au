@@ -2,13 +2,14 @@
   "id": 253321231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.285736,-38.048656,145.285736,-38.048656",
     "geom:latitude":-38.048656,
     "geom:longitude":145.285736,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 10 / 101 Amberly Park Shopping Centre - Seebeck Drive",
     "sg:city":"Narre Warren South",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253321231,
-    "wof:lastmodified":1449062889,
+    "wof:lastmodified":1466190803,
     "wof:name":"Arya Indian Restaurant & Cafe",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.285736,-38.048656,145.285736,-38.048656],
-  "geometry": {"coordinates":[145.285736,-38.048656],"type":"Point"}
+  "bbox": [
+    145.285736,
+    -38.048656,
+    145.285736,
+    -38.048656
+],
+  "geometry": {"coordinates":[145.28573600000001,-38.048656],"type":"Point"}
 }

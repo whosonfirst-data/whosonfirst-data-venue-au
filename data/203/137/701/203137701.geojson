@@ -2,13 +2,14 @@
   "id": 203137701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.732307,-32.535099,115.732307,-32.535099",
     "geom:latitude":-32.535099,
     "geom:longitude":115.732307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203137701,
-    "wof:lastmodified":1449026603,
+    "wof:lastmodified":1466189597,
     "wof:name":"SKG Radiology",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.732307,-32.535099,115.732307,-32.535099],
-  "geometry": {"coordinates":[115.732307,-32.535099],"type":"Point"}
+  "bbox": [
+    115.732307,
+    -32.535099,
+    115.732307,
+    -32.535099
+],
+  "geometry": {"coordinates":[115.73230700000001,-32.535099],"type":"Point"}
 }

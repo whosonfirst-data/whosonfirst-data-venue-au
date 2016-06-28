@@ -2,13 +2,14 @@
   "id": 202704463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.059525,-27.35825,153.059525,-27.35825",
     "geom:latitude":-27.35825,
     "geom:longitude":153.059525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Pandora St",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704463,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466188913,
     "wof:name":"Insurance Prescriptions Pty Ltd",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [153.059525,-27.35825,153.059525,-27.35825],
-  "geometry": {"coordinates":[153.059525,-27.35825],"type":"Point"}
+  "bbox": [
+    153.059525,
+    -27.35825,
+    153.059525,
+    -27.35825
+],
+  "geometry": {"coordinates":[153.05952500000001,-27.35825],"type":"Point"}
 }

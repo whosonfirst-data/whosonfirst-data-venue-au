@@ -2,13 +2,14 @@
   "id": 202536287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.148087,-38.12336,145.148087,-38.12336",
     "geom:latitude":-38.12336,
     "geom:longitude":145.148087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Mahogany Ave",
     "sg:city":"Frankston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202536287,
-    "wof:lastmodified":1449061628,
+    "wof:lastmodified":1466189863,
     "wof:name":"Mahogany Takeway Fish & Chip Shop",
     "wof:parent_id":85776467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [145.148087,-38.12336,145.148087,-38.12336],
+  "bbox": [
+    145.148087,
+    -38.12336,
+    145.148087,
+    -38.12336
+],
   "geometry": {"coordinates":[145.148087,-38.12336],"type":"Point"}
 }

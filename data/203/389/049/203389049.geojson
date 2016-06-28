@@ -2,13 +2,14 @@
   "id": 203389049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855713,-37.555794,143.855713,-37.555794",
     "geom:latitude":-37.555794,
     "geom:longitude":143.855713,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Doveton St (North)",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203389049,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466189359,
     "wof:name":"Cheap Car & Ute Hire",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [143.855713,-37.555794,143.855713,-37.555794],
-  "geometry": {"coordinates":[143.855713,-37.555794],"type":"Point"}
+  "bbox": [
+    143.855713,
+    -37.555794,
+    143.855713,
+    -37.555794
+],
+  "geometry": {"coordinates":[143.85571300000001,-37.555794],"type":"Point"}
 }

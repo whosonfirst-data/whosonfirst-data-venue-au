@@ -2,13 +2,14 @@
   "id": 236312221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.762253,-32.073292,115.762253,-32.073292",
     "geom:latitude":-32.073292,
     "geom:longitude":115.762253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Strang St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236312221,
-    "wof:lastmodified":1449003291,
+    "wof:lastmodified":1466190556,
     "wof:name":"Universal Transformer Manufacturers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transformer"
     ]
 },
-  "bbox": [115.762253,-32.073292,115.762253,-32.073292],
+  "bbox": [
+    115.762253,
+    -32.073292,
+    115.762253,
+    -32.073292
+],
   "geometry": {"coordinates":[115.762253,-32.073292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186561919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160858,-33.887978,151.160858,-33.887978",
     "geom:latitude":-33.887978,
     "geom:longitude":151.160858,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Parramatta Rd",
     "sg:city":"Petersham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186561919,
-    "wof:lastmodified":1449052259,
+    "wof:lastmodified":1466190893,
     "wof:name":"Luxury Pet Beds Pty Ltd",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [151.160858,-33.887978,151.160858,-33.887978],
-  "geometry": {"coordinates":[151.160858,-33.887978],"type":"Point"}
+  "bbox": [
+    151.160858,
+    -33.887978,
+    151.160858,
+    -33.887978
+],
+  "geometry": {"coordinates":[151.16085799999999,-33.887978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220173139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.355057,-38.148144,144.355057,-38.148144",
     "geom:latitude":-38.148144,
     "geom:longitude":144.355057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220173139,
-    "wof:lastmodified":1449074194,
+    "wof:lastmodified":1466189056,
     "wof:name":"Geelong Financial Group",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.355057,-38.148144,144.355057,-38.148144],
-  "geometry": {"coordinates":[144.355057,-38.148144],"type":"Point"}
+  "bbox": [
+    144.355057,
+    -38.148144,
+    144.355057,
+    -38.148144
+],
+  "geometry": {"coordinates":[144.35505699999999,-38.148144],"type":"Point"}
 }

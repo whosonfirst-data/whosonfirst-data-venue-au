@@ -2,13 +2,14 @@
   "id": 202943053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115158,-30.29701,153.115158,-30.29701",
     "geom:latitude":-30.29701,
     "geom:longitude":153.115158,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 6258",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202943053,
-    "wof:lastmodified":1449060783,
+    "wof:lastmodified":1466190846,
     "wof:name":"Keith & Paul McAnally-Quandell Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [153.115158,-30.29701,153.115158,-30.29701],
-  "geometry": {"coordinates":[153.115158,-30.29701],"type":"Point"}
+  "bbox": [
+    153.115158,
+    -30.29701,
+    153.115158,
+    -30.29701
+],
+  "geometry": {"coordinates":[153.11515800000001,-30.29701],"type":"Point"}
 }

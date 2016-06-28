@@ -2,13 +2,14 @@
   "id": 219673001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.500626,-32.178593,152.500626,-32.178593",
     "geom:latitude":-32.178593,
     "geom:longitude":152.500626,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11/ 1 Manning St",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219673001,
-    "wof:lastmodified":1449071753,
+    "wof:lastmodified":1466191178,
     "wof:name":"Cunningham Karen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.500626,-32.178593,152.500626,-32.178593],
-  "geometry": {"coordinates":[152.500626,-32.178593],"type":"Point"}
+  "bbox": [
+    152.500626,
+    -32.178593,
+    152.500626,
+    -32.178593
+],
+  "geometry": {"coordinates":[152.50062600000001,-32.178593],"type":"Point"}
 }

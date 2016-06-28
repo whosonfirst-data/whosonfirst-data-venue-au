@@ -2,13 +2,14 @@
   "id": 202796427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.746277,-32.925095,151.746277,-32.925095",
     "geom:latitude":-32.925095,
     "geom:longitude":151.746277,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Denison St & Gordon Ave",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202796427,
-    "wof:lastmodified":1449061320,
+    "wof:lastmodified":1466190158,
     "wof:name":"Belinda Mills, Physiotherapy & Acupuncture",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.746277,-32.925095,151.746277,-32.925095],
-  "geometry": {"coordinates":[151.746277,-32.925095],"type":"Point"}
+  "bbox": [
+    151.746277,
+    -32.925095,
+    151.746277,
+    -32.925095
+],
+  "geometry": {"coordinates":[151.74627699999999,-32.925095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236464661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.15036,-21.130594,149.15036,-21.130594",
     "geom:latitude":-21.130594,
     "geom:longitude":149.15036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 2/ 14 Fursden St",
     "sg:city":"Glenella",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236464661,
-    "wof:lastmodified":1449002352,
+    "wof:lastmodified":1466191289,
     "wof:name":"Daley Electrical",
     "wof:parent_id":85779853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.15036,-21.130594,149.15036,-21.130594],
-  "geometry": {"coordinates":[149.15036,-21.130594],"type":"Point"}
+  "bbox": [
+    149.15036,
+    -21.130594,
+    149.15036,
+    -21.130594
+],
+  "geometry": {"coordinates":[149.15036000000001,-21.130594],"type":"Point"}
 }

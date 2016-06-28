@@ -2,13 +2,14 @@
   "id": 220106679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.557663,-38.259892,144.557663,-38.259892",
     "geom:latitude":-38.259892,
     "geom:longitude":144.557663,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155-175 Bonnyvale Rd",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220106679,
-    "wof:lastmodified":1449074048,
+    "wof:lastmodified":1466188017,
     "wof:name":"Ocean Grove Hotel Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.557663,-38.259892,144.557663,-38.259892],
-  "geometry": {"coordinates":[144.557663,-38.259892],"type":"Point"}
+  "bbox": [
+    144.557663,
+    -38.259892,
+    144.557663,
+    -38.259892
+],
+  "geometry": {"coordinates":[144.55766299999999,-38.259892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203130653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.77063,-32.532871,115.77063,-32.532871",
     "geom:latitude":-32.532871,
     "geom:longitude":115.77063,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Yanagin Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203130653,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466189514,
     "wof:name":"Peckys Plumbing & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.77063,-32.532871,115.77063,-32.532871],
+  "bbox": [
+    115.77063,
+    -32.532871,
+    115.77063,
+    -32.532871
+],
   "geometry": {"coordinates":[115.77063,-32.532871],"type":"Point"}
 }

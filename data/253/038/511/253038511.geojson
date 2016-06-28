@@ -2,13 +2,14 @@
   "id": 253038511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.808487,-37.830242,144.808487,-37.830242",
     "geom:latitude":-37.830242,
     "geom:longitude":144.808487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cherry La",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253038511,
-    "wof:lastmodified":1449064725,
+    "wof:lastmodified":1466187690,
     "wof:name":"BPW Transpec Pty Ltd",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [144.808487,-37.830242,144.808487,-37.830242],
-  "geometry": {"coordinates":[144.808487,-37.830242],"type":"Point"}
+  "bbox": [
+    144.808487,
+    -37.830242,
+    144.808487,
+    -37.830242
+],
+  "geometry": {"coordinates":[144.80848700000001,-37.830242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236411599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.77903,-32.166206,115.77903,-32.166206",
     "geom:latitude":-32.166206,
     "geom:longitude":115.77903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Alacrity Pl",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236411599,
-    "wof:lastmodified":1449001795,
+    "wof:lastmodified":1466191207,
     "wof:name":"Bentley Crane Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hire"
     ]
 },
-  "bbox": [115.77903,-32.166206,115.77903,-32.166206],
-  "geometry": {"coordinates":[115.77903,-32.166206],"type":"Point"}
+  "bbox": [
+    115.77903,
+    -32.166206,
+    115.77903,
+    -32.166206
+],
+  "geometry": {"coordinates":[115.77903000000001,-32.166206],"type":"Point"}
 }

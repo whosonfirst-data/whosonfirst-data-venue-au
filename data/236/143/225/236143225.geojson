@@ -2,13 +2,14 @@
   "id": 236143225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"135.83992,-34.729382,135.83992,-34.729382",
     "geom:latitude":-34.729382,
     "geom:longitude":135.83992,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"124 New West Rd",
     "sg:city":"Port Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236143225,
-    "wof:lastmodified":1449004576,
+    "wof:lastmodified":1466189442,
     "wof:name":"G P & T Wilkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "layer"
     ]
 },
-  "bbox": [135.83992,-34.729382,135.83992,-34.729382],
-  "geometry": {"coordinates":[135.83992,-34.729382],"type":"Point"}
+  "bbox": [
+    135.83992,
+    -34.729382,
+    135.83992,
+    -34.729382
+],
+  "geometry": {"coordinates":[135.83992000000001,-34.729382],"type":"Point"}
 }

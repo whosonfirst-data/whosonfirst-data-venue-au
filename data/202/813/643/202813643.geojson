@@ -2,13 +2,14 @@
   "id": 202813643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.713409,-32.92382,151.713409,-32.92382",
     "geom:latitude":-32.92382,
     "geom:longitude":151.713409,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Regent St",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202813643,
-    "wof:lastmodified":1449060771,
+    "wof:lastmodified":1466190385,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [151.713409,-32.92382,151.713409,-32.92382],
-  "geometry": {"coordinates":[151.713409,-32.92382],"type":"Point"}
+  "bbox": [
+    151.713409,
+    -32.92382,
+    151.713409,
+    -32.92382
+],
+  "geometry": {"coordinates":[151.71340900000001,-32.92382],"type":"Point"}
 }

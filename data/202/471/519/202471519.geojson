@@ -2,13 +2,14 @@
   "id": 202471519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959854,-37.831085,144.959854,-37.831085",
     "geom:latitude":-37.831085,
     "geom:longitude":144.959854,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Clarendon St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202471519,
-    "wof:lastmodified":1449061133,
+    "wof:lastmodified":1466189095,
     "wof:name":"Grape Unknown The",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.959854,-37.831085,144.959854,-37.831085],
-  "geometry": {"coordinates":[144.959854,-37.831085],"type":"Point"}
+  "bbox": [
+    144.959854,
+    -37.831085,
+    144.959854,
+    -37.831085
+],
+  "geometry": {"coordinates":[144.95985400000001,-37.831085],"type":"Point"}
 }

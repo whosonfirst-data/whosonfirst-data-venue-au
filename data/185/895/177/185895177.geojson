@@ -2,13 +2,14 @@
   "id": 185895177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.684387,-25.518955,152.684387,-25.518955",
     "geom:latitude":-25.518955,
     "geom:longitude":152.684387,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Walker St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185895177,
-    "wof:lastmodified":1449007291,
+    "wof:lastmodified":1466187950,
     "wof:name":"White Lion Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [152.684387,-25.518955,152.684387,-25.518955],
-  "geometry": {"coordinates":[152.684387,-25.518955],"type":"Point"}
+  "bbox": [
+    152.684387,
+    -25.518955,
+    152.684387,
+    -25.518955
+],
+  "geometry": {"coordinates":[152.68438699999999,-25.518955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203281855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.16246,-33.152775,148.16246,-33.152775",
     "geom:latitude":-33.152775,
     "geom:longitude":148.16246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Renshaw Rd",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203281855,
-    "wof:lastmodified":1449026560,
+    "wof:lastmodified":1466187811,
     "wof:name":"Protector Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blasting"
     ]
 },
-  "bbox": [148.16246,-33.152775,148.16246,-33.152775],
-  "geometry": {"coordinates":[148.16246,-33.152775],"type":"Point"}
+  "bbox": [
+    148.16246,
+    -33.152775,
+    148.16246,
+    -33.152775
+],
+  "geometry": {"coordinates":[148.16246000000001,-33.152775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236569433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.034592,-33.95351,151.034592,-33.95351",
     "geom:latitude":-33.95351,
     "geom:longitude":151.034592,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Faraday Rd",
     "sg:city":"Padstow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236569433,
-    "wof:lastmodified":1449005090,
+    "wof:lastmodified":1466191545,
     "wof:name":"Kings Antenna Service & Sales",
     "wof:parent_id":85769967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antenna"
     ]
 },
-  "bbox": [151.034592,-33.95351,151.034592,-33.95351],
+  "bbox": [
+    151.034592,
+    -33.95351,
+    151.034592,
+    -33.95351
+],
   "geometry": {"coordinates":[151.034592,-33.95351],"type":"Point"}
 }

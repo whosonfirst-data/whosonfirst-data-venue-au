@@ -2,13 +2,14 @@
   "id": 202686343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.004272,-27.352274,153.004272,-27.352274",
     "geom:latitude":-27.352274,
     "geom:longitude":153.004272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ridley Rd",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202686343,
-    "wof:lastmodified":1449062040,
+    "wof:lastmodified":1466188574,
     "wof:name":"English & Home Economics",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [153.004272,-27.352274,153.004272,-27.352274],
-  "geometry": {"coordinates":[153.004272,-27.352274],"type":"Point"}
+  "bbox": [
+    153.004272,
+    -27.352274,
+    153.004272,
+    -27.352274
+],
+  "geometry": {"coordinates":[153.00427199999999,-27.352274],"type":"Point"}
 }

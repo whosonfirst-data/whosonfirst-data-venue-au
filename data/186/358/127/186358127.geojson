@@ -2,13 +2,14 @@
   "id": 186358127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.141312,-33.860153,151.141312,-33.860153",
     "geom:latitude":-33.860153,
     "geom:longitude":151.141312,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Lyons Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186358127,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466188600,
     "wof:name":"TM Building Consultants Pty Ltd",
     "wof:parent_id":85776743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.141312,-33.860153,151.141312,-33.860153],
+  "bbox": [
+    151.141312,
+    -33.860153,
+    151.141312,
+    -33.860153
+],
   "geometry": {"coordinates":[151.141312,-33.860153],"type":"Point"}
 }

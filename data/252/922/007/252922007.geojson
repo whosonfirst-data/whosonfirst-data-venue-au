@@ -2,13 +2,14 @@
   "id": 252922007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.780487,-36.316021,140.780487,-36.316021",
     "geom:latitude":-36.316021,
     "geom:longitude":140.780487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Victoria Pde",
     "sg:city":"Bordertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252922007,
-    "wof:lastmodified":1449005514,
+    "wof:lastmodified":1466189185,
     "wof:name":"Rogers R H W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [140.780487,-36.316021,140.780487,-36.316021],
-  "geometry": {"coordinates":[140.780487,-36.316021],"type":"Point"}
+  "bbox": [
+    140.780487,
+    -36.316021,
+    140.780487,
+    -36.316021
+],
+  "geometry": {"coordinates":[140.78048699999999,-36.316021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202782121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.776978,-32.927197,151.776978,-32.927197",
     "geom:latitude":-32.927197,
     "geom:longitude":151.776978,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lv2/ 169-173 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202782121,
-    "wof:lastmodified":1449060099,
+    "wof:lastmodified":1466190185,
     "wof:name":"Chapman Jenny",
     "wof:parent_id":85782257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [151.776978,-32.927197,151.776978,-32.927197],
-  "geometry": {"coordinates":[151.776978,-32.927197],"type":"Point"}
+  "bbox": [
+    151.776978,
+    -32.927197,
+    151.776978,
+    -32.927197
+],
+  "geometry": {"coordinates":[151.77697800000001,-32.927197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236943215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.576126,-34.993843,138.576126,-34.993843",
     "geom:latitude":-34.993843,
     "geom:longitude":138.576126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pinn St",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236943215,
-    "wof:lastmodified":1449002334,
+    "wof:lastmodified":1466192147,
     "wof:name":"Dario Caravans & Repairs",
     "wof:parent_id":85777539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "servicing"
     ]
 },
-  "bbox": [138.576126,-34.993843,138.576126,-34.993843],
-  "geometry": {"coordinates":[138.576126,-34.993843],"type":"Point"}
+  "bbox": [
+    138.576126,
+    -34.993843,
+    138.576126,
+    -34.993843
+],
+  "geometry": {"coordinates":[138.57612599999999,-34.993843],"type":"Point"}
 }

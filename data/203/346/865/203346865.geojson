@@ -2,13 +2,14 @@
   "id": 203346865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.856323,-37.560703,143.856323,-37.560703",
     "geom:latitude":-37.560703,
     "geom:longitude":143.856323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Armstrong St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203346865,
-    "wof:lastmodified":1449024935,
+    "wof:lastmodified":1466188624,
     "wof:name":"Ballarat Books",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [143.856323,-37.560703,143.856323,-37.560703],
+  "bbox": [
+    143.856323,
+    -37.560703,
+    143.856323,
+    -37.560703
+],
   "geometry": {"coordinates":[143.856323,-37.560703],"type":"Point"}
 }

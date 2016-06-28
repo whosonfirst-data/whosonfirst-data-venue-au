@@ -2,13 +2,14 @@
   "id": 252877441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.582565,-37.682068,144.582565,-37.682068",
     "geom:latitude":-37.682068,
     "geom:longitude":144.582565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Unitt St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252877441,
-    "wof:lastmodified":1449006161,
+    "wof:lastmodified":1466188780,
     "wof:name":"Melton Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchant"
     ]
 },
-  "bbox": [144.582565,-37.682068,144.582565,-37.682068],
-  "geometry": {"coordinates":[144.582565,-37.682068],"type":"Point"}
+  "bbox": [
+    144.582565,
+    -37.682068,
+    144.582565,
+    -37.682068
+],
+  "geometry": {"coordinates":[144.58256499999999,-37.682068],"type":"Point"}
 }

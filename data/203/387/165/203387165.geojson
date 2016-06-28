@@ -2,13 +2,14 @@
   "id": 203387165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.857605,-37.561634,143.857605,-37.561634",
     "geom:latitude":-37.561634,
     "geom:longitude":143.857605,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"202D Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203387165,
-    "wof:lastmodified":1449026607,
+    "wof:lastmodified":1466189326,
     "wof:name":"Seraphim's",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [143.857605,-37.561634,143.857605,-37.561634],
-  "geometry": {"coordinates":[143.857605,-37.561634],"type":"Point"}
+  "bbox": [
+    143.857605,
+    -37.561634,
+    143.857605,
+    -37.561634
+],
+  "geometry": {"coordinates":[143.85760500000001,-37.561634],"type":"Point"}
 }

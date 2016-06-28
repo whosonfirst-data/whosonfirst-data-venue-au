@@ -2,13 +2,14 @@
   "id": 236582587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.045654,-33.961544,151.045654,-33.961544",
     "geom:latitude":-33.961544,
     "geom:longitude":151.045654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26b Clarke St",
     "sg:city":"Peakhurst",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236582587,
-    "wof:lastmodified":1449003427,
+    "wof:lastmodified":1466191572,
     "wof:name":"St George Montessori Long Day Care Centre",
     "wof:parent_id":85769979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.045654,-33.961544,151.045654,-33.961544],
-  "geometry": {"coordinates":[151.045654,-33.961544],"type":"Point"}
+  "bbox": [
+    151.045654,
+    -33.961544,
+    151.045654,
+    -33.961544
+],
+  "geometry": {"coordinates":[151.04565400000001,-33.961544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186415797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.790527,-19.264748,146.790527,-19.264748",
     "geom:latitude":-19.264748,
     "geom:longitude":146.790527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 6008",
     "sg:city":"Townsville MC",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186415797,
-    "wof:lastmodified":1449052293,
+    "wof:lastmodified":1466189573,
     "wof:name":"Kalynda Chase",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [146.790527,-19.264748,146.790527,-19.264748],
+  "bbox": [
+    146.790527,
+    -19.264748,
+    146.790527,
+    -19.264748
+],
   "geometry": {"coordinates":[146.790527,-19.264748],"type":"Point"}
 }

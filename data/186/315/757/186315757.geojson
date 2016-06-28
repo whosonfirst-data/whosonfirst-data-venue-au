@@ -2,13 +2,14 @@
   "id": 186315757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.984947,-31.879347,115.984947,-31.879347",
     "geom:latitude":-31.879347,
     "geom:longitude":115.984947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Woodward Ave",
     "sg:city":"Caversham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186315757,
-    "wof:lastmodified":1449052899,
+    "wof:lastmodified":1466187890,
     "wof:name":"Murphy's Limestone",
     "wof:parent_id":85780213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [115.984947,-31.879347,115.984947,-31.879347],
-  "geometry": {"coordinates":[115.984947,-31.879347],"type":"Point"}
+  "bbox": [
+    115.984947,
+    -31.879347,
+    115.984947,
+    -31.879347
+],
+  "geometry": {"coordinates":[115.98494700000001,-31.879347],"type":"Point"}
 }

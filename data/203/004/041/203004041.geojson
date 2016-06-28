@@ -2,13 +2,14 @@
   "id": 203004041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.498123,-20.697084,139.498123,-20.697084",
     "geom:latitude":-20.697084,
     "geom:longitude":139.498123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Barnes St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203004041,
-    "wof:lastmodified":1449025606,
+    "wof:lastmodified":1466187069,
     "wof:name":"Cumming Airconditioning & Sheetmetal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [139.498123,-20.697084,139.498123,-20.697084],
-  "geometry": {"coordinates":[139.498123,-20.697084],"type":"Point"}
+  "bbox": [
+    139.498123,
+    -20.697084,
+    139.498123,
+    -20.697084
+],
+  "geometry": {"coordinates":[139.49812299999999,-20.697084],"type":"Point"}
 }

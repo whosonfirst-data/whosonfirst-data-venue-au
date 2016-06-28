@@ -2,13 +2,14 @@
   "id": 253025377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.718124,-37.871059,144.718124,-37.871059",
     "geom:latitude":-37.871059,
     "geom:longitude":144.718124,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21/ 13 B Elm Park Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253025377,
-    "wof:lastmodified":1449065280,
+    "wof:lastmodified":1466187421,
     "wof:name":"Chris Dunn's Truck Repairs",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [144.718124,-37.871059,144.718124,-37.871059],
-  "geometry": {"coordinates":[144.718124,-37.871059],"type":"Point"}
+  "bbox": [
+    144.718124,
+    -37.871059,
+    144.718124,
+    -37.871059
+],
+  "geometry": {"coordinates":[144.71812399999999,-37.871059],"type":"Point"}
 }

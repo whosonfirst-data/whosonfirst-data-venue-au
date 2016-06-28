@@ -2,13 +2,14 @@
   "id": 236504071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.165543,-21.100599,149.165543,-21.100599",
     "geom:latitude":-21.100599,
     "geom:longitude":149.165543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Holts Rd",
     "sg:city":"Beaconsfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236504071,
-    "wof:lastmodified":1449002109,
+    "wof:lastmodified":1466191377,
     "wof:name":"Ross Ohl Pilot Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pilot"
     ]
 },
-  "bbox": [149.165543,-21.100599,149.165543,-21.100599],
-  "geometry": {"coordinates":[149.165543,-21.100599],"type":"Point"}
+  "bbox": [
+    149.165543,
+    -21.100599,
+    149.165543,
+    -21.100599
+],
+  "geometry": {"coordinates":[149.16554300000001,-21.100599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185672663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753113,-32.03558,115.753113,-32.03558",
     "geom:latitude":-32.03558,
     "geom:longitude":115.753113,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Jewell Pde",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185672663,
-    "wof:lastmodified":1449006704,
+    "wof:lastmodified":1466188648,
     "wof:name":"Australian Mining Technologies",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [115.753113,-32.03558,115.753113,-32.03558],
+  "bbox": [
+    115.753113,
+    -32.03558,
+    115.753113,
+    -32.03558
+],
   "geometry": {"coordinates":[115.753113,-32.03558],"type":"Point"}
 }

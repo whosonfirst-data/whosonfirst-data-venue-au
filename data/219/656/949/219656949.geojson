@@ -2,13 +2,14 @@
   "id": 219656949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.101746,-33.943054,151.101746,-33.943054",
     "geom:latitude":-33.943054,
     "geom:longitude":151.101746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Kingsgrove Rd",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219656949,
-    "wof:lastmodified":1449072681,
+    "wof:lastmodified":1466190946,
     "wof:name":"Salvation Army Family Welfare Centres",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [151.101746,-33.943054,151.101746,-33.943054],
-  "geometry": {"coordinates":[151.101746,-33.943054],"type":"Point"}
+  "bbox": [
+    151.101746,
+    -33.943054,
+    151.101746,
+    -33.943054
+],
+  "geometry": {"coordinates":[151.10174599999999,-33.943054],"type":"Point"}
 }

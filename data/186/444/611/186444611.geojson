@@ -2,13 +2,14 @@
   "id": 186444611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.183487,-33.894711,151.183487,-33.894711",
     "geom:latitude":-33.894711,
     "geom:longitude":151.183487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Watkin St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186444611,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466190098,
     "wof:name":"Russell David",
     "wof:parent_id":85774245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [151.183487,-33.894711,151.183487,-33.894711],
-  "geometry": {"coordinates":[151.183487,-33.894711],"type":"Point"}
+  "bbox": [
+    151.183487,
+    -33.894711,
+    151.183487,
+    -33.894711
+],
+  "geometry": {"coordinates":[151.18348700000001,-33.894711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236451363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.195648,-21.142296,149.195648,-21.142296",
     "geom:latitude":-21.142296,
     "geom:longitude":149.195648,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 244 Victoria St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236451363,
-    "wof:lastmodified":1449003031,
+    "wof:lastmodified":1466191354,
     "wof:name":"Amercan Express Travel Services",
     "wof:parent_id":85770779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [149.195648,-21.142296,149.195648,-21.142296],
-  "geometry": {"coordinates":[149.195648,-21.142296],"type":"Point"}
+  "bbox": [
+    149.195648,
+    -21.142296,
+    149.195648,
+    -21.142296
+],
+  "geometry": {"coordinates":[149.19564800000001,-21.142296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203318553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.837097,-37.582577,143.837097,-37.582577",
     "geom:latitude":-37.582577,
     "geom:longitude":143.837097,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Verdon St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203318553,
-    "wof:lastmodified":1449025336,
+    "wof:lastmodified":1466188244,
     "wof:name":"Ballarat Saddlery & Canvas",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfrs"
     ]
 },
-  "bbox": [143.837097,-37.582577,143.837097,-37.582577],
+  "bbox": [
+    143.837097,
+    -37.582577,
+    143.837097,
+    -37.582577
+],
   "geometry": {"coordinates":[143.837097,-37.582577],"type":"Point"}
 }

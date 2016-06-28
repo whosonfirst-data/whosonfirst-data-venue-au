@@ -2,13 +2,14 @@
   "id": 253195477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.935959,-27.56201,151.935959,-27.56201",
     "geom:latitude":-27.56201,
     "geom:longitude":151.935959,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Herries St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253195477,
-    "wof:lastmodified":1449064783,
+    "wof:lastmodified":1466190051,
     "wof:name":"Repco",
     "wof:parent_id":85780523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [151.935959,-27.56201,151.935959,-27.56201],
+  "bbox": [
+    151.935959,
+    -27.56201,
+    151.935959,
+    -27.56201
+],
   "geometry": {"coordinates":[151.935959,-27.56201],"type":"Point"}
 }

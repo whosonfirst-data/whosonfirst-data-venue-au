@@ -2,13 +2,14 @@
   "id": 219313391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.931473,-38.162384,145.931473,-38.162384",
     "geom:latitude":-38.162384,
     "geom:longitude":145.931473,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Smith St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219313391,
-    "wof:lastmodified":1449070474,
+    "wof:lastmodified":1466187645,
     "wof:name":"The Linen Chest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "good"
     ]
 },
-  "bbox": [145.931473,-38.162384,145.931473,-38.162384],
-  "geometry": {"coordinates":[145.931473,-38.162384],"type":"Point"}
+  "bbox": [
+    145.931473,
+    -38.162384,
+    145.931473,
+    -38.162384
+],
+  "geometry": {"coordinates":[145.93147300000001,-38.162384],"type":"Point"}
 }

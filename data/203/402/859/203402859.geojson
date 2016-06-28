@@ -2,13 +2,14 @@
   "id": 203402859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.846603,-37.566299,143.846603,-37.566299",
     "geom:latitude":-37.566299,
     "geom:longitude":143.846603,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Drummond St",
     "sg:city":"South Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203402859,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1466189504,
     "wof:name":"Franklin Peter",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [143.846603,-37.566299,143.846603,-37.566299],
-  "geometry": {"coordinates":[143.846603,-37.566299],"type":"Point"}
+  "bbox": [
+    143.846603,
+    -37.566299,
+    143.846603,
+    -37.566299
+],
+  "geometry": {"coordinates":[143.84660299999999,-37.566299],"type":"Point"}
 }

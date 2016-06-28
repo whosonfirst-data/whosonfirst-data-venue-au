@@ -2,13 +2,14 @@
   "id": 236286551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.746239,-32.275749,115.746239,-32.275749",
     "geom:latitude":-32.275749,
     "geom:longitude":115.746239,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ambrose St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236286551,
-    "wof:lastmodified":1449002327,
+    "wof:lastmodified":1466190412,
     "wof:name":"A & B Light Engineering",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.746239,-32.275749,115.746239,-32.275749],
+  "bbox": [
+    115.746239,
+    -32.275749,
+    115.746239,
+    -32.275749
+],
   "geometry": {"coordinates":[115.746239,-32.275749],"type":"Point"}
 }

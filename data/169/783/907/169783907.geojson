@@ -2,13 +2,14 @@
   "id": 169783907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.590637,-38.606236,145.590637,-38.606236",
     "geom:latitude":-38.606236,
     "geom:longitude":145.590637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Graham St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169783907,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1466188430,
     "wof:name":"Wonthaggi Health & Ecology Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [145.590637,-38.606236,145.590637,-38.606236],
-  "geometry": {"coordinates":[145.590637,-38.606236],"type":"Point"}
+  "bbox": [
+    145.590637,
+    -38.606236,
+    145.590637,
+    -38.606236
+],
+  "geometry": {"coordinates":[145.59063699999999,-38.606236],"type":"Point"}
 }

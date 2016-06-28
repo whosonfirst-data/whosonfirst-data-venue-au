@@ -2,13 +2,14 @@
   "id": 202425133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.948013,-37.846218,144.948013,-37.846218",
     "geom:latitude":-37.846218,
     "geom:longitude":144.948013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Reed St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202425133,
-    "wof:lastmodified":1449060997,
+    "wof:lastmodified":1466188241,
     "wof:name":"Reiki House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [144.948013,-37.846218,144.948013,-37.846218],
+  "bbox": [
+    144.948013,
+    -37.846218,
+    144.948013,
+    -37.846218
+],
   "geometry": {"coordinates":[144.948013,-37.846218],"type":"Point"}
 }

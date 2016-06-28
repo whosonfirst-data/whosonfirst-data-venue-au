@@ -2,13 +2,14 @@
   "id": 253011857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.710648,-37.849705,144.710648,-37.849705",
     "geom:latitude":-37.849705,
     "geom:longitude":144.710648,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 St Michaels Drv",
     "sg:city":"Tarneit",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253011857,
-    "wof:lastmodified":1449065229,
+    "wof:lastmodified":1466187144,
     "wof:name":"Zadun Homes",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.710648,-37.849705,144.710648,-37.849705],
-  "geometry": {"coordinates":[144.710648,-37.849705],"type":"Point"}
+  "bbox": [
+    144.710648,
+    -37.849705,
+    144.710648,
+    -37.849705
+],
+  "geometry": {"coordinates":[144.71064799999999,-37.849705],"type":"Point"}
 }

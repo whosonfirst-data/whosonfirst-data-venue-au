@@ -2,13 +2,14 @@
   "id": 202495423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.04039,-37.911163,145.04039,-37.911163",
     "geom:latitude":-37.911163,
     "geom:longitude":145.04039,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"211 McKinnon Rd",
     "sg:city":"McKinnon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202495423,
-    "wof:lastmodified":1449061239,
+    "wof:lastmodified":1466189493,
     "wof:name":"Mortgage Masters Pty Ltd",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [145.04039,-37.911163,145.04039,-37.911163],
+  "bbox": [
+    145.04039,
+    -37.911163,
+    145.04039,
+    -37.911163
+],
   "geometry": {"coordinates":[145.04039,-37.911163],"type":"Point"}
 }

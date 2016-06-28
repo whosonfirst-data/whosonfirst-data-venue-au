@@ -2,13 +2,14 @@
   "id": 186390199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.819504,-19.260695,146.819504,-19.260695",
     "geom:latitude":-19.260695,
     "geom:longitude":146.819504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Palmer St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186390199,
-    "wof:lastmodified":1449053053,
+    "wof:lastmodified":1466189160,
     "wof:name":"MoMos",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [146.819504,-19.260695,146.819504,-19.260695],
-  "geometry": {"coordinates":[146.819504,-19.260695],"type":"Point"}
+  "bbox": [
+    146.819504,
+    -19.260695,
+    146.819504,
+    -19.260695
+],
+  "geometry": {"coordinates":[146.81950399999999,-19.260695],"type":"Point"}
 }

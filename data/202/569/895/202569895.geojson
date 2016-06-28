@@ -2,13 +2,14 @@
   "id": 202569895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.425293,-37.686302,144.425293,-37.686302",
     "geom:latitude":-37.686302,
     "geom:longitude":144.425293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Griffith St",
     "sg:city":"Maddingley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202569895,
-    "wof:lastmodified":1449062538,
+    "wof:lastmodified":1466187043,
     "wof:name":"Auto Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [144.425293,-37.686302,144.425293,-37.686302],
-  "geometry": {"coordinates":[144.425293,-37.686302],"type":"Point"}
+  "bbox": [
+    144.425293,
+    -37.686302,
+    144.425293,
+    -37.686302
+],
+  "geometry": {"coordinates":[144.42529300000001,-37.686302],"type":"Point"}
 }

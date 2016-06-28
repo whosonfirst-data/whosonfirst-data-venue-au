@@ -2,13 +2,14 @@
   "id": 236065767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.831009,-37.718143,144.831009,-37.718143",
     "geom:latitude":-37.718143,
     "geom:longitude":144.831009,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Hislop St",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236065767,
-    "wof:lastmodified":1449005201,
+    "wof:lastmodified":1466187942,
     "wof:name":"Reid Dr. R B",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.831009,-37.718143,144.831009,-37.718143],
-  "geometry": {"coordinates":[144.831009,-37.718143],"type":"Point"}
+  "bbox": [
+    144.831009,
+    -37.718143,
+    144.831009,
+    -37.718143
+],
+  "geometry": {"coordinates":[144.83100899999999,-37.718143],"type":"Point"}
 }

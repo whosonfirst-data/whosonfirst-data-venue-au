@@ -2,13 +2,14 @@
   "id": 253231879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.96405,-27.570366,151.96405,-27.570366",
     "geom:latitude":-27.570366,
     "geom:longitude":151.96405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 James St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253231879,
-    "wof:lastmodified":1449064334,
+    "wof:lastmodified":1466190543,
     "wof:name":"James Street Motor Inn",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.96405,-27.570366,151.96405,-27.570366],
-  "geometry": {"coordinates":[151.96405,-27.570366],"type":"Point"}
+  "bbox": [
+    151.96405,
+    -27.570366,
+    151.96405,
+    -27.570366
+],
+  "geometry": {"coordinates":[151.96404999999999,-27.570366],"type":"Point"}
 }

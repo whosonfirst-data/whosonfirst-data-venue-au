@@ -2,13 +2,14 @@
   "id": 186473987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157288,-33.886497,151.157288,-33.886497",
     "geom:latitude":-33.886497,
     "geom:longitude":151.157288,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1, 44 Norton St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186473987,
-    "wof:lastmodified":1449050965,
+    "wof:lastmodified":1466190334,
     "wof:name":"Pomar\ufffd Silvano Dr",
     "wof:parent_id":85774559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.157288,-33.886497,151.157288,-33.886497],
-  "geometry": {"coordinates":[151.157288,-33.886497],"type":"Point"}
+  "bbox": [
+    151.157288,
+    -33.886497,
+    151.157288,
+    -33.886497
+],
+  "geometry": {"coordinates":[151.15728799999999,-33.886497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236945717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.591293,-34.970741,138.591293,-34.970741",
     "geom:latitude":-34.970741,
     "geom:longitude":138.591293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"391 Goodwood Rd",
     "sg:city":"Westbourne Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236945717,
-    "wof:lastmodified":1449001883,
+    "wof:lastmodified":1466192147,
     "wof:name":"St James Cakes",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [138.591293,-34.970741,138.591293,-34.970741],
-  "geometry": {"coordinates":[138.591293,-34.970741],"type":"Point"}
+  "bbox": [
+    138.591293,
+    -34.970741,
+    138.591293,
+    -34.970741
+],
+  "geometry": {"coordinates":[138.59129300000001,-34.970741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236010847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.32373,-42.981327,147.32373,-42.981327",
     "geom:latitude":-42.981327,
     "geom:longitude":147.32373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Beach Rd",
     "sg:city":"Kingston Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236010847,
-    "wof:lastmodified":1449003758,
+    "wof:lastmodified":1466187031,
     "wof:name":"Shell Kingston Beach",
     "wof:parent_id":85770383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.32373,-42.981327,147.32373,-42.981327],
-  "geometry": {"coordinates":[147.32373,-42.981327],"type":"Point"}
+  "bbox": [
+    147.32373,
+    -42.981327,
+    147.32373,
+    -42.981327
+],
+  "geometry": {"coordinates":[147.32373000000001,-42.981327],"type":"Point"}
 }

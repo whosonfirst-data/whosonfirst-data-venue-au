@@ -2,13 +2,14 @@
   "id": 236448923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.178314,-21.146355,149.178314,-21.146355",
     "geom:latitude":-21.146355,
     "geom:longitude":149.178314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Shakespeare St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236448923,
-    "wof:lastmodified":1449005062,
+    "wof:lastmodified":1466191179,
     "wof:name":"Mackay Vac Centre",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [149.178314,-21.146355,149.178314,-21.146355],
+  "bbox": [
+    149.178314,
+    -21.146355,
+    149.178314,
+    -21.146355
+],
   "geometry": {"coordinates":[149.178314,-21.146355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169847687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.839996,-32.017002,115.839996,-32.017002",
     "geom:latitude":-32.017002,
     "geom:longitude":115.839996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Canning Hwy & Riseley St",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169847687,
-    "wof:lastmodified":1449033890,
+    "wof:lastmodified":1466189419,
     "wof:name":"Applecross Physiotherapy",
     "wof:parent_id":85768683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [115.839996,-32.017002,115.839996,-32.017002],
+  "bbox": [
+    115.839996,
+    -32.017002,
+    115.839996,
+    -32.017002
+],
   "geometry": {"coordinates":[115.839996,-32.017002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202434611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.956055,-37.849403,144.956055,-37.849403",
     "geom:latitude":-37.849403,
     "geom:longitude":144.956055,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Mills St",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202434611,
-    "wof:lastmodified":1449060676,
+    "wof:lastmodified":1466188497,
     "wof:name":"Mills St Convenience Store",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [144.956055,-37.849403,144.956055,-37.849403],
-  "geometry": {"coordinates":[144.956055,-37.849403],"type":"Point"}
+  "bbox": [
+    144.956055,
+    -37.849403,
+    144.956055,
+    -37.849403
+],
+  "geometry": {"coordinates":[144.95605499999999,-37.849403],"type":"Point"}
 }

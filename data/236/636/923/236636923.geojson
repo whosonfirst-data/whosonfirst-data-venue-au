@@ -2,13 +2,14 @@
   "id": 236636923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.986404,-33.938816,150.986404,-33.938816",
     "geom:latitude":-33.938816,
     "geom:longitude":150.986404,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Dernancourt Pde",
     "sg:city":"Milperra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236636923,
-    "wof:lastmodified":1449002870,
+    "wof:lastmodified":1466191731,
     "wof:name":"Hannelly M J",
     "wof:parent_id":85774771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [150.986404,-33.938816,150.986404,-33.938816],
-  "geometry": {"coordinates":[150.986404,-33.938816],"type":"Point"}
+  "bbox": [
+    150.986404,
+    -33.938816,
+    150.986404,
+    -33.938816
+],
+  "geometry": {"coordinates":[150.98640399999999,-33.938816],"type":"Point"}
 }

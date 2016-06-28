@@ -2,13 +2,14 @@
   "id": 253049789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.850571,-37.815956,144.850571,-37.815956",
     "geom:latitude":-37.815956,
     "geom:longitude":144.850571,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"562 Geelong Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253049789,
-    "wof:lastmodified":1449064290,
+    "wof:lastmodified":1466187900,
     "wof:name":"Castrol Lubricants",
     "wof:parent_id":85776515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lubricant"
     ]
 },
-  "bbox": [144.850571,-37.815956,144.850571,-37.815956],
+  "bbox": [
+    144.850571,
+    -37.815956,
+    144.850571,
+    -37.815956
+],
   "geometry": {"coordinates":[144.850571,-37.815956],"type":"Point"}
 }

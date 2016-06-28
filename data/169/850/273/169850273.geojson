@@ -2,13 +2,14 @@
   "id": 169850273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.848267,-32.039127,115.848267,-32.039127",
     "geom:latitude":-32.039127,
     "geom:longitude":115.848267,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Moolyeen Rd",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169850273,
-    "wof:lastmodified":1449034600,
+    "wof:lastmodified":1466189427,
     "wof:name":"Live Pilates",
     "wof:parent_id":85775657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [115.848267,-32.039127,115.848267,-32.039127],
-  "geometry": {"coordinates":[115.848267,-32.039127],"type":"Point"}
+  "bbox": [
+    115.848267,
+    -32.039127,
+    115.848267,
+    -32.039127
+],
+  "geometry": {"coordinates":[115.84826700000001,-32.039127],"type":"Point"}
 }

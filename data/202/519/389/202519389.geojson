@@ -2,13 +2,14 @@
   "id": 202519389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.181824,-38.111511,145.181824,-38.111511",
     "geom:latitude":-38.111511,
     "geom:longitude":145.181824,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Thornbill Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202519389,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466189742,
     "wof:name":"Simpson Graphics Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [145.181824,-38.111511,145.181824,-38.111511],
-  "geometry": {"coordinates":[145.181824,-38.111511],"type":"Point"}
+  "bbox": [
+    145.181824,
+    -38.111511,
+    145.181824,
+    -38.111511
+],
+  "geometry": {"coordinates":[145.18182400000001,-38.111511],"type":"Point"}
 }

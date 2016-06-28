@@ -2,13 +2,14 @@
   "id": 202719993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.055725,-27.369638,153.055725,-27.369638",
     "geom:latitude":-27.369638,
     "geom:longitude":153.055725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Robinson Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202719993,
-    "wof:lastmodified":1449060432,
+    "wof:lastmodified":1466189210,
     "wof:name":"Kerrick",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [153.055725,-27.369638,153.055725,-27.369638],
+  "bbox": [
+    153.055725,
+    -27.369638,
+    153.055725,
+    -27.369638
+],
   "geometry": {"coordinates":[153.055725,-27.369638],"type":"Point"}
 }

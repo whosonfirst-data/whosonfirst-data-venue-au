@@ -2,13 +2,14 @@
   "id": 253219937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.935883,-27.598694,151.935883,-27.598694",
     "geom:latitude":-27.598694,
     "geom:longitude":151.935883,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Jack St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253219937,
-    "wof:lastmodified":1449065676,
+    "wof:lastmodified":1466190372,
     "wof:name":"Allan Polley",
     "wof:parent_id":85780331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [151.935883,-27.598694,151.935883,-27.598694],
-  "geometry": {"coordinates":[151.935883,-27.598694],"type":"Point"}
+  "bbox": [
+    151.935883,
+    -27.598694,
+    151.935883,
+    -27.598694
+],
+  "geometry": {"coordinates":[151.93588299999999,-27.598694],"type":"Point"}
 }

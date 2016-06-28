@@ -2,13 +2,14 @@
   "id": 202879513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.560822,-32.935505,151.560822,-32.935505",
     "geom:latitude":-32.935505,
     "geom:longitude":151.560822,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Geardie St",
     "sg:city":"Killingworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202879513,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466190467,
     "wof:name":"Power Fencing",
     "wof:parent_id":85769467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.560822,-32.935505,151.560822,-32.935505],
+  "bbox": [
+    151.560822,
+    -32.935505,
+    151.560822,
+    -32.935505
+],
   "geometry": {"coordinates":[151.560822,-32.935505],"type":"Point"}
 }

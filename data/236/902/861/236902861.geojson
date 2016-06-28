@@ -2,13 +2,14 @@
   "id": 236902861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.555817,-35.031216,138.555817,-35.031216",
     "geom:latitude":-35.031216,
     "geom:longitude":138.555817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Main South Rd & Brookside Ave",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236902861,
-    "wof:lastmodified":1449004212,
+    "wof:lastmodified":1466192103,
     "wof:name":"McDonald's Family Restaurants",
     "wof:parent_id":85769151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [138.555817,-35.031216,138.555817,-35.031216],
-  "geometry": {"coordinates":[138.555817,-35.031216],"type":"Point"}
+  "bbox": [
+    138.555817,
+    -35.031216,
+    138.555817,
+    -35.031216
+],
+  "geometry": {"coordinates":[138.55581699999999,-35.031216],"type":"Point"}
 }

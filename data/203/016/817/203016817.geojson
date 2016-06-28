@@ -2,13 +2,14 @@
   "id": 203016817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"141.746155,-20.657301,141.746155,-20.657301",
     "geom:latitude":-20.657301,
     "geom:longitude":141.746155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Burke St",
     "sg:city":"Julia Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203016817,
-    "wof:lastmodified":1449025276,
+    "wof:lastmodified":1466187455,
     "wof:name":"Maclean Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [141.746155,-20.657301,141.746155,-20.657301],
-  "geometry": {"coordinates":[141.746155,-20.657301],"type":"Point"}
+  "bbox": [
+    141.746155,
+    -20.657301,
+    141.746155,
+    -20.657301
+],
+  "geometry": {"coordinates":[141.74615499999999,-20.657301],"type":"Point"}
 }

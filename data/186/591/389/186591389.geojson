@@ -2,13 +2,14 @@
   "id": 186591389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.516724,-41.160702,147.516724,-41.160702",
     "geom:latitude":-41.160702,
     "geom:longitude":147.516724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 King St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186591389,
-    "wof:lastmodified":1449051811,
+    "wof:lastmodified":1466190995,
     "wof:name":"CBFC Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financier"
     ]
 },
-  "bbox": [147.516724,-41.160702,147.516724,-41.160702],
-  "geometry": {"coordinates":[147.516724,-41.160702],"type":"Point"}
+  "bbox": [
+    147.516724,
+    -41.160702,
+    147.516724,
+    -41.160702
+],
+  "geometry": {"coordinates":[147.51672400000001,-41.160702],"type":"Point"}
 }

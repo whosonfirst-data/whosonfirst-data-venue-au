@@ -2,13 +2,14 @@
   "id": 219504873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.091995,-33.923515,151.091995,-33.923515",
     "geom:latitude":-33.923515,
     "geom:longitude":151.091995,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Canterbury Rd",
     "sg:city":"Belmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219504873,
-    "wof:lastmodified":1449071007,
+    "wof:lastmodified":1466189603,
     "wof:name":"BSM Supplies",
     "wof:parent_id":85770707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [151.091995,-33.923515,151.091995,-33.923515],
+  "bbox": [
+    151.091995,
+    -33.923515,
+    151.091995,
+    -33.923515
+],
   "geometry": {"coordinates":[151.091995,-33.923515],"type":"Point"}
 }

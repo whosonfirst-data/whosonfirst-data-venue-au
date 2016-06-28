@@ -2,13 +2,14 @@
   "id": 203379801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.809219,-37.551579,143.809219,-37.551579",
     "geom:latitude":-37.551579,
     "geom:longitude":143.809219,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 4033",
     "sg:city":"Alfredton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203379801,
-    "wof:lastmodified":1449026050,
+    "wof:lastmodified":1466189194,
     "wof:name":"Agnew Electrics",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "solar"
     ]
 },
-  "bbox": [143.809219,-37.551579,143.809219,-37.551579],
-  "geometry": {"coordinates":[143.809219,-37.551579],"type":"Point"}
+  "bbox": [
+    143.809219,
+    -37.551579,
+    143.809219,
+    -37.551579
+],
+  "geometry": {"coordinates":[143.80921900000001,-37.551579],"type":"Point"}
 }

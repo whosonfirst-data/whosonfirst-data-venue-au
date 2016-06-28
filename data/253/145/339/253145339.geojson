@@ -2,13 +2,14 @@
   "id": 253145339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.955505,-27.575342,151.955505,-27.575342",
     "geom:latitude":-27.575342,
     "geom:longitude":151.955505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253145339,
-    "wof:lastmodified":1449063717,
+    "wof:lastmodified":1466189524,
     "wof:name":"National Trust of Queensland",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.955505,-27.575342,151.955505,-27.575342],
-  "geometry": {"coordinates":[151.955505,-27.575342],"type":"Point"}
+  "bbox": [
+    151.955505,
+    -27.575342,
+    151.955505,
+    -27.575342
+],
+  "geometry": {"coordinates":[151.95550499999999,-27.575342],"type":"Point"}
 }

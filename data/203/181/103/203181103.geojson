@@ -2,13 +2,14 @@
   "id": 203181103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.673798,-40.989399,145.673798,-40.989399",
     "geom:latitude":-40.989399,
     "geom:longitude":145.673798,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Ballast Pitt Rd",
     "sg:city":"Wynyard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203181103,
-    "wof:lastmodified":1449026096,
+    "wof:lastmodified":1466190026,
     "wof:name":"Steve Baker Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.673798,-40.989399,145.673798,-40.989399],
-  "geometry": {"coordinates":[145.673798,-40.989399],"type":"Point"}
+  "bbox": [
+    145.673798,
+    -40.989399,
+    145.673798,
+    -40.989399
+],
+  "geometry": {"coordinates":[145.67379800000001,-40.989399],"type":"Point"}
 }

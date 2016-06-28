@@ -2,13 +2,14 @@
   "id": 220089791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.120132,-40.850346,145.120132,-40.850346",
     "geom:latitude":-40.850346,
     "geom:longitude":145.120132,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Nelson St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220089791,
-    "wof:lastmodified":1449074205,
+    "wof:lastmodified":1466187833,
     "wof:name":"Clark Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "glazed"
     ]
 },
-  "bbox": [145.120132,-40.850346,145.120132,-40.850346],
-  "geometry": {"coordinates":[145.120132,-40.850346],"type":"Point"}
+  "bbox": [
+    145.120132,
+    -40.850346,
+    145.120132,
+    -40.850346
+],
+  "geometry": {"coordinates":[145.12013200000001,-40.850346],"type":"Point"}
 }

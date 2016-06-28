@@ -2,13 +2,14 @@
   "id": 219339039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.263626,-14.46575,132.263626,-14.46575",
     "geom:latitude":-14.46575,
     "geom:longitude":132.263626,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 2151",
     "sg:city":"Katherine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219339039,
-    "wof:lastmodified":1449071973,
+    "wof:lastmodified":1466187848,
     "wof:name":"Cat Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [132.263626,-14.46575,132.263626,-14.46575],
-  "geometry": {"coordinates":[132.263626,-14.46575],"type":"Point"}
+  "bbox": [
+    132.263626,
+    -14.46575,
+    132.263626,
+    -14.46575
+],
+  "geometry": {"coordinates":[132.26362599999999,-14.46575],"type":"Point"}
 }

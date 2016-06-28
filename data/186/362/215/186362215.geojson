@@ -2,13 +2,14 @@
   "id": 186362215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.135574,-33.85659,151.135574,-33.85659",
     "geom:latitude":-33.85659,
     "geom:longitude":151.135574,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Wareemba St",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186362215,
-    "wof:lastmodified":1449052108,
+    "wof:lastmodified":1466188670,
     "wof:name":"Bagnato Building Constructions",
     "wof:parent_id":85776719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.135574,-33.85659,151.135574,-33.85659],
-  "geometry": {"coordinates":[151.135574,-33.85659],"type":"Point"}
+  "bbox": [
+    151.135574,
+    -33.85659,
+    151.135574,
+    -33.85659
+],
+  "geometry": {"coordinates":[151.13557399999999,-33.85659],"type":"Point"}
 }

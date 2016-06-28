@@ -2,13 +2,14 @@
   "id": 253105661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.823059,-37.793304,144.823059,-37.793304",
     "geom:latitude":-37.793304,
     "geom:longitude":144.823059,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Sanders Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253105661,
-    "wof:lastmodified":1449063966,
+    "wof:lastmodified":1466188849,
     "wof:name":"Sentry Homes Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.823059,-37.793304,144.823059,-37.793304],
+  "bbox": [
+    144.823059,
+    -37.793304,
+    144.823059,
+    -37.793304
+],
   "geometry": {"coordinates":[144.823059,-37.793304],"type":"Point"}
 }

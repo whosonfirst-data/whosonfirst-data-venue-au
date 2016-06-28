@@ -2,13 +2,14 @@
   "id": 202867349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.045609,-25.512087,152.045609,-25.512087",
     "geom:latitude":-25.512087,
     "geom:longitude":152.045609,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Victoria St",
     "sg:city":"Biggenden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202867349,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466190559,
     "wof:name":"Shorten Parcell McGregor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [152.045609,-25.512087,152.045609,-25.512087],
-  "geometry": {"coordinates":[152.045609,-25.512087],"type":"Point"}
+  "bbox": [
+    152.045609,
+    -25.512087,
+    152.045609,
+    -25.512087
+],
+  "geometry": {"coordinates":[152.04560900000001,-25.512087],"type":"Point"}
 }

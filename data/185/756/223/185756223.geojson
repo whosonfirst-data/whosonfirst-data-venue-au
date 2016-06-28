@@ -2,13 +2,14 @@
   "id": 185756223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.14325,-32.721947,152.14325,-32.721947",
     "geom:latitude":-32.721947,
     "geom:longitude":152.14325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Donald St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185756223,
-    "wof:lastmodified":1449007573,
+    "wof:lastmodified":1466189630,
     "wof:name":"Buckley Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [152.14325,-32.721947,152.14325,-32.721947],
-  "geometry": {"coordinates":[152.14325,-32.721947],"type":"Point"}
+  "bbox": [
+    152.14325,
+    -32.721947,
+    152.14325,
+    -32.721947
+],
+  "geometry": {"coordinates":[152.14324999999999,-32.721947],"type":"Point"}
 }

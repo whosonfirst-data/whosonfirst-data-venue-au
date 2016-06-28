@@ -2,13 +2,14 @@
   "id": 185799787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.50499,-37.659237,145.50499,-37.659237",
     "geom:latitude":-37.659237,
     "geom:longitude":145.50499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 McGrettons Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185799787,
-    "wof:lastmodified":1449008215,
+    "wof:lastmodified":1466189929,
     "wof:name":"Adams R J & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.50499,-37.659237,145.50499,-37.659237],
-  "geometry": {"coordinates":[145.50499,-37.659237],"type":"Point"}
+  "bbox": [
+    145.50499,
+    -37.659237,
+    145.50499,
+    -37.659237
+],
+  "geometry": {"coordinates":[145.50498999999999,-37.659237],"type":"Point"}
 }

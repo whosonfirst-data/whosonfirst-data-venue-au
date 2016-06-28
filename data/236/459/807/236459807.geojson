@@ -2,13 +2,14 @@
   "id": 236459807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.185593,-21.144096,149.185593,-21.144096",
     "geom:latitude":-21.144096,
     "geom:longitude":149.185593,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp1/ 37 Brisbane St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236459807,
-    "wof:lastmodified":1449002908,
+    "wof:lastmodified":1466191367,
     "wof:name":"Home Loans Mackay",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [149.185593,-21.144096,149.185593,-21.144096],
-  "geometry": {"coordinates":[149.185593,-21.144096],"type":"Point"}
+  "bbox": [
+    149.185593,
+    -21.144096,
+    149.185593,
+    -21.144096
+],
+  "geometry": {"coordinates":[149.18559300000001,-21.144096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202891463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.895065,-30.452438,152.895065,-30.452438",
     "geom:latitude":-30.452438,
     "geom:longitude":152.895065,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1A Oak St",
     "sg:city":"Bellingen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202891463,
-    "wof:lastmodified":1449061657,
+    "wof:lastmodified":1466190625,
     "wof:name":"Total Health Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [152.895065,-30.452438,152.895065,-30.452438],
-  "geometry": {"coordinates":[152.895065,-30.452438],"type":"Point"}
+  "bbox": [
+    152.895065,
+    -30.452438,
+    152.895065,
+    -30.452438
+],
+  "geometry": {"coordinates":[152.89506499999999,-30.452438],"type":"Point"}
 }

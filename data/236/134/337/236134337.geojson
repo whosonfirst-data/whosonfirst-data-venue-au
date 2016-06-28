@@ -2,13 +2,14 @@
   "id": 236134337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.86647,-37.733253,144.86647,-37.733253",
     "geom:latitude":-37.733253,
     "geom:longitude":144.86647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Centreway St",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236134337,
-    "wof:lastmodified":1449005030,
+    "wof:lastmodified":1466189335,
     "wof:name":"Splash Of Colour Hair Studio",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.86647,-37.733253,144.86647,-37.733253],
-  "geometry": {"coordinates":[144.86647,-37.733253],"type":"Point"}
+  "bbox": [
+    144.86647,
+    -37.733253,
+    144.86647,
+    -37.733253
+],
+  "geometry": {"coordinates":[144.86646999999999,-37.733253],"type":"Point"}
 }

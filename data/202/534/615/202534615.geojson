@@ -2,13 +2,14 @@
   "id": 202534615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.188629,-38.101372,145.188629,-38.101372",
     "geom:latitude":-38.101372,
     "geom:longitude":145.188629,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Hall Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202534615,
-    "wof:lastmodified":1449060773,
+    "wof:lastmodified":1466189853,
     "wof:name":"Roofing Dynamics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roof"
     ]
 },
-  "bbox": [145.188629,-38.101372,145.188629,-38.101372],
-  "geometry": {"coordinates":[145.188629,-38.101372],"type":"Point"}
+  "bbox": [
+    145.188629,
+    -38.101372,
+    145.188629,
+    -38.101372
+],
+  "geometry": {"coordinates":[145.18862899999999,-38.101372],"type":"Point"}
 }

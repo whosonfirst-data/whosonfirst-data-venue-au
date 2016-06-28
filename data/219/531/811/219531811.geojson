@@ -2,13 +2,14 @@
   "id": 219531811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.068527,-33.920589,151.068527,-33.920589",
     "geom:latitude":-33.920589,
     "geom:longitude":151.068527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hillard St",
     "sg:city":"Wiley Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219531811,
-    "wof:lastmodified":1449071227,
+    "wof:lastmodified":1466190118,
     "wof:name":"B W J L Constructions",
     "wof:parent_id":85769587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [151.068527,-33.920589,151.068527,-33.920589],
-  "geometry": {"coordinates":[151.068527,-33.920589],"type":"Point"}
+  "bbox": [
+    151.068527,
+    -33.920589,
+    151.068527,
+    -33.920589
+],
+  "geometry": {"coordinates":[151.06852699999999,-33.920589],"type":"Point"}
 }

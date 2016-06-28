@@ -2,13 +2,14 @@
   "id": 236632863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.139145,-33.953648,151.139145,-33.953648",
     "geom:latitude":-33.953648,
     "geom:longitude":151.139145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bay St",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236632863,
-    "wof:lastmodified":1449003817,
+    "wof:lastmodified":1466191729,
     "wof:name":"Hospital At Home",
     "wof:parent_id":85771209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [151.139145,-33.953648,151.139145,-33.953648],
-  "geometry": {"coordinates":[151.139145,-33.953648],"type":"Point"}
+  "bbox": [
+    151.139145,
+    -33.953648,
+    151.139145,
+    -33.953648
+],
+  "geometry": {"coordinates":[151.13914500000001,-33.953648],"type":"Point"}
 }

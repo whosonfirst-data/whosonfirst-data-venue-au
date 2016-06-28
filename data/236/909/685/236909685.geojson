@@ -2,13 +2,14 @@
   "id": 236909685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.537674,-34.996315,138.537674,-34.996315",
     "geom:latitude":-34.996315,
     "geom:longitude":138.537674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiosk 206 Westfield Shopping Centre Marion",
     "sg:city":"Oaklands Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236909685,
-    "wof:lastmodified":1449004262,
+    "wof:lastmodified":1466192101,
     "wof:name":"Coffee Club",
     "wof:parent_id":85777519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.537674,-34.996315,138.537674,-34.996315],
-  "geometry": {"coordinates":[138.537674,-34.996315],"type":"Point"}
+  "bbox": [
+    138.537674,
+    -34.996315,
+    138.537674,
+    -34.996315
+],
+  "geometry": {"coordinates":[138.53767400000001,-34.996315],"type":"Point"}
 }

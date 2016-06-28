@@ -2,13 +2,14 @@
   "id": 186146287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.760925,-31.473499,152.760925,-31.473499",
     "geom:latitude":-31.473499,
     "geom:longitude":152.760925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"284 King Creek Rd",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186146287,
-    "wof:lastmodified":1449051486,
+    "wof:lastmodified":1466189762,
     "wof:name":"Sinclair Terry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.760925,-31.473499,152.760925,-31.473499],
-  "geometry": {"coordinates":[152.760925,-31.473499],"type":"Point"}
+  "bbox": [
+    152.760925,
+    -31.473499,
+    152.760925,
+    -31.473499
+],
+  "geometry": {"coordinates":[152.76092499999999,-31.473499],"type":"Point"}
 }

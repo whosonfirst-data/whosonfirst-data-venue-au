@@ -2,13 +2,14 @@
   "id": 253023197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.683563,-37.875404,144.683563,-37.875404",
     "geom:latitude":-37.875404,
     "geom:longitude":144.683563,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Paloma Crt",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253023197,
-    "wof:lastmodified":1449065493,
+    "wof:lastmodified":1466187380,
     "wof:name":"Buchholz Paul Dr",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.683563,-37.875404,144.683563,-37.875404],
-  "geometry": {"coordinates":[144.683563,-37.875404],"type":"Point"}
+  "bbox": [
+    144.683563,
+    -37.875404,
+    144.683563,
+    -37.875404
+],
+  "geometry": {"coordinates":[144.68356299999999,-37.875404],"type":"Point"}
 }

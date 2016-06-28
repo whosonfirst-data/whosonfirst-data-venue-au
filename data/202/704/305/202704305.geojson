@@ -2,13 +2,14 @@
   "id": 202704305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.05687,-27.369642,153.05687,-27.369642",
     "geom:latitude":-27.369642,
     "geom:longitude":153.05687,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Robinson Rd",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704305,
-    "wof:lastmodified":1449060774,
+    "wof:lastmodified":1466188910,
     "wof:name":"Queensland Best Wheels & Tyres",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [153.05687,-27.369642,153.05687,-27.369642],
+  "bbox": [
+    153.05687,
+    -27.369642,
+    153.05687,
+    -27.369642
+],
   "geometry": {"coordinates":[153.05687,-27.369642],"type":"Point"}
 }

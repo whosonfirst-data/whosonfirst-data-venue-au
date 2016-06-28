@@ -2,13 +2,14 @@
   "id": 220144875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.367874,-38.170128,144.367874,-38.170128",
     "geom:latitude":-38.170128,
     "geom:longitude":144.367874,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Wood St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220144875,
-    "wof:lastmodified":1449074637,
+    "wof:lastmodified":1466188487,
     "wof:name":"Iceberg Interactive",
     "wof:parent_id":85777711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [144.367874,-38.170128,144.367874,-38.170128],
+  "bbox": [
+    144.367874,
+    -38.170128,
+    144.367874,
+    -38.170128
+],
   "geometry": {"coordinates":[144.367874,-38.170128],"type":"Point"}
 }

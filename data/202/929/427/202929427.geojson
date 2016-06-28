@@ -2,13 +2,14 @@
   "id": 202929427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.098846,-30.315136,153.098846,-30.315136",
     "geom:latitude":-30.315136,
     "geom:longitude":153.098846,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 18 Cook Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202929427,
-    "wof:lastmodified":1449061086,
+    "wof:lastmodified":1466190881,
     "wof:name":"A.A. Abway Removals",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [153.098846,-30.315136,153.098846,-30.315136],
-  "geometry": {"coordinates":[153.098846,-30.315136],"type":"Point"}
+  "bbox": [
+    153.098846,
+    -30.315136,
+    153.098846,
+    -30.315136
+],
+  "geometry": {"coordinates":[153.09884600000001,-30.315136],"type":"Point"}
 }

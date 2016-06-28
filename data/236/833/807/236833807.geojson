@@ -2,13 +2,14 @@
   "id": 236833807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.891129,-34.43401,150.891129,-34.43401",
     "geom:latitude":-34.43401,
     "geom:longitude":150.891129,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Kenny St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236833807,
-    "wof:lastmodified":1449001992,
+    "wof:lastmodified":1466192023,
     "wof:name":"Unitech It Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "equipment"
     ]
 },
-  "bbox": [150.891129,-34.43401,150.891129,-34.43401],
-  "geometry": {"coordinates":[150.891129,-34.43401],"type":"Point"}
+  "bbox": [
+    150.891129,
+    -34.43401,
+    150.891129,
+    -34.43401
+],
+  "geometry": {"coordinates":[150.89112900000001,-34.43401],"type":"Point"}
 }

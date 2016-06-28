@@ -2,13 +2,14 @@
   "id": 169824097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.885887,-31.980288,115.885887,-31.980288",
     "geom:latitude":-31.980288,
     "geom:longitude":115.885887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Sixth Ave",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169824097,
-    "wof:lastmodified":1449033865,
+    "wof:lastmodified":1466189081,
     "wof:name":"SIDS and Kids Western Australia",
     "wof:parent_id":85775651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [115.885887,-31.980288,115.885887,-31.980288],
+  "bbox": [
+    115.885887,
+    -31.980288,
+    115.885887,
+    -31.980288
+],
   "geometry": {"coordinates":[115.885887,-31.980288],"type":"Point"}
 }

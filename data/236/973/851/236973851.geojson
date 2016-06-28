@@ -2,13 +2,14 @@
   "id": 236973851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.364624,-37.854568,145.364624,-37.854568",
     "geom:latitude":-37.854568,
     "geom:longitude":145.364624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Monash Ave",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236973851,
-    "wof:lastmodified":1449003664,
+    "wof:lastmodified":1466192219,
     "wof:name":"Delvin Murder Mystery Dinners",
     "wof:parent_id":85770183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatre"
     ]
 },
-  "bbox": [145.364624,-37.854568,145.364624,-37.854568],
-  "geometry": {"coordinates":[145.364624,-37.854568],"type":"Point"}
+  "bbox": [
+    145.364624,
+    -37.854568,
+    145.364624,
+    -37.854568
+],
+  "geometry": {"coordinates":[145.36462399999999,-37.854568],"type":"Point"}
 }

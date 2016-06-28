@@ -2,13 +2,14 @@
   "id": 236392831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.807838,-32.240803,115.807838,-32.240803",
     "geom:latitude":-32.240803,
     "geom:longitude":115.807838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Calista Ave (Cnr Summerston Rd)",
     "sg:city":"Kwinana",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236392831,
-    "wof:lastmodified":1449004456,
+    "wof:lastmodified":1466191099,
     "wof:name":"Vinnies Retail Centres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [115.807838,-32.240803,115.807838,-32.240803],
+  "bbox": [
+    115.807838,
+    -32.240803,
+    115.807838,
+    -32.240803
+],
   "geometry": {"coordinates":[115.807838,-32.240803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203243257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.047852,-26.761606,153.047852,-26.761606",
     "geom:latitude":-26.761606,
     "geom:longitude":153.047852,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Laxton Rd",
     "sg:city":"Palmview",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203243257,
-    "wof:lastmodified":1449025535,
+    "wof:lastmodified":1466187522,
     "wof:name":"Palmview Turf Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [153.047852,-26.761606,153.047852,-26.761606],
-  "geometry": {"coordinates":[153.047852,-26.761606],"type":"Point"}
+  "bbox": [
+    153.047852,
+    -26.761606,
+    153.047852,
+    -26.761606
+],
+  "geometry": {"coordinates":[153.04785200000001,-26.761606],"type":"Point"}
 }

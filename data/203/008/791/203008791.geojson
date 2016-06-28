@@ -2,13 +2,14 @@
   "id": 203008791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.485657,-20.727497,139.485657,-20.727497",
     "geom:latitude":-20.727497,
     "geom:longitude":139.485657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Courthouse Isa St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203008791,
-    "wof:lastmodified":1449025509,
+    "wof:lastmodified":1466187200,
     "wof:name":"Deakin University",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tertiary"
     ]
 },
-  "bbox": [139.485657,-20.727497,139.485657,-20.727497],
+  "bbox": [
+    139.485657,
+    -20.727497,
+    139.485657,
+    -20.727497
+],
   "geometry": {"coordinates":[139.485657,-20.727497],"type":"Point"}
 }

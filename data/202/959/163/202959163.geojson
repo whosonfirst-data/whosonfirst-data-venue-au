@@ -2,13 +2,14 @@
   "id": 202959163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.082138,-30.33827,153.082138,-30.33827",
     "geom:latitude":-30.33827,
     "geom:longitude":153.082138,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Alverson Crs",
     "sg:city":"Boambee East",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202959163,
-    "wof:lastmodified":1449062395,
+    "wof:lastmodified":1466190929,
     "wof:name":"Tony Thorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.082138,-30.33827,153.082138,-30.33827],
-  "geometry": {"coordinates":[153.082138,-30.33827],"type":"Point"}
+  "bbox": [
+    153.082138,
+    -30.33827,
+    153.082138,
+    -30.33827
+],
+  "geometry": {"coordinates":[153.08213799999999,-30.33827],"type":"Point"}
 }

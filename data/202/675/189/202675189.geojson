@@ -2,13 +2,14 @@
   "id": 202675189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.015167,-27.377831,153.015167,-27.377831",
     "geom:latitude":-27.377831,
     "geom:longitude":153.015167,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Gilmour St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202675189,
-    "wof:lastmodified":1449061413,
+    "wof:lastmodified":1466188370,
     "wof:name":"Bruce Lemcke Engineering Pty Ltd",
     "wof:parent_id":85776239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.015167,-27.377831,153.015167,-27.377831],
-  "geometry": {"coordinates":[153.015167,-27.377831],"type":"Point"}
+  "bbox": [
+    153.015167,
+    -27.377831,
+    153.015167,
+    -27.377831
+],
+  "geometry": {"coordinates":[153.01516699999999,-27.377831],"type":"Point"}
 }

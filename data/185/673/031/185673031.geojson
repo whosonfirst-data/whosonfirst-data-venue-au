@@ -2,13 +2,14 @@
   "id": 185673031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.753052,-32.024761,115.753052,-32.024761",
     "geom:latitude":-32.024761,
     "geom:longitude":115.753052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pamment St",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185673031,
-    "wof:lastmodified":1449007239,
+    "wof:lastmodified":1466188647,
     "wof:name":"Red Hot Design",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supplier"
     ]
 },
-  "bbox": [115.753052,-32.024761,115.753052,-32.024761],
+  "bbox": [
+    115.753052,
+    -32.024761,
+    115.753052,
+    -32.024761
+],
   "geometry": {"coordinates":[115.753052,-32.024761],"type":"Point"}
 }

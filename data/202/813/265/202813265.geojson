@@ -2,13 +2,14 @@
   "id": 202813265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.718246,-32.926262,151.718246,-32.926262",
     "geom:latitude":-32.926262,
     "geom:longitude":151.718246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52a Bridges Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202813265,
-    "wof:lastmodified":1449060765,
+    "wof:lastmodified":1466190372,
     "wof:name":"Canine Caterers",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [151.718246,-32.926262,151.718246,-32.926262],
-  "geometry": {"coordinates":[151.718246,-32.926262],"type":"Point"}
+  "bbox": [
+    151.718246,
+    -32.926262,
+    151.718246,
+    -32.926262
+],
+  "geometry": {"coordinates":[151.71824599999999,-32.926262],"type":"Point"}
 }

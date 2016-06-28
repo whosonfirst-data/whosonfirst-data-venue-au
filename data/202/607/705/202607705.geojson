@@ -2,13 +2,14 @@
   "id": 202607705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.684525,-33.768875,150.684525,-33.768875",
     "geom:latitude":-33.768875,
     "geom:longitude":150.684525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 10 Production Pl",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202607705,
-    "wof:lastmodified":1449060441,
+    "wof:lastmodified":1466187395,
     "wof:name":"Opal CNC Pty Ltd",
     "wof:parent_id":85780073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [150.684525,-33.768875,150.684525,-33.768875],
-  "geometry": {"coordinates":[150.684525,-33.768875],"type":"Point"}
+  "bbox": [
+    150.684525,
+    -33.768875,
+    150.684525,
+    -33.768875
+],
+  "geometry": {"coordinates":[150.68452500000001,-33.768875],"type":"Point"}
 }

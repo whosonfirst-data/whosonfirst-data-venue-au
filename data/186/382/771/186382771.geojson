@@ -2,13 +2,14 @@
   "id": 186382771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154739,-33.851063,151.154739,-33.851063",
     "geom:latitude":-33.851063,
     "geom:longitude":151.154739,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186382771,
-    "wof:lastmodified":1449051097,
+    "wof:lastmodified":1466189051,
     "wof:name":"Raine & Horne",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.154739,-33.851063,151.154739,-33.851063],
-  "geometry": {"coordinates":[151.154739,-33.851063],"type":"Point"}
+  "bbox": [
+    151.154739,
+    -33.851063,
+    151.154739,
+    -33.851063
+],
+  "geometry": {"coordinates":[151.15473900000001,-33.851063],"type":"Point"}
 }

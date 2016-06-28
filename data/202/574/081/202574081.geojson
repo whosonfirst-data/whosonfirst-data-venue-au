@@ -2,13 +2,14 @@
   "id": 202574081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435226,-37.676018,144.435226,-37.676018",
     "geom:latitude":-37.676018,
     "geom:longitude":144.435226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Grant St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202574081,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466187077,
     "wof:name":"Park Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.435226,-37.676018,144.435226,-37.676018],
+  "bbox": [
+    144.435226,
+    -37.676018,
+    144.435226,
+    -37.676018
+],
   "geometry": {"coordinates":[144.435226,-37.676018],"type":"Point"}
 }

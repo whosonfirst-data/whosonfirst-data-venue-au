@@ -2,13 +2,14 @@
   "id": 169832905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.867722,-32.011772,115.867722,-32.011772",
     "geom:latitude":-32.011772,
     "geom:longitude":115.867722,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Manning Rd & Canavan Cres 130 Manning Rd",
     "sg:city":"Manning",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169832905,
-    "wof:lastmodified":1449032704,
+    "wof:lastmodified":1466189202,
     "wof:name":"Wee David Dr",
     "wof:parent_id":85775667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.867722,-32.011772,115.867722,-32.011772],
+  "bbox": [
+    115.867722,
+    -32.011772,
+    115.867722,
+    -32.011772
+],
   "geometry": {"coordinates":[115.867722,-32.011772],"type":"Point"}
 }

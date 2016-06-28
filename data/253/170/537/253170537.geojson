@@ -2,13 +2,14 @@
   "id": 253170537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.957275,-27.55822,151.957275,-27.55822",
     "geom:latitude":-27.55822,
     "geom:longitude":151.957275,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Laurel St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253170537,
-    "wof:lastmodified":1449063082,
+    "wof:lastmodified":1466190196,
     "wof:name":"Wegeners Car Air Service",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [151.957275,-27.55822,151.957275,-27.55822],
-  "geometry": {"coordinates":[151.957275,-27.55822],"type":"Point"}
+  "bbox": [
+    151.957275,
+    -27.55822,
+    151.957275,
+    -27.55822
+],
+  "geometry": {"coordinates":[151.95727500000001,-27.55822],"type":"Point"}
 }

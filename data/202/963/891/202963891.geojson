@@ -2,13 +2,14 @@
   "id": 202963891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.080841,-30.345196,153.080841,-30.345196",
     "geom:latitude":-30.345196,
     "geom:longitude":153.080841,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 140 Linden Ave",
     "sg:city":"Boambee East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202963891,
-    "wof:lastmodified":1449060357,
+    "wof:lastmodified":1466190956,
     "wof:name":"Bushman Bakery",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [153.080841,-30.345196,153.080841,-30.345196],
-  "geometry": {"coordinates":[153.080841,-30.345196],"type":"Point"}
+  "bbox": [
+    153.080841,
+    -30.345196,
+    153.080841,
+    -30.345196
+],
+  "geometry": {"coordinates":[153.08084099999999,-30.345196],"type":"Point"}
 }

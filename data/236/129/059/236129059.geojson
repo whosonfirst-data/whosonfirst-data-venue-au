@@ -2,13 +2,14 @@
   "id": 236129059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.840683,-37.775764,144.840683,-37.775764",
     "geom:latitude":-37.775764,
     "geom:longitude":144.840683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Fawkner Crs",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236129059,
-    "wof:lastmodified":1449004481,
+    "wof:lastmodified":1466189227,
     "wof:name":"Abrigg Constructions",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.840683,-37.775764,144.840683,-37.775764],
-  "geometry": {"coordinates":[144.840683,-37.775764],"type":"Point"}
+  "bbox": [
+    144.840683,
+    -37.775764,
+    144.840683,
+    -37.775764
+],
+  "geometry": {"coordinates":[144.84068300000001,-37.775764],"type":"Point"}
 }

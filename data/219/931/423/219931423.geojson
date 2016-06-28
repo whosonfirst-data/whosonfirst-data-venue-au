@@ -2,13 +2,14 @@
   "id": 219931423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.130402,-35.626965,144.130402,-35.626965",
     "geom:latitude":-35.626965,
     "geom:longitude":144.130402,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Niemur St",
     "sg:city":"Barham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219931423,
-    "wof:lastmodified":1449073599,
+    "wof:lastmodified":1466191664,
     "wof:name":"Sambrooks Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.130402,-35.626965,144.130402,-35.626965],
+  "bbox": [
+    144.130402,
+    -35.626965,
+    144.130402,
+    -35.626965
+],
   "geometry": {"coordinates":[144.130402,-35.626965],"type":"Point"}
 }

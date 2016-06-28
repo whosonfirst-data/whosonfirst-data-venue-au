@@ -2,13 +2,14 @@
   "id": 186387611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.826263,-19.332685,146.826263,-19.332685",
     "geom:latitude":-19.332685,
     "geom:longitude":146.826263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Struart Drv",
     "sg:city":"Wulguru",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186387611,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466189125,
     "wof:name":"Struart Drive Sea Food & Takeaway",
     "wof:parent_id":85780219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [146.826263,-19.332685,146.826263,-19.332685],
-  "geometry": {"coordinates":[146.826263,-19.332685],"type":"Point"}
+  "bbox": [
+    146.826263,
+    -19.332685,
+    146.826263,
+    -19.332685
+],
+  "geometry": {"coordinates":[146.82626300000001,-19.332685],"type":"Point"}
 }

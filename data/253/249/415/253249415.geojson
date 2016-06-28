@@ -2,13 +2,14 @@
   "id": 253249415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.956085,-27.571852,151.956085,-27.571852",
     "geom:latitude":-27.571852,
     "geom:longitude":151.956085,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253249415,
-    "wof:lastmodified":1449062970,
+    "wof:lastmodified":1466190528,
     "wof:name":"Mortgage Studio",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [151.956085,-27.571852,151.956085,-27.571852],
+  "bbox": [
+    151.956085,
+    -27.571852,
+    151.956085,
+    -27.571852
+],
   "geometry": {"coordinates":[151.956085,-27.571852],"type":"Point"}
 }

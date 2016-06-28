@@ -2,13 +2,14 @@
   "id": 202450849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.948807,-37.832111,144.948807,-37.832111",
     "geom:latitude":-37.832111,
     "geom:longitude":144.948807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Buckhurst St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202450849,
-    "wof:lastmodified":1449062269,
+    "wof:lastmodified":1466188790,
     "wof:name":"Concept Motors",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "used"
     ]
 },
-  "bbox": [144.948807,-37.832111,144.948807,-37.832111],
-  "geometry": {"coordinates":[144.948807,-37.832111],"type":"Point"}
+  "bbox": [
+    144.948807,
+    -37.832111,
+    144.948807,
+    -37.832111
+],
+  "geometry": {"coordinates":[144.94880699999999,-37.832111],"type":"Point"}
 }

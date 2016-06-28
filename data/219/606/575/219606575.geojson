@@ -2,13 +2,14 @@
   "id": 219606575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.141235,-33.911427,151.141235,-33.911427",
     "geom:latitude":-33.911427,
     "geom:longitude":151.141235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Dudley St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219606575,
-    "wof:lastmodified":1449070934,
+    "wof:lastmodified":1466190735,
     "wof:name":"Susan Unisex Hair Studio",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.141235,-33.911427,151.141235,-33.911427],
-  "geometry": {"coordinates":[151.141235,-33.911427],"type":"Point"}
+  "bbox": [
+    151.141235,
+    -33.911427,
+    151.141235,
+    -33.911427
+],
+  "geometry": {"coordinates":[151.14123499999999,-33.911427],"type":"Point"}
 }

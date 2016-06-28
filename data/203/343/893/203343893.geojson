@@ -2,13 +2,14 @@
   "id": 203343893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.866364,-37.562595,143.866364,-37.562595",
     "geom:latitude":-37.562595,
     "geom:longitude":143.866364,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10A Victoria St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203343893,
-    "wof:lastmodified":1449026312,
+    "wof:lastmodified":1466188568,
     "wof:name":"Black Rhino The",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.866364,-37.562595,143.866364,-37.562595],
+  "bbox": [
+    143.866364,
+    -37.562595,
+    143.866364,
+    -37.562595
+],
   "geometry": {"coordinates":[143.866364,-37.562595],"type":"Point"}
 }

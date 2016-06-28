@@ -2,13 +2,14 @@
   "id": 236082497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.707794,-37.926281,144.707794,-37.926281",
     "geom:latitude":-37.926281,
     "geom:longitude":144.707794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Aviation Rd",
     "sg:city":"Werribee South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236082497,
-    "wof:lastmodified":1449001744,
+    "wof:lastmodified":1466188277,
     "wof:name":"Martin Irrigation",
     "wof:parent_id":85770267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [144.707794,-37.926281,144.707794,-37.926281],
-  "geometry": {"coordinates":[144.707794,-37.926281],"type":"Point"}
+  "bbox": [
+    144.707794,
+    -37.926281,
+    144.707794,
+    -37.926281
+],
+  "geometry": {"coordinates":[144.70779400000001,-37.926281],"type":"Point"}
 }

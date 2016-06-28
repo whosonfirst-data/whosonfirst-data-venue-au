@@ -2,13 +2,14 @@
   "id": 219641779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.124588,-33.951599,151.124588,-33.951599",
     "geom:latitude":-33.951599,
     "geom:longitude":151.124588,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Forest Rd",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219641779,
-    "wof:lastmodified":1449073080,
+    "wof:lastmodified":1466190936,
     "wof:name":"Amcon Alex Lind",
     "wof:parent_id":85768843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parquet"
     ]
 },
-  "bbox": [151.124588,-33.951599,151.124588,-33.951599],
-  "geometry": {"coordinates":[151.124588,-33.951599],"type":"Point"}
+  "bbox": [
+    151.124588,
+    -33.951599,
+    151.124588,
+    -33.951599
+],
+  "geometry": {"coordinates":[151.12458799999999,-33.951599],"type":"Point"}
 }

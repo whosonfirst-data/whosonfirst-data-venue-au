@@ -2,13 +2,14 @@
   "id": 219427295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.569138,-34.899536,138.569138,-34.899536",
     "geom:latitude":-34.899536,
     "geom:longitude":138.569138,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1- 11 Wood Ave",
     "sg:city":"Ridleyton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219427295,
-    "wof:lastmodified":1449071463,
+    "wof:lastmodified":1466188695,
     "wof:name":"Molnar Laser",
     "wof:parent_id":85774917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laser"
     ]
 },
-  "bbox": [138.569138,-34.899536,138.569138,-34.899536],
-  "geometry": {"coordinates":[138.569138,-34.899536],"type":"Point"}
+  "bbox": [
+    138.569138,
+    -34.899536,
+    138.569138,
+    -34.899536
+],
+  "geometry": {"coordinates":[138.56913800000001,-34.899536],"type":"Point"}
 }

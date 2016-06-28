@@ -2,13 +2,14 @@
   "id": 219418841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.842499,-33.74815,150.842499,-33.74815",
     "geom:latitude":-33.74815,
     "geom:longitude":150.842499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiosk 6",
     "sg:city":"Plumpton Market Place Plumpton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219418841,
-    "wof:lastmodified":1449073166,
+    "wof:lastmodified":1466188564,
     "wof:name":"Plumpton Marketplace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "telephone"
     ]
 },
-  "bbox": [150.842499,-33.74815,150.842499,-33.74815],
+  "bbox": [
+    150.842499,
+    -33.74815,
+    150.842499,
+    -33.74815
+],
   "geometry": {"coordinates":[150.842499,-33.74815],"type":"Point"}
 }

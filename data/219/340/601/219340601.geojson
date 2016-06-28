@@ -2,13 +2,14 @@
   "id": 219340601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"132.286713,-14.474994,132.286713,-14.474994",
     "geom:latitude":-14.474994,
     "geom:longitude":132.286713,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Crawford St",
     "sg:city":"Katherine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219340601,
-    "wof:lastmodified":1449073130,
+    "wof:lastmodified":1466187859,
     "wof:name":"Home Timber & Hardware Katherine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [132.286713,-14.474994,132.286713,-14.474994],
-  "geometry": {"coordinates":[132.286713,-14.474994],"type":"Point"}
+  "bbox": [
+    132.286713,
+    -14.474994,
+    132.286713,
+    -14.474994
+],
+  "geometry": {"coordinates":[132.28671299999999,-14.474994],"type":"Point"}
 }

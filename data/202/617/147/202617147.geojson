@@ -2,13 +2,14 @@
   "id": 202617147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.932114,-28.661385,151.932114,-28.661385",
     "geom:latitude":-28.661385,
     "geom:longitude":151.932114,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wallangarra Rd",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202617147,
-    "wof:lastmodified":1449060185,
+    "wof:lastmodified":1466187488,
     "wof:name":"Ampol Stanthorpe Fuel & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.932114,-28.661385,151.932114,-28.661385],
-  "geometry": {"coordinates":[151.932114,-28.661385],"type":"Point"}
+  "bbox": [
+    151.932114,
+    -28.661385,
+    151.932114,
+    -28.661385
+],
+  "geometry": {"coordinates":[151.93211400000001,-28.661385],"type":"Point"}
 }

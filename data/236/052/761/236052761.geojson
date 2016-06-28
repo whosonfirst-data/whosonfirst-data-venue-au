@@ -2,13 +2,14 @@
   "id": 236052761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.920517,-37.772182,144.920517,-37.772182",
     "geom:latitude":-37.772182,
     "geom:longitude":144.920517,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"292a Maribyrnong Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236052761,
-    "wof:lastmodified":1449003092,
+    "wof:lastmodified":1466187672,
     "wof:name":"Hanna Financial Group",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retirement"
     ]
 },
-  "bbox": [144.920517,-37.772182,144.920517,-37.772182],
-  "geometry": {"coordinates":[144.920517,-37.772182],"type":"Point"}
+  "bbox": [
+    144.920517,
+    -37.772182,
+    144.920517,
+    -37.772182
+],
+  "geometry": {"coordinates":[144.92051699999999,-37.772182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236069445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.744736,-37.688641,144.744736,-37.688641",
     "geom:latitude":-37.688641,
     "geom:longitude":144.744736,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Saronvale Crs",
     "sg:city":"Hillside (Keilor Downs)",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236069445,
-    "wof:lastmodified":1449003789,
+    "wof:lastmodified":1466188018,
     "wof:name":"Barbara Durham",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [144.744736,-37.688641,144.744736,-37.688641],
-  "geometry": {"coordinates":[144.744736,-37.688641],"type":"Point"}
+  "bbox": [
+    144.744736,
+    -37.688641,
+    144.744736,
+    -37.688641
+],
+  "geometry": {"coordinates":[144.74473599999999,-37.688641],"type":"Point"}
 }

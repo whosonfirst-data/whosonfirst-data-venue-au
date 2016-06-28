@@ -2,13 +2,14 @@
   "id": 202718013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.047882,-27.368362,153.047882,-27.368362",
     "geom:latitude":-27.368362,
     "geom:longitude":153.047882,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Delta St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202718013,
-    "wof:lastmodified":1449060669,
+    "wof:lastmodified":1466189172,
     "wof:name":"Northside Power Tools",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [153.047882,-27.368362,153.047882,-27.368362],
-  "geometry": {"coordinates":[153.047882,-27.368362],"type":"Point"}
+  "bbox": [
+    153.047882,
+    -27.368362,
+    153.047882,
+    -27.368362
+],
+  "geometry": {"coordinates":[153.04788199999999,-27.368362],"type":"Point"}
 }

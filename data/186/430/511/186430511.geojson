@@ -2,13 +2,14 @@
   "id": 186430511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.173325,-33.898731,151.173325,-33.898731",
     "geom:latitude":-33.898731,
     "geom:longitude":151.173325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Enmore Rd",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186430511,
-    "wof:lastmodified":1449052088,
+    "wof:lastmodified":1466189821,
     "wof:name":"Marie Louise Salon",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.173325,-33.898731,151.173325,-33.898731],
-  "geometry": {"coordinates":[151.173325,-33.898731],"type":"Point"}
+  "bbox": [
+    151.173325,
+    -33.898731,
+    151.173325,
+    -33.898731
+],
+  "geometry": {"coordinates":[151.17332500000001,-33.898731],"type":"Point"}
 }

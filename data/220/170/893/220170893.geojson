@@ -2,13 +2,14 @@
   "id": 220170893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.360596,-38.163605,144.360596,-38.163605",
     "geom:latitude":-38.163605,
     "geom:longitude":144.360596,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"142A Fyans St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220170893,
-    "wof:lastmodified":1449074100,
+    "wof:lastmodified":1466189013,
     "wof:name":"Climatic Air Conditioning Pty. Ltd.",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [144.360596,-38.163605,144.360596,-38.163605],
-  "geometry": {"coordinates":[144.360596,-38.163605],"type":"Point"}
+  "bbox": [
+    144.360596,
+    -38.163605,
+    144.360596,
+    -38.163605
+],
+  "geometry": {"coordinates":[144.36059599999999,-38.163605],"type":"Point"}
 }

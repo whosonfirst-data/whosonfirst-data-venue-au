@@ -2,13 +2,14 @@
   "id": 220033129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.896042,-33.080948,115.896042,-33.080948",
     "geom:latitude":-33.080948,
     "geom:longitude":115.896042,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Herbert Rd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220033129,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466187362,
     "wof:name":"Commisso L & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [115.896042,-33.080948,115.896042,-33.080948],
-  "geometry": {"coordinates":[115.896042,-33.080948],"type":"Point"}
+  "bbox": [
+    115.896042,
+    -33.080948,
+    115.896042,
+    -33.080948
+],
+  "geometry": {"coordinates":[115.89604199999999,-33.080948],"type":"Point"}
 }

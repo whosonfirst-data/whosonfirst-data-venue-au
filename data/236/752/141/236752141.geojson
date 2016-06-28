@@ -2,13 +2,14 @@
   "id": 236752141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.981079,-27.083181,152.981079,-27.083181",
     "geom:latitude":-27.083181,
     "geom:longitude":152.981079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 24/ 39 Aerodrome Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236752141,
-    "wof:lastmodified":1449002089,
+    "wof:lastmodified":1466191888,
     "wof:name":"Bruce Pinney Engineering Services",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [152.981079,-27.083181,152.981079,-27.083181],
-  "geometry": {"coordinates":[152.981079,-27.083181],"type":"Point"}
+  "bbox": [
+    152.981079,
+    -27.083181,
+    152.981079,
+    -27.083181
+],
+  "geometry": {"coordinates":[152.98107899999999,-27.083181],"type":"Point"}
 }

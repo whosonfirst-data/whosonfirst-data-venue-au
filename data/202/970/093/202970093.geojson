@@ -2,13 +2,14 @@
   "id": 202970093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.18045,-33.88459,151.18045,-33.88459",
     "geom:latitude":-33.88459,
     "geom:longitude":151.18045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste 44/ 13 Larkin St",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202970093,
-    "wof:lastmodified":1449062587,
+    "wof:lastmodified":1466191078,
     "wof:name":"Events with Moore Pty Ltd",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [151.18045,-33.88459,151.18045,-33.88459],
-  "geometry": {"coordinates":[151.18045,-33.88459],"type":"Point"}
+  "bbox": [
+    151.18045,
+    -33.88459,
+    151.18045,
+    -33.88459
+],
+  "geometry": {"coordinates":[151.18045000000001,-33.88459],"type":"Point"}
 }

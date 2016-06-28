@@ -2,13 +2,14 @@
   "id": 186577393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.83699,-31.493504,145.83699,-31.493504",
     "geom:latitude":-31.493504,
     "geom:longitude":145.83699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Louth & Bourke Rds",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186577393,
-    "wof:lastmodified":1449053101,
+    "wof:lastmodified":1466190956,
     "wof:name":"Cobar Crossroads Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.83699,-31.493504,145.83699,-31.493504],
-  "geometry": {"coordinates":[145.83699,-31.493504],"type":"Point"}
+  "bbox": [
+    145.83699,
+    -31.493504,
+    145.83699,
+    -31.493504
+],
+  "geometry": {"coordinates":[145.83698999999999,-31.493504],"type":"Point"}
 }

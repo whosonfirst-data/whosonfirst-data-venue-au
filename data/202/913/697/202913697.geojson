@@ -2,13 +2,14 @@
   "id": 202913697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.131073,-30.281811,153.131073,-30.281811",
     "geom:latitude":-30.281811,
     "geom:longitude":153.131073,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 6762",
     "sg:city":"Coffs Harbour Plaza",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202913697,
-    "wof:lastmodified":1449061096,
+    "wof:lastmodified":1466190629,
     "wof:name":"Pharo Cleaning Services",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [153.131073,-30.281811,153.131073,-30.281811],
-  "geometry": {"coordinates":[153.131073,-30.281811],"type":"Point"}
+  "bbox": [
+    153.131073,
+    -30.281811,
+    153.131073,
+    -30.281811
+],
+  "geometry": {"coordinates":[153.13107299999999,-30.281811],"type":"Point"}
 }

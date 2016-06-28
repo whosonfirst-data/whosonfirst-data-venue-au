@@ -2,13 +2,14 @@
   "id": 186420813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.788376,-19.25318,146.788376,-19.25318",
     "geom:latitude":-19.25318,
     "geom:longitude":146.788376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Bundock St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186420813,
-    "wof:lastmodified":1449051662,
+    "wof:lastmodified":1466189658,
     "wof:name":"Grail Films",
     "wof:parent_id":85776293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "film"
     ]
 },
-  "bbox": [146.788376,-19.25318,146.788376,-19.25318],
+  "bbox": [
+    146.788376,
+    -19.25318,
+    146.788376,
+    -19.25318
+],
   "geometry": {"coordinates":[146.788376,-19.25318],"type":"Point"}
 }

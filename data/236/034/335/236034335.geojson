@@ -2,13 +2,14 @@
   "id": 236034335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.791824,-37.722141,144.791824,-37.722141",
     "geom:latitude":-37.722141,
     "geom:longitude":144.791824,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Gunsynd Crt",
     "sg:city":"Keilor Downs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236034335,
-    "wof:lastmodified":1449001952,
+    "wof:lastmodified":1466187306,
     "wof:name":"Krocon Pty Ltd",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pre-cast"
     ]
 },
-  "bbox": [144.791824,-37.722141,144.791824,-37.722141],
-  "geometry": {"coordinates":[144.791824,-37.722141],"type":"Point"}
+  "bbox": [
+    144.791824,
+    -37.722141,
+    144.791824,
+    -37.722141
+],
+  "geometry": {"coordinates":[144.79182399999999,-37.722141],"type":"Point"}
 }

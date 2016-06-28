@@ -2,13 +2,14 @@
   "id": 185787925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.384369,-37.691952,145.384369,-37.691952",
     "geom:latitude":-37.691952,
     "geom:longitude":145.384369,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"St Huberts Rd",
     "sg:city":"Coldstream",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185787925,
-    "wof:lastmodified":1449007346,
+    "wof:lastmodified":1466189840,
     "wof:name":"Orth's Nursery",
     "wof:parent_id":85770949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.384369,-37.691952,145.384369,-37.691952],
-  "geometry": {"coordinates":[145.384369,-37.691952],"type":"Point"}
+  "bbox": [
+    145.384369,
+    -37.691952,
+    145.384369,
+    -37.691952
+],
+  "geometry": {"coordinates":[145.38436899999999,-37.691952],"type":"Point"}
 }

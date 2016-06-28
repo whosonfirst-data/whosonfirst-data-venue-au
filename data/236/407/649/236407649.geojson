@@ -2,13 +2,14 @@
   "id": 236407649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.777229,-32.148132,115.777229,-32.148132",
     "geom:latitude":-32.148132,
     "geom:longitude":115.777229,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Sparks Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236407649,
-    "wof:lastmodified":1449003495,
+    "wof:lastmodified":1466191133,
     "wof:name":"Ocean Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.777229,-32.148132,115.777229,-32.148132],
-  "geometry": {"coordinates":[115.777229,-32.148132],"type":"Point"}
+  "bbox": [
+    115.777229,
+    -32.148132,
+    115.777229,
+    -32.148132
+],
+  "geometry": {"coordinates":[115.77722900000001,-32.148132],"type":"Point"}
 }

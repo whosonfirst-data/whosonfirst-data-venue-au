@@ -2,13 +2,14 @@
   "id": 186317587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.004128,-31.919889,116.004128,-31.919889",
     "geom:latitude":-31.919889,
     "geom:longitude":116.004128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Talbot Rd",
     "sg:city":"Hazelmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186317587,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466187912,
     "wof:name":"Fertal Waste Fat Collection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "waste"
     ]
 },
-  "bbox": [116.004128,-31.919889,116.004128,-31.919889],
-  "geometry": {"coordinates":[116.004128,-31.919889],"type":"Point"}
+  "bbox": [
+    116.004128,
+    -31.919889,
+    116.004128,
+    -31.919889
+],
+  "geometry": {"coordinates":[116.00412799999999,-31.919889],"type":"Point"}
 }

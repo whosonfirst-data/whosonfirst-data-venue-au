@@ -2,13 +2,14 @@
   "id": 202921231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.114944,-30.297773,153.114944,-30.297773",
     "geom:latitude":-30.297773,
     "geom:longitude":153.114944,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11b Park Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202921231,
-    "wof:lastmodified":1449061719,
+    "wof:lastmodified":1466190818,
     "wof:name":"Smart Choice Mortgage Brokers Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [153.114944,-30.297773,153.114944,-30.297773],
-  "geometry": {"coordinates":[153.114944,-30.297773],"type":"Point"}
+  "bbox": [
+    153.114944,
+    -30.297773,
+    153.114944,
+    -30.297773
+],
+  "geometry": {"coordinates":[153.11494400000001,-30.297773],"type":"Point"}
 }

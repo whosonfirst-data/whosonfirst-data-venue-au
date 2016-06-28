@@ -2,13 +2,14 @@
   "id": 186450203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.172577,-33.899078,151.172577,-33.899078",
     "geom:latitude":-33.899078,
     "geom:longitude":151.172577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Enmore Rd",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186450203,
-    "wof:lastmodified":1449052595,
+    "wof:lastmodified":1466190161,
     "wof:name":"Tsairas P",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [151.172577,-33.899078,151.172577,-33.899078],
-  "geometry": {"coordinates":[151.172577,-33.899078],"type":"Point"}
+  "bbox": [
+    151.172577,
+    -33.899078,
+    151.172577,
+    -33.899078
+],
+  "geometry": {"coordinates":[151.17257699999999,-33.899078],"type":"Point"}
 }

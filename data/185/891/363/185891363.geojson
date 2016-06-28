@@ -2,13 +2,14 @@
   "id": 185891363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.707245,-25.551521,152.707245,-25.551521",
     "geom:latitude":-25.551521,
     "geom:longitude":152.707245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Ann St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185891363,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1466187797,
     "wof:name":"Maryborough Farm Machinery",
     "wof:parent_id":85779645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [152.707245,-25.551521,152.707245,-25.551521],
+  "bbox": [
+    152.707245,
+    -25.551521,
+    152.707245,
+    -25.551521
+],
   "geometry": {"coordinates":[152.707245,-25.551521],"type":"Point"}
 }

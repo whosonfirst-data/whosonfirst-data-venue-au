@@ -2,13 +2,14 @@
   "id": 236379827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.842003,-32.119579,115.842003,-32.119579",
     "geom:latitude":-32.119579,
     "geom:longitude":115.842003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 13 Buckley St",
     "sg:city":"Jandakot",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236379827,
-    "wof:lastmodified":1449003586,
+    "wof:lastmodified":1466190928,
     "wof:name":"Pats Mobile Mechanical",
     "wof:parent_id":85775979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.842003,-32.119579,115.842003,-32.119579],
-  "geometry": {"coordinates":[115.842003,-32.119579],"type":"Point"}
+  "bbox": [
+    115.842003,
+    -32.119579,
+    115.842003,
+    -32.119579
+],
+  "geometry": {"coordinates":[115.84200300000001,-32.119579],"type":"Point"}
 }

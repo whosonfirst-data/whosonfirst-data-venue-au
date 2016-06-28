@@ -2,13 +2,14 @@
   "id": 186282879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.903778,-31.431259,152.903778,-31.431259",
     "geom:latitude":-31.431259,
     "geom:longitude":152.903778,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Buller St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186282879,
-    "wof:lastmodified":1449052045,
+    "wof:lastmodified":1466187646,
     "wof:name":"Country Energy LPG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.903778,-31.431259,152.903778,-31.431259],
-  "geometry": {"coordinates":[152.903778,-31.431259],"type":"Point"}
+  "bbox": [
+    152.903778,
+    -31.431259,
+    152.903778,
+    -31.431259
+],
+  "geometry": {"coordinates":[152.90377799999999,-31.431259],"type":"Point"}
 }

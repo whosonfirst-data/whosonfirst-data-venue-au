@@ -2,13 +2,14 @@
   "id": 202732791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.642685,-34.783352,138.642685,-34.783352",
     "geom:latitude":-34.783352,
     "geom:longitude":138.642685,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Pentland Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202732791,
-    "wof:lastmodified":1449062753,
+    "wof:lastmodified":1466189454,
     "wof:name":"Northern Building Supplies",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [138.642685,-34.783352,138.642685,-34.783352],
+  "bbox": [
+    138.642685,
+    -34.783352,
+    138.642685,
+    -34.783352
+],
   "geometry": {"coordinates":[138.642685,-34.783352],"type":"Point"}
 }

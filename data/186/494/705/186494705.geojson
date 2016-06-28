@@ -2,13 +2,14 @@
   "id": 186494705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.758606,-19.267029,146.758606,-19.267029",
     "geom:latitude":-19.267029,
     "geom:longitude":146.758606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Schmid St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186494705,
-    "wof:lastmodified":1449052727,
+    "wof:lastmodified":1466190356,
     "wof:name":"Colonial Pools",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [146.758606,-19.267029,146.758606,-19.267029],
-  "geometry": {"coordinates":[146.758606,-19.267029],"type":"Point"}
+  "bbox": [
+    146.758606,
+    -19.267029,
+    146.758606,
+    -19.267029
+],
+  "geometry": {"coordinates":[146.75860599999999,-19.267029],"type":"Point"}
 }

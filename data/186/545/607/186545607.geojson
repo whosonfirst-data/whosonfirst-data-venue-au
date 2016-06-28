@@ -2,13 +2,14 @@
   "id": 186545607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.735809,-19.256365,146.735809,-19.256365",
     "geom:latitude":-19.256365,
     "geom:longitude":146.735809,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/26- 30 Lorna Crt",
     "sg:city":"Bohle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186545607,
-    "wof:lastmodified":1449051039,
+    "wof:lastmodified":1466190784,
     "wof:name":"KAB Seating Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [146.735809,-19.256365,146.735809,-19.256365],
-  "geometry": {"coordinates":[146.735809,-19.256365],"type":"Point"}
+  "bbox": [
+    146.735809,
+    -19.256365,
+    146.735809,
+    -19.256365
+],
+  "geometry": {"coordinates":[146.73580899999999,-19.256365],"type":"Point"}
 }

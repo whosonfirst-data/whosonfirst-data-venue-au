@@ -2,13 +2,14 @@
   "id": 185835995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.799606,-25.2992,152.799606,-25.2992",
     "geom:latitude":-25.2992,
     "geom:longitude":152.799606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Lower Mountain Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185835995,
-    "wof:lastmodified":1449006841,
+    "wof:lastmodified":1466187163,
     "wof:name":"Bozmac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [152.799606,-25.2992,152.799606,-25.2992],
-  "geometry": {"coordinates":[152.799606,-25.2992],"type":"Point"}
+  "bbox": [
+    152.799606,
+    -25.2992,
+    152.799606,
+    -25.2992
+],
+  "geometry": {"coordinates":[152.79960600000001,-25.2992],"type":"Point"}
 }

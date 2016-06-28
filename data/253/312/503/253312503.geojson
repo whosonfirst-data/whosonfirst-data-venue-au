@@ -2,13 +2,14 @@
   "id": 253312503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.298706,-38.020184,145.298706,-38.020184",
     "geom:latitude":-38.020184,
     "geom:longitude":145.298706,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"324 - 326 Princes Hwy",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253312503,
-    "wof:lastmodified":1449064319,
+    "wof:lastmodified":1466190709,
     "wof:name":"4U2C Beauty & Spa",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.298706,-38.020184,145.298706,-38.020184],
-  "geometry": {"coordinates":[145.298706,-38.020184],"type":"Point"}
+  "bbox": [
+    145.298706,
+    -38.020184,
+    145.298706,
+    -38.020184
+],
+  "geometry": {"coordinates":[145.29870600000001,-38.020184],"type":"Point"}
 }

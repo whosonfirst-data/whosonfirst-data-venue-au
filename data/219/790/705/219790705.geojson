@@ -2,13 +2,14 @@
   "id": 219790705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.733871,-19.300617,146.733871,-19.300617",
     "geom:latitude":-19.300617,
     "geom:longitude":146.733871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22- 24 Castlemaine St",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219790705,
-    "wof:lastmodified":1449073109,
+    "wof:lastmodified":1466191364,
     "wof:name":"Reece Pty Ltd",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [146.733871,-19.300617,146.733871,-19.300617],
-  "geometry": {"coordinates":[146.733871,-19.300617],"type":"Point"}
+  "bbox": [
+    146.733871,
+    -19.300617,
+    146.733871,
+    -19.300617
+],
+  "geometry": {"coordinates":[146.73387099999999,-19.300617],"type":"Point"}
 }

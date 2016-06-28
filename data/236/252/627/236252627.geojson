@@ -2,13 +2,14 @@
   "id": 236252627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.611725,-36.421055,143.611725,-36.421055",
     "geom:latitude":-36.421055,
     "geom:longitude":143.611725,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kerr St",
     "sg:city":"Wedderburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236252627,
-    "wof:lastmodified":1449002002,
+    "wof:lastmodified":1466190228,
     "wof:name":"Holt Reg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [143.611725,-36.421055,143.611725,-36.421055],
-  "geometry": {"coordinates":[143.611725,-36.421055],"type":"Point"}
+  "bbox": [
+    143.611725,
+    -36.421055,
+    143.611725,
+    -36.421055
+],
+  "geometry": {"coordinates":[143.61172500000001,-36.421055],"type":"Point"}
 }

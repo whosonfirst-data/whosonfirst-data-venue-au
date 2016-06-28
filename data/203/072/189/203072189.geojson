@@ -2,13 +2,14 @@
   "id": 203072189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.297287,-41.873867,148.297287,-41.873867",
     "geom:latitude":-41.873867,
     "geom:longitude":148.297287,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Foster St",
     "sg:city":"Bicheno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203072189,
-    "wof:lastmodified":1449025946,
+    "wof:lastmodified":1466188633,
     "wof:name":"Bicheno Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [148.297287,-41.873867,148.297287,-41.873867],
-  "geometry": {"coordinates":[148.297287,-41.873867],"type":"Point"}
+  "bbox": [
+    148.297287,
+    -41.873867,
+    148.297287,
+    -41.873867
+],
+  "geometry": {"coordinates":[148.29728700000001,-41.873867],"type":"Point"}
 }

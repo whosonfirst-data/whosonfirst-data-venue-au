@@ -2,13 +2,14 @@
   "id": 185967699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.439026,-33.44175,151.439026,-33.44175",
     "geom:latitude":-33.44175,
     "geom:longitude":151.439026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Havenview Rd",
     "sg:city":"Terrigal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185967699,
-    "wof:lastmodified":1449008098,
+    "wof:lastmodified":1466188617,
     "wof:name":"Terrigal-Havenview Kindy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [151.439026,-33.44175,151.439026,-33.44175],
-  "geometry": {"coordinates":[151.439026,-33.44175],"type":"Point"}
+  "bbox": [
+    151.439026,
+    -33.44175,
+    151.439026,
+    -33.44175
+],
+  "geometry": {"coordinates":[151.43902600000001,-33.44175],"type":"Point"}
 }

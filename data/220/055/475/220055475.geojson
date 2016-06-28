@@ -2,13 +2,14 @@
   "id": 220055475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.137352,-31.904764,116.137352,-31.904764",
     "geom:latitude":-31.904764,
     "geom:longitude":116.137352,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Homestead Rd & Great Eastern Hwy",
     "sg:city":"Mahogany Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220055475,
-    "wof:lastmodified":1449074218,
+    "wof:lastmodified":1466187558,
     "wof:name":"Mahogany Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "organiser"
     ]
 },
-  "bbox": [116.137352,-31.904764,116.137352,-31.904764],
-  "geometry": {"coordinates":[116.137352,-31.904764],"type":"Point"}
+  "bbox": [
+    116.137352,
+    -31.904764,
+    116.137352,
+    -31.904764
+],
+  "geometry": {"coordinates":[116.13735200000001,-31.904764],"type":"Point"}
 }

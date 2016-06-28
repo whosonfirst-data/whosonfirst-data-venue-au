@@ -2,13 +2,14 @@
   "id": 253125863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.053925,-27.259937,152.053925,-27.259937",
     "geom:latitude":-27.259937,
     "geom:longitude":152.053925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Toowoomba Rd",
     "sg:city":"Crows Nest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253125863,
-    "wof:lastmodified":1449065696,
+    "wof:lastmodified":1466189223,
     "wof:name":"Crow's Nest Fuel Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [152.053925,-27.259937,152.053925,-27.259937],
-  "geometry": {"coordinates":[152.053925,-27.259937],"type":"Point"}
+  "bbox": [
+    152.053925,
+    -27.259937,
+    152.053925,
+    -27.259937
+],
+  "geometry": {"coordinates":[152.05392499999999,-27.259937],"type":"Point"}
 }

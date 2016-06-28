@@ -2,13 +2,14 @@
   "id": 236835133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.860153,-34.415169,150.860153,-34.415169",
     "geom:latitude":-34.415169,
     "geom:longitude":150.860153,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Burell & Keira Sts",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236835133,
-    "wof:lastmodified":1449002027,
+    "wof:lastmodified":1466192007,
     "wof:name":"Fitness First Australia Pty Limited",
     "wof:parent_id":85777205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [150.860153,-34.415169,150.860153,-34.415169],
+  "bbox": [
+    150.860153,
+    -34.415169,
+    150.860153,
+    -34.415169
+],
   "geometry": {"coordinates":[150.860153,-34.415169],"type":"Point"}
 }

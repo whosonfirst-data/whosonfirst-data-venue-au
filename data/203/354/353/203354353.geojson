@@ -2,13 +2,14 @@
   "id": 203354353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.862946,-37.560886,143.862946,-37.560886",
     "geom:latitude":-37.560886,
     "geom:longitude":143.862946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Shepperd St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203354353,
-    "wof:lastmodified":1449026655,
+    "wof:lastmodified":1466188750,
     "wof:name":"Premier Piercing And Tattooing",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [143.862946,-37.560886,143.862946,-37.560886],
-  "geometry": {"coordinates":[143.862946,-37.560886],"type":"Point"}
+  "bbox": [
+    143.862946,
+    -37.560886,
+    143.862946,
+    -37.560886
+],
+  "geometry": {"coordinates":[143.86294599999999,-37.560886],"type":"Point"}
 }

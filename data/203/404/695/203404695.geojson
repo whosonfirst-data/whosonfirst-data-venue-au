@@ -2,13 +2,14 @@
   "id": 203404695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.656143,-37.367222,143.656143,-37.367222",
     "geom:latitude":-37.367222,
     "geom:longitude":143.656143,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunraysia Hwy",
     "sg:city":"Waubra",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203404695,
-    "wof:lastmodified":1449026238,
+    "wof:lastmodified":1466189519,
     "wof:name":"Waubra General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.656143,-37.367222,143.656143,-37.367222],
-  "geometry": {"coordinates":[143.656143,-37.367222],"type":"Point"}
+  "bbox": [
+    143.656143,
+    -37.367222,
+    143.656143,
+    -37.367222
+],
+  "geometry": {"coordinates":[143.65614299999999,-37.367222],"type":"Point"}
 }

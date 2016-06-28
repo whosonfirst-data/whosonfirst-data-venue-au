@@ -2,13 +2,14 @@
   "id": 219268001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.295868,-38.173298,146.295868,-38.173298",
     "geom:latitude":-38.173298,
     "geom:longitude":146.295868,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Avon Crt",
     "sg:city":"Newborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219268001,
-    "wof:lastmodified":1449072384,
+    "wof:lastmodified":1466187264,
     "wof:name":"Michaud-Achorn A Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [146.295868,-38.173298,146.295868,-38.173298],
-  "geometry": {"coordinates":[146.295868,-38.173298],"type":"Point"}
+  "bbox": [
+    146.295868,
+    -38.173298,
+    146.295868,
+    -38.173298
+],
+  "geometry": {"coordinates":[146.29586800000001,-38.173298],"type":"Point"}
 }

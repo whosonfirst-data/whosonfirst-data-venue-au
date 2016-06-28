@@ -2,13 +2,14 @@
   "id": 236280995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.742638,-32.317509,115.742638,-32.317509",
     "geom:latitude":-32.317509,
     "geom:longitude":115.742638,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Urchin Mews",
     "sg:city":"Waikiki",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236280995,
-    "wof:lastmodified":1449003238,
+    "wof:lastmodified":1466190226,
     "wof:name":"Primary Lubrication",
     "wof:parent_id":85777961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lubricant"
     ]
 },
-  "bbox": [115.742638,-32.317509,115.742638,-32.317509],
+  "bbox": [
+    115.742638,
+    -32.317509,
+    115.742638,
+    -32.317509
+],
   "geometry": {"coordinates":[115.742638,-32.317509],"type":"Point"}
 }

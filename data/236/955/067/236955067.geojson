@@ -2,13 +2,14 @@
   "id": 236955067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.445602,-37.918159,145.445602,-37.918159",
     "geom:latitude":-37.918159,
     "geom:longitude":145.445602,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Charman Ave",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236955067,
-    "wof:lastmodified":1449004037,
+    "wof:lastmodified":1466192165,
     "wof:name":"VCAH Emerald Annexe",
     "wof:parent_id":85769507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trade"
     ]
 },
-  "bbox": [145.445602,-37.918159,145.445602,-37.918159],
-  "geometry": {"coordinates":[145.445602,-37.918159],"type":"Point"}
+  "bbox": [
+    145.445602,
+    -37.918159,
+    145.445602,
+    -37.918159
+],
+  "geometry": {"coordinates":[145.44560200000001,-37.918159],"type":"Point"}
 }

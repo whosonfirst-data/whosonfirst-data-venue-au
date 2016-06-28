@@ -2,13 +2,14 @@
   "id": 203164661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.998184,-36.542038,145.998184,-36.542038",
     "geom:latitude":-36.542038,
     "geom:longitude":145.998184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Gay St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203164661,
-    "wof:lastmodified":1449025171,
+    "wof:lastmodified":1466189755,
     "wof:name":"Benalla Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "doors"
     ]
 },
-  "bbox": [145.998184,-36.542038,145.998184,-36.542038],
-  "geometry": {"coordinates":[145.998184,-36.542038],"type":"Point"}
+  "bbox": [
+    145.998184,
+    -36.542038,
+    145.998184,
+    -36.542038
+],
+  "geometry": {"coordinates":[145.99818400000001,-36.542038],"type":"Point"}
 }

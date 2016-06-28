@@ -2,13 +2,14 @@
   "id": 236600993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.125366,-33.980965,151.125366,-33.980965",
     "geom:latitude":-33.980965,
     "geom:longitude":151.125366,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Park Rd",
     "sg:city":"Kogarah Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236600993,
-    "wof:lastmodified":1449001900,
+    "wof:lastmodified":1466191643,
     "wof:name":"Domain Computer Networks",
     "wof:parent_id":85768883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "installation"
     ]
 },
-  "bbox": [151.125366,-33.980965,151.125366,-33.980965],
-  "geometry": {"coordinates":[151.125366,-33.980965],"type":"Point"}
+  "bbox": [
+    151.125366,
+    -33.980965,
+    151.125366,
+    -33.980965
+],
+  "geometry": {"coordinates":[151.12536600000001,-33.980965],"type":"Point"}
 }

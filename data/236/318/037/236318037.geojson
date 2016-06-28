@@ -2,13 +2,14 @@
   "id": 236318037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.746246,-32.054348,115.746246,-32.054348",
     "geom:latitude":-32.054348,
     "geom:longitude":115.746246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Market St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236318037,
-    "wof:lastmodified":1449002227,
+    "wof:lastmodified":1466190477,
     "wof:name":"STA Travel",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.746246,-32.054348,115.746246,-32.054348],
+  "bbox": [
+    115.746246,
+    -32.054348,
+    115.746246,
+    -32.054348
+],
   "geometry": {"coordinates":[115.746246,-32.054348],"type":"Point"}
 }

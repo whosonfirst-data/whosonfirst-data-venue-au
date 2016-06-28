@@ -2,13 +2,14 @@
   "id": 219784571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.140503,-33.877937,151.140503,-33.877937",
     "geom:latitude":-33.877937,
     "geom:longitude":151.140503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Dalhousie St",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219784571,
-    "wof:lastmodified":1449072744,
+    "wof:lastmodified":1466191340,
     "wof:name":"Haberfield Electrical Services",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.140503,-33.877937,151.140503,-33.877937],
+  "bbox": [
+    151.140503,
+    -33.877937,
+    151.140503,
+    -33.877937
+],
   "geometry": {"coordinates":[151.140503,-33.877937],"type":"Point"}
 }

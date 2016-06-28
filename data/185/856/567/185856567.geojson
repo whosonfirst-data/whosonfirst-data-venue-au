@@ -2,13 +2,14 @@
   "id": 185856567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.900314,-25.285801,152.900314,-25.285801",
     "geom:latitude":-25.285801,
     "geom:longitude":152.900314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp15/ 8 Pier St",
     "sg:city":"Urangan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185856567,
-    "wof:lastmodified":1449007073,
+    "wof:lastmodified":1466187422,
     "wof:name":"Fruit Veg & Whatever",
     "wof:parent_id":85770521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [152.900314,-25.285801,152.900314,-25.285801],
-  "geometry": {"coordinates":[152.900314,-25.285801],"type":"Point"}
+  "bbox": [
+    152.900314,
+    -25.285801,
+    152.900314,
+    -25.285801
+],
+  "geometry": {"coordinates":[152.90031400000001,-25.285801],"type":"Point"}
 }

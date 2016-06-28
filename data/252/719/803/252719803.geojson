@@ -2,13 +2,14 @@
   "id": 252719803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.639091,-33.336094,115.639091,-33.336094",
     "geom:latitude":-33.336094,
     "geom:longitude":115.639091,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Beach Rd",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252719803,
-    "wof:lastmodified":1449005544,
+    "wof:lastmodified":1466187070,
     "wof:name":"Fleay Gardiner & Associates",
     "wof:parent_id":85780047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [115.639091,-33.336094,115.639091,-33.336094],
-  "geometry": {"coordinates":[115.639091,-33.336094],"type":"Point"}
+  "bbox": [
+    115.639091,
+    -33.336094,
+    115.639091,
+    -33.336094
+],
+  "geometry": {"coordinates":[115.63909099999999,-33.336094],"type":"Point"}
 }

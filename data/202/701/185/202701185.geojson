@@ -2,13 +2,14 @@
   "id": 202701185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.071014,-27.351423,153.071014,-27.351423",
     "geom:latitude":-27.351423,
     "geom:longitude":153.071014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Eton Ave",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202701185,
-    "wof:lastmodified":1449062129,
+    "wof:lastmodified":1466188849,
     "wof:name":"Bodal Communications & Design",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [153.071014,-27.351423,153.071014,-27.351423],
-  "geometry": {"coordinates":[153.071014,-27.351423],"type":"Point"}
+  "bbox": [
+    153.071014,
+    -27.351423,
+    153.071014,
+    -27.351423
+],
+  "geometry": {"coordinates":[153.07101399999999,-27.351423],"type":"Point"}
 }

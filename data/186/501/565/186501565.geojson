@@ -2,13 +2,14 @@
   "id": 186501565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.760696,-19.298468,146.760696,-19.298468",
     "geom:latitude":-19.298468,
     "geom:longitude":146.760696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Ross River Rd",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186501565,
-    "wof:lastmodified":1449053052,
+    "wof:lastmodified":1466190528,
     "wof:name":"AMX Money",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financier"
     ]
 },
-  "bbox": [146.760696,-19.298468,146.760696,-19.298468],
+  "bbox": [
+    146.760696,
+    -19.298468,
+    146.760696,
+    -19.298468
+],
   "geometry": {"coordinates":[146.760696,-19.298468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236167669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"137.563736,-33.03371,137.563736,-33.03371",
     "geom:latitude":-33.03371,
     "geom:longitude":137.563736,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Playford Ave",
     "sg:city":"Whyalla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236167669,
-    "wof:lastmodified":1449003348,
+    "wof:lastmodified":1466189676,
     "wof:name":"Whyalla Country Inn Motel",
     "wof:parent_id":85780203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [137.563736,-33.03371,137.563736,-33.03371],
-  "geometry": {"coordinates":[137.563736,-33.03371],"type":"Point"}
+  "bbox": [
+    137.563736,
+    -33.03371,
+    137.563736,
+    -33.03371
+],
+  "geometry": {"coordinates":[137.56373600000001,-33.03371],"type":"Point"}
 }

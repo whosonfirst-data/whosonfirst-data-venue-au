@@ -2,13 +2,14 @@
   "id": 202521219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.176575,-38.090984,145.176575,-38.090984",
     "geom:latitude":-38.090984,
     "geom:longitude":145.176575,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 2 Trafford Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202521219,
-    "wof:lastmodified":1449062521,
+    "wof:lastmodified":1466189755,
     "wof:name":"Elly Horne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trap"
     ]
 },
-  "bbox": [145.176575,-38.090984,145.176575,-38.090984],
-  "geometry": {"coordinates":[145.176575,-38.090984],"type":"Point"}
+  "bbox": [
+    145.176575,
+    -38.090984,
+    145.176575,
+    -38.090984
+],
+  "geometry": {"coordinates":[145.17657500000001,-38.090984],"type":"Point"}
 }

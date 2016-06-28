@@ -2,13 +2,14 @@
   "id": 253206401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.970276,-27.570688,151.970276,-27.570688",
     "geom:latitude":-27.570688,
     "geom:longitude":151.970276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"158 MacKenzie St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253206401,
-    "wof:lastmodified":1449064856,
+    "wof:lastmodified":1466190248,
     "wof:name":"Howard G W & M G",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.970276,-27.570688,151.970276,-27.570688],
-  "geometry": {"coordinates":[151.970276,-27.570688],"type":"Point"}
+  "bbox": [
+    151.970276,
+    -27.570688,
+    151.970276,
+    -27.570688
+],
+  "geometry": {"coordinates":[151.97027600000001,-27.570688],"type":"Point"}
 }

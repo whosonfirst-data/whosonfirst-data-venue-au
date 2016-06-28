@@ -2,13 +2,14 @@
   "id": 236332813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.787956,-32.063038,115.787956,-32.063038",
     "geom:latitude":-32.063038,
     "geom:longitude":115.787956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 2, 364 South St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236332813,
-    "wof:lastmodified":1449003500,
+    "wof:lastmodified":1466190704,
     "wof:name":"Godfreys",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [115.787956,-32.063038,115.787956,-32.063038],
-  "geometry": {"coordinates":[115.787956,-32.063038],"type":"Point"}
+  "bbox": [
+    115.787956,
+    -32.063038,
+    115.787956,
+    -32.063038
+],
+  "geometry": {"coordinates":[115.78795599999999,-32.063038],"type":"Point"}
 }

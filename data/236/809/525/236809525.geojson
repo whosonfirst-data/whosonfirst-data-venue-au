@@ -2,13 +2,14 @@
   "id": 236809525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.887543,-34.483093,150.887543,-34.483093",
     "geom:latitude":-34.483093,
     "geom:longitude":150.887543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 King St",
     "sg:city":"Warrawong",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236809525,
-    "wof:lastmodified":1449004537,
+    "wof:lastmodified":1466191964,
     "wof:name":"Bock S J",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [150.887543,-34.483093,150.887543,-34.483093],
-  "geometry": {"coordinates":[150.887543,-34.483093],"type":"Point"}
+  "bbox": [
+    150.887543,
+    -34.483093,
+    150.887543,
+    -34.483093
+],
+  "geometry": {"coordinates":[150.88754299999999,-34.483093],"type":"Point"}
 }

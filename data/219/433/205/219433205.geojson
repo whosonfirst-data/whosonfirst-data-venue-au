@@ -2,13 +2,14 @@
   "id": 219433205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.754044,-32.441788,115.754044,-32.441788",
     "geom:latitude":-32.441788,
     "geom:longitude":115.754044,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Murdoch Drv",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219433205,
-    "wof:lastmodified":1449070796,
+    "wof:lastmodified":1466188781,
     "wof:name":"Amdaat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internet"
     ]
 },
-  "bbox": [115.754044,-32.441788,115.754044,-32.441788],
-  "geometry": {"coordinates":[115.754044,-32.441788],"type":"Point"}
+  "bbox": [
+    115.754044,
+    -32.441788,
+    115.754044,
+    -32.441788
+],
+  "geometry": {"coordinates":[115.75404399999999,-32.441788],"type":"Point"}
 }

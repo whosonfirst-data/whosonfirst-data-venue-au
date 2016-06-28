@@ -2,13 +2,14 @@
   "id": 236032963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.00827,-32.15239,116.00827,-32.15239",
     "geom:latitude":-32.15239,
     "geom:longitude":116.00827,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 896",
     "sg:city":"Armadale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236032963,
-    "wof:lastmodified":1449003225,
+    "wof:lastmodified":1466187283,
     "wof:name":"A Perth Quality Limousines",
     "wof:parent_id":85770679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "limousine"
     ]
 },
-  "bbox": [116.00827,-32.15239,116.00827,-32.15239],
+  "bbox": [
+    116.00827,
+    -32.15239,
+    116.00827,
+    -32.15239
+],
   "geometry": {"coordinates":[116.00827,-32.15239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236973445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.347107,-37.869041,145.347107,-37.869041",
     "geom:latitude":-37.869041,
     "geom:longitude":145.347107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Hethersett Rd",
     "sg:city":"Sassafras",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236973445,
-    "wof:lastmodified":1449003660,
+    "wof:lastmodified":1466192218,
     "wof:name":"Russell MacAndrew Consulting Pty Ltd",
     "wof:parent_id":85770183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [145.347107,-37.869041,145.347107,-37.869041],
-  "geometry": {"coordinates":[145.347107,-37.869041],"type":"Point"}
+  "bbox": [
+    145.347107,
+    -37.869041,
+    145.347107,
+    -37.869041
+],
+  "geometry": {"coordinates":[145.34710699999999,-37.869041],"type":"Point"}
 }

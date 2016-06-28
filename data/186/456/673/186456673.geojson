@@ -2,13 +2,14 @@
   "id": 186456673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.150726,-33.886299,151.150726,-33.886299",
     "geom:latitude":-33.886299,
     "geom:longitude":151.150726,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Myrtle St",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186456673,
-    "wof:lastmodified":1449051173,
+    "wof:lastmodified":1466190078,
     "wof:name":"Michiel Gerber Architect",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.150726,-33.886299,151.150726,-33.886299],
-  "geometry": {"coordinates":[151.150726,-33.886299],"type":"Point"}
+  "bbox": [
+    151.150726,
+    -33.886299,
+    151.150726,
+    -33.886299
+],
+  "geometry": {"coordinates":[151.15072599999999,-33.886299],"type":"Point"}
 }

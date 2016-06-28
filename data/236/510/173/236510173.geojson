@@ -2,13 +2,14 @@
   "id": 236510173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"119.745621,-21.172188,119.745621,-21.172188",
     "geom:latitude":-21.172188,
     "geom:longitude":119.745621,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Francis St",
     "sg:city":"Marble Bar",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236510173,
-    "wof:lastmodified":1449003673,
+    "wof:lastmodified":1466191310,
     "wof:name":"Ironclad Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [119.745621,-21.172188,119.745621,-21.172188],
+  "bbox": [
+    119.745621,
+    -21.172188,
+    119.745621,
+    -21.172188
+],
   "geometry": {"coordinates":[119.745621,-21.172188],"type":"Point"}
 }

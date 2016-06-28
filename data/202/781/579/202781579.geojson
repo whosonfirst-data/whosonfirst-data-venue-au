@@ -2,13 +2,14 @@
   "id": 202781579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.781967,-32.927032,151.781967,-32.927032",
     "geom:latitude":-32.927032,
     "geom:longitude":151.781967,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 3, 6 Newcomen St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202781579,
-    "wof:lastmodified":1449060585,
+    "wof:lastmodified":1466190023,
     "wof:name":"Pacific Internet",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "internet"
     ]
 },
-  "bbox": [151.781967,-32.927032,151.781967,-32.927032],
-  "geometry": {"coordinates":[151.781967,-32.927032],"type":"Point"}
+  "bbox": [
+    151.781967,
+    -32.927032,
+    151.781967,
+    -32.927032
+],
+  "geometry": {"coordinates":[151.78196700000001,-32.927032],"type":"Point"}
 }

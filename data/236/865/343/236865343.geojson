@@ -2,13 +2,14 @@
   "id": 236865343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.224274,-35.301811,148.224274,-35.301811",
     "geom:latitude":-35.301811,
     "geom:longitude":148.224274,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fuller St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236865343,
-    "wof:lastmodified":1449004272,
+    "wof:lastmodified":1466192063,
     "wof:name":"Bakers Basket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [148.224274,-35.301811,148.224274,-35.301811],
-  "geometry": {"coordinates":[148.224274,-35.301811],"type":"Point"}
+  "bbox": [
+    148.224274,
+    -35.301811,
+    148.224274,
+    -35.301811
+],
+  "geometry": {"coordinates":[148.22427400000001,-35.301811],"type":"Point"}
 }

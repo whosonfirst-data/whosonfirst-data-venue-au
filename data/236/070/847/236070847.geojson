@@ -2,13 +2,14 @@
   "id": 236070847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.745514,-37.700302,144.745514,-37.700302",
     "geom:latitude":-37.700302,
     "geom:longitude":144.745514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Vine Crt",
     "sg:city":"Hillside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236070847,
-    "wof:lastmodified":1449003218,
+    "wof:lastmodified":1466188046,
     "wof:name":"Pa Foley-Consultant",
     "wof:parent_id":85779663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [144.745514,-37.700302,144.745514,-37.700302],
-  "geometry": {"coordinates":[144.745514,-37.700302],"type":"Point"}
+  "bbox": [
+    144.745514,
+    -37.700302,
+    144.745514,
+    -37.700302
+],
+  "geometry": {"coordinates":[144.74551399999999,-37.700302],"type":"Point"}
 }

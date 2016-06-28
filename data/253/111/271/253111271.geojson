@@ -2,13 +2,14 @@
   "id": 253111271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.839844,-37.789295,144.839844,-37.789295",
     "geom:latitude":-37.789295,
     "geom:longitude":144.839844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Monash St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253111271,
-    "wof:lastmodified":1449065896,
+    "wof:lastmodified":1466188964,
     "wof:name":"Sunshine Quality Wash",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.839844,-37.789295,144.839844,-37.789295],
+  "bbox": [
+    144.839844,
+    -37.789295,
+    144.839844,
+    -37.789295
+],
   "geometry": {"coordinates":[144.839844,-37.789295],"type":"Point"}
 }

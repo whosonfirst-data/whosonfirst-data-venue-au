@@ -2,13 +2,14 @@
   "id": 253116163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.843628,-37.765251,144.843628,-37.765251",
     "geom:latitude":-37.765251,
     "geom:longitude":144.843628,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Salisbury St",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253116163,
-    "wof:lastmodified":1449063251,
+    "wof:lastmodified":1466189062,
     "wof:name":"Allfreight Australia Pty Ltd",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.843628,-37.765251,144.843628,-37.765251],
+  "bbox": [
+    144.843628,
+    -37.765251,
+    144.843628,
+    -37.765251
+],
   "geometry": {"coordinates":[144.843628,-37.765251],"type":"Point"}
 }

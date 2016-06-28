@@ -2,13 +2,14 @@
   "id": 219661561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.071533,-33.94273,151.071533,-33.94273",
     "geom:latitude":-33.94273,
     "geom:longitude":151.071533,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Penhurst Rd",
     "sg:city":"Narwee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219661561,
-    "wof:lastmodified":1449073539,
+    "wof:lastmodified":1466191076,
     "wof:name":"Active Kids",
     "wof:parent_id":85774767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.071533,-33.94273,151.071533,-33.94273],
-  "geometry": {"coordinates":[151.071533,-33.94273],"type":"Point"}
+  "bbox": [
+    151.071533,
+    -33.94273,
+    151.071533,
+    -33.94273
+],
+  "geometry": {"coordinates":[151.07153299999999,-33.94273],"type":"Point"}
 }

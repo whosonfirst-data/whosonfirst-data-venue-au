@@ -2,13 +2,14 @@
   "id": 186428747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.808533,-19.275185,146.808533,-19.275185",
     "geom:latitude":-19.275185,
     "geom:longitude":146.808533,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 First Ave",
     "sg:city":"Railway Estate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186428747,
-    "wof:lastmodified":1449052850,
+    "wof:lastmodified":1466189788,
     "wof:name":"Harries Bros. Pty. Ltd.",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "plasterer"
     ]
 },
-  "bbox": [146.808533,-19.275185,146.808533,-19.275185],
-  "geometry": {"coordinates":[146.808533,-19.275185],"type":"Point"}
+  "bbox": [
+    146.808533,
+    -19.275185,
+    146.808533,
+    -19.275185
+],
+  "geometry": {"coordinates":[146.80853300000001,-19.275185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235987421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.745758,-36.955032,140.745758,-36.955032",
     "geom:latitude":-36.955032,
     "geom:longitude":140.745758,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Smith St",
     "sg:city":"Naracoorte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235987421,
-    "wof:lastmodified":1449008434,
+    "wof:lastmodified":1466187563,
     "wof:name":"Moate Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [140.745758,-36.955032,140.745758,-36.955032],
+  "bbox": [
+    140.745758,
+    -36.955032,
+    140.745758,
+    -36.955032
+],
   "geometry": {"coordinates":[140.745758,-36.955032],"type":"Point"}
 }

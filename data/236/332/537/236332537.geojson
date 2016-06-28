@@ -2,13 +2,14 @@
   "id": 236332537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.760101,-32.083965,115.760101,-32.083965",
     "geom:latitude":-32.083965,
     "geom:longitude":115.760101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 7 Garston Way",
     "sg:city":"Hamilton Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236332537,
-    "wof:lastmodified":1449003500,
+    "wof:lastmodified":1466190701,
     "wof:name":"Complete Electrical Services",
     "wof:parent_id":85775721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.760101,-32.083965,115.760101,-32.083965],
-  "geometry": {"coordinates":[115.760101,-32.083965],"type":"Point"}
+  "bbox": [
+    115.760101,
+    -32.083965,
+    115.760101,
+    -32.083965
+],
+  "geometry": {"coordinates":[115.76010100000001,-32.083965],"type":"Point"}
 }

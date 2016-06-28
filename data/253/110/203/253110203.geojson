@@ -2,13 +2,14 @@
   "id": 253110203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.835052,-37.76178,144.835052,-37.76178",
     "geom:latitude":-37.76178,
     "geom:longitude":144.835052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Arvona Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253110203,
-    "wof:lastmodified":1449063798,
+    "wof:lastmodified":1466188941,
     "wof:name":"Perma Rubber Products Pty Ltd",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [144.835052,-37.76178,144.835052,-37.76178],
-  "geometry": {"coordinates":[144.835052,-37.76178],"type":"Point"}
+  "bbox": [
+    144.835052,
+    -37.76178,
+    144.835052,
+    -37.76178
+],
+  "geometry": {"coordinates":[144.83505199999999,-37.76178],"type":"Point"}
 }

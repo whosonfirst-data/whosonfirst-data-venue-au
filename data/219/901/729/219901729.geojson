@@ -2,13 +2,14 @@
   "id": 219901729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.87941,-34.387615,150.87941,-34.387615",
     "geom:latitude":-34.387615,
     "geom:longitude":150.87941,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Farrell St",
     "sg:city":"Balgownie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219901729,
-    "wof:lastmodified":1449071864,
+    "wof:lastmodified":1466191690,
     "wof:name":"Kindy Korner Pre-School",
     "wof:parent_id":85768745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [150.87941,-34.387615,150.87941,-34.387615],
-  "geometry": {"coordinates":[150.87941,-34.387615],"type":"Point"}
+  "bbox": [
+    150.87941,
+    -34.387615,
+    150.87941,
+    -34.387615
+],
+  "geometry": {"coordinates":[150.87941000000001,-34.387615],"type":"Point"}
 }

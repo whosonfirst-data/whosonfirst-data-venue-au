@@ -2,13 +2,14 @@
   "id": 186383657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.15361,-33.848885,151.15361,-33.848885",
     "geom:latitude":-33.848885,
     "geom:longitude":151.15361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Wrights Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186383657,
-    "wof:lastmodified":1449051511,
+    "wof:lastmodified":1466189068,
     "wof:name":"Workstation Relocation P/L",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [151.15361,-33.848885,151.15361,-33.848885],
-  "geometry": {"coordinates":[151.15361,-33.848885],"type":"Point"}
+  "bbox": [
+    151.15361,
+    -33.848885,
+    151.15361,
+    -33.848885
+],
+  "geometry": {"coordinates":[151.15360999999999,-33.848885],"type":"Point"}
 }

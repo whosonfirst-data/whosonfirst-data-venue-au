@@ -2,13 +2,14 @@
   "id": 202895539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.187805,-30.110235,153.187805,-30.110235",
     "geom:latitude":-30.110235,
     "geom:longitude":153.187805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Dalgety St",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202895539,
-    "wof:lastmodified":1449061192,
+    "wof:lastmodified":1466190640,
     "wof:name":"Airflow Pacific Radiators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [153.187805,-30.110235,153.187805,-30.110235],
+  "bbox": [
+    153.187805,
+    -30.110235,
+    153.187805,
+    -30.110235
+],
   "geometry": {"coordinates":[153.187805,-30.110235],"type":"Point"}
 }

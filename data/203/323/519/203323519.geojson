@@ -2,13 +2,14 @@
   "id": 203323519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.822449,-37.589993,143.822449,-37.589993",
     "geom:latitude":-37.589993,
     "geom:longitude":143.822449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Beaumont Drv",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203323519,
-    "wof:lastmodified":1449025098,
+    "wof:lastmodified":1466188309,
     "wof:name":"Matthews Mal Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [143.822449,-37.589993,143.822449,-37.589993],
-  "geometry": {"coordinates":[143.822449,-37.589993],"type":"Point"}
+  "bbox": [
+    143.822449,
+    -37.589993,
+    143.822449,
+    -37.589993
+],
+  "geometry": {"coordinates":[143.82244900000001,-37.589993],"type":"Point"}
 }

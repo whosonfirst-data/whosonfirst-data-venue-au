@@ -2,13 +2,14 @@
   "id": 252731825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.63623,-33.327881,115.63623,-33.327881",
     "geom:latitude":-33.327881,
     "geom:longitude":115.63623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, 2 Jetty Rd",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252731825,
-    "wof:lastmodified":1449006389,
+    "wof:lastmodified":1466187295,
     "wof:name":"South West Financial Management",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.63623,-33.327881,115.63623,-33.327881],
+  "bbox": [
+    115.63623,
+    -33.327881,
+    115.63623,
+    -33.327881
+],
   "geometry": {"coordinates":[115.63623,-33.327881],"type":"Point"}
 }

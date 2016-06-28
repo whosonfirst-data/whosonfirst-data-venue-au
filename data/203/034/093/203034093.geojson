@@ -2,13 +2,14 @@
   "id": 203034093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.151031,-37.671089,145.151031,-37.671089",
     "geom:latitude":-37.671089,
     "geom:longitude":145.151031,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Clyde St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203034093,
-    "wof:lastmodified":1449025150,
+    "wof:lastmodified":1466187889,
     "wof:name":"Russo Rosalie",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [145.151031,-37.671089,145.151031,-37.671089],
-  "geometry": {"coordinates":[145.151031,-37.671089],"type":"Point"}
+  "bbox": [
+    145.151031,
+    -37.671089,
+    145.151031,
+    -37.671089
+],
+  "geometry": {"coordinates":[145.15103099999999,-37.671089],"type":"Point"}
 }

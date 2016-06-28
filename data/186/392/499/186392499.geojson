@@ -2,13 +2,14 @@
   "id": 186392499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.754974,-19.262215,146.754974,-19.262215",
     "geom:latitude":-19.262215,
     "geom:longitude":146.754974,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Ingham Rd",
     "sg:city":"West End (Townsville)",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186392499,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466189198,
     "wof:name":"Townsville Inner City Storage",
     "wof:parent_id":85779599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.754974,-19.262215,146.754974,-19.262215],
+  "bbox": [
+    146.754974,
+    -19.262215,
+    146.754974,
+    -19.262215
+],
   "geometry": {"coordinates":[146.754974,-19.262215],"type":"Point"}
 }

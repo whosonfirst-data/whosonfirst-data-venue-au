@@ -2,13 +2,14 @@
   "id": 202688719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.952209,-27.353264,152.952209,-27.353264",
     "geom:latitude":-27.353264,
     "geom:longitude":152.952209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Cressbrook Drv",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202688719,
-    "wof:lastmodified":1449061057,
+    "wof:lastmodified":1466188616,
     "wof:name":"Total Shade Solutions",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shade"
     ]
 },
-  "bbox": [152.952209,-27.353264,152.952209,-27.353264],
-  "geometry": {"coordinates":[152.952209,-27.353264],"type":"Point"}
+  "bbox": [
+    152.952209,
+    -27.353264,
+    152.952209,
+    -27.353264
+],
+  "geometry": {"coordinates":[152.95220900000001,-27.353264],"type":"Point"}
 }

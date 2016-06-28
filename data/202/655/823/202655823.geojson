@@ -2,13 +2,14 @@
   "id": 202655823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.030975,-27.439192,153.030975,-27.439192",
     "geom:latitude":-27.439192,
     "geom:longitude":153.030975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Lutwyche Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202655823,
-    "wof:lastmodified":1449061563,
+    "wof:lastmodified":1466187993,
     "wof:name":"Collins Car Care Centre",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [153.030975,-27.439192,153.030975,-27.439192],
-  "geometry": {"coordinates":[153.030975,-27.439192],"type":"Point"}
+  "bbox": [
+    153.030975,
+    -27.439192,
+    153.030975,
+    -27.439192
+],
+  "geometry": {"coordinates":[153.03097500000001,-27.439192],"type":"Point"}
 }

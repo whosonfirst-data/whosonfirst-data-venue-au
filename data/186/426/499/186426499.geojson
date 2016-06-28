@@ -2,13 +2,14 @@
   "id": 186426499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.804016,-19.242212,146.804016,-19.242212",
     "geom:latitude":-19.242212,
     "geom:longitude":146.804016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Eyre St",
     "sg:city":"North Ward",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186426499,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466189749,
     "wof:name":"Fitch Fuel Catalyst QLD",
     "wof:parent_id":85779935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "additive"
     ]
 },
-  "bbox": [146.804016,-19.242212,146.804016,-19.242212],
-  "geometry": {"coordinates":[146.804016,-19.242212],"type":"Point"}
+  "bbox": [
+    146.804016,
+    -19.242212,
+    146.804016,
+    -19.242212
+],
+  "geometry": {"coordinates":[146.80401599999999,-19.242212],"type":"Point"}
 }

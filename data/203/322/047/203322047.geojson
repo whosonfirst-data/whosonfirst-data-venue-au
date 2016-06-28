@@ -2,13 +2,14 @@
   "id": 203322047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.814926,-37.588787,143.814926,-37.588787",
     "geom:latitude":-37.588787,
     "geom:longitude":143.814926,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Smythes Rd",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203322047,
-    "wof:lastmodified":1449024925,
+    "wof:lastmodified":1466188291,
     "wof:name":"Baker, NJ & LM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [143.814926,-37.588787,143.814926,-37.588787],
-  "geometry": {"coordinates":[143.814926,-37.588787],"type":"Point"}
+  "bbox": [
+    143.814926,
+    -37.588787,
+    143.814926,
+    -37.588787
+],
+  "geometry": {"coordinates":[143.81492600000001,-37.588787],"type":"Point"}
 }

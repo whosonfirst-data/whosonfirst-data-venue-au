@@ -2,13 +2,14 @@
   "id": 202764827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.783157,-32.92725,151.783157,-32.92725",
     "geom:latitude":-32.92725,
     "geom:longitude":151.783157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Bolton St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202764827,
-    "wof:lastmodified":1449062528,
+    "wof:lastmodified":1466189935,
     "wof:name":"Newcastle Skin Cancer Clinic",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.783157,-32.92725,151.783157,-32.92725],
-  "geometry": {"coordinates":[151.783157,-32.92725],"type":"Point"}
+  "bbox": [
+    151.783157,
+    -32.92725,
+    151.783157,
+    -32.92725
+],
+  "geometry": {"coordinates":[151.78315699999999,-32.92725],"type":"Point"}
 }

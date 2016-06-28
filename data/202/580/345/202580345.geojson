@@ -2,13 +2,14 @@
   "id": 202580345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.439484,-37.687012,144.439484,-37.687012",
     "geom:latitude":-37.687012,
     "geom:longitude":144.439484,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Reddrop St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202580345,
-    "wof:lastmodified":1449061800,
+    "wof:lastmodified":1466187128,
     "wof:name":"Bacchus Marsh Food Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [144.439484,-37.687012,144.439484,-37.687012],
-  "geometry": {"coordinates":[144.439484,-37.687012],"type":"Point"}
+  "bbox": [
+    144.439484,
+    -37.687012,
+    144.439484,
+    -37.687012
+],
+  "geometry": {"coordinates":[144.43948399999999,-37.687012],"type":"Point"}
 }

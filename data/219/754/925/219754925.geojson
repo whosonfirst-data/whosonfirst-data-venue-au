@@ -2,13 +2,14 @@
   "id": 219754925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.618042,-32.599854,151.618042,-32.599854",
     "geom:latitude":-32.599854,
     "geom:longitude":151.618042,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Duke St",
     "sg:city":"Paterson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219754925,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466191273,
     "wof:name":"Paterson Fruit Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesale"
     ]
 },
-  "bbox": [151.618042,-32.599854,151.618042,-32.599854],
+  "bbox": [
+    151.618042,
+    -32.599854,
+    151.618042,
+    -32.599854
+],
   "geometry": {"coordinates":[151.618042,-32.599854],"type":"Point"}
 }

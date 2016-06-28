@@ -2,13 +2,14 @@
   "id": 186341789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.298187,-33.71933,151.298187,-33.71933",
     "geom:latitude":-33.71933,
     "geom:longitude":151.298187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Pittwater Rd",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186341789,
-    "wof:lastmodified":1449052919,
+    "wof:lastmodified":1466188297,
     "wof:name":"Setup Complete",
     "wof:parent_id":85769849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [151.298187,-33.71933,151.298187,-33.71933],
-  "geometry": {"coordinates":[151.298187,-33.71933],"type":"Point"}
+  "bbox": [
+    151.298187,
+    -33.71933,
+    151.298187,
+    -33.71933
+],
+  "geometry": {"coordinates":[151.29818700000001,-33.71933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202915583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.109283,-30.276606,153.109283,-30.276606",
     "geom:latitude":-30.276606,
     "geom:longitude":153.109283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1273",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202915583,
-    "wof:lastmodified":1449062612,
+    "wof:lastmodified":1466190640,
     "wof:name":"Peak Performance Technology",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.109283,-30.276606,153.109283,-30.276606],
+  "bbox": [
+    153.109283,
+    -30.276606,
+    153.109283,
+    -30.276606
+],
   "geometry": {"coordinates":[153.109283,-30.276606],"type":"Point"}
 }

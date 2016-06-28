@@ -2,13 +2,14 @@
   "id": 253116503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.829117,-37.804928,144.829117,-37.804928",
     "geom:latitude":-37.804928,
     "geom:longitude":144.829117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 42- 46 Vella Drv",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253116503,
-    "wof:lastmodified":1449063251,
+    "wof:lastmodified":1466189069,
     "wof:name":"Boddingtons Underground Warning Tapes",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [144.829117,-37.804928,144.829117,-37.804928],
+  "bbox": [
+    144.829117,
+    -37.804928,
+    144.829117,
+    -37.804928
+],
   "geometry": {"coordinates":[144.829117,-37.804928],"type":"Point"}
 }

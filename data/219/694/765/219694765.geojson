@@ -2,13 +2,14 @@
   "id": 219694765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.514282,-32.195145,152.514282,-32.195145",
     "geom:latitude":-32.195145,
     "geom:longitude":152.514282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Toby St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":219694765,
-    "wof:lastmodified":1449071401,
+    "wof:lastmodified":1466191144,
     "wof:name":"Forster Podiatry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [152.514282,-32.195145,152.514282,-32.195145],
-  "geometry": {"coordinates":[152.514282,-32.195145],"type":"Point"}
+  "bbox": [
+    152.514282,
+    -32.195145,
+    152.514282,
+    -32.195145
+],
+  "geometry": {"coordinates":[152.51428200000001,-32.195145],"type":"Point"}
 }

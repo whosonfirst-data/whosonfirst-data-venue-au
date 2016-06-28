@@ -2,13 +2,14 @@
   "id": 185666833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.769562,-32.040649,115.769562,-32.040649",
     "geom:latitude":-32.040649,
     "geom:longitude":115.769562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Allen St",
     "sg:city":"East Fremantle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185666833,
-    "wof:lastmodified":1449007186,
+    "wof:lastmodified":1466188566,
     "wof:name":"Happenings Events Management Pty Ltd",
     "wof:parent_id":85769215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [115.769562,-32.040649,115.769562,-32.040649],
-  "geometry": {"coordinates":[115.769562,-32.040649],"type":"Point"}
+  "bbox": [
+    115.769562,
+    -32.040649,
+    115.769562,
+    -32.040649
+],
+  "geometry": {"coordinates":[115.76956199999999,-32.040649],"type":"Point"}
 }

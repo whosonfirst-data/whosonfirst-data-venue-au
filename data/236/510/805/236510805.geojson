@@ -2,13 +2,14 @@
   "id": 236510805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.16568,-32.57177,151.16568,-32.57177",
     "geom:latitude":-32.57177,
     "geom:longitude":151.16568,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Munro & Lesley Sts",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236510805,
-    "wof:lastmodified":1449003672,
+    "wof:lastmodified":1466191317,
     "wof:name":"Goodyear Auto Service Centre",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brake"
     ]
 },
-  "bbox": [151.16568,-32.57177,151.16568,-32.57177],
-  "geometry": {"coordinates":[151.16568,-32.57177],"type":"Point"}
+  "bbox": [
+    151.16568,
+    -32.57177,
+    151.16568,
+    -32.57177
+],
+  "geometry": {"coordinates":[151.16568000000001,-32.57177],"type":"Point"}
 }

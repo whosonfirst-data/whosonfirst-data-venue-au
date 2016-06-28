@@ -2,13 +2,14 @@
   "id": 203315559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.828796,-37.572372,143.828796,-37.572372",
     "geom:latitude":-37.572372,
     "geom:longitude":143.828796,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Sutton St & Laidlaw Dr",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203315559,
-    "wof:lastmodified":1449026772,
+    "wof:lastmodified":1466188201,
     "wof:name":"Arena Temporary Fencing",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.828796,-37.572372,143.828796,-37.572372],
-  "geometry": {"coordinates":[143.828796,-37.572372],"type":"Point"}
+  "bbox": [
+    143.828796,
+    -37.572372,
+    143.828796,
+    -37.572372
+],
+  "geometry": {"coordinates":[143.82879600000001,-37.572372],"type":"Point"}
 }

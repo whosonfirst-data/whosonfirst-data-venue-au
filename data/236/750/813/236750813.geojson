@@ -2,13 +2,14 @@
   "id": 236750813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051468,-27.128786,153.051468,-27.128786",
     "geom:latitude":-27.128786,
     "geom:longitude":153.051468,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"870- 872 Beachmere Rd",
     "sg:city":"Beachmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236750813,
-    "wof:lastmodified":1449003683,
+    "wof:lastmodified":1466191898,
     "wof:name":"Beachmere Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.051468,-27.128786,153.051468,-27.128786],
+  "bbox": [
+    153.051468,
+    -27.128786,
+    153.051468,
+    -27.128786
+],
   "geometry": {"coordinates":[153.051468,-27.128786],"type":"Point"}
 }

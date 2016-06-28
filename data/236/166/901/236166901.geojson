@@ -2,13 +2,14 @@
   "id": 236166901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"137.564087,-33.033955,137.564087,-33.033955",
     "geom:latitude":-33.033955,
     "geom:longitude":137.564087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Playford Ave",
     "sg:city":"Whyalla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236166901,
-    "wof:lastmodified":1449003508,
+    "wof:lastmodified":1466189663,
     "wof:name":"Playford Apartments",
     "wof:parent_id":85780203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [137.564087,-33.033955,137.564087,-33.033955],
+  "bbox": [
+    137.564087,
+    -33.033955,
+    137.564087,
+    -33.033955
+],
   "geometry": {"coordinates":[137.564087,-33.033955],"type":"Point"}
 }

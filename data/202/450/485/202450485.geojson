@@ -2,13 +2,14 @@
   "id": 202450485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.963089,-37.829906,144.963089,-37.829906",
     "geom:latitude":-37.829906,
     "geom:longitude":144.963089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Tope St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202450485,
-    "wof:lastmodified":1449062272,
+    "wof:lastmodified":1466188783,
     "wof:name":"Bay Building Services",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.963089,-37.829906,144.963089,-37.829906],
+  "bbox": [
+    144.963089,
+    -37.829906,
+    144.963089,
+    -37.829906
+],
   "geometry": {"coordinates":[144.963089,-37.829906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186415373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.813492,-19.262209,146.813492,-19.262209",
     "geom:latitude":-19.262209,
     "geom:longitude":146.813492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3/ 266 Sturt St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186415373,
-    "wof:lastmodified":1449052289,
+    "wof:lastmodified":1466189565,
     "wof:name":"Trent Johnston",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.813492,-19.262209,146.813492,-19.262209],
+  "bbox": [
+    146.813492,
+    -19.262209,
+    146.813492,
+    -19.262209
+],
   "geometry": {"coordinates":[146.813492,-19.262209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203253839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.008514,-33.382999,148.008514,-33.382999",
     "geom:latitude":-33.382999,
     "geom:longitude":148.008514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rankin St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203253839,
-    "wof:lastmodified":1449026629,
+    "wof:lastmodified":1466187603,
     "wof:name":"Commercial Hotel Forbes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [148.008514,-33.382999,148.008514,-33.382999],
-  "geometry": {"coordinates":[148.008514,-33.382999],"type":"Point"}
+  "bbox": [
+    148.008514,
+    -33.382999,
+    148.008514,
+    -33.382999
+],
+  "geometry": {"coordinates":[148.00851399999999,-33.382999],"type":"Point"}
 }

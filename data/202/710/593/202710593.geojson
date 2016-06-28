@@ -2,13 +2,14 @@
   "id": 202710593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051987,-27.366133,153.051987,-27.366133",
     "geom:latitude":-27.366133,
     "geom:longitude":153.051987,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U3/ 94 Delta St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202710593,
-    "wof:lastmodified":1449060265,
+    "wof:lastmodified":1466189035,
     "wof:name":"Vertical Horizonz Australia",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [153.051987,-27.366133,153.051987,-27.366133],
+  "bbox": [
+    153.051987,
+    -27.366133,
+    153.051987,
+    -27.366133
+],
   "geometry": {"coordinates":[153.051987,-27.366133],"type":"Point"}
 }

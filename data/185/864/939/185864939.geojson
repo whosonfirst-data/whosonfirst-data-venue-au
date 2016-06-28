@@ -2,13 +2,14 @@
   "id": 185864939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.839996,-25.281773,152.839996,-25.281773",
     "geom:latitude":-25.281773,
     "geom:longitude":152.839996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Torquay Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185864939,
-    "wof:lastmodified":1449008230,
+    "wof:lastmodified":1466187512,
     "wof:name":"Pialba Health Foods",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [152.839996,-25.281773,152.839996,-25.281773],
-  "geometry": {"coordinates":[152.839996,-25.281773],"type":"Point"}
+  "bbox": [
+    152.839996,
+    -25.281773,
+    152.839996,
+    -25.281773
+],
+  "geometry": {"coordinates":[152.83999600000001,-25.281773],"type":"Point"}
 }

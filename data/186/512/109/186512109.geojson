@@ -2,13 +2,14 @@
   "id": 186512109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.765823,-19.265568,146.765823,-19.265568",
     "geom:latitude":-19.265568,
     "geom:longitude":146.765823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Gurney St",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186512109,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466190739,
     "wof:name":"David Lewis Spray Painting & Panel Beating",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "panel"
     ]
 },
-  "bbox": [146.765823,-19.265568,146.765823,-19.265568],
-  "geometry": {"coordinates":[146.765823,-19.265568],"type":"Point"}
+  "bbox": [
+    146.765823,
+    -19.265568,
+    146.765823,
+    -19.265568
+],
+  "geometry": {"coordinates":[146.76582300000001,-19.265568],"type":"Point"}
 }

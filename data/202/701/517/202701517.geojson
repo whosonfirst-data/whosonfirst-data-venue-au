@@ -2,13 +2,14 @@
   "id": 202701517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.059296,-27.341635,153.059296,-27.341635",
     "geom:latitude":-27.341635,
     "geom:longitude":153.059296,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2294 Sandgate Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202701517,
-    "wof:lastmodified":1449062131,
+    "wof:lastmodified":1466188855,
     "wof:name":"Northside Marine",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [153.059296,-27.341635,153.059296,-27.341635],
-  "geometry": {"coordinates":[153.059296,-27.341635],"type":"Point"}
+  "bbox": [
+    153.059296,
+    -27.341635,
+    153.059296,
+    -27.341635
+],
+  "geometry": {"coordinates":[153.05929599999999,-27.341635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203342253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.856094,-37.563629,143.856094,-37.563629",
     "geom:latitude":-37.563629,
     "geom:longitude":143.856094,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Armstrong St South",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203342253,
-    "wof:lastmodified":1449026741,
+    "wof:lastmodified":1466188539,
     "wof:name":"Lifestyle Travel Ballarat",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [143.856094,-37.563629,143.856094,-37.563629],
-  "geometry": {"coordinates":[143.856094,-37.563629],"type":"Point"}
+  "bbox": [
+    143.856094,
+    -37.563629,
+    143.856094,
+    -37.563629
+],
+  "geometry": {"coordinates":[143.85609400000001,-37.563629],"type":"Point"}
 }

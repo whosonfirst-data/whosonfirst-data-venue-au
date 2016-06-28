@@ -2,13 +2,14 @@
   "id": 169769977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.72847,-38.632534,145.72847,-38.632534",
     "geom:latitude":-38.632534,
     "geom:longitude":145.72847,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Reilly St",
     "sg:city":"Inverloch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169769977,
-    "wof:lastmodified":1449033786,
+    "wof:lastmodified":1466188230,
     "wof:name":"Leongatha Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.72847,-38.632534,145.72847,-38.632534],
-  "geometry": {"coordinates":[145.72847,-38.632534],"type":"Point"}
+  "bbox": [
+    145.72847,
+    -38.632534,
+    145.72847,
+    -38.632534
+],
+  "geometry": {"coordinates":[145.72846999999999,-38.632534],"type":"Point"}
 }

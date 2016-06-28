@@ -2,13 +2,14 @@
   "id": 219772645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179291,-33.910023,151.179291,-33.910023",
     "geom:latitude":-33.910023,
     "geom:longitude":151.179291,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15-17 Hutchinson St",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219772645,
-    "wof:lastmodified":1449071980,
+    "wof:lastmodified":1466191301,
     "wof:name":"Screenhaus Yardage",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [151.179291,-33.910023,151.179291,-33.910023],
-  "geometry": {"coordinates":[151.179291,-33.910023],"type":"Point"}
+  "bbox": [
+    151.179291,
+    -33.910023,
+    151.179291,
+    -33.910023
+],
+  "geometry": {"coordinates":[151.17929100000001,-33.910023],"type":"Point"}
 }

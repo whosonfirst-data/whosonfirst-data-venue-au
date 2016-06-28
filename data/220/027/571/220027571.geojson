@@ -2,13 +2,14 @@
   "id": 220027571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.60704,-35.018764,138.60704,-35.018764",
     "geom:latitude":-35.018764,
     "geom:longitude":138.60704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Shephards Hill Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220027571,
-    "wof:lastmodified":1449074189,
+    "wof:lastmodified":1466187271,
     "wof:name":"Lesley Cox School of Dance",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tuition"
     ]
 },
-  "bbox": [138.60704,-35.018764,138.60704,-35.018764],
-  "geometry": {"coordinates":[138.60704,-35.018764],"type":"Point"}
+  "bbox": [
+    138.60704,
+    -35.018764,
+    138.60704,
+    -35.018764
+],
+  "geometry": {"coordinates":[138.60704000000001,-35.018764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253174191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.948944,-27.563671,151.948944,-27.563671",
     "geom:latitude":-27.563671,
     "geom:longitude":151.948944,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Dent St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253174191,
-    "wof:lastmodified":1449063221,
+    "wof:lastmodified":1466190041,
     "wof:name":"Pack & Send",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [151.948944,-27.563671,151.948944,-27.563671],
-  "geometry": {"coordinates":[151.948944,-27.563671],"type":"Point"}
+  "bbox": [
+    151.948944,
+    -27.563671,
+    151.948944,
+    -27.563671
+],
+  "geometry": {"coordinates":[151.94894400000001,-27.563671],"type":"Point"}
 }

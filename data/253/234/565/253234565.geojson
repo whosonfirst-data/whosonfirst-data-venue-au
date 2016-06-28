@@ -2,13 +2,14 @@
   "id": 253234565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.949387,-27.566877,151.949387,-27.566877",
     "geom:latitude":-27.566877,
     "geom:longitude":151.949387,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Water St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253234565,
-    "wof:lastmodified":1449065639,
+    "wof:lastmodified":1466190432,
     "wof:name":"Marshall Batteries",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automotive"
     ]
 },
-  "bbox": [151.949387,-27.566877,151.949387,-27.566877],
+  "bbox": [
+    151.949387,
+    -27.566877,
+    151.949387,
+    -27.566877
+],
   "geometry": {"coordinates":[151.949387,-27.566877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202695367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.058624,-27.348475,153.058624,-27.348475",
     "geom:latitude":-27.348475,
     "geom:longitude":153.058624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Roscommon Rd",
     "sg:city":"Boondall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202695367,
-    "wof:lastmodified":1449061072,
+    "wof:lastmodified":1466188736,
     "wof:name":"Tired & Tatty Cushion Recovery",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [153.058624,-27.348475,153.058624,-27.348475],
-  "geometry": {"coordinates":[153.058624,-27.348475],"type":"Point"}
+  "bbox": [
+    153.058624,
+    -27.348475,
+    153.058624,
+    -27.348475
+],
+  "geometry": {"coordinates":[153.05862400000001,-27.348475],"type":"Point"}
 }

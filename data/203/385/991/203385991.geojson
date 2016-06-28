@@ -2,13 +2,14 @@
   "id": 203385991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.853165,-37.563244,143.853165,-37.563244",
     "geom:latitude":-37.563244,
     "geom:longitude":143.853165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Dawson House, 15 Dawson St (Sth)",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203385991,
-    "wof:lastmodified":1449026074,
+    "wof:lastmodified":1466189304,
     "wof:name":"property portfolio management",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [143.853165,-37.563244,143.853165,-37.563244],
-  "geometry": {"coordinates":[143.853165,-37.563244],"type":"Point"}
+  "bbox": [
+    143.853165,
+    -37.563244,
+    143.853165,
+    -37.563244
+],
+  "geometry": {"coordinates":[143.85316499999999,-37.563244],"type":"Point"}
 }

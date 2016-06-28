@@ -2,13 +2,14 @@
   "id": 203381787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.863037,-37.560444,143.863037,-37.560444",
     "geom:latitude":-37.560444,
     "geom:longitude":143.863037,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203381787,
-    "wof:lastmodified":1449025088,
+    "wof:lastmodified":1466189229,
     "wof:name":"Peerless JAL Pty. Ltd.",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [143.863037,-37.560444,143.863037,-37.560444],
-  "geometry": {"coordinates":[143.863037,-37.560444],"type":"Point"}
+  "bbox": [
+    143.863037,
+    -37.560444,
+    143.863037,
+    -37.560444
+],
+  "geometry": {"coordinates":[143.86303699999999,-37.560444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203000789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.496613,-20.725933,139.496613,-20.725933",
     "geom:latitude":-20.725933,
     "geom:longitude":139.496613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Marian St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203000789,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466186957,
     "wof:name":"Isa Muffler Shop",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [139.496613,-20.725933,139.496613,-20.725933],
+  "bbox": [
+    139.496613,
+    -20.725933,
+    139.496613,
+    -20.725933
+],
   "geometry": {"coordinates":[139.496613,-20.725933],"type":"Point"}
 }

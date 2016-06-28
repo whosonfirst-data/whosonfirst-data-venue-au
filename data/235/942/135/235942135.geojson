@@ -2,13 +2,14 @@
   "id": 235942135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.975082,-33.357639,149.975082,-33.357639",
     "geom:latitude":-33.357639,
     "geom:longitude":149.975082,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Park St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235942135,
-    "wof:lastmodified":1449008405,
+    "wof:lastmodified":1466186996,
     "wof:name":"Taylor D J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trimmer"
     ]
 },
-  "bbox": [149.975082,-33.357639,149.975082,-33.357639],
-  "geometry": {"coordinates":[149.975082,-33.357639],"type":"Point"}
+  "bbox": [
+    149.975082,
+    -33.357639,
+    149.975082,
+    -33.357639
+],
+  "geometry": {"coordinates":[149.97508199999999,-33.357639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185681095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.550293,-22.595299,144.550293,-22.595299",
     "geom:latitude":-22.595299,
     "geom:longitude":144.550293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Klugh St",
     "sg:city":"Muttaburra",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185681095,
-    "wof:lastmodified":1449007599,
+    "wof:lastmodified":1466188793,
     "wof:name":"J & H Shearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.550293,-22.595299,144.550293,-22.595299],
-  "geometry": {"coordinates":[144.550293,-22.595299],"type":"Point"}
+  "bbox": [
+    144.550293,
+    -22.595299,
+    144.550293,
+    -22.595299
+],
+  "geometry": {"coordinates":[144.55029300000001,-22.595299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220126895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.423172,-38.17894,144.423172,-38.17894",
     "geom:latitude":-38.17894,
     "geom:longitude":144.423172,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Bellarine Hwy",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220126895,
-    "wof:lastmodified":1449074328,
+    "wof:lastmodified":1466188218,
     "wof:name":"Anything & Roses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [144.423172,-38.17894,144.423172,-38.17894],
-  "geometry": {"coordinates":[144.423172,-38.17894],"type":"Point"}
+  "bbox": [
+    144.423172,
+    -38.17894,
+    144.423172,
+    -38.17894
+],
+  "geometry": {"coordinates":[144.42317199999999,-38.17894],"type":"Point"}
 }

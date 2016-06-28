@@ -2,13 +2,14 @@
   "id": 236514299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.177704,-32.540016,151.177704,-32.540016",
     "geom:latitude":-32.540016,
     "geom:longitude":151.177704,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Nelson Drv",
     "sg:city":"Hunterview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236514299,
-    "wof:lastmodified":1449003282,
+    "wof:lastmodified":1466191351,
     "wof:name":"Ainslies Wedding & Event Hire",
     "wof:parent_id":85779679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [151.177704,-32.540016,151.177704,-32.540016],
-  "geometry": {"coordinates":[151.177704,-32.540016],"type":"Point"}
+  "bbox": [
+    151.177704,
+    -32.540016,
+    151.177704,
+    -32.540016
+],
+  "geometry": {"coordinates":[151.17770400000001,-32.540016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219605507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.157242,-33.911076,151.157242,-33.911076",
     "geom:latitude":-33.911076,
     "geom:longitude":151.157242,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Marrickville Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219605507,
-    "wof:lastmodified":1449072111,
+    "wof:lastmodified":1466190853,
     "wof:name":"Cash Stop",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financier"
     ]
 },
-  "bbox": [151.157242,-33.911076,151.157242,-33.911076],
+  "bbox": [
+    151.157242,
+    -33.911076,
+    151.157242,
+    -33.911076
+],
   "geometry": {"coordinates":[151.157242,-33.911076],"type":"Point"}
 }

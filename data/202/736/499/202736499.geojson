@@ -2,13 +2,14 @@
   "id": 202736499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.040543,-22.389561,143.040543,-22.389561",
     "geom:latitude":-22.389561,
     "geom:longitude":143.040543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Vindex St",
     "sg:city":"Winton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202736499,
-    "wof:lastmodified":1449062605,
+    "wof:lastmodified":1466189497,
     "wof:name":"Russell P W & V J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.040543,-22.389561,143.040543,-22.389561],
-  "geometry": {"coordinates":[143.040543,-22.389561],"type":"Point"}
+  "bbox": [
+    143.040543,
+    -22.389561,
+    143.040543,
+    -22.389561
+],
+  "geometry": {"coordinates":[143.04054300000001,-22.389561],"type":"Point"}
 }

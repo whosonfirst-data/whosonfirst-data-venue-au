@@ -2,13 +2,14 @@
   "id": 253215893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951675,-27.569954,151.951675,-27.569954",
     "geom:latitude":-27.569954,
     "geom:longitude":151.951675,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"647 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253215893,
-    "wof:lastmodified":1449065252,
+    "wof:lastmodified":1466190217,
     "wof:name":"The Xerox Shop",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plan"
     ]
 },
-  "bbox": [151.951675,-27.569954,151.951675,-27.569954],
-  "geometry": {"coordinates":[151.951675,-27.569954],"type":"Point"}
+  "bbox": [
+    151.951675,
+    -27.569954,
+    151.951675,
+    -27.569954
+],
+  "geometry": {"coordinates":[151.95167499999999,-27.569954],"type":"Point"}
 }

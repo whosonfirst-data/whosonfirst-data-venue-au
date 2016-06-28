@@ -2,13 +2,14 @@
   "id": 203360595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.818405,-37.570831,143.818405,-37.570831",
     "geom:latitude":-37.570831,
     "geom:longitude":143.818405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Latrobe St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203360595,
-    "wof:lastmodified":1449026402,
+    "wof:lastmodified":1466188864,
     "wof:name":"Cattle Yards Inn",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.818405,-37.570831,143.818405,-37.570831],
-  "geometry": {"coordinates":[143.818405,-37.570831],"type":"Point"}
+  "bbox": [
+    143.818405,
+    -37.570831,
+    143.818405,
+    -37.570831
+],
+  "geometry": {"coordinates":[143.81840500000001,-37.570831],"type":"Point"}
 }

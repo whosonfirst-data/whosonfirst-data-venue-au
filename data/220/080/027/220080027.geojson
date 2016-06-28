@@ -2,13 +2,14 @@
   "id": 220080027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.126175,-40.840725,145.126175,-40.840725",
     "geom:latitude":-40.840725,
     "geom:longitude":145.126175,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65a Emmett St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220080027,
-    "wof:lastmodified":1449074854,
+    "wof:lastmodified":1466187755,
     "wof:name":"Glamorize",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [145.126175,-40.840725,145.126175,-40.840725],
-  "geometry": {"coordinates":[145.126175,-40.840725],"type":"Point"}
+  "bbox": [
+    145.126175,
+    -40.840725,
+    145.126175,
+    -40.840725
+],
+  "geometry": {"coordinates":[145.12617499999999,-40.840725],"type":"Point"}
 }

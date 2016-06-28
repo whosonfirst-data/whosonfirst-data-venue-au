@@ -2,13 +2,14 @@
   "id": 203355131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.855026,-37.557148,143.855026,-37.557148",
     "geom:latitude":-37.557148,
     "geom:longitude":143.855026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Creswick Rd & Norman St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203355131,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1466188764,
     "wof:name":"Ballarat Mowers & Chainsaws",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brushcutters"
     ]
 },
-  "bbox": [143.855026,-37.557148,143.855026,-37.557148],
-  "geometry": {"coordinates":[143.855026,-37.557148],"type":"Point"}
+  "bbox": [
+    143.855026,
+    -37.557148,
+    143.855026,
+    -37.557148
+],
+  "geometry": {"coordinates":[143.85502600000001,-37.557148],"type":"Point"}
 }

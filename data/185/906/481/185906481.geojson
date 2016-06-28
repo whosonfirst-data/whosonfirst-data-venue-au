@@ -2,13 +2,14 @@
   "id": 185906481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.536911,-33.230667,151.536911,-33.230667",
     "geom:latitude":-33.230667,
     "geom:longitude":151.536911,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Narambi Rd",
     "sg:city":"Buff Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185906481,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1466188140,
     "wof:name":"Topline Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [151.536911,-33.230667,151.536911,-33.230667],
+  "bbox": [
+    151.536911,
+    -33.230667,
+    151.536911,
+    -33.230667
+],
   "geometry": {"coordinates":[151.536911,-33.230667],"type":"Point"}
 }

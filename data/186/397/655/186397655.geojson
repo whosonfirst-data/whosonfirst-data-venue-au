@@ -2,13 +2,14 @@
   "id": 186397655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.796509,-19.279942,146.796509,-19.279942",
     "geom:latitude":-19.279942,
     "geom:longitude":146.796509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Surrey St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186397655,
-    "wof:lastmodified":1449051439,
+    "wof:lastmodified":1466189268,
     "wof:name":"Anthony Homan",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [146.796509,-19.279942,146.796509,-19.279942],
-  "geometry": {"coordinates":[146.796509,-19.279942],"type":"Point"}
+  "bbox": [
+    146.796509,
+    -19.279942,
+    146.796509,
+    -19.279942
+],
+  "geometry": {"coordinates":[146.79650899999999,-19.279942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253108639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.826523,-37.796566,144.826523,-37.796566",
     "geom:latitude":-37.796566,
     "geom:longitude":144.826523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunbar Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253108639,
-    "wof:lastmodified":1449062872,
+    "wof:lastmodified":1466188911,
     "wof:name":"Associated Transport",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [144.826523,-37.796566,144.826523,-37.796566],
-  "geometry": {"coordinates":[144.826523,-37.796566],"type":"Point"}
+  "bbox": [
+    144.826523,
+    -37.796566,
+    144.826523,
+    -37.796566
+],
+  "geometry": {"coordinates":[144.82652300000001,-37.796566],"type":"Point"}
 }

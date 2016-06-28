@@ -2,13 +2,14 @@
   "id": 202557741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.793564,-42.674881,146.793564,-42.674881",
     "geom:latitude":-42.674881,
     "geom:longitude":146.793564,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1573 Main Rd",
     "sg:city":"Westerway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202557741,
-    "wof:lastmodified":1449061906,
+    "wof:lastmodified":1466186949,
     "wof:name":"Westerway Road House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "take"
     ]
 },
-  "bbox": [146.793564,-42.674881,146.793564,-42.674881],
+  "bbox": [
+    146.793564,
+    -42.674881,
+    146.793564,
+    -42.674881
+],
   "geometry": {"coordinates":[146.793564,-42.674881],"type":"Point"}
 }

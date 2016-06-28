@@ -2,13 +2,14 @@
   "id": 186622099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.050323,-34.28944,146.050323,-34.28944",
     "geom:latitude":-34.28944,
     "geom:longitude":146.050323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 8007",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186622099,
-    "wof:lastmodified":1449052528,
+    "wof:lastmodified":1466190979,
     "wof:name":"R.& T. Plumbers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [146.050323,-34.28944,146.050323,-34.28944],
-  "geometry": {"coordinates":[146.050323,-34.28944],"type":"Point"}
+  "bbox": [
+    146.050323,
+    -34.28944,
+    146.050323,
+    -34.28944
+],
+  "geometry": {"coordinates":[146.05032299999999,-34.28944],"type":"Point"}
 }

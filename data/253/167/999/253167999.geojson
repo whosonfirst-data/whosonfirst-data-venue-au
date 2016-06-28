@@ -2,13 +2,14 @@
   "id": 253167999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.954529,-27.581116,151.954529,-27.581116",
     "geom:latitude":-27.581116,
     "geom:longitude":151.954529,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253167999,
-    "wof:lastmodified":1449064360,
+    "wof:lastmodified":1466189937,
     "wof:name":"Rosemont Cottage Kindergarten & Pre-Prep",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.954529,-27.581116,151.954529,-27.581116],
-  "geometry": {"coordinates":[151.954529,-27.581116],"type":"Point"}
+  "bbox": [
+    151.954529,
+    -27.581116,
+    151.954529,
+    -27.581116
+],
+  "geometry": {"coordinates":[151.95452900000001,-27.581116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203209269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.903992,-41.049217,145.903992,-41.049217",
     "geom:latitude":-41.049217,
     "geom:longitude":145.903992,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Alexander St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203209269,
-    "wof:lastmodified":1449026665,
+    "wof:lastmodified":1466187145,
     "wof:name":"Robert Fergusson Pty Ltd",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [145.903992,-41.049217,145.903992,-41.049217],
-  "geometry": {"coordinates":[145.903992,-41.049217],"type":"Point"}
+  "bbox": [
+    145.903992,
+    -41.049217,
+    145.903992,
+    -41.049217
+],
+  "geometry": {"coordinates":[145.90399199999999,-41.049217],"type":"Point"}
 }

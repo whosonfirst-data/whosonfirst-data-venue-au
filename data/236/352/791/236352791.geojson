@@ -2,13 +2,14 @@
   "id": 236352791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.781349,-32.063114,115.781349,-32.063114",
     "geom:latitude":-32.063114,
     "geom:longitude":115.781349,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"South St Medical Centre (Cnr Ladner Rd)",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236352791,
-    "wof:lastmodified":1449003722,
+    "wof:lastmodified":1466190783,
     "wof:name":"Active Podiatry",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [115.781349,-32.063114,115.781349,-32.063114],
-  "geometry": {"coordinates":[115.781349,-32.063114],"type":"Point"}
+  "bbox": [
+    115.781349,
+    -32.063114,
+    115.781349,
+    -32.063114
+],
+  "geometry": {"coordinates":[115.78134900000001,-32.063114],"type":"Point"}
 }

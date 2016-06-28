@@ -2,13 +2,14 @@
   "id": 202669935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.011902,-27.389866,153.011902,-27.389866",
     "geom:latitude":-27.389866,
     "geom:longitude":153.011902,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Maundrell Tce",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202669935,
-    "wof:lastmodified":1449060397,
+    "wof:lastmodified":1466188267,
     "wof:name":"Guppy's Early Learning Centre",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.011902,-27.389866,153.011902,-27.389866],
-  "geometry": {"coordinates":[153.011902,-27.389866],"type":"Point"}
+  "bbox": [
+    153.011902,
+    -27.389866,
+    153.011902,
+    -27.389866
+],
+  "geometry": {"coordinates":[153.01190199999999,-27.389866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202523147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.166107,-38.103596,145.166107,-38.103596",
     "geom:latitude":-38.103596,
     "geom:longitude":145.166107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory 3/ 12 Aster Ave",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202523147,
-    "wof:lastmodified":1449061569,
+    "wof:lastmodified":1466189764,
     "wof:name":"A 1 Carpetgrippers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [145.166107,-38.103596,145.166107,-38.103596],
-  "geometry": {"coordinates":[145.166107,-38.103596],"type":"Point"}
+  "bbox": [
+    145.166107,
+    -38.103596,
+    145.166107,
+    -38.103596
+],
+  "geometry": {"coordinates":[145.16610700000001,-38.103596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236950211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.590164,-34.968578,138.590164,-34.968578",
     "geom:latitude":-34.968578,
     "geom:longitude":138.590164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Woolworths Cumberland Park Complex Shop 2/2 Little",
     "sg:city":"Cumberland Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236950211,
-    "wof:lastmodified":1449002836,
+    "wof:lastmodified":1466192162,
     "wof:name":"Mortons Bakery",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [138.590164,-34.968578,138.590164,-34.968578],
-  "geometry": {"coordinates":[138.590164,-34.968578],"type":"Point"}
+  "bbox": [
+    138.590164,
+    -34.968578,
+    138.590164,
+    -34.968578
+],
+  "geometry": {"coordinates":[138.59016399999999,-34.968578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253018551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.708282,-37.852009,144.708282,-37.852009",
     "geom:latitude":-37.852009,
     "geom:longitude":144.708282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Alexandra Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253018551,
-    "wof:lastmodified":1449064298,
+    "wof:lastmodified":1466187285,
     "wof:name":"Cotham Dale Pty Ltd",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.708282,-37.852009,144.708282,-37.852009],
+  "bbox": [
+    144.708282,
+    -37.852009,
+    144.708282,
+    -37.852009
+],
   "geometry": {"coordinates":[144.708282,-37.852009],"type":"Point"}
 }

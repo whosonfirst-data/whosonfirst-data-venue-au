@@ -2,13 +2,14 @@
   "id": 236319251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.745399,-32.056225,115.745399,-32.056225",
     "geom:latitude":-32.056225,
     "geom:longitude":115.745399,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Pakenham St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236319251,
-    "wof:lastmodified":1449002909,
+    "wof:lastmodified":1466190715,
     "wof:name":"Fishermens Engineering",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.745399,-32.056225,115.745399,-32.056225],
-  "geometry": {"coordinates":[115.745399,-32.056225],"type":"Point"}
+  "bbox": [
+    115.745399,
+    -32.056225,
+    115.745399,
+    -32.056225
+],
+  "geometry": {"coordinates":[115.74539900000001,-32.056225],"type":"Point"}
 }

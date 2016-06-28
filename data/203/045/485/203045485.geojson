@@ -2,13 +2,14 @@
   "id": 203045485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.020203,-25.048504,152.020203,-25.048504",
     "geom:latitude":-25.048504,
     "geom:longitude":152.020203,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Berrembea Rd",
     "sg:city":"Wallaville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203045485,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466188149,
     "wof:name":"Boon Alf & Ann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grower"
     ]
 },
-  "bbox": [152.020203,-25.048504,152.020203,-25.048504],
-  "geometry": {"coordinates":[152.020203,-25.048504],"type":"Point"}
+  "bbox": [
+    152.020203,
+    -25.048504,
+    152.020203,
+    -25.048504
+],
+  "geometry": {"coordinates":[152.02020300000001,-25.048504],"type":"Point"}
 }

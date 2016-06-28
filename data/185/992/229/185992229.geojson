@@ -2,13 +2,14 @@
   "id": 185992229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.437607,-33.34761,151.437607,-33.34761",
     "geom:latitude":-33.34761,
     "geom:longitude":151.437607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Shannon Pde",
     "sg:city":"Berkeley Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185992229,
-    "wof:lastmodified":1449007374,
+    "wof:lastmodified":1466188843,
     "wof:name":"Drafting Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [151.437607,-33.34761,151.437607,-33.34761],
-  "geometry": {"coordinates":[151.437607,-33.34761],"type":"Point"}
+  "bbox": [
+    151.437607,
+    -33.34761,
+    151.437607,
+    -33.34761
+],
+  "geometry": {"coordinates":[151.43760700000001,-33.34761],"type":"Point"}
 }

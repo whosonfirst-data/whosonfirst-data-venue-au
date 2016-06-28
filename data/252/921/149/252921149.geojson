@@ -2,13 +2,14 @@
   "id": 252921149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.774185,-36.308331,140.774185,-36.308331",
     "geom:latitude":-36.308331,
     "geom:longitude":140.774185,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 136",
     "sg:city":"Bordertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252921149,
-    "wof:lastmodified":1449006103,
+    "wof:lastmodified":1466189178,
     "wof:name":"Thomas R G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [140.774185,-36.308331,140.774185,-36.308331],
-  "geometry": {"coordinates":[140.774185,-36.308331],"type":"Point"}
+  "bbox": [
+    140.774185,
+    -36.308331,
+    140.774185,
+    -36.308331
+],
+  "geometry": {"coordinates":[140.77418499999999,-36.308331],"type":"Point"}
 }

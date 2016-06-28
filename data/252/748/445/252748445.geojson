@@ -2,13 +2,14 @@
   "id": 252748445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.637177,-33.331074,115.637177,-33.331074",
     "geom:latitude":-33.331074,
     "geom:longitude":115.637177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Edward & Parkfield Sts",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252748445,
-    "wof:lastmodified":1449006225,
+    "wof:lastmodified":1466187609,
     "wof:name":"King Gibson Lewis",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [115.637177,-33.331074,115.637177,-33.331074],
-  "geometry": {"coordinates":[115.637177,-33.331074],"type":"Point"}
+  "bbox": [
+    115.637177,
+    -33.331074,
+    115.637177,
+    -33.331074
+],
+  "geometry": {"coordinates":[115.63717699999999,-33.331074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220078265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.278748,-40.761925,145.278748,-40.761925",
     "geom:latitude":-40.761925,
     "geom:longitude":145.278748,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Dovecote Rd",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220078265,
-    "wof:lastmodified":1449074745,
+    "wof:lastmodified":1466187744,
     "wof:name":"Golden Chain Dovecote Motel and Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.278748,-40.761925,145.278748,-40.761925],
-  "geometry": {"coordinates":[145.278748,-40.761925],"type":"Point"}
+  "bbox": [
+    145.278748,
+    -40.761925,
+    145.278748,
+    -40.761925
+],
+  "geometry": {"coordinates":[145.27874800000001,-40.761925],"type":"Point"}
 }

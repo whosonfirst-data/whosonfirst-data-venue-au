@@ -2,13 +2,14 @@
   "id": 252949655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.081146,-26.532495,153.081146,-26.532495",
     "geom:latitude":-26.532495,
     "geom:longitude":153.081146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Pandanus Ave",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252949655,
-    "wof:lastmodified":1449006098,
+    "wof:lastmodified":1466189413,
     "wof:name":"Coolum Signworks Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "printer"
     ]
 },
-  "bbox": [153.081146,-26.532495,153.081146,-26.532495],
-  "geometry": {"coordinates":[153.081146,-26.532495],"type":"Point"}
+  "bbox": [
+    153.081146,
+    -26.532495,
+    153.081146,
+    -26.532495
+],
+  "geometry": {"coordinates":[153.08114599999999,-26.532495],"type":"Point"}
 }

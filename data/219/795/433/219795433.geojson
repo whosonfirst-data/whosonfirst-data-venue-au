@@ -2,13 +2,14 @@
   "id": 219795433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.723907,-19.31901,146.723907,-19.31901",
     "geom:latitude":-19.31901,
     "geom:longitude":146.723907,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 363",
     "sg:city":"Thuringowa Central",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219795433,
-    "wof:lastmodified":1449072474,
+    "wof:lastmodified":1466191456,
     "wof:name":"Map to Mine",
     "wof:parent_id":85780121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.723907,-19.31901,146.723907,-19.31901],
+  "bbox": [
+    146.723907,
+    -19.31901,
+    146.723907,
+    -19.31901
+],
   "geometry": {"coordinates":[146.723907,-19.31901],"type":"Point"}
 }

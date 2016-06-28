@@ -2,13 +2,14 @@
   "id": 202879173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.584015,-32.924126,151.584015,-32.924126",
     "geom:latitude":-32.924126,
     "geom:longitude":151.584015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Appletree Rd",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202879173,
-    "wof:lastmodified":1449060134,
+    "wof:lastmodified":1466190465,
     "wof:name":"Lake Care",
     "wof:parent_id":85769467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [151.584015,-32.924126,151.584015,-32.924126],
-  "geometry": {"coordinates":[151.584015,-32.924126],"type":"Point"}
+  "bbox": [
+    151.584015,
+    -32.924126,
+    151.584015,
+    -32.924126
+],
+  "geometry": {"coordinates":[151.58401499999999,-32.924126],"type":"Point"}
 }

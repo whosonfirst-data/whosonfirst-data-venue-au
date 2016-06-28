@@ -2,13 +2,14 @@
   "id": 202608479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.687515,-33.751633,150.687515,-33.751633",
     "geom:latitude":-33.751633,
     "geom:longitude":150.687515,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Mulgoa Rd",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202608479,
-    "wof:lastmodified":1449061201,
+    "wof:lastmodified":1466187410,
     "wof:name":"Choice Hotels Australasia",
     "wof:parent_id":85770997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [150.687515,-33.751633,150.687515,-33.751633],
-  "geometry": {"coordinates":[150.687515,-33.751633],"type":"Point"}
+  "bbox": [
+    150.687515,
+    -33.751633,
+    150.687515,
+    -33.751633
+],
+  "geometry": {"coordinates":[150.68751499999999,-33.751633],"type":"Point"}
 }

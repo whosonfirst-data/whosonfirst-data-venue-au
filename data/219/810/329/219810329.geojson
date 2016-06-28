@@ -2,13 +2,14 @@
   "id": 219810329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.887955,-36.118492,146.887955,-36.118492",
     "geom:latitude":-36.118492,
     "geom:longitude":146.887955,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Church St",
     "sg:city":"Wodonga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219810329,
-    "wof:lastmodified":1449071432,
+    "wof:lastmodified":1466191407,
     "wof:name":"Automotive Service Plus",
     "wof:parent_id":85780039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.887955,-36.118492,146.887955,-36.118492],
-  "geometry": {"coordinates":[146.887955,-36.118492],"type":"Point"}
+  "bbox": [
+    146.887955,
+    -36.118492,
+    146.887955,
+    -36.118492
+],
+  "geometry": {"coordinates":[146.88795500000001,-36.118492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185650233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.798187,-32.054684,115.798187,-32.054684",
     "geom:latitude":-32.054684,
     "geom:longitude":115.798187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Lucas St",
     "sg:city":"Willagee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185650233,
-    "wof:lastmodified":1449007597,
+    "wof:lastmodified":1466188275,
     "wof:name":"Darbyshire Electrical Services",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.798187,-32.054684,115.798187,-32.054684],
+  "bbox": [
+    115.798187,
+    -32.054684,
+    115.798187,
+    -32.054684
+],
   "geometry": {"coordinates":[115.798187,-32.054684],"type":"Point"}
 }

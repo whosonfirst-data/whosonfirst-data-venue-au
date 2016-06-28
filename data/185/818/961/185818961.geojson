@@ -2,13 +2,14 @@
   "id": 185818961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.374878,-37.658432,145.374878,-37.658432",
     "geom:latitude":-37.658432,
     "geom:longitude":145.374878,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bell St",
     "sg:city":"Yarra Glen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185818961,
-    "wof:lastmodified":1449007411,
+    "wof:lastmodified":1466186972,
     "wof:name":"Yarra Glen Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.374878,-37.658432,145.374878,-37.658432],
+  "bbox": [
+    145.374878,
+    -37.658432,
+    145.374878,
+    -37.658432
+],
   "geometry": {"coordinates":[145.374878,-37.658432],"type":"Point"}
 }

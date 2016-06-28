@@ -2,13 +2,14 @@
   "id": 186346325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.268295,-33.685501,151.268295,-33.685501",
     "geom:latitude":-33.685501,
     "geom:longitude":151.268295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot5/ Wattle Rd",
     "sg:city":"Ingleside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186346325,
-    "wof:lastmodified":1449050240,
+    "wof:lastmodified":1466188384,
     "wof:name":"TEC Archaeology",
     "wof:parent_id":85776833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeology"
     ]
 },
-  "bbox": [151.268295,-33.685501,151.268295,-33.685501],
-  "geometry": {"coordinates":[151.268295,-33.685501],"type":"Point"}
+  "bbox": [
+    151.268295,
+    -33.685501,
+    151.268295,
+    -33.685501
+],
+  "geometry": {"coordinates":[151.26829499999999,-33.685501],"type":"Point"}
 }

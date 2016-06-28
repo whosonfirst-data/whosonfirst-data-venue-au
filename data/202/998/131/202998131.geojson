@@ -2,13 +2,14 @@
   "id": 202998131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.503799,-20.709181,140.503799,-20.709181",
     "geom:latitude":-20.709181,
     "geom:longitude":140.503799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Leichhardt St",
     "sg:city":"Cloncurry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202998131,
-    "wof:lastmodified":1449060948,
+    "wof:lastmodified":1466191172,
     "wof:name":"Cloncurry Mustering Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "helicopter"
     ]
 },
-  "bbox": [140.503799,-20.709181,140.503799,-20.709181],
-  "geometry": {"coordinates":[140.503799,-20.709181],"type":"Point"}
+  "bbox": [
+    140.503799,
+    -20.709181,
+    140.503799,
+    -20.709181
+],
+  "geometry": {"coordinates":[140.50379899999999,-20.709181],"type":"Point"}
 }

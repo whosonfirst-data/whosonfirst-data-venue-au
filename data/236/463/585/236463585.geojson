@@ -2,13 +2,14 @@
   "id": 236463585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.149307,-21.083649,149.149307,-21.083649",
     "geom:latitude":-21.083649,
     "geom:longitude":149.149307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 8 Mackay Marina Ship Yard",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236463585,
-    "wof:lastmodified":1449004041,
+    "wof:lastmodified":1466191287,
     "wof:name":"Blue Line Boat Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "repairer"
     ]
 },
-  "bbox": [149.149307,-21.083649,149.149307,-21.083649],
-  "geometry": {"coordinates":[149.149307,-21.083649],"type":"Point"}
+  "bbox": [
+    149.149307,
+    -21.083649,
+    149.149307,
+    -21.083649
+],
+  "geometry": {"coordinates":[149.14930699999999,-21.083649],"type":"Point"}
 }

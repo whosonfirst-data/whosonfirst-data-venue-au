@@ -2,13 +2,14 @@
   "id": 186118867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.820755,-31.098829,152.820755,-31.098829",
     "geom:latitude":-31.098829,
     "geom:longitude":152.820755,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 West St",
     "sg:city":"South Kempsey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186118867,
-    "wof:lastmodified":1449052500,
+    "wof:lastmodified":1466189585,
     "wof:name":"Shannon's Mobile Diesel Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [152.820755,-31.098829,152.820755,-31.098829],
-  "geometry": {"coordinates":[152.820755,-31.098829],"type":"Point"}
+  "bbox": [
+    152.820755,
+    -31.098829,
+    152.820755,
+    -31.098829
+],
+  "geometry": {"coordinates":[152.82075499999999,-31.098829],"type":"Point"}
 }

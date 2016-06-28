@@ -2,13 +2,14 @@
   "id": 236627601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.148209,-33.952812,151.148209,-33.952812",
     "geom:latitude":-33.952812,
     "geom:longitude":151.148209,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"306 West Botany St",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236627601,
-    "wof:lastmodified":1449005329,
+    "wof:lastmodified":1466191705,
     "wof:name":"Spata Electrical Rewind",
     "wof:parent_id":85771209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "motor"
     ]
 },
-  "bbox": [151.148209,-33.952812,151.148209,-33.952812],
-  "geometry": {"coordinates":[151.148209,-33.952812],"type":"Point"}
+  "bbox": [
+    151.148209,
+    -33.952812,
+    151.148209,
+    -33.952812
+],
+  "geometry": {"coordinates":[151.14820900000001,-33.952812],"type":"Point"}
 }

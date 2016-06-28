@@ -2,13 +2,14 @@
   "id": 202985643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.207916,-33.834511,151.207916,-33.834511",
     "geom:latitude":-33.834511,
     "geom:longitude":151.207916,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Miller St",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202985643,
-    "wof:lastmodified":1449061382,
+    "wof:lastmodified":1466191154,
     "wof:name":"Clancey Rosemary",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [151.207916,-33.834511,151.207916,-33.834511],
-  "geometry": {"coordinates":[151.207916,-33.834511],"type":"Point"}
+  "bbox": [
+    151.207916,
+    -33.834511,
+    151.207916,
+    -33.834511
+],
+  "geometry": {"coordinates":[151.20791600000001,-33.834511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202904767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.202164,-30.110388,153.202164,-30.110388",
     "geom:latitude":-30.110388,
     "geom:longitude":153.202164,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Beach St",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202904767,
-    "wof:lastmodified":1449062721,
+    "wof:lastmodified":1466190582,
     "wof:name":"XS Surf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimwear"
     ]
 },
-  "bbox": [153.202164,-30.110388,153.202164,-30.110388],
-  "geometry": {"coordinates":[153.202164,-30.110388],"type":"Point"}
+  "bbox": [
+    153.202164,
+    -30.110388,
+    153.202164,
+    -30.110388
+],
+  "geometry": {"coordinates":[153.20216400000001,-30.110388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253208201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.956467,-27.565926,151.956467,-27.565926",
     "geom:latitude":-27.565926,
     "geom:longitude":151.956467,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 King St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253208201,
-    "wof:lastmodified":1449063168,
+    "wof:lastmodified":1466190157,
     "wof:name":"Feather Your Nest",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.956467,-27.565926,151.956467,-27.565926],
+  "bbox": [
+    151.956467,
+    -27.565926,
+    151.956467,
+    -27.565926
+],
   "geometry": {"coordinates":[151.956467,-27.565926],"type":"Point"}
 }

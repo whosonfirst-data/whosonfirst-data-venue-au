@@ -2,13 +2,14 @@
   "id": 202858969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.964706,-36.726757,146.964706,-36.726757",
     "geom:latitude":-36.726757,
     "geom:longitude":146.964706,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Delany Ave",
     "sg:city":"Bright",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202858969,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466190399,
     "wof:name":"Delany Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "special"
     ]
 },
-  "bbox": [146.964706,-36.726757,146.964706,-36.726757],
-  "geometry": {"coordinates":[146.964706,-36.726757],"type":"Point"}
+  "bbox": [
+    146.964706,
+    -36.726757,
+    146.964706,
+    -36.726757
+],
+  "geometry": {"coordinates":[146.96470600000001,-36.726757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252945199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091324,-26.462967,153.091324,-26.462967",
     "geom:latitude":-26.462967,
     "geom:longitude":153.091324,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Wagtail Drv",
     "sg:city":"Peregian Beach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252945199,
-    "wof:lastmodified":1449005496,
+    "wof:lastmodified":1466189375,
     "wof:name":"Triple M Mobile Mechanical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.091324,-26.462967,153.091324,-26.462967],
-  "geometry": {"coordinates":[153.091324,-26.462967],"type":"Point"}
+  "bbox": [
+    153.091324,
+    -26.462967,
+    153.091324,
+    -26.462967
+],
+  "geometry": {"coordinates":[153.09132399999999,-26.462967],"type":"Point"}
 }

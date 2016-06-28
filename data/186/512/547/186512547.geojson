@@ -2,13 +2,14 @@
   "id": 186512547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.775146,-19.265293,146.775146,-19.265293",
     "geom:latitude":-19.265293,
     "geom:longitude":146.775146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Ingham Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186512547,
-    "wof:lastmodified":1449052305,
+    "wof:lastmodified":1466190750,
     "wof:name":"Bonlec Controls",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [146.775146,-19.265293,146.775146,-19.265293],
-  "geometry": {"coordinates":[146.775146,-19.265293],"type":"Point"}
+  "bbox": [
+    146.775146,
+    -19.265293,
+    146.775146,
+    -19.265293
+],
+  "geometry": {"coordinates":[146.77514600000001,-19.265293],"type":"Point"}
 }

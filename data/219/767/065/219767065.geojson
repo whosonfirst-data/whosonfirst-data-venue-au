@@ -2,13 +2,14 @@
   "id": 219767065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.180023,-33.910957,151.180023,-33.910957",
     "geom:latitude":-33.910957,
     "geom:longitude":151.180023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Princes Hwy St",
     "sg:city":"Peters",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219767065,
-    "wof:lastmodified":1449071419,
+    "wof:lastmodified":1466191197,
     "wof:name":"Telephone Solutions",
     "wof:parent_id":85770305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [151.180023,-33.910957,151.180023,-33.910957],
-  "geometry": {"coordinates":[151.180023,-33.910957],"type":"Point"}
+  "bbox": [
+    151.180023,
+    -33.910957,
+    151.180023,
+    -33.910957
+],
+  "geometry": {"coordinates":[151.18002300000001,-33.910957],"type":"Point"}
 }

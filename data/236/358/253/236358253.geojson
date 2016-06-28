@@ -2,13 +2,14 @@
   "id": 236358253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.801651,-32.062202,115.801651,-32.062202",
     "geom:latitude":-32.062202,
     "geom:longitude":115.801651,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1B Adams St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236358253,
-    "wof:lastmodified":1449002967,
+    "wof:lastmodified":1466190834,
     "wof:name":"Reel Affair Boat Charters",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.801651,-32.062202,115.801651,-32.062202],
-  "geometry": {"coordinates":[115.801651,-32.062202],"type":"Point"}
+  "bbox": [
+    115.801651,
+    -32.062202,
+    115.801651,
+    -32.062202
+],
+  "geometry": {"coordinates":[115.80165100000001,-32.062202],"type":"Point"}
 }

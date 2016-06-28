@@ -2,13 +2,14 @@
   "id": 236806957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.872116,-34.476418,150.872116,-34.476418",
     "geom:latitude":-34.476418,
     "geom:longitude":150.872116,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Lake Ave",
     "sg:city":"Cringila",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236806957,
-    "wof:lastmodified":1449001669,
+    "wof:lastmodified":1466192058,
     "wof:name":"Reflexions Contract Cleaning",
     "wof:parent_id":85769585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [150.872116,-34.476418,150.872116,-34.476418],
-  "geometry": {"coordinates":[150.872116,-34.476418],"type":"Point"}
+  "bbox": [
+    150.872116,
+    -34.476418,
+    150.872116,
+    -34.476418
+],
+  "geometry": {"coordinates":[150.87211600000001,-34.476418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202569761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.427826,-37.686646,144.427826,-37.686646",
     "geom:latitude":-37.686646,
     "geom:longitude":144.427826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Griffith St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202569761,
-    "wof:lastmodified":1449062538,
+    "wof:lastmodified":1466187041,
     "wof:name":"Providence Hostel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [144.427826,-37.686646,144.427826,-37.686646],
-  "geometry": {"coordinates":[144.427826,-37.686646],"type":"Point"}
+  "bbox": [
+    144.427826,
+    -37.686646,
+    144.427826,
+    -37.686646
+],
+  "geometry": {"coordinates":[144.42782600000001,-37.686646],"type":"Point"}
 }

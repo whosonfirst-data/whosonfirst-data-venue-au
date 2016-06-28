@@ -2,13 +2,14 @@
   "id": 219707275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.495422,-32.173725,152.495422,-32.173725",
     "geom:latitude":-32.173725,
     "geom:longitude":152.495422,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Tuncurry Rd",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219707275,
-    "wof:lastmodified":1449073358,
+    "wof:lastmodified":1466191085,
     "wof:name":"Great Lakes Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [152.495422,-32.173725,152.495422,-32.173725],
-  "geometry": {"coordinates":[152.495422,-32.173725],"type":"Point"}
+  "bbox": [
+    152.495422,
+    -32.173725,
+    152.495422,
+    -32.173725
+],
+  "geometry": {"coordinates":[152.49542199999999,-32.173725],"type":"Point"}
 }

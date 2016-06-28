@@ -2,13 +2,14 @@
   "id": 185709101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.856003,-32.743027,151.856003,-32.743027",
     "geom:latitude":-32.743027,
     "geom:longitude":151.856003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shd4/ 19 Abundance Rd",
     "sg:city":"Medowie",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185709101,
-    "wof:lastmodified":1449006935,
+    "wof:lastmodified":1466189225,
     "wof:name":"Medowie Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.856003,-32.743027,151.856003,-32.743027],
-  "geometry": {"coordinates":[151.856003,-32.743027],"type":"Point"}
+  "bbox": [
+    151.856003,
+    -32.743027,
+    151.856003,
+    -32.743027
+],
+  "geometry": {"coordinates":[151.85600299999999,-32.743027],"type":"Point"}
 }

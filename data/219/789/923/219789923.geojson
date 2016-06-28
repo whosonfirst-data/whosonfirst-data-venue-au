@@ -2,13 +2,14 @@
   "id": 219789923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.735519,-19.299803,146.735519,-19.299803",
     "geom:latitude":-19.299803,
     "geom:longitude":146.735519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Burnda St",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219789923,
-    "wof:lastmodified":1449071991,
+    "wof:lastmodified":1466191263,
     "wof:name":"Glenn Buchanan Swim School",
     "wof:parent_id":85770141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [146.735519,-19.299803,146.735519,-19.299803],
-  "geometry": {"coordinates":[146.735519,-19.299803],"type":"Point"}
+  "bbox": [
+    146.735519,
+    -19.299803,
+    146.735519,
+    -19.299803
+],
+  "geometry": {"coordinates":[146.73551900000001,-19.299803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202563335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.685623,-34.02668,138.685623,-34.02668",
     "geom:latitude":-34.02668,
     "geom:longitude":138.685623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"St Vincent St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202563335,
-    "wof:lastmodified":1449060146,
+    "wof:lastmodified":1466186995,
     "wof:name":"Auburn Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [138.685623,-34.02668,138.685623,-34.02668],
-  "geometry": {"coordinates":[138.685623,-34.02668],"type":"Point"}
+  "bbox": [
+    138.685623,
+    -34.02668,
+    138.685623,
+    -34.02668
+],
+  "geometry": {"coordinates":[138.68562299999999,-34.02668],"type":"Point"}
 }

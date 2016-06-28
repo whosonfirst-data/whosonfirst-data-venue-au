@@ -2,13 +2,14 @@
   "id": 219419115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.842636,-33.738213,150.842636,-33.738213",
     "geom:latitude":-33.738213,
     "geom:longitude":150.842636,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hague Pl",
     "sg:city":"Oakhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219419115,
-    "wof:lastmodified":1449073846,
+    "wof:lastmodified":1466188568,
     "wof:name":"Fairfield Investigations",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [150.842636,-33.738213,150.842636,-33.738213],
+  "bbox": [
+    150.842636,
+    -33.738213,
+    150.842636,
+    -33.738213
+],
   "geometry": {"coordinates":[150.842636,-33.738213],"type":"Point"}
 }

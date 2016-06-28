@@ -2,13 +2,14 @@
   "id": 202976085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.178101,-33.886547,151.178101,-33.886547",
     "geom:latitude":-33.886547,
     "geom:longitude":151.178101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73- 79 Parramatta Rd",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202976085,
-    "wof:lastmodified":1449061162,
+    "wof:lastmodified":1466191189,
     "wof:name":"Olde English Tiles Australia",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wall"
     ]
 },
-  "bbox": [151.178101,-33.886547,151.178101,-33.886547],
+  "bbox": [
+    151.178101,
+    -33.886547,
+    151.178101,
+    -33.886547
+],
   "geometry": {"coordinates":[151.178101,-33.886547],"type":"Point"}
 }

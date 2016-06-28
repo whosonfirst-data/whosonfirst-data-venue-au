@@ -2,13 +2,14 @@
   "id": 203035057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.160004,-37.677177,145.160004,-37.677177",
     "geom:latitude":-37.677177,
     "geom:longitude":145.160004,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Coniston St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203035057,
-    "wof:lastmodified":1449026472,
+    "wof:lastmodified":1466187911,
     "wof:name":"Brock Rosie",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [145.160004,-37.677177,145.160004,-37.677177],
-  "geometry": {"coordinates":[145.160004,-37.677177],"type":"Point"}
+  "bbox": [
+    145.160004,
+    -37.677177,
+    145.160004,
+    -37.677177
+],
+  "geometry": {"coordinates":[145.16000399999999,-37.677177],"type":"Point"}
 }

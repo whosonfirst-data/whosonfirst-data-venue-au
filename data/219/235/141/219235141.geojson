@@ -2,13 +2,14 @@
   "id": 219235141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.494522,-31.548143,116.494522,-31.548143",
     "geom:latitude":-31.548143,
     "geom:longitude":116.494522,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 13 Whitfield Rd",
     "sg:city":"Toodyay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219235141,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466189918,
     "wof:name":"Ferguson Earth Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [116.494522,-31.548143,116.494522,-31.548143],
+  "bbox": [
+    116.494522,
+    -31.548143,
+    116.494522,
+    -31.548143
+],
   "geometry": {"coordinates":[116.494522,-31.548143],"type":"Point"}
 }

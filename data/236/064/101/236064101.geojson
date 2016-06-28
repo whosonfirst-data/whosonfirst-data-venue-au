@@ -2,13 +2,14 @@
   "id": 236064101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.86705,-37.770668,144.86705,-37.770668",
     "geom:latitude":-37.770668,
     "geom:longitude":144.86705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Canning St",
     "sg:city":"Avondale Heights",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236064101,
-    "wof:lastmodified":1449002678,
+    "wof:lastmodified":1466187908,
     "wof:name":"Coustley K & J",
     "wof:parent_id":85775125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.86705,-37.770668,144.86705,-37.770668],
-  "geometry": {"coordinates":[144.86705,-37.770668],"type":"Point"}
+  "bbox": [
+    144.86705,
+    -37.770668,
+    144.86705,
+    -37.770668
+],
+  "geometry": {"coordinates":[144.86705000000001,-37.770668],"type":"Point"}
 }

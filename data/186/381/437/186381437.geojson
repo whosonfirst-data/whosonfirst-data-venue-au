@@ -2,13 +2,14 @@
   "id": 186381437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.156586,-33.852962,151.156586,-33.852962",
     "geom:latitude":-33.852962,
     "geom:longitude":151.156586,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186381437,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466189027,
     "wof:name":"Security Information And Management Systems-Australia",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "burglar"
     ]
 },
-  "bbox": [151.156586,-33.852962,151.156586,-33.852962],
+  "bbox": [
+    151.156586,
+    -33.852962,
+    151.156586,
+    -33.852962
+],
   "geometry": {"coordinates":[151.156586,-33.852962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236075547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.769119,-37.704384,144.769119,-37.704384",
     "geom:latitude":-37.704384,
     "geom:longitude":144.769119,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Profita Ave",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236075547,
-    "wof:lastmodified":1449003443,
+    "wof:lastmodified":1466188135,
     "wof:name":"Belvedere Park Aged Care",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [144.769119,-37.704384,144.769119,-37.704384],
-  "geometry": {"coordinates":[144.769119,-37.704384],"type":"Point"}
+  "bbox": [
+    144.769119,
+    -37.704384,
+    144.769119,
+    -37.704384
+],
+  "geometry": {"coordinates":[144.76911899999999,-37.704384],"type":"Point"}
 }

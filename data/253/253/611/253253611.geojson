@@ -2,13 +2,14 @@
   "id": 253253611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.8983,-27.555092,151.8983,-27.555092",
     "geom:latitude":-27.555092,
     "geom:longitude":151.8983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U6, 11 Molloy St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253253611,
-    "wof:lastmodified":1449065410,
+    "wof:lastmodified":1466190432,
     "wof:name":"Wormald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [151.8983,-27.555092,151.8983,-27.555092],
-  "geometry": {"coordinates":[151.8983,-27.555092],"type":"Point"}
+  "bbox": [
+    151.8983,
+    -27.555092,
+    151.8983,
+    -27.555092
+],
+  "geometry": {"coordinates":[151.89830000000001,-27.555092],"type":"Point"}
 }

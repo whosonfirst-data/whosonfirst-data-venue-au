@@ -2,13 +2,14 @@
   "id": 186119815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.842667,-31.07794,152.842667,-31.07794",
     "geom:latitude":-31.07794,
     "geom:longitude":152.842667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Smith St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186119815,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466190011,
     "wof:name":"Kempsey Auto Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [152.842667,-31.07794,152.842667,-31.07794],
-  "geometry": {"coordinates":[152.842667,-31.07794],"type":"Point"}
+  "bbox": [
+    152.842667,
+    -31.07794,
+    152.842667,
+    -31.07794
+],
+  "geometry": {"coordinates":[152.84266700000001,-31.07794],"type":"Point"}
 }

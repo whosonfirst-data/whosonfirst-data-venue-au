@@ -2,13 +2,14 @@
   "id": 236132915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.860565,-37.730427,144.860565,-37.730427",
     "geom:latitude":-37.730427,
     "geom:longitude":144.860565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Lemmon Ave",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236132915,
-    "wof:lastmodified":1449003226,
+    "wof:lastmodified":1466189306,
     "wof:name":"Farrelly Brothers",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [144.860565,-37.730427,144.860565,-37.730427],
-  "geometry": {"coordinates":[144.860565,-37.730427],"type":"Point"}
+  "bbox": [
+    144.860565,
+    -37.730427,
+    144.860565,
+    -37.730427
+],
+  "geometry": {"coordinates":[144.86056500000001,-37.730427],"type":"Point"}
 }

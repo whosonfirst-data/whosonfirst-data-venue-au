@@ -2,13 +2,14 @@
   "id": 219786553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.735977,-19.301031,146.735977,-19.301031",
     "geom:latitude":-19.301031,
     "geom:longitude":146.735977,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/8 Neill St",
     "sg:city":"Kirwan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219786553,
-    "wof:lastmodified":1449070851,
+    "wof:lastmodified":1466191340,
     "wof:name":"Nan's Sugar Shack",
     "wof:parent_id":85770141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [146.735977,-19.301031,146.735977,-19.301031],
-  "geometry": {"coordinates":[146.735977,-19.301031],"type":"Point"}
+  "bbox": [
+    146.735977,
+    -19.301031,
+    146.735977,
+    -19.301031
+],
+  "geometry": {"coordinates":[146.73597699999999,-19.301031],"type":"Point"}
 }

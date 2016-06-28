@@ -2,13 +2,14 @@
   "id": 202580057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.442032,-37.676498,144.442032,-37.676498",
     "geom:latitude":-37.676498,
     "geom:longitude":144.442032,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Main St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202580057,
-    "wof:lastmodified":1449061799,
+    "wof:lastmodified":1466187123,
     "wof:name":"Peter Clarke Builders Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.442032,-37.676498,144.442032,-37.676498],
-  "geometry": {"coordinates":[144.442032,-37.676498],"type":"Point"}
+  "bbox": [
+    144.442032,
+    -37.676498,
+    144.442032,
+    -37.676498
+],
+  "geometry": {"coordinates":[144.44203200000001,-37.676498],"type":"Point"}
 }

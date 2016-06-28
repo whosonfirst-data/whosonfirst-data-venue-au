@@ -2,13 +2,14 @@
   "id": 186590091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.520004,-41.158592,147.520004,-41.158592",
     "geom:latitude":-41.158592,
     "geom:longitude":147.520004,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Union St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186590091,
-    "wof:lastmodified":1449051965,
+    "wof:lastmodified":1466190994,
     "wof:name":"ATH Engineering & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [147.520004,-41.158592,147.520004,-41.158592],
+  "bbox": [
+    147.520004,
+    -41.158592,
+    147.520004,
+    -41.158592
+],
   "geometry": {"coordinates":[147.520004,-41.158592],"type":"Point"}
 }

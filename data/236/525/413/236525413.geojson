@@ -2,13 +2,14 @@
   "id": 236525413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166199,-32.566444,151.166199,-32.566444",
     "geom:latitude":-32.566444,
     "geom:longitude":151.166199,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 John St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236525413,
-    "wof:lastmodified":1449004417,
+    "wof:lastmodified":1466191433,
     "wof:name":"Henri's Brasserie",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [151.166199,-32.566444,151.166199,-32.566444],
-  "geometry": {"coordinates":[151.166199,-32.566444],"type":"Point"}
+  "bbox": [
+    151.166199,
+    -32.566444,
+    151.166199,
+    -32.566444
+],
+  "geometry": {"coordinates":[151.16619900000001,-32.566444],"type":"Point"}
 }

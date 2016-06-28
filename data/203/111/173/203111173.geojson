@@ -2,13 +2,14 @@
   "id": 203111173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.71479,-32.536438,115.71479,-32.536438",
     "geom:latitude":-32.536438,
     "geom:longitude":115.71479,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 20 Old Coast Rd",
     "sg:city":"Dawesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203111173,
-    "wof:lastmodified":1449026901,
+    "wof:lastmodified":1466189212,
     "wof:name":"Caltex",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.71479,-32.536438,115.71479,-32.536438],
-  "geometry": {"coordinates":[115.71479,-32.536438],"type":"Point"}
+  "bbox": [
+    115.71479,
+    -32.536438,
+    115.71479,
+    -32.536438
+],
+  "geometry": {"coordinates":[115.71478999999999,-32.536438],"type":"Point"}
 }

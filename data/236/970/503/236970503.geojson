@@ -2,13 +2,14 @@
   "id": 236970503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.491226,-37.935833,145.491226,-37.935833",
     "geom:latitude":-37.935833,
     "geom:longitude":145.491226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 McBride St",
     "sg:city":"Cockatoo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236970503,
-    "wof:lastmodified":1449005183,
+    "wof:lastmodified":1466192170,
     "wof:name":"Cockatoo General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.491226,-37.935833,145.491226,-37.935833],
-  "geometry": {"coordinates":[145.491226,-37.935833],"type":"Point"}
+  "bbox": [
+    145.491226,
+    -37.935833,
+    145.491226,
+    -37.935833
+],
+  "geometry": {"coordinates":[145.49122600000001,-37.935833],"type":"Point"}
 }

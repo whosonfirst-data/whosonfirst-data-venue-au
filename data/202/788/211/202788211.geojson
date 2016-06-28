@@ -2,13 +2,14 @@
   "id": 202788211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.777328,-32.928459,151.777328,-32.928459",
     "geom:latitude":-32.928459,
     "geom:longitude":151.777328,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25a Brown St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202788211,
-    "wof:lastmodified":1449061424,
+    "wof:lastmodified":1466190084,
     "wof:name":"Suzanne Duncan Make Up Artistry",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "make-up"
     ]
 },
-  "bbox": [151.777328,-32.928459,151.777328,-32.928459],
-  "geometry": {"coordinates":[151.777328,-32.928459],"type":"Point"}
+  "bbox": [
+    151.777328,
+    -32.928459,
+    151.777328,
+    -32.928459
+],
+  "geometry": {"coordinates":[151.77732800000001,-32.928459],"type":"Point"}
 }

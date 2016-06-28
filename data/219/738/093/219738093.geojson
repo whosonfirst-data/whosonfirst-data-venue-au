@@ -2,13 +2,14 @@
   "id": 219738093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.794159,-19.288486,146.794159,-19.288486",
     "geom:latitude":-19.288486,
     "geom:longitude":146.794159,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Brentnall St",
     "sg:city":"Mysterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219738093,
-    "wof:lastmodified":1449072984,
+    "wof:lastmodified":1466191145,
     "wof:name":"South West Pacific Telephone & Data",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [146.794159,-19.288486,146.794159,-19.288486],
-  "geometry": {"coordinates":[146.794159,-19.288486],"type":"Point"}
+  "bbox": [
+    146.794159,
+    -19.288486,
+    146.794159,
+    -19.288486
+],
+  "geometry": {"coordinates":[146.79415900000001,-19.288486],"type":"Point"}
 }

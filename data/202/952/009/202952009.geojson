@@ -2,13 +2,14 @@
   "id": 202952009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.116318,-30.300798,153.116318,-30.300798",
     "geom:latitude":-30.300798,
     "geom:longitude":153.116318,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Albany St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202952009,
-    "wof:lastmodified":1449061928,
+    "wof:lastmodified":1466191005,
     "wof:name":"Young Ivan M. Dr.",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.116318,-30.300798,153.116318,-30.300798],
-  "geometry": {"coordinates":[153.116318,-30.300798],"type":"Point"}
+  "bbox": [
+    153.116318,
+    -30.300798,
+    153.116318,
+    -30.300798
+],
+  "geometry": {"coordinates":[153.11631800000001,-30.300798],"type":"Point"}
 }

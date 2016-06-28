@@ -2,13 +2,14 @@
   "id": 219848163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.185699,-33.85569,151.185699,-33.85569",
     "geom:latitude":-33.85569,
     "geom:longitude":151.185699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 41 Trouton St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219848163,
-    "wof:lastmodified":1449070893,
+    "wof:lastmodified":1466191514,
     "wof:name":"Allied Business Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [151.185699,-33.85569,151.185699,-33.85569],
+  "bbox": [
+    151.185699,
+    -33.85569,
+    151.185699,
+    -33.85569
+],
   "geometry": {"coordinates":[151.185699,-33.85569],"type":"Point"}
 }

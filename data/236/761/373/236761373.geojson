@@ -2,13 +2,14 @@
   "id": 236761373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.981293,-27.08864,152.981293,-27.08864",
     "geom:latitude":-27.08864,
     "geom:longitude":152.981293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Roseby Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236761373,
-    "wof:lastmodified":1449004302,
+    "wof:lastmodified":1466191906,
     "wof:name":"Gravel City",
     "wof:parent_id":85769767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.981293,-27.08864,152.981293,-27.08864],
-  "geometry": {"coordinates":[152.981293,-27.08864],"type":"Point"}
+  "bbox": [
+    152.981293,
+    -27.08864,
+    152.981293,
+    -27.08864
+],
+  "geometry": {"coordinates":[152.98129299999999,-27.08864],"type":"Point"}
 }

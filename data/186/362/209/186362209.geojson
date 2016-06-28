@@ -2,13 +2,14 @@
   "id": 186362209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130386,-33.865486,151.130386,-33.865486",
     "geom:latitude":-33.865486,
     "geom:longitude":151.130386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Great North Rd",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186362209,
-    "wof:lastmodified":1449052107,
+    "wof:lastmodified":1466188670,
     "wof:name":"TLE Electrical",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [151.130386,-33.865486,151.130386,-33.865486],
-  "geometry": {"coordinates":[151.130386,-33.865486],"type":"Point"}
+  "bbox": [
+    151.130386,
+    -33.865486,
+    151.130386,
+    -33.865486
+],
+  "geometry": {"coordinates":[151.13038599999999,-33.865486],"type":"Point"}
 }

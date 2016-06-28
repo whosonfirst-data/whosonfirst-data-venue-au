@@ -2,13 +2,14 @@
   "id": 202384027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.750076,-34.597534,138.750076,-34.597534",
     "geom:latitude":-34.597534,
     "geom:longitude":138.750076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 High St",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202384027,
-    "wof:lastmodified":1449060416,
+    "wof:lastmodified":1466187226,
     "wof:name":"Paul Stevens Motor Repairs",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [138.750076,-34.597534,138.750076,-34.597534],
-  "geometry": {"coordinates":[138.750076,-34.597534],"type":"Point"}
+  "bbox": [
+    138.750076,
+    -34.597534,
+    138.750076,
+    -34.597534
+],
+  "geometry": {"coordinates":[138.75007600000001,-34.597534],"type":"Point"}
 }

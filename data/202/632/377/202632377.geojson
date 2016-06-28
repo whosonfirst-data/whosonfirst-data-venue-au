@@ -2,13 +2,14 @@
   "id": 202632377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.223022,-33.910332,151.223022,-33.910332",
     "geom:latitude":-33.910332,
     "geom:longitude":151.223022,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 117 Anzac Pde",
     "sg:city":"Kensington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202632377,
-    "wof:lastmodified":1449061707,
+    "wof:lastmodified":1466187635,
     "wof:name":"Kensington Yoga In Daily Life",
     "wof:parent_id":85769539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [151.223022,-33.910332,151.223022,-33.910332],
-  "geometry": {"coordinates":[151.223022,-33.910332],"type":"Point"}
+  "bbox": [
+    151.223022,
+    -33.910332,
+    151.223022,
+    -33.910332
+],
+  "geometry": {"coordinates":[151.22302199999999,-33.910332],"type":"Point"}
 }

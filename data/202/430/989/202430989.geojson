@@ -2,13 +2,14 @@
   "id": 202430989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.952499,-37.842873,144.952499,-37.842873",
     "geom:latitude":-37.842873,
     "geom:longitude":144.952499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Moubray St",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202430989,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1466188423,
     "wof:name":"Hampton Tony",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.952499,-37.842873,144.952499,-37.842873],
-  "geometry": {"coordinates":[144.952499,-37.842873],"type":"Point"}
+  "bbox": [
+    144.952499,
+    -37.842873,
+    144.952499,
+    -37.842873
+],
+  "geometry": {"coordinates":[144.95249899999999,-37.842873],"type":"Point"}
 }

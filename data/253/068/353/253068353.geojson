@@ -2,13 +2,14 @@
   "id": 253068353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.752975,-37.767128,144.752975,-37.767128",
     "geom:latitude":-37.767128,
     "geom:longitude":144.752975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Westwood Drv",
     "sg:city":"Ravenhall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253068353,
-    "wof:lastmodified":1449064347,
+    "wof:lastmodified":1466188172,
     "wof:name":"B.I.P. Toyota Wreckers",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recyclers"
     ]
 },
-  "bbox": [144.752975,-37.767128,144.752975,-37.767128],
-  "geometry": {"coordinates":[144.752975,-37.767128],"type":"Point"}
+  "bbox": [
+    144.752975,
+    -37.767128,
+    144.752975,
+    -37.767128
+],
+  "geometry": {"coordinates":[144.75297499999999,-37.767128],"type":"Point"}
 }

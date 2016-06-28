@@ -2,13 +2,14 @@
   "id": 203168229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.974838,-36.559708,145.974838,-36.559708",
     "geom:latitude":-36.559708,
     "geom:longitude":145.974838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 McGill St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203168229,
-    "wof:lastmodified":1449025928,
+    "wof:lastmodified":1466190021,
     "wof:name":"Crawfords Landscaping Service Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.974838,-36.559708,145.974838,-36.559708],
-  "geometry": {"coordinates":[145.974838,-36.559708],"type":"Point"}
+  "bbox": [
+    145.974838,
+    -36.559708,
+    145.974838,
+    -36.559708
+],
+  "geometry": {"coordinates":[145.97483800000001,-36.559708],"type":"Point"}
 }

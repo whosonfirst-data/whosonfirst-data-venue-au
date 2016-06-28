@@ -2,13 +2,14 @@
   "id": 185662785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.791199,-32.024403,115.791199,-32.024403",
     "geom:latitude":-32.024403,
     "geom:longitude":115.791199,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Beach St",
     "sg:city":"Bicton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185662785,
-    "wof:lastmodified":1449007676,
+    "wof:lastmodified":1466188498,
     "wof:name":"Ranger Constructions",
     "wof:parent_id":85768847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.791199,-32.024403,115.791199,-32.024403],
-  "geometry": {"coordinates":[115.791199,-32.024403],"type":"Point"}
+  "bbox": [
+    115.791199,
+    -32.024403,
+    115.791199,
+    -32.024403
+],
+  "geometry": {"coordinates":[115.79119900000001,-32.024403],"type":"Point"}
 }

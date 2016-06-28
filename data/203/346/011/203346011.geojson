@@ -2,13 +2,14 @@
   "id": 203346011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854233,-37.561226,143.854233,-37.561226",
     "geom:latitude":-37.561226,
     "geom:longitude":143.854233,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203346011,
-    "wof:lastmodified":1449024934,
+    "wof:lastmodified":1466188609,
     "wof:name":"Thornton Richards Camera House",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [143.854233,-37.561226,143.854233,-37.561226],
-  "geometry": {"coordinates":[143.854233,-37.561226],"type":"Point"}
+  "bbox": [
+    143.854233,
+    -37.561226,
+    143.854233,
+    -37.561226
+],
+  "geometry": {"coordinates":[143.85423299999999,-37.561226],"type":"Point"}
 }

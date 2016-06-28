@@ -2,13 +2,14 @@
   "id": 186083837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.68689,-31.733997,152.68689,-31.733997",
     "geom:latitude":-31.733997,
     "geom:longitude":152.68689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Stewarts River Rd",
     "sg:city":"Camden Haven",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186083837,
-    "wof:lastmodified":1449051651,
+    "wof:lastmodified":1466188957,
     "wof:name":"Camden Haven Air Conditioning Refrigeration & Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [152.68689,-31.733997,152.68689,-31.733997],
-  "geometry": {"coordinates":[152.68689,-31.733997],"type":"Point"}
+  "bbox": [
+    152.68689,
+    -31.733997,
+    152.68689,
+    -31.733997
+],
+  "geometry": {"coordinates":[152.68689000000001,-31.733997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202600525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.992889,-33.758598,150.992889,-33.758598",
     "geom:latitude":-33.758598,
     "geom:longitude":150.992889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 7758",
     "sg:city":"+ Baulkham Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202600525,
-    "wof:lastmodified":1449060348,
+    "wof:lastmodified":1466187296,
     "wof:name":"Flegg & Isherwood Pty Ltd",
     "wof:parent_id":85768775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [150.992889,-33.758598,150.992889,-33.758598],
-  "geometry": {"coordinates":[150.992889,-33.758598],"type":"Point"}
+  "bbox": [
+    150.992889,
+    -33.758598,
+    150.992889,
+    -33.758598
+],
+  "geometry": {"coordinates":[150.99288899999999,-33.758598],"type":"Point"}
 }

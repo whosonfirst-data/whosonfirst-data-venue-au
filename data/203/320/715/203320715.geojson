@@ -2,13 +2,14 @@
   "id": 203320715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840698,-37.586758,143.840698,-37.586758",
     "geom:latitude":-37.586758,
     "geom:longitude":143.840698,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4/ 58 Albert St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203320715,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466188275,
     "wof:name":"Artafact",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laminating"
     ]
 },
-  "bbox": [143.840698,-37.586758,143.840698,-37.586758],
+  "bbox": [
+    143.840698,
+    -37.586758,
+    143.840698,
+    -37.586758
+],
   "geometry": {"coordinates":[143.840698,-37.586758],"type":"Point"}
 }

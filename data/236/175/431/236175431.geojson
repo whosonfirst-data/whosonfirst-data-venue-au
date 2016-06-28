@@ -2,13 +2,14 @@
   "id": 236175431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"136.923798,-33.67746,136.923798,-33.67746",
     "geom:latitude":-33.67746,
     "geom:longitude":136.923798,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Lincoln Hwy",
     "sg:city":"Cowell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236175431,
-    "wof:lastmodified":1449004031,
+    "wof:lastmodified":1466189805,
     "wof:name":"Cowell Iceworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [136.923798,-33.67746,136.923798,-33.67746],
-  "geometry": {"coordinates":[136.923798,-33.67746],"type":"Point"}
+  "bbox": [
+    136.923798,
+    -33.67746,
+    136.923798,
+    -33.67746
+],
+  "geometry": {"coordinates":[136.92379800000001,-33.67746],"type":"Point"}
 }

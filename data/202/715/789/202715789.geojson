@@ -2,13 +2,14 @@
   "id": 202715789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.022903,-27.364565,153.022903,-27.364565",
     "geom:latitude":-27.364565,
     "geom:longitude":153.022903,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 611 Robinson Rd",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202715789,
-    "wof:lastmodified":1449062153,
+    "wof:lastmodified":1466189125,
     "wof:name":"Aspley Nail & Beauty Clinic",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [153.022903,-27.364565,153.022903,-27.364565],
-  "geometry": {"coordinates":[153.022903,-27.364565],"type":"Point"}
+  "bbox": [
+    153.022903,
+    -27.364565,
+    153.022903,
+    -27.364565
+],
+  "geometry": {"coordinates":[153.02290300000001,-27.364565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252826151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.585464,-32.605904,149.585464,-32.605904",
     "geom:latitude":-32.605904,
     "geom:longitude":149.585464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"National Centre Shop 9 Church St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252826151,
-    "wof:lastmodified":1449006189,
+    "wof:lastmodified":1466188353,
     "wof:name":"Bob's Country Cobbler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [149.585464,-32.605904,149.585464,-32.605904],
+  "bbox": [
+    149.585464,
+    -32.605904,
+    149.585464,
+    -32.605904
+],
   "geometry": {"coordinates":[149.585464,-32.605904],"type":"Point"}
 }

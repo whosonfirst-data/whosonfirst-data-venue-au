@@ -2,13 +2,14 @@
   "id": 202661297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.028732,-27.42721,153.028732,-27.42721",
     "geom:latitude":-27.42721,
     "geom:longitude":153.028732,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Bowser St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202661297,
-    "wof:lastmodified":1449062373,
+    "wof:lastmodified":1466188098,
     "wof:name":"PC Tech Solutions",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [153.028732,-27.42721,153.028732,-27.42721],
-  "geometry": {"coordinates":[153.028732,-27.42721],"type":"Point"}
+  "bbox": [
+    153.028732,
+    -27.42721,
+    153.028732,
+    -27.42721
+],
+  "geometry": {"coordinates":[153.02873199999999,-27.42721],"type":"Point"}
 }

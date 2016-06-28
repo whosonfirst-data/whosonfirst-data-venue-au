@@ -2,13 +2,14 @@
   "id": 236812571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.893158,-34.409302,150.893158,-34.409302",
     "geom:latitude":-34.409302,
     "geom:longitude":150.893158,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U2/ 30 Ralph Black Drv",
     "sg:city":"North Wollongong",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236812571,
-    "wof:lastmodified":1449001748,
+    "wof:lastmodified":1466191973,
     "wof:name":"Corporate Freight Express",
     "wof:parent_id":85776197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [150.893158,-34.409302,150.893158,-34.409302],
+  "bbox": [
+    150.893158,
+    -34.409302,
+    150.893158,
+    -34.409302
+],
   "geometry": {"coordinates":[150.893158,-34.409302],"type":"Point"}
 }

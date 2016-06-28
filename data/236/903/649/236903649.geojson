@@ -2,13 +2,14 @@
   "id": 236903649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.555023,-35.026215,138.555023,-35.026215",
     "geom:latitude":-35.026215,
     "geom:longitude":138.555023,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Grace & Sargeant Sts",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236903649,
-    "wof:lastmodified":1449001825,
+    "wof:lastmodified":1466192189,
     "wof:name":"Blue Circle Southern Cement",
     "wof:parent_id":85769151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [138.555023,-35.026215,138.555023,-35.026215],
-  "geometry": {"coordinates":[138.555023,-35.026215],"type":"Point"}
+  "bbox": [
+    138.555023,
+    -35.026215,
+    138.555023,
+    -35.026215
+],
+  "geometry": {"coordinates":[138.55502300000001,-35.026215],"type":"Point"}
 }

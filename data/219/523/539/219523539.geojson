@@ -2,13 +2,14 @@
   "id": 219523539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.101929,-33.919109,151.101929,-33.919109",
     "geom:latitude":-33.919109,
     "geom:longitude":151.101929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Canterbury Rd",
     "sg:city":"Campsie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219523539,
-    "wof:lastmodified":1449072414,
+    "wof:lastmodified":1466189959,
     "wof:name":"James Con A",
     "wof:parent_id":85774309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.101929,-33.919109,151.101929,-33.919109],
-  "geometry": {"coordinates":[151.101929,-33.919109],"type":"Point"}
+  "bbox": [
+    151.101929,
+    -33.919109,
+    151.101929,
+    -33.919109
+],
+  "geometry": {"coordinates":[151.10192900000001,-33.919109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252986117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.121674,-26.695566,153.121674,-26.695566",
     "geom:latitude":-26.695566,
     "geom:longitude":153.121674,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Mooloolah Drv",
     "sg:city":"Minyama",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252986117,
-    "wof:lastmodified":1449006293,
+    "wof:lastmodified":1466189721,
     "wof:name":"Mainlinen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "good"
     ]
 },
-  "bbox": [153.121674,-26.695566,153.121674,-26.695566],
-  "geometry": {"coordinates":[153.121674,-26.695566],"type":"Point"}
+  "bbox": [
+    153.121674,
+    -26.695566,
+    153.121674,
+    -26.695566
+],
+  "geometry": {"coordinates":[153.12167400000001,-26.695566],"type":"Point"}
 }

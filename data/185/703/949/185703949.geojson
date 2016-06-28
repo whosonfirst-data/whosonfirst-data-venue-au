@@ -2,13 +2,14 @@
   "id": 185703949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.872665,-32.740749,151.872665,-32.740749",
     "geom:latitude":-32.740749,
     "geom:longitude":151.872665,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Grey Gum St",
     "sg:city":"Medowie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185703949,
-    "wof:lastmodified":1449007097,
+    "wof:lastmodified":1466189146,
     "wof:name":"More Than Abel Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [151.872665,-32.740749,151.872665,-32.740749],
-  "geometry": {"coordinates":[151.872665,-32.740749],"type":"Point"}
+  "bbox": [
+    151.872665,
+    -32.740749,
+    151.872665,
+    -32.740749
+],
+  "geometry": {"coordinates":[151.87266500000001,-32.740749],"type":"Point"}
 }

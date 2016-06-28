@@ -2,13 +2,14 @@
   "id": 169814767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.865479,-31.984095,115.865479,-31.984095",
     "geom:latitude":-31.984095,
     "geom:longitude":115.865479,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Carr St",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169814767,
-    "wof:lastmodified":1449033293,
+    "wof:lastmodified":1466188971,
     "wof:name":"South Perth Stairs",
     "wof:parent_id":85775647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "handrail"
     ]
 },
-  "bbox": [115.865479,-31.984095,115.865479,-31.984095],
-  "geometry": {"coordinates":[115.865479,-31.984095],"type":"Point"}
+  "bbox": [
+    115.865479,
+    -31.984095,
+    115.865479,
+    -31.984095
+],
+  "geometry": {"coordinates":[115.86547899999999,-31.984095],"type":"Point"}
 }

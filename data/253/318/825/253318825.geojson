@@ -2,13 +2,14 @@
   "id": 253318825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.309647,-38.066463,145.309647,-38.066463",
     "geom:latitude":-38.066463,
     "geom:longitude":145.309647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Padstow Crt",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253318825,
-    "wof:lastmodified":1449063456,
+    "wof:lastmodified":1466190771,
     "wof:name":"Stankard Excavations Pty Ltd",
     "wof:parent_id":85776605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.309647,-38.066463,145.309647,-38.066463],
-  "geometry": {"coordinates":[145.309647,-38.066463],"type":"Point"}
+  "bbox": [
+    145.309647,
+    -38.066463,
+    145.309647,
+    -38.066463
+],
+  "geometry": {"coordinates":[145.30964700000001,-38.066463],"type":"Point"}
 }

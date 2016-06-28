@@ -2,13 +2,14 @@
   "id": 202960637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.082611,-30.351376,153.082611,-30.351376",
     "geom:latitude":-30.351376,
     "geom:longitude":153.082611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cavanba Rd",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202960637,
-    "wof:lastmodified":1449061918,
+    "wof:lastmodified":1466190942,
     "wof:name":"Gary Hawker",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [153.082611,-30.351376,153.082611,-30.351376],
-  "geometry": {"coordinates":[153.082611,-30.351376],"type":"Point"}
+  "bbox": [
+    153.082611,
+    -30.351376,
+    153.082611,
+    -30.351376
+],
+  "geometry": {"coordinates":[153.08261100000001,-30.351376],"type":"Point"}
 }

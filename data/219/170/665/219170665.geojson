@@ -2,13 +2,14 @@
   "id": 219170665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.052521,-27.426622,153.052521,-27.426622",
     "geom:latitude":-27.426622,
     "geom:longitude":153.052521,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Oriel Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219170665,
-    "wof:lastmodified":1449070722,
+    "wof:lastmodified":1466189776,
     "wof:name":"Colours Of Clayfield",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [153.052521,-27.426622,153.052521,-27.426622],
-  "geometry": {"coordinates":[153.052521,-27.426622],"type":"Point"}
+  "bbox": [
+    153.052521,
+    -27.426622,
+    153.052521,
+    -27.426622
+],
+  "geometry": {"coordinates":[153.05252100000001,-27.426622],"type":"Point"}
 }

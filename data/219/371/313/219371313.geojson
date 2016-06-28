@@ -2,13 +2,14 @@
   "id": 219371313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.550415,-35.327129,143.550415,-35.327129",
     "geom:latitude":-35.327129,
     "geom:longitude":143.550415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Karinie St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219371313,
-    "wof:lastmodified":1449073149,
+    "wof:lastmodified":1466188108,
     "wof:name":"Mallee Tungsten Application",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hard"
     ]
 },
-  "bbox": [143.550415,-35.327129,143.550415,-35.327129],
-  "geometry": {"coordinates":[143.550415,-35.327129],"type":"Point"}
+  "bbox": [
+    143.550415,
+    -35.327129,
+    143.550415,
+    -35.327129
+],
+  "geometry": {"coordinates":[143.55041499999999,-35.327129],"type":"Point"}
 }

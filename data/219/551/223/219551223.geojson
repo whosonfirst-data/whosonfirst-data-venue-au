@@ -2,13 +2,14 @@
   "id": 219551223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.982407,-33.916519,150.982407,-33.916519",
     "geom:latitude":-33.916519,
     "geom:longitude":150.982407,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Rabaul & Henry Lawson Drv",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219551223,
-    "wof:lastmodified":1449071103,
+    "wof:lastmodified":1466190164,
     "wof:name":"Coleman Park Tennis Courts",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tennis"
     ]
 },
-  "bbox": [150.982407,-33.916519,150.982407,-33.916519],
-  "geometry": {"coordinates":[150.982407,-33.916519],"type":"Point"}
+  "bbox": [
+    150.982407,
+    -33.916519,
+    150.982407,
+    -33.916519
+],
+  "geometry": {"coordinates":[150.98240699999999,-33.916519],"type":"Point"}
 }

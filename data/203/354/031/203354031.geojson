@@ -2,13 +2,14 @@
   "id": 203354031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.860336,-37.547138,143.860336,-37.547138",
     "geom:latitude":-37.547138,
     "geom:longitude":143.860336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"617a Lydiard St",
     "sg:city":"Ballarat North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203354031,
-    "wof:lastmodified":1449026657,
+    "wof:lastmodified":1466188747,
     "wof:name":"Midland Counselling Psychological Practice",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [143.860336,-37.547138,143.860336,-37.547138],
-  "geometry": {"coordinates":[143.860336,-37.547138],"type":"Point"}
+  "bbox": [
+    143.860336,
+    -37.547138,
+    143.860336,
+    -37.547138
+],
+  "geometry": {"coordinates":[143.86033599999999,-37.547138],"type":"Point"}
 }

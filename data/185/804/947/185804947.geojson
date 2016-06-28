@@ -2,13 +2,14 @@
   "id": 185804947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.528305,-37.667374,145.528305,-37.667374",
     "geom:latitude":-37.667374,
     "geom:longitude":145.528305,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Badger Creek Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185804947,
-    "wof:lastmodified":1449007710,
+    "wof:lastmodified":1466189945,
     "wof:name":"Yarra Valley Picnics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [145.528305,-37.667374,145.528305,-37.667374],
-  "geometry": {"coordinates":[145.528305,-37.667374],"type":"Point"}
+  "bbox": [
+    145.528305,
+    -37.667374,
+    145.528305,
+    -37.667374
+],
+  "geometry": {"coordinates":[145.52830499999999,-37.667374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202430891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.950516,-37.844772,144.950516,-37.844772",
     "geom:latitude":-37.844772,
     "geom:longitude":144.950516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Victoria Ave",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202430891,
-    "wof:lastmodified":1449061702,
+    "wof:lastmodified":1466188419,
     "wof:name":"DG Global Productions",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [144.950516,-37.844772,144.950516,-37.844772],
-  "geometry": {"coordinates":[144.950516,-37.844772],"type":"Point"}
+  "bbox": [
+    144.950516,
+    -37.844772,
+    144.950516,
+    -37.844772
+],
+  "geometry": {"coordinates":[144.95051599999999,-37.844772],"type":"Point"}
 }

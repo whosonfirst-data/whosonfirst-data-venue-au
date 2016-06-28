@@ -2,13 +2,14 @@
   "id": 185987791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.471481,-33.36861,151.471481,-33.36861",
     "geom:latitude":-33.36861,
     "geom:longitude":151.471481,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Wyong Rd",
     "sg:city":"(Cnr Tasman Ave) Killarney Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185987791,
-    "wof:lastmodified":1449007508,
+    "wof:lastmodified":1466188804,
     "wof:name":"Balean Peter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.471481,-33.36861,151.471481,-33.36861],
-  "geometry": {"coordinates":[151.471481,-33.36861],"type":"Point"}
+  "bbox": [
+    151.471481,
+    -33.36861,
+    151.471481,
+    -33.36861
+],
+  "geometry": {"coordinates":[151.47148100000001,-33.36861],"type":"Point"}
 }

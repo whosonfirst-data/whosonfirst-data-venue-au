@@ -2,13 +2,14 @@
   "id": 236447969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.183014,-21.142509,149.183014,-21.142509",
     "geom:latitude":-21.142509,
     "geom:longitude":149.183014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 7, The Park Centre, 50",
     "sg:city":"Macalister Street Mackay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236447969,
-    "wof:lastmodified":1449004076,
+    "wof:lastmodified":1466191242,
     "wof:name":"K.N.M. Services Pty Ltd",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "consultant"
     ]
 },
-  "bbox": [149.183014,-21.142509,149.183014,-21.142509],
-  "geometry": {"coordinates":[149.183014,-21.142509],"type":"Point"}
+  "bbox": [
+    149.183014,
+    -21.142509,
+    149.183014,
+    -21.142509
+],
+  "geometry": {"coordinates":[149.18301399999999,-21.142509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203279683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.17572,-33.139919,148.17572,-33.139919",
     "geom:latitude":-33.139919,
     "geom:longitude":148.17572,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Clarinda St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203279683,
-    "wof:lastmodified":1449025781,
+    "wof:lastmodified":1466187795,
     "wof:name":"Parkes Paint & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [148.17572,-33.139919,148.17572,-33.139919],
-  "geometry": {"coordinates":[148.17572,-33.139919],"type":"Point"}
+  "bbox": [
+    148.17572,
+    -33.139919,
+    148.17572,
+    -33.139919
+],
+  "geometry": {"coordinates":[148.17572000000001,-33.139919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253310587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.406052,-38.000942,145.406052,-38.000942",
     "geom:latitude":-38.000942,
     "geom:longitude":145.406052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 St Georges Rd",
     "sg:city":"Beaconsfield Upper",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253310587,
-    "wof:lastmodified":1449064633,
+    "wof:lastmodified":1466190818,
     "wof:name":"St George Contracting",
     "wof:parent_id":85769425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "weed"
     ]
 },
-  "bbox": [145.406052,-38.000942,145.406052,-38.000942],
-  "geometry": {"coordinates":[145.406052,-38.000942],"type":"Point"}
+  "bbox": [
+    145.406052,
+    -38.000942,
+    145.406052,
+    -38.000942
+],
+  "geometry": {"coordinates":[145.40605199999999,-38.000942],"type":"Point"}
 }

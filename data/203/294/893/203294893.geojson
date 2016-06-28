@@ -2,13 +2,14 @@
   "id": 203294893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.135025,-33.085903,147.135025,-33.085903",
     "geom:latitude":-33.085903,
     "geom:longitude":147.135025,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Bathurst St",
     "sg:city":"Condobolin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203294893,
-    "wof:lastmodified":1449026318,
+    "wof:lastmodified":1466187908,
     "wof:name":"Mays Earthmoving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [147.135025,-33.085903,147.135025,-33.085903],
-  "geometry": {"coordinates":[147.135025,-33.085903],"type":"Point"}
+  "bbox": [
+    147.135025,
+    -33.085903,
+    147.135025,
+    -33.085903
+],
+  "geometry": {"coordinates":[147.13502500000001,-33.085903],"type":"Point"}
 }

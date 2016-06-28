@@ -2,13 +2,14 @@
   "id": 220183325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.345901,-38.161541,144.345901,-38.161541",
     "geom:latitude":-38.161541,
     "geom:longitude":144.345901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bloomsbury St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220183325,
-    "wof:lastmodified":1449074480,
+    "wof:lastmodified":1466189253,
     "wof:name":"Pivot Ice",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.345901,-38.161541,144.345901,-38.161541],
+  "bbox": [
+    144.345901,
+    -38.161541,
+    144.345901,
+    -38.161541
+],
   "geometry": {"coordinates":[144.345901,-38.161541],"type":"Point"}
 }

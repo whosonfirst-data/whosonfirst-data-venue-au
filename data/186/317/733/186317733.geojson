@@ -2,13 +2,14 @@
   "id": 186317733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.984871,-31.86352,115.984871,-31.86352",
     "geom:latitude":-31.86352,
     "geom:longitude":115.984871,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Grenache Crs",
     "sg:city":"Caversham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186317733,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466187915,
     "wof:name":"Resumes @ Work",
     "wof:parent_id":85777997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [115.984871,-31.86352,115.984871,-31.86352],
+  "bbox": [
+    115.984871,
+    -31.86352,
+    115.984871,
+    -31.86352
+],
   "geometry": {"coordinates":[115.984871,-31.86352],"type":"Point"}
 }

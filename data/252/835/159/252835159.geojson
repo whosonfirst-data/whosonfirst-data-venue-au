@@ -2,13 +2,14 @@
   "id": 252835159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.575134,-32.592342,149.575134,-32.592342",
     "geom:latitude":-32.592342,
     "geom:longitude":149.575134,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Gladstone St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252835159,
-    "wof:lastmodified":1449005562,
+    "wof:lastmodified":1466188428,
     "wof:name":"Meers W.E. Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [149.575134,-32.592342,149.575134,-32.592342],
-  "geometry": {"coordinates":[149.575134,-32.592342],"type":"Point"}
+  "bbox": [
+    149.575134,
+    -32.592342,
+    149.575134,
+    -32.592342
+],
+  "geometry": {"coordinates":[149.57513399999999,-32.592342],"type":"Point"}
 }

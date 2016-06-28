@@ -2,13 +2,14 @@
   "id": 236207343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.459015,-38.059219,145.459015,-38.059219",
     "geom:latitude":-38.059219,
     "geom:longitude":145.459015,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fcty1/ 30 Michael St",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236207343,
-    "wof:lastmodified":1449004056,
+    "wof:lastmodified":1466189984,
     "wof:name":"Sextastic Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "adult"
     ]
 },
-  "bbox": [145.459015,-38.059219,145.459015,-38.059219],
-  "geometry": {"coordinates":[145.459015,-38.059219],"type":"Point"}
+  "bbox": [
+    145.459015,
+    -38.059219,
+    145.459015,
+    -38.059219
+],
+  "geometry": {"coordinates":[145.45901499999999,-38.059219],"type":"Point"}
 }

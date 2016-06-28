@@ -2,13 +2,14 @@
   "id": 236966587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.557724,-37.949448,145.557724,-37.949448",
     "geom:latitude":-37.949448,
     "geom:longitude":145.557724,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Gembrook-Launching Place Rd",
     "sg:city":"Gembrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236966587,
-    "wof:lastmodified":1449001694,
+    "wof:lastmodified":1466192171,
     "wof:name":"Forest Edge Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [145.557724,-37.949448,145.557724,-37.949448],
-  "geometry": {"coordinates":[145.557724,-37.949448],"type":"Point"}
+  "bbox": [
+    145.557724,
+    -37.949448,
+    145.557724,
+    -37.949448
+],
+  "geometry": {"coordinates":[145.55772400000001,-37.949448],"type":"Point"}
 }

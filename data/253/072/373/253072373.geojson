@@ -2,13 +2,14 @@
   "id": 253072373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.754471,-37.765022,144.754471,-37.765022",
     "geom:latitude":-37.765022,
     "geom:longitude":144.754471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Waigani Ave",
     "sg:city":"Ravenhall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253072373,
-    "wof:lastmodified":1449064383,
+    "wof:lastmodified":1466188224,
     "wof:name":"EuroToy",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [144.754471,-37.765022,144.754471,-37.765022],
+  "bbox": [
+    144.754471,
+    -37.765022,
+    144.754471,
+    -37.765022
+],
   "geometry": {"coordinates":[144.754471,-37.765022],"type":"Point"}
 }

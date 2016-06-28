@@ -2,13 +2,14 @@
   "id": 202512101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.162048,-38.104343,145.162048,-38.104343",
     "geom:latitude":-38.104343,
     "geom:longitude":145.162048,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Frankston Gardens Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202512101,
-    "wof:lastmodified":1449061946,
+    "wof:lastmodified":1466189677,
     "wof:name":"Sunrooms Plus Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.162048,-38.104343,145.162048,-38.104343],
+  "bbox": [
+    145.162048,
+    -38.104343,
+    145.162048,
+    -38.104343
+],
   "geometry": {"coordinates":[145.162048,-38.104343],"type":"Point"}
 }

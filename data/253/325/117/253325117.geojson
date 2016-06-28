@@ -2,13 +2,14 @@
   "id": 253325117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.295227,-38.014523,145.295227,-38.014523",
     "geom:latitude":-38.014523,
     "geom:longitude":145.295227,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 1029",
     "sg:city":"/ Fountain Gate Shopping Centre Narre Warren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253325117,
-    "wof:lastmodified":1449063982,
+    "wof:lastmodified":1466190828,
     "wof:name":"Action World",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [145.295227,-38.014523,145.295227,-38.014523],
-  "geometry": {"coordinates":[145.295227,-38.014523],"type":"Point"}
+  "bbox": [
+    145.295227,
+    -38.014523,
+    145.295227,
+    -38.014523
+],
+  "geometry": {"coordinates":[145.29522700000001,-38.014523],"type":"Point"}
 }

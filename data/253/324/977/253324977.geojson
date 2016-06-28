@@ -2,13 +2,14 @@
   "id": 253324977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.308014,-38.020229,145.308014,-38.020229",
     "geom:latitude":-38.020229,
     "geom:longitude":145.308014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Cranbourne-Narre Warren Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253324977,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466190825,
     "wof:name":"Drren Pirouet Concreting",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.308014,-38.020229,145.308014,-38.020229],
-  "geometry": {"coordinates":[145.308014,-38.020229],"type":"Point"}
+  "bbox": [
+    145.308014,
+    -38.020229,
+    145.308014,
+    -38.020229
+],
+  "geometry": {"coordinates":[145.30801399999999,-38.020229],"type":"Point"}
 }

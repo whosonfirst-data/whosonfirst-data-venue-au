@@ -2,13 +2,14 @@
   "id": 185624659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.919418,-32.05872,115.919418,-32.05872",
     "geom:latitude":-32.05872,
     "geom:longitude":115.919418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11/ 110 Bannister Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185624659,
-    "wof:lastmodified":1449007692,
+    "wof:lastmodified":1466187695,
     "wof:name":"In2Process",
     "wof:parent_id":85775581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [115.919418,-32.05872,115.919418,-32.05872],
-  "geometry": {"coordinates":[115.919418,-32.05872],"type":"Point"}
+  "bbox": [
+    115.919418,
+    -32.05872,
+    115.919418,
+    -32.05872
+],
+  "geometry": {"coordinates":[115.91941799999999,-32.05872],"type":"Point"}
 }

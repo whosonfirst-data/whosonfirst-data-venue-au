@@ -2,13 +2,14 @@
   "id": 220028717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.603806,-35.007954,138.603806,-35.007954",
     "geom:latitude":-35.007954,
     "geom:longitude":138.603806,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Mead St",
     "sg:city":"Belair",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220028717,
-    "wof:lastmodified":1449074486,
+    "wof:lastmodified":1466187288,
     "wof:name":"F.E.S. Training",
     "wof:parent_id":85777437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "safety"
     ]
 },
-  "bbox": [138.603806,-35.007954,138.603806,-35.007954],
-  "geometry": {"coordinates":[138.603806,-35.007954],"type":"Point"}
+  "bbox": [
+    138.603806,
+    -35.007954,
+    138.603806,
+    -35.007954
+],
+  "geometry": {"coordinates":[138.60380599999999,-35.007954],"type":"Point"}
 }

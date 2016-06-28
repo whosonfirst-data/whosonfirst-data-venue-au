@@ -2,13 +2,14 @@
   "id": 203014045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.504578,-20.726498,139.504578,-20.726498",
     "geom:latitude":-20.726498,
     "geom:longitude":139.504578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Butler St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203014045,
-    "wof:lastmodified":1449025852,
+    "wof:lastmodified":1466187394,
     "wof:name":"Copper City Motel",
     "wof:parent_id":85776299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.504578,-20.726498,139.504578,-20.726498],
-  "geometry": {"coordinates":[139.504578,-20.726498],"type":"Point"}
+  "bbox": [
+    139.504578,
+    -20.726498,
+    139.504578,
+    -20.726498
+],
+  "geometry": {"coordinates":[139.50457800000001,-20.726498],"type":"Point"}
 }

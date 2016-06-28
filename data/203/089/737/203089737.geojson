@@ -2,13 +2,14 @@
   "id": 203089737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.063988,-32.713581,116.063988,-32.713581",
     "geom:latitude":-32.713581,
     "geom:longitude":116.063988,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 McLarty St",
     "sg:city":"Dwellingup",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203089737,
-    "wof:lastmodified":1449025315,
+    "wof:lastmodified":1466188895,
     "wof:name":"Ampol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [116.063988,-32.713581,116.063988,-32.713581],
-  "geometry": {"coordinates":[116.063988,-32.713581],"type":"Point"}
+  "bbox": [
+    116.063988,
+    -32.713581,
+    116.063988,
+    -32.713581
+],
+  "geometry": {"coordinates":[116.06398799999999,-32.713581],"type":"Point"}
 }

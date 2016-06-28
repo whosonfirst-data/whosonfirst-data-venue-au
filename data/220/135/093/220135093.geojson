@@ -2,13 +2,14 @@
   "id": 220135093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.361588,-38.152,144.361588,-38.152",
     "geom:latitude":-38.152,
     "geom:longitude":144.361588,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220135093,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466188292,
     "wof:name":"Carrington Hotel",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.361588,-38.152,144.361588,-38.152],
-  "geometry": {"coordinates":[144.361588,-38.152],"type":"Point"}
+  "bbox": [
+    144.361588,
+    -38.152,
+    144.361588,
+    -38.152
+],
+  "geometry": {"coordinates":[144.36158800000001,-38.152],"type":"Point"}
 }

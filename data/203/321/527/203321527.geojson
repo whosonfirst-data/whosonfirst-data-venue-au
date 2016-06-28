@@ -2,13 +2,14 @@
   "id": 203321527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.811523,-37.587372,143.811523,-37.587372",
     "geom:latitude":-37.587372,
     "geom:longitude":143.811523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Bellview Crt",
     "sg:city":"Delacombe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203321527,
-    "wof:lastmodified":1449024990,
+    "wof:lastmodified":1466188285,
     "wof:name":"Hill Paul A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixer"
     ]
 },
-  "bbox": [143.811523,-37.587372,143.811523,-37.587372],
-  "geometry": {"coordinates":[143.811523,-37.587372],"type":"Point"}
+  "bbox": [
+    143.811523,
+    -37.587372,
+    143.811523,
+    -37.587372
+],
+  "geometry": {"coordinates":[143.81152299999999,-37.587372],"type":"Point"}
 }

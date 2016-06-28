@@ -2,13 +2,14 @@
   "id": 186428239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809937,-19.26371,146.809937,-19.26371",
     "geom:latitude":-19.26371,
     "geom:longitude":146.809937,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Walker St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186428239,
-    "wof:lastmodified":1449052850,
+    "wof:lastmodified":1466190020,
     "wof:name":"Mike Madjerich",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fixer"
     ]
 },
-  "bbox": [146.809937,-19.26371,146.809937,-19.26371],
-  "geometry": {"coordinates":[146.809937,-19.26371],"type":"Point"}
+  "bbox": [
+    146.809937,
+    -19.26371,
+    146.809937,
+    -19.26371
+],
+  "geometry": {"coordinates":[146.80993699999999,-19.26371],"type":"Point"}
 }

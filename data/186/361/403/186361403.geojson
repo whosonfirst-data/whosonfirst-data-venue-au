@@ -2,13 +2,14 @@
   "id": 186361403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.141357,-33.866112,151.141357,-33.866112",
     "geom:latitude":-33.866112,
     "geom:longitude":151.141357,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 First Ave",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186361403,
-    "wof:lastmodified":1449052311,
+    "wof:lastmodified":1466188662,
     "wof:name":"Rodd Point Convenience Store",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.141357,-33.866112,151.141357,-33.866112],
+  "bbox": [
+    151.141357,
+    -33.866112,
+    151.141357,
+    -33.866112
+],
   "geometry": {"coordinates":[151.141357,-33.866112],"type":"Point"}
 }

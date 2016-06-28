@@ -2,13 +2,14 @@
   "id": 253324695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.30249,-38.020325,145.30249,-38.020325",
     "geom:latitude":-38.020325,
     "geom:longitude":145.30249,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite S1006 Overland Drv",
     "sg:city":"Fountain Gate",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253324695,
-    "wof:lastmodified":1449064541,
+    "wof:lastmodified":1466190929,
     "wof:name":"Community Information Centres",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [145.30249,-38.020325,145.30249,-38.020325],
-  "geometry": {"coordinates":[145.30249,-38.020325],"type":"Point"}
+  "bbox": [
+    145.30249,
+    -38.020325,
+    145.30249,
+    -38.020325
+],
+  "geometry": {"coordinates":[145.30249000000001,-38.020325],"type":"Point"}
 }

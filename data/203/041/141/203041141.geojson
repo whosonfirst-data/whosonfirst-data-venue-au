@@ -2,13 +2,14 @@
   "id": 203041141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.953445,-24.987709,151.953445,-24.987709",
     "geom:latitude":-24.987709,
     "geom:longitude":151.953445,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Mulgrave St",
     "sg:city":"Gin Gin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203041141,
-    "wof:lastmodified":1449025597,
+    "wof:lastmodified":1466188045,
     "wof:name":"Wild Scotchman Auto Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.953445,-24.987709,151.953445,-24.987709],
-  "geometry": {"coordinates":[151.953445,-24.987709],"type":"Point"}
+  "bbox": [
+    151.953445,
+    -24.987709,
+    151.953445,
+    -24.987709
+],
+  "geometry": {"coordinates":[151.95344499999999,-24.987709],"type":"Point"}
 }

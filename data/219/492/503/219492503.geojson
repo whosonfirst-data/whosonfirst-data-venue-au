@@ -2,13 +2,14 @@
   "id": 219492503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.046204,-33.893375,151.046204,-33.893375",
     "geom:latitude":-33.893375,
     "geom:longitude":151.046204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Muir Rd & Worth St",
     "sg:city":"Chullora",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219492503,
-    "wof:lastmodified":1449070380,
+    "wof:lastmodified":1466189365,
     "wof:name":"TAFE NSW - South Western Sydney Institute Chullora Campus",
     "wof:parent_id":85769039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "training"
     ]
 },
-  "bbox": [151.046204,-33.893375,151.046204,-33.893375],
-  "geometry": {"coordinates":[151.046204,-33.893375],"type":"Point"}
+  "bbox": [
+    151.046204,
+    -33.893375,
+    151.046204,
+    -33.893375
+],
+  "geometry": {"coordinates":[151.04620399999999,-33.893375],"type":"Point"}
 }

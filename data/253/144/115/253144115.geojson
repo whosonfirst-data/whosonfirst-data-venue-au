@@ -2,13 +2,14 @@
   "id": 253144115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.899994,-27.533482,151.899994,-27.533482",
     "geom:latitude":-27.533482,
     "geom:longitude":151.899994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Bridge St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253144115,
-    "wof:lastmodified":1449064992,
+    "wof:lastmodified":1466189499,
     "wof:name":"Barry The Picture Framer & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "framing"
     ]
 },
-  "bbox": [151.899994,-27.533482,151.899994,-27.533482],
-  "geometry": {"coordinates":[151.899994,-27.533482],"type":"Point"}
+  "bbox": [
+    151.899994,
+    -27.533482,
+    151.899994,
+    -27.533482
+],
+  "geometry": {"coordinates":[151.89999399999999,-27.533482],"type":"Point"}
 }

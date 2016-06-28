@@ -2,13 +2,14 @@
   "id": 219237643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.990189,-37.776028,144.990189,-37.776028",
     "geom:latitude":-37.776028,
     "geom:longitude":144.990189,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 St. Georges Rd",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219237643,
-    "wof:lastmodified":1449070457,
+    "wof:lastmodified":1466189933,
     "wof:name":"Melbourne Embroidery Pty Ltd",
     "wof:parent_id":85775161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [144.990189,-37.776028,144.990189,-37.776028],
-  "geometry": {"coordinates":[144.990189,-37.776028],"type":"Point"}
+  "bbox": [
+    144.990189,
+    -37.776028,
+    144.990189,
+    -37.776028
+],
+  "geometry": {"coordinates":[144.99018899999999,-37.776028],"type":"Point"}
 }

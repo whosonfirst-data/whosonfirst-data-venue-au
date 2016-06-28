@@ -2,13 +2,14 @@
   "id": 252942709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088715,-26.52857,153.088715,-26.52857",
     "geom:latitude":-26.52857,
     "geom:longitude":153.088715,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 24b Pacific on Coolum Heathfield Rd",
     "sg:city":"Coolum Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252942709,
-    "wof:lastmodified":1449005913,
+    "wof:lastmodified":1466189355,
     "wof:name":"ATR Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [153.088715,-26.52857,153.088715,-26.52857],
-  "geometry": {"coordinates":[153.088715,-26.52857],"type":"Point"}
+  "bbox": [
+    153.088715,
+    -26.52857,
+    153.088715,
+    -26.52857
+],
+  "geometry": {"coordinates":[153.08871500000001,-26.52857],"type":"Point"}
 }

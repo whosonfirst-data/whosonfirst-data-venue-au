@@ -2,13 +2,14 @@
   "id": 169758455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.106308,-27.229475,153.106308,-27.229475",
     "geom:latitude":-27.229475,
     "geom:longitude":153.106308,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Anzac Ave",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169758455,
-    "wof:lastmodified":1449033686,
+    "wof:lastmodified":1466188016,
     "wof:name":"Redcliffe Museum",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.106308,-27.229475,153.106308,-27.229475],
-  "geometry": {"coordinates":[153.106308,-27.229475],"type":"Point"}
+  "bbox": [
+    153.106308,
+    -27.229475,
+    153.106308,
+    -27.229475
+],
+  "geometry": {"coordinates":[153.10630800000001,-27.229475],"type":"Point"}
 }

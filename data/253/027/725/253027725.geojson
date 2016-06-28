@@ -2,13 +2,14 @@
   "id": 253027725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.80809,-37.81543,144.80809,-37.81543",
     "geom:latitude":-37.81543,
     "geom:longitude":144.80809,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Crn Western Ring Rd & Boundary Rds",
     "sg:city":"Laverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253027725,
-    "wof:lastmodified":1449063364,
+    "wof:lastmodified":1466187467,
     "wof:name":"Adtrans Truck Centre",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [144.80809,-37.81543,144.80809,-37.81543],
-  "geometry": {"coordinates":[144.80809,-37.81543],"type":"Point"}
+  "bbox": [
+    144.80809,
+    -37.81543,
+    144.80809,
+    -37.81543
+],
+  "geometry": {"coordinates":[144.80808999999999,-37.81543],"type":"Point"}
 }

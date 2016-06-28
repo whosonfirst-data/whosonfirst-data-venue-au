@@ -2,13 +2,14 @@
   "id": 235957027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.895157,-12.377602,130.895157,-12.377602",
     "geom:latitude":-12.377602,
     "geom:longitude":130.895157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Leanyer Drv",
     "sg:city":"Leanyer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235957027,
-    "wof:lastmodified":1449008545,
+    "wof:lastmodified":1466187174,
     "wof:name":"Signs Of Safety",
     "wof:parent_id":85774863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [130.895157,-12.377602,130.895157,-12.377602],
-  "geometry": {"coordinates":[130.895157,-12.377602],"type":"Point"}
+  "bbox": [
+    130.895157,
+    -12.377602,
+    130.895157,
+    -12.377602
+],
+  "geometry": {"coordinates":[130.89515700000001,-12.377602],"type":"Point"}
 }

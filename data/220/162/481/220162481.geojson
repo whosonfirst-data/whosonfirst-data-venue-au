@@ -2,13 +2,14 @@
   "id": 220162481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.362244,-38.150547,144.362244,-38.150547",
     "geom:latitude":-38.150547,
     "geom:longitude":144.362244,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220162481,
-    "wof:lastmodified":1449074751,
+    "wof:lastmodified":1466188843,
     "wof:name":"Usher's Fully Licensed Restaurant",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [144.362244,-38.150547,144.362244,-38.150547],
+  "bbox": [
+    144.362244,
+    -38.150547,
+    144.362244,
+    -38.150547
+],
   "geometry": {"coordinates":[144.362244,-38.150547],"type":"Point"}
 }

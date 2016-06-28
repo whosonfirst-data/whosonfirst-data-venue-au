@@ -2,13 +2,14 @@
   "id": 185894455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.703247,-25.546274,152.703247,-25.546274",
     "geom:latitude":-25.546274,
     "geom:longitude":152.703247,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"210-220 Albert St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185894455,
-    "wof:lastmodified":1449007265,
+    "wof:lastmodified":1466187909,
     "wof:name":"Albert Primary",
     "wof:parent_id":85779645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [152.703247,-25.546274,152.703247,-25.546274],
+  "bbox": [
+    152.703247,
+    -25.546274,
+    152.703247,
+    -25.546274
+],
   "geometry": {"coordinates":[152.703247,-25.546274],"type":"Point"}
 }

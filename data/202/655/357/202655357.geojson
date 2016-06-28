@@ -2,13 +2,14 @@
   "id": 202655357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.028595,-27.437719,153.028595,-27.437719",
     "geom:latitude":-27.437719,
     "geom:longitude":153.028595,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 2158",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202655357,
-    "wof:lastmodified":1449061562,
+    "wof:lastmodified":1466187984,
     "wof:name":"Caboolture Courier Service",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [153.028595,-27.437719,153.028595,-27.437719],
+  "bbox": [
+    153.028595,
+    -27.437719,
+    153.028595,
+    -27.437719
+],
   "geometry": {"coordinates":[153.028595,-27.437719],"type":"Point"}
 }

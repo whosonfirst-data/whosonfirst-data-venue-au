@@ -2,13 +2,14 @@
   "id": 202909863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.191086,-30.118963,153.191086,-30.118963",
     "geom:latitude":-30.118963,
     "geom:longitude":153.191086,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Arkan Ave",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202909863,
-    "wof:lastmodified":1449062022,
+    "wof:lastmodified":1466190822,
     "wof:name":"Paul's Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [153.191086,-30.118963,153.191086,-30.118963],
-  "geometry": {"coordinates":[153.191086,-30.118963],"type":"Point"}
+  "bbox": [
+    153.191086,
+    -30.118963,
+    153.191086,
+    -30.118963
+],
+  "geometry": {"coordinates":[153.19108600000001,-30.118963],"type":"Point"}
 }

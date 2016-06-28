@@ -2,13 +2,14 @@
   "id": 219935749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"142.227615,-34.181248,142.227615,-34.181248",
     "geom:latitude":-34.181248,
     "geom:longitude":142.227615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Sturt Hwy",
     "sg:city":"Buronga",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219935749,
-    "wof:lastmodified":1449073288,
+    "wof:lastmodified":1466191858,
     "wof:name":"The Edge Hotel Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [142.227615,-34.181248,142.227615,-34.181248],
-  "geometry": {"coordinates":[142.227615,-34.181248],"type":"Point"}
+  "bbox": [
+    142.227615,
+    -34.181248,
+    142.227615,
+    -34.181248
+],
+  "geometry": {"coordinates":[142.22761499999999,-34.181248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252799583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.422363,-41.346935,146.422363,-41.346935",
     "geom:latitude":-41.346935,
     "geom:longitude":146.422363,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Foster St",
     "sg:city":"Railton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252799583,
-    "wof:lastmodified":1449006517,
+    "wof:lastmodified":1466188136,
     "wof:name":"Railton Town of Topiary Tea Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.422363,-41.346935,146.422363,-41.346935],
-  "geometry": {"coordinates":[146.422363,-41.346935],"type":"Point"}
+  "bbox": [
+    146.422363,
+    -41.346935,
+    146.422363,
+    -41.346935
+],
+  "geometry": {"coordinates":[146.42236299999999,-41.346935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236685407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.421646,-31.880808,152.421646,-31.880808",
     "geom:latitude":-31.880808,
     "geom:longitude":152.421646,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Hargreaves Drv",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236685407,
-    "wof:lastmodified":1449005150,
+    "wof:lastmodified":1466191822,
     "wof:name":"API Manufacturing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [152.421646,-31.880808,152.421646,-31.880808],
-  "geometry": {"coordinates":[152.421646,-31.880808],"type":"Point"}
+  "bbox": [
+    152.421646,
+    -31.880808,
+    152.421646,
+    -31.880808
+],
+  "geometry": {"coordinates":[152.42164600000001,-31.880808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186452295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.171204,-33.899151,151.171204,-33.899151",
     "geom:latitude":-33.899151,
     "geom:longitude":151.171204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor, 203 Enmore Rd",
     "sg:city":"Enmore",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186452295,
-    "wof:lastmodified":1449051031,
+    "wof:lastmodified":1466190181,
     "wof:name":"Orchid industries",
     "wof:parent_id":85778785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "qld"
     ]
 },
-  "bbox": [151.171204,-33.899151,151.171204,-33.899151],
-  "geometry": {"coordinates":[151.171204,-33.899151],"type":"Point"}
+  "bbox": [
+    151.171204,
+    -33.899151,
+    151.171204,
+    -33.899151
+],
+  "geometry": {"coordinates":[151.17120399999999,-33.899151],"type":"Point"}
 }

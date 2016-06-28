@@ -2,13 +2,14 @@
   "id": 219895915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.877686,-34.397736,150.877686,-34.397736",
     "geom:latitude":-34.397736,
     "geom:longitude":150.877686,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Oceanview Pde",
     "sg:city":"Mt Ousley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219895915,
-    "wof:lastmodified":1449071883,
+    "wof:lastmodified":1466191582,
     "wof:name":"MTS Quality Sportswear",
     "wof:parent_id":85776059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sportswear"
     ]
 },
-  "bbox": [150.877686,-34.397736,150.877686,-34.397736],
-  "geometry": {"coordinates":[150.877686,-34.397736],"type":"Point"}
+  "bbox": [
+    150.877686,
+    -34.397736,
+    150.877686,
+    -34.397736
+],
+  "geometry": {"coordinates":[150.87768600000001,-34.397736],"type":"Point"}
 }

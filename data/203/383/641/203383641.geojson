@@ -2,13 +2,14 @@
   "id": 203383641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.847717,-37.555202,143.847717,-37.555202",
     "geom:latitude":-37.555202,
     "geom:longitude":143.847717,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Victoria Ave",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203383641,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466189262,
     "wof:name":"DPR Building Pty. Ltd.",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.847717,-37.555202,143.847717,-37.555202],
-  "geometry": {"coordinates":[143.847717,-37.555202],"type":"Point"}
+  "bbox": [
+    143.847717,
+    -37.555202,
+    143.847717,
+    -37.555202
+],
+  "geometry": {"coordinates":[143.84771699999999,-37.555202],"type":"Point"}
 }

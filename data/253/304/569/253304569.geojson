@@ -2,13 +2,14 @@
   "id": 253304569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.904037,-24.574966,151.904037,-24.574966",
     "geom:latitude":-24.574966,
     "geom:longitude":151.904037,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Stegmans Rd",
     "sg:city":"Rosedale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253304569,
-    "wof:lastmodified":1449065024,
+    "wof:lastmodified":1466190652,
     "wof:name":"McDonald A R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.904037,-24.574966,151.904037,-24.574966],
-  "geometry": {"coordinates":[151.904037,-24.574966],"type":"Point"}
+  "bbox": [
+    151.904037,
+    -24.574966,
+    151.904037,
+    -24.574966
+],
+  "geometry": {"coordinates":[151.90403699999999,-24.574966],"type":"Point"}
 }

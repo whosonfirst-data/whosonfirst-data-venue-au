@@ -2,13 +2,14 @@
   "id": 236770917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.964645,-27.051928,152.964645,-27.051928",
     "geom:latitude":-27.051928,
     "geom:longitude":152.964645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Flowers Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236770917,
-    "wof:lastmodified":1449005324,
+    "wof:lastmodified":1466191927,
     "wof:name":"Collin Tranter Gasfitter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [152.964645,-27.051928,152.964645,-27.051928],
-  "geometry": {"coordinates":[152.964645,-27.051928],"type":"Point"}
+  "bbox": [
+    152.964645,
+    -27.051928,
+    152.964645,
+    -27.051928
+],
+  "geometry": {"coordinates":[152.96464499999999,-27.051928],"type":"Point"}
 }

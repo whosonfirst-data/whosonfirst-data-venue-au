@@ -2,13 +2,14 @@
   "id": 253086649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.818802,-37.736912,144.818802,-37.736912",
     "geom:latitude":-37.736912,
     "geom:longitude":144.818802,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Perrett Ave",
     "sg:city":"St Albans East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253086649,
-    "wof:lastmodified":1449064820,
+    "wof:lastmodified":1466188479,
     "wof:name":"M.A.S.S. Electrics",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.818802,-37.736912,144.818802,-37.736912],
-  "geometry": {"coordinates":[144.818802,-37.736912],"type":"Point"}
+  "bbox": [
+    144.818802,
+    -37.736912,
+    144.818802,
+    -37.736912
+],
+  "geometry": {"coordinates":[144.81880200000001,-37.736912],"type":"Point"}
 }

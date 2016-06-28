@@ -2,13 +2,14 @@
   "id": 203109087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.726768,-32.530327,115.726768,-32.530327",
     "geom:latitude":-32.530327,
     "geom:longitude":115.726768,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Cooper St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203109087,
-    "wof:lastmodified":1449025579,
+    "wof:lastmodified":1466189175,
     "wof:name":"CJK Transport & Crane Hire",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [115.726768,-32.530327,115.726768,-32.530327],
-  "geometry": {"coordinates":[115.726768,-32.530327],"type":"Point"}
+  "bbox": [
+    115.726768,
+    -32.530327,
+    115.726768,
+    -32.530327
+],
+  "geometry": {"coordinates":[115.72676800000001,-32.530327],"type":"Point"}
 }

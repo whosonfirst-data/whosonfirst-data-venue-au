@@ -2,13 +2,14 @@
   "id": 186246275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.888336,-31.434679,152.888336,-31.434679",
     "geom:latitude":-31.434679,
     "geom:longitude":152.888336,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Clifton Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186246275,
-    "wof:lastmodified":1449050435,
+    "wof:lastmodified":1466187388,
     "wof:name":"Catholic Care Of The Aged",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [152.888336,-31.434679,152.888336,-31.434679],
-  "geometry": {"coordinates":[152.888336,-31.434679],"type":"Point"}
+  "bbox": [
+    152.888336,
+    -31.434679,
+    152.888336,
+    -31.434679
+],
+  "geometry": {"coordinates":[152.88833600000001,-31.434679],"type":"Point"}
 }

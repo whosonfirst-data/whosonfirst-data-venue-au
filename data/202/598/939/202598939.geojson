@@ -2,13 +2,14 @@
   "id": 202598939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.118591,-37.553951,144.118591,-37.553951",
     "geom:latitude":-37.553951,
     "geom:longitude":144.118591,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Moorabool West Rd",
     "sg:city":"Gordon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202598939,
-    "wof:lastmodified":1449060232,
+    "wof:lastmodified":1466187270,
     "wof:name":"M.G. Trenching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.118591,-37.553951,144.118591,-37.553951],
-  "geometry": {"coordinates":[144.118591,-37.553951],"type":"Point"}
+  "bbox": [
+    144.118591,
+    -37.553951,
+    144.118591,
+    -37.553951
+],
+  "geometry": {"coordinates":[144.11859100000001,-37.553951],"type":"Point"}
 }

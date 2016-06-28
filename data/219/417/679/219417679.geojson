@@ -2,13 +2,14 @@
   "id": 219417679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.857895,-33.748989,150.857895,-33.748989",
     "geom:latitude":-33.748989,
     "geom:longitude":150.857895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Owen St",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219417679,
-    "wof:lastmodified":1449071835,
+    "wof:lastmodified":1466188552,
     "wof:name":"Signature Joinery & Design",
     "wof:parent_id":85769193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [150.857895,-33.748989,150.857895,-33.748989],
-  "geometry": {"coordinates":[150.857895,-33.748989],"type":"Point"}
+  "bbox": [
+    150.857895,
+    -33.748989,
+    150.857895,
+    -33.748989
+],
+  "geometry": {"coordinates":[150.85789500000001,-33.748989],"type":"Point"}
 }

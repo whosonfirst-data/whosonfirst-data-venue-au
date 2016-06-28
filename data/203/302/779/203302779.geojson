@@ -2,13 +2,14 @@
   "id": 203302779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.843597,-37.542484,143.843597,-37.542484",
     "geom:latitude":-37.542484,
     "geom:longitude":143.843597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Burnbank St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203302779,
-    "wof:lastmodified":1449025551,
+    "wof:lastmodified":1466187982,
     "wof:name":"V.A.C.C.",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [143.843597,-37.542484,143.843597,-37.542484],
-  "geometry": {"coordinates":[143.843597,-37.542484],"type":"Point"}
+  "bbox": [
+    143.843597,
+    -37.542484,
+    143.843597,
+    -37.542484
+],
+  "geometry": {"coordinates":[143.84359699999999,-37.542484],"type":"Point"}
 }

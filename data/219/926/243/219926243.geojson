@@ -2,13 +2,14 @@
   "id": 219926243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.772202,-36.109035,144.772202,-36.109035",
     "geom:latitude":-36.109035,
     "geom:longitude":144.772202,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Dawson St",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219926243,
-    "wof:lastmodified":1449071625,
+    "wof:lastmodified":1466191845,
     "wof:name":"Echuca/Moama Caterworx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [144.772202,-36.109035,144.772202,-36.109035],
-  "geometry": {"coordinates":[144.772202,-36.109035],"type":"Point"}
+  "bbox": [
+    144.772202,
+    -36.109035,
+    144.772202,
+    -36.109035
+],
+  "geometry": {"coordinates":[144.77220199999999,-36.109035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202821241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.154266,-23.503839,148.154266,-23.503839",
     "geom:latitude":-23.503839,
     "geom:longitude":148.154266,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"GPO Box 1599",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202821241,
-    "wof:lastmodified":1449061495,
+    "wof:lastmodified":1466190400,
     "wof:name":"Kade Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [148.154266,-23.503839,148.154266,-23.503839],
-  "geometry": {"coordinates":[148.154266,-23.503839],"type":"Point"}
+  "bbox": [
+    148.154266,
+    -23.503839,
+    148.154266,
+    -23.503839
+],
+  "geometry": {"coordinates":[148.15426600000001,-23.503839],"type":"Point"}
 }

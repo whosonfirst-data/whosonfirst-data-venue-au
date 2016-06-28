@@ -2,13 +2,14 @@
   "id": 236360113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.792908,-32.055271,115.792908,-32.055271",
     "geom:latitude":-32.055271,
     "geom:longitude":115.792908,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Forsyth St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236360113,
-    "wof:lastmodified":1449004339,
+    "wof:lastmodified":1466190947,
     "wof:name":"Magruba Pty Ltd",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "material"
     ]
 },
-  "bbox": [115.792908,-32.055271,115.792908,-32.055271],
+  "bbox": [
+    115.792908,
+    -32.055271,
+    115.792908,
+    -32.055271
+],
   "geometry": {"coordinates":[115.792908,-32.055271],"type":"Point"}
 }

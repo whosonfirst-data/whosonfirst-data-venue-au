@@ -2,13 +2,14 @@
   "id": 202783295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.768936,-32.931061,151.768936,-32.931061",
     "geom:latitude":-32.931061,
     "geom:longitude":151.768936,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Bull St",
     "sg:city":"Cooks Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202783295,
-    "wof:lastmodified":1449060173,
+    "wof:lastmodified":1466190198,
     "wof:name":"Monument Developments",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [151.768936,-32.931061,151.768936,-32.931061],
+  "bbox": [
+    151.768936,
+    -32.931061,
+    151.768936,
+    -32.931061
+],
   "geometry": {"coordinates":[151.768936,-32.931061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236127839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.867386,-37.733101,144.867386,-37.733101",
     "geom:latitude":-37.733101,
     "geom:longitude":144.867386,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Centreway, 44 Wingara Ave",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236127839,
-    "wof:lastmodified":1449004924,
+    "wof:lastmodified":1466189202,
     "wof:name":"Curves Keilor East",
     "wof:parent_id":85777847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.867386,-37.733101,144.867386,-37.733101],
-  "geometry": {"coordinates":[144.867386,-37.733101],"type":"Point"}
+  "bbox": [
+    144.867386,
+    -37.733101,
+    144.867386,
+    -37.733101
+],
+  "geometry": {"coordinates":[144.86738600000001,-37.733101],"type":"Point"}
 }

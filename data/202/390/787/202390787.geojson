@@ -2,13 +2,14 @@
   "id": 202390787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.746597,-34.604401,138.746597,-34.604401",
     "geom:latitude":-34.604401,
     "geom:longitude":138.746597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Adelaide Rd",
     "sg:city":"Gawler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202390787,
-    "wof:lastmodified":1449062681,
+    "wof:lastmodified":1466187401,
     "wof:name":"Reid Mark",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.746597,-34.604401,138.746597,-34.604401],
-  "geometry": {"coordinates":[138.746597,-34.604401],"type":"Point"}
+  "bbox": [
+    138.746597,
+    -34.604401,
+    138.746597,
+    -34.604401
+],
+  "geometry": {"coordinates":[138.74659700000001,-34.604401],"type":"Point"}
 }

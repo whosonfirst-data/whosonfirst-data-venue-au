@@ -2,13 +2,14 @@
   "id": 219629315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.146561,-33.928631,151.146561,-33.928631",
     "geom:latitude":-33.928631,
     "geom:longitude":151.146561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Turrella St",
     "sg:city":"Turrella",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219629315,
-    "wof:lastmodified":1449073105,
+    "wof:lastmodified":1466190752,
     "wof:name":"Tulloch Aust. Pty Ltd",
     "wof:parent_id":85776749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [151.146561,-33.928631,151.146561,-33.928631],
-  "geometry": {"coordinates":[151.146561,-33.928631],"type":"Point"}
+  "bbox": [
+    151.146561,
+    -33.928631,
+    151.146561,
+    -33.928631
+],
+  "geometry": {"coordinates":[151.14656099999999,-33.928631],"type":"Point"}
 }

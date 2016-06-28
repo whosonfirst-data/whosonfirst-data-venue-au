@@ -2,13 +2,14 @@
   "id": 203383365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.856003,-37.575146,143.856003,-37.575146",
     "geom:latitude":-37.575146,
     "geom:longitude":143.856003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Barkly St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203383365,
-    "wof:lastmodified":1449025731,
+    "wof:lastmodified":1466189258,
     "wof:name":"Inkjet & Toner",
     "wof:parent_id":85780769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [143.856003,-37.575146,143.856003,-37.575146],
-  "geometry": {"coordinates":[143.856003,-37.575146],"type":"Point"}
+  "bbox": [
+    143.856003,
+    -37.575146,
+    143.856003,
+    -37.575146
+],
+  "geometry": {"coordinates":[143.85600299999999,-37.575146],"type":"Point"}
 }

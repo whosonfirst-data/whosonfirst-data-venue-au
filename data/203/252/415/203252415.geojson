@@ -2,13 +2,14 @@
   "id": 203252415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.007156,-33.383755,148.007156,-33.383755",
     "geom:latitude":-33.383755,
     "geom:longitude":148.007156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Rankin St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203252415,
-    "wof:lastmodified":1449025192,
+    "wof:lastmodified":1466187590,
     "wof:name":"Wattle Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.007156,-33.383755,148.007156,-33.383755],
-  "geometry": {"coordinates":[148.007156,-33.383755],"type":"Point"}
+  "bbox": [
+    148.007156,
+    -33.383755,
+    148.007156,
+    -33.383755
+],
+  "geometry": {"coordinates":[148.00715600000001,-33.383755],"type":"Point"}
 }

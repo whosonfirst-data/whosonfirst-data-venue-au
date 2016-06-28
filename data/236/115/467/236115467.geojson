@@ -2,13 +2,14 @@
   "id": 236115467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.879272,-37.774605,144.879272,-37.774605",
     "geom:latitude":-37.774605,
     "geom:longitude":144.879272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Williamson Rd",
     "sg:city":"Maribyrnong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236115467,
-    "wof:lastmodified":1449001658,
+    "wof:lastmodified":1466188948,
     "wof:name":"City Finance",
     "wof:parent_id":85771437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financier"
     ]
 },
-  "bbox": [144.879272,-37.774605,144.879272,-37.774605],
-  "geometry": {"coordinates":[144.879272,-37.774605],"type":"Point"}
+  "bbox": [
+    144.879272,
+    -37.774605,
+    144.879272,
+    -37.774605
+],
+  "geometry": {"coordinates":[144.87927199999999,-37.774605],"type":"Point"}
 }

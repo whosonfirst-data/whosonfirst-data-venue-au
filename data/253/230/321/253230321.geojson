@@ -2,13 +2,14 @@
   "id": 253230321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.976929,-27.590406,151.976929,-27.590406",
     "geom:latitude":-27.590406,
     "geom:longitude":151.976929,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Jacaranda Crt",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253230321,
-    "wof:lastmodified":1449065018,
+    "wof:lastmodified":1466190408,
     "wof:name":"Perry E J",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [151.976929,-27.590406,151.976929,-27.590406],
-  "geometry": {"coordinates":[151.976929,-27.590406],"type":"Point"}
+  "bbox": [
+    151.976929,
+    -27.590406,
+    151.976929,
+    -27.590406
+],
+  "geometry": {"coordinates":[151.97692900000001,-27.590406],"type":"Point"}
 }

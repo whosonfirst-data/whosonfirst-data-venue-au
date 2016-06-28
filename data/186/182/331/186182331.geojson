@@ -2,13 +2,14 @@
   "id": 186182331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.888702,-31.431671,152.888702,-31.431671",
     "geom:latitude":-31.431671,
     "geom:longitude":152.888702,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5a Clifton Drv",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186182331,
-    "wof:lastmodified":1449052070,
+    "wof:lastmodified":1466186948,
     "wof:name":"Clifton Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.888702,-31.431671,152.888702,-31.431671],
-  "geometry": {"coordinates":[152.888702,-31.431671],"type":"Point"}
+  "bbox": [
+    152.888702,
+    -31.431671,
+    152.888702,
+    -31.431671
+],
+  "geometry": {"coordinates":[152.88870199999999,-31.431671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253180631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.963028,-27.57024,151.963028,-27.57024",
     "geom:latitude":-27.57024,
     "geom:longitude":151.963028,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 James St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253180631,
-    "wof:lastmodified":1449062940,
+    "wof:lastmodified":1466190081,
     "wof:name":"Country Gardens Motor Inn",
     "wof:parent_id":85779571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.963028,-27.57024,151.963028,-27.57024],
-  "geometry": {"coordinates":[151.963028,-27.57024],"type":"Point"}
+  "bbox": [
+    151.963028,
+    -27.57024,
+    151.963028,
+    -27.57024
+],
+  "geometry": {"coordinates":[151.96302800000001,-27.57024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252784725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.460266,-41.209904,146.460266,-41.209904",
     "geom:latitude":-41.209904,
     "geom:longitude":146.460266,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 Frankford Hwy",
     "sg:city":"Wesley Vale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252784725,
-    "wof:lastmodified":1449006124,
+    "wof:lastmodified":1466188010,
     "wof:name":"Stephensons Cherries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "grower"
     ]
 },
-  "bbox": [146.460266,-41.209904,146.460266,-41.209904],
-  "geometry": {"coordinates":[146.460266,-41.209904],"type":"Point"}
+  "bbox": [
+    146.460266,
+    -41.209904,
+    146.460266,
+    -41.209904
+],
+  "geometry": {"coordinates":[146.46026599999999,-41.209904],"type":"Point"}
 }

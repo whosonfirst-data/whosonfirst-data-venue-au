@@ -2,13 +2,14 @@
   "id": 253007233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.694183,-37.85231,144.694183,-37.85231",
     "geom:latitude":-37.85231,
     "geom:longitude":144.694183,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Kennedy Crt",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253007233,
-    "wof:lastmodified":1449065261,
+    "wof:lastmodified":1466187048,
     "wof:name":"N. E. Fala",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.694183,-37.85231,144.694183,-37.85231],
-  "geometry": {"coordinates":[144.694183,-37.85231],"type":"Point"}
+  "bbox": [
+    144.694183,
+    -37.85231,
+    144.694183,
+    -37.85231
+],
+  "geometry": {"coordinates":[144.69418300000001,-37.85231],"type":"Point"}
 }

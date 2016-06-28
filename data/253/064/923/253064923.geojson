@@ -2,13 +2,14 @@
   "id": 253064923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.755264,-37.758953,144.755264,-37.758953",
     "geom:latitude":-37.758953,
     "geom:longitude":144.755264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61-65 Westwood Drv",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253064923,
-    "wof:lastmodified":1449063871,
+    "wof:lastmodified":1466188130,
     "wof:name":"B.I.P Toyota Pty Ltd",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [144.755264,-37.758953,144.755264,-37.758953],
-  "geometry": {"coordinates":[144.755264,-37.758953],"type":"Point"}
+  "bbox": [
+    144.755264,
+    -37.758953,
+    144.755264,
+    -37.758953
+],
+  "geometry": {"coordinates":[144.75526400000001,-37.758953],"type":"Point"}
 }

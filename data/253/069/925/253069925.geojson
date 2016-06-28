@@ -2,13 +2,14 @@
   "id": 253069925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.734863,-37.749882,144.734863,-37.749882",
     "geom:latitude":-37.749882,
     "geom:longitude":144.734863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Jackson Pl",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253069925,
-    "wof:lastmodified":1449064691,
+    "wof:lastmodified":1466188193,
     "wof:name":"Borderline",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kerb"
     ]
 },
-  "bbox": [144.734863,-37.749882,144.734863,-37.749882],
-  "geometry": {"coordinates":[144.734863,-37.749882],"type":"Point"}
+  "bbox": [
+    144.734863,
+    -37.749882,
+    144.734863,
+    -37.749882
+],
+  "geometry": {"coordinates":[144.73486299999999,-37.749882],"type":"Point"}
 }

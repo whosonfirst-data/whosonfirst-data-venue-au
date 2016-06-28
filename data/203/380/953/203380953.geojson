@@ -2,13 +2,14 @@
   "id": 203380953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849777,-37.539658,143.849777,-37.539658",
     "geom:latitude":-37.539658,
     "geom:longitude":143.849777,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Creswick Rd",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203380953,
-    "wof:lastmodified":1449025795,
+    "wof:lastmodified":1466189215,
     "wof:name":"John Seery & Associates",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [143.849777,-37.539658,143.849777,-37.539658],
-  "geometry": {"coordinates":[143.849777,-37.539658],"type":"Point"}
+  "bbox": [
+    143.849777,
+    -37.539658,
+    143.849777,
+    -37.539658
+],
+  "geometry": {"coordinates":[143.84977699999999,-37.539658],"type":"Point"}
 }

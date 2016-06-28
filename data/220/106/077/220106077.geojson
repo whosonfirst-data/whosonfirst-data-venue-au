@@ -2,13 +2,14 @@
   "id": 220106077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.495956,-38.267899,144.495956,-38.267899",
     "geom:latitude":-38.267899,
     "geom:longitude":144.495956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Taits Rd",
     "sg:city":"Barwon Heads",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220106077,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466188011,
     "wof:name":"B & C Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [144.495956,-38.267899,144.495956,-38.267899],
-  "geometry": {"coordinates":[144.495956,-38.267899],"type":"Point"}
+  "bbox": [
+    144.495956,
+    -38.267899,
+    144.495956,
+    -38.267899
+],
+  "geometry": {"coordinates":[144.49595600000001,-38.267899],"type":"Point"}
 }

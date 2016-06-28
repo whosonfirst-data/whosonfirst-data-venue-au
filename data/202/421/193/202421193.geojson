@@ -2,13 +2,14 @@
   "id": 202421193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.919495,-37.820736,144.919495,-37.820736",
     "geom:latitude":-37.820736,
     "geom:longitude":144.919495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Lorimer St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202421193,
-    "wof:lastmodified":1449061697,
+    "wof:lastmodified":1466188149,
     "wof:name":"Adsteam Harbour Victoria",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tug"
     ]
 },
-  "bbox": [144.919495,-37.820736,144.919495,-37.820736],
-  "geometry": {"coordinates":[144.919495,-37.820736],"type":"Point"}
+  "bbox": [
+    144.919495,
+    -37.820736,
+    144.919495,
+    -37.820736
+],
+  "geometry": {"coordinates":[144.91949500000001,-37.820736],"type":"Point"}
 }

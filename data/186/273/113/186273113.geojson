@@ -2,13 +2,14 @@
   "id": 186273113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.903519,-31.452536,152.903519,-31.452536",
     "geom:latitude":-31.452536,
     "geom:longitude":152.903519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Koala St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186273113,
-    "wof:lastmodified":1449051762,
+    "wof:lastmodified":1466187573,
     "wof:name":"IDAFE Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [152.903519,-31.452536,152.903519,-31.452536],
-  "geometry": {"coordinates":[152.903519,-31.452536],"type":"Point"}
+  "bbox": [
+    152.903519,
+    -31.452536,
+    152.903519,
+    -31.452536
+],
+  "geometry": {"coordinates":[152.90351899999999,-31.452536],"type":"Point"}
 }

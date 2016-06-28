@@ -2,13 +2,14 @@
   "id": 219256147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.345825,-37.954433,143.345825,-37.954433",
     "geom:latitude":-37.954433,
     "geom:longitude":143.345825,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High St",
     "sg:city":"Lismore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219256147,
-    "wof:lastmodified":1449073089,
+    "wof:lastmodified":1466187170,
     "wof:name":"Lismore Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [143.345825,-37.954433,143.345825,-37.954433],
-  "geometry": {"coordinates":[143.345825,-37.954433],"type":"Point"}
+  "bbox": [
+    143.345825,
+    -37.954433,
+    143.345825,
+    -37.954433
+],
+  "geometry": {"coordinates":[143.34582499999999,-37.954433],"type":"Point"}
 }

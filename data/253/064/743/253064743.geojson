@@ -2,13 +2,14 @@
   "id": 253064743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.757996,-37.771114,144.757996,-37.771114",
     "geom:latitude":-37.771114,
     "geom:longitude":144.757996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Lee St",
     "sg:city":"Deer Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253064743,
-    "wof:lastmodified":1449063871,
+    "wof:lastmodified":1466188128,
     "wof:name":"Roof Restore",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [144.757996,-37.771114,144.757996,-37.771114],
-  "geometry": {"coordinates":[144.757996,-37.771114],"type":"Point"}
+  "bbox": [
+    144.757996,
+    -37.771114,
+    144.757996,
+    -37.771114
+],
+  "geometry": {"coordinates":[144.75799599999999,-37.771114],"type":"Point"}
 }

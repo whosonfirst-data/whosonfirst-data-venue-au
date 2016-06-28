@@ -2,13 +2,14 @@
   "id": 236696511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.470306,-31.988886,152.470306,-31.988886",
     "geom:latitude":-31.988886,
     "geom:longitude":152.470306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Pacific Hwy",
     "sg:city":"Koorainghat",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236696511,
-    "wof:lastmodified":1449001860,
+    "wof:lastmodified":1466191839,
     "wof:name":"Ampol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.470306,-31.988886,152.470306,-31.988886],
-  "geometry": {"coordinates":[152.470306,-31.988886],"type":"Point"}
+  "bbox": [
+    152.470306,
+    -31.988886,
+    152.470306,
+    -31.988886
+],
+  "geometry": {"coordinates":[152.47030599999999,-31.988886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169828879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.870461,-31.989355,115.870461,-31.989355",
     "geom:latitude":-31.989355,
     "geom:longitude":115.870461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Canning Hwy",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169828879,
-    "wof:lastmodified":1449034352,
+    "wof:lastmodified":1466189146,
     "wof:name":"Dinghy World",
     "wof:parent_id":85775647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [115.870461,-31.989355,115.870461,-31.989355],
-  "geometry": {"coordinates":[115.870461,-31.989355],"type":"Point"}
+  "bbox": [
+    115.870461,
+    -31.989355,
+    115.870461,
+    -31.989355
+],
+  "geometry": {"coordinates":[115.87046100000001,-31.989355],"type":"Point"}
 }

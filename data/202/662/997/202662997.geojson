@@ -2,13 +2,14 @@
   "id": 202662997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031525,-27.436674,153.031525,-27.436674",
     "geom:latitude":-27.436674,
     "geom:longitude":153.031525,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Lutwyche Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202662997,
-    "wof:lastmodified":1449061807,
+    "wof:lastmodified":1466188131,
     "wof:name":"Suzuki",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [153.031525,-27.436674,153.031525,-27.436674],
-  "geometry": {"coordinates":[153.031525,-27.436674],"type":"Point"}
+  "bbox": [
+    153.031525,
+    -27.436674,
+    153.031525,
+    -27.436674
+],
+  "geometry": {"coordinates":[153.03152499999999,-27.436674],"type":"Point"}
 }

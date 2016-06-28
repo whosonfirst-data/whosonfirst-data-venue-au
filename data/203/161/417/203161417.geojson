@@ -2,13 +2,14 @@
   "id": 203161417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.985306,-36.550079,145.985306,-36.550079",
     "geom:latitude":-36.550079,
     "geom:longitude":145.985306,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Carrier St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203161417,
-    "wof:lastmodified":1449025663,
+    "wof:lastmodified":1466189733,
     "wof:name":"Jones Stuart Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.985306,-36.550079,145.985306,-36.550079],
-  "geometry": {"coordinates":[145.985306,-36.550079],"type":"Point"}
+  "bbox": [
+    145.985306,
+    -36.550079,
+    145.985306,
+    -36.550079
+],
+  "geometry": {"coordinates":[145.98530600000001,-36.550079],"type":"Point"}
 }

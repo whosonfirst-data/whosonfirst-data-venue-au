@@ -2,13 +2,14 @@
   "id": 203151851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.991776,-36.543419,145.991776,-36.543419",
     "geom:latitude":-36.543419,
     "geom:longitude":145.991776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Henry St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203151851,
-    "wof:lastmodified":1449024957,
+    "wof:lastmodified":1466189680,
     "wof:name":"David Farmer Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [145.991776,-36.543419,145.991776,-36.543419],
-  "geometry": {"coordinates":[145.991776,-36.543419],"type":"Point"}
+  "bbox": [
+    145.991776,
+    -36.543419,
+    145.991776,
+    -36.543419
+],
+  "geometry": {"coordinates":[145.99177599999999,-36.543419],"type":"Point"}
 }

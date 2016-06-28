@@ -2,13 +2,14 @@
   "id": 220122141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.409927,-38.166325,144.409927,-38.166325",
     "geom:latitude":-38.166325,
     "geom:longitude":144.409927,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Essex St",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220122141,
-    "wof:lastmodified":1449074507,
+    "wof:lastmodified":1466188176,
     "wof:name":"Water Solutions Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [144.409927,-38.166325,144.409927,-38.166325],
-  "geometry": {"coordinates":[144.409927,-38.166325],"type":"Point"}
+  "bbox": [
+    144.409927,
+    -38.166325,
+    144.409927,
+    -38.166325
+],
+  "geometry": {"coordinates":[144.40992700000001,-38.166325],"type":"Point"}
 }

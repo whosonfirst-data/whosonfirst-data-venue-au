@@ -2,13 +2,14 @@
   "id": 185807325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.528915,-37.647808,145.528915,-37.647808",
     "geom:latitude":-37.647808,
     "geom:longitude":145.528915,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Maroondah Hwy",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185807325,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1466186907,
     "wof:name":"Mr Physio +",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [145.528915,-37.647808,145.528915,-37.647808],
-  "geometry": {"coordinates":[145.528915,-37.647808],"type":"Point"}
+  "bbox": [
+    145.528915,
+    -37.647808,
+    145.528915,
+    -37.647808
+],
+  "geometry": {"coordinates":[145.52891500000001,-37.647808],"type":"Point"}
 }

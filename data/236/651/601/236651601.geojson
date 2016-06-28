@@ -2,13 +2,14 @@
   "id": 236651601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.126495,-34.001724,151.126495,-34.001724",
     "geom:latitude":-34.001724,
     "geom:longitude":151.126495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6/ 678 Rocky Point Rd",
     "sg:city":"Sans Souci",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236651601,
-    "wof:lastmodified":1449002167,
+    "wof:lastmodified":1466191754,
     "wof:name":"Carter Roofing",
     "wof:parent_id":85770179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [151.126495,-34.001724,151.126495,-34.001724],
-  "geometry": {"coordinates":[151.126495,-34.001724],"type":"Point"}
+  "bbox": [
+    151.126495,
+    -34.001724,
+    151.126495,
+    -34.001724
+],
+  "geometry": {"coordinates":[151.12649500000001,-34.001724],"type":"Point"}
 }

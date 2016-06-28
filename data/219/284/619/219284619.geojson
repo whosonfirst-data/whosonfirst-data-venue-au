@@ -2,13 +2,14 @@
   "id": 219284619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.128204,-38.212063,146.128204,-38.212063",
     "geom:latitude":-38.212063,
     "geom:longitude":146.128204,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Rankins Rd",
     "sg:city":"Trafalgar",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219284619,
-    "wof:lastmodified":1449072586,
+    "wof:lastmodified":1466187404,
     "wof:name":"Rose & Fuchsia Fram Gippsland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.128204,-38.212063,146.128204,-38.212063],
-  "geometry": {"coordinates":[146.128204,-38.212063],"type":"Point"}
+  "bbox": [
+    146.128204,
+    -38.212063,
+    146.128204,
+    -38.212063
+],
+  "geometry": {"coordinates":[146.12820400000001,-38.212063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253011805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.681549,-37.85762,144.681549,-37.85762",
     "geom:latitude":-37.85762,
     "geom:longitude":144.681549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Melaleuca Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253011805,
-    "wof:lastmodified":1449065230,
+    "wof:lastmodified":1466187143,
     "wof:name":"Detect A Thief Electronic Security",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [144.681549,-37.85762,144.681549,-37.85762],
-  "geometry": {"coordinates":[144.681549,-37.85762],"type":"Point"}
+  "bbox": [
+    144.681549,
+    -37.85762,
+    144.681549,
+    -37.85762
+],
+  "geometry": {"coordinates":[144.68154899999999,-37.85762],"type":"Point"}
 }

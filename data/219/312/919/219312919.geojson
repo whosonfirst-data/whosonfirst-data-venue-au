@@ -2,13 +2,14 @@
   "id": 219312919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.932785,-38.159725,145.932785,-38.159725",
     "geom:latitude":-38.159725,
     "geom:longitude":145.932785,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Albert St",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219312919,
-    "wof:lastmodified":1449072167,
+    "wof:lastmodified":1466187639,
     "wof:name":"Gippsland Pathology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pathology"
     ]
 },
-  "bbox": [145.932785,-38.159725,145.932785,-38.159725],
+  "bbox": [
+    145.932785,
+    -38.159725,
+    145.932785,
+    -38.159725
+],
   "geometry": {"coordinates":[145.932785,-38.159725],"type":"Point"}
 }

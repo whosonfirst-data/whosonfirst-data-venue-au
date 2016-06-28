@@ -2,13 +2,14 @@
   "id": 236103221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.675293,-37.886486,144.675293,-37.886486",
     "geom:latitude":-37.886486,
     "geom:longitude":144.675293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Kookaburra Ave",
     "sg:city":"Werribee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236103221,
-    "wof:lastmodified":1449003762,
+    "wof:lastmodified":1466188692,
     "wof:name":"Werribee Specialised Towing",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [144.675293,-37.886486,144.675293,-37.886486],
-  "geometry": {"coordinates":[144.675293,-37.886486],"type":"Point"}
+  "bbox": [
+    144.675293,
+    -37.886486,
+    144.675293,
+    -37.886486
+],
+  "geometry": {"coordinates":[144.67529300000001,-37.886486],"type":"Point"}
 }

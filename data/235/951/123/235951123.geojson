@@ -2,13 +2,14 @@
   "id": 235951123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.949493,-30.089075,145.949493,-30.089075",
     "geom:latitude":-30.089075,
     "geom:longitude":145.949493,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Darling St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235951123,
-    "wof:lastmodified":1449008283,
+    "wof:lastmodified":1466187072,
     "wof:name":"Bourke Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.949493,-30.089075,145.949493,-30.089075],
-  "geometry": {"coordinates":[145.949493,-30.089075],"type":"Point"}
+  "bbox": [
+    145.949493,
+    -30.089075,
+    145.949493,
+    -30.089075
+],
+  "geometry": {"coordinates":[145.94949299999999,-30.089075],"type":"Point"}
 }

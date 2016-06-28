@@ -2,13 +2,14 @@
   "id": 185981325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.429245,-33.429588,151.429245,-33.429588",
     "geom:latitude":-33.429588,
     "geom:longitude":151.429245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Fairway Drv",
     "sg:city":"Terrigal",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185981325,
-    "wof:lastmodified":1449008244,
+    "wof:lastmodified":1466188743,
     "wof:name":"KSH Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [151.429245,-33.429588,151.429245,-33.429588],
-  "geometry": {"coordinates":[151.429245,-33.429588],"type":"Point"}
+  "bbox": [
+    151.429245,
+    -33.429588,
+    151.429245,
+    -33.429588
+],
+  "geometry": {"coordinates":[151.42924500000001,-33.429588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219550533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.993637,-33.912117,150.993637,-33.912117",
     "geom:latitude":-33.912117,
     "geom:longitude":150.993637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Hishion Pl",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219550533,
-    "wof:lastmodified":1449072283,
+    "wof:lastmodified":1466190157,
     "wof:name":"Qualified Air Conditioning",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [150.993637,-33.912117,150.993637,-33.912117],
-  "geometry": {"coordinates":[150.993637,-33.912117],"type":"Point"}
+  "bbox": [
+    150.993637,
+    -33.912117,
+    150.993637,
+    -33.912117
+],
+  "geometry": {"coordinates":[150.99363700000001,-33.912117],"type":"Point"}
 }

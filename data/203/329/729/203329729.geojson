@@ -2,13 +2,14 @@
   "id": 203329729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.568283,-37.685383,143.568283,-37.685383",
     "geom:latitude":-37.685383,
     "geom:longitude":143.568283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 14 Ballarat Rd",
     "sg:city":"Smythesdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203329729,
-    "wof:lastmodified":1449025433,
+    "wof:lastmodified":1466188368,
     "wof:name":"Pearman S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [143.568283,-37.685383,143.568283,-37.685383],
-  "geometry": {"coordinates":[143.568283,-37.685383],"type":"Point"}
+  "bbox": [
+    143.568283,
+    -37.685383,
+    143.568283,
+    -37.685383
+],
+  "geometry": {"coordinates":[143.56828300000001,-37.685383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203042429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.958466,-24.993555,151.958466,-24.993555",
     "geom:latitude":-24.993555,
     "geom:longitude":151.958466,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruce Hwy Boyl via",
     "sg:city":"Gin Gin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203042429,
-    "wof:lastmodified":1449026384,
+    "wof:lastmodified":1466189977,
     "wof:name":"Booyal Central Primary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [151.958466,-24.993555,151.958466,-24.993555],
-  "geometry": {"coordinates":[151.958466,-24.993555],"type":"Point"}
+  "bbox": [
+    151.958466,
+    -24.993555,
+    151.958466,
+    -24.993555
+],
+  "geometry": {"coordinates":[151.95846599999999,-24.993555],"type":"Point"}
 }

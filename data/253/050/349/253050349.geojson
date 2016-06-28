@@ -2,13 +2,14 @@
   "id": 253050349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.835602,-37.830887,144.835602,-37.830887",
     "geom:latitude":-37.830887,
     "geom:longitude":144.835602,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U2/ 11 John St",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253050349,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1466187910,
     "wof:name":"Inner Zen Property Investments",
     "wof:parent_id":85770733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.835602,-37.830887,144.835602,-37.830887],
-  "geometry": {"coordinates":[144.835602,-37.830887],"type":"Point"}
+  "bbox": [
+    144.835602,
+    -37.830887,
+    144.835602,
+    -37.830887
+],
+  "geometry": {"coordinates":[144.83560199999999,-37.830887],"type":"Point"}
 }

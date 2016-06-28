@@ -2,13 +2,14 @@
   "id": 236344567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.806213,-32.075375,115.806213,-32.075375",
     "geom:latitude":-32.075375,
     "geom:longitude":115.806213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 8",
     "sg:city":"Coolbellup Shopng Cnt Coolbellup",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236344567,
-    "wof:lastmodified":1449001803,
+    "wof:lastmodified":1466190685,
     "wof:name":"Kelso Medical Group",
     "wof:parent_id":85777953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.806213,-32.075375,115.806213,-32.075375],
+  "bbox": [
+    115.806213,
+    -32.075375,
+    115.806213,
+    -32.075375
+],
   "geometry": {"coordinates":[115.806213,-32.075375],"type":"Point"}
 }

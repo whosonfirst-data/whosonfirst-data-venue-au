@@ -2,13 +2,14 @@
   "id": 186399127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.790527,-19.244108,146.790527,-19.244108",
     "geom:latitude":-19.244108,
     "geom:longitude":146.790527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Fry St",
     "sg:city":"Belgian Gardens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186399127,
-    "wof:lastmodified":1449050890,
+    "wof:lastmodified":1466189292,
     "wof:name":"AA Clothesline Services",
     "wof:parent_id":85781981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [146.790527,-19.244108,146.790527,-19.244108],
+  "bbox": [
+    146.790527,
+    -19.244108,
+    146.790527,
+    -19.244108
+],
   "geometry": {"coordinates":[146.790527,-19.244108],"type":"Point"}
 }

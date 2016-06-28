@@ -2,13 +2,14 @@
   "id": 202932449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.13475,-30.307899,153.13475,-30.307899",
     "geom:latitude":-30.307899,
     "geom:longitude":153.13475,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Moore St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202932449,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466190771,
     "wof:name":"Coastal Commercial Bookkeeping",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [153.13475,-30.307899,153.13475,-30.307899],
+  "bbox": [
+    153.13475,
+    -30.307899,
+    153.13475,
+    -30.307899
+],
   "geometry": {"coordinates":[153.13475,-30.307899],"type":"Point"}
 }

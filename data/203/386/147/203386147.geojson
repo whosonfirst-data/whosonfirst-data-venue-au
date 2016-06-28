@@ -2,13 +2,14 @@
   "id": 203386147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.854172,-37.558666,143.854172,-37.558666",
     "geom:latitude":-37.558666,
     "geom:longitude":143.854172,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Yuille St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203386147,
-    "wof:lastmodified":1449025938,
+    "wof:lastmodified":1466189307,
     "wof:name":"Novus Autoglass Repair & Replacement",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windscreen"
     ]
 },
-  "bbox": [143.854172,-37.558666,143.854172,-37.558666],
-  "geometry": {"coordinates":[143.854172,-37.558666],"type":"Point"}
+  "bbox": [
+    143.854172,
+    -37.558666,
+    143.854172,
+    -37.558666
+],
+  "geometry": {"coordinates":[143.85417200000001,-37.558666],"type":"Point"}
 }

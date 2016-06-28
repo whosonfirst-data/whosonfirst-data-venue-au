@@ -2,13 +2,14 @@
   "id": 236094509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.681168,-37.943581,144.681168,-37.943581",
     "geom:latitude":-37.943581,
     "geom:longitude":144.681168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"489 K Rd",
     "sg:city":"Werribee South",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236094509,
-    "wof:lastmodified":1449003769,
+    "wof:lastmodified":1466188516,
     "wof:name":"Temuskos C",
     "wof:parent_id":85771137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grower"
     ]
 },
-  "bbox": [144.681168,-37.943581,144.681168,-37.943581],
-  "geometry": {"coordinates":[144.681168,-37.943581],"type":"Point"}
+  "bbox": [
+    144.681168,
+    -37.943581,
+    144.681168,
+    -37.943581
+],
+  "geometry": {"coordinates":[144.68116800000001,-37.943581],"type":"Point"}
 }

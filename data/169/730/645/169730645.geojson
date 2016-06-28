@@ -2,13 +2,14 @@
   "id": 169730645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.047302,-27.214273,153.047302,-27.214273",
     "geom:latitude":-27.214273,
     "geom:longitude":153.047302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Deception Bay Rd",
     "sg:city":"Rothwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169730645,
-    "wof:lastmodified":1449035428,
+    "wof:lastmodified":1466187377,
     "wof:name":"Rothwell Carwash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [153.047302,-27.214273,153.047302,-27.214273],
+  "bbox": [
+    153.047302,
+    -27.214273,
+    153.047302,
+    -27.214273
+],
   "geometry": {"coordinates":[153.047302,-27.214273],"type":"Point"}
 }

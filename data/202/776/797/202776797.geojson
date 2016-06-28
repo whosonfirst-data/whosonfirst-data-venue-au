@@ -2,13 +2,14 @@
   "id": 202776797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.78244,-32.929279,151.78244,-32.929279",
     "geom:latitude":-32.929279,
     "geom:longitude":151.78244,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3/ 50 Bolton St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202776797,
-    "wof:lastmodified":1449060679,
+    "wof:lastmodified":1466190146,
     "wof:name":"Cardio Vascular Centre",
     "wof:parent_id":85777135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.78244,-32.929279,151.78244,-32.929279],
-  "geometry": {"coordinates":[151.78244,-32.929279],"type":"Point"}
+  "bbox": [
+    151.78244,
+    -32.929279,
+    151.78244,
+    -32.929279
+],
+  "geometry": {"coordinates":[151.78244000000001,-32.929279],"type":"Point"}
 }

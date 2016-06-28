@@ -2,13 +2,14 @@
   "id": 236862059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.104645,-35.064461,148.104645,-35.064461",
     "geom:latitude":-35.064461,
     "geom:longitude":148.104645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Sheridan St",
     "sg:city":"Gundagai",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236862059,
-    "wof:lastmodified":1449005347,
+    "wof:lastmodified":1466192056,
     "wof:name":"Play Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.104645,-35.064461,148.104645,-35.064461],
+  "bbox": [
+    148.104645,
+    -35.064461,
+    148.104645,
+    -35.064461
+],
   "geometry": {"coordinates":[148.104645,-35.064461],"type":"Point"}
 }

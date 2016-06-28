@@ -2,13 +2,14 @@
   "id": 185892877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.82579,-25.282677,152.82579,-25.282677",
     "geom:latitude":-25.282677,
     "geom:longitude":152.82579,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Old Maryborough Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185892877,
-    "wof:lastmodified":1449006846,
+    "wof:lastmodified":1466187830,
     "wof:name":"Franks Home Decor Centre",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "doors"
     ]
 },
-  "bbox": [152.82579,-25.282677,152.82579,-25.282677],
-  "geometry": {"coordinates":[152.82579,-25.282677],"type":"Point"}
+  "bbox": [
+    152.82579,
+    -25.282677,
+    152.82579,
+    -25.282677
+],
+  "geometry": {"coordinates":[152.82579000000001,-25.282677],"type":"Point"}
 }

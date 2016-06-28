@@ -2,13 +2,14 @@
   "id": 202581149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.435547,-37.674751,144.435547,-37.674751",
     "geom:latitude":-37.674751,
     "geom:longitude":144.435547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Clifton Drv & Gisborne Rd",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202581149,
-    "wof:lastmodified":1449060652,
+    "wof:lastmodified":1466187134,
     "wof:name":"Vigor Sports Medicine Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.435547,-37.674751,144.435547,-37.674751],
-  "geometry": {"coordinates":[144.435547,-37.674751],"type":"Point"}
+  "bbox": [
+    144.435547,
+    -37.674751,
+    144.435547,
+    -37.674751
+],
+  "geometry": {"coordinates":[144.43554700000001,-37.674751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236023107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.256805,-43.065788,147.256805,-43.065788",
     "geom:latitude":-43.065788,
     "geom:longitude":147.256805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Beach Rd",
     "sg:city":"Snug",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236023107,
-    "wof:lastmodified":1449004860,
+    "wof:lastmodified":1466187192,
     "wof:name":"Snug Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "practitioner"
     ]
 },
-  "bbox": [147.256805,-43.065788,147.256805,-43.065788],
-  "geometry": {"coordinates":[147.256805,-43.065788],"type":"Point"}
+  "bbox": [
+    147.256805,
+    -43.065788,
+    147.256805,
+    -43.065788
+],
+  "geometry": {"coordinates":[147.25680500000001,-43.065788],"type":"Point"}
 }

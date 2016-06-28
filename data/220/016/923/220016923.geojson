@@ -2,13 +2,14 @@
   "id": 220016923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.635193,-35.019497,138.635193,-35.019497",
     "geom:latitude":-35.019497,
     "geom:longitude":138.635193,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kindergarten Ave",
     "sg:city":"Hawthorndene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220016923,
-    "wof:lastmodified":1449074184,
+    "wof:lastmodified":1466187081,
     "wof:name":"Hawthorndene Kindergarten",
     "wof:parent_id":85777629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [138.635193,-35.019497,138.635193,-35.019497],
-  "geometry": {"coordinates":[138.635193,-35.019497],"type":"Point"}
+  "bbox": [
+    138.635193,
+    -35.019497,
+    138.635193,
+    -35.019497
+],
+  "geometry": {"coordinates":[138.63519299999999,-35.019497],"type":"Point"}
 }

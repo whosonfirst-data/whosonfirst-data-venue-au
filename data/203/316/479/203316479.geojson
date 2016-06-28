@@ -2,13 +2,14 @@
   "id": 203316479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.842087,-37.595119,143.842087,-37.595119",
     "geom:latitude":-37.595119,
     "geom:longitude":143.842087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3a Walker St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203316479,
-    "wof:lastmodified":1449026265,
+    "wof:lastmodified":1466188213,
     "wof:name":"Electrofinishes (Ballarat)",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electroplating"
     ]
 },
-  "bbox": [143.842087,-37.595119,143.842087,-37.595119],
-  "geometry": {"coordinates":[143.842087,-37.595119],"type":"Point"}
+  "bbox": [
+    143.842087,
+    -37.595119,
+    143.842087,
+    -37.595119
+],
+  "geometry": {"coordinates":[143.84208699999999,-37.595119],"type":"Point"}
 }

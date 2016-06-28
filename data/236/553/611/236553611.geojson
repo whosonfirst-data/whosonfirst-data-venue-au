@@ -2,13 +2,14 @@
   "id": 236553611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.999344,-33.941826,150.999344,-33.941826",
     "geom:latitude":-33.941826,
     "geom:longitude":150.999344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/200 Milperra Rd, Entrance off Marigold St",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236553611,
-    "wof:lastmodified":1449001692,
+    "wof:lastmodified":1466191491,
     "wof:name":"Mazparts",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [150.999344,-33.941826,150.999344,-33.941826],
-  "geometry": {"coordinates":[150.999344,-33.941826],"type":"Point"}
+  "bbox": [
+    150.999344,
+    -33.941826,
+    150.999344,
+    -33.941826
+],
+  "geometry": {"coordinates":[150.99934400000001,-33.941826],"type":"Point"}
 }

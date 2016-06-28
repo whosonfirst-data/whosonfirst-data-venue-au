@@ -2,13 +2,14 @@
   "id": 219737263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.786545,-19.28937,146.786545,-19.28937",
     "geom:latitude":-19.28937,
     "geom:longitude":146.786545,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Fulham Rd",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219737263,
-    "wof:lastmodified":1449071189,
+    "wof:lastmodified":1466191298,
     "wof:name":"Tan Y M",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [146.786545,-19.28937,146.786545,-19.28937],
-  "geometry": {"coordinates":[146.786545,-19.28937],"type":"Point"}
+  "bbox": [
+    146.786545,
+    -19.28937,
+    146.786545,
+    -19.28937
+],
+  "geometry": {"coordinates":[146.78654499999999,-19.28937],"type":"Point"}
 }

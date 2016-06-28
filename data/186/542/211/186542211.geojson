@@ -2,13 +2,14 @@
   "id": 186542211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.694168,-19.246595,146.694168,-19.246595",
     "geom:latitude":-19.246595,
     "geom:longitude":146.694168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Kinnardy St",
     "sg:city":"Deeragun",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186542211,
-    "wof:lastmodified":1449052400,
+    "wof:lastmodified":1466190890,
     "wof:name":"John Rainey Painting Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [146.694168,-19.246595,146.694168,-19.246595],
-  "geometry": {"coordinates":[146.694168,-19.246595],"type":"Point"}
+  "bbox": [
+    146.694168,
+    -19.246595,
+    146.694168,
+    -19.246595
+],
+  "geometry": {"coordinates":[146.69416799999999,-19.246595],"type":"Point"}
 }

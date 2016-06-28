@@ -2,13 +2,14 @@
   "id": 220074779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.311478,-38.321594,144.311478,-38.321594",
     "geom:latitude":-38.321594,
     "geom:longitude":144.311478,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45- 55 Grossmans Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220074779,
-    "wof:lastmodified":1449074483,
+    "wof:lastmodified":1466187715,
     "wof:name":"Torquay Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nsw"
     ]
 },
-  "bbox": [144.311478,-38.321594,144.311478,-38.321594],
-  "geometry": {"coordinates":[144.311478,-38.321594],"type":"Point"}
+  "bbox": [
+    144.311478,
+    -38.321594,
+    144.311478,
+    -38.321594
+],
+  "geometry": {"coordinates":[144.31147799999999,-38.321594],"type":"Point"}
 }

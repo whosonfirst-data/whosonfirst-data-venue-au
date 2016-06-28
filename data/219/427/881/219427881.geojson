@@ -2,13 +2,14 @@
   "id": 219427881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.568253,-34.875359,138.568253,-34.875359",
     "geom:latitude":-34.875359,
     "geom:longitude":138.568253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Regency Rd",
     "sg:city":"Croydon Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219427881,
-    "wof:lastmodified":1449071465,
+    "wof:lastmodified":1466188708,
     "wof:name":"Le Cordon Bleu",
     "wof:parent_id":85776375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [138.568253,-34.875359,138.568253,-34.875359],
+  "bbox": [
+    138.568253,
+    -34.875359,
+    138.568253,
+    -34.875359
+],
   "geometry": {"coordinates":[138.568253,-34.875359],"type":"Point"}
 }

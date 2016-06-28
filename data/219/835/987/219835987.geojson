@@ -2,13 +2,14 @@
   "id": 219835987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.801781,-32.000141,115.801781,-32.000141",
     "geom:latitude":-32.000141,
     "geom:longitude":115.801781,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Beatrice Rd",
     "sg:city":"Dalkeith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219835987,
-    "wof:lastmodified":1449070899,
+    "wof:lastmodified":1466191590,
     "wof:name":"Carrick B D & S L",
     "wof:parent_id":85769141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.801781,-32.000141,115.801781,-32.000141],
-  "geometry": {"coordinates":[115.801781,-32.000141],"type":"Point"}
+  "bbox": [
+    115.801781,
+    -32.000141,
+    115.801781,
+    -32.000141
+],
+  "geometry": {"coordinates":[115.80178100000001,-32.000141],"type":"Point"}
 }

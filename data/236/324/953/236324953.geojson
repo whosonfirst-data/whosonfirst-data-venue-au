@@ -2,13 +2,14 @@
   "id": 236324953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.749046,-32.049095,115.749046,-32.049095",
     "geom:latitude":-32.049095,
     "geom:longitude":115.749046,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Beach St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236324953,
-    "wof:lastmodified":1449003597,
+    "wof:lastmodified":1466190635,
     "wof:name":"DADAA (WA) Inc",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "art"
     ]
 },
-  "bbox": [115.749046,-32.049095,115.749046,-32.049095],
-  "geometry": {"coordinates":[115.749046,-32.049095],"type":"Point"}
+  "bbox": [
+    115.749046,
+    -32.049095,
+    115.749046,
+    -32.049095
+],
+  "geometry": {"coordinates":[115.74904600000001,-32.049095],"type":"Point"}
 }

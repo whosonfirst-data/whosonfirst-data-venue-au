@@ -2,13 +2,14 @@
   "id": 219752635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.615479,-32.602959,151.615479,-32.602959",
     "geom:latitude":-32.602959,
     "geom:longitude":151.615479,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Albert St",
     "sg:city":"Paterson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219752635,
-    "wof:lastmodified":1449070978,
+    "wof:lastmodified":1466191263,
     "wof:name":"Hunter Liquid Waste Disposals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trap"
     ]
 },
-  "bbox": [151.615479,-32.602959,151.615479,-32.602959],
-  "geometry": {"coordinates":[151.615479,-32.602959],"type":"Point"}
+  "bbox": [
+    151.615479,
+    -32.602959,
+    151.615479,
+    -32.602959
+],
+  "geometry": {"coordinates":[151.61547899999999,-32.602959],"type":"Point"}
 }

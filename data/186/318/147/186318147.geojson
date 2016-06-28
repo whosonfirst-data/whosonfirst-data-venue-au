@@ -2,13 +2,14 @@
   "id": 186318147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.969467,-31.915167,115.969467,-31.915167",
     "geom:latitude":-31.915167,
     "geom:longitude":115.969467,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Kalamunda Rd",
     "sg:city":"South Guildford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186318147,
-    "wof:lastmodified":1449050988,
+    "wof:lastmodified":1466187921,
     "wof:name":"Sherwood House Psychiatric Hostel",
     "wof:parent_id":85777993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [115.969467,-31.915167,115.969467,-31.915167],
-  "geometry": {"coordinates":[115.969467,-31.915167],"type":"Point"}
+  "bbox": [
+    115.969467,
+    -31.915167,
+    115.969467,
+    -31.915167
+],
+  "geometry": {"coordinates":[115.96946699999999,-31.915167],"type":"Point"}
 }

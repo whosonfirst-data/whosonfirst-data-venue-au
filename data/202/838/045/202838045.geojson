@@ -2,13 +2,14 @@
   "id": 202838045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.144653,-23.525146,148.144653,-23.525146",
     "geom:latitude":-23.525146,
     "geom:longitude":148.144653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 1/ 33 Hicks St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202838045,
-    "wof:lastmodified":1449060410,
+    "wof:lastmodified":1466190455,
     "wof:name":"Peter Wheeler Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [148.144653,-23.525146,148.144653,-23.525146],
-  "geometry": {"coordinates":[148.144653,-23.525146],"type":"Point"}
+  "bbox": [
+    148.144653,
+    -23.525146,
+    148.144653,
+    -23.525146
+],
+  "geometry": {"coordinates":[148.14465300000001,-23.525146],"type":"Point"}
 }

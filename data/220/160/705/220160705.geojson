@@ -2,13 +2,14 @@
   "id": 220160705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354263,-38.147923,144.354263,-38.147923",
     "geom:latitude":-38.147923,
     "geom:longitude":144.354263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Ryrie St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220160705,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466188807,
     "wof:name":"Dan Connoley Men's Hairdresser",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.354263,-38.147923,144.354263,-38.147923],
+  "bbox": [
+    144.354263,
+    -38.147923,
+    144.354263,
+    -38.147923
+],
   "geometry": {"coordinates":[144.354263,-38.147923],"type":"Point"}
 }

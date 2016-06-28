@@ -2,13 +2,14 @@
   "id": 236130751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.856125,-37.734467,144.856125,-37.734467",
     "geom:latitude":-37.734467,
     "geom:longitude":144.856125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Webber Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236130751,
-    "wof:lastmodified":1449002646,
+    "wof:lastmodified":1466189261,
     "wof:name":"Adams Towing",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [144.856125,-37.734467,144.856125,-37.734467],
-  "geometry": {"coordinates":[144.856125,-37.734467],"type":"Point"}
+  "bbox": [
+    144.856125,
+    -37.734467,
+    144.856125,
+    -37.734467
+],
+  "geometry": {"coordinates":[144.85612499999999,-37.734467],"type":"Point"}
 }

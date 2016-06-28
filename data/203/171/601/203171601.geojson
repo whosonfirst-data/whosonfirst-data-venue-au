@@ -2,13 +2,14 @@
   "id": 203171601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.994263,-36.549362,145.994263,-36.549362",
     "geom:latitude":-36.549362,
     "geom:longitude":145.994263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Bridge St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203171601,
-    "wof:lastmodified":1449026871,
+    "wof:lastmodified":1466189832,
     "wof:name":"Lowen's (Laurie) Car Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [145.994263,-36.549362,145.994263,-36.549362],
-  "geometry": {"coordinates":[145.994263,-36.549362],"type":"Point"}
+  "bbox": [
+    145.994263,
+    -36.549362,
+    145.994263,
+    -36.549362
+],
+  "geometry": {"coordinates":[145.99426299999999,-36.549362],"type":"Point"}
 }

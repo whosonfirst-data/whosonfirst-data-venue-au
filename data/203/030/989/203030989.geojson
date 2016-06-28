@@ -2,13 +2,14 @@
   "id": 203030989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.15799,-37.674255,145.15799,-37.674255",
     "geom:latitude":-37.674255,
     "geom:longitude":145.15799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Hurstbridge Rd",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203030989,
-    "wof:lastmodified":1449025614,
+    "wof:lastmodified":1466187821,
     "wof:name":"Diamond Creek Plaza Fruit Market",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [145.15799,-37.674255,145.15799,-37.674255],
-  "geometry": {"coordinates":[145.15799,-37.674255],"type":"Point"}
+  "bbox": [
+    145.15799,
+    -37.674255,
+    145.15799,
+    -37.674255
+],
+  "geometry": {"coordinates":[145.15799000000001,-37.674255],"type":"Point"}
 }

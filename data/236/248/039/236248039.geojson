@@ -2,13 +2,14 @@
   "id": 236248039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.857376,-38.089512,145.857376,-38.089512",
     "geom:latitude":-38.089512,
     "geom:longitude":145.857376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Main Neerim Rd",
     "sg:city":"Drouin West",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236248039,
-    "wof:lastmodified":1449003473,
+    "wof:lastmodified":1466190059,
     "wof:name":"Gregory's Fitness Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fitness"
     ]
 },
-  "bbox": [145.857376,-38.089512,145.857376,-38.089512],
-  "geometry": {"coordinates":[145.857376,-38.089512],"type":"Point"}
+  "bbox": [
+    145.857376,
+    -38.089512,
+    145.857376,
+    -38.089512
+],
+  "geometry": {"coordinates":[145.85737599999999,-38.089512],"type":"Point"}
 }

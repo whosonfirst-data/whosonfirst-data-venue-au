@@ -2,13 +2,14 @@
   "id": 236842715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.869995,-34.426895,150.869995,-34.426895",
     "geom:latitude":-34.426895,
     "geom:longitude":150.869995,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Princes Hwy",
     "sg:city":"West Wollongong",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236842715,
-    "wof:lastmodified":1449001857,
+    "wof:lastmodified":1466192030,
     "wof:name":"Petbarn Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [150.869995,-34.426895,150.869995,-34.426895],
-  "geometry": {"coordinates":[150.869995,-34.426895],"type":"Point"}
+  "bbox": [
+    150.869995,
+    -34.426895,
+    150.869995,
+    -34.426895
+],
+  "geometry": {"coordinates":[150.86999499999999,-34.426895],"type":"Point"}
 }

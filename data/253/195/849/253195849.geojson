@@ -2,13 +2,14 @@
   "id": 253195849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.979156,-27.578964,151.979156,-27.578964",
     "geom:latitude":-27.578964,
     "geom:longitude":151.979156,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, High St",
     "sg:city":"Plaza Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253195849,
-    "wof:lastmodified":1449064782,
+    "wof:lastmodified":1466190204,
     "wof:name":"Ray White Toowoomba Range",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.979156,-27.578964,151.979156,-27.578964],
-  "geometry": {"coordinates":[151.979156,-27.578964],"type":"Point"}
+  "bbox": [
+    151.979156,
+    -27.578964,
+    151.979156,
+    -27.578964
+],
+  "geometry": {"coordinates":[151.97915599999999,-27.578964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202645157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.030121,-27.398355,153.030121,-27.398355",
     "geom:latitude":-27.398355,
     "geom:longitude":153.030121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Glentanna St",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202645157,
-    "wof:lastmodified":1449060370,
+    "wof:lastmodified":1466187791,
     "wof:name":"NEC Printer Supplies",
     "wof:parent_id":85774043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [153.030121,-27.398355,153.030121,-27.398355],
-  "geometry": {"coordinates":[153.030121,-27.398355],"type":"Point"}
+  "bbox": [
+    153.030121,
+    -27.398355,
+    153.030121,
+    -27.398355
+],
+  "geometry": {"coordinates":[153.03012100000001,-27.398355],"type":"Point"}
 }

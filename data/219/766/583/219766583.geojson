@@ -2,13 +2,14 @@
   "id": 219766583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179016,-33.909367,151.179016,-33.909367",
     "geom:latitude":-33.909367,
     "geom:longitude":151.179016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"38 May St",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":219766583,
-    "wof:lastmodified":1449070335,
+    "wof:lastmodified":1466191283,
     "wof:name":"Reddy David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "custom"
     ]
 },
-  "bbox": [151.179016,-33.909367,151.179016,-33.909367],
-  "geometry": {"coordinates":[151.179016,-33.909367],"type":"Point"}
+  "bbox": [
+    151.179016,
+    -33.909367,
+    151.179016,
+    -33.909367
+],
+  "geometry": {"coordinates":[151.17901599999999,-33.909367],"type":"Point"}
 }

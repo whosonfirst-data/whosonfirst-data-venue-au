@@ -2,13 +2,14 @@
   "id": 219241261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.996979,-37.780483,144.996979,-37.780483",
     "geom:latitude":-37.780483,
     "geom:longitude":144.996979,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219241261,
-    "wof:lastmodified":1449073814,
+    "wof:lastmodified":1466189949,
     "wof:name":"Pappas P",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.996979,-37.780483,144.996979,-37.780483],
-  "geometry": {"coordinates":[144.996979,-37.780483],"type":"Point"}
+  "bbox": [
+    144.996979,
+    -37.780483,
+    144.996979,
+    -37.780483
+],
+  "geometry": {"coordinates":[144.99697900000001,-37.780483],"type":"Point"}
 }

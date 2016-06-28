@@ -2,13 +2,14 @@
   "id": 203206335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.905746,-41.060642,145.905746,-41.060642",
     "geom:latitude":-41.060642,
     "geom:longitude":145.905746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Menai St",
     "sg:city":"Burnie South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203206335,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466187100,
     "wof:name":"Australian Education Union (Tas Branch)",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [145.905746,-41.060642,145.905746,-41.060642],
-  "geometry": {"coordinates":[145.905746,-41.060642],"type":"Point"}
+  "bbox": [
+    145.905746,
+    -41.060642,
+    145.905746,
+    -41.060642
+],
+  "geometry": {"coordinates":[145.90574599999999,-41.060642],"type":"Point"}
 }

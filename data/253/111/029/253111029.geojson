@@ -2,13 +2,14 @@
   "id": 253111029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.837967,-37.799004,144.837967,-37.799004",
     "geom:latitude":-37.799004,
     "geom:longitude":144.837967,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Second Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253111029,
-    "wof:lastmodified":1449065896,
+    "wof:lastmodified":1466188961,
     "wof:name":"Timber Specialists Pty Ltd",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [144.837967,-37.799004,144.837967,-37.799004],
-  "geometry": {"coordinates":[144.837967,-37.799004],"type":"Point"}
+  "bbox": [
+    144.837967,
+    -37.799004,
+    144.837967,
+    -37.799004
+],
+  "geometry": {"coordinates":[144.83796699999999,-37.799004],"type":"Point"}
 }

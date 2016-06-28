@@ -2,13 +2,14 @@
   "id": 236353115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.781219,-32.06303,115.781219,-32.06303",
     "geom:latitude":-32.06303,
     "geom:longitude":115.781219,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Victor St",
     "sg:city":"Hilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236353115,
-    "wof:lastmodified":1449002419,
+    "wof:lastmodified":1466190899,
     "wof:name":"Hilton Medical Centre",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.781219,-32.06303,115.781219,-32.06303],
-  "geometry": {"coordinates":[115.781219,-32.06303],"type":"Point"}
+  "bbox": [
+    115.781219,
+    -32.06303,
+    115.781219,
+    -32.06303
+],
+  "geometry": {"coordinates":[115.78121899999999,-32.06303],"type":"Point"}
 }

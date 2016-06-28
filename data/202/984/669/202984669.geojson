@@ -2,13 +2,14 @@
   "id": 202984669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.208313,-33.836838,151.208313,-33.836838",
     "geom:latitude":-33.836838,
     "geom:longitude":151.208313,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 204/ 66 Berry St",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202984669,
-    "wof:lastmodified":1449061538,
+    "wof:lastmodified":1466191063,
     "wof:name":"Roessler David M",
     "wof:parent_id":85771181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.208313,-33.836838,151.208313,-33.836838],
+  "bbox": [
+    151.208313,
+    -33.836838,
+    151.208313,
+    -33.836838
+],
   "geometry": {"coordinates":[151.208313,-33.836838],"type":"Point"}
 }

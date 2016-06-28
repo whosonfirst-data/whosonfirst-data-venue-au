@@ -2,13 +2,14 @@
   "id": 252772161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.11937,-41.587929,147.11937,-41.587929",
     "geom:latitude":-41.587929,
     "geom:longitude":147.11937,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Wellington St",
     "sg:city":"Longford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252772161,
-    "wof:lastmodified":1449005899,
+    "wof:lastmodified":1466187897,
     "wof:name":"Caltex Service Stations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.11937,-41.587929,147.11937,-41.587929],
+  "bbox": [
+    147.11937,
+    -41.587929,
+    147.11937,
+    -41.587929
+],
   "geometry": {"coordinates":[147.11937,-41.587929],"type":"Point"}
 }

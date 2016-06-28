@@ -2,13 +2,14 @@
   "id": 186056295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.488098,-33.107231,151.488098,-33.107231",
     "geom:latitude":-33.107231,
     "geom:longitude":151.488098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 7/ Morrisset Square, 29-31 Yambo St",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186056295,
-    "wof:lastmodified":1449051141,
+    "wof:lastmodified":1466188377,
     "wof:name":"RetireInvest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.488098,-33.107231,151.488098,-33.107231],
-  "geometry": {"coordinates":[151.488098,-33.107231],"type":"Point"}
+  "bbox": [
+    151.488098,
+    -33.107231,
+    151.488098,
+    -33.107231
+],
+  "geometry": {"coordinates":[151.48809800000001,-33.107231],"type":"Point"}
 }

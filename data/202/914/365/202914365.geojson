@@ -2,13 +2,14 @@
   "id": 202914365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112946,-30.297176,153.112946,-30.297176",
     "geom:latitude":-30.297176,
     "geom:longitude":153.112946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7, Moonee Beach Shopping Centre, 2 Moonee Rd",
     "sg:city":"Moonee Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202914365,
-    "wof:lastmodified":1449061079,
+    "wof:lastmodified":1466190762,
     "wof:name":"Sullivan Nicolaides Pathology Laboratories",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pathology"
     ]
 },
-  "bbox": [153.112946,-30.297176,153.112946,-30.297176],
-  "geometry": {"coordinates":[153.112946,-30.297176],"type":"Point"}
+  "bbox": [
+    153.112946,
+    -30.297176,
+    153.112946,
+    -30.297176
+],
+  "geometry": {"coordinates":[153.11294599999999,-30.297176],"type":"Point"}
 }

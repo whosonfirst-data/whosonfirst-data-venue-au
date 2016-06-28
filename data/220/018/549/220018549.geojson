@@ -2,13 +2,14 @@
   "id": 220018549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.612457,-35.028072,138.612457,-35.028072",
     "geom:latitude":-35.028072,
     "geom:longitude":138.612457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Ashby Ave",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220018549,
-    "wof:lastmodified":1449074438,
+    "wof:lastmodified":1466187112,
     "wof:name":"Greenhills Gardening",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [138.612457,-35.028072,138.612457,-35.028072],
-  "geometry": {"coordinates":[138.612457,-35.028072],"type":"Point"}
+  "bbox": [
+    138.612457,
+    -35.028072,
+    138.612457,
+    -35.028072
+],
+  "geometry": {"coordinates":[138.61245700000001,-35.028072],"type":"Point"}
 }

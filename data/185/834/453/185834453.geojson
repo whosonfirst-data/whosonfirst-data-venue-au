@@ -2,13 +2,14 @@
   "id": 185834453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.87117,-25.29052,152.87117,-25.29052",
     "geom:latitude":-25.29052,
     "geom:longitude":152.87117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Barnstaple St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185834453,
-    "wof:lastmodified":1449006764,
+    "wof:lastmodified":1466187145,
     "wof:name":"L & D Concrete Pty Ltd",
     "wof:parent_id":85770489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.87117,-25.29052,152.87117,-25.29052],
-  "geometry": {"coordinates":[152.87117,-25.29052],"type":"Point"}
+  "bbox": [
+    152.87117,
+    -25.29052,
+    152.87117,
+    -25.29052
+],
+  "geometry": {"coordinates":[152.87117000000001,-25.29052],"type":"Point"}
 }

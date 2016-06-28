@@ -2,13 +2,14 @@
   "id": 185964833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.464569,-33.406319,151.464569,-33.406319",
     "geom:latitude":-33.406319,
     "geom:longitude":151.464569,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Yataloo Crs",
     "sg:city":"Forresters Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185964833,
-    "wof:lastmodified":1449007822,
+    "wof:lastmodified":1466188589,
     "wof:name":"Jim Lidbetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.464569,-33.406319,151.464569,-33.406319],
-  "geometry": {"coordinates":[151.464569,-33.406319],"type":"Point"}
+  "bbox": [
+    151.464569,
+    -33.406319,
+    151.464569,
+    -33.406319
+],
+  "geometry": {"coordinates":[151.46456900000001,-33.406319],"type":"Point"}
 }

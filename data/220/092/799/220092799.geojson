@@ -2,13 +2,14 @@
   "id": 220092799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.660294,-38.268555,144.660294,-38.268555",
     "geom:latitude":-38.268555,
     "geom:longitude":144.660294,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Hesse St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220092799,
-    "wof:lastmodified":1449074700,
+    "wof:lastmodified":1466187893,
     "wof:name":"Rosies At Queenscliff",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.660294,-38.268555,144.660294,-38.268555],
-  "geometry": {"coordinates":[144.660294,-38.268555],"type":"Point"}
+  "bbox": [
+    144.660294,
+    -38.268555,
+    144.660294,
+    -38.268555
+],
+  "geometry": {"coordinates":[144.66029399999999,-38.268555],"type":"Point"}
 }

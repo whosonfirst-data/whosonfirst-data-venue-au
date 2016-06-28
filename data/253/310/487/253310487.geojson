@@ -2,13 +2,14 @@
   "id": 253310487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.419495,-37.987553,145.419495,-37.987553",
     "geom:latitude":-37.987553,
     "geom:longitude":145.419495,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Stoney Creek Rd",
     "sg:city":"Beaconsfield Upper",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253310487,
-    "wof:lastmodified":1449064633,
+    "wof:lastmodified":1466190685,
     "wof:name":"Victoria Concrete Construction Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.419495,-37.987553,145.419495,-37.987553],
-  "geometry": {"coordinates":[145.419495,-37.987553],"type":"Point"}
+  "bbox": [
+    145.419495,
+    -37.987553,
+    145.419495,
+    -37.987553
+],
+  "geometry": {"coordinates":[145.41949500000001,-37.987553],"type":"Point"}
 }

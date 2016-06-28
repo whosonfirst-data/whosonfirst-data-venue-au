@@ -2,13 +2,14 @@
   "id": 186151601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.727036,-31.453377,152.727036,-31.453377",
     "geom:latitude":-31.453377,
     "geom:longitude":152.727036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Millwood Pl",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186151601,
-    "wof:lastmodified":1449050281,
+    "wof:lastmodified":1466189788,
     "wof:name":"Witch's Wardrobe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "costume"
     ]
 },
-  "bbox": [152.727036,-31.453377,152.727036,-31.453377],
+  "bbox": [
+    152.727036,
+    -31.453377,
+    152.727036,
+    -31.453377
+],
   "geometry": {"coordinates":[152.727036,-31.453377],"type":"Point"}
 }

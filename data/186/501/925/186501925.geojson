@@ -2,13 +2,14 @@
   "id": 186501925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.764526,-19.273537,146.764526,-19.273537",
     "geom:latitude":-19.273537,
     "geom:longitude":146.764526,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186501925,
-    "wof:lastmodified":1449053048,
+    "wof:lastmodified":1466190533,
     "wof:name":"Dalrymple Squash Centre",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [146.764526,-19.273537,146.764526,-19.273537],
-  "geometry": {"coordinates":[146.764526,-19.273537],"type":"Point"}
+  "bbox": [
+    146.764526,
+    -19.273537,
+    146.764526,
+    -19.273537
+],
+  "geometry": {"coordinates":[146.76452599999999,-19.273537],"type":"Point"}
 }

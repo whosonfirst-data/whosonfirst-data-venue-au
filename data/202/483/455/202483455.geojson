@@ -2,13 +2,14 @@
   "id": 202483455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.052994,-37.905666,145.052994,-37.905666",
     "geom:latitude":-37.905666,
     "geom:longitude":145.052994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"758 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202483455,
-    "wof:lastmodified":1449062121,
+    "wof:lastmodified":1466189258,
     "wof:name":"Brighton IT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "installation"
     ]
 },
-  "bbox": [145.052994,-37.905666,145.052994,-37.905666],
-  "geometry": {"coordinates":[145.052994,-37.905666],"type":"Point"}
+  "bbox": [
+    145.052994,
+    -37.905666,
+    145.052994,
+    -37.905666
+],
+  "geometry": {"coordinates":[145.05299400000001,-37.905666],"type":"Point"}
 }

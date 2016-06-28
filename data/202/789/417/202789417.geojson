@@ -2,13 +2,14 @@
   "id": 202789417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.738342,-32.924389,151.738342,-32.924389",
     "geom:latitude":-32.924389,
     "geom:longitude":151.738342,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Belford St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202789417,
-    "wof:lastmodified":1449061272,
+    "wof:lastmodified":1466190100,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [151.738342,-32.924389,151.738342,-32.924389],
-  "geometry": {"coordinates":[151.738342,-32.924389],"type":"Point"}
+  "bbox": [
+    151.738342,
+    -32.924389,
+    151.738342,
+    -32.924389
+],
+  "geometry": {"coordinates":[151.73834199999999,-32.924389],"type":"Point"}
 }

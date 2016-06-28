@@ -2,13 +2,14 @@
   "id": 253329817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.292892,-38.020077,145.292892,-38.020077",
     "geom:latitude":-38.020077,
     "geom:longitude":145.292892,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U6/ 54 Vesper Drv",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253329817,
-    "wof:lastmodified":1449063637,
+    "wof:lastmodified":1466190995,
     "wof:name":"Curves Narre Warren",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [145.292892,-38.020077,145.292892,-38.020077],
-  "geometry": {"coordinates":[145.292892,-38.020077],"type":"Point"}
+  "bbox": [
+    145.292892,
+    -38.020077,
+    145.292892,
+    -38.020077
+],
+  "geometry": {"coordinates":[145.29289199999999,-38.020077],"type":"Point"}
 }

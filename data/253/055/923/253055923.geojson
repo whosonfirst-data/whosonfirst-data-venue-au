@@ -2,13 +2,14 @@
   "id": 253055923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.627792,-37.891422,144.627792,-37.891422",
     "geom:latitude":-37.891422,
     "geom:longitude":144.627792,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Wembley St",
     "sg:city":"Wyndham Vale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253055923,
-    "wof:lastmodified":1449063473,
+    "wof:lastmodified":1466188011,
     "wof:name":"Iramoo Medical Centre",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.627792,-37.891422,144.627792,-37.891422],
+  "bbox": [
+    144.627792,
+    -37.891422,
+    144.627792,
+    -37.891422
+],
   "geometry": {"coordinates":[144.627792,-37.891422],"type":"Point"}
 }

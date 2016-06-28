@@ -2,13 +2,14 @@
   "id": 236842177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.891129,-34.423176,150.891129,-34.423176",
     "geom:latitude":-34.423176,
     "geom:longitude":150.891129,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 81 Market St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236842177,
-    "wof:lastmodified":1449001859,
+    "wof:lastmodified":1466192020,
     "wof:name":"Wealth Insure",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [150.891129,-34.423176,150.891129,-34.423176],
-  "geometry": {"coordinates":[150.891129,-34.423176],"type":"Point"}
+  "bbox": [
+    150.891129,
+    -34.423176,
+    150.891129,
+    -34.423176
+],
+  "geometry": {"coordinates":[150.89112900000001,-34.423176],"type":"Point"}
 }

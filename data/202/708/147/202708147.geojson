@@ -2,13 +2,14 @@
   "id": 202708147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.034576,-27.366329,153.034576,-27.366329",
     "geom:latitude":-27.366329,
     "geom:longitude":153.034576,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Robinson Rd",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202708147,
-    "wof:lastmodified":1449060509,
+    "wof:lastmodified":1466188986,
     "wof:name":"Aspley Day Respite Centre",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [153.034576,-27.366329,153.034576,-27.366329],
-  "geometry": {"coordinates":[153.034576,-27.366329],"type":"Point"}
+  "bbox": [
+    153.034576,
+    -27.366329,
+    153.034576,
+    -27.366329
+],
+  "geometry": {"coordinates":[153.03457599999999,-27.366329],"type":"Point"}
 }

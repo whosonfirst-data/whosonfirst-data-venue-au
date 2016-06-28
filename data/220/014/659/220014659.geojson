@@ -2,13 +2,14 @@
   "id": 220014659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.281464,-36.757504,144.281464,-36.757504",
     "geom:latitude":-36.757504,
     "geom:longitude":144.281464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"McIvor Hwy",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220014659,
-    "wof:lastmodified":1449074422,
+    "wof:lastmodified":1466187032,
     "wof:name":"McIvor Building & Renovation Services",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.281464,-36.757504,144.281464,-36.757504],
+  "bbox": [
+    144.281464,
+    -36.757504,
+    144.281464,
+    -36.757504
+],
   "geometry": {"coordinates":[144.281464,-36.757504],"type":"Point"}
 }

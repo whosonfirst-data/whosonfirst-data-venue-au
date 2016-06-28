@@ -2,13 +2,14 @@
   "id": 219956867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.751236,-37.817318,140.751236,-37.817318",
     "geom:latitude":-37.817318,
     "geom:longitude":140.751236,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Graham Rd",
     "sg:city":"Mt Gambier West",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219956867,
-    "wof:lastmodified":1449070987,
+    "wof:lastmodified":1466191757,
     "wof:name":"Australian Paving Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [140.751236,-37.817318,140.751236,-37.817318],
-  "geometry": {"coordinates":[140.751236,-37.817318],"type":"Point"}
+  "bbox": [
+    140.751236,
+    -37.817318,
+    140.751236,
+    -37.817318
+],
+  "geometry": {"coordinates":[140.75123600000001,-37.817318],"type":"Point"}
 }

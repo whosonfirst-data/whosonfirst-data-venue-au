@@ -2,13 +2,14 @@
   "id": 202478329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.960754,-37.826916,144.960754,-37.826916",
     "geom:latitude":-37.826916,
     "geom:longitude":144.960754,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Moray St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202478329,
-    "wof:lastmodified":1449060177,
+    "wof:lastmodified":1466189200,
     "wof:name":"Russanna Bestaff",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.960754,-37.826916,144.960754,-37.826916],
-  "geometry": {"coordinates":[144.960754,-37.826916],"type":"Point"}
+  "bbox": [
+    144.960754,
+    -37.826916,
+    144.960754,
+    -37.826916
+],
+  "geometry": {"coordinates":[144.96075400000001,-37.826916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202654515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.031906,-27.427315,153.031906,-27.427315",
     "geom:latitude":-27.427315,
     "geom:longitude":153.031906,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Lutwyche Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202654515,
-    "wof:lastmodified":1449060963,
+    "wof:lastmodified":1466187968,
     "wof:name":"Mark S Walker",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "naturopath"
     ]
 },
-  "bbox": [153.031906,-27.427315,153.031906,-27.427315],
-  "geometry": {"coordinates":[153.031906,-27.427315],"type":"Point"}
+  "bbox": [
+    153.031906,
+    -27.427315,
+    153.031906,
+    -27.427315
+],
+  "geometry": {"coordinates":[153.03190599999999,-27.427315],"type":"Point"}
 }

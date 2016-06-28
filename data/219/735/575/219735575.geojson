@@ -2,13 +2,14 @@
   "id": 219735575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.800705,-19.273485,146.800705,-19.273485",
     "geom:latitude":-19.273485,
     "geom:longitude":146.800705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit1/ 14 Somer St",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219735575,
-    "wof:lastmodified":1449073830,
+    "wof:lastmodified":1466191218,
     "wof:name":"J.C. Automotive & Mechanical",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [146.800705,-19.273485,146.800705,-19.273485],
-  "geometry": {"coordinates":[146.800705,-19.273485],"type":"Point"}
+  "bbox": [
+    146.800705,
+    -19.273485,
+    146.800705,
+    -19.273485
+],
+  "geometry": {"coordinates":[146.80070499999999,-19.273485],"type":"Point"}
 }

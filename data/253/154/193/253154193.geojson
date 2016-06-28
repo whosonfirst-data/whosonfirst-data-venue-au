@@ -2,13 +2,14 @@
   "id": 253154193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.904221,-27.547386,151.904221,-27.547386",
     "geom:latitude":-27.547386,
     "geom:longitude":151.904221,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 16/ 11-15 Gardner Crt",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253154193,
-    "wof:lastmodified":1449065841,
+    "wof:lastmodified":1466189682,
     "wof:name":"Shore Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "electric"
     ]
 },
-  "bbox": [151.904221,-27.547386,151.904221,-27.547386],
-  "geometry": {"coordinates":[151.904221,-27.547386],"type":"Point"}
+  "bbox": [
+    151.904221,
+    -27.547386,
+    151.904221,
+    -27.547386
+],
+  "geometry": {"coordinates":[151.90422100000001,-27.547386],"type":"Point"}
 }

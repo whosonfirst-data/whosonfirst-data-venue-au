@@ -2,13 +2,14 @@
   "id": 236867897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.220627,-35.302315,148.220627,-35.302315",
     "geom:latitude":-35.302315,
     "geom:longitude":148.220627,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"143a Wynyard St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236867897,
-    "wof:lastmodified":1449003013,
+    "wof:lastmodified":1466192064,
     "wof:name":"Tumut Bowen Therapy Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "therapy"
     ]
 },
-  "bbox": [148.220627,-35.302315,148.220627,-35.302315],
-  "geometry": {"coordinates":[148.220627,-35.302315],"type":"Point"}
+  "bbox": [
+    148.220627,
+    -35.302315,
+    148.220627,
+    -35.302315
+],
+  "geometry": {"coordinates":[148.22062700000001,-35.302315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202763813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.765213,-32.926048,151.765213,-32.926048",
     "geom:latitude":-32.926048,
     "geom:longitude":151.765213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Honeysuckle Drv",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202763813,
-    "wof:lastmodified":1449062635,
+    "wof:lastmodified":1466189914,
     "wof:name":"Galley Cafe",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.765213,-32.926048,151.765213,-32.926048],
-  "geometry": {"coordinates":[151.765213,-32.926048],"type":"Point"}
+  "bbox": [
+    151.765213,
+    -32.926048,
+    151.765213,
+    -32.926048
+],
+  "geometry": {"coordinates":[151.76521299999999,-32.926048],"type":"Point"}
 }

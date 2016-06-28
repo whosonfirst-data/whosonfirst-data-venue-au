@@ -2,13 +2,14 @@
   "id": 203364739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.82373,-37.531307,143.82373,-37.531307",
     "geom:latitude":-37.531307,
     "geom:longitude":143.82373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hastings St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203364739,
-    "wof:lastmodified":1449026016,
+    "wof:lastmodified":1466188930,
     "wof:name":"Wendouree Childrens Centre",
     "wof:parent_id":85770607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.82373,-37.531307,143.82373,-37.531307],
-  "geometry": {"coordinates":[143.82373,-37.531307],"type":"Point"}
+  "bbox": [
+    143.82373,
+    -37.531307,
+    143.82373,
+    -37.531307
+],
+  "geometry": {"coordinates":[143.82373000000001,-37.531307],"type":"Point"}
 }

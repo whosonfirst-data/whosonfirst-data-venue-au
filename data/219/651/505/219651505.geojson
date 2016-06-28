@@ -2,13 +2,14 @@
   "id": 219651505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.094208,-33.937073,151.094208,-33.937073",
     "geom:latitude":-33.937073,
     "geom:longitude":151.094208,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Garema Cct",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219651505,
-    "wof:lastmodified":1449071096,
+    "wof:lastmodified":1466191025,
     "wof:name":"Grosvenor Engineering Group",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.094208,-33.937073,151.094208,-33.937073],
-  "geometry": {"coordinates":[151.094208,-33.937073],"type":"Point"}
+  "bbox": [
+    151.094208,
+    -33.937073,
+    151.094208,
+    -33.937073
+],
+  "geometry": {"coordinates":[151.09420800000001,-33.937073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235946693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.067642,-33.409538,150.067642,-33.409538",
     "geom:latitude":-33.409538,
     "geom:longitude":150.067642,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cripps Ave",
     "sg:city":"Wallerawang",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235946693,
-    "wof:lastmodified":1449008568,
+    "wof:lastmodified":1466187034,
     "wof:name":"Fire Brigades-NSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brigade"
     ]
 },
-  "bbox": [150.067642,-33.409538,150.067642,-33.409538],
-  "geometry": {"coordinates":[150.067642,-33.409538],"type":"Point"}
+  "bbox": [
+    150.067642,
+    -33.409538,
+    150.067642,
+    -33.409538
+],
+  "geometry": {"coordinates":[150.06764200000001,-33.409538],"type":"Point"}
 }

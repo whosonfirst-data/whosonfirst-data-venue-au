@@ -2,13 +2,14 @@
   "id": 202543765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.869263,-33.092125,148.869263,-33.092125",
     "geom:latitude":-33.092125,
     "geom:longitude":148.869263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Bank St",
     "sg:city":"Molong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202543765,
-    "wof:lastmodified":1449060606,
+    "wof:lastmodified":1466189889,
     "wof:name":"Central West Windscreen Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windscreen"
     ]
 },
-  "bbox": [148.869263,-33.092125,148.869263,-33.092125],
-  "geometry": {"coordinates":[148.869263,-33.092125],"type":"Point"}
+  "bbox": [
+    148.869263,
+    -33.092125,
+    148.869263,
+    -33.092125
+],
+  "geometry": {"coordinates":[148.86926299999999,-33.092125],"type":"Point"}
 }

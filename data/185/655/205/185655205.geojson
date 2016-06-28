@@ -2,13 +2,14 @@
   "id": 185655205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.810539,-32.029549,115.810539,-32.029549",
     "geom:latitude":-32.029549,
     "geom:longitude":115.810539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Hislop St",
     "sg:city":"Attadale",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185655205,
-    "wof:lastmodified":1449007526,
+    "wof:lastmodified":1466188336,
     "wof:name":"Peake Ian Dr",
     "wof:parent_id":85775673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.810539,-32.029549,115.810539,-32.029549],
-  "geometry": {"coordinates":[115.810539,-32.029549],"type":"Point"}
+  "bbox": [
+    115.810539,
+    -32.029549,
+    115.810539,
+    -32.029549
+],
+  "geometry": {"coordinates":[115.81053900000001,-32.029549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202428591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.976562,-37.845474,144.976562,-37.845474",
     "geom:latitude":-37.845474,
     "geom:longitude":144.976562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Queens Rd",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202428591,
-    "wof:lastmodified":1449062469,
+    "wof:lastmodified":1466188373,
     "wof:name":"Keg & Swan Albert Park",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "organiser"
     ]
 },
-  "bbox": [144.976562,-37.845474,144.976562,-37.845474],
+  "bbox": [
+    144.976562,
+    -37.845474,
+    144.976562,
+    -37.845474
+],
   "geometry": {"coordinates":[144.976562,-37.845474],"type":"Point"}
 }

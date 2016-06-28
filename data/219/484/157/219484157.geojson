@@ -2,13 +2,14 @@
   "id": 219484157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.981079,-37.409756,144.981079,-37.409756",
     "geom:latitude":-37.409756,
     "geom:longitude":144.981079,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Bentinck St",
     "sg:city":"Wallan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219484157,
-    "wof:lastmodified":1449073706,
+    "wof:lastmodified":1466189232,
     "wof:name":"Wallan Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.981079,-37.409756,144.981079,-37.409756],
-  "geometry": {"coordinates":[144.981079,-37.409756],"type":"Point"}
+  "bbox": [
+    144.981079,
+    -37.409756,
+    144.981079,
+    -37.409756
+],
+  "geometry": {"coordinates":[144.98107899999999,-37.409756],"type":"Point"}
 }

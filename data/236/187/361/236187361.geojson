@@ -2,13 +2,14 @@
   "id": 236187361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.765999,-29.534609,115.765999,-29.534609",
     "geom:latitude":-29.534609,
     "geom:longitude":115.765999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Slaughter St",
     "sg:city":"Three Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236187361,
-    "wof:lastmodified":1449002046,
+    "wof:lastmodified":1466189913,
     "wof:name":"Three Springs Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [115.765999,-29.534609,115.765999,-29.534609],
-  "geometry": {"coordinates":[115.765999,-29.534609],"type":"Point"}
+  "bbox": [
+    115.765999,
+    -29.534609,
+    115.765999,
+    -29.534609
+],
+  "geometry": {"coordinates":[115.76599899999999,-29.534609],"type":"Point"}
 }

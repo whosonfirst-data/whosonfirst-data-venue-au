@@ -2,13 +2,14 @@
   "id": 253040515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.806168,-37.823128,144.806168,-37.823128",
     "geom:latitude":-37.823128,
     "geom:longitude":144.806168,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62-66 Pipe Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253040515,
-    "wof:lastmodified":1449065713,
+    "wof:lastmodified":1466187730,
     "wof:name":"Eastcoast Interstate Transport",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.806168,-37.823128,144.806168,-37.823128],
-  "geometry": {"coordinates":[144.806168,-37.823128],"type":"Point"}
+  "bbox": [
+    144.806168,
+    -37.823128,
+    144.806168,
+    -37.823128
+],
+  "geometry": {"coordinates":[144.80616800000001,-37.823128],"type":"Point"}
 }

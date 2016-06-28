@@ -2,13 +2,14 @@
   "id": 202609325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.711868,-33.76096,150.711868,-33.76096",
     "geom:latitude":-33.76096,
     "geom:longitude":150.711868,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 108, 64- 68 Derby St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202609325,
-    "wof:lastmodified":1449061055,
+    "wof:lastmodified":1466187426,
     "wof:name":"Physiotherapy West",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [150.711868,-33.76096,150.711868,-33.76096],
-  "geometry": {"coordinates":[150.711868,-33.76096],"type":"Point"}
+  "bbox": [
+    150.711868,
+    -33.76096,
+    150.711868,
+    -33.76096
+],
+  "geometry": {"coordinates":[150.71186800000001,-33.76096],"type":"Point"}
 }

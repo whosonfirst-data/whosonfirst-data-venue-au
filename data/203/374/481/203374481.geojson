@@ -2,13 +2,14 @@
   "id": 203374481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.845383,-37.55003,143.845383,-37.55003",
     "geom:latitude":-37.55003,
     "geom:longitude":143.845383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Wendouree Pde",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203374481,
-    "wof:lastmodified":1449025743,
+    "wof:lastmodified":1466189103,
     "wof:name":"Fletcher Development Services",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [143.845383,-37.55003,143.845383,-37.55003],
+  "bbox": [
+    143.845383,
+    -37.55003,
+    143.845383,
+    -37.55003
+],
   "geometry": {"coordinates":[143.845383,-37.55003],"type":"Point"}
 }

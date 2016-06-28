@@ -2,13 +2,14 @@
   "id": 219604353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.164825,-33.906685,151.164825,-33.906685",
     "geom:latitude":-33.906685,
     "geom:longitude":151.164825,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Victoria Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219604353,
-    "wof:lastmodified":1449073507,
+    "wof:lastmodified":1466190712,
     "wof:name":"Redwood Projects",
     "wof:parent_id":85771187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.164825,-33.906685,151.164825,-33.906685],
-  "geometry": {"coordinates":[151.164825,-33.906685],"type":"Point"}
+  "bbox": [
+    151.164825,
+    -33.906685,
+    151.164825,
+    -33.906685
+],
+  "geometry": {"coordinates":[151.16482500000001,-33.906685],"type":"Point"}
 }

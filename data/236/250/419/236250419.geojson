@@ -2,13 +2,14 @@
   "id": 236250419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.824417,-38.130745,145.824417,-38.130745",
     "geom:latitude":-38.130745,
     "geom:longitude":145.824417,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Gardner and Holman Rd",
     "sg:city":"Drouin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236250419,
-    "wof:lastmodified":1449003547,
+    "wof:lastmodified":1466190079,
     "wof:name":"Australian Safe-T Consulting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "safety"
     ]
 },
-  "bbox": [145.824417,-38.130745,145.824417,-38.130745],
-  "geometry": {"coordinates":[145.824417,-38.130745],"type":"Point"}
+  "bbox": [
+    145.824417,
+    -38.130745,
+    145.824417,
+    -38.130745
+],
+  "geometry": {"coordinates":[145.82441700000001,-38.130745],"type":"Point"}
 }

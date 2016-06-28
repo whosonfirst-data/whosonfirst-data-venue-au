@@ -2,13 +2,14 @@
   "id": 203336121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.79776,-37.545277,143.79776,-37.545277",
     "geom:latitude":-37.545277,
     "geom:longitude":143.79776,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, Cnr Ring Rd & Sturt St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203336121,
-    "wof:lastmodified":1449024911,
+    "wof:lastmodified":1466188436,
     "wof:name":"Surface Mount Component Distributors Australia",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electronic"
     ]
 },
-  "bbox": [143.79776,-37.545277,143.79776,-37.545277],
-  "geometry": {"coordinates":[143.79776,-37.545277],"type":"Point"}
+  "bbox": [
+    143.79776,
+    -37.545277,
+    143.79776,
+    -37.545277
+],
+  "geometry": {"coordinates":[143.79776000000001,-37.545277],"type":"Point"}
 }

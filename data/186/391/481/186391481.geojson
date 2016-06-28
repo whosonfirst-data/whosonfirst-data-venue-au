@@ -2,13 +2,14 @@
   "id": 186391481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809311,-19.266932,146.809311,-19.266932",
     "geom:latitude":-19.266932,
     "geom:longitude":146.809311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Flinders St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186391481,
-    "wof:lastmodified":1449052097,
+    "wof:lastmodified":1466189180,
     "wof:name":"Ashburner Francis Pty. Ltd.",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.809311,-19.266932,146.809311,-19.266932],
-  "geometry": {"coordinates":[146.809311,-19.266932],"type":"Point"}
+  "bbox": [
+    146.809311,
+    -19.266932,
+    146.809311,
+    -19.266932
+],
+  "geometry": {"coordinates":[146.80931100000001,-19.266932],"type":"Point"}
 }

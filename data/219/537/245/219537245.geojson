@@ -2,13 +2,14 @@
   "id": 219537245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.066727,-33.930504,151.066727,-33.930504",
     "geom:latitude":-33.930504,
     "geom:longitude":151.066727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, 1155 Canterbury Rd",
     "sg:city":"Roselands",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219537245,
-    "wof:lastmodified":1449071265,
+    "wof:lastmodified":1466190186,
     "wof:name":"Platinum Fitness",
     "wof:parent_id":85774751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitness"
     ]
 },
-  "bbox": [151.066727,-33.930504,151.066727,-33.930504],
-  "geometry": {"coordinates":[151.066727,-33.930504],"type":"Point"}
+  "bbox": [
+    151.066727,
+    -33.930504,
+    151.066727,
+    -33.930504
+],
+  "geometry": {"coordinates":[151.06672699999999,-33.930504],"type":"Point"}
 }

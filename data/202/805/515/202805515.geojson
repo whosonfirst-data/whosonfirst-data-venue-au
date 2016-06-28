@@ -2,13 +2,14 @@
   "id": 202805515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.757355,-32.924774,151.757355,-32.924774",
     "geom:latitude":-32.924774,
     "geom:longitude":151.757355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Denison St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202805515,
-    "wof:lastmodified":1449060959,
+    "wof:lastmodified":1466190225,
     "wof:name":"Soapbox Cafe",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.757355,-32.924774,151.757355,-32.924774],
-  "geometry": {"coordinates":[151.757355,-32.924774],"type":"Point"}
+  "bbox": [
+    151.757355,
+    -32.924774,
+    151.757355,
+    -32.924774
+],
+  "geometry": {"coordinates":[151.75735499999999,-32.924774],"type":"Point"}
 }

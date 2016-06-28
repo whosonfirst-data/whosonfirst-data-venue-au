@@ -2,13 +2,14 @@
   "id": 202926289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.098618,-30.287271,153.098618,-30.287271",
     "geom:latitude":-30.287271,
     "geom:longitude":153.098618,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Moreton Bay Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202926289,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466190747,
     "wof:name":"Demery Steve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.098618,-30.287271,153.098618,-30.287271],
-  "geometry": {"coordinates":[153.098618,-30.287271],"type":"Point"}
+  "bbox": [
+    153.098618,
+    -30.287271,
+    153.098618,
+    -30.287271
+],
+  "geometry": {"coordinates":[153.09861799999999,-30.287271],"type":"Point"}
 }

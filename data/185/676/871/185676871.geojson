@@ -2,13 +2,14 @@
   "id": 185676871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.75354,-32.022945,115.75354,-32.022945",
     "geom:latitude":-32.022945,
     "geom:longitude":115.75354,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 136 Stirling Hwy",
     "sg:city":"North Fremantle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185676871,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1466188717,
     "wof:name":"H.A.F. Mechanical Service Centre",
     "wof:parent_id":85769899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.75354,-32.022945,115.75354,-32.022945],
+  "bbox": [
+    115.75354,
+    -32.022945,
+    115.75354,
+    -32.022945
+],
   "geometry": {"coordinates":[115.75354,-32.022945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253035571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.804504,-37.815205,144.804504,-37.815205",
     "geom:latitude":-37.815205,
     "geom:longitude":144.804504,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Boundary Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253035571,
-    "wof:lastmodified":1449065199,
+    "wof:lastmodified":1466187628,
     "wof:name":"Ohaus Australia Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weighing"
     ]
 },
-  "bbox": [144.804504,-37.815205,144.804504,-37.815205],
-  "geometry": {"coordinates":[144.804504,-37.815205],"type":"Point"}
+  "bbox": [
+    144.804504,
+    -37.815205,
+    144.804504,
+    -37.815205
+],
+  "geometry": {"coordinates":[144.80450400000001,-37.815205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252787849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.414444,-41.218166,146.414444,-41.218166",
     "geom:latitude":-41.218166,
     "geom:longitude":146.414444,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9012 Bass Hwy",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252787849,
-    "wof:lastmodified":1449005906,
+    "wof:lastmodified":1466188037,
     "wof:name":"Bill Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [146.414444,-41.218166,146.414444,-41.218166],
+  "bbox": [
+    146.414444,
+    -41.218166,
+    146.414444,
+    -41.218166
+],
   "geometry": {"coordinates":[146.414444,-41.218166],"type":"Point"}
 }

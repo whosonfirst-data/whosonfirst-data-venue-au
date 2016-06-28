@@ -2,13 +2,14 @@
   "id": 219414301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.854294,-33.740028,150.854294,-33.740028",
     "geom:latitude":-33.740028,
     "geom:longitude":150.854294,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Gillabin Pl",
     "sg:city":"Plumpton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219414301,
-    "wof:lastmodified":1449072041,
+    "wof:lastmodified":1466188510,
     "wof:name":"Alexander's Fire Protection",
     "wof:parent_id":85774811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [150.854294,-33.740028,150.854294,-33.740028],
-  "geometry": {"coordinates":[150.854294,-33.740028],"type":"Point"}
+  "bbox": [
+    150.854294,
+    -33.740028,
+    150.854294,
+    -33.740028
+],
+  "geometry": {"coordinates":[150.85429400000001,-33.740028],"type":"Point"}
 }

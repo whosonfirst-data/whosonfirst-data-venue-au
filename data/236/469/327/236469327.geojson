@@ -2,13 +2,14 @@
   "id": 236469327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.135254,-21.149418,149.135254,-21.149418",
     "geom:latitude":-21.149418,
     "geom:longitude":149.135254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Landsdowne Rd",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236469327,
-    "wof:lastmodified":1449005351,
+    "wof:lastmodified":1466191306,
     "wof:name":"Powell Farming Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [149.135254,-21.149418,149.135254,-21.149418],
+  "bbox": [
+    149.135254,
+    -21.149418,
+    149.135254,
+    -21.149418
+],
   "geometry": {"coordinates":[149.135254,-21.149418],"type":"Point"}
 }

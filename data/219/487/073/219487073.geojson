@@ -2,13 +2,14 @@
   "id": 219487073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.058182,-33.902077,151.058182,-33.902077",
     "geom:latitude":-33.902077,
     "geom:longitude":151.058182,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 126 Waterloo Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219487073,
-    "wof:lastmodified":1449071551,
+    "wof:lastmodified":1466189260,
     "wof:name":"Greenacre Barber Shop",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.058182,-33.902077,151.058182,-33.902077],
-  "geometry": {"coordinates":[151.058182,-33.902077],"type":"Point"}
+  "bbox": [
+    151.058182,
+    -33.902077,
+    151.058182,
+    -33.902077
+],
+  "geometry": {"coordinates":[151.05818199999999,-33.902077],"type":"Point"}
 }

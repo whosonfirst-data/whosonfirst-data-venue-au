@@ -2,13 +2,14 @@
   "id": 185647673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.802673,-32.036591,115.802673,-32.036591",
     "geom:latitude":-32.036591,
     "geom:longitude":115.802673,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Kitchener Rd",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185647673,
-    "wof:lastmodified":1449007382,
+    "wof:lastmodified":1466188234,
     "wof:name":"A Melville Garden Bag",
     "wof:parent_id":85780709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [115.802673,-32.036591,115.802673,-32.036591],
+  "bbox": [
+    115.802673,
+    -32.036591,
+    115.802673,
+    -32.036591
+],
   "geometry": {"coordinates":[115.802673,-32.036591],"type":"Point"}
 }

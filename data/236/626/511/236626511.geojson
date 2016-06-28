@@ -2,13 +2,14 @@
   "id": 236626511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.14006,-33.948357,151.14006,-33.948357",
     "geom:latitude":-33.948357,
     "geom:longitude":151.14006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Princes Hwy",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236626511,
-    "wof:lastmodified":1449005253,
+    "wof:lastmodified":1466191704,
     "wof:name":"Guardian Funerals",
     "wof:parent_id":85771209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [151.14006,-33.948357,151.14006,-33.948357],
-  "geometry": {"coordinates":[151.14006,-33.948357],"type":"Point"}
+  "bbox": [
+    151.14006,
+    -33.948357,
+    151.14006,
+    -33.948357
+],
+  "geometry": {"coordinates":[151.14006000000001,-33.948357],"type":"Point"}
 }

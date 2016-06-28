@@ -2,13 +2,14 @@
   "id": 219238467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.01265,-37.783894,145.01265,-37.783894",
     "geom:latitude":-37.783894,
     "geom:longitude":145.01265,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Heidelberg Rd",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219238467,
-    "wof:lastmodified":1449071712,
+    "wof:lastmodified":1466189930,
     "wof:name":"Evetts Building & Garden Supplies",
     "wof:parent_id":85775173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [145.01265,-37.783894,145.01265,-37.783894],
-  "geometry": {"coordinates":[145.01265,-37.783894],"type":"Point"}
+  "bbox": [
+    145.01265,
+    -37.783894,
+    145.01265,
+    -37.783894
+],
+  "geometry": {"coordinates":[145.01265000000001,-37.783894],"type":"Point"}
 }

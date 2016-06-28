@@ -2,13 +2,14 @@
   "id": 235942127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.981461,-33.353119,149.981461,-33.353119",
     "geom:latitude":-33.353119,
     "geom:longitude":149.981461,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Williewa St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235942127,
-    "wof:lastmodified":1449008407,
+    "wof:lastmodified":1466186996,
     "wof:name":"Portland Take-Away",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [149.981461,-33.353119,149.981461,-33.353119],
+  "bbox": [
+    149.981461,
+    -33.353119,
+    149.981461,
+    -33.353119
+],
   "geometry": {"coordinates":[149.981461,-33.353119],"type":"Point"}
 }

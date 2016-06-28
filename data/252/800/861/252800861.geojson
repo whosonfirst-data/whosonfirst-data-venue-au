@@ -2,13 +2,14 @@
   "id": 252800861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.589905,-38.33971,143.589905,-38.33971",
     "geom:latitude":-38.33971,
     "geom:longitude":143.589905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop7/ 58 Hesse St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252800861,
-    "wof:lastmodified":1449005498,
+    "wof:lastmodified":1466188147,
     "wof:name":"Coltek Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [143.589905,-38.33971,143.589905,-38.33971],
-  "geometry": {"coordinates":[143.589905,-38.33971],"type":"Point"}
+  "bbox": [
+    143.589905,
+    -38.33971,
+    143.589905,
+    -38.33971
+],
+  "geometry": {"coordinates":[143.58990499999999,-38.33971],"type":"Point"}
 }

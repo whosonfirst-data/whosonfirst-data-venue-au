@@ -2,13 +2,14 @@
   "id": 236618121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154541,-33.960312,151.154541,-33.960312",
     "geom:latitude":-33.960312,
     "geom:longitude":151.154541,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Bay St",
     "sg:city":"Brighton-le-Sands",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236618121,
-    "wof:lastmodified":1449003752,
+    "wof:lastmodified":1466191685,
     "wof:name":"Izzardi Salon",
     "wof:parent_id":85768933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.154541,-33.960312,151.154541,-33.960312],
-  "geometry": {"coordinates":[151.154541,-33.960312],"type":"Point"}
+  "bbox": [
+    151.154541,
+    -33.960312,
+    151.154541,
+    -33.960312
+],
+  "geometry": {"coordinates":[151.15454099999999,-33.960312],"type":"Point"}
 }

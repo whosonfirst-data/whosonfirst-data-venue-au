@@ -2,13 +2,14 @@
   "id": 235965377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.095016,-27.420071,153.095016,-27.420071",
     "geom:latitude":-27.420071,
     "geom:longitude":153.095016,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Viola Pl",
     "sg:city":"Brisbane Airport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235965377,
-    "wof:lastmodified":1449008479,
+    "wof:lastmodified":1466187291,
     "wof:name":"Repco Auto Repair",
     "wof:parent_id":85773779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [153.095016,-27.420071,153.095016,-27.420071],
-  "geometry": {"coordinates":[153.095016,-27.420071],"type":"Point"}
+  "bbox": [
+    153.095016,
+    -27.420071,
+    153.095016,
+    -27.420071
+],
+  "geometry": {"coordinates":[153.09501599999999,-27.420071],"type":"Point"}
 }

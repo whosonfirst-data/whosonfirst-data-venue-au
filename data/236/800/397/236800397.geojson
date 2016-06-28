@@ -2,13 +2,14 @@
   "id": 236800397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.847855,-34.479057,150.847855,-34.479057",
     "geom:latitude":-34.479057,
     "geom:longitude":150.847855,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Winnima Way & Bristol St",
     "sg:city":"Berkeley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236800397,
-    "wof:lastmodified":1449001871,
+    "wof:lastmodified":1466192043,
     "wof:name":"Burmah Fuels Australia Limited",
     "wof:parent_id":85768827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.847855,-34.479057,150.847855,-34.479057],
-  "geometry": {"coordinates":[150.847855,-34.479057],"type":"Point"}
+  "bbox": [
+    150.847855,
+    -34.479057,
+    150.847855,
+    -34.479057
+],
+  "geometry": {"coordinates":[150.84785500000001,-34.479057],"type":"Point"}
 }

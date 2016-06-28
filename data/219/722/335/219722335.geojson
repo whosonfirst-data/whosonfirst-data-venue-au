@@ -2,13 +2,14 @@
   "id": 219722335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.349625,-31.879347,152.349625,-31.879347",
     "geom:latitude":-31.879347,
     "geom:longitude":152.349625,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Viscount Rd",
     "sg:city":"Wingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219722335,
-    "wof:lastmodified":1449071630,
+    "wof:lastmodified":1466191115,
     "wof:name":"Bakewell Haulage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [152.349625,-31.879347,152.349625,-31.879347],
+  "bbox": [
+    152.349625,
+    -31.879347,
+    152.349625,
+    -31.879347
+],
   "geometry": {"coordinates":[152.349625,-31.879347],"type":"Point"}
 }

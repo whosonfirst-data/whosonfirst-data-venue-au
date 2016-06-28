@@ -2,13 +2,14 @@
   "id": 202528415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.160995,-38.098022,145.160995,-38.098022",
     "geom:latitude":-38.098022,
     "geom:longitude":145.160995,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Lathams Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202528415,
-    "wof:lastmodified":1449060804,
+    "wof:lastmodified":1466189798,
     "wof:name":"Teloch Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [145.160995,-38.098022,145.160995,-38.098022],
-  "geometry": {"coordinates":[145.160995,-38.098022],"type":"Point"}
+  "bbox": [
+    145.160995,
+    -38.098022,
+    145.160995,
+    -38.098022
+],
+  "geometry": {"coordinates":[145.16099500000001,-38.098022],"type":"Point"}
 }

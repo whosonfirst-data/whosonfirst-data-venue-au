@@ -2,13 +2,14 @@
   "id": 219366715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.56221,-35.348549,143.56221,-35.348549",
     "geom:latitude":-35.348549,
     "geom:longitude":143.56221,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Campbell St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219366715,
-    "wof:lastmodified":1449072979,
+    "wof:lastmodified":1466188067,
     "wof:name":"Murray A.C.E. Swan Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [143.56221,-35.348549,143.56221,-35.348549],
-  "geometry": {"coordinates":[143.56221,-35.348549],"type":"Point"}
+  "bbox": [
+    143.56221,
+    -35.348549,
+    143.56221,
+    -35.348549
+],
+  "geometry": {"coordinates":[143.56220999999999,-35.348549],"type":"Point"}
 }

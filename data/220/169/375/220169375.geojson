@@ -2,13 +2,14 @@
   "id": 220169375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.359695,-38.149914,144.359695,-38.149914",
     "geom:latitude":-38.149914,
     "geom:longitude":144.359695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 11, Belchers Arcade, 171-181 Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220169375,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466188983,
     "wof:name":"Cavern Imports",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "game"
     ]
 },
-  "bbox": [144.359695,-38.149914,144.359695,-38.149914],
-  "geometry": {"coordinates":[144.359695,-38.149914],"type":"Point"}
+  "bbox": [
+    144.359695,
+    -38.149914,
+    144.359695,
+    -38.149914
+],
+  "geometry": {"coordinates":[144.35969499999999,-38.149914],"type":"Point"}
 }

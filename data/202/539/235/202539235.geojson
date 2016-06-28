@@ -2,13 +2,14 @@
   "id": 202539235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.741547,-33.285454,148.741547,-33.285454",
     "geom:latitude":-33.285454,
     "geom:longitude":148.741547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Main St",
     "sg:city":"Cudal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202539235,
-    "wof:lastmodified":1449062706,
+    "wof:lastmodified":1466189875,
     "wof:name":"Whitings Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.741547,-33.285454,148.741547,-33.285454],
+  "bbox": [
+    148.741547,
+    -33.285454,
+    148.741547,
+    -33.285454
+],
   "geometry": {"coordinates":[148.741547,-33.285454],"type":"Point"}
 }

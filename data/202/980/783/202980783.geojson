@@ -2,13 +2,14 @@
   "id": 202980783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.181671,-33.79528,151.181671,-33.79528",
     "geom:latitude":-33.79528,
     "geom:longitude":151.181671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 7. 6 Help St Chatswood",
     "sg:city":"Chatswood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202980783,
-    "wof:lastmodified":1449060281,
+    "wof:lastmodified":1466191059,
     "wof:name":"HeartMath Australia",
     "wof:parent_id":85769015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [151.181671,-33.79528,151.181671,-33.79528],
-  "geometry": {"coordinates":[151.181671,-33.79528],"type":"Point"}
+  "bbox": [
+    151.181671,
+    -33.79528,
+    151.181671,
+    -33.79528
+],
+  "geometry": {"coordinates":[151.18167099999999,-33.79528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253038461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.816208,-37.820614,144.816208,-37.820614",
     "geom:latitude":-37.820614,
     "geom:longitude":144.816208,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17- 19 Pipe Rd",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253038461,
-    "wof:lastmodified":1449064724,
+    "wof:lastmodified":1466187687,
     "wof:name":"Eatmore Poultry Pty Ltd",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kosher"
     ]
 },
-  "bbox": [144.816208,-37.820614,144.816208,-37.820614],
-  "geometry": {"coordinates":[144.816208,-37.820614],"type":"Point"}
+  "bbox": [
+    144.816208,
+    -37.820614,
+    144.816208,
+    -37.820614
+],
+  "geometry": {"coordinates":[144.81620799999999,-37.820614],"type":"Point"}
 }

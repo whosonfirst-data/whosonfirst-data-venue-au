@@ -2,13 +2,14 @@
   "id": 203390123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.878433,-37.565613,143.878433,-37.565613",
     "geom:latitude":-37.565613,
     "geom:longitude":143.878433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Eureka St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203390123,
-    "wof:lastmodified":1449026877,
+    "wof:lastmodified":1466189379,
     "wof:name":"Wood `N&#039; Energy",
     "wof:parent_id":85780237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [143.878433,-37.565613,143.878433,-37.565613],
+  "bbox": [
+    143.878433,
+    -37.565613,
+    143.878433,
+    -37.565613
+],
   "geometry": {"coordinates":[143.878433,-37.565613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253090577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.791611,-37.743374,144.791611,-37.743374",
     "geom:latitude":-37.743374,
     "geom:longitude":144.791611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Main Rd East",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253090577,
-    "wof:lastmodified":1449065166,
+    "wof:lastmodified":1466188545,
     "wof:name":"K.N.D. Denture Clinic",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [144.791611,-37.743374,144.791611,-37.743374],
-  "geometry": {"coordinates":[144.791611,-37.743374],"type":"Point"}
+  "bbox": [
+    144.791611,
+    -37.743374,
+    144.791611,
+    -37.743374
+],
+  "geometry": {"coordinates":[144.79161099999999,-37.743374],"type":"Point"}
 }

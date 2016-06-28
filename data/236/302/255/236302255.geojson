@@ -2,13 +2,14 @@
   "id": 236302255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.728996,-32.27747,115.728996,-32.27747",
     "geom:latitude":-32.27747,
     "geom:longitude":115.728996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 Railway Tce & Parkin St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236302255,
-    "wof:lastmodified":1449002622,
+    "wof:lastmodified":1466190511,
     "wof:name":"Seagulls Bakery",
     "wof:parent_id":85775727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [115.728996,-32.27747,115.728996,-32.27747],
+  "bbox": [
+    115.728996,
+    -32.27747,
+    115.728996,
+    -32.27747
+],
   "geometry": {"coordinates":[115.728996,-32.27747],"type":"Point"}
 }

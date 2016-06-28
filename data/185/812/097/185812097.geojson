@@ -2,13 +2,14 @@
   "id": 185812097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.413101,-37.619877,145.413101,-37.619877",
     "geom:latitude":-37.619877,
     "geom:longitude":145.413101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bottings La",
     "sg:city":"Yarra Glen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185812097,
-    "wof:lastmodified":1449006625,
+    "wof:lastmodified":1466186931,
     "wof:name":"Lilydale Instant Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [145.413101,-37.619877,145.413101,-37.619877],
-  "geometry": {"coordinates":[145.413101,-37.619877],"type":"Point"}
+  "bbox": [
+    145.413101,
+    -37.619877,
+    145.413101,
+    -37.619877
+],
+  "geometry": {"coordinates":[145.41310100000001,-37.619877],"type":"Point"}
 }

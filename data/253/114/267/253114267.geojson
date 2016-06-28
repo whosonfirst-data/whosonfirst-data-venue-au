@@ -2,13 +2,14 @@
   "id": 253114267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.845123,-37.779057,144.845123,-37.779057",
     "geom:latitude":-37.779057,
     "geom:longitude":144.845123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"389 Ballarat Rd (Cnr Ernest)",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253114267,
-    "wof:lastmodified":1449064060,
+    "wof:lastmodified":1466189024,
     "wof:name":"Hubbard, Dr Adrian Mumford, Dr Kelley",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopath"
     ]
 },
-  "bbox": [144.845123,-37.779057,144.845123,-37.779057],
+  "bbox": [
+    144.845123,
+    -37.779057,
+    144.845123,
+    -37.779057
+],
   "geometry": {"coordinates":[144.845123,-37.779057],"type":"Point"}
 }

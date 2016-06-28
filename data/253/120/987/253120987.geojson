@@ -2,13 +2,14 @@
   "id": 253120987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.838318,-37.800098,144.838318,-37.800098",
     "geom:latitude":-37.800098,
     "geom:longitude":144.838318,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Third Ave",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253120987,
-    "wof:lastmodified":1449065348,
+    "wof:lastmodified":1466189164,
     "wof:name":"Westend Hydroponics",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydroponics"
     ]
 },
-  "bbox": [144.838318,-37.800098,144.838318,-37.800098],
-  "geometry": {"coordinates":[144.838318,-37.800098],"type":"Point"}
+  "bbox": [
+    144.838318,
+    -37.800098,
+    144.838318,
+    -37.800098
+],
+  "geometry": {"coordinates":[144.83831799999999,-37.800098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236321299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.748932,-32.052086,115.748932,-32.052086",
     "geom:latitude":-32.052086,
     "geom:longitude":115.748932,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Adelaide St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236321299,
-    "wof:lastmodified":1449001736,
+    "wof:lastmodified":1466190611,
     "wof:name":"Dan Technology",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [115.748932,-32.052086,115.748932,-32.052086],
+  "bbox": [
+    115.748932,
+    -32.052086,
+    115.748932,
+    -32.052086
+],
   "geometry": {"coordinates":[115.748932,-32.052086],"type":"Point"}
 }

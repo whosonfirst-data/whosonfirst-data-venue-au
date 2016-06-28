@@ -2,13 +2,14 @@
   "id": 186362949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130463,-33.867386,151.130463,-33.867386",
     "geom:latitude":-33.867386,
     "geom:longitude":151.130463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Second Ave",
     "sg:city":"Five Dock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186362949,
-    "wof:lastmodified":1449052108,
+    "wof:lastmodified":1466188684,
     "wof:name":"Five Dock Physiotherapy",
     "wof:parent_id":85776725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.130463,-33.867386,151.130463,-33.867386],
-  "geometry": {"coordinates":[151.130463,-33.867386],"type":"Point"}
+  "bbox": [
+    151.130463,
+    -33.867386,
+    151.130463,
+    -33.867386
+],
+  "geometry": {"coordinates":[151.13046299999999,-33.867386],"type":"Point"}
 }

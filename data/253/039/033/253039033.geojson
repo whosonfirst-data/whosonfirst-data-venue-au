@@ -2,13 +2,14 @@
   "id": 253039033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.821671,-37.82085,144.821671,-37.82085",
     "geom:latitude":-37.82085,
     "geom:longitude":144.821671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6, 32 Westside Drv",
     "sg:city":"Laverton North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253039033,
-    "wof:lastmodified":1449065402,
+    "wof:lastmodified":1466187699,
     "wof:name":"Universal Time Recorders",
     "wof:parent_id":85776005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "time"
     ]
 },
-  "bbox": [144.821671,-37.82085,144.821671,-37.82085],
-  "geometry": {"coordinates":[144.821671,-37.82085],"type":"Point"}
+  "bbox": [
+    144.821671,
+    -37.82085,
+    144.821671,
+    -37.82085
+],
+  "geometry": {"coordinates":[144.82167100000001,-37.82085],"type":"Point"}
 }

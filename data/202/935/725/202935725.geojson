@@ -2,13 +2,14 @@
   "id": 202935725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091431,-30.317007,153.091431,-30.317007",
     "geom:latitude":-30.317007,
     "geom:longitude":153.091431,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"299D Pacific Hwy",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202935725,
-    "wof:lastmodified":1449062212,
+    "wof:lastmodified":1466191004,
     "wof:name":"Fast Signs &#039;N&#039; Stickers Australia",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [153.091431,-30.317007,153.091431,-30.317007],
+  "bbox": [
+    153.091431,
+    -30.317007,
+    153.091431,
+    -30.317007
+],
   "geometry": {"coordinates":[153.091431,-30.317007],"type":"Point"}
 }

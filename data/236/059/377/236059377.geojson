@@ -2,13 +2,14 @@
   "id": 236059377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.926437,-37.76445,144.926437,-37.76445",
     "geom:latitude":-37.76445,
     "geom:longitude":144.926437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Walker St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236059377,
-    "wof:lastmodified":1449002369,
+    "wof:lastmodified":1466187809,
     "wof:name":"Hospitality Applications Pty Ltd",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.926437,-37.76445,144.926437,-37.76445],
-  "geometry": {"coordinates":[144.926437,-37.76445],"type":"Point"}
+  "bbox": [
+    144.926437,
+    -37.76445,
+    144.926437,
+    -37.76445
+],
+  "geometry": {"coordinates":[144.92643699999999,-37.76445],"type":"Point"}
 }

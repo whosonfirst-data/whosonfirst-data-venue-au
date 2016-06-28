@@ -2,13 +2,14 @@
   "id": 252728545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.639641,-33.317261,115.639641,-33.317261",
     "geom:latitude":-33.317261,
     "geom:longitude":115.639641,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U 2/ 24",
     "sg:city":"Bonnefoi Blv Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252728545,
-    "wof:lastmodified":1449005673,
+    "wof:lastmodified":1466187231,
     "wof:name":"Infoco",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "internet"
     ]
 },
-  "bbox": [115.639641,-33.317261,115.639641,-33.317261],
+  "bbox": [
+    115.639641,
+    -33.317261,
+    115.639641,
+    -33.317261
+],
   "geometry": {"coordinates":[115.639641,-33.317261],"type":"Point"}
 }

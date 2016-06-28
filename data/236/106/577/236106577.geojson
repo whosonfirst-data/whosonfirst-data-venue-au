@@ -2,13 +2,14 @@
   "id": 236106577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.931076,-37.788128,144.931076,-37.788128",
     "geom:latitude":-37.788128,
     "geom:longitude":144.931076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Racecourse Rd",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236106577,
-    "wof:lastmodified":1449001643,
+    "wof:lastmodified":1466188761,
     "wof:name":"Newmarket Fish & Chippery",
     "wof:parent_id":85775119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [144.931076,-37.788128,144.931076,-37.788128],
-  "geometry": {"coordinates":[144.931076,-37.788128],"type":"Point"}
+  "bbox": [
+    144.931076,
+    -37.788128,
+    144.931076,
+    -37.788128
+],
+  "geometry": {"coordinates":[144.93107599999999,-37.788128],"type":"Point"}
 }

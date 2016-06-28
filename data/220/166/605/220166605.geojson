@@ -2,13 +2,14 @@
   "id": 220166605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363098,-38.162849,144.363098,-38.162849",
     "geom:latitude":-38.162849,
     "geom:longitude":144.363098,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Balliang St",
     "sg:city":"Geelong South",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220166605,
-    "wof:lastmodified":1449074504,
+    "wof:lastmodified":1466188926,
     "wof:name":"Ross Macdonald Motors",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [144.363098,-38.162849,144.363098,-38.162849],
-  "geometry": {"coordinates":[144.363098,-38.162849],"type":"Point"}
+  "bbox": [
+    144.363098,
+    -38.162849,
+    144.363098,
+    -38.162849
+],
+  "geometry": {"coordinates":[144.36309800000001,-38.162849],"type":"Point"}
 }

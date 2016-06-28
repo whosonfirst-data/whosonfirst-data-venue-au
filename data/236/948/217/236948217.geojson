@@ -2,13 +2,14 @@
   "id": 236948217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.591583,-34.977497,138.591583,-34.977497",
     "geom:latitude":-34.977497,
     "geom:longitude":138.591583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"506- 508 Goodwood Rd",
     "sg:city":"Daw Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236948217,
-    "wof:lastmodified":1449004425,
+    "wof:lastmodified":1466192151,
     "wof:name":"Vertel",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "distributors"
     ]
 },
-  "bbox": [138.591583,-34.977497,138.591583,-34.977497],
-  "geometry": {"coordinates":[138.591583,-34.977497],"type":"Point"}
+  "bbox": [
+    138.591583,
+    -34.977497,
+    138.591583,
+    -34.977497
+],
+  "geometry": {"coordinates":[138.59158300000001,-34.977497],"type":"Point"}
 }

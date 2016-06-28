@@ -2,13 +2,14 @@
   "id": 203402229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.761398,-37.803535,143.761398,-37.803535",
     "geom:latitude":-37.803535,
     "geom:longitude":143.761398,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Grassy Gully Rd",
     "sg:city":"Dereel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203402229,
-    "wof:lastmodified":1449025522,
+    "wof:lastmodified":1466189500,
     "wof:name":"Wallace Park Linen Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "plan"
     ]
 },
-  "bbox": [143.761398,-37.803535,143.761398,-37.803535],
-  "geometry": {"coordinates":[143.761398,-37.803535],"type":"Point"}
+  "bbox": [
+    143.761398,
+    -37.803535,
+    143.761398,
+    -37.803535
+],
+  "geometry": {"coordinates":[143.76139800000001,-37.803535],"type":"Point"}
 }

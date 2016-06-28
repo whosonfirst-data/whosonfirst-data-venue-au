@@ -2,13 +2,14 @@
   "id": 186628739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.051498,-34.290123,146.051498,-34.290123",
     "geom:latitude":-34.290123,
     "geom:longitude":146.051498,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor, 71 Yambil St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186628739,
-    "wof:lastmodified":1449052502,
+    "wof:lastmodified":1466191008,
     "wof:name":"Jenny Craig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weight"
     ]
 },
-  "bbox": [146.051498,-34.290123,146.051498,-34.290123],
-  "geometry": {"coordinates":[146.051498,-34.290123],"type":"Point"}
+  "bbox": [
+    146.051498,
+    -34.290123,
+    146.051498,
+    -34.290123
+],
+  "geometry": {"coordinates":[146.05149800000001,-34.290123],"type":"Point"}
 }

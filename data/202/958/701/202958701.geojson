@@ -2,13 +2,14 @@
   "id": 202958701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.099716,-30.370171,153.099716,-30.370171",
     "geom:latitude":-30.370171,
     "geom:longitude":153.099716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 305",
     "sg:city":"Sawtell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202958701,
-    "wof:lastmodified":1449062100,
+    "wof:lastmodified":1466190926,
     "wof:name":"Hawkesbury Valley Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.099716,-30.370171,153.099716,-30.370171],
+  "bbox": [
+    153.099716,
+    -30.370171,
+    153.099716,
+    -30.370171
+],
   "geometry": {"coordinates":[153.099716,-30.370171],"type":"Point"}
 }

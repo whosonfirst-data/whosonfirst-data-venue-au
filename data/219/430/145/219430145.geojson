@@ -2,13 +2,14 @@
   "id": 219430145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.563339,-34.884377,138.563339,-34.884377",
     "geom:latitude":-34.884377,
     "geom:longitude":138.563339,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Torrens Rd",
     "sg:city":"West Croydon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219430145,
-    "wof:lastmodified":1449072632,
+    "wof:lastmodified":1466188751,
     "wof:name":"The Classic Touch",
     "wof:parent_id":85774911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sundial"
     ]
 },
-  "bbox": [138.563339,-34.884377,138.563339,-34.884377],
-  "geometry": {"coordinates":[138.563339,-34.884377],"type":"Point"}
+  "bbox": [
+    138.563339,
+    -34.884377,
+    138.563339,
+    -34.884377
+],
+  "geometry": {"coordinates":[138.56333900000001,-34.884377],"type":"Point"}
 }

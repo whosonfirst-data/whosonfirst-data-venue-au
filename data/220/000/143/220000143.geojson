@@ -2,13 +2,14 @@
   "id": 220000143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.73764,-37.853687,140.73764,-37.853687",
     "geom:latitude":-37.853687,
     "geom:longitude":140.73764,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorak Hall Rd",
     "sg:city":"Moorak",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220000143,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466189946,
     "wof:name":"Di Rito G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [140.73764,-37.853687,140.73764,-37.853687],
+  "bbox": [
+    140.73764,
+    -37.853687,
+    140.73764,
+    -37.853687
+],
   "geometry": {"coordinates":[140.73764,-37.853687],"type":"Point"}
 }

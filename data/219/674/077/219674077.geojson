@@ -2,13 +2,14 @@
   "id": 219674077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.510696,-32.180424,152.510696,-32.180424",
     "geom:latitude":-32.180424,
     "geom:longitude":152.510696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 3 48 Wharf St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219674077,
-    "wof:lastmodified":1449073036,
+    "wof:lastmodified":1466191178,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "taxation"
     ]
 },
-  "bbox": [152.510696,-32.180424,152.510696,-32.180424],
+  "bbox": [
+    152.510696,
+    -32.180424,
+    152.510696,
+    -32.180424
+],
   "geometry": {"coordinates":[152.510696,-32.180424],"type":"Point"}
 }

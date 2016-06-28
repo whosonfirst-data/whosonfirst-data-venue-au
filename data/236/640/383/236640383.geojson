@@ -2,13 +2,14 @@
   "id": 236640383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.791199,-32.569752,115.791199,-32.569752",
     "geom:latitude":-32.569752,
     "geom:longitude":115.791199,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 631 South Yunderup Rd",
     "sg:city":"South Yunderup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236640383,
-    "wof:lastmodified":1449003021,
+    "wof:lastmodified":1466191732,
     "wof:name":"Sandy Cove Tavern",
     "wof:parent_id":85779943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [115.791199,-32.569752,115.791199,-32.569752],
-  "geometry": {"coordinates":[115.791199,-32.569752],"type":"Point"}
+  "bbox": [
+    115.791199,
+    -32.569752,
+    115.791199,
+    -32.569752
+],
+  "geometry": {"coordinates":[115.79119900000001,-32.569752],"type":"Point"}
 }

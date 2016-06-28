@@ -2,13 +2,14 @@
   "id": 253143113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.962982,-27.533998,151.962982,-27.533998",
     "geom:latitude":-27.533998,
     "geom:longitude":151.962982,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15a Kate St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253143113,
-    "wof:lastmodified":1449065266,
+    "wof:lastmodified":1466189480,
     "wof:name":"Ross Edser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [151.962982,-27.533998,151.962982,-27.533998],
-  "geometry": {"coordinates":[151.962982,-27.533998],"type":"Point"}
+  "bbox": [
+    151.962982,
+    -27.533998,
+    151.962982,
+    -27.533998
+],
+  "geometry": {"coordinates":[151.96298200000001,-27.533998],"type":"Point"}
 }

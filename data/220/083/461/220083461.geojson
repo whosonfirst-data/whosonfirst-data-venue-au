@@ -2,13 +2,14 @@
   "id": 220083461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.124313,-40.83947,145.124313,-40.83947",
     "geom:latitude":-40.83947,
     "geom:longitude":145.124313,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 King St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220083461,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466187782,
     "wof:name":"Popiel A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.124313,-40.83947,145.124313,-40.83947],
+  "bbox": [
+    145.124313,
+    -40.83947,
+    145.124313,
+    -40.83947
+],
   "geometry": {"coordinates":[145.124313,-40.83947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169764785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.095184,-27.226301,153.095184,-27.226301",
     "geom:latitude":-27.226301,
     "geom:longitude":153.095184,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3- 5 Oleander St",
     "sg:city":"Kippa-Ring",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169764785,
-    "wof:lastmodified":1449035807,
+    "wof:lastmodified":1466188125,
     "wof:name":"Zelows",
     "wof:parent_id":85774891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "travel"
     ]
 },
-  "bbox": [153.095184,-27.226301,153.095184,-27.226301],
-  "geometry": {"coordinates":[153.095184,-27.226301],"type":"Point"}
+  "bbox": [
+    153.095184,
+    -27.226301,
+    153.095184,
+    -27.226301
+],
+  "geometry": {"coordinates":[153.09518399999999,-27.226301],"type":"Point"}
 }

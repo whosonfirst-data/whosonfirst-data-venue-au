@@ -2,13 +2,14 @@
   "id": 219728829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.770981,-19.27776,146.770981,-19.27776",
     "geom:latitude":-19.27776,
     "geom:longitude":146.770981,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Hammett St",
     "sg:city":"Currajong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219728829,
-    "wof:lastmodified":1449071216,
+    "wof:lastmodified":1466191291,
     "wof:name":"Western Lions Junior Rugby League",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rugby"
     ]
 },
-  "bbox": [146.770981,-19.27776,146.770981,-19.27776],
-  "geometry": {"coordinates":[146.770981,-19.27776],"type":"Point"}
+  "bbox": [
+    146.770981,
+    -19.27776,
+    146.770981,
+    -19.27776
+],
+  "geometry": {"coordinates":[146.77098100000001,-19.27776],"type":"Point"}
 }

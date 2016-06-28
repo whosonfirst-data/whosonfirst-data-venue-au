@@ -2,13 +2,14 @@
   "id": 236458225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.186096,-21.140615,149.186096,-21.140615",
     "geom:latitude":-21.140615,
     "geom:longitude":149.186096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5/ 21 Wood St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236458225,
-    "wof:lastmodified":1449004103,
+    "wof:lastmodified":1466191265,
     "wof:name":"Sunbird Educational Resources",
     "wof:parent_id":85770779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [149.186096,-21.140615,149.186096,-21.140615],
-  "geometry": {"coordinates":[149.186096,-21.140615],"type":"Point"}
+  "bbox": [
+    149.186096,
+    -21.140615,
+    149.186096,
+    -21.140615
+],
+  "geometry": {"coordinates":[149.18609599999999,-21.140615],"type":"Point"}
 }

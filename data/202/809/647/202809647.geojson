@@ -2,13 +2,14 @@
   "id": 202809647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.684235,-32.933205,151.684235,-32.933205",
     "geom:latitude":-32.933205,
     "geom:longitude":151.684235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Grandview Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202809647,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466190366,
     "wof:name":"Halliday Ralph Plumbing",
     "wof:parent_id":85776175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.684235,-32.933205,151.684235,-32.933205],
+  "bbox": [
+    151.684235,
+    -32.933205,
+    151.684235,
+    -32.933205
+],
   "geometry": {"coordinates":[151.684235,-32.933205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203080657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.935486,-12.430321,130.935486,-12.430321",
     "geom:latitude":-12.430321,
     "geom:longitude":130.935486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 McMinns Drv",
     "sg:city":"McMinns Lagoon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203080657,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466188763,
     "wof:name":"T.A.S. Topend Automotive Services",
     "wof:parent_id":85770713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "brake"
     ]
 },
-  "bbox": [130.935486,-12.430321,130.935486,-12.430321],
+  "bbox": [
+    130.935486,
+    -12.430321,
+    130.935486,
+    -12.430321
+],
   "geometry": {"coordinates":[130.935486,-12.430321],"type":"Point"}
 }

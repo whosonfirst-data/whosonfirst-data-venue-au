@@ -2,13 +2,14 @@
   "id": 236846099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.888748,-34.42997,150.888748,-34.42997",
     "geom:latitude":-34.42997,
     "geom:longitude":150.888748,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Auburn St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236846099,
-    "wof:lastmodified":1449004353,
+    "wof:lastmodified":1466192029,
     "wof:name":"Alpine Refrigeration & Air Conditioning",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [150.888748,-34.42997,150.888748,-34.42997],
-  "geometry": {"coordinates":[150.888748,-34.42997],"type":"Point"}
+  "bbox": [
+    150.888748,
+    -34.42997,
+    150.888748,
+    -34.42997
+],
+  "geometry": {"coordinates":[150.88874799999999,-34.42997],"type":"Point"}
 }

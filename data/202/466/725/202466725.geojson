@@ -2,13 +2,14 @@
   "id": 202466725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.954224,-37.837833,144.954224,-37.837833",
     "geom:latitude":-37.837833,
     "geom:longitude":144.954224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Montague St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202466725,
-    "wof:lastmodified":1449060873,
+    "wof:lastmodified":1466189005,
     "wof:name":"Link Tours Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [144.954224,-37.837833,144.954224,-37.837833],
-  "geometry": {"coordinates":[144.954224,-37.837833],"type":"Point"}
+  "bbox": [
+    144.954224,
+    -37.837833,
+    144.954224,
+    -37.837833
+],
+  "geometry": {"coordinates":[144.95422400000001,-37.837833],"type":"Point"}
 }

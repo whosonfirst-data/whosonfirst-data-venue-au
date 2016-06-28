@@ -2,13 +2,14 @@
   "id": 236005697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.314529,-42.994862,147.314529,-42.994862",
     "geom:latitude":-42.994862,
     "geom:longitude":147.314529,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Topaz Crt",
     "sg:city":"Blackmans Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236005697,
-    "wof:lastmodified":1449004929,
+    "wof:lastmodified":1466186956,
     "wof:name":"Sunview Project Homes Pty Ltd",
     "wof:parent_id":85770383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [147.314529,-42.994862,147.314529,-42.994862],
-  "geometry": {"coordinates":[147.314529,-42.994862],"type":"Point"}
+  "bbox": [
+    147.314529,
+    -42.994862,
+    147.314529,
+    -42.994862
+],
+  "geometry": {"coordinates":[147.31452899999999,-42.994862],"type":"Point"}
 }

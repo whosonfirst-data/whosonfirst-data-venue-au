@@ -2,13 +2,14 @@
   "id": 236876151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.21286,-35.295727,148.21286,-35.295727",
     "geom:latitude":-35.295727,
     "geom:longitude":148.21286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Adelong Rd",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236876151,
-    "wof:lastmodified":1449002175,
+    "wof:lastmodified":1466192179,
     "wof:name":"Tumut Holden Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [148.21286,-35.295727,148.21286,-35.295727],
-  "geometry": {"coordinates":[148.21286,-35.295727],"type":"Point"}
+  "bbox": [
+    148.21286,
+    -35.295727,
+    148.21286,
+    -35.295727
+],
+  "geometry": {"coordinates":[148.21286000000001,-35.295727],"type":"Point"}
 }

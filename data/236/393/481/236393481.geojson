@@ -2,13 +2,14 @@
   "id": 236393481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.820503,-32.234409,115.820503,-32.234409",
     "geom:latitude":-32.234409,
     "geom:longitude":115.820503,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Hutton St",
     "sg:city":"Orelia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236393481,
-    "wof:lastmodified":1449002533,
+    "wof:lastmodified":1466191018,
     "wof:name":"VIP Window Tinting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tinting"
     ]
 },
-  "bbox": [115.820503,-32.234409,115.820503,-32.234409],
+  "bbox": [
+    115.820503,
+    -32.234409,
+    115.820503,
+    -32.234409
+],
   "geometry": {"coordinates":[115.820503,-32.234409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236559741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.007568,-33.940205,151.007568,-33.940205",
     "geom:latitude":-33.940205,
     "geom:longitude":151.007568,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Milperra Rd",
     "sg:city":"Revesby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236559741,
-    "wof:lastmodified":1449004379,
+    "wof:lastmodified":1466191598,
     "wof:name":"Stemar",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.007568,-33.940205,151.007568,-33.940205],
-  "geometry": {"coordinates":[151.007568,-33.940205],"type":"Point"}
+  "bbox": [
+    151.007568,
+    -33.940205,
+    151.007568,
+    -33.940205
+],
+  "geometry": {"coordinates":[151.00756799999999,-33.940205],"type":"Point"}
 }

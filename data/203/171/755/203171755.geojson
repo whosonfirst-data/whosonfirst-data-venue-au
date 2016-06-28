@@ -2,13 +2,14 @@
   "id": 203171755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.991318,-36.549801,145.991318,-36.549801",
     "geom:latitude":-36.549801,
     "geom:longitude":145.991318,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Bridge St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203171755,
-    "wof:lastmodified":1449026870,
+    "wof:lastmodified":1466189833,
     "wof:name":"Caltex East End Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.991318,-36.549801,145.991318,-36.549801],
-  "geometry": {"coordinates":[145.991318,-36.549801],"type":"Point"}
+  "bbox": [
+    145.991318,
+    -36.549801,
+    145.991318,
+    -36.549801
+],
+  "geometry": {"coordinates":[145.99131800000001,-36.549801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220047567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.155121,-33.359169,116.155121,-33.359169",
     "geom:latitude":-33.359169,
     "geom:longitude":116.155121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Jones Arcade Cnr Forrest & Steere Sts",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220047567,
-    "wof:lastmodified":1449074574,
+    "wof:lastmodified":1466187480,
     "wof:name":"Collie Travelcentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [116.155121,-33.359169,116.155121,-33.359169],
-  "geometry": {"coordinates":[116.155121,-33.359169],"type":"Point"}
+  "bbox": [
+    116.155121,
+    -33.359169,
+    116.155121,
+    -33.359169
+],
+  "geometry": {"coordinates":[116.15512099999999,-33.359169],"type":"Point"}
 }

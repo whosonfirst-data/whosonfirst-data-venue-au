@@ -2,13 +2,14 @@
   "id": 186643301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.046585,-34.288223,146.046585,-34.288223",
     "geom:latitude":-34.288223,
     "geom:longitude":146.046585,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Banna Ave",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186643301,
-    "wof:lastmodified":1449052663,
+    "wof:lastmodified":1466191125,
     "wof:name":"Lowes Menswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [146.046585,-34.288223,146.046585,-34.288223],
-  "geometry": {"coordinates":[146.046585,-34.288223],"type":"Point"}
+  "bbox": [
+    146.046585,
+    -34.288223,
+    146.046585,
+    -34.288223
+],
+  "geometry": {"coordinates":[146.04658499999999,-34.288223],"type":"Point"}
 }

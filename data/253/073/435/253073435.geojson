@@ -2,13 +2,14 @@
   "id": 253073435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.806747,-37.795048,144.806747,-37.795048",
     "geom:latitude":-37.795048,
     "geom:longitude":144.806747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Fremont Pde",
     "sg:city":"Ardeer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253073435,
-    "wof:lastmodified":1449063229,
+    "wof:lastmodified":1466188245,
     "wof:name":"Above Board Floor Sanding",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [144.806747,-37.795048,144.806747,-37.795048],
+  "bbox": [
+    144.806747,
+    -37.795048,
+    144.806747,
+    -37.795048
+],
   "geometry": {"coordinates":[144.806747,-37.795048],"type":"Point"}
 }

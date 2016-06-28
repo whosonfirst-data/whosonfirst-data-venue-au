@@ -2,13 +2,14 @@
   "id": 253183933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.957443,-27.563936,151.957443,-27.563936",
     "geom:latitude":-27.563936,
     "geom:longitude":151.957443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 172 Hume St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253183933,
-    "wof:lastmodified":1449064415,
+    "wof:lastmodified":1466190130,
     "wof:name":"Ahern Anthony",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [151.957443,-27.563936,151.957443,-27.563936],
-  "geometry": {"coordinates":[151.957443,-27.563936],"type":"Point"}
+  "bbox": [
+    151.957443,
+    -27.563936,
+    151.957443,
+    -27.563936
+],
+  "geometry": {"coordinates":[151.95744300000001,-27.563936],"type":"Point"}
 }

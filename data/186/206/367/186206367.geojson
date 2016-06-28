@@ -2,13 +2,14 @@
   "id": 186206367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.907639,-31.476803,152.907639,-31.476803",
     "geom:latitude":-31.476803,
     "geom:longitude":152.907639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Emerald Drv (cnr Ocean Drv)",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186206367,
-    "wof:lastmodified":1449052200,
+    "wof:lastmodified":1466187117,
     "wof:name":"Young Dr Stephen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.907639,-31.476803,152.907639,-31.476803],
-  "geometry": {"coordinates":[152.907639,-31.476803],"type":"Point"}
+  "bbox": [
+    152.907639,
+    -31.476803,
+    152.907639,
+    -31.476803
+],
+  "geometry": {"coordinates":[152.90763899999999,-31.476803],"type":"Point"}
 }

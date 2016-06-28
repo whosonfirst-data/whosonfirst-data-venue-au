@@ -2,13 +2,14 @@
   "id": 186392271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.822464,-19.261461,146.822464,-19.261461",
     "geom:latitude":-19.261461,
     "geom:longitude":146.822464,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 33 Plume St",
     "sg:city":"South Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186392271,
-    "wof:lastmodified":1449052479,
+    "wof:lastmodified":1466189195,
     "wof:name":"Welcon Technologies",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [146.822464,-19.261461,146.822464,-19.261461],
+  "bbox": [
+    146.822464,
+    -19.261461,
+    146.822464,
+    -19.261461
+],
   "geometry": {"coordinates":[146.822464,-19.261461],"type":"Point"}
 }

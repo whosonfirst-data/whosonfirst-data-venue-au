@@ -2,13 +2,14 @@
   "id": 186412503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.790527,-19.263834,146.790527,-19.263834",
     "geom:latitude":-19.263834,
     "geom:longitude":146.790527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PMB 6 Townsville Mail Centre",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186412503,
-    "wof:lastmodified":1449050955,
+    "wof:lastmodified":1466189520,
     "wof:name":"CSR Burdekin Mills",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grazier"
     ]
 },
-  "bbox": [146.790527,-19.263834,146.790527,-19.263834],
+  "bbox": [
+    146.790527,
+    -19.263834,
+    146.790527,
+    -19.263834
+],
   "geometry": {"coordinates":[146.790527,-19.263834],"type":"Point"}
 }

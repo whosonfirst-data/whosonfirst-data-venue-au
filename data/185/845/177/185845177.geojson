@@ -2,13 +2,14 @@
   "id": 185845177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.826309,-25.266006,152.826309,-25.266006",
     "geom:latitude":-25.266006,
     "geom:longitude":152.826309,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Long St",
     "sg:city":"Point Vernon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185845177,
-    "wof:lastmodified":1449006877,
+    "wof:lastmodified":1466187278,
     "wof:name":"Blue Care",
     "wof:parent_id":85770021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dietitian"
     ]
 },
-  "bbox": [152.826309,-25.266006,152.826309,-25.266006],
-  "geometry": {"coordinates":[152.826309,-25.266006],"type":"Point"}
+  "bbox": [
+    152.826309,
+    -25.266006,
+    152.826309,
+    -25.266006
+],
+  "geometry": {"coordinates":[152.82630900000001,-25.266006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253299299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.563034,-24.331152,151.563034,-24.331152",
     "geom:latitude":-24.331152,
     "geom:longitude":151.563034,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruce Hwy",
     "sg:city":"Miriam Vale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253299299,
-    "wof:lastmodified":1449063571,
+    "wof:lastmodified":1466190776,
     "wof:name":"Star Bakery & Caravan Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.563034,-24.331152,151.563034,-24.331152],
-  "geometry": {"coordinates":[151.563034,-24.331152],"type":"Point"}
+  "bbox": [
+    151.563034,
+    -24.331152,
+    151.563034,
+    -24.331152
+],
+  "geometry": {"coordinates":[151.56303399999999,-24.331152],"type":"Point"}
 }

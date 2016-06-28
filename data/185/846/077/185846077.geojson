@@ -2,13 +2,14 @@
   "id": 185846077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.824905,-25.291574,152.824905,-25.291574",
     "geom:latitude":-25.291574,
     "geom:longitude":152.824905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Nissen St",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185846077,
-    "wof:lastmodified":1449007874,
+    "wof:lastmodified":1466187291,
     "wof:name":"Fraser Shores",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [152.824905,-25.291574,152.824905,-25.291574],
+  "bbox": [
+    152.824905,
+    -25.291574,
+    152.824905,
+    -25.291574
+],
   "geometry": {"coordinates":[152.824905,-25.291574],"type":"Point"}
 }

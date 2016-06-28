@@ -2,13 +2,14 @@
   "id": 219631371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.123657,-33.927937,151.123657,-33.927937",
     "geom:latitude":-33.927937,
     "geom:longitude":151.123657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Homer St",
     "sg:city":"Earlwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219631371,
-    "wof:lastmodified":1449071493,
+    "wof:lastmodified":1466190887,
     "wof:name":"Studio 275",
     "wof:parent_id":85769211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [151.123657,-33.927937,151.123657,-33.927937],
-  "geometry": {"coordinates":[151.123657,-33.927937],"type":"Point"}
+  "bbox": [
+    151.123657,
+    -33.927937,
+    151.123657,
+    -33.927937
+],
+  "geometry": {"coordinates":[151.12365700000001,-33.927937],"type":"Point"}
 }

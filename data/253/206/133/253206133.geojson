@@ -2,13 +2,14 @@
   "id": 253206133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.988815,-27.552256,151.988815,-27.552256",
     "geom:latitude":-27.552256,
     "geom:longitude":151.988815,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Prince Henry Drv",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253206133,
-    "wof:lastmodified":1449064856,
+    "wof:lastmodified":1466190246,
     "wof:name":"Rod Hall Architects Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.988815,-27.552256,151.988815,-27.552256],
-  "geometry": {"coordinates":[151.988815,-27.552256],"type":"Point"}
+  "bbox": [
+    151.988815,
+    -27.552256,
+    151.988815,
+    -27.552256
+],
+  "geometry": {"coordinates":[151.98881499999999,-27.552256],"type":"Point"}
 }

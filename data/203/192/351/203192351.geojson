@@ -2,13 +2,14 @@
   "id": 203192351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.175583,-38.407982,144.175583,-38.407982",
     "geom:latitude":-38.407982,
     "geom:longitude":144.175583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Golf Links Rd",
     "sg:city":"Anglesea",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203192351,
-    "wof:lastmodified":1449026310,
+    "wof:lastmodified":1466186943,
     "wof:name":"Anglesea Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.175583,-38.407982,144.175583,-38.407982],
-  "geometry": {"coordinates":[144.175583,-38.407982],"type":"Point"}
+  "bbox": [
+    144.175583,
+    -38.407982,
+    144.175583,
+    -38.407982
+],
+  "geometry": {"coordinates":[144.17558299999999,-38.407982],"type":"Point"}
 }

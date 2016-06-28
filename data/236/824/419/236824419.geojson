@@ -2,13 +2,14 @@
   "id": 236824419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.890778,-34.435814,150.890778,-34.435814",
     "geom:latitude":-34.435814,
     "geom:longitude":150.890778,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 119 Kenny St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236824419,
-    "wof:lastmodified":1449002697,
+    "wof:lastmodified":1466191900,
     "wof:name":"Fyfe P A",
     "wof:parent_id":85769093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [150.890778,-34.435814,150.890778,-34.435814],
-  "geometry": {"coordinates":[150.890778,-34.435814],"type":"Point"}
+  "bbox": [
+    150.890778,
+    -34.435814,
+    150.890778,
+    -34.435814
+],
+  "geometry": {"coordinates":[150.89077800000001,-34.435814],"type":"Point"}
 }

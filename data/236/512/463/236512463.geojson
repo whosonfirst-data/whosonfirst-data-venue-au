@@ -2,13 +2,14 @@
   "id": 236512463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.141907,-32.547939,151.141907,-32.547939",
     "geom:latitude":-32.547939,
     "geom:longitude":151.141907,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Magpie St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236512463,
-    "wof:lastmodified":1449004166,
+    "wof:lastmodified":1466191335,
     "wof:name":"CCI FluidTech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [151.141907,-32.547939,151.141907,-32.547939],
+  "bbox": [
+    151.141907,
+    -32.547939,
+    151.141907,
+    -32.547939
+],
   "geometry": {"coordinates":[151.141907,-32.547939],"type":"Point"}
 }

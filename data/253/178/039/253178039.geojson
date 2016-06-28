@@ -2,13 +2,14 @@
   "id": 253178039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.966721,-27.589487,151.966721,-27.589487",
     "geom:latitude":-27.589487,
     "geom:longitude":151.966721,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Debra St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253178039,
-    "wof:lastmodified":1449064958,
+    "wof:lastmodified":1466190064,
     "wof:name":"A R Brunner",
     "wof:parent_id":85779997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cement"
     ]
 },
-  "bbox": [151.966721,-27.589487,151.966721,-27.589487],
-  "geometry": {"coordinates":[151.966721,-27.589487],"type":"Point"}
+  "bbox": [
+    151.966721,
+    -27.589487,
+    151.966721,
+    -27.589487
+],
+  "geometry": {"coordinates":[151.96672100000001,-27.589487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203265093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.007172,-33.385704,148.007172,-33.385704",
     "geom:latitude":-33.385704,
     "geom:longitude":148.007172,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Lachlan St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203265093,
-    "wof:lastmodified":1449025557,
+    "wof:lastmodified":1466187685,
     "wof:name":"Conservatorium of Music (Mitchell)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [148.007172,-33.385704,148.007172,-33.385704],
+  "bbox": [
+    148.007172,
+    -33.385704,
+    148.007172,
+    -33.385704
+],
   "geometry": {"coordinates":[148.007172,-33.385704],"type":"Point"}
 }

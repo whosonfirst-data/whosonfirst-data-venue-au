@@ -2,13 +2,14 @@
   "id": 202510257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.168396,-38.104004,145.168396,-38.104004",
     "geom:latitude":-38.104004,
     "geom:longitude":145.168396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Frankston-Dandenong Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202510257,
-    "wof:lastmodified":1449061649,
+    "wof:lastmodified":1466189652,
     "wof:name":"Mika Timber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [145.168396,-38.104004,145.168396,-38.104004],
+  "bbox": [
+    145.168396,
+    -38.104004,
+    145.168396,
+    -38.104004
+],
   "geometry": {"coordinates":[145.168396,-38.104004],"type":"Point"}
 }

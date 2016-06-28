@@ -2,13 +2,14 @@
   "id": 202732757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.636932,-34.783859,138.636932,-34.783859",
     "geom:latitude":-34.783859,
     "geom:longitude":138.636932,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Bremen Drv",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202732757,
-    "wof:lastmodified":1449062751,
+    "wof:lastmodified":1466189454,
     "wof:name":"Northbridge Drilling",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [138.636932,-34.783859,138.636932,-34.783859],
+  "bbox": [
+    138.636932,
+    -34.783859,
+    138.636932,
+    -34.783859
+],
   "geometry": {"coordinates":[138.636932,-34.783859],"type":"Point"}
 }

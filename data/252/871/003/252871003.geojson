@@ -2,13 +2,14 @@
   "id": 252871003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.551514,-37.674809,144.551514,-37.674809",
     "geom:latitude":-37.674809,
     "geom:longitude":144.551514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1439",
     "sg:city":"Melton West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252871003,
-    "wof:lastmodified":1449005757,
+    "wof:lastmodified":1466188727,
     "wof:name":"Workplace Safety Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [144.551514,-37.674809,144.551514,-37.674809],
+  "bbox": [
+    144.551514,
+    -37.674809,
+    144.551514,
+    -37.674809
+],
   "geometry": {"coordinates":[144.551514,-37.674809],"type":"Point"}
 }

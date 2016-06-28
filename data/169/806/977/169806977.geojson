@@ -2,13 +2,14 @@
   "id": 169806977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.847092,-32.054649,115.847092,-32.054649",
     "geom:latitude":-32.054649,
     "geom:longitude":115.847092,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7-10/ 22 Parry Ave",
     "sg:city":"Bateman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169806977,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466188799,
     "wof:name":"Promaco Conventions Pty Ltd",
     "wof:parent_id":85775779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "event"
     ]
 },
-  "bbox": [115.847092,-32.054649,115.847092,-32.054649],
+  "bbox": [
+    115.847092,
+    -32.054649,
+    115.847092,
+    -32.054649
+],
   "geometry": {"coordinates":[115.847092,-32.054649],"type":"Point"}
 }

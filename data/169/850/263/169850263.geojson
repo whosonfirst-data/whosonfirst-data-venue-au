@@ -2,13 +2,14 @@
   "id": 169850263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.833069,-32.00951,115.833069,-32.00951",
     "geom:latitude":-32.00951,
     "geom:longitude":115.833069,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81B Kintail Rd",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169850263,
-    "wof:lastmodified":1449034603,
+    "wof:lastmodified":1466189426,
     "wof:name":"Jerry Skryplonek",
     "wof:parent_id":85768683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "layer"
     ]
 },
-  "bbox": [115.833069,-32.00951,115.833069,-32.00951],
-  "geometry": {"coordinates":[115.833069,-32.00951],"type":"Point"}
+  "bbox": [
+    115.833069,
+    -32.00951,
+    115.833069,
+    -32.00951
+],
+  "geometry": {"coordinates":[115.83306899999999,-32.00951],"type":"Point"}
 }

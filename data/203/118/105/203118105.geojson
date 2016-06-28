@@ -2,13 +2,14 @@
   "id": 203118105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747269,-32.528519,115.747269,-32.528519",
     "geom:latitude":-32.528519,
     "geom:longitude":115.747269,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4/ 5 Murdoch Drv",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203118105,
-    "wof:lastmodified":1449026478,
+    "wof:lastmodified":1466189319,
     "wof:name":"Concise Services",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "word"
     ]
 },
-  "bbox": [115.747269,-32.528519,115.747269,-32.528519],
+  "bbox": [
+    115.747269,
+    -32.528519,
+    115.747269,
+    -32.528519
+],
   "geometry": {"coordinates":[115.747269,-32.528519],"type":"Point"}
 }

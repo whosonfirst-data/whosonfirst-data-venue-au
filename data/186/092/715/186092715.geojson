@@ -2,13 +2,14 @@
   "id": 186092715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.82901,-31.060539,152.82901,-31.060539",
     "geom:latitude":-31.060539,
     "geom:longitude":152.82901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Leith St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186092715,
-    "wof:lastmodified":1449052511,
+    "wof:lastmodified":1466189138,
     "wof:name":"KOGS Support Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [152.82901,-31.060539,152.82901,-31.060539],
-  "geometry": {"coordinates":[152.82901,-31.060539],"type":"Point"}
+  "bbox": [
+    152.82901,
+    -31.060539,
+    152.82901,
+    -31.060539
+],
+  "geometry": {"coordinates":[152.82901000000001,-31.060539],"type":"Point"}
 }

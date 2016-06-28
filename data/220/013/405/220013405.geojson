@@ -2,13 +2,14 @@
   "id": 220013405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.278458,-36.764816,144.278458,-36.764816",
     "geom:latitude":-36.764816,
     "geom:longitude":144.278458,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Wills St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220013405,
-    "wof:lastmodified":1449074599,
+    "wof:lastmodified":1466187007,
     "wof:name":"SureSlim Bendigo",
     "wof:parent_id":85780691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [144.278458,-36.764816,144.278458,-36.764816],
+  "bbox": [
+    144.278458,
+    -36.764816,
+    144.278458,
+    -36.764816
+],
   "geometry": {"coordinates":[144.278458,-36.764816],"type":"Point"}
 }

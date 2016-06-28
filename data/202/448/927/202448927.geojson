@@ -2,13 +2,14 @@
   "id": 202448927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961731,-37.835976,144.961731,-37.835976",
     "geom:latitude":-37.835976,
     "geom:longitude":144.961731,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Dow St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202448927,
-    "wof:lastmodified":1449062526,
+    "wof:lastmodified":1466188745,
     "wof:name":"Strategy Pacific Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.961731,-37.835976,144.961731,-37.835976],
-  "geometry": {"coordinates":[144.961731,-37.835976],"type":"Point"}
+  "bbox": [
+    144.961731,
+    -37.835976,
+    144.961731,
+    -37.835976
+],
+  "geometry": {"coordinates":[144.96173099999999,-37.835976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220015009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.280518,-36.764465,144.280518,-36.764465",
     "geom:latitude":-36.764465,
     "geom:longitude":144.280518,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Garsed St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220015009,
-    "wof:lastmodified":1449074231,
+    "wof:lastmodified":1466187040,
     "wof:name":"Shane Muir Consulting Engineers",
     "wof:parent_id":85780691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigation"
     ]
 },
-  "bbox": [144.280518,-36.764465,144.280518,-36.764465],
+  "bbox": [
+    144.280518,
+    -36.764465,
+    144.280518,
+    -36.764465
+],
   "geometry": {"coordinates":[144.280518,-36.764465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203237203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.322693,-36.353474,146.322693,-36.353474",
     "geom:latitude":-36.353474,
     "geom:longitude":146.322693,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Baker St",
     "sg:city":"Wangaratta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203237203,
-    "wof:lastmodified":1449024993,
+    "wof:lastmodified":1466187478,
     "wof:name":"NQR Supermarket Clearance Outlets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [146.322693,-36.353474,146.322693,-36.353474],
-  "geometry": {"coordinates":[146.322693,-36.353474],"type":"Point"}
+  "bbox": [
+    146.322693,
+    -36.353474,
+    146.322693,
+    -36.353474
+],
+  "geometry": {"coordinates":[146.32269299999999,-36.353474],"type":"Point"}
 }

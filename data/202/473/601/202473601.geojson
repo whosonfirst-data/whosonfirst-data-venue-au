@@ -2,13 +2,14 @@
   "id": 202473601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.960403,-37.828777,144.960403,-37.828777",
     "geom:latitude":-37.828777,
     "geom:longitude":144.960403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Chessel St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202473601,
-    "wof:lastmodified":1449060641,
+    "wof:lastmodified":1466189140,
     "wof:name":"Medivax",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [144.960403,-37.828777,144.960403,-37.828777],
-  "geometry": {"coordinates":[144.960403,-37.828777],"type":"Point"}
+  "bbox": [
+    144.960403,
+    -37.828777,
+    144.960403,
+    -37.828777
+],
+  "geometry": {"coordinates":[144.96040300000001,-37.828777],"type":"Point"}
 }

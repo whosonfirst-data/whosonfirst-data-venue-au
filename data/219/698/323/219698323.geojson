@@ -2,13 +2,14 @@
   "id": 219698323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.495163,-32.174297,152.495163,-32.174297",
     "geom:latitude":-32.174297,
     "geom:longitude":152.495163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Tuncurry St",
     "sg:city":"Tuncurry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219698323,
-    "wof:lastmodified":1449073692,
+    "wof:lastmodified":1466191148,
     "wof:name":"Foster Tuncurry Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.495163,-32.174297,152.495163,-32.174297],
-  "geometry": {"coordinates":[152.495163,-32.174297],"type":"Point"}
+  "bbox": [
+    152.495163,
+    -32.174297,
+    152.495163,
+    -32.174297
+],
+  "geometry": {"coordinates":[152.49516299999999,-32.174297],"type":"Point"}
 }

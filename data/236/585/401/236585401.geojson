@@ -2,13 +2,14 @@
   "id": 236585401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.060165,-33.967651,151.060165,-33.967651",
     "geom:latitude":-33.967651,
     "geom:longitude":151.060165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15/ 53 Lorraine St",
     "sg:city":"Peakhurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236585401,
-    "wof:lastmodified":1449003927,
+    "wof:lastmodified":1466191572,
     "wof:name":"Dynamic Flooring Australia Pty Ltd",
     "wof:parent_id":85769979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "floor"
     ]
 },
-  "bbox": [151.060165,-33.967651,151.060165,-33.967651],
-  "geometry": {"coordinates":[151.060165,-33.967651],"type":"Point"}
+  "bbox": [
+    151.060165,
+    -33.967651,
+    151.060165,
+    -33.967651
+],
+  "geometry": {"coordinates":[151.06016500000001,-33.967651],"type":"Point"}
 }

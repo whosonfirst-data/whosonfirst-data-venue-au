@@ -2,13 +2,14 @@
   "id": 220167691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.30899,-38.178196,144.30899,-38.178196",
     "geom:latitude":-38.178196,
     "geom:longitude":144.30899,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 11, Lvl 5, The Geelong Private Hosp",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220167691,
-    "wof:lastmodified":1449074453,
+    "wof:lastmodified":1466188948,
     "wof:name":"Mitchell G J",
     "wof:parent_id":85777717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.30899,-38.178196,144.30899,-38.178196],
-  "geometry": {"coordinates":[144.30899,-38.178196],"type":"Point"}
+  "bbox": [
+    144.30899,
+    -38.178196,
+    144.30899,
+    -38.178196
+],
+  "geometry": {"coordinates":[144.30898999999999,-38.178196],"type":"Point"}
 }

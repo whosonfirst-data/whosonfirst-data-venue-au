@@ -2,13 +2,14 @@
   "id": 202673319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.042297,-27.382826,153.042297,-27.382826",
     "geom:latitude":-27.382826,
     "geom:longitude":153.042297,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Beor St",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202673319,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466188333,
     "wof:name":"Neil Lodder Painting",
     "wof:parent_id":85776253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [153.042297,-27.382826,153.042297,-27.382826],
-  "geometry": {"coordinates":[153.042297,-27.382826],"type":"Point"}
+  "bbox": [
+    153.042297,
+    -27.382826,
+    153.042297,
+    -27.382826
+],
+  "geometry": {"coordinates":[153.04229699999999,-27.382826],"type":"Point"}
 }

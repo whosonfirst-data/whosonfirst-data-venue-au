@@ -2,13 +2,14 @@
   "id": 219731323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.802307,-19.272581,146.802307,-19.272581",
     "geom:latitude":-19.272581,
     "geom:longitude":146.802307,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 7 Yeatman St",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219731323,
-    "wof:lastmodified":1449073525,
+    "wof:lastmodified":1466191214,
     "wof:name":"Magic Signs and Tints",
     "wof:parent_id":85780527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tinting"
     ]
 },
-  "bbox": [146.802307,-19.272581,146.802307,-19.272581],
-  "geometry": {"coordinates":[146.802307,-19.272581],"type":"Point"}
+  "bbox": [
+    146.802307,
+    -19.272581,
+    146.802307,
+    -19.272581
+],
+  "geometry": {"coordinates":[146.80230700000001,-19.272581],"type":"Point"}
 }

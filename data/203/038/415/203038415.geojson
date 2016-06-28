@@ -2,13 +2,14 @@
   "id": 203038415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"118.154388,-32.668198,118.154388,-32.668198",
     "geom:latitude":-32.668198,
     "geom:longitude":118.154388,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 High St",
     "sg:city":"Kulin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203038415,
-    "wof:lastmodified":1449026191,
+    "wof:lastmodified":1466187980,
     "wof:name":"Kulin Self Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [118.154388,-32.668198,118.154388,-32.668198],
+  "bbox": [
+    118.154388,
+    -32.668198,
+    118.154388,
+    -32.668198
+],
   "geometry": {"coordinates":[118.154388,-32.668198],"type":"Point"}
 }

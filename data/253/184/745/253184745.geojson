@@ -2,13 +2,14 @@
   "id": 253184745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.941589,-27.569529,151.941589,-27.569529",
     "geom:latitude":-27.569529,
     "geom:longitude":151.941589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195a West St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253184745,
-    "wof:lastmodified":1449063318,
+    "wof:lastmodified":1466190133,
     "wof:name":"City Motor Inn",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.941589,-27.569529,151.941589,-27.569529],
-  "geometry": {"coordinates":[151.941589,-27.569529],"type":"Point"}
+  "bbox": [
+    151.941589,
+    -27.569529,
+    151.941589,
+    -27.569529
+],
+  "geometry": {"coordinates":[151.94158899999999,-27.569529],"type":"Point"}
 }

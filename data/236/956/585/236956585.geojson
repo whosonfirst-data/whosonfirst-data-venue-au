@@ -2,13 +2,14 @@
   "id": 236956585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.453705,-37.906696,145.453705,-37.906696",
     "geom:latitude":-37.906696,
     "geom:longitude":145.453705,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Stewart Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236956585,
-    "wof:lastmodified":1449002094,
+    "wof:lastmodified":1466192213,
     "wof:name":"Absolutely Topiary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.453705,-37.906696,145.453705,-37.906696],
-  "geometry": {"coordinates":[145.453705,-37.906696],"type":"Point"}
+  "bbox": [
+    145.453705,
+    -37.906696,
+    145.453705,
+    -37.906696
+],
+  "geometry": {"coordinates":[145.45370500000001,-37.906696],"type":"Point"}
 }

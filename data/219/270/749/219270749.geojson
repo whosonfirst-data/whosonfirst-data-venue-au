@@ -2,13 +2,14 @@
   "id": 219270749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.27742,-38.183155,146.27742,-38.183155",
     "geom:latitude":-38.183155,
     "geom:longitude":146.27742,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ollerton Ave",
     "sg:city":"Newborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219270749,
-    "wof:lastmodified":1449071019,
+    "wof:lastmodified":1466187286,
     "wof:name":"Jaspers Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [146.27742,-38.183155,146.27742,-38.183155],
-  "geometry": {"coordinates":[146.27742,-38.183155],"type":"Point"}
+  "bbox": [
+    146.27742,
+    -38.183155,
+    146.27742,
+    -38.183155
+],
+  "geometry": {"coordinates":[146.27742000000001,-38.183155],"type":"Point"}
 }

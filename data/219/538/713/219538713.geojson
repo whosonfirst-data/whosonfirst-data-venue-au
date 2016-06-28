@@ -2,13 +2,14 @@
   "id": 219538713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.049896,-33.927498,151.049896,-33.927498",
     "geom:latitude":-33.927498,
     "geom:longitude":151.049896,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Punchbowl Rd",
     "sg:city":"Punchbowl",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219538713,
-    "wof:lastmodified":1449070839,
+    "wof:lastmodified":1466190048,
     "wof:name":"Deltamax",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.049896,-33.927498,151.049896,-33.927498],
-  "geometry": {"coordinates":[151.049896,-33.927498],"type":"Point"}
+  "bbox": [
+    151.049896,
+    -33.927498,
+    151.049896,
+    -33.927498
+],
+  "geometry": {"coordinates":[151.04989599999999,-33.927498],"type":"Point"}
 }

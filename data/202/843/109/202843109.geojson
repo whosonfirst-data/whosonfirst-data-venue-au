@@ -2,13 +2,14 @@
   "id": 202843109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.519577,-36.306808,146.519577,-36.306808",
     "geom:latitude":-36.306808,
     "geom:longitude":146.519577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Brewers La",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202843109,
-    "wof:lastmodified":1449060336,
+    "wof:lastmodified":1466190340,
     "wof:name":"Eldorado Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.519577,-36.306808,146.519577,-36.306808],
+  "bbox": [
+    146.519577,
+    -36.306808,
+    146.519577,
+    -36.306808
+],
   "geometry": {"coordinates":[146.519577,-36.306808],"type":"Point"}
 }

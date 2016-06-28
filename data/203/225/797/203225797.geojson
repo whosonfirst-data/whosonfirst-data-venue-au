@@ -2,13 +2,14 @@
   "id": 203225797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.835587,-41.093807,145.835587,-41.093807",
     "geom:latitude":-41.093807,
     "geom:longitude":145.835587,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Mooreville Rd",
     "sg:city":"Ridgley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203225797,
-    "wof:lastmodified":1449025503,
+    "wof:lastmodified":1466187372,
     "wof:name":"White P M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.835587,-41.093807,145.835587,-41.093807],
+  "bbox": [
+    145.835587,
+    -41.093807,
+    145.835587,
+    -41.093807
+],
   "geometry": {"coordinates":[145.835587,-41.093807],"type":"Point"}
 }

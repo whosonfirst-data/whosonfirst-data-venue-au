@@ -2,13 +2,14 @@
   "id": 203095505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.775452,-32.549557,115.775452,-32.549557",
     "geom:latitude":-32.549557,
     "geom:longitude":115.775452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Pinjarra Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203095505,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466188979,
     "wof:name":"Western Cellars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [115.775452,-32.549557,115.775452,-32.549557],
+  "bbox": [
+    115.775452,
+    -32.549557,
+    115.775452,
+    -32.549557
+],
   "geometry": {"coordinates":[115.775452,-32.549557],"type":"Point"}
 }

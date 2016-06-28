@@ -2,13 +2,14 @@
   "id": 219603809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.151978,-33.914787,151.151978,-33.914787",
     "geom:latitude":-33.914787,
     "geom:longitude":151.151978,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Illawarah Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219603809,
-    "wof:lastmodified":1449073365,
+    "wof:lastmodified":1466190717,
     "wof:name":"Nguyen M Dr",
     "wof:parent_id":85774765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.151978,-33.914787,151.151978,-33.914787],
-  "geometry": {"coordinates":[151.151978,-33.914787],"type":"Point"}
+  "bbox": [
+    151.151978,
+    -33.914787,
+    151.151978,
+    -33.914787
+],
+  "geometry": {"coordinates":[151.15197800000001,-33.914787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236854037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.878174,-34.433414,150.878174,-34.433414",
     "geom:latitude":-34.433414,
     "geom:longitude":150.878174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Eirene Ave",
     "sg:city":"Mangerton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236854037,
-    "wof:lastmodified":1449005104,
+    "wof:lastmodified":1466192046,
     "wof:name":"DB Murphy & Sons",
     "wof:parent_id":85769695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "project"
     ]
 },
-  "bbox": [150.878174,-34.433414,150.878174,-34.433414],
+  "bbox": [
+    150.878174,
+    -34.433414,
+    150.878174,
+    -34.433414
+],
   "geometry": {"coordinates":[150.878174,-34.433414],"type":"Point"}
 }

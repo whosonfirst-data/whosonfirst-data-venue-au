@@ -2,13 +2,14 @@
   "id": 202492793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040543,-37.90411,145.040543,-37.90411",
     "geom:latitude":-37.90411,
     "geom:longitude":145.040543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"572 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202492793,
-    "wof:lastmodified":1449060111,
+    "wof:lastmodified":1466189445,
     "wof:name":"Brass &#039;N&#039; Woodwind Workshop",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maker"
     ]
 },
-  "bbox": [145.040543,-37.90411,145.040543,-37.90411],
-  "geometry": {"coordinates":[145.040543,-37.90411],"type":"Point"}
+  "bbox": [
+    145.040543,
+    -37.90411,
+    145.040543,
+    -37.90411
+],
+  "geometry": {"coordinates":[145.04054300000001,-37.90411],"type":"Point"}
 }

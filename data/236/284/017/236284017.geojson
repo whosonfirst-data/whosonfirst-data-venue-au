@@ -2,13 +2,14 @@
   "id": 236284017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.759407,-32.347149,115.759407,-32.347149",
     "geom:latitude":-32.347149,
     "geom:longitude":115.759407,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 8002",
     "sg:city":"Warnbro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236284017,
-    "wof:lastmodified":1449003747,
+    "wof:lastmodified":1466190391,
     "wof:name":"Complete Landscapes",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [115.759407,-32.347149,115.759407,-32.347149],
+  "bbox": [
+    115.759407,
+    -32.347149,
+    115.759407,
+    -32.347149
+],
   "geometry": {"coordinates":[115.759407,-32.347149],"type":"Point"}
 }

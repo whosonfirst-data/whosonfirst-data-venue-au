@@ -2,13 +2,14 @@
   "id": 202731613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.631668,-34.78244,138.631668,-34.78244",
     "geom:latitude":-34.78244,
     "geom:longitude":138.631668,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Parafield Airport Kitty Hawk La",
     "sg:city":"Parafield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202731613,
-    "wof:lastmodified":1449062362,
+    "wof:lastmodified":1466189430,
     "wof:name":"SAATAS",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charter"
     ]
 },
-  "bbox": [138.631668,-34.78244,138.631668,-34.78244],
-  "geometry": {"coordinates":[138.631668,-34.78244],"type":"Point"}
+  "bbox": [
+    138.631668,
+    -34.78244,
+    138.631668,
+    -34.78244
+],
+  "geometry": {"coordinates":[138.63166799999999,-34.78244],"type":"Point"}
 }

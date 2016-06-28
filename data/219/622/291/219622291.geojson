@@ -2,13 +2,14 @@
   "id": 219622291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166443,-33.91275,151.166443,-33.91275",
     "geom:latitude":-33.91275,
     "geom:longitude":151.166443,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sydenham Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219622291,
-    "wof:lastmodified":1449073282,
+    "wof:lastmodified":1466190829,
     "wof:name":"D & M Fabrics Pty Ltd",
     "wof:parent_id":85776747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "textile"
     ]
 },
-  "bbox": [151.166443,-33.91275,151.166443,-33.91275],
-  "geometry": {"coordinates":[151.166443,-33.91275],"type":"Point"}
+  "bbox": [
+    151.166443,
+    -33.91275,
+    151.166443,
+    -33.91275
+],
+  "geometry": {"coordinates":[151.16644299999999,-33.91275],"type":"Point"}
 }

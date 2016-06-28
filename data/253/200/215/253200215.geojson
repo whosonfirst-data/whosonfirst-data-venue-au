@@ -2,13 +2,14 @@
   "id": 253200215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.948944,-27.558239,151.948944,-27.558239",
     "geom:latitude":-27.558239,
     "geom:longitude":151.948944,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Russell St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253200215,
-    "wof:lastmodified":1449064015,
+    "wof:lastmodified":1466190086,
     "wof:name":"Queensland X-Ray",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.948944,-27.558239,151.948944,-27.558239],
-  "geometry": {"coordinates":[151.948944,-27.558239],"type":"Point"}
+  "bbox": [
+    151.948944,
+    -27.558239,
+    151.948944,
+    -27.558239
+],
+  "geometry": {"coordinates":[151.94894400000001,-27.558239],"type":"Point"}
 }

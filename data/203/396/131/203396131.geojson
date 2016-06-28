@@ -2,13 +2,14 @@
   "id": 203396131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.891983,-37.435986,143.891983,-37.435986",
     "geom:latitude":-37.435986,
     "geom:longitude":143.891983,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 114",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203396131,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466189452,
     "wof:name":"Camelot Carriage Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [143.891983,-37.435986,143.891983,-37.435986],
-  "geometry": {"coordinates":[143.891983,-37.435986],"type":"Point"}
+  "bbox": [
+    143.891983,
+    -37.435986,
+    143.891983,
+    -37.435986
+],
+  "geometry": {"coordinates":[143.89198300000001,-37.435986],"type":"Point"}
 }

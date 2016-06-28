@@ -2,13 +2,14 @@
   "id": 253176641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.933456,-27.561834,151.933456,-27.561834",
     "geom:latitude":-27.561834,
     "geom:longitude":151.933456,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Herries & Neil Sts",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253176641,
-    "wof:lastmodified":1449064770,
+    "wof:lastmodified":1466189971,
     "wof:name":"BP Herries Street",
     "wof:parent_id":85780523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.933456,-27.561834,151.933456,-27.561834],
-  "geometry": {"coordinates":[151.933456,-27.561834],"type":"Point"}
+  "bbox": [
+    151.933456,
+    -27.561834,
+    151.933456,
+    -27.561834
+],
+  "geometry": {"coordinates":[151.93345600000001,-27.561834],"type":"Point"}
 }

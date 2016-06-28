@@ -2,13 +2,14 @@
   "id": 236078927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.663818,-37.884712,144.663818,-37.884712",
     "geom:latitude":-37.884712,
     "geom:longitude":144.663818,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Berrigan Crt",
     "sg:city":"Werribee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236078927,
-    "wof:lastmodified":1449004632,
+    "wof:lastmodified":1466188202,
     "wof:name":"Perfect Satellite",
     "wof:parent_id":85771133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "satellite"
     ]
 },
-  "bbox": [144.663818,-37.884712,144.663818,-37.884712],
-  "geometry": {"coordinates":[144.663818,-37.884712],"type":"Point"}
+  "bbox": [
+    144.663818,
+    -37.884712,
+    144.663818,
+    -37.884712
+],
+  "geometry": {"coordinates":[144.66381799999999,-37.884712],"type":"Point"}
 }

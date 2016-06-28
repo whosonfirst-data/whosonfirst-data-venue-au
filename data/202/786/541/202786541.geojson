@@ -2,13 +2,14 @@
   "id": 202786541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.76886,-32.928246,151.76886,-32.928246",
     "geom:latitude":-32.928246,
     "geom:longitude":151.76886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"362 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202786541,
-    "wof:lastmodified":1449060433,
+    "wof:lastmodified":1466190209,
     "wof:name":"Jones Life & Disability Agencies Pty Ltd",
     "wof:parent_id":85777093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "consultant"
     ]
 },
-  "bbox": [151.76886,-32.928246,151.76886,-32.928246],
-  "geometry": {"coordinates":[151.76886,-32.928246],"type":"Point"}
+  "bbox": [
+    151.76886,
+    -32.928246,
+    151.76886,
+    -32.928246
+],
+  "geometry": {"coordinates":[151.76885999999999,-32.928246],"type":"Point"}
 }

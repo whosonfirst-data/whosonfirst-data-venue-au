@@ -2,13 +2,14 @@
   "id": 186620655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.052872,-34.290279,146.052872,-34.290279",
     "geom:latitude":-34.290279,
     "geom:longitude":146.052872,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Yambil St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186620655,
-    "wof:lastmodified":1449052789,
+    "wof:lastmodified":1466191149,
     "wof:name":"Savage Bros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [146.052872,-34.290279,146.052872,-34.290279],
-  "geometry": {"coordinates":[146.052872,-34.290279],"type":"Point"}
+  "bbox": [
+    146.052872,
+    -34.290279,
+    146.052872,
+    -34.290279
+],
+  "geometry": {"coordinates":[146.05287200000001,-34.290279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236337349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.792747,-32.055389,115.792747,-32.055389",
     "geom:latitude":-32.055389,
     "geom:longitude":115.792747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Forsyth St",
     "sg:city":"O'Connor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236337349,
-    "wof:lastmodified":1449003147,
+    "wof:lastmodified":1466190721,
     "wof:name":"Joyce Foam Products",
     "wof:parent_id":85775717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [115.792747,-32.055389,115.792747,-32.055389],
-  "geometry": {"coordinates":[115.792747,-32.055389],"type":"Point"}
+  "bbox": [
+    115.792747,
+    -32.055389,
+    115.792747,
+    -32.055389
+],
+  "geometry": {"coordinates":[115.79274700000001,-32.055389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203030435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.163147,-37.674831,145.163147,-37.674831",
     "geom:latitude":-37.674831,
     "geom:longitude":145.163147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Main-Hurstbridge Rd",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203030435,
-    "wof:lastmodified":1449025614,
+    "wof:lastmodified":1466187810,
     "wof:name":"Gross Antony",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.163147,-37.674831,145.163147,-37.674831],
-  "geometry": {"coordinates":[145.163147,-37.674831],"type":"Point"}
+  "bbox": [
+    145.163147,
+    -37.674831,
+    145.163147,
+    -37.674831
+],
+  "geometry": {"coordinates":[145.16314700000001,-37.674831],"type":"Point"}
 }

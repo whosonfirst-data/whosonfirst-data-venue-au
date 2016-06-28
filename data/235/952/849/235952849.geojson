@@ -2,13 +2,14 @@
   "id": 235952849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.937805,-30.088543,145.937805,-30.088543",
     "geom:latitude":-30.088543,
     "geom:longitude":145.937805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard St",
     "sg:city":"Bourke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235952849,
-    "wof:lastmodified":1449008494,
+    "wof:lastmodified":1466187086,
     "wof:name":"Central Australian Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [145.937805,-30.088543,145.937805,-30.088543],
+  "bbox": [
+    145.937805,
+    -30.088543,
+    145.937805,
+    -30.088543
+],
   "geometry": {"coordinates":[145.937805,-30.088543],"type":"Point"}
 }

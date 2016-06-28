@@ -2,13 +2,14 @@
   "id": 202491707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.034195,-37.932171,145.034195,-37.932171",
     "geom:latitude":-37.932171,
     "geom:longitude":145.034195,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Nepean Hwy",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202491707,
-    "wof:lastmodified":1449060072,
+    "wof:lastmodified":1466189421,
     "wof:name":"McIntosh Financial Planning",
     "wof:parent_id":85775363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retirement"
     ]
 },
-  "bbox": [145.034195,-37.932171,145.034195,-37.932171],
-  "geometry": {"coordinates":[145.034195,-37.932171],"type":"Point"}
+  "bbox": [
+    145.034195,
+    -37.932171,
+    145.034195,
+    -37.932171
+],
+  "geometry": {"coordinates":[145.03419500000001,-37.932171],"type":"Point"}
 }

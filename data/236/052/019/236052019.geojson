@@ -2,13 +2,14 @@
   "id": 236052019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.933014,-37.762379,144.933014,-37.762379",
     "geom:latitude":-37.762379,
     "geom:longitude":144.933014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Bent St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236052019,
-    "wof:lastmodified":1449003092,
+    "wof:lastmodified":1466187658,
     "wof:name":"The Topaz Dream",
     "wof:parent_id":85780613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aromatherapy"
     ]
 },
-  "bbox": [144.933014,-37.762379,144.933014,-37.762379],
-  "geometry": {"coordinates":[144.933014,-37.762379],"type":"Point"}
+  "bbox": [
+    144.933014,
+    -37.762379,
+    144.933014,
+    -37.762379
+],
+  "geometry": {"coordinates":[144.93301399999999,-37.762379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203365183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.829163,-37.542015,143.829163,-37.542015",
     "geom:latitude":-37.542015,
     "geom:longitude":143.829163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Colpin Ave",
     "sg:city":"Lake Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203365183,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466188939,
     "wof:name":"Mostly Mosaics",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [143.829163,-37.542015,143.829163,-37.542015],
-  "geometry": {"coordinates":[143.829163,-37.542015],"type":"Point"}
+  "bbox": [
+    143.829163,
+    -37.542015,
+    143.829163,
+    -37.542015
+],
+  "geometry": {"coordinates":[143.82916299999999,-37.542015],"type":"Point"}
 }

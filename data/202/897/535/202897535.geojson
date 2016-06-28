@@ -2,13 +2,14 @@
   "id": 202897535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.193146,-30.124882,153.193146,-30.124882",
     "geom:latitude":-30.124882,
     "geom:longitude":153.193146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 7 Bosworth Rd",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202897535,
-    "wof:lastmodified":1449062248,
+    "wof:lastmodified":1466190649,
     "wof:name":"Auto Electrical Services Woopi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [153.193146,-30.124882,153.193146,-30.124882],
-  "geometry": {"coordinates":[153.193146,-30.124882],"type":"Point"}
+  "bbox": [
+    153.193146,
+    -30.124882,
+    153.193146,
+    -30.124882
+],
+  "geometry": {"coordinates":[153.19314600000001,-30.124882],"type":"Point"}
 }

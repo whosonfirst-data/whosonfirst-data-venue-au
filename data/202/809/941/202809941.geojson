@@ -2,13 +2,14 @@
   "id": 202809941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.717316,-32.922371,151.717316,-32.922371",
     "geom:latitude":-32.922371,
     "geom:longitude":151.717316,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Lambton Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202809941,
-    "wof:lastmodified":1449062212,
+    "wof:lastmodified":1466190371,
     "wof:name":"New Lambton Hardware",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [151.717316,-32.922371,151.717316,-32.922371],
-  "geometry": {"coordinates":[151.717316,-32.922371],"type":"Point"}
+  "bbox": [
+    151.717316,
+    -32.922371,
+    151.717316,
+    -32.922371
+],
+  "geometry": {"coordinates":[151.71731600000001,-32.922371],"type":"Point"}
 }

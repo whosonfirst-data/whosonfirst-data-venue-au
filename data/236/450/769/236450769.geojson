@@ -2,13 +2,14 @@
   "id": 236450769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.163666,-21.119469,149.163666,-21.119469",
     "geom:latitude":-21.119469,
     "geom:longitude":149.163666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bona Vista Drv",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236450769,
-    "wof:lastmodified":1449004641,
+    "wof:lastmodified":1466191251,
     "wof:name":"Cost Effective Training",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [149.163666,-21.119469,149.163666,-21.119469],
-  "geometry": {"coordinates":[149.163666,-21.119469],"type":"Point"}
+  "bbox": [
+    149.163666,
+    -21.119469,
+    149.163666,
+    -21.119469
+],
+  "geometry": {"coordinates":[149.16366600000001,-21.119469],"type":"Point"}
 }

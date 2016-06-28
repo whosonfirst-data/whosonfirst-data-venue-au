@@ -2,13 +2,14 @@
   "id": 203320559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.83049,-37.586765,143.83049,-37.586765",
     "geom:latitude":-37.586765,
     "geom:longitude":143.83049,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Grant St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203320559,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466188272,
     "wof:name":"Sebastopol Spray Painting",
     "wof:parent_id":85780003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painting"
     ]
 },
-  "bbox": [143.83049,-37.586765,143.83049,-37.586765],
+  "bbox": [
+    143.83049,
+    -37.586765,
+    143.83049,
+    -37.586765
+],
   "geometry": {"coordinates":[143.83049,-37.586765],"type":"Point"}
 }

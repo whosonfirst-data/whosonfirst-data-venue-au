@@ -2,13 +2,14 @@
   "id": 252812191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.572128,-38.345226,143.572128,-38.345226",
     "geom:latitude":-38.345226,
     "geom:longitude":143.572128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 James St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252812191,
-    "wof:lastmodified":1449005433,
+    "wof:lastmodified":1466188239,
     "wof:name":"Cass House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [143.572128,-38.345226,143.572128,-38.345226],
-  "geometry": {"coordinates":[143.572128,-38.345226],"type":"Point"}
+  "bbox": [
+    143.572128,
+    -38.345226,
+    143.572128,
+    -38.345226
+],
+  "geometry": {"coordinates":[143.57212799999999,-38.345226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169790775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.605072,-38.606949,145.605072,-38.606949",
     "geom:latitude":-38.606949,
     "geom:longitude":145.605072,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Inverloch & Carneys Rds",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169790775,
-    "wof:lastmodified":1449035190,
+    "wof:lastmodified":1466188544,
     "wof:name":"Wonthaggi Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [145.605072,-38.606949,145.605072,-38.606949],
-  "geometry": {"coordinates":[145.605072,-38.606949],"type":"Point"}
+  "bbox": [
+    145.605072,
+    -38.606949,
+    145.605072,
+    -38.606949
+],
+  "geometry": {"coordinates":[145.60507200000001,-38.606949],"type":"Point"}
 }

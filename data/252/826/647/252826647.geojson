@@ -2,13 +2,14 @@
   "id": 252826647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.589127,-32.599663,149.589127,-32.599663",
     "geom:latitude":-32.599663,
     "geom:longitude":149.589127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Horatio St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252826647,
-    "wof:lastmodified":1449006190,
+    "wof:lastmodified":1466188357,
     "wof:name":"Kayandel Archaeological Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeology"
     ]
 },
-  "bbox": [149.589127,-32.599663,149.589127,-32.599663],
-  "geometry": {"coordinates":[149.589127,-32.599663],"type":"Point"}
+  "bbox": [
+    149.589127,
+    -32.599663,
+    149.589127,
+    -32.599663
+],
+  "geometry": {"coordinates":[149.58912699999999,-32.599663],"type":"Point"}
 }

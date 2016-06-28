@@ -2,13 +2,14 @@
   "id": 203310559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.849045,-37.528866,143.849045,-37.528866",
     "geom:latitude":-37.528866,
     "geom:longitude":143.849045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Creswick Rd, Midland Hwy",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310559,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466188113,
     "wof:name":"Whiteheads Timber Sales Ballarat Pty Ltd",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [143.849045,-37.528866,143.849045,-37.528866],
-  "geometry": {"coordinates":[143.849045,-37.528866],"type":"Point"}
+  "bbox": [
+    143.849045,
+    -37.528866,
+    143.849045,
+    -37.528866
+],
+  "geometry": {"coordinates":[143.84904499999999,-37.528866],"type":"Point"}
 }

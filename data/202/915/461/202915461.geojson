@@ -2,13 +2,14 @@
   "id": 202915461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.108215,-30.289305,153.108215,-30.289305",
     "geom:latitude":-30.289305,
     "geom:longitude":153.108215,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Long St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202915461,
-    "wof:lastmodified":1449062609,
+    "wof:lastmodified":1466190638,
     "wof:name":"Des Kingdom",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prosthetist"
     ]
 },
-  "bbox": [153.108215,-30.289305,153.108215,-30.289305],
+  "bbox": [
+    153.108215,
+    -30.289305,
+    153.108215,
+    -30.289305
+],
   "geometry": {"coordinates":[153.108215,-30.289305],"type":"Point"}
 }

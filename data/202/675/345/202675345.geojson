@@ -2,13 +2,14 @@
   "id": 202675345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.012817,-27.384251,153.012817,-27.384251",
     "geom:latitude":-27.384251,
     "geom:longitude":153.012817,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5/ 72 Basnett St",
     "sg:city":"Chermside West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202675345,
-    "wof:lastmodified":1449061414,
+    "wof:lastmodified":1466188373,
     "wof:name":"Dawson Phillips",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [153.012817,-27.384251,153.012817,-27.384251],
-  "geometry": {"coordinates":[153.012817,-27.384251],"type":"Point"}
+  "bbox": [
+    153.012817,
+    -27.384251,
+    153.012817,
+    -27.384251
+],
+  "geometry": {"coordinates":[153.01281700000001,-27.384251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220173293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.360672,-38.151726,144.360672,-38.151726",
     "geom:latitude":-38.151726,
     "geom:longitude":144.360672,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Myers St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220173293,
-    "wof:lastmodified":1449074194,
+    "wof:lastmodified":1466189060,
     "wof:name":"Geelong Trades Hall",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [144.360672,-38.151726,144.360672,-38.151726],
-  "geometry": {"coordinates":[144.360672,-38.151726],"type":"Point"}
+  "bbox": [
+    144.360672,
+    -38.151726,
+    144.360672,
+    -38.151726
+],
+  "geometry": {"coordinates":[144.36067199999999,-38.151726],"type":"Point"}
 }

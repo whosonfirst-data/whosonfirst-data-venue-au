@@ -2,13 +2,14 @@
   "id": 202504573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.08371,-37.947304,145.08371,-37.947304",
     "geom:latitude":-37.947304,
     "geom:longitude":145.08371,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42- 46 Fairchild St",
     "sg:city":"Heatherton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202504573,
-    "wof:lastmodified":1449060549,
+    "wof:lastmodified":1466189574,
     "wof:name":"Crabtree & Evelyn",
     "wof:parent_id":85771461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "perfume"
     ]
 },
-  "bbox": [145.08371,-37.947304,145.08371,-37.947304],
+  "bbox": [
+    145.08371,
+    -37.947304,
+    145.08371,
+    -37.947304
+],
   "geometry": {"coordinates":[145.08371,-37.947304],"type":"Point"}
 }

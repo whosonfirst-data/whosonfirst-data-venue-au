@@ -2,13 +2,14 @@
   "id": 203009749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.491348,-20.72831,139.491348,-20.72831",
     "geom:latitude":-20.72831,
     "geom:longitude":139.491348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Isa St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203009749,
-    "wof:lastmodified":1449026841,
+    "wof:lastmodified":1466187228,
     "wof:name":"A E S",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [139.491348,-20.72831,139.491348,-20.72831],
-  "geometry": {"coordinates":[139.491348,-20.72831],"type":"Point"}
+  "bbox": [
+    139.491348,
+    -20.72831,
+    139.491348,
+    -20.72831
+],
+  "geometry": {"coordinates":[139.49134799999999,-20.72831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253088355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.795486,-37.730511,144.795486,-37.730511",
     "geom:latitude":-37.730511,
     "geom:longitude":144.795486,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 116 George St St",
     "sg:city":"Albans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253088355,
-    "wof:lastmodified":1449065099,
+    "wof:lastmodified":1466188510,
     "wof:name":"JRA Plastering",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [144.795486,-37.730511,144.795486,-37.730511],
-  "geometry": {"coordinates":[144.795486,-37.730511],"type":"Point"}
+  "bbox": [
+    144.795486,
+    -37.730511,
+    144.795486,
+    -37.730511
+],
+  "geometry": {"coordinates":[144.79548600000001,-37.730511],"type":"Point"}
 }

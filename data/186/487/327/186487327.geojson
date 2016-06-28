@@ -2,13 +2,14 @@
   "id": 186487327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.760406,-19.284414,146.760406,-19.284414",
     "geom:latitude":-19.284414,
     "geom:longitude":146.760406,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 32 Nathan Plaza Shopping Cntr",
     "sg:city":"Aitkenvale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186487327,
-    "wof:lastmodified":1449051268,
+    "wof:lastmodified":1466190431,
     "wof:name":"Just Jeans",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jean"
     ]
 },
-  "bbox": [146.760406,-19.284414,146.760406,-19.284414],
-  "geometry": {"coordinates":[146.760406,-19.284414],"type":"Point"}
+  "bbox": [
+    146.760406,
+    -19.284414,
+    146.760406,
+    -19.284414
+],
+  "geometry": {"coordinates":[146.76040599999999,-19.284414],"type":"Point"}
 }

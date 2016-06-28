@@ -2,13 +2,14 @@
   "id": 186138487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.709076,-31.426392,152.709076,-31.426392",
     "geom:latitude":-31.426392,
     "geom:longitude":152.709076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Pembrooke Rd",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186138487,
-    "wof:lastmodified":1449051148,
+    "wof:lastmodified":1466189700,
     "wof:name":"Galaxy Floorsanding & Polishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "parquet"
     ]
 },
-  "bbox": [152.709076,-31.426392,152.709076,-31.426392],
-  "geometry": {"coordinates":[152.709076,-31.426392],"type":"Point"}
+  "bbox": [
+    152.709076,
+    -31.426392,
+    152.709076,
+    -31.426392
+],
+  "geometry": {"coordinates":[152.70907600000001,-31.426392],"type":"Point"}
 }

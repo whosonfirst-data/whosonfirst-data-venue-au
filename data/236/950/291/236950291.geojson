@@ -2,13 +2,14 @@
   "id": 236950291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.591293,-34.974895,138.591293,-34.974895",
     "geom:latitude":-34.974895,
     "geom:longitude":138.591293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"470 Goodwood Rd",
     "sg:city":"Cumberland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236950291,
-    "wof:lastmodified":1449002838,
+    "wof:lastmodified":1466192210,
     "wof:name":"Hand Injury Clinic The",
     "wof:parent_id":85777423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [138.591293,-34.974895,138.591293,-34.974895],
-  "geometry": {"coordinates":[138.591293,-34.974895],"type":"Point"}
+  "bbox": [
+    138.591293,
+    -34.974895,
+    138.591293,
+    -34.974895
+],
+  "geometry": {"coordinates":[138.59129300000001,-34.974895],"type":"Point"}
 }

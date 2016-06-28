@@ -2,13 +2,14 @@
   "id": 236353387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.779633,-32.064415,115.779633,-32.064415",
     "geom:latitude":-32.064415,
     "geom:longitude":115.779633,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Carrington St",
     "sg:city":"Hilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236353387,
-    "wof:lastmodified":1449002424,
+    "wof:lastmodified":1466190995,
     "wof:name":"Wesco Hilton",
     "wof:parent_id":85777951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.779633,-32.064415,115.779633,-32.064415],
+  "bbox": [
+    115.779633,
+    -32.064415,
+    115.779633,
+    -32.064415
+],
   "geometry": {"coordinates":[115.779633,-32.064415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203338909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.809174,-37.552738,143.809174,-37.552738",
     "geom:latitude":-37.552738,
     "geom:longitude":143.809174,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Victory Ave",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203338909,
-    "wof:lastmodified":1449025577,
+    "wof:lastmodified":1466188483,
     "wof:name":"Ballarat Investigations",
     "wof:parent_id":85768665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [143.809174,-37.552738,143.809174,-37.552738],
-  "geometry": {"coordinates":[143.809174,-37.552738],"type":"Point"}
+  "bbox": [
+    143.809174,
+    -37.552738,
+    143.809174,
+    -37.552738
+],
+  "geometry": {"coordinates":[143.80917400000001,-37.552738],"type":"Point"}
 }

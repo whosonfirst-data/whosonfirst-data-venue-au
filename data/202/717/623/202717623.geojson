@@ -2,13 +2,14 @@
   "id": 202717623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050491,-27.365803,153.050491,-27.365803",
     "geom:latitude":-27.365803,
     "geom:longitude":153.050491,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Virginia St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202717623,
-    "wof:lastmodified":1449060165,
+    "wof:lastmodified":1466189164,
     "wof:name":"Ali-Weld",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [153.050491,-27.365803,153.050491,-27.365803],
-  "geometry": {"coordinates":[153.050491,-27.365803],"type":"Point"}
+  "bbox": [
+    153.050491,
+    -27.365803,
+    153.050491,
+    -27.365803
+],
+  "geometry": {"coordinates":[153.05049099999999,-27.365803],"type":"Point"}
 }

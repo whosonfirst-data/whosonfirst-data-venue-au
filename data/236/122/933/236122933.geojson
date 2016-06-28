@@ -2,13 +2,14 @@
   "id": 236122933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.915863,-37.77264,144.915863,-37.77264",
     "geom:latitude":-37.77264,
     "geom:longitude":144.915863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Union Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236122933,
-    "wof:lastmodified":1449003537,
+    "wof:lastmodified":1466189104,
     "wof:name":"Union Deli",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [144.915863,-37.77264,144.915863,-37.77264],
+  "bbox": [
+    144.915863,
+    -37.77264,
+    144.915863,
+    -37.77264
+],
   "geometry": {"coordinates":[144.915863,-37.77264],"type":"Point"}
 }

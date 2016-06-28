@@ -2,13 +2,14 @@
   "id": 203106777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.689552,-32.559765,115.689552,-32.559765",
     "geom:latitude":-32.559765,
     "geom:longitude":115.689552,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Oakleigh Drv",
     "sg:city":"Erskine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203106777,
-    "wof:lastmodified":1449024918,
+    "wof:lastmodified":1466189167,
     "wof:name":"Gemini Medical Services",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [115.689552,-32.559765,115.689552,-32.559765],
-  "geometry": {"coordinates":[115.689552,-32.559765],"type":"Point"}
+  "bbox": [
+    115.689552,
+    -32.559765,
+    115.689552,
+    -32.559765
+],
+  "geometry": {"coordinates":[115.68955200000001,-32.559765],"type":"Point"}
 }

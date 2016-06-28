@@ -2,13 +2,14 @@
   "id": 219418043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.845245,-33.737495,150.845245,-33.737495",
     "geom:latitude":-33.737495,
     "geom:longitude":150.845245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Simms Rd",
     "sg:city":"Oakhurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219418043,
-    "wof:lastmodified":1449073168,
+    "wof:lastmodified":1466188556,
     "wof:name":"A Smile Flooring",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [150.845245,-33.737495,150.845245,-33.737495],
-  "geometry": {"coordinates":[150.845245,-33.737495],"type":"Point"}
+  "bbox": [
+    150.845245,
+    -33.737495,
+    150.845245,
+    -33.737495
+],
+  "geometry": {"coordinates":[150.84524500000001,-33.737495],"type":"Point"}
 }

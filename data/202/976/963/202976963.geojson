@@ -2,13 +2,14 @@
   "id": 202976963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.203506,-33.831169,151.203506,-33.831169",
     "geom:latitude":-33.831169,
     "geom:longitude":151.203506,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"349 pacific Hwy",
     "sg:city":"North Sydney",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202976963,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466191116,
     "wof:name":"ERCO Lighting",
     "wof:parent_id":85774399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [151.203506,-33.831169,151.203506,-33.831169],
+  "bbox": [
+    151.203506,
+    -33.831169,
+    151.203506,
+    -33.831169
+],
   "geometry": {"coordinates":[151.203506,-33.831169],"type":"Point"}
 }

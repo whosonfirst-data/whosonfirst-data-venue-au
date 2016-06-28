@@ -2,13 +2,14 @@
   "id": 202604437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.850677,-43.140526,147.850677,-43.140526",
     "geom:latitude":-43.140526,
     "geom:longitude":147.850677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Arthur Hwy",
     "sg:city":"Port Arthur",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202604437,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466187358,
     "wof:name":"Port Arthur Fishing & Tourist Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "attractions"
     ]
 },
-  "bbox": [147.850677,-43.140526,147.850677,-43.140526],
-  "geometry": {"coordinates":[147.850677,-43.140526],"type":"Point"}
+  "bbox": [
+    147.850677,
+    -43.140526,
+    147.850677,
+    -43.140526
+],
+  "geometry": {"coordinates":[147.85067699999999,-43.140526],"type":"Point"}
 }

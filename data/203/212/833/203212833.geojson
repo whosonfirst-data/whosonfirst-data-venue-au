@@ -2,13 +2,14 @@
   "id": 203212833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.935654,-41.070896,145.935654,-41.070896",
     "geom:latitude":-41.070896,
     "geom:longitude":145.935654,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Stowport Rd",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203212833,
-    "wof:lastmodified":1449026202,
+    "wof:lastmodified":1466187194,
     "wof:name":"Garry Rigney",
     "wof:parent_id":85780725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.935654,-41.070896,145.935654,-41.070896],
+  "bbox": [
+    145.935654,
+    -41.070896,
+    145.935654,
+    -41.070896
+],
   "geometry": {"coordinates":[145.935654,-41.070896],"type":"Point"}
 }

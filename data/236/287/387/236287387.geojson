@@ -2,13 +2,14 @@
   "id": 236287387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.729858,-32.275578,115.729858,-32.275578",
     "geom:latitude":-32.275578,
     "geom:longitude":115.729858,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7a Rockingham Beach Rd",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236287387,
-    "wof:lastmodified":1449001830,
+    "wof:lastmodified":1466190409,
     "wof:name":"Capricci's",
     "wof:parent_id":85775727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.729858,-32.275578,115.729858,-32.275578],
-  "geometry": {"coordinates":[115.729858,-32.275578],"type":"Point"}
+  "bbox": [
+    115.729858,
+    -32.275578,
+    115.729858,
+    -32.275578
+],
+  "geometry": {"coordinates":[115.72985799999999,-32.275578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185728379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.069595,-32.752254,152.069595,-32.752254",
     "geom:latitude":-32.752254,
     "geom:longitude":152.069595,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 5 Sheerwater Drv",
     "sg:city":"Taylors Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185728379,
-    "wof:lastmodified":1449006987,
+    "wof:lastmodified":1466189384,
     "wof:name":"Nelson Fluid Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [152.069595,-32.752254,152.069595,-32.752254],
-  "geometry": {"coordinates":[152.069595,-32.752254],"type":"Point"}
+  "bbox": [
+    152.069595,
+    -32.752254,
+    152.069595,
+    -32.752254
+],
+  "geometry": {"coordinates":[152.06959499999999,-32.752254],"type":"Point"}
 }

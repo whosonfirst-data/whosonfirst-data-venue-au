@@ -2,13 +2,14 @@
   "id": 202498347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.045349,-37.901779,145.045349,-37.901779",
     "geom:latitude":-37.901779,
     "geom:longitude":145.045349,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 8 Holloway St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202498347,
-    "wof:lastmodified":1449062041,
+    "wof:lastmodified":1466189503,
     "wof:name":"Atlanta Packaging",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [145.045349,-37.901779,145.045349,-37.901779],
-  "geometry": {"coordinates":[145.045349,-37.901779],"type":"Point"}
+  "bbox": [
+    145.045349,
+    -37.901779,
+    145.045349,
+    -37.901779
+],
+  "geometry": {"coordinates":[145.04534899999999,-37.901779],"type":"Point"}
 }

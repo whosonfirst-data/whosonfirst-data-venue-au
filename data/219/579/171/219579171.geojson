@@ -2,13 +2,14 @@
   "id": 219579171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.010025,-33.930691,151.010025,-33.930691",
     "geom:latitude":-33.930691,
     "geom:longitude":151.010025,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Eldridge Rd",
     "sg:city":"Condell Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219579171,
-    "wof:lastmodified":1449071523,
+    "wof:lastmodified":1466190521,
     "wof:name":"Master Fab Pty Ltd",
     "wof:parent_id":85780443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.010025,-33.930691,151.010025,-33.930691],
-  "geometry": {"coordinates":[151.010025,-33.930691],"type":"Point"}
+  "bbox": [
+    151.010025,
+    -33.930691,
+    151.010025,
+    -33.930691
+],
+  "geometry": {"coordinates":[151.01002500000001,-33.930691],"type":"Point"}
 }

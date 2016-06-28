@@ -2,13 +2,14 @@
   "id": 236536579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.824829,-23.258289,150.824829,-23.258289",
     "geom:latitude":-23.258289,
     "geom:longitude":150.824829,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 40",
     "sg:city":"Emu Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236536579,
-    "wof:lastmodified":1449003648,
+    "wof:lastmodified":1466191447,
     "wof:name":"Alick Terrance Mapping Services Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mapping"
     ]
 },
-  "bbox": [150.824829,-23.258289,150.824829,-23.258289],
-  "geometry": {"coordinates":[150.824829,-23.258289],"type":"Point"}
+  "bbox": [
+    150.824829,
+    -23.258289,
+    150.824829,
+    -23.258289
+],
+  "geometry": {"coordinates":[150.82482899999999,-23.258289],"type":"Point"}
 }

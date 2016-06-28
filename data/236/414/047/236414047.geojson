@@ -2,13 +2,14 @@
   "id": 236414047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.80069,-32.153152,115.80069,-32.153152",
     "geom:latitude":-32.153152,
     "geom:longitude":115.80069,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Russell Rd (West) & Rockingham Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236414047,
-    "wof:lastmodified":1449003146,
+    "wof:lastmodified":1466191145,
     "wof:name":"Bulkwest Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [115.80069,-32.153152,115.80069,-32.153152],
+  "bbox": [
+    115.80069,
+    -32.153152,
+    115.80069,
+    -32.153152
+],
   "geometry": {"coordinates":[115.80069,-32.153152],"type":"Point"}
 }

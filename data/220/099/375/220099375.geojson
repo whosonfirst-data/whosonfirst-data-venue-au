@@ -2,13 +2,14 @@
   "id": 220099375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.468323,-38.193436,144.468323,-38.193436",
     "geom:latitude":-38.193436,
     "geom:longitude":144.468323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Ash Rd",
     "sg:city":"Leopold",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220099375,
-    "wof:lastmodified":1449074575,
+    "wof:lastmodified":1466187955,
     "wof:name":"Leopold Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [144.468323,-38.193436,144.468323,-38.193436],
+  "bbox": [
+    144.468323,
+    -38.193436,
+    144.468323,
+    -38.193436
+],
   "geometry": {"coordinates":[144.468323,-38.193436],"type":"Point"}
 }

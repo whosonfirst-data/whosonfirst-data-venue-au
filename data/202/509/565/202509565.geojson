@@ -2,13 +2,14 @@
   "id": 202509565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.163376,-38.101429,145.163376,-38.101429",
     "geom:latitude":-38.101429,
     "geom:longitude":145.163376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Tova Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202509565,
-    "wof:lastmodified":1449060201,
+    "wof:lastmodified":1466189642,
     "wof:name":"Associated Steel Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roof"
     ]
 },
-  "bbox": [145.163376,-38.101429,145.163376,-38.101429],
+  "bbox": [
+    145.163376,
+    -38.101429,
+    145.163376,
+    -38.101429
+],
   "geometry": {"coordinates":[145.163376,-38.101429],"type":"Point"}
 }

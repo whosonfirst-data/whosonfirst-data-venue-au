@@ -2,13 +2,14 @@
   "id": 202733497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.640808,-34.787975,138.640808,-34.787975",
     "geom:latitude":-34.787975,
     "geom:longitude":138.640808,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kings Rd",
     "sg:city":"Parafield Airport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202733497,
-    "wof:lastmodified":1449060458,
+    "wof:lastmodified":1466189468,
     "wof:name":"Marcellina Pizza Bar Restaurant",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [138.640808,-34.787975,138.640808,-34.787975],
-  "geometry": {"coordinates":[138.640808,-34.787975],"type":"Point"}
+  "bbox": [
+    138.640808,
+    -34.787975,
+    138.640808,
+    -34.787975
+],
+  "geometry": {"coordinates":[138.64080799999999,-34.787975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219258223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.261215,-38.174091,146.261215,-38.174091",
     "geom:latitude":-38.174091,
     "geom:longitude":146.261215,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1/ 42 Moore St",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219258223,
-    "wof:lastmodified":1449073210,
+    "wof:lastmodified":1466187187,
     "wof:name":"Frame By Frame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pictures"
     ]
 },
-  "bbox": [146.261215,-38.174091,146.261215,-38.174091],
-  "geometry": {"coordinates":[146.261215,-38.174091],"type":"Point"}
+  "bbox": [
+    146.261215,
+    -38.174091,
+    146.261215,
+    -38.174091
+],
+  "geometry": {"coordinates":[146.26121499999999,-38.174091],"type":"Point"}
 }

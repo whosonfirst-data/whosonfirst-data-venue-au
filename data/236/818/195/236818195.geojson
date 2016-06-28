@@ -2,13 +2,14 @@
   "id": 236818195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.865356,-34.415485,150.865356,-34.415485",
     "geom:latitude":-34.415485,
     "geom:longitude":150.865356,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Gooyong St",
     "sg:city":"Keiraville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236818195,
-    "wof:lastmodified":1449003214,
+    "wof:lastmodified":1466191973,
     "wof:name":"International Training In Communications",
     "wof:parent_id":85769521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tuition"
     ]
 },
-  "bbox": [150.865356,-34.415485,150.865356,-34.415485],
-  "geometry": {"coordinates":[150.865356,-34.415485],"type":"Point"}
+  "bbox": [
+    150.865356,
+    -34.415485,
+    150.865356,
+    -34.415485
+],
+  "geometry": {"coordinates":[150.86535599999999,-34.415485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203270801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.176239,-33.133141,148.176239,-33.133141",
     "geom:latitude":-33.133141,
     "geom:longitude":148.176239,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Bushmsn St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203270801,
-    "wof:lastmodified":1449025285,
+    "wof:lastmodified":1466187728,
     "wof:name":"Moss V Transport & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [148.176239,-33.133141,148.176239,-33.133141],
-  "geometry": {"coordinates":[148.176239,-33.133141],"type":"Point"}
+  "bbox": [
+    148.176239,
+    -33.133141,
+    148.176239,
+    -33.133141
+],
+  "geometry": {"coordinates":[148.17623900000001,-33.133141],"type":"Point"}
 }

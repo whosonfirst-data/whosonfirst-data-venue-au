@@ -2,13 +2,14 @@
   "id": 203149399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.044403,-27.341599,153.044403,-27.341599",
     "geom:latitude":-27.341599,
     "geom:longitude":153.044403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Roghan Rd",
     "sg:city":"Taigum",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203149399,
-    "wof:lastmodified":1449024939,
+    "wof:lastmodified":1466189657,
     "wof:name":"St Martin's Nursing Home",
     "wof:parent_id":85773913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [153.044403,-27.341599,153.044403,-27.341599],
-  "geometry": {"coordinates":[153.044403,-27.341599],"type":"Point"}
+  "bbox": [
+    153.044403,
+    -27.341599,
+    153.044403,
+    -27.341599
+],
+  "geometry": {"coordinates":[153.04440299999999,-27.341599],"type":"Point"}
 }

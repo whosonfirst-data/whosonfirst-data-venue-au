@@ -2,13 +2,14 @@
   "id": 219624315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.152618,-33.935776,151.152618,-33.935776",
     "geom:latitude":-33.935776,
     "geom:longitude":151.152618,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 West Botany St",
     "sg:city":"Arncliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219624315,
-    "wof:lastmodified":1449072811,
+    "wof:lastmodified":1466190830,
     "wof:name":"Sydney Stylist Collective",
     "wof:parent_id":85776153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.152618,-33.935776,151.152618,-33.935776],
-  "geometry": {"coordinates":[151.152618,-33.935776],"type":"Point"}
+  "bbox": [
+    151.152618,
+    -33.935776,
+    151.152618,
+    -33.935776
+],
+  "geometry": {"coordinates":[151.15261799999999,-33.935776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219422233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.837128,-33.738823,150.837128,-33.738823",
     "geom:latitude":-33.738823,
     "geom:longitude":150.837128,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Lamerton St",
     "sg:city":"Oakhurst",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219422233,
-    "wof:lastmodified":1449070635,
+    "wof:lastmodified":1466188603,
     "wof:name":"Celestial Designs",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.837128,-33.738823,150.837128,-33.738823],
-  "geometry": {"coordinates":[150.837128,-33.738823],"type":"Point"}
+  "bbox": [
+    150.837128,
+    -33.738823,
+    150.837128,
+    -33.738823
+],
+  "geometry": {"coordinates":[150.83712800000001,-33.738823],"type":"Point"}
 }

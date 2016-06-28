@@ -2,13 +2,14 @@
   "id": 202680715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.985214,-27.342918,152.985214,-27.342918",
     "geom:latitude":-27.342918,
     "geom:longitude":152.985214,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Bernborough Pl",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202680715,
-    "wof:lastmodified":1449061872,
+    "wof:lastmodified":1466188475,
     "wof:name":"Ace Landscapes",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.985214,-27.342918,152.985214,-27.342918],
-  "geometry": {"coordinates":[152.985214,-27.342918],"type":"Point"}
+  "bbox": [
+    152.985214,
+    -27.342918,
+    152.985214,
+    -27.342918
+],
+  "geometry": {"coordinates":[152.98521400000001,-27.342918],"type":"Point"}
 }

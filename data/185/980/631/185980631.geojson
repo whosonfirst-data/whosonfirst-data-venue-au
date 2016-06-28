@@ -2,13 +2,14 @@
   "id": 185980631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.442841,-33.449089,151.442841,-33.449089",
     "geom:latitude":-33.449089,
     "geom:longitude":151.442841,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 6 Grosvenor Rd",
     "sg:city":"Terrigal",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185980631,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466188737,
     "wof:name":"Glenn Harmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [151.442841,-33.449089,151.442841,-33.449089],
-  "geometry": {"coordinates":[151.442841,-33.449089],"type":"Point"}
+  "bbox": [
+    151.442841,
+    -33.449089,
+    151.442841,
+    -33.449089
+],
+  "geometry": {"coordinates":[151.44284099999999,-33.449089],"type":"Point"}
 }

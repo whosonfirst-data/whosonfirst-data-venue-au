@@ -2,13 +2,14 @@
   "id": 236060417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.924805,-37.767311,144.924805,-37.767311",
     "geom:latitude":-37.767311,
     "geom:longitude":144.924805,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Mt Alexander Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236060417,
-    "wof:lastmodified":1449004884,
+    "wof:lastmodified":1466187830,
     "wof:name":"Preston Motors",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "new"
     ]
 },
-  "bbox": [144.924805,-37.767311,144.924805,-37.767311],
-  "geometry": {"coordinates":[144.924805,-37.767311],"type":"Point"}
+  "bbox": [
+    144.924805,
+    -37.767311,
+    144.924805,
+    -37.767311
+],
+  "geometry": {"coordinates":[144.92480499999999,-37.767311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203136199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.682518,-32.566242,115.682518,-32.566242",
     "geom:latitude":-32.566242,
     "geom:longitude":115.682518,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 22 Galbraith Loop",
     "sg:city":"Erskine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203136199,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466189590,
     "wof:name":"Dragon Bikes & Karts",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [115.682518,-32.566242,115.682518,-32.566242],
+  "bbox": [
+    115.682518,
+    -32.566242,
+    115.682518,
+    -32.566242
+],
   "geometry": {"coordinates":[115.682518,-32.566242],"type":"Point"}
 }

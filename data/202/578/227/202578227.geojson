@@ -2,13 +2,14 @@
   "id": 202578227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.433502,-37.677444,144.433502,-37.677444",
     "geom:latitude":-37.677444,
     "geom:longitude":144.433502,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Turner St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202578227,
-    "wof:lastmodified":1449060760,
+    "wof:lastmodified":1466187108,
     "wof:name":"Macaulay L W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.433502,-37.677444,144.433502,-37.677444],
+  "bbox": [
+    144.433502,
+    -37.677444,
+    144.433502,
+    -37.677444
+],
   "geometry": {"coordinates":[144.433502,-37.677444],"type":"Point"}
 }

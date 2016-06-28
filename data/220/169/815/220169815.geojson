@@ -2,13 +2,14 @@
   "id": 220169815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.366348,-38.147823,144.366348,-38.147823",
     "geom:latitude":-38.147823,
     "geom:longitude":144.366348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bellerine St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220169815,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1466188993,
     "wof:name":"Fishbowl",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.366348,-38.147823,144.366348,-38.147823],
-  "geometry": {"coordinates":[144.366348,-38.147823],"type":"Point"}
+  "bbox": [
+    144.366348,
+    -38.147823,
+    144.366348,
+    -38.147823
+],
+  "geometry": {"coordinates":[144.36634799999999,-38.147823],"type":"Point"}
 }

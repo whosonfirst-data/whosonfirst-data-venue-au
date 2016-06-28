@@ -2,13 +2,14 @@
   "id": 203368165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.85582,-37.55965,143.85582,-37.55965",
     "geom:latitude":-37.55965,
     "geom:longitude":143.85582,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Mair St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203368165,
-    "wof:lastmodified":1449025378,
+    "wof:lastmodified":1466188990,
     "wof:name":"Regency",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "screen"
     ]
 },
-  "bbox": [143.85582,-37.55965,143.85582,-37.55965],
-  "geometry": {"coordinates":[143.85582,-37.55965],"type":"Point"}
+  "bbox": [
+    143.85582,
+    -37.55965,
+    143.85582,
+    -37.55965
+],
+  "geometry": {"coordinates":[143.85581999999999,-37.55965],"type":"Point"}
 }

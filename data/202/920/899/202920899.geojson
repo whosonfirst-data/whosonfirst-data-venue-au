@@ -2,13 +2,14 @@
   "id": 202920899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115173,-30.29681,153.115173,-30.29681",
     "geom:latitude":-30.29681,
     "geom:longitude":153.115173,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 11/ 23-29 Harbour Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202920899,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466190815,
     "wof:name":"Blue Illusion Australia",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [153.115173,-30.29681,153.115173,-30.29681],
+  "bbox": [
+    153.115173,
+    -30.29681,
+    153.115173,
+    -30.29681
+],
   "geometry": {"coordinates":[153.115173,-30.29681],"type":"Point"}
 }

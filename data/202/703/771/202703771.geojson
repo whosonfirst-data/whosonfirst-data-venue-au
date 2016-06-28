@@ -2,13 +2,14 @@
   "id": 202703771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.023727,-27.343912,153.023727,-27.343912",
     "geom:latitude":-27.343912,
     "geom:longitude":153.023727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Arapala Crt",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202703771,
-    "wof:lastmodified":1449060884,
+    "wof:lastmodified":1466188900,
     "wof:name":"Fleming K J & C M",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [153.023727,-27.343912,153.023727,-27.343912],
-  "geometry": {"coordinates":[153.023727,-27.343912],"type":"Point"}
+  "bbox": [
+    153.023727,
+    -27.343912,
+    153.023727,
+    -27.343912
+],
+  "geometry": {"coordinates":[153.02372700000001,-27.343912],"type":"Point"}
 }

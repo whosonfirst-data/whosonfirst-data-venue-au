@@ -2,13 +2,14 @@
   "id": 202437599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959457,-37.827198,144.959457,-37.827198",
     "geom:latitude":-37.827198,
     "geom:longitude":144.959457,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51- 65 Clarke St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202437599,
-    "wof:lastmodified":1449061934,
+    "wof:lastmodified":1466188552,
     "wof:name":"National Measurement Institute (Formerly A G A L)",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [144.959457,-37.827198,144.959457,-37.827198],
-  "geometry": {"coordinates":[144.959457,-37.827198],"type":"Point"}
+  "bbox": [
+    144.959457,
+    -37.827198,
+    144.959457,
+    -37.827198
+],
+  "geometry": {"coordinates":[144.95945699999999,-37.827198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202843829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.519821,-36.307983,146.519821,-36.307983",
     "geom:latitude":-36.307983,
     "geom:longitude":146.519821,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Main St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202843829,
-    "wof:lastmodified":1449060339,
+    "wof:lastmodified":1466190343,
     "wof:name":"Camelot Yarns & Selections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [146.519821,-36.307983,146.519821,-36.307983],
-  "geometry": {"coordinates":[146.519821,-36.307983],"type":"Point"}
+  "bbox": [
+    146.519821,
+    -36.307983,
+    146.519821,
+    -36.307983
+],
+  "geometry": {"coordinates":[146.51982100000001,-36.307983],"type":"Point"}
 }

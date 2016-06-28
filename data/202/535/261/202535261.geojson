@@ -2,13 +2,14 @@
   "id": 202535261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.161652,-38.097332,145.161652,-38.097332",
     "geom:latitude":-38.097332,
     "geom:longitude":145.161652,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Sonia St",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202535261,
-    "wof:lastmodified":1449060561,
+    "wof:lastmodified":1466189856,
     "wof:name":"OMRG Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [145.161652,-38.097332,145.161652,-38.097332],
+  "bbox": [
+    145.161652,
+    -38.097332,
+    145.161652,
+    -38.097332
+],
   "geometry": {"coordinates":[145.161652,-38.097332],"type":"Point"}
 }

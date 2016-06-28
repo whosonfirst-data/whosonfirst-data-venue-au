@@ -2,13 +2,14 @@
   "id": 202838219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.695084,-32.879059,151.695084,-32.879059",
     "geom:latitude":-32.879059,
     "geom:longitude":151.695084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12a Marton St",
     "sg:city":"Shortland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202838219,
-    "wof:lastmodified":1449060410,
+    "wof:lastmodified":1466190585,
     "wof:name":"Barrack Nola",
     "wof:parent_id":85777141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alteration"
     ]
 },
-  "bbox": [151.695084,-32.879059,151.695084,-32.879059],
-  "geometry": {"coordinates":[151.695084,-32.879059],"type":"Point"}
+  "bbox": [
+    151.695084,
+    -32.879059,
+    151.695084,
+    -32.879059
+],
+  "geometry": {"coordinates":[151.69508400000001,-32.879059],"type":"Point"}
 }

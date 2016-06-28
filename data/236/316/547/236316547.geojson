@@ -2,13 +2,14 @@
   "id": 236316547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.745392,-32.054958,115.745392,-32.054958",
     "geom:latitude":-32.054958,
     "geom:longitude":115.745392,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 High St",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236316547,
-    "wof:lastmodified":1449003969,
+    "wof:lastmodified":1466190453,
     "wof:name":"The Red Canvas",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.745392,-32.054958,115.745392,-32.054958],
+  "bbox": [
+    115.745392,
+    -32.054958,
+    115.745392,
+    -32.054958
+],
   "geometry": {"coordinates":[115.745392,-32.054958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236899421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.527283,-35.010487,138.527283,-35.010487",
     "geom:latitude":-35.010487,
     "geom:longitude":138.527283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Illawarra Ave",
     "sg:city":"Hove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236899421,
-    "wof:lastmodified":1449005053,
+    "wof:lastmodified":1466192093,
     "wof:name":"Ark Desktop Computing",
     "wof:parent_id":85777509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [138.527283,-35.010487,138.527283,-35.010487],
-  "geometry": {"coordinates":[138.527283,-35.010487],"type":"Point"}
+  "bbox": [
+    138.527283,
+    -35.010487,
+    138.527283,
+    -35.010487
+],
+  "geometry": {"coordinates":[138.52728300000001,-35.010487],"type":"Point"}
 }

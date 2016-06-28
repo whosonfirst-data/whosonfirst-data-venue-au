@@ -2,13 +2,14 @@
   "id": 202646663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.020493,-27.393499,153.020493,-27.393499",
     "geom:latitude":-27.393499,
     "geom:longitude":153.020493,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Webster Rd",
     "sg:city":"Kedron",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202646663,
-    "wof:lastmodified":1449060044,
+    "wof:lastmodified":1466187819,
     "wof:name":"National Storage",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cardboard"
     ]
 },
-  "bbox": [153.020493,-27.393499,153.020493,-27.393499],
-  "geometry": {"coordinates":[153.020493,-27.393499],"type":"Point"}
+  "bbox": [
+    153.020493,
+    -27.393499,
+    153.020493,
+    -27.393499
+],
+  "geometry": {"coordinates":[153.02049299999999,-27.393499],"type":"Point"}
 }

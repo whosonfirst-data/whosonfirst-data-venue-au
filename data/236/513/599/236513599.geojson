@@ -2,13 +2,14 @@
   "id": 236513599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.152359,-32.551048,151.152359,-32.551048",
     "geom:latitude":-32.551048,
     "geom:longitude":151.152359,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Enterprise Crs",
     "sg:city":"McDougalls Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236513599,
-    "wof:lastmodified":1449003912,
+    "wof:lastmodified":1466191345,
     "wof:name":"Carbon Consulting International",
     "wof:parent_id":85776675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [151.152359,-32.551048,151.152359,-32.551048],
-  "geometry": {"coordinates":[151.152359,-32.551048],"type":"Point"}
+  "bbox": [
+    151.152359,
+    -32.551048,
+    151.152359,
+    -32.551048
+],
+  "geometry": {"coordinates":[151.15235899999999,-32.551048],"type":"Point"}
 }

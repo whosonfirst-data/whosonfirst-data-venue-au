@@ -2,13 +2,14 @@
   "id": 219902435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.887527,-34.397041,150.887527,-34.397041",
     "geom:latitude":-34.397041,
     "geom:longitude":150.887527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Cabbage Tree La",
     "sg:city":"Fairy Meadow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219902435,
-    "wof:lastmodified":1449073019,
+    "wof:lastmodified":1466191681,
     "wof:name":"Michael Rea",
     "wof:parent_id":85769267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [150.887527,-34.397041,150.887527,-34.397041],
-  "geometry": {"coordinates":[150.887527,-34.397041],"type":"Point"}
+  "bbox": [
+    150.887527,
+    -34.397041,
+    150.887527,
+    -34.397041
+],
+  "geometry": {"coordinates":[150.88752700000001,-34.397041],"type":"Point"}
 }

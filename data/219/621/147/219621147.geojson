@@ -2,13 +2,14 @@
   "id": 219621147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.152145,-33.908707,151.152145,-33.908707",
     "geom:latitude":-33.908707,
     "geom:longitude":151.152145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2/ 394 Marrickville Rd",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219621147,
-    "wof:lastmodified":1449073502,
+    "wof:lastmodified":1466190826,
     "wof:name":"Tzannes Charles",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [151.152145,-33.908707,151.152145,-33.908707],
-  "geometry": {"coordinates":[151.152145,-33.908707],"type":"Point"}
+  "bbox": [
+    151.152145,
+    -33.908707,
+    151.152145,
+    -33.908707
+],
+  "geometry": {"coordinates":[151.15214499999999,-33.908707],"type":"Point"}
 }

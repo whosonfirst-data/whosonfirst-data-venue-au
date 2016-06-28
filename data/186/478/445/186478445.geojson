@@ -2,13 +2,14 @@
   "id": 186478445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160126,-33.883228,151.160126,-33.883228",
     "geom:latitude":-33.883228,
     "geom:longitude":151.160126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 20 Leichhardt Marketplace Cnr Marion & Flood Sts",
     "sg:city":"Leichhardt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186478445,
-    "wof:lastmodified":1449050354,
+    "wof:lastmodified":1466190391,
     "wof:name":"Bakers Delight Ltd",
     "wof:parent_id":85771183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.160126,-33.883228,151.160126,-33.883228],
-  "geometry": {"coordinates":[151.160126,-33.883228],"type":"Point"}
+  "bbox": [
+    151.160126,
+    -33.883228,
+    151.160126,
+    -33.883228
+],
+  "geometry": {"coordinates":[151.16012599999999,-33.883228],"type":"Point"}
 }

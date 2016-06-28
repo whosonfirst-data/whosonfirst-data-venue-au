@@ -2,13 +2,14 @@
   "id": 202500123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040634,-37.904118,145.040634,-37.904118",
     "geom:latitude":-37.904118,
     "geom:longitude":145.040634,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"574a North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202500123,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1466189512,
     "wof:name":"Electron Flow Pty Ltd",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [145.040634,-37.904118,145.040634,-37.904118],
-  "geometry": {"coordinates":[145.040634,-37.904118],"type":"Point"}
+  "bbox": [
+    145.040634,
+    -37.904118,
+    145.040634,
+    -37.904118
+],
+  "geometry": {"coordinates":[145.04063400000001,-37.904118],"type":"Point"}
 }

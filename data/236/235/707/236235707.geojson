@@ -2,13 +2,14 @@
   "id": 236235707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.676315,-38.038822,145.676315,-38.038822",
     "geom:latitude":-38.038822,
     "geom:longitude":145.676315,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Garfield North Rd",
     "sg:city":"Garfield North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236235707,
-    "wof:lastmodified":1449002101,
+    "wof:lastmodified":1466190171,
     "wof:name":"Reveal Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "exhibition"
     ]
 },
-  "bbox": [145.676315,-38.038822,145.676315,-38.038822],
-  "geometry": {"coordinates":[145.676315,-38.038822],"type":"Point"}
+  "bbox": [
+    145.676315,
+    -38.038822,
+    145.676315,
+    -38.038822
+],
+  "geometry": {"coordinates":[145.67631499999999,-38.038822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236744281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"120.040222,-33.582279,120.040222,-33.582279",
     "geom:latitude":-33.582279,
     "geom:longitude":120.040222,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 13 Morgans St",
     "sg:city":"Ravensthorpe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236744281,
-    "wof:lastmodified":1449002712,
+    "wof:lastmodified":1466191884,
     "wof:name":"Ravensthorpe Tourist Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attractions"
     ]
 },
-  "bbox": [120.040222,-33.582279,120.040222,-33.582279],
+  "bbox": [
+    120.040222,
+    -33.582279,
+    120.040222,
+    -33.582279
+],
   "geometry": {"coordinates":[120.040222,-33.582279],"type":"Point"}
 }

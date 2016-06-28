@@ -2,13 +2,14 @@
   "id": 236803391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.90448,-34.483982,150.90448,-34.483982",
     "geom:latitude":-34.483982,
     "geom:longitude":150.90448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Wentworth St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236803391,
-    "wof:lastmodified":1449005296,
+    "wof:lastmodified":1466191950,
     "wof:name":"Port Delicatessen Fruit & Vegies",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [150.90448,-34.483982,150.90448,-34.483982],
-  "geometry": {"coordinates":[150.90448,-34.483982],"type":"Point"}
+  "bbox": [
+    150.90448,
+    -34.483982,
+    150.90448,
+    -34.483982
+],
+  "geometry": {"coordinates":[150.90448000000001,-34.483982],"type":"Point"}
 }

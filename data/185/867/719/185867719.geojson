@@ -2,13 +2,14 @@
   "id": 185867719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.870422,-25.305008,152.870422,-25.305008",
     "geom:latitude":-25.305008,
     "geom:longitude":152.870422,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Windemere Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185867719,
-    "wof:lastmodified":1449007307,
+    "wof:lastmodified":1466187543,
     "wof:name":"Windemere Road Studio School",
     "wof:parent_id":85770489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [152.870422,-25.305008,152.870422,-25.305008],
-  "geometry": {"coordinates":[152.870422,-25.305008],"type":"Point"}
+  "bbox": [
+    152.870422,
+    -25.305008,
+    152.870422,
+    -25.305008
+],
+  "geometry": {"coordinates":[152.87042199999999,-25.305008],"type":"Point"}
 }

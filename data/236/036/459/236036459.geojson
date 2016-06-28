@@ -2,13 +2,14 @@
   "id": 236036459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.781036,-37.697227,144.781036,-37.697227",
     "geom:latitude":-37.697227,
     "geom:longitude":144.781036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Crn Sunshine Ave & Keilor Melton Hwy",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236036459,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466187347,
     "wof:name":"Taylors Lakes Physiotherapy",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.781036,-37.697227,144.781036,-37.697227],
+  "bbox": [
+    144.781036,
+    -37.697227,
+    144.781036,
+    -37.697227
+],
   "geometry": {"coordinates":[144.781036,-37.697227],"type":"Point"}
 }

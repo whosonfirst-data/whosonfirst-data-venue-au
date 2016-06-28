@@ -2,13 +2,14 @@
   "id": 202441837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.954773,-37.830276,144.954773,-37.830276",
     "geom:latitude":-37.830276,
     "geom:longitude":144.954773,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"412- 430 City Rd",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202441837,
-    "wof:lastmodified":1449060305,
+    "wof:lastmodified":1466188615,
     "wof:name":"Central Motor Auctions",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [144.954773,-37.830276,144.954773,-37.830276],
-  "geometry": {"coordinates":[144.954773,-37.830276],"type":"Point"}
+  "bbox": [
+    144.954773,
+    -37.830276,
+    144.954773,
+    -37.830276
+],
+  "geometry": {"coordinates":[144.95477299999999,-37.830276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202796423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.746826,-32.920582,151.746826,-32.920582",
     "geom:latitude":-32.920582,
     "geom:longitude":151.746826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58A Cleary St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202796423,
-    "wof:lastmodified":1449061318,
+    "wof:lastmodified":1466190157,
     "wof:name":"Hamilton Eye Centre",
     "wof:parent_id":85777149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.746826,-32.920582,151.746826,-32.920582],
+  "bbox": [
+    151.746826,
+    -32.920582,
+    151.746826,
+    -32.920582
+],
   "geometry": {"coordinates":[151.746826,-32.920582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203101733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.722412,-32.52594,115.722412,-32.52594",
     "geom:latitude":-32.52594,
     "geom:longitude":115.722412,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 93 Centro Mandurah Shopping Centre",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203101733,
-    "wof:lastmodified":1449025942,
+    "wof:lastmodified":1466189066,
     "wof:name":"The Cheesecake Shop",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catering"
     ]
 },
-  "bbox": [115.722412,-32.52594,115.722412,-32.52594],
-  "geometry": {"coordinates":[115.722412,-32.52594],"type":"Point"}
+  "bbox": [
+    115.722412,
+    -32.52594,
+    115.722412,
+    -32.52594
+],
+  "geometry": {"coordinates":[115.72241200000001,-32.52594],"type":"Point"}
 }

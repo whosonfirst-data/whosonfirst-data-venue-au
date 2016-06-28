@@ -2,13 +2,14 @@
   "id": 236036659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.802383,-37.699699,144.802383,-37.699699",
     "geom:latitude":-37.699699,
     "geom:longitude":144.802383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Taylors Lakes Specialist Centre, Cnr Sunshine Ave",
     "sg:city":"Taylors Lakes",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236036659,
-    "wof:lastmodified":1449002231,
+    "wof:lastmodified":1466187352,
     "wof:name":"Taylor, Bruce E",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.802383,-37.699699,144.802383,-37.699699],
-  "geometry": {"coordinates":[144.802383,-37.699699],"type":"Point"}
+  "bbox": [
+    144.802383,
+    -37.699699,
+    144.802383,
+    -37.699699
+],
+  "geometry": {"coordinates":[144.80238299999999,-37.699699],"type":"Point"}
 }

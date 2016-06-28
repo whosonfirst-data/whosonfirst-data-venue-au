@@ -2,13 +2,14 @@
   "id": 253070633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.748611,-37.759274,144.748611,-37.759274",
     "geom:latitude":-37.759274,
     "geom:longitude":144.748611,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Ballarat Rd",
     "sg:city":"Caroline Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253070633,
-    "wof:lastmodified":1449064260,
+    "wof:lastmodified":1466188200,
     "wof:name":"Boral Plasterboard",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [144.748611,-37.759274,144.748611,-37.759274],
-  "geometry": {"coordinates":[144.748611,-37.759274],"type":"Point"}
+  "bbox": [
+    144.748611,
+    -37.759274,
+    144.748611,
+    -37.759274
+],
+  "geometry": {"coordinates":[144.74861100000001,-37.759274],"type":"Point"}
 }

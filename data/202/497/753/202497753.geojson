@@ -2,13 +2,14 @@
   "id": 202497753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.029205,-37.907169,145.029205,-37.907169",
     "geom:latitude":-37.907169,
     "geom:longitude":145.029205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Capitol Ave",
     "sg:city":"McKinnon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202497753,
-    "wof:lastmodified":1449062598,
+    "wof:lastmodified":1466189503,
     "wof:name":"Improving business Productivity",
     "wof:parent_id":85775357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [145.029205,-37.907169,145.029205,-37.907169],
-  "geometry": {"coordinates":[145.029205,-37.907169],"type":"Point"}
+  "bbox": [
+    145.029205,
+    -37.907169,
+    145.029205,
+    -37.907169
+],
+  "geometry": {"coordinates":[145.02920499999999,-37.907169],"type":"Point"}
 }

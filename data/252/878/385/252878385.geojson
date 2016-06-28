@@ -2,13 +2,14 @@
   "id": 252878385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.597382,-37.689911,144.597382,-37.689911",
     "geom:latitude":-37.689911,
     "geom:longitude":144.597382,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Industrial Drv",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252878385,
-    "wof:lastmodified":1449005989,
+    "wof:lastmodified":1466188788,
     "wof:name":"FB Plastic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fabricator"
     ]
 },
-  "bbox": [144.597382,-37.689911,144.597382,-37.689911],
-  "geometry": {"coordinates":[144.597382,-37.689911],"type":"Point"}
+  "bbox": [
+    144.597382,
+    -37.689911,
+    144.597382,
+    -37.689911
+],
+  "geometry": {"coordinates":[144.59738200000001,-37.689911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253230803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.946274,-27.572371,151.946274,-27.572371",
     "geom:latitude":-27.572371,
     "geom:longitude":151.946274,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Pechey St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253230803,
-    "wof:lastmodified":1449065022,
+    "wof:lastmodified":1466190411,
     "wof:name":"Motogear",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [151.946274,-27.572371,151.946274,-27.572371],
-  "geometry": {"coordinates":[151.946274,-27.572371],"type":"Point"}
+  "bbox": [
+    151.946274,
+    -27.572371,
+    151.946274,
+    -27.572371
+],
+  "geometry": {"coordinates":[151.94627399999999,-27.572371],"type":"Point"}
 }

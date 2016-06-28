@@ -2,13 +2,14 @@
   "id": 236323915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.747498,-32.049213,115.747498,-32.049213",
     "geom:latitude":-32.049213,
     "geom:longitude":115.747498,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4, The E Shed, Victoria Quay",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236323915,
-    "wof:lastmodified":1449001887,
+    "wof:lastmodified":1466190514,
     "wof:name":"Brooking Design Practice Australia Pty Ltd",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [115.747498,-32.049213,115.747498,-32.049213],
-  "geometry": {"coordinates":[115.747498,-32.049213],"type":"Point"}
+  "bbox": [
+    115.747498,
+    -32.049213,
+    115.747498,
+    -32.049213
+],
+  "geometry": {"coordinates":[115.74749799999999,-32.049213],"type":"Point"}
 }

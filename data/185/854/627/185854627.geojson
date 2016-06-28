@@ -2,13 +2,14 @@
   "id": 185854627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841415,-25.288765,152.841415,-25.288765",
     "geom:latitude":-25.288765,
     "geom:longitude":152.841415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Boat Harbour Drv",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185854627,
-    "wof:lastmodified":1449008133,
+    "wof:lastmodified":1466187397,
     "wof:name":"Allen's Plastic Repairs",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [152.841415,-25.288765,152.841415,-25.288765],
-  "geometry": {"coordinates":[152.841415,-25.288765],"type":"Point"}
+  "bbox": [
+    152.841415,
+    -25.288765,
+    152.841415,
+    -25.288765
+],
+  "geometry": {"coordinates":[152.84141500000001,-25.288765],"type":"Point"}
 }

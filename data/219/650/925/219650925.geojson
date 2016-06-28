@@ -2,13 +2,14 @@
   "id": 219650925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.099106,-33.930817,151.099106,-33.930817",
     "geom:latitude":-33.930817,
     "geom:longitude":151.099106,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Kingsgrove Rd",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219650925,
-    "wof:lastmodified":1449072547,
+    "wof:lastmodified":1466191018,
     "wof:name":"Eazy Carpentry",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [151.099106,-33.930817,151.099106,-33.930817],
-  "geometry": {"coordinates":[151.099106,-33.930817],"type":"Point"}
+  "bbox": [
+    151.099106,
+    -33.930817,
+    151.099106,
+    -33.930817
+],
+  "geometry": {"coordinates":[151.09910600000001,-33.930817],"type":"Point"}
 }

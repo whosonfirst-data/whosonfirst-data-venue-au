@@ -2,13 +2,14 @@
   "id": 236600803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.13147,-33.965858,151.13147,-33.965858",
     "geom:latitude":-33.965858,
     "geom:longitude":151.13147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Railway Pde",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236600803,
-    "wof:lastmodified":1449001902,
+    "wof:lastmodified":1466191769,
     "wof:name":"Kogarah Laundrette",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.13147,-33.965858,151.13147,-33.965858],
-  "geometry": {"coordinates":[151.13147,-33.965858],"type":"Point"}
+  "bbox": [
+    151.13147,
+    -33.965858,
+    151.13147,
+    -33.965858
+],
+  "geometry": {"coordinates":[151.13147000000001,-33.965858],"type":"Point"}
 }

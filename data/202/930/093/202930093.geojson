@@ -2,13 +2,14 @@
   "id": 202930093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.09288,-30.311378,153.09288,-30.311378",
     "geom:latitude":-30.311378,
     "geom:longitude":153.09288,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Mansbridge Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202930093,
-    "wof:lastmodified":1449060920,
+    "wof:lastmodified":1466190877,
     "wof:name":"Stramit Building Products",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [153.09288,-30.311378,153.09288,-30.311378],
-  "geometry": {"coordinates":[153.09288,-30.311378],"type":"Point"}
+  "bbox": [
+    153.09288,
+    -30.311378,
+    153.09288,
+    -30.311378
+],
+  "geometry": {"coordinates":[153.09288000000001,-30.311378],"type":"Point"}
 }

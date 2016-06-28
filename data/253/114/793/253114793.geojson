@@ -2,13 +2,14 @@
   "id": 253114793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.832947,-37.784828,144.832947,-37.784828",
     "geom:latitude":-37.784828,
     "geom:longitude":144.832947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Dawson St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253114793,
-    "wof:lastmodified":1449064059,
+    "wof:lastmodified":1466189035,
     "wof:name":"Cue Magic",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [144.832947,-37.784828,144.832947,-37.784828],
-  "geometry": {"coordinates":[144.832947,-37.784828],"type":"Point"}
+  "bbox": [
+    144.832947,
+    -37.784828,
+    144.832947,
+    -37.784828
+],
+  "geometry": {"coordinates":[144.83294699999999,-37.784828],"type":"Point"}
 }

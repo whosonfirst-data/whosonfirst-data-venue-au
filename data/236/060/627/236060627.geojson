@@ -2,13 +2,14 @@
   "id": 236060627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.926224,-37.760376,144.926224,-37.760376",
     "geom:latitude":-37.760376,
     "geom:longitude":144.926224,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Pascoe Vale Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236060627,
-    "wof:lastmodified":1449004891,
+    "wof:lastmodified":1466187835,
     "wof:name":"Superior Quilt Company",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [144.926224,-37.760376,144.926224,-37.760376],
-  "geometry": {"coordinates":[144.926224,-37.760376],"type":"Point"}
+  "bbox": [
+    144.926224,
+    -37.760376,
+    144.926224,
+    -37.760376
+],
+  "geometry": {"coordinates":[144.92622399999999,-37.760376],"type":"Point"}
 }

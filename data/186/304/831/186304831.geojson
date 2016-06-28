@@ -2,13 +2,14 @@
   "id": 186304831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.0047,-30.642578,153.0047,-30.642578",
     "geom:latitude":-30.642578,
     "geom:longitude":153.0047,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellington Drv",
     "sg:city":"Nambucca Heads",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186304831,
-    "wof:lastmodified":1449052344,
+    "wof:lastmodified":1466187803,
     "wof:name":"V-Wall Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [153.0047,-30.642578,153.0047,-30.642578],
-  "geometry": {"coordinates":[153.0047,-30.642578],"type":"Point"}
+  "bbox": [
+    153.0047,
+    -30.642578,
+    153.0047,
+    -30.642578
+],
+  "geometry": {"coordinates":[153.00470000000001,-30.642578],"type":"Point"}
 }

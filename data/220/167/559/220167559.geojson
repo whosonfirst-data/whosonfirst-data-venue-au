@@ -2,13 +2,14 @@
   "id": 220167559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.351578,-38.131256,144.351578,-38.131256",
     "geom:latitude":-38.131256,
     "geom:longitude":144.351578,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Melbourne Rd",
     "sg:city":"Drumcondra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220167559,
-    "wof:lastmodified":1449074454,
+    "wof:lastmodified":1466188946,
     "wof:name":"J & C Electronics",
     "wof:parent_id":85776481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopier"
     ]
 },
-  "bbox": [144.351578,-38.131256,144.351578,-38.131256],
-  "geometry": {"coordinates":[144.351578,-38.131256],"type":"Point"}
+  "bbox": [
+    144.351578,
+    -38.131256,
+    144.351578,
+    -38.131256
+],
+  "geometry": {"coordinates":[144.35157799999999,-38.131256],"type":"Point"}
 }

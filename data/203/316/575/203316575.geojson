@@ -2,13 +2,14 @@
   "id": 203316575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.843262,-37.595394,143.843262,-37.595394",
     "geom:latitude":-37.595394,
     "geom:longitude":143.843262,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Yarrowee St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203316575,
-    "wof:lastmodified":1449026262,
+    "wof:lastmodified":1466188216,
     "wof:name":"Robbie Macklin Driving School",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.843262,-37.595394,143.843262,-37.595394],
-  "geometry": {"coordinates":[143.843262,-37.595394],"type":"Point"}
+  "bbox": [
+    143.843262,
+    -37.595394,
+    143.843262,
+    -37.595394
+],
+  "geometry": {"coordinates":[143.84326200000001,-37.595394],"type":"Point"}
 }

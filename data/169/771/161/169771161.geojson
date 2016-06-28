@@ -2,13 +2,14 @@
   "id": 169771161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.721054,-38.630131,145.721054,-38.630131",
     "geom:latitude":-38.630131,
     "geom:longitude":145.721054,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Melaleuca Mews",
     "sg:city":"Inverloch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169771161,
-    "wof:lastmodified":1449034485,
+    "wof:lastmodified":1466188258,
     "wof:name":"G A & R A Fencing Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.721054,-38.630131,145.721054,-38.630131],
-  "geometry": {"coordinates":[145.721054,-38.630131],"type":"Point"}
+  "bbox": [
+    145.721054,
+    -38.630131,
+    145.721054,
+    -38.630131
+],
+  "geometry": {"coordinates":[145.72105400000001,-38.630131],"type":"Point"}
 }

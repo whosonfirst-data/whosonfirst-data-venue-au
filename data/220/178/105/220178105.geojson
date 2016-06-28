@@ -2,13 +2,14 @@
   "id": 220178105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.352676,-38.146355,144.352676,-38.146355",
     "geom:latitude":-38.146355,
     "geom:longitude":144.352676,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3, 240",
     "sg:city":"Latrobe Tce Geelong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220178105,
-    "wof:lastmodified":1449074627,
+    "wof:lastmodified":1466189151,
     "wof:name":"BBE Services Pty Ltd",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.352676,-38.146355,144.352676,-38.146355],
+  "bbox": [
+    144.352676,
+    -38.146355,
+    144.352676,
+    -38.146355
+],
   "geometry": {"coordinates":[144.352676,-38.146355],"type":"Point"}
 }

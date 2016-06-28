@@ -2,13 +2,14 @@
   "id": 219894539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892487,-34.397442,150.892487,-34.397442",
     "geom:latitude":-34.397442,
     "geom:longitude":150.892487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Princes Hwy",
     "sg:city":"Fairy Meadow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219894539,
-    "wof:lastmodified":1449071844,
+    "wof:lastmodified":1466191556,
     "wof:name":"Civic Video",
     "wof:parent_id":85769267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "library"
     ]
 },
-  "bbox": [150.892487,-34.397442,150.892487,-34.397442],
-  "geometry": {"coordinates":[150.892487,-34.397442],"type":"Point"}
+  "bbox": [
+    150.892487,
+    -34.397442,
+    150.892487,
+    -34.397442
+],
+  "geometry": {"coordinates":[150.89248699999999,-34.397442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236247125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.776245,-38.191086,145.776245,-38.191086",
     "geom:latitude":-38.191086,
     "geom:longitude":145.776245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Westernport Rd",
     "sg:city":"Ripplebrook",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236247125,
-    "wof:lastmodified":1449003607,
+    "wof:lastmodified":1466190201,
     "wof:name":"Ronneby Advanced Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.776245,-38.191086,145.776245,-38.191086],
-  "geometry": {"coordinates":[145.776245,-38.191086],"type":"Point"}
+  "bbox": [
+    145.776245,
+    -38.191086,
+    145.776245,
+    -38.191086
+],
+  "geometry": {"coordinates":[145.77624499999999,-38.191086],"type":"Point"}
 }

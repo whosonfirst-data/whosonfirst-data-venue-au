@@ -2,13 +2,14 @@
   "id": 203138391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.700439,-32.549065,115.700439,-32.549065",
     "geom:latitude":-32.549065,
     "geom:longitude":115.700439,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suites 2 & 3, 14 Peelwood Pde",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203138391,
-    "wof:lastmodified":1449025452,
+    "wof:lastmodified":1466189610,
     "wof:name":"A.M. Hollyock & Associates Pty Ltd",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [115.700439,-32.549065,115.700439,-32.549065],
+  "bbox": [
+    115.700439,
+    -32.549065,
+    115.700439,
+    -32.549065
+],
   "geometry": {"coordinates":[115.700439,-32.549065],"type":"Point"}
 }

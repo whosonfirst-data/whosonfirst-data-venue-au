@@ -2,13 +2,14 @@
   "id": 252746875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.639282,-33.326283,115.639282,-33.326283",
     "geom:latitude":-33.326283,
     "geom:longitude":115.639282,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arthur St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252746875,
-    "wof:lastmodified":1449005395,
+    "wof:lastmodified":1466187579,
     "wof:name":"Bunbury Dance Studio",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tuition"
     ]
 },
-  "bbox": [115.639282,-33.326283,115.639282,-33.326283],
-  "geometry": {"coordinates":[115.639282,-33.326283],"type":"Point"}
+  "bbox": [
+    115.639282,
+    -33.326283,
+    115.639282,
+    -33.326283
+],
+  "geometry": {"coordinates":[115.63928199999999,-33.326283],"type":"Point"}
 }

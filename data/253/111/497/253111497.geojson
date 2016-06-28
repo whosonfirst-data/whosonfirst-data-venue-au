@@ -2,13 +2,14 @@
   "id": 253111497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.837036,-37.760731,144.837036,-37.760731",
     "geom:latitude":-37.760731,
     "geom:longitude":144.837036,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34- 36 Harvester Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253111497,
-    "wof:lastmodified":1449065896,
+    "wof:lastmodified":1466188968,
     "wof:name":"Procom Plastics Extrusion P/L",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "extruders"
     ]
 },
-  "bbox": [144.837036,-37.760731,144.837036,-37.760731],
-  "geometry": {"coordinates":[144.837036,-37.760731],"type":"Point"}
+  "bbox": [
+    144.837036,
+    -37.760731,
+    144.837036,
+    -37.760731
+],
+  "geometry": {"coordinates":[144.83703600000001,-37.760731],"type":"Point"}
 }

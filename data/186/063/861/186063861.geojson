@@ -2,13 +2,14 @@
   "id": 186063861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.490677,-33.107334,151.490677,-33.107334",
     "geom:latitude":-33.107334,
     "geom:longitude":151.490677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Dora St",
     "sg:city":"Morisset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186063861,
-    "wof:lastmodified":1449050480,
+    "wof:lastmodified":1466188500,
     "wof:name":"Blue Bottle Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.490677,-33.107334,151.490677,-33.107334],
-  "geometry": {"coordinates":[151.490677,-33.107334],"type":"Point"}
+  "bbox": [
+    151.490677,
+    -33.107334,
+    151.490677,
+    -33.107334
+],
+  "geometry": {"coordinates":[151.49067700000001,-33.107334],"type":"Point"}
 }

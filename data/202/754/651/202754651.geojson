@@ -2,13 +2,14 @@
   "id": 202754651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.873596,-32.039673,115.873596,-32.039673",
     "geom:latitude":-32.039673,
     "geom:longitude":115.873596,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Houtmans St",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202754651,
-    "wof:lastmodified":1449061743,
+    "wof:lastmodified":1466189806,
     "wof:name":"Thomas Perrott Village",
     "wof:parent_id":85775621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [115.873596,-32.039673,115.873596,-32.039673],
-  "geometry": {"coordinates":[115.873596,-32.039673],"type":"Point"}
+  "bbox": [
+    115.873596,
+    -32.039673,
+    115.873596,
+    -32.039673
+],
+  "geometry": {"coordinates":[115.87359600000001,-32.039673],"type":"Point"}
 }

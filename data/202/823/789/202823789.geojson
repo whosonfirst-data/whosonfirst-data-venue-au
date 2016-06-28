@@ -2,13 +2,14 @@
   "id": 202823789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.150177,-23.514687,148.150177,-23.514687",
     "geom:latitude":-23.514687,
     "geom:longitude":148.150177,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Hogans Rd",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202823789,
-    "wof:lastmodified":1449062616,
+    "wof:lastmodified":1466190404,
     "wof:name":"Blue IQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [148.150177,-23.514687,148.150177,-23.514687],
-  "geometry": {"coordinates":[148.150177,-23.514687],"type":"Point"}
+  "bbox": [
+    148.150177,
+    -23.514687,
+    148.150177,
+    -23.514687
+],
+  "geometry": {"coordinates":[148.15017700000001,-23.514687],"type":"Point"}
 }

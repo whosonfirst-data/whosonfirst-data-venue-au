@@ -2,13 +2,14 @@
   "id": 169751063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.110123,-27.197664,153.110123,-27.197664",
     "geom:latitude":-27.197664,
     "geom:longitude":153.110123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Jeays St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169751063,
-    "wof:lastmodified":1449032870,
+    "wof:lastmodified":1466187860,
     "wof:name":"StepBack",
     "wof:parent_id":85773847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [153.110123,-27.197664,153.110123,-27.197664],
-  "geometry": {"coordinates":[153.110123,-27.197664],"type":"Point"}
+  "bbox": [
+    153.110123,
+    -27.197664,
+    153.110123,
+    -27.197664
+],
+  "geometry": {"coordinates":[153.11012299999999,-27.197664],"type":"Point"}
 }

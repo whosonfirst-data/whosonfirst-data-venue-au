@@ -2,13 +2,14 @@
   "id": 202910029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.197067,-30.12199,153.197067,-30.12199",
     "geom:latitude":-30.12199,
     "geom:longitude":153.197067,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Hawke Drv",
     "sg:city":"Woolgoolga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202910029,
-    "wof:lastmodified":1449061170,
+    "wof:lastmodified":1466190595,
     "wof:name":"Flat Top Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [153.197067,-30.12199,153.197067,-30.12199],
+  "bbox": [
+    153.197067,
+    -30.12199,
+    153.197067,
+    -30.12199
+],
   "geometry": {"coordinates":[153.197067,-30.12199],"type":"Point"}
 }

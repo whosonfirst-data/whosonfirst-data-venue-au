@@ -2,13 +2,14 @@
   "id": 236854747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.869751,-34.435989,150.869751,-34.435989",
     "geom:latitude":-34.435989,
     "geom:longitude":150.869751,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"71 St Johns Ave",
     "sg:city":"Mangerton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236854747,
-    "wof:lastmodified":1449005100,
+    "wof:lastmodified":1466192056,
     "wof:name":"Mangerton Corner Store",
     "wof:parent_id":85769285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.869751,-34.435989,150.869751,-34.435989],
-  "geometry": {"coordinates":[150.869751,-34.435989],"type":"Point"}
+  "bbox": [
+    150.869751,
+    -34.435989,
+    150.869751,
+    -34.435989
+],
+  "geometry": {"coordinates":[150.86975100000001,-34.435989],"type":"Point"}
 }

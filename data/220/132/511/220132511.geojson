@@ -2,13 +2,14 @@
   "id": 220132511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.426956,-38.18047,144.426956,-38.18047",
     "geom:latitude":-38.18047,
     "geom:longitude":144.426956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"392-400 Bellarine Hwy",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220132511,
-    "wof:lastmodified":1449074415,
+    "wof:lastmodified":1466188266,
     "wof:name":"Geelong Flower Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [144.426956,-38.18047,144.426956,-38.18047],
-  "geometry": {"coordinates":[144.426956,-38.18047],"type":"Point"}
+  "bbox": [
+    144.426956,
+    -38.18047,
+    144.426956,
+    -38.18047
+],
+  "geometry": {"coordinates":[144.42695599999999,-38.18047],"type":"Point"}
 }

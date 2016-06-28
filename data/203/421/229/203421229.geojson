@@ -2,13 +2,14 @@
   "id": 203421229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.626419,-34.611221,138.626419,-34.611221",
     "geom:latitude":-34.611221,
     "geom:longitude":138.626419,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Dawkins Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203421229,
-    "wof:lastmodified":1449026177,
+    "wof:lastmodified":1466189681,
     "wof:name":"Gawler Roofzone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "roof"
     ]
 },
-  "bbox": [138.626419,-34.611221,138.626419,-34.611221],
+  "bbox": [
+    138.626419,
+    -34.611221,
+    138.626419,
+    -34.611221
+],
   "geometry": {"coordinates":[138.626419,-34.611221],"type":"Point"}
 }

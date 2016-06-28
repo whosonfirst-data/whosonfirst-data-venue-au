@@ -2,13 +2,14 @@
   "id": 186155843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.721146,-31.465839,152.721146,-31.465839",
     "geom:latitude":-31.465839,
     "geom:longitude":152.721146,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"195 High St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186155843,
-    "wof:lastmodified":1449052535,
+    "wof:lastmodified":1466189793,
     "wof:name":"fixitor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [152.721146,-31.465839,152.721146,-31.465839],
+  "bbox": [
+    152.721146,
+    -31.465839,
+    152.721146,
+    -31.465839
+],
   "geometry": {"coordinates":[152.721146,-31.465839],"type":"Point"}
 }

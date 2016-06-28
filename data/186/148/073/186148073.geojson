@@ -2,13 +2,14 @@
   "id": 186148073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.730179,-31.457092,152.730179,-31.457092",
     "geom:latitude":-31.457092,
     "geom:longitude":152.730179,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Campbell St",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186148073,
-    "wof:lastmodified":1449052581,
+    "wof:lastmodified":1466189777,
     "wof:name":"Campbell G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.730179,-31.457092,152.730179,-31.457092],
-  "geometry": {"coordinates":[152.730179,-31.457092],"type":"Point"}
+  "bbox": [
+    152.730179,
+    -31.457092,
+    152.730179,
+    -31.457092
+],
+  "geometry": {"coordinates":[152.73017899999999,-31.457092],"type":"Point"}
 }

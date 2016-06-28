@@ -2,13 +2,14 @@
   "id": 236602895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.136597,-33.9734,151.136597,-33.9734",
     "geom:latitude":-33.9734,
     "geom:longitude":151.136597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Rocky Point Rd",
     "sg:city":"Kogarah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236602895,
-    "wof:lastmodified":1449003151,
+    "wof:lastmodified":1466191566,
     "wof:name":"Endeavour (Kogarah) Nursing Home",
     "wof:parent_id":85771225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [151.136597,-33.9734,151.136597,-33.9734],
-  "geometry": {"coordinates":[151.136597,-33.9734],"type":"Point"}
+  "bbox": [
+    151.136597,
+    -33.9734,
+    151.136597,
+    -33.9734
+],
+  "geometry": {"coordinates":[151.13659699999999,-33.9734],"type":"Point"}
 }

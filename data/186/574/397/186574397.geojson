@@ -2,13 +2,14 @@
   "id": 186574397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.838669,-31.49785,145.838669,-31.49785",
     "geom:latitude":-31.49785,
     "geom:longitude":145.838669,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Marshall St",
     "sg:city":"Cobar",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186574397,
-    "wof:lastmodified":1449050236,
+    "wof:lastmodified":1466190944,
     "wof:name":"Cobar Town & Country Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.838669,-31.49785,145.838669,-31.49785],
-  "geometry": {"coordinates":[145.838669,-31.49785],"type":"Point"}
+  "bbox": [
+    145.838669,
+    -31.49785,
+    145.838669,
+    -31.49785
+],
+  "geometry": {"coordinates":[145.83866900000001,-31.49785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202780001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.77388,-32.928802,151.77388,-32.928802",
     "geom:latitude":-32.928802,
     "geom:longitude":151.77388,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Darby St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202780001,
-    "wof:lastmodified":1449062005,
+    "wof:lastmodified":1466190287,
     "wof:name":"Heath Wade Photography Gallery",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pictures"
     ]
 },
-  "bbox": [151.77388,-32.928802,151.77388,-32.928802],
-  "geometry": {"coordinates":[151.77388,-32.928802],"type":"Point"}
+  "bbox": [
+    151.77388,
+    -32.928802,
+    151.77388,
+    -32.928802
+],
+  "geometry": {"coordinates":[151.77387999999999,-32.928802],"type":"Point"}
 }

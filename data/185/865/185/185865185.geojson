@@ -2,13 +2,14 @@
   "id": 185865185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.840027,-25.281515,152.840027,-25.281515",
     "geom:latitude":-25.281515,
     "geom:longitude":152.840027,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Melory Place 53 Torquay Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185865185,
-    "wof:lastmodified":1449007826,
+    "wof:lastmodified":1466187515,
     "wof:name":"Nana's Pantry",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [152.840027,-25.281515,152.840027,-25.281515],
-  "geometry": {"coordinates":[152.840027,-25.281515],"type":"Point"}
+  "bbox": [
+    152.840027,
+    -25.281515,
+    152.840027,
+    -25.281515
+],
+  "geometry": {"coordinates":[152.84002699999999,-25.281515],"type":"Point"}
 }

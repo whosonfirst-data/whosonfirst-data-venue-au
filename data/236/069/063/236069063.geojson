@@ -2,13 +2,14 @@
   "id": 236069063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.749954,-37.688328,144.749954,-37.688328",
     "geom:latitude":-37.688328,
     "geom:longitude":144.749954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Whitmore Pl",
     "sg:city":"null",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236069063,
-    "wof:lastmodified":1449003790,
+    "wof:lastmodified":1466188011,
     "wof:name":"Semaphore Counselling & Psycho Therapy",
     "wof:parent_id":85771095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counselling"
     ]
 },
-  "bbox": [144.749954,-37.688328,144.749954,-37.688328],
+  "bbox": [
+    144.749954,
+    -37.688328,
+    144.749954,
+    -37.688328
+],
   "geometry": {"coordinates":[144.749954,-37.688328],"type":"Point"}
 }

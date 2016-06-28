@@ -2,13 +2,14 @@
   "id": 220180433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.353348,-38.147537,144.353348,-38.147537",
     "geom:latitude":-38.147537,
     "geom:longitude":144.353348,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ste 4 Lvl 1, Geelong Private Hosp Cnr Ryrie & Bell",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220180433,
-    "wof:lastmodified":1449074086,
+    "wof:lastmodified":1466189196,
     "wof:name":"Nolan Christopher J Dr",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.353348,-38.147537,144.353348,-38.147537],
-  "geometry": {"coordinates":[144.353348,-38.147537],"type":"Point"}
+  "bbox": [
+    144.353348,
+    -38.147537,
+    144.353348,
+    -38.147537
+],
+  "geometry": {"coordinates":[144.35334800000001,-38.147537],"type":"Point"}
 }

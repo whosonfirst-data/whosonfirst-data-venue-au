@@ -2,13 +2,14 @@
   "id": 203368313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.809311,-37.577198,143.809311,-37.577198",
     "geom:latitude":-37.577198,
     "geom:longitude":143.809311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Wiltshire La",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203368313,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466188993,
     "wof:name":"Nungaron Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [143.809311,-37.577198,143.809311,-37.577198],
-  "geometry": {"coordinates":[143.809311,-37.577198],"type":"Point"}
+  "bbox": [
+    143.809311,
+    -37.577198,
+    143.809311,
+    -37.577198
+],
+  "geometry": {"coordinates":[143.80931100000001,-37.577198],"type":"Point"}
 }

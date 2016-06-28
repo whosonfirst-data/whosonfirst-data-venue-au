@@ -2,13 +2,14 @@
   "id": 220134599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.330048,-38.203636,144.330048,-38.203636",
     "geom:latitude":-38.203636,
     "geom:longitude":144.330048,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Wills Crs",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220134599,
-    "wof:lastmodified":1449074842,
+    "wof:lastmodified":1466188284,
     "wof:name":"Moolap Primary School",
     "wof:parent_id":85769417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [144.330048,-38.203636,144.330048,-38.203636],
-  "geometry": {"coordinates":[144.330048,-38.203636],"type":"Point"}
+  "bbox": [
+    144.330048,
+    -38.203636,
+    144.330048,
+    -38.203636
+],
+  "geometry": {"coordinates":[144.33004800000001,-38.203636],"type":"Point"}
 }

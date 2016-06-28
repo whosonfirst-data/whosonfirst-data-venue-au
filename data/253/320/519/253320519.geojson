@@ -2,13 +2,14 @@
   "id": 253320519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.306564,-38.026417,145.306564,-38.026417",
     "geom:latitude":-38.026417,
     "geom:longitude":145.306564,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 - 35 Narren Warren - Cranbourne Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253320519,
-    "wof:lastmodified":1449063569,
+    "wof:lastmodified":1466190904,
     "wof:name":"Repco - The Auto Repair Shop",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.306564,-38.026417,145.306564,-38.026417],
-  "geometry": {"coordinates":[145.306564,-38.026417],"type":"Point"}
+  "bbox": [
+    145.306564,
+    -38.026417,
+    145.306564,
+    -38.026417
+],
+  "geometry": {"coordinates":[145.30656400000001,-38.026417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203167301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.981598,-36.551514,145.981598,-36.551514",
     "geom:latitude":-36.551514,
     "geom:longitude":145.981598,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Mair St",
     "sg:city":"Benalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203167301,
-    "wof:lastmodified":1449025917,
+    "wof:lastmodified":1466189797,
     "wof:name":"Benalla Visitor Information Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "attractions"
     ]
 },
-  "bbox": [145.981598,-36.551514,145.981598,-36.551514],
-  "geometry": {"coordinates":[145.981598,-36.551514],"type":"Point"}
+  "bbox": [
+    145.981598,
+    -36.551514,
+    145.981598,
+    -36.551514
+],
+  "geometry": {"coordinates":[145.98159799999999,-36.551514],"type":"Point"}
 }

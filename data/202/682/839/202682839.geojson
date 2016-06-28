@@ -2,13 +2,14 @@
   "id": 202682839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.987091,-27.366135,152.987091,-27.366135",
     "geom:latitude":-27.366135,
     "geom:longitude":152.987091,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Gemini Pl",
     "sg:city":"Bridgeman Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202682839,
-    "wof:lastmodified":1449060539,
+    "wof:lastmodified":1466188512,
     "wof:name":"David Maguire",
     "wof:parent_id":85774013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [152.987091,-27.366135,152.987091,-27.366135],
-  "geometry": {"coordinates":[152.987091,-27.366135],"type":"Point"}
+  "bbox": [
+    152.987091,
+    -27.366135,
+    152.987091,
+    -27.366135
+],
+  "geometry": {"coordinates":[152.98709099999999,-27.366135],"type":"Point"}
 }

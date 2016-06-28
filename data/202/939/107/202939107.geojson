@@ -2,13 +2,14 @@
   "id": 202939107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.136459,-30.300257,153.136459,-30.300257",
     "geom:latitude":-30.300257,
     "geom:longitude":153.136459,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Edgar St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202939107,
-    "wof:lastmodified":1449060862,
+    "wof:lastmodified":1466190821,
     "wof:name":"Ladhani F M Dr",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [153.136459,-30.300257,153.136459,-30.300257],
+  "bbox": [
+    153.136459,
+    -30.300257,
+    153.136459,
+    -30.300257
+],
   "geometry": {"coordinates":[153.136459,-30.300257],"type":"Point"}
 }

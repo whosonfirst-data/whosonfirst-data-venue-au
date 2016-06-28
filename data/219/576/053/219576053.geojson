@@ -2,13 +2,14 @@
   "id": 219576053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.991516,-33.915325,150.991516,-33.915325",
     "geom:latitude":-33.915325,
     "geom:longitude":150.991516,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Desoutter Ave",
     "sg:city":"Bankstown Aerodrome",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219576053,
-    "wof:lastmodified":1449073118,
+    "wof:lastmodified":1466190355,
     "wof:name":"MM Investment Company Pty Ltd",
     "wof:parent_id":85779789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [150.991516,-33.915325,150.991516,-33.915325],
-  "geometry": {"coordinates":[150.991516,-33.915325],"type":"Point"}
+  "bbox": [
+    150.991516,
+    -33.915325,
+    150.991516,
+    -33.915325
+],
+  "geometry": {"coordinates":[150.99151599999999,-33.915325],"type":"Point"}
 }

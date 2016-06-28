@@ -2,13 +2,14 @@
   "id": 202803337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.759949,-32.92783,151.759949,-32.92783",
     "geom:latitude":-32.92783,
     "geom:longitude":151.759949,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Parry St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202803337,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466190329,
     "wof:name":"Swan Murray & Hain Auctioneers",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.759949,-32.92783,151.759949,-32.92783],
-  "geometry": {"coordinates":[151.759949,-32.92783],"type":"Point"}
+  "bbox": [
+    151.759949,
+    -32.92783,
+    151.759949,
+    -32.92783
+],
+  "geometry": {"coordinates":[151.75994900000001,-32.92783],"type":"Point"}
 }

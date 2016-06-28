@@ -2,13 +2,14 @@
   "id": 186424195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.759613,-19.313946,146.759613,-19.313946",
     "geom:latitude":-19.313946,
     "geom:longitude":146.759613,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Keesing Rd",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186424195,
-    "wof:lastmodified":1449052865,
+    "wof:lastmodified":1466189711,
     "wof:name":"Jeff Hills",
     "wof:parent_id":85779483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [146.759613,-19.313946,146.759613,-19.313946],
+  "bbox": [
+    146.759613,
+    -19.313946,
+    146.759613,
+    -19.313946
+],
   "geometry": {"coordinates":[146.759613,-19.313946],"type":"Point"}
 }

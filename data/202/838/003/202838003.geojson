@@ -2,13 +2,14 @@
   "id": 202838003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.160019,-23.520063,148.160019,-23.520063",
     "geom:latitude":-23.520063,
     "geom:longitude":148.160019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Theresa St",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202838003,
-    "wof:lastmodified":1449060409,
+    "wof:lastmodified":1466190582,
     "wof:name":"Emerald Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [148.160019,-23.520063,148.160019,-23.520063],
-  "geometry": {"coordinates":[148.160019,-23.520063],"type":"Point"}
+  "bbox": [
+    148.160019,
+    -23.520063,
+    148.160019,
+    -23.520063
+],
+  "geometry": {"coordinates":[148.16001900000001,-23.520063],"type":"Point"}
 }

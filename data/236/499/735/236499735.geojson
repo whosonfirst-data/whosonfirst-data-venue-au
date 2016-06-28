@@ -2,13 +2,14 @@
   "id": 236499735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.18013,-21.140276,149.18013,-21.140276",
     "geom:latitude":-21.140276,
     "geom:longitude":149.18013,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1, 224 Victoria St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236499735,
-    "wof:lastmodified":1449002150,
+    "wof:lastmodified":1466191281,
     "wof:name":"Escape Travel",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [149.18013,-21.140276,149.18013,-21.140276],
-  "geometry": {"coordinates":[149.18013,-21.140276],"type":"Point"}
+  "bbox": [
+    149.18013,
+    -21.140276,
+    149.18013,
+    -21.140276
+],
+  "geometry": {"coordinates":[149.18012999999999,-21.140276],"type":"Point"}
 }

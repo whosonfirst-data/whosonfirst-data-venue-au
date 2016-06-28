@@ -2,13 +2,14 @@
   "id": 202661749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.046753,-27.417253,153.046753,-27.417253",
     "geom:latitude":-27.417253,
     "geom:longitude":153.046753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 View St",
     "sg:city":"Wooloowin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202661749,
-    "wof:lastmodified":1449062374,
+    "wof:lastmodified":1466188108,
     "wof:name":"Cobbett Pty Ltd",
     "wof:parent_id":85774045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [153.046753,-27.417253,153.046753,-27.417253],
+  "bbox": [
+    153.046753,
+    -27.417253,
+    153.046753,
+    -27.417253
+],
   "geometry": {"coordinates":[153.046753,-27.417253],"type":"Point"}
 }

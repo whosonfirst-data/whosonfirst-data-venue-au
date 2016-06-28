@@ -2,13 +2,14 @@
   "id": 219683245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.530121,-32.190319,152.530121,-32.190319",
     "geom:latitude":-32.190319,
     "geom:longitude":152.530121,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Daphne St",
     "sg:city":"Forster",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219683245,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1466191112,
     "wof:name":"Stephen Neville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "layer"
     ]
 },
-  "bbox": [152.530121,-32.190319,152.530121,-32.190319],
-  "geometry": {"coordinates":[152.530121,-32.190319],"type":"Point"}
+  "bbox": [
+    152.530121,
+    -32.190319,
+    152.530121,
+    -32.190319
+],
+  "geometry": {"coordinates":[152.53012100000001,-32.190319],"type":"Point"}
 }

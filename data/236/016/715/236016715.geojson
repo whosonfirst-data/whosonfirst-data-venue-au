@@ -2,13 +2,14 @@
   "id": 236016715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.323624,-42.98143,147.323624,-42.98143",
     "geom:latitude":-42.98143,
     "geom:longitude":147.323624,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Beach Rd",
     "sg:city":"Kingston Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236016715,
-    "wof:lastmodified":1449002105,
+    "wof:lastmodified":1466187123,
     "wof:name":"Australia Post Offices",
     "wof:parent_id":85770383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "postal"
     ]
 },
-  "bbox": [147.323624,-42.98143,147.323624,-42.98143],
+  "bbox": [
+    147.323624,
+    -42.98143,
+    147.323624,
+    -42.98143
+],
   "geometry": {"coordinates":[147.323624,-42.98143],"type":"Point"}
 }

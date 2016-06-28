@@ -2,13 +2,14 @@
   "id": 236501293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.189163,-21.11537,149.189163,-21.11537",
     "geom:latitude":-21.11537,
     "geom:longitude":149.189163,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Forgan St",
     "sg:city":"North Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236501293,
-    "wof:lastmodified":1449005282,
+    "wof:lastmodified":1466191285,
     "wof:name":"Graham Thurgood Painter",
     "wof:parent_id":85769909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [149.189163,-21.11537,149.189163,-21.11537],
-  "geometry": {"coordinates":[149.189163,-21.11537],"type":"Point"}
+  "bbox": [
+    149.189163,
+    -21.11537,
+    149.189163,
+    -21.11537
+],
+  "geometry": {"coordinates":[149.18916300000001,-21.11537],"type":"Point"}
 }

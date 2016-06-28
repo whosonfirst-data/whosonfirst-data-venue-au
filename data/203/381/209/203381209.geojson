@@ -2,13 +2,14 @@
   "id": 203381209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.838226,-37.563148,143.838226,-37.563148",
     "geom:latitude":-37.563148,
     "geom:longitude":143.838226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Pleasant St",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203381209,
-    "wof:lastmodified":1449025092,
+    "wof:lastmodified":1466189220,
     "wof:name":"Grey Army",
     "wof:parent_id":85779893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [143.838226,-37.563148,143.838226,-37.563148],
-  "geometry": {"coordinates":[143.838226,-37.563148],"type":"Point"}
+  "bbox": [
+    143.838226,
+    -37.563148,
+    143.838226,
+    -37.563148
+],
+  "geometry": {"coordinates":[143.83822599999999,-37.563148],"type":"Point"}
 }

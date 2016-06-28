@@ -2,13 +2,14 @@
   "id": 236812231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.886093,-34.442078,150.886093,-34.442078",
     "geom:latitude":-34.442078,
     "geom:longitude":150.886093,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Tom Thumb & Farrer Rds",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236812231,
-    "wof:lastmodified":1449001748,
+    "wof:lastmodified":1466191968,
     "wof:name":"Graincorp",
     "wof:parent_id":85769093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seedsman"
     ]
 },
-  "bbox": [150.886093,-34.442078,150.886093,-34.442078],
-  "geometry": {"coordinates":[150.886093,-34.442078],"type":"Point"}
+  "bbox": [
+    150.886093,
+    -34.442078,
+    150.886093,
+    -34.442078
+],
+  "geometry": {"coordinates":[150.88609299999999,-34.442078],"type":"Point"}
 }

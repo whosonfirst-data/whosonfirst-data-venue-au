@@ -2,13 +2,14 @@
   "id": 203402175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.915695,-37.582024,143.915695,-37.582024",
     "geom:latitude":-37.582024,
     "geom:longitude":143.915695,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Navigators Rd",
     "sg:city":"Navigators",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203402175,
-    "wof:lastmodified":1449025519,
+    "wof:lastmodified":1466189500,
     "wof:name":"Balagold Santa Gertrudis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [143.915695,-37.582024,143.915695,-37.582024],
+  "bbox": [
+    143.915695,
+    -37.582024,
+    143.915695,
+    -37.582024
+],
   "geometry": {"coordinates":[143.915695,-37.582024],"type":"Point"}
 }

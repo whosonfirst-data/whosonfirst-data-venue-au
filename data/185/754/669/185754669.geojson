@@ -2,13 +2,14 @@
   "id": 185754669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.130936,-32.726875,152.130936,-32.726875",
     "geom:latitude":-32.726875,
     "geom:longitude":152.130936,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Navala Ave",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185754669,
-    "wof:lastmodified":1449007652,
+    "wof:lastmodified":1466189628,
     "wof:name":"McDowell Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [152.130936,-32.726875,152.130936,-32.726875],
-  "geometry": {"coordinates":[152.130936,-32.726875],"type":"Point"}
+  "bbox": [
+    152.130936,
+    -32.726875,
+    152.130936,
+    -32.726875
+],
+  "geometry": {"coordinates":[152.13093599999999,-32.726875],"type":"Point"}
 }

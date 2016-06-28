@@ -2,13 +2,14 @@
   "id": 203228255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.831314,-41.039772,145.831314,-41.039772",
     "geom:latitude":-41.039772,
     "geom:longitude":145.831314,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Elizabeth St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203228255,
-    "wof:lastmodified":1449025504,
+    "wof:lastmodified":1466187398,
     "wof:name":"Somerset Removals & Storage",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.831314,-41.039772,145.831314,-41.039772],
-  "geometry": {"coordinates":[145.831314,-41.039772],"type":"Point"}
+  "bbox": [
+    145.831314,
+    -41.039772,
+    145.831314,
+    -41.039772
+],
+  "geometry": {"coordinates":[145.83131399999999,-41.039772],"type":"Point"}
 }

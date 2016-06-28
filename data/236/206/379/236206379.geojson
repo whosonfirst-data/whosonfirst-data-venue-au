@@ -2,13 +2,14 @@
   "id": 236206379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.478897,-38.074535,145.478897,-38.074535",
     "geom:latitude":-38.074535,
     "geom:longitude":145.478897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Main St",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236206379,
-    "wof:lastmodified":1449003980,
+    "wof:lastmodified":1466190090,
     "wof:name":"3D Drafting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [145.478897,-38.074535,145.478897,-38.074535],
-  "geometry": {"coordinates":[145.478897,-38.074535],"type":"Point"}
+  "bbox": [
+    145.478897,
+    -38.074535,
+    145.478897,
+    -38.074535
+],
+  "geometry": {"coordinates":[145.47889699999999,-38.074535],"type":"Point"}
 }

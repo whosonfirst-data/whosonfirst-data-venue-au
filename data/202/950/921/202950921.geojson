@@ -2,13 +2,14 @@
   "id": 202950921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.088135,-30.31572,153.088135,-30.31572",
     "geom:latitude":-30.31572,
     "geom:longitude":153.088135,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28b Isles Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202950921,
-    "wof:lastmodified":1449061110,
+    "wof:lastmodified":1466191100,
     "wof:name":"CNW Pty Ltd",
     "wof:parent_id":85780407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [153.088135,-30.31572,153.088135,-30.31572],
-  "geometry": {"coordinates":[153.088135,-30.31572],"type":"Point"}
+  "bbox": [
+    153.088135,
+    -30.31572,
+    153.088135,
+    -30.31572
+],
+  "geometry": {"coordinates":[153.08813499999999,-30.31572],"type":"Point"}
 }

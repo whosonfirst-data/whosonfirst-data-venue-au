@@ -2,13 +2,14 @@
   "id": 185651125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.799889,-32.03986,115.799889,-32.03986",
     "geom:latitude":-32.03986,
     "geom:longitude":115.799889,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 McLean St",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185651125,
-    "wof:lastmodified":1449006934,
+    "wof:lastmodified":1466188284,
     "wof:name":"Thomas International Management Consultants",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [115.799889,-32.03986,115.799889,-32.03986],
-  "geometry": {"coordinates":[115.799889,-32.03986],"type":"Point"}
+  "bbox": [
+    115.799889,
+    -32.03986,
+    115.799889,
+    -32.03986
+],
+  "geometry": {"coordinates":[115.79988899999999,-32.03986],"type":"Point"}
 }

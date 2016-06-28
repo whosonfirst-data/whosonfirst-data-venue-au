@@ -2,13 +2,14 @@
   "id": 253052353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.841583,-37.830509,144.841583,-37.830509",
     "geom:latitude":-37.830509,
     "geom:longitude":144.841583,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U7A Altona Gate Shopng Cntr",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253052353,
-    "wof:lastmodified":1449064159,
+    "wof:lastmodified":1466187946,
     "wof:name":"Vision Advantage",
     "wof:parent_id":85777889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.841583,-37.830509,144.841583,-37.830509],
-  "geometry": {"coordinates":[144.841583,-37.830509],"type":"Point"}
+  "bbox": [
+    144.841583,
+    -37.830509,
+    144.841583,
+    -37.830509
+],
+  "geometry": {"coordinates":[144.84158300000001,-37.830509],"type":"Point"}
 }

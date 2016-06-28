@@ -2,13 +2,14 @@
   "id": 203230961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.811707,-41.032337,145.811707,-41.032337",
     "geom:latitude":-41.032337,
     "geom:longitude":145.811707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fairlands Drv",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203230961,
-    "wof:lastmodified":1449026373,
+    "wof:lastmodified":1466187432,
     "wof:name":"North West Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "glazier"
     ]
 },
-  "bbox": [145.811707,-41.032337,145.811707,-41.032337],
-  "geometry": {"coordinates":[145.811707,-41.032337],"type":"Point"}
+  "bbox": [
+    145.811707,
+    -41.032337,
+    145.811707,
+    -41.032337
+],
+  "geometry": {"coordinates":[145.81170700000001,-41.032337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186389335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.820419,-19.303246,146.820419,-19.303246",
     "geom:latitude":-19.303246,
     "geom:longitude":146.820419,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Ireland St",
     "sg:city":"Oonoonba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186389335,
-    "wof:lastmodified":1449052463,
+    "wof:lastmodified":1466189149,
     "wof:name":"Speedy Parcel Couriers",
     "wof:parent_id":85769957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [146.820419,-19.303246,146.820419,-19.303246],
-  "geometry": {"coordinates":[146.820419,-19.303246],"type":"Point"}
+  "bbox": [
+    146.820419,
+    -19.303246,
+    146.820419,
+    -19.303246
+],
+  "geometry": {"coordinates":[146.82041899999999,-19.303246],"type":"Point"}
 }

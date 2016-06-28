@@ -2,13 +2,14 @@
   "id": 235970227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.074799,-27.44091,153.074799,-27.44091",
     "geom:latitude":-27.44091,
     "geom:longitude":153.074799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Macarthur Ave",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235970227,
-    "wof:lastmodified":1449008600,
+    "wof:lastmodified":1466187394,
     "wof:name":"MacArthur Avenue Takeaway",
     "wof:parent_id":85777235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [153.074799,-27.44091,153.074799,-27.44091],
-  "geometry": {"coordinates":[153.074799,-27.44091],"type":"Point"}
+  "bbox": [
+    153.074799,
+    -27.44091,
+    153.074799,
+    -27.44091
+],
+  "geometry": {"coordinates":[153.07479900000001,-27.44091],"type":"Point"}
 }

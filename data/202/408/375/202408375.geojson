@@ -2,13 +2,14 @@
   "id": 202408375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.942383,-37.838326,144.942383,-37.838326",
     "geom:latitude":-37.838326,
     "geom:longitude":144.942383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202408375,
-    "wof:lastmodified":1449060409,
+    "wof:lastmodified":1466187862,
     "wof:name":"Lanagan Jeff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [144.942383,-37.838326,144.942383,-37.838326],
-  "geometry": {"coordinates":[144.942383,-37.838326],"type":"Point"}
+  "bbox": [
+    144.942383,
+    -37.838326,
+    144.942383,
+    -37.838326
+],
+  "geometry": {"coordinates":[144.94238300000001,-37.838326],"type":"Point"}
 }

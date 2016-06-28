@@ -2,13 +2,14 @@
   "id": 252891149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.586746,-37.682816,144.586746,-37.682816",
     "geom:latitude":-37.682816,
     "geom:longitude":144.586746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 156 High St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252891149,
-    "wof:lastmodified":1449006085,
+    "wof:lastmodified":1466188897,
     "wof:name":"Sash Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [144.586746,-37.682816,144.586746,-37.682816],
-  "geometry": {"coordinates":[144.586746,-37.682816],"type":"Point"}
+  "bbox": [
+    144.586746,
+    -37.682816,
+    144.586746,
+    -37.682816
+],
+  "geometry": {"coordinates":[144.58674600000001,-37.682816],"type":"Point"}
 }

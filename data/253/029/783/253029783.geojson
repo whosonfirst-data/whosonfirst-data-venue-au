@@ -2,13 +2,14 @@
   "id": 253029783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.782425,-37.88253,144.782425,-37.88253",
     "geom:latitude":-37.88253,
     "geom:longitude":144.782425,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 29 South Ave",
     "sg:city":"Altona Meadows",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253029783,
-    "wof:lastmodified":1449064072,
+    "wof:lastmodified":1466187513,
     "wof:name":"Pobega, Dani",
     "wof:parent_id":85777895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kinesiology"
     ]
 },
-  "bbox": [144.782425,-37.88253,144.782425,-37.88253],
-  "geometry": {"coordinates":[144.782425,-37.88253],"type":"Point"}
+  "bbox": [
+    144.782425,
+    -37.88253,
+    144.782425,
+    -37.88253
+],
+  "geometry": {"coordinates":[144.78242499999999,-37.88253],"type":"Point"}
 }

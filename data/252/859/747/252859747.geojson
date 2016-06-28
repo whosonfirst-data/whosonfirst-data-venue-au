@@ -2,13 +2,14 @@
   "id": 252859747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.546173,-34.270775,138.546173,-34.270775",
     "geom:latitude":-34.270775,
     "geom:longitude":138.546173,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Main St",
     "sg:city":"Owen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252859747,
-    "wof:lastmodified":1449006173,
+    "wof:lastmodified":1466188631,
     "wof:name":"Owen Arms Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [138.546173,-34.270775,138.546173,-34.270775],
-  "geometry": {"coordinates":[138.546173,-34.270775],"type":"Point"}
+  "bbox": [
+    138.546173,
+    -34.270775,
+    138.546173,
+    -34.270775
+],
+  "geometry": {"coordinates":[138.54617300000001,-34.270775],"type":"Point"}
 }

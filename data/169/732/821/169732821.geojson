@@ -2,13 +2,14 @@
   "id": 169732821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.982986,-12.49133,130.982986,-12.49133",
     "geom:latitude":-12.49133,
     "geom:longitude":130.982986,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Bag Shaw Crs",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169732821,
-    "wof:lastmodified":1449036071,
+    "wof:lastmodified":1466187414,
     "wof:name":"KPM Electrical",
     "wof:parent_id":85774879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [130.982986,-12.49133,130.982986,-12.49133],
-  "geometry": {"coordinates":[130.982986,-12.49133],"type":"Point"}
+  "bbox": [
+    130.982986,
+    -12.49133,
+    130.982986,
+    -12.49133
+],
+  "geometry": {"coordinates":[130.98298600000001,-12.49133],"type":"Point"}
 }

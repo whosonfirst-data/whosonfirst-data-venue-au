@@ -2,13 +2,14 @@
   "id": 252737509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.630783,-33.352371,115.630783,-33.352371",
     "geom:latitude":-33.352371,
     "geom:longitude":115.630783,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Minninup Rd",
     "sg:city":"South Bunbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252737509,
-    "wof:lastmodified":1449005669,
+    "wof:lastmodified":1466187404,
     "wof:name":"Quartermaine Plumbing & Gas",
     "wof:parent_id":85780047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [115.630783,-33.352371,115.630783,-33.352371],
-  "geometry": {"coordinates":[115.630783,-33.352371],"type":"Point"}
+  "bbox": [
+    115.630783,
+    -33.352371,
+    115.630783,
+    -33.352371
+],
+  "geometry": {"coordinates":[115.63078299999999,-33.352371],"type":"Point"}
 }

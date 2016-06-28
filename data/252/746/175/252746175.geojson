@@ -2,13 +2,14 @@
   "id": 252746175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.667831,-33.331493,115.667831,-33.331493",
     "geom:latitude":-33.331493,
     "geom:longitude":115.667831,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Roberts Rd",
     "sg:city":"Leschenault",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252746175,
-    "wof:lastmodified":1449005394,
+    "wof:lastmodified":1466187566,
     "wof:name":"Advanced Pneumatics",
     "wof:parent_id":85779551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [115.667831,-33.331493,115.667831,-33.331493],
-  "geometry": {"coordinates":[115.667831,-33.331493],"type":"Point"}
+  "bbox": [
+    115.667831,
+    -33.331493,
+    115.667831,
+    -33.331493
+],
+  "geometry": {"coordinates":[115.66783100000001,-33.331493],"type":"Point"}
 }

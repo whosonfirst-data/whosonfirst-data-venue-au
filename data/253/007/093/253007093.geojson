@@ -2,13 +2,14 @@
   "id": 253007093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.727783,-37.870945,144.727783,-37.870945",
     "geom:latitude":-37.870945,
     "geom:longitude":144.727783,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"344 - 336 Old Geelong Rd",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253007093,
-    "wof:lastmodified":1449065258,
+    "wof:lastmodified":1466187044,
     "wof:name":"May West Caravans",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hire"
     ]
 },
-  "bbox": [144.727783,-37.870945,144.727783,-37.870945],
-  "geometry": {"coordinates":[144.727783,-37.870945],"type":"Point"}
+  "bbox": [
+    144.727783,
+    -37.870945,
+    144.727783,
+    -37.870945
+],
+  "geometry": {"coordinates":[144.72778299999999,-37.870945],"type":"Point"}
 }

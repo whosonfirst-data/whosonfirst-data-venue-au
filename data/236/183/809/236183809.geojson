@@ -2,13 +2,14 @@
   "id": 236183809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"137.527954,-33.010925,137.527954,-33.010925",
     "geom:latitude":-33.010925,
     "geom:longitude":137.527954,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 Flinders Shopping Centre McDouall Stuart Av",
     "sg:city":"Whyalla Stuart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236183809,
-    "wof:lastmodified":1449003425,
+    "wof:lastmodified":1466189881,
     "wof:name":"May Shin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [137.527954,-33.010925,137.527954,-33.010925],
-  "geometry": {"coordinates":[137.527954,-33.010925],"type":"Point"}
+  "bbox": [
+    137.527954,
+    -33.010925,
+    137.527954,
+    -33.010925
+],
+  "geometry": {"coordinates":[137.52795399999999,-33.010925],"type":"Point"}
 }

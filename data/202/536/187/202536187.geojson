@@ -2,13 +2,14 @@
   "id": 202536187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.185104,-38.09243,145.185104,-38.09243",
     "geom:latitude":-38.09243,
     "geom:longitude":145.185104,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 / 49 Oberon Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202536187,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466189862,
     "wof:name":"Frostair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "retail"
     ]
 },
-  "bbox": [145.185104,-38.09243,145.185104,-38.09243],
+  "bbox": [
+    145.185104,
+    -38.09243,
+    145.185104,
+    -38.09243
+],
   "geometry": {"coordinates":[145.185104,-38.09243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236844101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.891235,-34.422932,150.891235,-34.422932",
     "geom:latitude":-34.422932,
     "geom:longitude":150.891235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Market St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236844101,
-    "wof:lastmodified":1449002994,
+    "wof:lastmodified":1466192024,
     "wof:name":"Granato L",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alteration"
     ]
 },
-  "bbox": [150.891235,-34.422932,150.891235,-34.422932],
-  "geometry": {"coordinates":[150.891235,-34.422932],"type":"Point"}
+  "bbox": [
+    150.891235,
+    -34.422932,
+    150.891235,
+    -34.422932
+],
+  "geometry": {"coordinates":[150.89123499999999,-34.422932],"type":"Point"}
 }

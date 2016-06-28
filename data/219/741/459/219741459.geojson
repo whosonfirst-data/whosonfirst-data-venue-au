@@ -2,13 +2,14 @@
   "id": 219741459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.794586,-19.293114,146.794586,-19.293114",
     "geom:latitude":-19.293114,
     "geom:longitude":146.794586,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cross St",
     "sg:city":"Mundingburra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219741459,
-    "wof:lastmodified":1449070568,
+    "wof:lastmodified":1466191349,
     "wof:name":"Tackle World",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tackle"
     ]
 },
-  "bbox": [146.794586,-19.293114,146.794586,-19.293114],
-  "geometry": {"coordinates":[146.794586,-19.293114],"type":"Point"}
+  "bbox": [
+    146.794586,
+    -19.293114,
+    146.794586,
+    -19.293114
+],
+  "geometry": {"coordinates":[146.79458600000001,-19.293114],"type":"Point"}
 }

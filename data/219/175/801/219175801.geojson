@@ -2,13 +2,14 @@
   "id": 219175801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050812,-27.425766,153.050812,-27.425766",
     "geom:latitude":-27.425766,
     "geom:longitude":153.050812,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Sandgate Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219175801,
-    "wof:lastmodified":1449072840,
+    "wof:lastmodified":1466189821,
     "wof:name":"Podesta Victor A",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.050812,-27.425766,153.050812,-27.425766],
-  "geometry": {"coordinates":[153.050812,-27.425766],"type":"Point"}
+  "bbox": [
+    153.050812,
+    -27.425766,
+    153.050812,
+    -27.425766
+],
+  "geometry": {"coordinates":[153.05081200000001,-27.425766],"type":"Point"}
 }

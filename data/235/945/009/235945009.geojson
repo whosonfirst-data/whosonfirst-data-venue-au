@@ -2,13 +2,14 @@
   "id": 235945009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.388947,-32.014095,149.388947,-32.014095",
     "geom:latitude":-32.014095,
     "geom:longitude":149.388947,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Whiteley St",
     "sg:city":"Dunedoo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235945009,
-    "wof:lastmodified":1449008308,
+    "wof:lastmodified":1466187021,
     "wof:name":"Watson Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [149.388947,-32.014095,149.388947,-32.014095],
+  "bbox": [
+    149.388947,
+    -32.014095,
+    149.388947,
+    -32.014095
+],
   "geometry": {"coordinates":[149.388947,-32.014095],"type":"Point"}
 }

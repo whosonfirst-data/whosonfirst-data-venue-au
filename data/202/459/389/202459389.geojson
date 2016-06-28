@@ -2,13 +2,14 @@
   "id": 202459389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.958527,-37.832432,144.958527,-37.832432",
     "geom:latitude":-37.832432,
     "geom:longitude":144.958527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Coventry St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202459389,
-    "wof:lastmodified":1449061144,
+    "wof:lastmodified":1466188921,
     "wof:name":"Mesh Lifestyle",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [144.958527,-37.832432,144.958527,-37.832432],
+  "bbox": [
+    144.958527,
+    -37.832432,
+    144.958527,
+    -37.832432
+],
   "geometry": {"coordinates":[144.958527,-37.832432],"type":"Point"}
 }

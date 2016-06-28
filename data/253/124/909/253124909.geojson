@@ -2,13 +2,14 @@
   "id": 253124909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.851456,-27.305962,151.851456,-27.305962",
     "geom:latitude":-27.305962,
     "geom:longitude":151.851456,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Mocatta St",
     "sg:city":"Goombungee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253124909,
-    "wof:lastmodified":1449065567,
+    "wof:lastmodified":1466189211,
     "wof:name":"Goombungee Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [151.851456,-27.305962,151.851456,-27.305962],
-  "geometry": {"coordinates":[151.851456,-27.305962],"type":"Point"}
+  "bbox": [
+    151.851456,
+    -27.305962,
+    151.851456,
+    -27.305962
+],
+  "geometry": {"coordinates":[151.85145600000001,-27.305962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236291413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.757179,-32.276806,115.757179,-32.276806",
     "geom:latitude":-32.276806,
     "geom:longitude":115.757179,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Dixon Rd",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236291413,
-    "wof:lastmodified":1449002502,
+    "wof:lastmodified":1466190308,
     "wof:name":"BTC Rockingham",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [115.757179,-32.276806,115.757179,-32.276806],
-  "geometry": {"coordinates":[115.757179,-32.276806],"type":"Point"}
+  "bbox": [
+    115.757179,
+    -32.276806,
+    115.757179,
+    -32.276806
+],
+  "geometry": {"coordinates":[115.75717899999999,-32.276806],"type":"Point"}
 }

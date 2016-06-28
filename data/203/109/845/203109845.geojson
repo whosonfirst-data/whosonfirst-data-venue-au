@@ -2,13 +2,14 @@
   "id": 203109845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.746559,-32.548817,115.746559,-32.548817",
     "geom:latitude":-32.548817,
     "geom:longitude":115.746559,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Railton Pl",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203109845,
-    "wof:lastmodified":1449025579,
+    "wof:lastmodified":1466189183,
     "wof:name":"LTD International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [115.746559,-32.548817,115.746559,-32.548817],
+  "bbox": [
+    115.746559,
+    -32.548817,
+    115.746559,
+    -32.548817
+],
   "geometry": {"coordinates":[115.746559,-32.548817],"type":"Point"}
 }

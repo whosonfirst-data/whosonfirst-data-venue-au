@@ -2,13 +2,14 @@
   "id": 236685435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.423019,-31.883678,152.423019,-31.883678",
     "geom:latitude":-31.883678,
     "geom:longitude":152.423019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hargraves Drv",
     "sg:city":"Taree",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236685435,
-    "wof:lastmodified":1449005154,
+    "wof:lastmodified":1466191759,
     "wof:name":"Viison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.423019,-31.883678,152.423019,-31.883678],
-  "geometry": {"coordinates":[152.423019,-31.883678],"type":"Point"}
+  "bbox": [
+    152.423019,
+    -31.883678,
+    152.423019,
+    -31.883678
+],
+  "geometry": {"coordinates":[152.42301900000001,-31.883678],"type":"Point"}
 }

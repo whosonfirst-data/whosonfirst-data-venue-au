@@ -2,13 +2,14 @@
   "id": 253101099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.817551,-37.790375,144.817551,-37.790375",
     "geom:latitude":-37.790375,
     "geom:longitude":144.817551,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Glengala Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253101099,
-    "wof:lastmodified":1449064378,
+    "wof:lastmodified":1466188754,
     "wof:name":"Glengala Road Pharmacy",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.817551,-37.790375,144.817551,-37.790375],
-  "geometry": {"coordinates":[144.817551,-37.790375],"type":"Point"}
+  "bbox": [
+    144.817551,
+    -37.790375,
+    144.817551,
+    -37.790375
+],
+  "geometry": {"coordinates":[144.81755100000001,-37.790375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220142463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354813,-38.138962,144.354813,-38.138962",
     "geom:latitude":-38.138962,
     "geom:longitude":144.354813,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Mercer St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220142463,
-    "wof:lastmodified":1449074679,
+    "wof:lastmodified":1466188437,
     "wof:name":"Coopers Copiers",
     "wof:parent_id":85769301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "typewriter"
     ]
 },
-  "bbox": [144.354813,-38.138962,144.354813,-38.138962],
-  "geometry": {"coordinates":[144.354813,-38.138962],"type":"Point"}
+  "bbox": [
+    144.354813,
+    -38.138962,
+    144.354813,
+    -38.138962
+],
+  "geometry": {"coordinates":[144.35481300000001,-38.138962],"type":"Point"}
 }

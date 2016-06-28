@@ -2,13 +2,14 @@
   "id": 220153949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.345993,-38.161118,144.345993,-38.161118",
     "geom:latitude":-38.161118,
     "geom:longitude":144.345993,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11- 23 Bloomsbury St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220153949,
-    "wof:lastmodified":1449074605,
+    "wof:lastmodified":1466188671,
     "wof:name":"Westar Pty Ltd",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [144.345993,-38.161118,144.345993,-38.161118],
-  "geometry": {"coordinates":[144.345993,-38.161118],"type":"Point"}
+  "bbox": [
+    144.345993,
+    -38.161118,
+    144.345993,
+    -38.161118
+],
+  "geometry": {"coordinates":[144.34599299999999,-38.161118],"type":"Point"}
 }

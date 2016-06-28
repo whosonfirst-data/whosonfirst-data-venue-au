@@ -2,13 +2,14 @@
   "id": 185819263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.380264,-37.656471,145.380264,-37.656471",
     "geom:latitude":-37.656471,
     "geom:longitude":145.380264,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 1 Armstrong Gr",
     "sg:city":"Yarra Glen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185819263,
-    "wof:lastmodified":1449006993,
+    "wof:lastmodified":1466186974,
     "wof:name":"Yarra Glen Stock Feeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stock"
     ]
 },
-  "bbox": [145.380264,-37.656471,145.380264,-37.656471],
-  "geometry": {"coordinates":[145.380264,-37.656471],"type":"Point"}
+  "bbox": [
+    145.380264,
+    -37.656471,
+    145.380264,
+    -37.656471
+],
+  "geometry": {"coordinates":[145.38026400000001,-37.656471],"type":"Point"}
 }

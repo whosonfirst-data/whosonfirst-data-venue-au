@@ -2,13 +2,14 @@
   "id": 203107973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.727112,-32.523411,115.727112,-32.523411",
     "geom:latitude":-32.523411,
     "geom:longitude":115.727112,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mandurah North Dental Clinic 137",
     "sg:city":"Mandurah Tce Mandurah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203107973,
-    "wof:lastmodified":1449024947,
+    "wof:lastmodified":1466189177,
     "wof:name":"Stephens, David Dr",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.727112,-32.523411,115.727112,-32.523411],
-  "geometry": {"coordinates":[115.727112,-32.523411],"type":"Point"}
+  "bbox": [
+    115.727112,
+    -32.523411,
+    115.727112,
+    -32.523411
+],
+  "geometry": {"coordinates":[115.72711200000001,-32.523411],"type":"Point"}
 }

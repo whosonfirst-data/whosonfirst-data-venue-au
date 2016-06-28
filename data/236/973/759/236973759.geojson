@@ -2,13 +2,14 @@
   "id": 236973759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.779007,-34.096443,150.779007,-34.096443",
     "geom:latitude":-34.096443,
     "geom:longitude":150.779007,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1251",
     "sg:city":"Ashfield Private Boxes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236973759,
-    "wof:lastmodified":1449003665,
+    "wof:lastmodified":1466192218,
     "wof:name":"Hammertime Carpentry & Joinery",
     "wof:parent_id":85776943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [150.779007,-34.096443,150.779007,-34.096443],
-  "geometry": {"coordinates":[150.779007,-34.096443],"type":"Point"}
+  "bbox": [
+    150.779007,
+    -34.096443,
+    150.779007,
+    -34.096443
+],
+  "geometry": {"coordinates":[150.77900700000001,-34.096443],"type":"Point"}
 }

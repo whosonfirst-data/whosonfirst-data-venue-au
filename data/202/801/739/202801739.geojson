@@ -2,13 +2,14 @@
   "id": 202801739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.760986,-32.925758,151.760986,-32.925758",
     "geom:latitude":-32.925758,
     "geom:longitude":151.760986,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Hunter St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202801739,
-    "wof:lastmodified":1449062222,
+    "wof:lastmodified":1466190217,
     "wof:name":"Quatros Takeaway",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [151.760986,-32.925758,151.760986,-32.925758],
+  "bbox": [
+    151.760986,
+    -32.925758,
+    151.760986,
+    -32.925758
+],
   "geometry": {"coordinates":[151.760986,-32.925758],"type":"Point"}
 }

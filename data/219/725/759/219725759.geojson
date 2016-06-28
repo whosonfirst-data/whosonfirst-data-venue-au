@@ -2,13 +2,14 @@
   "id": 219725759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.793854,-19.287977,146.793854,-19.287977",
     "geom:latitude":-19.287977,
     "geom:longitude":146.793854,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Chapman St",
     "sg:city":"Mysterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219725759,
-    "wof:lastmodified":1449071256,
+    "wof:lastmodified":1466191209,
     "wof:name":"Colonial Pools",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [146.793854,-19.287977,146.793854,-19.287977],
-  "geometry": {"coordinates":[146.793854,-19.287977],"type":"Point"}
+  "bbox": [
+    146.793854,
+    -19.287977,
+    146.793854,
+    -19.287977
+],
+  "geometry": {"coordinates":[146.79385400000001,-19.287977],"type":"Point"}
 }

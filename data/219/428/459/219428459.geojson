@@ -2,13 +2,14 @@
   "id": 219428459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.566437,-34.879559,138.566437,-34.879559",
     "geom:latitude":-34.879559,
     "geom:longitude":138.566437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Days Rd",
     "sg:city":"Croydon Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219428459,
-    "wof:lastmodified":1449073665,
+    "wof:lastmodified":1466188719,
     "wof:name":"Melino G",
     "wof:parent_id":85776375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [138.566437,-34.879559,138.566437,-34.879559],
-  "geometry": {"coordinates":[138.566437,-34.879559],"type":"Point"}
+  "bbox": [
+    138.566437,
+    -34.879559,
+    138.566437,
+    -34.879559
+],
+  "geometry": {"coordinates":[138.56643700000001,-34.879559],"type":"Point"}
 }

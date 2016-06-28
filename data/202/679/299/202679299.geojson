@@ -2,13 +2,14 @@
   "id": 202679299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.955032,-27.361046,152.955032,-27.361046",
     "geom:latitude":-27.361046,
     "geom:longitude":152.955032,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lamberta Crt",
     "sg:city":"Albany Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202679299,
-    "wof:lastmodified":1449061726,
+    "wof:lastmodified":1466188449,
     "wof:name":"CyberLink Computing Services",
     "wof:parent_id":85771315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [152.955032,-27.361046,152.955032,-27.361046],
-  "geometry": {"coordinates":[152.955032,-27.361046],"type":"Point"}
+  "bbox": [
+    152.955032,
+    -27.361046,
+    152.955032,
+    -27.361046
+],
+  "geometry": {"coordinates":[152.95503199999999,-27.361046],"type":"Point"}
 }

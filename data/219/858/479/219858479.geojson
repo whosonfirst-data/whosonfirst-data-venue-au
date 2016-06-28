@@ -2,13 +2,14 @@
   "id": 219858479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179565,-33.856647,151.179565,-33.856647",
     "geom:latitude":-33.856647,
     "geom:longitude":151.179565,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Darling St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219858479,
-    "wof:lastmodified":1449070738,
+    "wof:lastmodified":1466191566,
     "wof:name":"Sydney Accounting",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditor"
     ]
 },
-  "bbox": [151.179565,-33.856647,151.179565,-33.856647],
+  "bbox": [
+    151.179565,
+    -33.856647,
+    151.179565,
+    -33.856647
+],
   "geometry": {"coordinates":[151.179565,-33.856647],"type":"Point"}
 }

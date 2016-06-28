@@ -2,13 +2,14 @@
   "id": 219365335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.551086,-35.339092,143.551086,-35.339092",
     "geom:latitude":-35.339092,
     "geom:longitude":143.551086,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Stradbroke Ave",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219365335,
-    "wof:lastmodified":1449070955,
+    "wof:lastmodified":1466188056,
     "wof:name":"Glenn Roberts Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.551086,-35.339092,143.551086,-35.339092],
+  "bbox": [
+    143.551086,
+    -35.339092,
+    143.551086,
+    -35.339092
+],
   "geometry": {"coordinates":[143.551086,-35.339092],"type":"Point"}
 }

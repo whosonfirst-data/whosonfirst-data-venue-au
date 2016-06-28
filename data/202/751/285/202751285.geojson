@@ -2,13 +2,14 @@
   "id": 202751285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.925667,-32.035683,115.925667,-32.035683",
     "geom:latitude":-32.035683,
     "geom:longitude":115.925667,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Metcalfe Rd",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202751285,
-    "wof:lastmodified":1449060245,
+    "wof:lastmodified":1466189739,
     "wof:name":"Paradee Hair Studio",
     "wof:parent_id":85778007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [115.925667,-32.035683,115.925667,-32.035683],
+  "bbox": [
+    115.925667,
+    -32.035683,
+    115.925667,
+    -32.035683
+],
   "geometry": {"coordinates":[115.925667,-32.035683],"type":"Point"}
 }

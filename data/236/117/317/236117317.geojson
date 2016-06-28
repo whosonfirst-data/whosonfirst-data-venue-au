@@ -2,13 +2,14 @@
   "id": 236117317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.910187,-37.776009,144.910187,-37.776009",
     "geom:latitude":-37.776009,
     "geom:longitude":144.910187,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Epsom Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236117317,
-    "wof:lastmodified":1449003976,
+    "wof:lastmodified":1466188986,
     "wof:name":"Olive Thistlewaite",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reflexology"
     ]
 },
-  "bbox": [144.910187,-37.776009,144.910187,-37.776009],
-  "geometry": {"coordinates":[144.910187,-37.776009],"type":"Point"}
+  "bbox": [
+    144.910187,
+    -37.776009,
+    144.910187,
+    -37.776009
+],
+  "geometry": {"coordinates":[144.91018700000001,-37.776009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202567997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.449295,-37.655022,144.449295,-37.655022",
     "geom:latitude":-37.655022,
     "geom:longitude":144.449295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Albert St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202567997,
-    "wof:lastmodified":1449062668,
+    "wof:lastmodified":1466187028,
     "wof:name":"Darley Bearing Supplies Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [144.449295,-37.655022,144.449295,-37.655022],
-  "geometry": {"coordinates":[144.449295,-37.655022],"type":"Point"}
+  "bbox": [
+    144.449295,
+    -37.655022,
+    144.449295,
+    -37.655022
+],
+  "geometry": {"coordinates":[144.44929500000001,-37.655022],"type":"Point"}
 }

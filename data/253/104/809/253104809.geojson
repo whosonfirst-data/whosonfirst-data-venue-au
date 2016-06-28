@@ -2,13 +2,14 @@
   "id": 253104809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.840347,-37.751595,144.840347,-37.751595",
     "geom:latitude":-37.751595,
     "geom:longitude":144.840347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Baldwin Ave",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253104809,
-    "wof:lastmodified":1449064049,
+    "wof:lastmodified":1466188832,
     "wof:name":"Mussel Farms Australia",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [144.840347,-37.751595,144.840347,-37.751595],
-  "geometry": {"coordinates":[144.840347,-37.751595],"type":"Point"}
+  "bbox": [
+    144.840347,
+    -37.751595,
+    144.840347,
+    -37.751595
+],
+  "geometry": {"coordinates":[144.84034700000001,-37.751595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236191093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.006302,-30.641497,116.006302,-30.641497",
     "geom:latitude":-30.641497,
     "geom:longitude":116.006302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Roberts St",
     "sg:city":"Moora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236191093,
-    "wof:lastmodified":1449003688,
+    "wof:lastmodified":1466189944,
     "wof:name":"Moora Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [116.006302,-30.641497,116.006302,-30.641497],
-  "geometry": {"coordinates":[116.006302,-30.641497],"type":"Point"}
+  "bbox": [
+    116.006302,
+    -30.641497,
+    116.006302,
+    -30.641497
+],
+  "geometry": {"coordinates":[116.00630200000001,-30.641497],"type":"Point"}
 }

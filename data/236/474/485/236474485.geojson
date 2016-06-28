@@ -2,13 +2,14 @@
   "id": 236474485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.185989,-21.149899,149.185989,-21.149899",
     "geom:latitude":-21.149899,
     "geom:longitude":149.185989,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1/ 47 Sydney St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236474485,
-    "wof:lastmodified":1449001783,
+    "wof:lastmodified":1466191396,
     "wof:name":"Parrotta Engineers Pty Ltd",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [149.185989,-21.149899,149.185989,-21.149899],
-  "geometry": {"coordinates":[149.185989,-21.149899],"type":"Point"}
+  "bbox": [
+    149.185989,
+    -21.149899,
+    149.185989,
+    -21.149899
+],
+  "geometry": {"coordinates":[149.18598900000001,-21.149899],"type":"Point"}
 }

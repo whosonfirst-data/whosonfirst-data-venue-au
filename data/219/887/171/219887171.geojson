@@ -2,13 +2,14 @@
   "id": 219887171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.896561,-34.373775,150.896561,-34.373775",
     "geom:latitude":-34.373775,
     "geom:longitude":150.896561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2/ 183 Princes Hwy",
     "sg:city":"Corrimal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219887171,
-    "wof:lastmodified":1449073236,
+    "wof:lastmodified":1466191764,
     "wof:name":"Dougmal Corrimal Real Estate",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.896561,-34.373775,150.896561,-34.373775],
-  "geometry": {"coordinates":[150.896561,-34.373775],"type":"Point"}
+  "bbox": [
+    150.896561,
+    -34.373775,
+    150.896561,
+    -34.373775
+],
+  "geometry": {"coordinates":[150.89656099999999,-34.373775],"type":"Point"}
 }

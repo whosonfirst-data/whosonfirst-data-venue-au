@@ -2,13 +2,14 @@
   "id": 236359055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.786102,-32.084023,115.786102,-32.084023",
     "geom:latitude":-32.084023,
     "geom:longitude":115.786102,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sawle Rd",
     "sg:city":"Hamilton Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236359055,
-    "wof:lastmodified":1449001639,
+    "wof:lastmodified":1466190946,
     "wof:name":"The Translation Studio",
     "wof:parent_id":85775721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "translation"
     ]
 },
-  "bbox": [115.786102,-32.084023,115.786102,-32.084023],
+  "bbox": [
+    115.786102,
+    -32.084023,
+    115.786102,
+    -32.084023
+],
   "geometry": {"coordinates":[115.786102,-32.084023],"type":"Point"}
 }

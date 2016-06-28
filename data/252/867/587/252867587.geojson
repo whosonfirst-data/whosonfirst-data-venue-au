@@ -2,13 +2,14 @@
   "id": 252867587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.574463,-37.705257,144.574463,-37.705257",
     "geom:latitude":-37.705257,
     "geom:longitude":144.574463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Yuille St",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252867587,
-    "wof:lastmodified":1449005885,
+    "wof:lastmodified":1466188701,
     "wof:name":"Distinctive Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organisation"
     ]
 },
-  "bbox": [144.574463,-37.705257,144.574463,-37.705257],
-  "geometry": {"coordinates":[144.574463,-37.705257],"type":"Point"}
+  "bbox": [
+    144.574463,
+    -37.705257,
+    144.574463,
+    -37.705257
+],
+  "geometry": {"coordinates":[144.57446300000001,-37.705257],"type":"Point"}
 }

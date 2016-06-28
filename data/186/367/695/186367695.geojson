@@ -2,13 +2,14 @@
   "id": 186367695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.128555,-33.844437,151.128555,-33.844437",
     "geom:latitude":-33.844437,
     "geom:longitude":151.128555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Teviot Ave",
     "sg:city":"Abbotsford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186367695,
-    "wof:lastmodified":1449051953,
+    "wof:lastmodified":1466188773,
     "wof:name":"The Outterside Centre",
     "wof:parent_id":85776969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "organiser"
     ]
 },
-  "bbox": [151.128555,-33.844437,151.128555,-33.844437],
-  "geometry": {"coordinates":[151.128555,-33.844437],"type":"Point"}
+  "bbox": [
+    151.128555,
+    -33.844437,
+    151.128555,
+    -33.844437
+],
+  "geometry": {"coordinates":[151.12855500000001,-33.844437],"type":"Point"}
 }

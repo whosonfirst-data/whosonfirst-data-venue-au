@@ -2,13 +2,14 @@
   "id": 219847049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176819,-33.860859,151.176819,-33.860859",
     "geom:latitude":-33.860859,
     "geom:longitude":151.176819,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Mullens St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219847049,
-    "wof:lastmodified":1449071673,
+    "wof:lastmodified":1466191512,
     "wof:name":"Art Of Faith The",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [151.176819,-33.860859,151.176819,-33.860859],
-  "geometry": {"coordinates":[151.176819,-33.860859],"type":"Point"}
+  "bbox": [
+    151.176819,
+    -33.860859,
+    151.176819,
+    -33.860859
+],
+  "geometry": {"coordinates":[151.17681899999999,-33.860859],"type":"Point"}
 }

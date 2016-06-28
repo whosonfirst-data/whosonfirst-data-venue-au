@@ -2,13 +2,14 @@
   "id": 185799377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.545914,-37.663837,145.545914,-37.663837",
     "geom:latitude":-37.663837,
     "geom:longitude":145.545914,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Anderson Rd",
     "sg:city":"Healesville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185799377,
-    "wof:lastmodified":1449008214,
+    "wof:lastmodified":1466189927,
     "wof:name":"Schoffelen W J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [145.545914,-37.663837,145.545914,-37.663837],
-  "geometry": {"coordinates":[145.545914,-37.663837],"type":"Point"}
+  "bbox": [
+    145.545914,
+    -37.663837,
+    145.545914,
+    -37.663837
+],
+  "geometry": {"coordinates":[145.54591400000001,-37.663837],"type":"Point"}
 }

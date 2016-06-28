@@ -2,13 +2,14 @@
   "id": 236925385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.518707,-34.991749,138.518707,-34.991749",
     "geom:latitude":-34.991749,
     "geom:longitude":138.518707,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Scarborough St",
     "sg:city":"Somerton Park",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236925385,
-    "wof:lastmodified":1449001697,
+    "wof:lastmodified":1466192194,
     "wof:name":"Beavis Plumbing Services P/L",
     "wof:parent_id":85777499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [138.518707,-34.991749,138.518707,-34.991749],
-  "geometry": {"coordinates":[138.518707,-34.991749],"type":"Point"}
+  "bbox": [
+    138.518707,
+    -34.991749,
+    138.518707,
+    -34.991749
+],
+  "geometry": {"coordinates":[138.51870700000001,-34.991749],"type":"Point"}
 }

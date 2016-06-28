@@ -2,13 +2,14 @@
   "id": 236387837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.90699,-32.112747,115.90699,-32.112747",
     "geom:latitude":-32.112747,
     "geom:longitude":115.90699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Owsten Crt",
     "sg:city":"Banjup",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236387837,
-    "wof:lastmodified":1449004709,
+    "wof:lastmodified":1466191163,
     "wof:name":"Glass Act",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [115.90699,-32.112747,115.90699,-32.112747],
-  "geometry": {"coordinates":[115.90699,-32.112747],"type":"Point"}
+  "bbox": [
+    115.90699,
+    -32.112747,
+    115.90699,
+    -32.112747
+],
+  "geometry": {"coordinates":[115.90698999999999,-32.112747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219485285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.982346,-37.410568,144.982346,-37.410568",
     "geom:latitude":-37.410568,
     "geom:longitude":144.982346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 548",
     "sg:city":"Wallan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219485285,
-    "wof:lastmodified":1449072543,
+    "wof:lastmodified":1466189241,
     "wof:name":"N.&K. Electrical Contractors Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.982346,-37.410568,144.982346,-37.410568],
-  "geometry": {"coordinates":[144.982346,-37.410568],"type":"Point"}
+  "bbox": [
+    144.982346,
+    -37.410568,
+    144.982346,
+    -37.410568
+],
+  "geometry": {"coordinates":[144.98234600000001,-37.410568],"type":"Point"}
 }

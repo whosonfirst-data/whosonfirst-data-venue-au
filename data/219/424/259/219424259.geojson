@@ -2,13 +2,14 @@
   "id": 219424259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.576996,-34.879601,138.576996,-34.879601",
     "geom:latitude":-34.879601,
     "geom:longitude":138.576996,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 80 Exefer Tce",
     "sg:city":"Dudley Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219424259,
-    "wof:lastmodified":1449073687,
+    "wof:lastmodified":1466188635,
     "wof:name":"Grohe Australia Pty Ltd",
     "wof:parent_id":85779095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tap"
     ]
 },
-  "bbox": [138.576996,-34.879601,138.576996,-34.879601],
-  "geometry": {"coordinates":[138.576996,-34.879601],"type":"Point"}
+  "bbox": [
+    138.576996,
+    -34.879601,
+    138.576996,
+    -34.879601
+],
+  "geometry": {"coordinates":[138.57699600000001,-34.879601],"type":"Point"}
 }

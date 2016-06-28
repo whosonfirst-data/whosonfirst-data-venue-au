@@ -2,13 +2,14 @@
   "id": 186124765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.724716,-31.061453,152.724716,-31.061453",
     "geom:latitude":-31.061453,
     "geom:longitude":152.724716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1454 Gowings Hill Rd",
     "sg:city":"Sherwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186124765,
-    "wof:lastmodified":1449052824,
+    "wof:lastmodified":1466189611,
     "wof:name":"Packwood Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [152.724716,-31.061453,152.724716,-31.061453],
+  "bbox": [
+    152.724716,
+    -31.061453,
+    152.724716,
+    -31.061453
+],
   "geometry": {"coordinates":[152.724716,-31.061453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253324549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.320206,-38.00386,145.320206,-38.00386",
     "geom:latitude":-38.00386,
     "geom:longitude":145.320206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Browtop Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253324549,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466190927,
     "wof:name":"Vision Cleaning Service",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.320206,-38.00386,145.320206,-38.00386],
-  "geometry": {"coordinates":[145.320206,-38.00386],"type":"Point"}
+  "bbox": [
+    145.320206,
+    -38.00386,
+    145.320206,
+    -38.00386
+],
+  "geometry": {"coordinates":[145.32020600000001,-38.00386],"type":"Point"}
 }

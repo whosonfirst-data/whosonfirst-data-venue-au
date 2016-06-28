@@ -2,13 +2,14 @@
   "id": 236837567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.893448,-34.408428,150.893448,-34.408428",
     "geom:latitude":-34.408428,
     "geom:longitude":150.893448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 15 Ralph Black Drv",
     "sg:city":"North Wollongong",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236837567,
-    "wof:lastmodified":1449002062,
+    "wof:lastmodified":1466192020,
     "wof:name":"Southern Upholstery",
     "wof:parent_id":85776197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [150.893448,-34.408428,150.893448,-34.408428],
-  "geometry": {"coordinates":[150.893448,-34.408428],"type":"Point"}
+  "bbox": [
+    150.893448,
+    -34.408428,
+    150.893448,
+    -34.408428
+],
+  "geometry": {"coordinates":[150.89344800000001,-34.408428],"type":"Point"}
 }

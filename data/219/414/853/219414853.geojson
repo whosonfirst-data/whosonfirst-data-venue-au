@@ -2,13 +2,14 @@
   "id": 219414853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.836014,-33.735096,150.836014,-33.735096",
     "geom:latitude":-33.735096,
     "geom:longitude":150.836014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Buckwell Drv",
     "sg:city":"Hassall Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219414853,
-    "wof:lastmodified":1449072040,
+    "wof:lastmodified":1466188517,
     "wof:name":"Hassall Grove Bakery",
     "wof:parent_id":85777035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [150.836014,-33.735096,150.836014,-33.735096],
-  "geometry": {"coordinates":[150.836014,-33.735096],"type":"Point"}
+  "bbox": [
+    150.836014,
+    -33.735096,
+    150.836014,
+    -33.735096
+],
+  "geometry": {"coordinates":[150.83601400000001,-33.735096],"type":"Point"}
 }

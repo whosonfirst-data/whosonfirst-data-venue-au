@@ -2,13 +2,14 @@
   "id": 186501851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.746567,-19.300808,146.746567,-19.300808",
     "geom:latitude":-19.300808,
     "geom:longitude":146.746567,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Gerona Ave",
     "sg:city":"Heatley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186501851,
-    "wof:lastmodified":1449053050,
+    "wof:lastmodified":1466190532,
     "wof:name":"Electrical, Fire & Security",
     "wof:parent_id":85779483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.746567,-19.300808,146.746567,-19.300808],
+  "bbox": [
+    146.746567,
+    -19.300808,
+    146.746567,
+    -19.300808
+],
   "geometry": {"coordinates":[146.746567,-19.300808],"type":"Point"}
 }

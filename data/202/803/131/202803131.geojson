@@ -2,13 +2,14 @@
   "id": 202803131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.762253,-32.926502,151.762253,-32.926502",
     "geom:latitude":-32.926502,
     "geom:longitude":151.762253,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"689- 691 Hunter St",
     "sg:city":"Newcastle West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202803131,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1466190327,
     "wof:name":"Foleys Pianos",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organ"
     ]
 },
-  "bbox": [151.762253,-32.926502,151.762253,-32.926502],
-  "geometry": {"coordinates":[151.762253,-32.926502],"type":"Point"}
+  "bbox": [
+    151.762253,
+    -32.926502,
+    151.762253,
+    -32.926502
+],
+  "geometry": {"coordinates":[151.76225299999999,-32.926502],"type":"Point"}
 }

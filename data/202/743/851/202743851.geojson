@@ -2,13 +2,14 @@
   "id": 202743851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.857422,-32.06694,115.857422,-32.06694",
     "geom:latitude":-32.06694,
     "geom:longitude":115.857422,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Curran Pl",
     "sg:city":"Leeming",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202743851,
-    "wof:lastmodified":1449062628,
+    "wof:lastmodified":1466189598,
     "wof:name":"Lincoln Town Cars",
     "wof:parent_id":85775633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "limousine"
     ]
 },
-  "bbox": [115.857422,-32.06694,115.857422,-32.06694],
+  "bbox": [
+    115.857422,
+    -32.06694,
+    115.857422,
+    -32.06694
+],
   "geometry": {"coordinates":[115.857422,-32.06694],"type":"Point"}
 }

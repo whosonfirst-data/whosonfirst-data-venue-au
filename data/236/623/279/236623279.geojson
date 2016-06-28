@@ -2,13 +2,14 @@
   "id": 236623279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.14212,-33.956638,151.14212,-33.956638",
     "geom:latitude":-33.956638,
     "geom:longitude":151.14212,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 13 9-11 Aboukir Street",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236623279,
-    "wof:lastmodified":1449004068,
+    "wof:lastmodified":1466191688,
     "wof:name":"Perfume Station",
     "wof:parent_id":85771209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "perfume"
     ]
 },
-  "bbox": [151.14212,-33.956638,151.14212,-33.956638],
-  "geometry": {"coordinates":[151.14212,-33.956638],"type":"Point"}
+  "bbox": [
+    151.14212,
+    -33.956638,
+    151.14212,
+    -33.956638
+],
+  "geometry": {"coordinates":[151.14212000000001,-33.956638],"type":"Point"}
 }

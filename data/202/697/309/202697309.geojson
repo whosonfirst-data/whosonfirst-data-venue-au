@@ -2,13 +2,14 @@
   "id": 202697309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.03804,-27.359358,153.03804,-27.359358",
     "geom:latitude":-27.359358,
     "geom:longitude":153.03804,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Handford Rd",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202697309,
-    "wof:lastmodified":1449061691,
+    "wof:lastmodified":1466188774,
     "wof:name":"Bead Sisters",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [153.03804,-27.359358,153.03804,-27.359358],
+  "bbox": [
+    153.03804,
+    -27.359358,
+    153.03804,
+    -27.359358
+],
   "geometry": {"coordinates":[153.03804,-27.359358],"type":"Point"}
 }

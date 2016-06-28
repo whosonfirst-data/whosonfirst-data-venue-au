@@ -2,13 +2,14 @@
   "id": 202474817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.951523,-37.836304,144.951523,-37.836304",
     "geom:latitude":-37.836304,
     "geom:longitude":144.951523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Ground Floor Gym 80 Dorcas St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202474817,
-    "wof:lastmodified":1449060203,
+    "wof:lastmodified":1466189163,
     "wof:name":"Align Fitness Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.951523,-37.836304,144.951523,-37.836304],
-  "geometry": {"coordinates":[144.951523,-37.836304],"type":"Point"}
+  "bbox": [
+    144.951523,
+    -37.836304,
+    144.951523,
+    -37.836304
+],
+  "geometry": {"coordinates":[144.95152300000001,-37.836304],"type":"Point"}
 }

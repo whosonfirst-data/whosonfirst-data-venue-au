@@ -2,13 +2,14 @@
   "id": 236522197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.166199,-32.57169,151.166199,-32.57169",
     "geom:latitude":-32.57169,
     "geom:longitude":151.166199,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Frederick & Dudding Sts",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236522197,
-    "wof:lastmodified":1449003180,
+    "wof:lastmodified":1466191364,
     "wof:name":"Mini Storage Singleton",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehousing"
     ]
 },
-  "bbox": [151.166199,-32.57169,151.166199,-32.57169],
-  "geometry": {"coordinates":[151.166199,-32.57169],"type":"Point"}
+  "bbox": [
+    151.166199,
+    -32.57169,
+    151.166199,
+    -32.57169
+],
+  "geometry": {"coordinates":[151.16619900000001,-32.57169],"type":"Point"}
 }

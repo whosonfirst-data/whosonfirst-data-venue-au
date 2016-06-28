@@ -2,13 +2,14 @@
   "id": 202424653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.959625,-37.848518,144.959625,-37.848518",
     "geom:latitude":-37.848518,
     "geom:longitude":144.959625,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Richardson St",
     "sg:city":"Middle Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202424653,
-    "wof:lastmodified":1449062487,
+    "wof:lastmodified":1466188233,
     "wof:name":"Yoga & Tai Chi Centre",
     "wof:parent_id":85780479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "martial art"
     ]
 },
-  "bbox": [144.959625,-37.848518,144.959625,-37.848518],
-  "geometry": {"coordinates":[144.959625,-37.848518],"type":"Point"}
+  "bbox": [
+    144.959625,
+    -37.848518,
+    144.959625,
+    -37.848518
+],
+  "geometry": {"coordinates":[144.95962499999999,-37.848518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253088831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.815323,-37.745914,144.815323,-37.745914",
     "geom:latitude":-37.745914,
     "geom:longitude":144.815323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Main Rd East",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253088831,
-    "wof:lastmodified":1449065101,
+    "wof:lastmodified":1466188518,
     "wof:name":"T & J Main Road Motors",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [144.815323,-37.745914,144.815323,-37.745914],
-  "geometry": {"coordinates":[144.815323,-37.745914],"type":"Point"}
+  "bbox": [
+    144.815323,
+    -37.745914,
+    144.815323,
+    -37.745914
+],
+  "geometry": {"coordinates":[144.81532300000001,-37.745914],"type":"Point"}
 }

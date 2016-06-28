@@ -2,13 +2,14 @@
   "id": 202787303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.77449,-32.926601,151.77449,-32.926601",
     "geom:latitude":-32.926601,
     "geom:longitude":151.77449,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Hunter St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202787303,
-    "wof:lastmodified":1449061273,
+    "wof:lastmodified":1466190071,
     "wof:name":"Newcastle NIB Dental Care Centre",
     "wof:parent_id":85776179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.77449,-32.926601,151.77449,-32.926601],
-  "geometry": {"coordinates":[151.77449,-32.926601],"type":"Point"}
+  "bbox": [
+    151.77449,
+    -32.926601,
+    151.77449,
+    -32.926601
+],
+  "geometry": {"coordinates":[151.77448999999999,-32.926601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186404819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.759506,-19.281277,146.759506,-19.281277",
     "geom:latitude":-19.281277,
     "geom:longitude":146.759506,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 9, K-Mart Plaza, Nathan St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186404819,
-    "wof:lastmodified":1449052147,
+    "wof:lastmodified":1466189387,
     "wof:name":"Bagstop Stores",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "travel"
     ]
 },
-  "bbox": [146.759506,-19.281277,146.759506,-19.281277],
-  "geometry": {"coordinates":[146.759506,-19.281277],"type":"Point"}
+  "bbox": [
+    146.759506,
+    -19.281277,
+    146.759506,
+    -19.281277
+],
+  "geometry": {"coordinates":[146.75950599999999,-19.281277],"type":"Point"}
 }

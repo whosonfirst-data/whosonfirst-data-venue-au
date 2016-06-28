@@ -2,13 +2,14 @@
   "id": 186290743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.900513,-31.434967,152.900513,-31.434967",
     "geom:latitude":-31.434967,
     "geom:longitude":152.900513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Gordon St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186290743,
-    "wof:lastmodified":1449051526,
+    "wof:lastmodified":1466187702,
     "wof:name":"Cleavers Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brake"
     ]
 },
-  "bbox": [152.900513,-31.434967,152.900513,-31.434967],
-  "geometry": {"coordinates":[152.900513,-31.434967],"type":"Point"}
+  "bbox": [
+    152.900513,
+    -31.434967,
+    152.900513,
+    -31.434967
+],
+  "geometry": {"coordinates":[152.90051299999999,-31.434967],"type":"Point"}
 }

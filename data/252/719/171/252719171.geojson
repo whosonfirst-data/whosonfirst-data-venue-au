@@ -2,13 +2,14 @@
   "id": 252719171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.678131,-33.361126,115.678131,-33.361126",
     "geom:latitude":-33.361126,
     "geom:longitude":115.678131,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"47 McCombe St",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252719171,
-    "wof:lastmodified":1449005544,
+    "wof:lastmodified":1466187057,
     "wof:name":"Hydraulink Southwest",
     "wof:parent_id":85779615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [115.678131,-33.361126,115.678131,-33.361126],
-  "geometry": {"coordinates":[115.678131,-33.361126],"type":"Point"}
+  "bbox": [
+    115.678131,
+    -33.361126,
+    115.678131,
+    -33.361126
+],
+  "geometry": {"coordinates":[115.67813099999999,-33.361126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236463747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.119522,-21.165497,149.119522,-21.165497",
     "geom:latitude":-21.165497,
     "geom:longitude":149.119522,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Peak Downs Hwy",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236463747,
-    "wof:lastmodified":1449004039,
+    "wof:lastmodified":1466191372,
     "wof:name":"Trailers 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trailer"
     ]
 },
-  "bbox": [149.119522,-21.165497,149.119522,-21.165497],
-  "geometry": {"coordinates":[149.119522,-21.165497],"type":"Point"}
+  "bbox": [
+    149.119522,
+    -21.165497,
+    149.119522,
+    -21.165497
+],
+  "geometry": {"coordinates":[149.11952199999999,-21.165497],"type":"Point"}
 }

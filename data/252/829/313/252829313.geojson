@@ -2,13 +2,14 @@
   "id": 252829313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.575562,-32.587852,149.575562,-32.587852",
     "geom:latitude":-32.587852,
     "geom:longitude":149.575562,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U1/ 71 Market St",
     "sg:city":"Mudgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252829313,
-    "wof:lastmodified":1449006433,
+    "wof:lastmodified":1466188380,
     "wof:name":"Fine Foods on Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [149.575562,-32.587852,149.575562,-32.587852],
-  "geometry": {"coordinates":[149.575562,-32.587852],"type":"Point"}
+  "bbox": [
+    149.575562,
+    -32.587852,
+    149.575562,
+    -32.587852
+],
+  "geometry": {"coordinates":[149.57556199999999,-32.587852],"type":"Point"}
 }

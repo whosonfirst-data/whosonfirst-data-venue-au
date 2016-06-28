@@ -2,13 +2,14 @@
   "id": 220092771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.660904,-38.26804,144.660904,-38.26804",
     "geom:latitude":-38.26804,
     "geom:longitude":144.660904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Hesse St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220092771,
-    "wof:lastmodified":1449074698,
+    "wof:lastmodified":1466187892,
     "wof:name":"Queenscliff Fruit Supply",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fruiterer"
     ]
 },
-  "bbox": [144.660904,-38.26804,144.660904,-38.26804],
-  "geometry": {"coordinates":[144.660904,-38.26804],"type":"Point"}
+  "bbox": [
+    144.660904,
+    -38.26804,
+    144.660904,
+    -38.26804
+],
+  "geometry": {"coordinates":[144.66090399999999,-38.26804],"type":"Point"}
 }

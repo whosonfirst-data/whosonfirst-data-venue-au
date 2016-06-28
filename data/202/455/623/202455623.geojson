@@ -2,13 +2,14 @@
   "id": 202455623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.9505,-37.830265,144.9505,-37.830265",
     "geom:latitude":-37.830265,
     "geom:longitude":144.9505,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"50-52 Gladstone St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202455623,
-    "wof:lastmodified":1449062259,
+    "wof:lastmodified":1466188880,
     "wof:name":"Lotus Music (Aust) Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [144.9505,-37.830265,144.9505,-37.830265],
-  "geometry": {"coordinates":[144.9505,-37.830265],"type":"Point"}
+  "bbox": [
+    144.9505,
+    -37.830265,
+    144.9505,
+    -37.830265
+],
+  "geometry": {"coordinates":[144.95050000000001,-37.830265],"type":"Point"}
 }

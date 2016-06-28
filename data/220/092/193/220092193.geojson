@@ -2,13 +2,14 @@
   "id": 220092193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.659668,-38.269711,144.659668,-38.269711",
     "geom:latitude":-38.269711,
     "geom:longitude":144.659668,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Hesse St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220092193,
-    "wof:lastmodified":1449074697,
+    "wof:lastmodified":1466187881,
     "wof:name":"Queenscliff Seaside Cottages",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.659668,-38.269711,144.659668,-38.269711],
-  "geometry": {"coordinates":[144.659668,-38.269711],"type":"Point"}
+  "bbox": [
+    144.659668,
+    -38.269711,
+    144.659668,
+    -38.269711
+],
+  "geometry": {"coordinates":[144.65966800000001,-38.269711],"type":"Point"}
 }

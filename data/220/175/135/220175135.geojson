@@ -2,13 +2,14 @@
   "id": 220175135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.360687,-38.147072,144.360687,-38.147072",
     "geom:latitude":-38.147072,
     "geom:longitude":144.360687,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220175135,
-    "wof:lastmodified":1449074611,
+    "wof:lastmodified":1466189093,
     "wof:name":"Town & Country The Restaurant",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "organiser"
     ]
 },
-  "bbox": [144.360687,-38.147072,144.360687,-38.147072],
-  "geometry": {"coordinates":[144.360687,-38.147072],"type":"Point"}
+  "bbox": [
+    144.360687,
+    -38.147072,
+    144.360687,
+    -38.147072
+],
+  "geometry": {"coordinates":[144.36068700000001,-38.147072],"type":"Point"}
 }

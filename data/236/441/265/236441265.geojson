@@ -2,13 +2,14 @@
   "id": 236441265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.189606,-21.14073,149.189606,-21.14073",
     "geom:latitude":-21.14073,
     "geom:longitude":149.189606,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Carlyle St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236441265,
-    "wof:lastmodified":1449001866,
+    "wof:lastmodified":1466191205,
     "wof:name":"CQUIP",
     "wof:parent_id":85770779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [149.189606,-21.14073,149.189606,-21.14073],
+  "bbox": [
+    149.189606,
+    -21.14073,
+    149.189606,
+    -21.14073
+],
   "geometry": {"coordinates":[149.189606,-21.14073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186337807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.301819,-33.695698,151.301819,-33.695698",
     "geom:latitude":-33.695698,
     "geom:longitude":151.301819,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1469 Pittwater Rd",
     "sg:city":"North Narrabeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186337807,
-    "wof:lastmodified":1449051640,
+    "wof:lastmodified":1466188226,
     "wof:name":"Narrabeen Bait & Tackle",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bait"
     ]
 },
-  "bbox": [151.301819,-33.695698,151.301819,-33.695698],
-  "geometry": {"coordinates":[151.301819,-33.695698],"type":"Point"}
+  "bbox": [
+    151.301819,
+    -33.695698,
+    151.301819,
+    -33.695698
+],
+  "geometry": {"coordinates":[151.30181899999999,-33.695698],"type":"Point"}
 }

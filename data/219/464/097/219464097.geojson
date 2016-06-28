@@ -2,13 +2,14 @@
   "id": 219464097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.087509,-37.654743,145.087509,-37.654743",
     "geom:latitude":-37.654743,
     "geom:longitude":145.087509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Ronald Ave",
     "sg:city":"Morang South",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219464097,
-    "wof:lastmodified":1449071354,
+    "wof:lastmodified":1466189061,
     "wof:name":"Hurstbridge Plumbing Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.087509,-37.654743,145.087509,-37.654743],
-  "geometry": {"coordinates":[145.087509,-37.654743],"type":"Point"}
+  "bbox": [
+    145.087509,
+    -37.654743,
+    145.087509,
+    -37.654743
+],
+  "geometry": {"coordinates":[145.08750900000001,-37.654743],"type":"Point"}
 }

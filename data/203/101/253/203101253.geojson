@@ -2,13 +2,14 @@
   "id": 203101253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.721413,-32.531708,115.721413,-32.531708",
     "geom:latitude":-32.531708,
     "geom:longitude":115.721413,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 221",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203101253,
-    "wof:lastmodified":1449025944,
+    "wof:lastmodified":1466189059,
     "wof:name":"Port Bouvard Finance",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [115.721413,-32.531708,115.721413,-32.531708],
+  "bbox": [
+    115.721413,
+    -32.531708,
+    115.721413,
+    -32.531708
+],
   "geometry": {"coordinates":[115.721413,-32.531708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253061105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.747284,-37.745491,144.747284,-37.745491",
     "geom:latitude":-37.745491,
     "geom:longitude":144.747284,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Hugell Drv",
     "sg:city":"Burnside",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253061105,
-    "wof:lastmodified":1449064963,
+    "wof:lastmodified":1466188078,
     "wof:name":"Cool Running Refrigeration & Airconditioning",
     "wof:parent_id":85776613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retail"
     ]
 },
-  "bbox": [144.747284,-37.745491,144.747284,-37.745491],
-  "geometry": {"coordinates":[144.747284,-37.745491],"type":"Point"}
+  "bbox": [
+    144.747284,
+    -37.745491,
+    144.747284,
+    -37.745491
+],
+  "geometry": {"coordinates":[144.74728400000001,-37.745491],"type":"Point"}
 }

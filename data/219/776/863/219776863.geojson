@@ -2,13 +2,14 @@
   "id": 219776863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160522,-33.924778,151.160522,-33.924778",
     "geom:latitude":-33.924778,
     "geom:longitude":151.160522,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"743 Princes Hwy",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219776863,
-    "wof:lastmodified":1449071167,
+    "wof:lastmodified":1466191317,
     "wof:name":"Brass Plus",
     "wof:parent_id":85770407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [151.160522,-33.924778,151.160522,-33.924778],
-  "geometry": {"coordinates":[151.160522,-33.924778],"type":"Point"}
+  "bbox": [
+    151.160522,
+    -33.924778,
+    151.160522,
+    -33.924778
+],
+  "geometry": {"coordinates":[151.16052199999999,-33.924778],"type":"Point"}
 }

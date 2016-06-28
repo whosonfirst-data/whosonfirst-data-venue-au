@@ -2,13 +2,14 @@
   "id": 202810611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.715363,-32.920406,151.715363,-32.920406",
     "geom:latitude":-32.920406,
     "geom:longitude":151.715363,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Hobart & Greta Rds",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202810611,
-    "wof:lastmodified":1449060859,
+    "wof:lastmodified":1466190365,
     "wof:name":"Computer Pit Stop",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [151.715363,-32.920406,151.715363,-32.920406],
+  "bbox": [
+    151.715363,
+    -32.920406,
+    151.715363,
+    -32.920406
+],
   "geometry": {"coordinates":[151.715363,-32.920406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186348673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.296295,-33.716694,151.296295,-33.716694",
     "geom:latitude":-33.716694,
     "geom:longitude":151.296295,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Narrabeen St",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186348673,
-    "wof:lastmodified":1449050393,
+    "wof:lastmodified":1466188428,
     "wof:name":"Narrabeen Boatshed",
     "wof:parent_id":85769849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drive"
     ]
 },
-  "bbox": [151.296295,-33.716694,151.296295,-33.716694],
-  "geometry": {"coordinates":[151.296295,-33.716694],"type":"Point"}
+  "bbox": [
+    151.296295,
+    -33.716694,
+    151.296295,
+    -33.716694
+],
+  "geometry": {"coordinates":[151.29629499999999,-33.716694],"type":"Point"}
 }

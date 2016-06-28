@@ -2,13 +2,14 @@
   "id": 169819903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.861252,-31.981976,115.861252,-31.981976",
     "geom:latitude":-31.981976,
     "geom:longitude":115.861252,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3, 16 Strickland St",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169819903,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466189029,
     "wof:name":"Groupware Systems Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "system"
     ]
 },
-  "bbox": [115.861252,-31.981976,115.861252,-31.981976],
-  "geometry": {"coordinates":[115.861252,-31.981976],"type":"Point"}
+  "bbox": [
+    115.861252,
+    -31.981976,
+    115.861252,
+    -31.981976
+],
+  "geometry": {"coordinates":[115.86125199999999,-31.981976],"type":"Point"}
 }

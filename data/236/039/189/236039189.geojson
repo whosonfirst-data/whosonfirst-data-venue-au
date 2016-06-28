@@ -2,13 +2,14 @@
   "id": 236039189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.791046,-37.716671,144.791046,-37.716671",
     "geom:latitude":-37.716671,
     "geom:longitude":144.791046,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Wimmera Crs",
     "sg:city":"Keilor Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236039189,
-    "wof:lastmodified":1449004753,
+    "wof:lastmodified":1466187397,
     "wof:name":"Animal Travel",
     "wof:parent_id":85776009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [144.791046,-37.716671,144.791046,-37.716671],
-  "geometry": {"coordinates":[144.791046,-37.716671],"type":"Point"}
+  "bbox": [
+    144.791046,
+    -37.716671,
+    144.791046,
+    -37.716671
+],
+  "geometry": {"coordinates":[144.79104599999999,-37.716671],"type":"Point"}
 }

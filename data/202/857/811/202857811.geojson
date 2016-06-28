@@ -2,13 +2,14 @@
   "id": 202857811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.96019,-36.727226,146.96019,-36.727226",
     "geom:latitude":-36.727226,
     "geom:longitude":146.96019,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Gavan St",
     "sg:city":"Bright",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202857811,
-    "wof:lastmodified":1449061736,
+    "wof:lastmodified":1466190520,
     "wof:name":"Walshy's Parcel & Delivery Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [146.96019,-36.727226,146.96019,-36.727226],
-  "geometry": {"coordinates":[146.96019,-36.727226],"type":"Point"}
+  "bbox": [
+    146.96019,
+    -36.727226,
+    146.96019,
+    -36.727226
+],
+  "geometry": {"coordinates":[146.96019000000001,-36.727226],"type":"Point"}
 }

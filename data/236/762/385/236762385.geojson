@@ -2,13 +2,14 @@
   "id": 236762385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051117,-27.130739,153.051117,-27.130739",
     "geom:latitude":-27.130739,
     "geom:longitude":153.051117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Main Rd",
     "sg:city":"Beachmere",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236762385,
-    "wof:lastmodified":1449004079,
+    "wof:lastmodified":1466191910,
     "wof:name":"Beachmere Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [153.051117,-27.130739,153.051117,-27.130739],
+  "bbox": [
+    153.051117,
+    -27.130739,
+    153.051117,
+    -27.130739
+],
   "geometry": {"coordinates":[153.051117,-27.130739],"type":"Point"}
 }

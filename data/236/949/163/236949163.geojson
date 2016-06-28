@@ -2,13 +2,14 @@
   "id": 236949163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.591797,-34.981812,138.591797,-34.981812",
     "geom:latitude":-34.981812,
     "geom:longitude":138.591797,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 588 Goodwood Rd",
     "sg:city":"Daw Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236949163,
-    "wof:lastmodified":1449003744,
+    "wof:lastmodified":1466192046,
     "wof:name":"DZ Australia",
     "wof:parent_id":85775943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "uniform"
     ]
 },
-  "bbox": [138.591797,-34.981812,138.591797,-34.981812],
-  "geometry": {"coordinates":[138.591797,-34.981812],"type":"Point"}
+  "bbox": [
+    138.591797,
+    -34.981812,
+    138.591797,
+    -34.981812
+],
+  "geometry": {"coordinates":[138.59179700000001,-34.981812],"type":"Point"}
 }

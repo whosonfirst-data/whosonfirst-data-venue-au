@@ -2,13 +2,14 @@
   "id": 236074989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.75853,-37.686192,144.75853,-37.686192",
     "geom:latitude":-37.686192,
     "geom:longitude":144.75853,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Penzance Pl",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236074989,
-    "wof:lastmodified":1449003434,
+    "wof:lastmodified":1466188123,
     "wof:name":"Spot On Cleaning Services",
     "wof:parent_id":85771095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.75853,-37.686192,144.75853,-37.686192],
-  "geometry": {"coordinates":[144.75853,-37.686192],"type":"Point"}
+  "bbox": [
+    144.75853,
+    -37.686192,
+    144.75853,
+    -37.686192
+],
+  "geometry": {"coordinates":[144.75853000000001,-37.686192],"type":"Point"}
 }

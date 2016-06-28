@@ -2,13 +2,14 @@
   "id": 202930135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.123886,-30.287825,153.123886,-30.287825",
     "geom:latitude":-30.287825,
     "geom:longitude":153.123886,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Rose Ave",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202930135,
-    "wof:lastmodified":1449060921,
+    "wof:lastmodified":1466190878,
     "wof:name":"D.C. Lace & Things",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lace"
     ]
 },
-  "bbox": [153.123886,-30.287825,153.123886,-30.287825],
+  "bbox": [
+    153.123886,
+    -30.287825,
+    153.123886,
+    -30.287825
+],
   "geometry": {"coordinates":[153.123886,-30.287825],"type":"Point"}
 }

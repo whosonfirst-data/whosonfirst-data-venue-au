@@ -2,13 +2,14 @@
   "id": 202519411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.170074,-38.099033,145.170074,-38.099033",
     "geom:latitude":-38.099033,
     "geom:longitude":145.170074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sonia St St",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202519411,
-    "wof:lastmodified":1449062471,
+    "wof:lastmodified":1466189743,
     "wof:name":"Wolters Steel, Mesh & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfrs"
     ]
 },
-  "bbox": [145.170074,-38.099033,145.170074,-38.099033],
+  "bbox": [
+    145.170074,
+    -38.099033,
+    145.170074,
+    -38.099033
+],
   "geometry": {"coordinates":[145.170074,-38.099033],"type":"Point"}
 }

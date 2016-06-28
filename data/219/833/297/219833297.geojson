@@ -2,13 +2,14 @@
   "id": 219833297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.813622,-31.974249,115.813622,-31.974249",
     "geom:latitude":-31.974249,
     "geom:longitude":115.813622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"U3/ 204 Hampden Rd",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219833297,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1466191462,
     "wof:name":"Frogs Down Under",
     "wof:parent_id":85778017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "attractions"
     ]
 },
-  "bbox": [115.813622,-31.974249,115.813622,-31.974249],
+  "bbox": [
+    115.813622,
+    -31.974249,
+    115.813622,
+    -31.974249
+],
   "geometry": {"coordinates":[115.813622,-31.974249],"type":"Point"}
 }

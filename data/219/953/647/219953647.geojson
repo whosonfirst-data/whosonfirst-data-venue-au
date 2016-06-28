@@ -2,13 +2,14 @@
   "id": 219953647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.751053,-37.817024,140.751053,-37.817024",
     "geom:latitude":-37.817024,
     "geom:longitude":140.751053,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Graham Rd",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219953647,
-    "wof:lastmodified":1449072824,
+    "wof:lastmodified":1466191814,
     "wof:name":"Simon's Industrial Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [140.751053,-37.817024,140.751053,-37.817024],
-  "geometry": {"coordinates":[140.751053,-37.817024],"type":"Point"}
+  "bbox": [
+    140.751053,
+    -37.817024,
+    140.751053,
+    -37.817024
+],
+  "geometry": {"coordinates":[140.75105300000001,-37.817024],"type":"Point"}
 }

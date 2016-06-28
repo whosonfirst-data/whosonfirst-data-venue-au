@@ -2,13 +2,14 @@
   "id": 219463193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.036346,-37.458916,145.036346,-37.458916",
     "geom:latitude":-37.458916,
     "geom:longitude":145.036346,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Macgregor Rd",
     "sg:city":"Beveridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219463193,
-    "wof:lastmodified":1449072842,
+    "wof:lastmodified":1466189047,
     "wof:name":"Youngman Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.036346,-37.458916,145.036346,-37.458916],
-  "geometry": {"coordinates":[145.036346,-37.458916],"type":"Point"}
+  "bbox": [
+    145.036346,
+    -37.458916,
+    145.036346,
+    -37.458916
+],
+  "geometry": {"coordinates":[145.03634600000001,-37.458916],"type":"Point"}
 }

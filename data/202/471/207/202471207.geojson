@@ -2,13 +2,14 @@
   "id": 202471207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.966125,-37.832512,144.966125,-37.832512",
     "geom:latitude":-37.832512,
     "geom:longitude":144.966125,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Banks St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202471207,
-    "wof:lastmodified":1449061134,
+    "wof:lastmodified":1466189089,
     "wof:name":"Wardle John Pty Ltd",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.966125,-37.832512,144.966125,-37.832512],
-  "geometry": {"coordinates":[144.966125,-37.832512],"type":"Point"}
+  "bbox": [
+    144.966125,
+    -37.832512,
+    144.966125,
+    -37.832512
+],
+  "geometry": {"coordinates":[144.96612500000001,-37.832512],"type":"Point"}
 }

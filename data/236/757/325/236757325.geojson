@@ -2,13 +2,14 @@
   "id": 236757325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.990677,-27.058821,152.990677,-27.058821",
     "geom:latitude":-27.058821,
     "geom:longitude":152.990677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Cockatoo Crt",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236757325,
-    "wof:lastmodified":1449003525,
+    "wof:lastmodified":1466191992,
     "wof:name":"Hibiscus World",
     "wof:parent_id":85770743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [152.990677,-27.058821,152.990677,-27.058821],
-  "geometry": {"coordinates":[152.990677,-27.058821],"type":"Point"}
+  "bbox": [
+    152.990677,
+    -27.058821,
+    152.990677,
+    -27.058821
+],
+  "geometry": {"coordinates":[152.99067700000001,-27.058821],"type":"Point"}
 }

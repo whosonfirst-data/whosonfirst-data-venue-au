@@ -2,13 +2,14 @@
   "id": 186453757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.184341,-33.901581,151.184341,-33.901581",
     "geom:latitude":-33.901581,
     "geom:longitude":151.184341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 George St",
     "sg:city":"Erskineville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186453757,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466190189,
     "wof:name":"Bodyfit",
     "wof:parent_id":85774541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [151.184341,-33.901581,151.184341,-33.901581],
-  "geometry": {"coordinates":[151.184341,-33.901581],"type":"Point"}
+  "bbox": [
+    151.184341,
+    -33.901581,
+    151.184341,
+    -33.901581
+],
+  "geometry": {"coordinates":[151.18434099999999,-33.901581],"type":"Point"}
 }

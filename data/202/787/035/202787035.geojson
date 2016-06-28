@@ -2,13 +2,14 @@
   "id": 202787035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.762238,-32.927395,151.762238,-32.927395",
     "geom:latitude":-32.927395,
     "geom:longitude":151.762238,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"468 King St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202787035,
-    "wof:lastmodified":1449061279,
+    "wof:lastmodified":1466190066,
     "wof:name":"Zenith Personal Defence",
     "wof:parent_id":85774773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ground"
     ]
 },
-  "bbox": [151.762238,-32.927395,151.762238,-32.927395],
+  "bbox": [
+    151.762238,
+    -32.927395,
+    151.762238,
+    -32.927395
+],
   "geometry": {"coordinates":[151.762238,-32.927395],"type":"Point"}
 }

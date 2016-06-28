@@ -2,13 +2,14 @@
   "id": 203000327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.493286,-20.725597,139.493286,-20.725597",
     "geom:latitude":-20.725597,
     "geom:longitude":139.493286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Camooweal St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203000327,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466186950,
     "wof:name":"Bell & Moir Corporation Pty Ltd",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "generator"
     ]
 },
-  "bbox": [139.493286,-20.725597,139.493286,-20.725597],
-  "geometry": {"coordinates":[139.493286,-20.725597],"type":"Point"}
+  "bbox": [
+    139.493286,
+    -20.725597,
+    139.493286,
+    -20.725597
+],
+  "geometry": {"coordinates":[139.49328600000001,-20.725597],"type":"Point"}
 }

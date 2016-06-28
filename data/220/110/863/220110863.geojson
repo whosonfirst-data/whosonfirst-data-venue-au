@@ -2,13 +2,14 @@
   "id": 220110863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.520615,-38.257923,144.520615,-38.257923",
     "geom:latitude":-38.257923,
     "geom:longitude":144.520615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Pearl St",
     "sg:city":"Ocean Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220110863,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466188061,
     "wof:name":"Whitfield G P & J B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [144.520615,-38.257923,144.520615,-38.257923],
-  "geometry": {"coordinates":[144.520615,-38.257923],"type":"Point"}
+  "bbox": [
+    144.520615,
+    -38.257923,
+    144.520615,
+    -38.257923
+],
+  "geometry": {"coordinates":[144.52061499999999,-38.257923],"type":"Point"}
 }

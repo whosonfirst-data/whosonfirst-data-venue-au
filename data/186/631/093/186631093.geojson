@@ -2,13 +2,14 @@
   "id": 186631093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.054153,-34.292198,146.054153,-34.292198",
     "geom:latitude":-34.292198,
     "geom:longitude":146.054153,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2- 8 Jensen Rd",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186631093,
-    "wof:lastmodified":1449051206,
+    "wof:lastmodified":1466191024,
     "wof:name":"Hi-Fert Griffith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [146.054153,-34.292198,146.054153,-34.292198],
-  "geometry": {"coordinates":[146.054153,-34.292198],"type":"Point"}
+  "bbox": [
+    146.054153,
+    -34.292198,
+    146.054153,
+    -34.292198
+],
+  "geometry": {"coordinates":[146.05415300000001,-34.292198],"type":"Point"}
 }

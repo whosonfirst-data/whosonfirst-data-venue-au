@@ -2,13 +2,14 @@
   "id": 219424353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.562103,-34.891624,138.562103,-34.891624",
     "geom:latitude":-34.891624,
     "geom:longitude":138.562103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 William St",
     "sg:city":"West Croydon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219424353,
-    "wof:lastmodified":1449073687,
+    "wof:lastmodified":1466188636,
     "wof:name":"Grouchos Painting Services",
     "wof:parent_id":85774917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [138.562103,-34.891624,138.562103,-34.891624],
-  "geometry": {"coordinates":[138.562103,-34.891624],"type":"Point"}
+  "bbox": [
+    138.562103,
+    -34.891624,
+    138.562103,
+    -34.891624
+],
+  "geometry": {"coordinates":[138.56210300000001,-34.891624],"type":"Point"}
 }

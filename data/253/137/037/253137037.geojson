@@ -2,13 +2,14 @@
   "id": 253137037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.957108,-27.585733,151.957108,-27.585733",
     "geom:latitude":-27.585733,
     "geom:longitude":151.957108,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Alderley St",
     "sg:city":"Centenary Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253137037,
-    "wof:lastmodified":1449065368,
+    "wof:lastmodified":1466189365,
     "wof:name":"Meninx Solutions",
     "wof:parent_id":85780077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuition-educational"
     ]
 },
-  "bbox": [151.957108,-27.585733,151.957108,-27.585733],
-  "geometry": {"coordinates":[151.957108,-27.585733],"type":"Point"}
+  "bbox": [
+    151.957108,
+    -27.585733,
+    151.957108,
+    -27.585733
+],
+  "geometry": {"coordinates":[151.95710800000001,-27.585733],"type":"Point"}
 }

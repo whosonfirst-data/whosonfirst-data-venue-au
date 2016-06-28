@@ -2,13 +2,14 @@
   "id": 253121351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.818283,-37.800381,144.818283,-37.800381",
     "geom:latitude":-37.800381,
     "geom:longitude":144.818283,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Fairbairn Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253121351,
-    "wof:lastmodified":1449065107,
+    "wof:lastmodified":1466189172,
     "wof:name":"Gerzenstein J A",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.818283,-37.800381,144.818283,-37.800381],
-  "geometry": {"coordinates":[144.818283,-37.800381],"type":"Point"}
+  "bbox": [
+    144.818283,
+    -37.800381,
+    144.818283,
+    -37.800381
+],
+  "geometry": {"coordinates":[144.81828300000001,-37.800381],"type":"Point"}
 }

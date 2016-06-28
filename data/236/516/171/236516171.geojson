@@ -2,13 +2,14 @@
   "id": 236516171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.176147,-32.563,151.176147,-32.563",
     "geom:latitude":-32.563,
     "geom:longitude":151.176147,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"88 George St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236516171,
-    "wof:lastmodified":1449002153,
+    "wof:lastmodified":1466191361,
     "wof:name":"Ewbank Gallery Custom Framing",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "framing"
     ]
 },
-  "bbox": [151.176147,-32.563,151.176147,-32.563],
-  "geometry": {"coordinates":[151.176147,-32.563],"type":"Point"}
+  "bbox": [
+    151.176147,
+    -32.563,
+    151.176147,
+    -32.563
+],
+  "geometry": {"coordinates":[151.17614699999999,-32.563],"type":"Point"}
 }

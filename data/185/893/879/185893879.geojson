@@ -2,13 +2,14 @@
   "id": 185893879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.724426,-25.548004,152.724426,-25.548004",
     "geom:latitude":-25.548004,
     "geom:longitude":152.724426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Matthew Pde",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185893879,
-    "wof:lastmodified":1449007923,
+    "wof:lastmodified":1466187876,
     "wof:name":"Maryborough Locksmiths",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [152.724426,-25.548004,152.724426,-25.548004],
-  "geometry": {"coordinates":[152.724426,-25.548004],"type":"Point"}
+  "bbox": [
+    152.724426,
+    -25.548004,
+    152.724426,
+    -25.548004
+],
+  "geometry": {"coordinates":[152.72442599999999,-25.548004],"type":"Point"}
 }

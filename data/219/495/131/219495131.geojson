@@ -2,13 +2,14 @@
   "id": 219495131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.043854,-33.910797,151.043854,-33.910797",
     "geom:latitude":-33.910797,
     "geom:longitude":151.043854,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Greenacre Rd",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219495131,
-    "wof:lastmodified":1449071949,
+    "wof:lastmodified":1466189415,
     "wof:name":"Voodoo",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [151.043854,-33.910797,151.043854,-33.910797],
-  "geometry": {"coordinates":[151.043854,-33.910797],"type":"Point"}
+  "bbox": [
+    151.043854,
+    -33.910797,
+    151.043854,
+    -33.910797
+],
+  "geometry": {"coordinates":[151.04385400000001,-33.910797],"type":"Point"}
 }

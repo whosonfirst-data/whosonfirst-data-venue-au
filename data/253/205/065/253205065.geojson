@@ -2,13 +2,14 @@
   "id": 253205065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.950272,-27.558416,151.950272,-27.558416",
     "geom:latitude":-27.558416,
     "geom:longitude":151.950272,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Russell St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253205065,
-    "wof:lastmodified":1449064594,
+    "wof:lastmodified":1466190377,
     "wof:name":"Busy At Work",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.950272,-27.558416,151.950272,-27.558416],
-  "geometry": {"coordinates":[151.950272,-27.558416],"type":"Point"}
+  "bbox": [
+    151.950272,
+    -27.558416,
+    151.950272,
+    -27.558416
+],
+  "geometry": {"coordinates":[151.95027200000001,-27.558416],"type":"Point"}
 }

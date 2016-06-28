@@ -2,13 +2,14 @@
   "id": 252799301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.653793,-41.524857,146.653793,-41.524857",
     "geom:latitude":-41.524857,
     "geom:longitude":146.653793,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Emu Bay Rd",
     "sg:city":"Deloraine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252799301,
-    "wof:lastmodified":1449006515,
+    "wof:lastmodified":1466188134,
     "wof:name":"Hardys Fresh Bread Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pastry"
     ]
 },
-  "bbox": [146.653793,-41.524857,146.653793,-41.524857],
-  "geometry": {"coordinates":[146.653793,-41.524857],"type":"Point"}
+  "bbox": [
+    146.653793,
+    -41.524857,
+    146.653793,
+    -41.524857
+],
+  "geometry": {"coordinates":[146.65379300000001,-41.524857],"type":"Point"}
 }

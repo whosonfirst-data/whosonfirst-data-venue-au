@@ -2,13 +2,14 @@
   "id": 203291715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.161774,-33.137379,148.161774,-33.137379",
     "geom:latitude":-33.137379,
     "geom:longitude":148.161774,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Brolgan Rd",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203291715,
-    "wof:lastmodified":1449025492,
+    "wof:lastmodified":1466187884,
     "wof:name":"Brown Greg Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [148.161774,-33.137379,148.161774,-33.137379],
-  "geometry": {"coordinates":[148.161774,-33.137379],"type":"Point"}
+  "bbox": [
+    148.161774,
+    -33.137379,
+    148.161774,
+    -33.137379
+],
+  "geometry": {"coordinates":[148.16177400000001,-33.137379],"type":"Point"}
 }

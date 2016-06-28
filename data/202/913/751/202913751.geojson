@@ -2,13 +2,14 @@
   "id": 202913751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.103607,-30.286631,153.103607,-30.286631",
     "geom:latitude":-30.286631,
     "geom:longitude":153.103607,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Gallipoli Rd",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202913751,
-    "wof:lastmodified":1449061093,
+    "wof:lastmodified":1466190753,
     "wof:name":"Local Lawns & Edges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [153.103607,-30.286631,153.103607,-30.286631],
-  "geometry": {"coordinates":[153.103607,-30.286631],"type":"Point"}
+  "bbox": [
+    153.103607,
+    -30.286631,
+    153.103607,
+    -30.286631
+],
+  "geometry": {"coordinates":[153.10360700000001,-30.286631],"type":"Point"}
 }

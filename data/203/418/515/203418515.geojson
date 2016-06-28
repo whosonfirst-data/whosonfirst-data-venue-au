@@ -2,13 +2,14 @@
   "id": 203418515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.512054,-34.626305,138.512054,-34.626305",
     "geom:latitude":-34.626305,
     "geom:longitude":138.512054,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 22 Shellgrit Rd",
     "sg:city":"Two Wells",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203418515,
-    "wof:lastmodified":1449026422,
+    "wof:lastmodified":1466189663,
     "wof:name":"Leo V & G Stonemasons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mason"
     ]
 },
-  "bbox": [138.512054,-34.626305,138.512054,-34.626305],
-  "geometry": {"coordinates":[138.512054,-34.626305],"type":"Point"}
+  "bbox": [
+    138.512054,
+    -34.626305,
+    138.512054,
+    -34.626305
+],
+  "geometry": {"coordinates":[138.51205400000001,-34.626305],"type":"Point"}
 }

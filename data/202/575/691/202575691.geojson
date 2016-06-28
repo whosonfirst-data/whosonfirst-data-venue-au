@@ -2,13 +2,14 @@
   "id": 202575691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.456451,-37.656563,144.456451,-37.656563",
     "geom:latitude":-37.656563,
     "geom:longitude":144.456451,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"100 O'Connell Rd",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202575691,
-    "wof:lastmodified":1449060853,
+    "wof:lastmodified":1466187089,
     "wof:name":"Bacchus Hill Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [144.456451,-37.656563,144.456451,-37.656563],
-  "geometry": {"coordinates":[144.456451,-37.656563],"type":"Point"}
+  "bbox": [
+    144.456451,
+    -37.656563,
+    144.456451,
+    -37.656563
+],
+  "geometry": {"coordinates":[144.45645099999999,-37.656563],"type":"Point"}
 }

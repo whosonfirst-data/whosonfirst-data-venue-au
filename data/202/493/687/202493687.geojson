@@ -2,13 +2,14 @@
   "id": 202493687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.045074,-37.904541,145.045074,-37.904541",
     "geom:latitude":-37.904541,
     "geom:longitude":145.045074,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Tucker & North Rds",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202493687,
-    "wof:lastmodified":1449060911,
+    "wof:lastmodified":1466189447,
     "wof:name":"Ormond Tyre & Service Centre",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [145.045074,-37.904541,145.045074,-37.904541],
+  "bbox": [
+    145.045074,
+    -37.904541,
+    145.045074,
+    -37.904541
+],
   "geometry": {"coordinates":[145.045074,-37.904541],"type":"Point"}
 }

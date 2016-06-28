@@ -2,13 +2,14 @@
   "id": 236058307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.906433,-37.761208,144.906433,-37.761208",
     "geom:latitude":-37.761208,
     "geom:longitude":144.906433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Waverley St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236058307,
-    "wof:lastmodified":1449002037,
+    "wof:lastmodified":1466187787,
     "wof:name":"Tobin Brothers",
     "wof:parent_id":85771389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [144.906433,-37.761208,144.906433,-37.761208],
-  "geometry": {"coordinates":[144.906433,-37.761208],"type":"Point"}
+  "bbox": [
+    144.906433,
+    -37.761208,
+    144.906433,
+    -37.761208
+],
+  "geometry": {"coordinates":[144.90643299999999,-37.761208],"type":"Point"}
 }

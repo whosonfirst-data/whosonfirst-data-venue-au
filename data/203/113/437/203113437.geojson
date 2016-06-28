@@ -2,13 +2,14 @@
   "id": 203113437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.684547,-32.551369,115.684547,-32.551369",
     "geom:latitude":-32.551369,
     "geom:longitude":115.684547,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Tingle Way",
     "sg:city":"Halls Head",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203113437,
-    "wof:lastmodified":1449026703,
+    "wof:lastmodified":1466189245,
     "wof:name":"Moonlight Karaoke & Entertainment",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [115.684547,-32.551369,115.684547,-32.551369],
-  "geometry": {"coordinates":[115.684547,-32.551369],"type":"Point"}
+  "bbox": [
+    115.684547,
+    -32.551369,
+    115.684547,
+    -32.551369
+],
+  "geometry": {"coordinates":[115.68454699999999,-32.551369],"type":"Point"}
 }

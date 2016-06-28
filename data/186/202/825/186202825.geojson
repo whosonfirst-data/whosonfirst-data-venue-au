@@ -2,13 +2,14 @@
   "id": 186202825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.885452,-31.447729,152.885452,-31.447729",
     "geom:latitude":-31.447729,
     "geom:longitude":152.885452,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"End Jindalee Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186202825,
-    "wof:lastmodified":1449052665,
+    "wof:lastmodified":1466187092,
     "wof:name":"Ranbuild",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shed"
     ]
 },
-  "bbox": [152.885452,-31.447729,152.885452,-31.447729],
-  "geometry": {"coordinates":[152.885452,-31.447729],"type":"Point"}
+  "bbox": [
+    152.885452,
+    -31.447729,
+    152.885452,
+    -31.447729
+],
+  "geometry": {"coordinates":[152.88545199999999,-31.447729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202581037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.432999,-37.687595,144.432999,-37.687595",
     "geom:latitude":-37.687595,
     "geom:longitude":144.432999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"South Maddingley Rd",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202581037,
-    "wof:lastmodified":1449060655,
+    "wof:lastmodified":1466187133,
     "wof:name":"Pinegro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nursery"
     ]
 },
-  "bbox": [144.432999,-37.687595,144.432999,-37.687595],
+  "bbox": [
+    144.432999,
+    -37.687595,
+    144.432999,
+    -37.687595
+],
   "geometry": {"coordinates":[144.432999,-37.687595],"type":"Point"}
 }

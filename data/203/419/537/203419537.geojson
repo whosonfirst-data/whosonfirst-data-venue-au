@@ -2,13 +2,14 @@
   "id": 203419537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.590118,-34.595615,138.590118,-34.595615",
     "geom:latitude":-34.595615,
     "geom:longitude":138.590118,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Pederick Crt",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203419537,
-    "wof:lastmodified":1449026848,
+    "wof:lastmodified":1466189670,
     "wof:name":"Hutchinson R & F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spinner"
     ]
 },
-  "bbox": [138.590118,-34.595615,138.590118,-34.595615],
-  "geometry": {"coordinates":[138.590118,-34.595615],"type":"Point"}
+  "bbox": [
+    138.590118,
+    -34.595615,
+    138.590118,
+    -34.595615
+],
+  "geometry": {"coordinates":[138.59011799999999,-34.595615],"type":"Point"}
 }

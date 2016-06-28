@@ -2,13 +2,14 @@
   "id": 203059897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.928284,-33.716309,150.928284,-33.716309",
     "geom:latitude":-33.716309,
     "geom:longitude":150.928284,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Salford St",
     "sg:city":"Stanhope Gardens",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203059897,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466188384,
     "wof:name":"Ultimate Fire Protection",
     "wof:parent_id":85781937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [150.928284,-33.716309,150.928284,-33.716309],
-  "geometry": {"coordinates":[150.928284,-33.716309],"type":"Point"}
+  "bbox": [
+    150.928284,
+    -33.716309,
+    150.928284,
+    -33.716309
+],
+  "geometry": {"coordinates":[150.92828399999999,-33.716309],"type":"Point"}
 }

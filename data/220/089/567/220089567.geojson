@@ -2,13 +2,14 @@
   "id": 220089567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.123749,-40.841698,145.123749,-40.841698",
     "geom:latitude":-40.841698,
     "geom:longitude":145.123749,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Smith St",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220089567,
-    "wof:lastmodified":1449074206,
+    "wof:lastmodified":1466187830,
     "wof:name":"Mod Shoe Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [145.123749,-40.841698,145.123749,-40.841698],
+  "bbox": [
+    145.123749,
+    -40.841698,
+    145.123749,
+    -40.841698
+],
   "geometry": {"coordinates":[145.123749,-40.841698],"type":"Point"}
 }

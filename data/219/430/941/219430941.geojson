@@ -2,13 +2,14 @@
   "id": 219430941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.071625,-33.739025,151.071625,-33.739025",
     "geom:latitude":-33.739025,
     "geom:longitude":151.071625,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 723",
     "sg:city":"Pennant Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219430941,
-    "wof:lastmodified":1449072632,
+    "wof:lastmodified":1466188761,
     "wof:name":"Metro Safes P/L",
     "wof:parent_id":85769983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "door"
     ]
 },
-  "bbox": [151.071625,-33.739025,151.071625,-33.739025],
-  "geometry": {"coordinates":[151.071625,-33.739025],"type":"Point"}
+  "bbox": [
+    151.071625,
+    -33.739025,
+    151.071625,
+    -33.739025
+],
+  "geometry": {"coordinates":[151.07162500000001,-33.739025],"type":"Point"}
 }

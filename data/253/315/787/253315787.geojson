@@ -2,13 +2,14 @@
   "id": 253315787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.295105,-38.03104,145.295105,-38.03104",
     "geom:latitude":-38.03104,
     "geom:longitude":145.295105,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Oakleaf Pl",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253315787,
-    "wof:lastmodified":1449065645,
+    "wof:lastmodified":1466190966,
     "wof:name":"Australia Wide Maintenance Pty Ltd",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [145.295105,-38.03104,145.295105,-38.03104],
-  "geometry": {"coordinates":[145.295105,-38.03104],"type":"Point"}
+  "bbox": [
+    145.295105,
+    -38.03104,
+    145.295105,
+    -38.03104
+],
+  "geometry": {"coordinates":[145.29510500000001,-38.03104],"type":"Point"}
 }

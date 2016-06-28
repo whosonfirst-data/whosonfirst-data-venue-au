@@ -2,13 +2,14 @@
   "id": 252805273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.58165,-38.340363,143.58165,-38.340363",
     "geom:latitude":-38.340363,
     "geom:longitude":143.58165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Otway Medical Centre, 31- 35 Connor St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252805273,
-    "wof:lastmodified":1449005772,
+    "wof:lastmodified":1466188184,
     "wof:name":"Endeavour Hearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hearing"
     ]
 },
-  "bbox": [143.58165,-38.340363,143.58165,-38.340363],
+  "bbox": [
+    143.58165,
+    -38.340363,
+    143.58165,
+    -38.340363
+],
   "geometry": {"coordinates":[143.58165,-38.340363],"type":"Point"}
 }

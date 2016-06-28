@@ -2,13 +2,14 @@
   "id": 203275879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.176285,-33.135956,148.176285,-33.135956",
     "geom:latitude":-33.135956,
     "geom:longitude":148.176285,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Currajong St",
     "sg:city":"Parkes",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203275879,
-    "wof:lastmodified":1449025522,
+    "wof:lastmodified":1466187766,
     "wof:name":"Kitchenware Wholesalers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kitchenware"
     ]
 },
-  "bbox": [148.176285,-33.135956,148.176285,-33.135956],
-  "geometry": {"coordinates":[148.176285,-33.135956],"type":"Point"}
+  "bbox": [
+    148.176285,
+    -33.135956,
+    148.176285,
+    -33.135956
+],
+  "geometry": {"coordinates":[148.17628500000001,-33.135956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202506117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.159134,-38.099743,145.159134,-38.099743",
     "geom:latitude":-38.099743,
     "geom:longitude":145.159134,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Frankston Gardens Drv",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202506117,
-    "wof:lastmodified":1449060163,
+    "wof:lastmodified":1466189605,
     "wof:name":"Biocare Holdings Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [145.159134,-38.099743,145.159134,-38.099743],
-  "geometry": {"coordinates":[145.159134,-38.099743],"type":"Point"}
+  "bbox": [
+    145.159134,
+    -38.099743,
+    145.159134,
+    -38.099743
+],
+  "geometry": {"coordinates":[145.15913399999999,-38.099743],"type":"Point"}
 }

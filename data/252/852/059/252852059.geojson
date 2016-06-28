@@ -2,13 +2,14 @@
   "id": 252852059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.533157,-32.363472,149.533157,-32.363472",
     "geom:latitude":-32.363472,
     "geom:longitude":149.533157,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Herbert St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252852059,
-    "wof:lastmodified":1449006333,
+    "wof:lastmodified":1466188567,
     "wof:name":"Gulgong Pioneers Museum & Historical Socy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [149.533157,-32.363472,149.533157,-32.363472],
-  "geometry": {"coordinates":[149.533157,-32.363472],"type":"Point"}
+  "bbox": [
+    149.533157,
+    -32.363472,
+    149.533157,
+    -32.363472
+],
+  "geometry": {"coordinates":[149.53315699999999,-32.363472],"type":"Point"}
 }

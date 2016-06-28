@@ -2,13 +2,14 @@
   "id": 203177653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.965622,-38.541241,143.965622,-38.541241",
     "geom:latitude":-38.541241,
     "geom:longitude":143.965622,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Beaurepaire Drv",
     "sg:city":"Lorne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203177653,
-    "wof:lastmodified":1449026860,
+    "wof:lastmodified":1466189898,
     "wof:name":"Lorne Storage Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [143.965622,-38.541241,143.965622,-38.541241],
+  "bbox": [
+    143.965622,
+    -38.541241,
+    143.965622,
+    -38.541241
+],
   "geometry": {"coordinates":[143.965622,-38.541241],"type":"Point"}
 }

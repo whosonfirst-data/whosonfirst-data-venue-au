@@ -2,13 +2,14 @@
   "id": 253120763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.834045,-37.788193,144.834045,-37.788193",
     "geom:latitude":-37.788193,
     "geom:longitude":144.834045,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Station Pl",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253120763,
-    "wof:lastmodified":1449065351,
+    "wof:lastmodified":1466189160,
     "wof:name":"Brown Malcolm Dr",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.834045,-37.788193,144.834045,-37.788193],
+  "bbox": [
+    144.834045,
+    -37.788193,
+    144.834045,
+    -37.788193
+],
   "geometry": {"coordinates":[144.834045,-37.788193],"type":"Point"}
 }

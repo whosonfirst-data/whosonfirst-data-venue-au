@@ -2,13 +2,14 @@
   "id": 185770679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.143341,-32.723328,152.143341,-32.723328",
     "geom:latitude":-32.723328,
     "geom:longitude":152.143341,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, 33 Stockton St",
     "sg:city":"Nelson Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185770679,
-    "wof:lastmodified":1449008248,
+    "wof:lastmodified":1466189720,
     "wof:name":"Mayne Laverty Pathology Collection Centres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.143341,-32.723328,152.143341,-32.723328],
-  "geometry": {"coordinates":[152.143341,-32.723328],"type":"Point"}
+  "bbox": [
+    152.143341,
+    -32.723328,
+    152.143341,
+    -32.723328
+],
+  "geometry": {"coordinates":[152.14334099999999,-32.723328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202406587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.943405,-37.837635,144.943405,-37.837635",
     "geom:latitude":-37.837635,
     "geom:longitude":144.943405,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Bay St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202406587,
-    "wof:lastmodified":1449061473,
+    "wof:lastmodified":1466187813,
     "wof:name":"Zanzara Cafe Bar",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.943405,-37.837635,144.943405,-37.837635],
-  "geometry": {"coordinates":[144.943405,-37.837635],"type":"Point"}
+  "bbox": [
+    144.943405,
+    -37.837635,
+    144.943405,
+    -37.837635
+],
+  "geometry": {"coordinates":[144.94340500000001,-37.837635],"type":"Point"}
 }

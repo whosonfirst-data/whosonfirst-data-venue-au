@@ -2,13 +2,14 @@
   "id": 236525939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.135544,-32.549541,151.135544,-32.549541",
     "geom:latitude":-32.549541,
     "geom:longitude":151.135544,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5/ 123 Maison Dieu Rd",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236525939,
-    "wof:lastmodified":1449004419,
+    "wof:lastmodified":1466191439,
     "wof:name":"Wards Skyroad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [151.135544,-32.549541,151.135544,-32.549541],
-  "geometry": {"coordinates":[151.135544,-32.549541],"type":"Point"}
+  "bbox": [
+    151.135544,
+    -32.549541,
+    151.135544,
+    -32.549541
+],
+  "geometry": {"coordinates":[151.13554400000001,-32.549541],"type":"Point"}
 }

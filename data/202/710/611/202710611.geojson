@@ -2,13 +2,14 @@
   "id": 202710611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.018478,-27.348421,153.018478,-27.348421",
     "geom:latitude":-27.348421,
     "geom:longitude":153.018478,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 McCallum St",
     "sg:city":"Carseldine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202710611,
-    "wof:lastmodified":1449060265,
+    "wof:lastmodified":1466189036,
     "wof:name":"Folding Walls & Doors By Lotus",
     "wof:parent_id":85773867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [153.018478,-27.348421,153.018478,-27.348421],
-  "geometry": {"coordinates":[153.018478,-27.348421],"type":"Point"}
+  "bbox": [
+    153.018478,
+    -27.348421,
+    153.018478,
+    -27.348421
+],
+  "geometry": {"coordinates":[153.01847799999999,-27.348421],"type":"Point"}
 }

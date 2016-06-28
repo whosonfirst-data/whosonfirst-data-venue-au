@@ -2,13 +2,14 @@
   "id": 219530373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.080246,-33.927181,151.080246,-33.927181",
     "geom:latitude":-33.927181,
     "geom:longitude":151.080246,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Croydon St",
     "sg:city":"Lakemba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219530373,
-    "wof:lastmodified":1449072258,
+    "wof:lastmodified":1466190110,
     "wof:name":"St Basil's Homes",
     "wof:parent_id":85774751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [151.080246,-33.927181,151.080246,-33.927181],
-  "geometry": {"coordinates":[151.080246,-33.927181],"type":"Point"}
+  "bbox": [
+    151.080246,
+    -33.927181,
+    151.080246,
+    -33.927181
+],
+  "geometry": {"coordinates":[151.08024599999999,-33.927181],"type":"Point"}
 }

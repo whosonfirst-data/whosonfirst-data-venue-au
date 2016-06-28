@@ -2,13 +2,14 @@
   "id": 186349843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.300934,-33.707729,151.300934,-33.707729",
     "geom:latitude":-33.707729,
     "geom:longitude":151.300934,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Lagoon St",
     "sg:city":"Narrabeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186349843,
-    "wof:lastmodified":1449051394,
+    "wof:lastmodified":1466188450,
     "wof:name":"Proceram Pty Ltd",
     "wof:parent_id":85776845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [151.300934,-33.707729,151.300934,-33.707729],
-  "geometry": {"coordinates":[151.300934,-33.707729],"type":"Point"}
+  "bbox": [
+    151.300934,
+    -33.707729,
+    151.300934,
+    -33.707729
+],
+  "geometry": {"coordinates":[151.30093400000001,-33.707729],"type":"Point"}
 }

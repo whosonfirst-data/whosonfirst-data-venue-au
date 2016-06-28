@@ -2,13 +2,14 @@
   "id": 202730711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.648407,-34.779743,138.648407,-34.779743",
     "geom:latitude":-34.779743,
     "geom:longitude":138.648407,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Frost Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202730711,
-    "wof:lastmodified":1449062255,
+    "wof:lastmodified":1466189413,
     "wof:name":"Mowers Plus",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brushcutters"
     ]
 },
-  "bbox": [138.648407,-34.779743,138.648407,-34.779743],
-  "geometry": {"coordinates":[138.648407,-34.779743],"type":"Point"}
+  "bbox": [
+    138.648407,
+    -34.779743,
+    138.648407,
+    -34.779743
+],
+  "geometry": {"coordinates":[138.64840699999999,-34.779743],"type":"Point"}
 }

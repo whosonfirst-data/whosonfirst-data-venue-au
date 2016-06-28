@@ -2,13 +2,14 @@
   "id": 253106741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.841782,-37.792435,144.841782,-37.792435",
     "geom:latitude":-37.792435,
     "geom:longitude":144.841782,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hemphill Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253106741,
-    "wof:lastmodified":1449062785,
+    "wof:lastmodified":1466188871,
     "wof:name":"Solder Technologies",
     "wof:parent_id":85770345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [144.841782,-37.792435,144.841782,-37.792435],
-  "geometry": {"coordinates":[144.841782,-37.792435],"type":"Point"}
+  "bbox": [
+    144.841782,
+    -37.792435,
+    144.841782,
+    -37.792435
+],
+  "geometry": {"coordinates":[144.84178199999999,-37.792435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186155707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.733276,-31.487967,152.733276,-31.487967",
     "geom:latitude":-31.487967,
     "geom:longitude":152.733276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Enterprise Pl",
     "sg:city":"Wauchope",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186155707,
-    "wof:lastmodified":1449052537,
+    "wof:lastmodified":1466189793,
     "wof:name":"D & D Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "swimming"
     ]
 },
-  "bbox": [152.733276,-31.487967,152.733276,-31.487967],
-  "geometry": {"coordinates":[152.733276,-31.487967],"type":"Point"}
+  "bbox": [
+    152.733276,
+    -31.487967,
+    152.733276,
+    -31.487967
+],
+  "geometry": {"coordinates":[152.73327599999999,-31.487967],"type":"Point"}
 }

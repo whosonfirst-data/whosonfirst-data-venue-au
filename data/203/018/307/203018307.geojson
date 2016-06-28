@@ -2,13 +2,14 @@
   "id": 203018307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.23642,-20.028646,146.23642,-20.028646",
     "geom:latitude":-20.028646,
     "geom:longitude":146.23642,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wilson Crt",
     "sg:city":"Charters Towers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203018307,
-    "wof:lastmodified":1449025873,
+    "wof:lastmodified":1466187513,
     "wof:name":"Bob Linton Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.23642,-20.028646,146.23642,-20.028646],
-  "geometry": {"coordinates":[146.23642,-20.028646],"type":"Point"}
+  "bbox": [
+    146.23642,
+    -20.028646,
+    146.23642,
+    -20.028646
+],
+  "geometry": {"coordinates":[146.23642000000001,-20.028646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236622715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.160355,-33.949982,151.160355,-33.949982",
     "geom:latitude":-33.949982,
     "geom:longitude":151.160355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Caroma Ave",
     "sg:city":"Brighton-le-Sands",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236622715,
-    "wof:lastmodified":1449004532,
+    "wof:lastmodified":1466191698,
     "wof:name":"Art Of Floor Sanding The",
     "wof:parent_id":85769575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parquet"
     ]
 },
-  "bbox": [151.160355,-33.949982,151.160355,-33.949982],
-  "geometry": {"coordinates":[151.160355,-33.949982],"type":"Point"}
+  "bbox": [
+    151.160355,
+    -33.949982,
+    151.160355,
+    -33.949982
+],
+  "geometry": {"coordinates":[151.16035500000001,-33.949982],"type":"Point"}
 }

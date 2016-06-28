@@ -2,13 +2,14 @@
   "id": 219472593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.114426,-37.516582,145.114426,-37.516582",
     "geom:latitude":-37.516582,
     "geom:longitude":145.114426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Plenty Rd",
     "sg:city":"Whittlesea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219472593,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466189141,
     "wof:name":"Whittlesea Sawmills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmillers"
     ]
 },
-  "bbox": [145.114426,-37.516582,145.114426,-37.516582],
-  "geometry": {"coordinates":[145.114426,-37.516582],"type":"Point"}
+  "bbox": [
+    145.114426,
+    -37.516582,
+    145.114426,
+    -37.516582
+],
+  "geometry": {"coordinates":[145.11442600000001,-37.516582],"type":"Point"}
 }

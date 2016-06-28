@@ -2,13 +2,14 @@
   "id": 236910397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.520844,-34.991028,138.520844,-34.991028",
     "geom:latitude":-34.991028,
     "geom:longitude":138.520844,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Brighton Rd",
     "sg:city":"Glenelg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236910397,
-    "wof:lastmodified":1449002953,
+    "wof:lastmodified":1466192106,
     "wof:name":"Ultra Tune",
     "wof:parent_id":85777499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [138.520844,-34.991028,138.520844,-34.991028],
-  "geometry": {"coordinates":[138.520844,-34.991028],"type":"Point"}
+  "bbox": [
+    138.520844,
+    -34.991028,
+    138.520844,
+    -34.991028
+],
+  "geometry": {"coordinates":[138.52084400000001,-34.991028],"type":"Point"}
 }

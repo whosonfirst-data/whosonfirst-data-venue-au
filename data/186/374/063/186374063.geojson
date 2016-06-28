@@ -2,13 +2,14 @@
   "id": 186374063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154343,-33.850643,151.154343,-33.850643",
     "geom:latitude":-33.850643,
     "geom:longitude":151.154343,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Office 3, 208 Victoria Rd",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186374063,
-    "wof:lastmodified":1449051535,
+    "wof:lastmodified":1466188896,
     "wof:name":"Sample & Partners",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [151.154343,-33.850643,151.154343,-33.850643],
-  "geometry": {"coordinates":[151.154343,-33.850643],"type":"Point"}
+  "bbox": [
+    151.154343,
+    -33.850643,
+    151.154343,
+    -33.850643
+],
+  "geometry": {"coordinates":[151.15434300000001,-33.850643],"type":"Point"}
 }

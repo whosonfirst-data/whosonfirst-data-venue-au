@@ -2,13 +2,14 @@
   "id": 202742131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.925323,-32.036343,115.925323,-32.036343",
     "geom:latitude":-32.036343,
     "geom:longitude":115.925323,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Meltcafe Rd",
     "sg:city":"Lynwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202742131,
-    "wof:lastmodified":1449060275,
+    "wof:lastmodified":1466189573,
     "wof:name":"Tekinder Reflexology",
     "wof:parent_id":85778007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reflexology"
     ]
 },
-  "bbox": [115.925323,-32.036343,115.925323,-32.036343],
-  "geometry": {"coordinates":[115.925323,-32.036343],"type":"Point"}
+  "bbox": [
+    115.925323,
+    -32.036343,
+    115.925323,
+    -32.036343
+],
+  "geometry": {"coordinates":[115.92532300000001,-32.036343],"type":"Point"}
 }

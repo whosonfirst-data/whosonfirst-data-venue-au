@@ -2,13 +2,14 @@
   "id": 186495241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.75087,-19.279383,146.75087,-19.279383",
     "geom:latitude":-19.279383,
     "geom:longitude":146.75087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Etheridge St",
     "sg:city":"Mt Louisa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186495241,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466190363,
     "wof:name":"Locke Tim Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.75087,-19.279383,146.75087,-19.279383],
-  "geometry": {"coordinates":[146.75087,-19.279383],"type":"Point"}
+  "bbox": [
+    146.75087,
+    -19.279383,
+    146.75087,
+    -19.279383
+],
+  "geometry": {"coordinates":[146.75086999999999,-19.279383],"type":"Point"}
 }

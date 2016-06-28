@@ -2,13 +2,14 @@
   "id": 186623705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.030807,-34.282185,146.030807,-34.282185",
     "geom:latitude":-34.282185,
     "geom:longitude":146.030807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Yarrabee St",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186623705,
-    "wof:lastmodified":1449052241,
+    "wof:lastmodified":1466191161,
     "wof:name":"Beasley DL & MH Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [146.030807,-34.282185,146.030807,-34.282185],
-  "geometry": {"coordinates":[146.030807,-34.282185],"type":"Point"}
+  "bbox": [
+    146.030807,
+    -34.282185,
+    146.030807,
+    -34.282185
+],
+  "geometry": {"coordinates":[146.03080700000001,-34.282185],"type":"Point"}
 }

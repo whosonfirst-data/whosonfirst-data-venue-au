@@ -2,13 +2,14 @@
   "id": 203005505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.490799,-20.722954,139.490799,-20.722954",
     "geom:latitude":-20.722954,
     "geom:longitude":139.490799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 West St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203005505,
-    "wof:lastmodified":1449026711,
+    "wof:lastmodified":1466187100,
     "wof:name":"Mercure Inn Outback",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.490799,-20.722954,139.490799,-20.722954],
-  "geometry": {"coordinates":[139.490799,-20.722954],"type":"Point"}
+  "bbox": [
+    139.490799,
+    -20.722954,
+    139.490799,
+    -20.722954
+],
+  "geometry": {"coordinates":[139.49079900000001,-20.722954],"type":"Point"}
 }

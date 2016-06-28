@@ -2,13 +2,14 @@
   "id": 203350487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.860291,-37.563274,143.860291,-37.563274",
     "geom:latitude":-37.563274,
     "geom:longitude":143.860291,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Grenville St",
     "sg:city":"South Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203350487,
-    "wof:lastmodified":1449025893,
+    "wof:lastmodified":1466188686,
     "wof:name":"Wozzles Warehouse",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [143.860291,-37.563274,143.860291,-37.563274],
-  "geometry": {"coordinates":[143.860291,-37.563274],"type":"Point"}
+  "bbox": [
+    143.860291,
+    -37.563274,
+    143.860291,
+    -37.563274
+],
+  "geometry": {"coordinates":[143.86029099999999,-37.563274],"type":"Point"}
 }

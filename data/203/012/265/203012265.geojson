@@ -2,13 +2,14 @@
   "id": 203012265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.504669,-20.703979,139.504669,-20.703979",
     "geom:latitude":-20.703979,
     "geom:longitude":139.504669,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Enterprise Rd",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203012265,
-    "wof:lastmodified":1449026677,
+    "wof:lastmodified":1466187308,
     "wof:name":"Jolly's Carrying Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [139.504669,-20.703979,139.504669,-20.703979],
-  "geometry": {"coordinates":[139.504669,-20.703979],"type":"Point"}
+  "bbox": [
+    139.504669,
+    -20.703979,
+    139.504669,
+    -20.703979
+],
+  "geometry": {"coordinates":[139.50466900000001,-20.703979],"type":"Point"}
 }

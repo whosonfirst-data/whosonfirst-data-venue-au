@@ -2,13 +2,14 @@
   "id": 220063953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.323502,-38.332466,144.323502,-38.332466",
     "geom:latitude":-38.332466,
     "geom:longitude":144.323502,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12- 14 Pearl St",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220063953,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1466187628,
     "wof:name":"Java Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [144.323502,-38.332466,144.323502,-38.332466],
-  "geometry": {"coordinates":[144.323502,-38.332466],"type":"Point"}
+  "bbox": [
+    144.323502,
+    -38.332466,
+    144.323502,
+    -38.332466
+],
+  "geometry": {"coordinates":[144.32350199999999,-38.332466],"type":"Point"}
 }

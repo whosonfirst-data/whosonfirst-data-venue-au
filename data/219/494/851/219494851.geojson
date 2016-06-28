@@ -2,13 +2,14 @@
   "id": 219494851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.061539,-33.889648,151.061539,-33.889648",
     "geom:latitude":-33.889648,
     "geom:longitude":151.061539,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Lawford St",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219494851,
-    "wof:lastmodified":1449073534,
+    "wof:lastmodified":1466189411,
     "wof:name":"Specialised On Site",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fibreglass"
     ]
 },
-  "bbox": [151.061539,-33.889648,151.061539,-33.889648],
-  "geometry": {"coordinates":[151.061539,-33.889648],"type":"Point"}
+  "bbox": [
+    151.061539,
+    -33.889648,
+    151.061539,
+    -33.889648
+],
+  "geometry": {"coordinates":[151.06153900000001,-33.889648],"type":"Point"}
 }

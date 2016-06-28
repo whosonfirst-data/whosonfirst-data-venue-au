@@ -2,13 +2,14 @@
   "id": 202716255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.041122,-27.371759,153.041122,-27.371759",
     "geom:latitude":-27.371759,
     "geom:longitude":153.041122,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Piccadilly St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202716255,
-    "wof:lastmodified":1449060463,
+    "wof:lastmodified":1466189138,
     "wof:name":"Tony Reynolds Plumbing",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [153.041122,-27.371759,153.041122,-27.371759],
+  "bbox": [
+    153.041122,
+    -27.371759,
+    153.041122,
+    -27.371759
+],
   "geometry": {"coordinates":[153.041122,-27.371759],"type":"Point"}
 }

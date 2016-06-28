@@ -2,13 +2,14 @@
   "id": 236065919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.835281,-37.719753,144.835281,-37.719753",
     "geom:latitude":-37.719753,
     "geom:longitude":144.835281,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 8, Arabin Plaza Arabin St",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236065919,
-    "wof:lastmodified":1449005203,
+    "wof:lastmodified":1466187946,
     "wof:name":"Tony Borello",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [144.835281,-37.719753,144.835281,-37.719753],
-  "geometry": {"coordinates":[144.835281,-37.719753],"type":"Point"}
+  "bbox": [
+    144.835281,
+    -37.719753,
+    144.835281,
+    -37.719753
+],
+  "geometry": {"coordinates":[144.83528100000001,-37.719753],"type":"Point"}
 }

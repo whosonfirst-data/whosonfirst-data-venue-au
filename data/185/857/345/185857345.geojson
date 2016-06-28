@@ -2,13 +2,14 @@
   "id": 185857345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.821152,-25.261683,152.821152,-25.261683",
     "geom:latitude":-25.261683,
     "geom:longitude":152.821152,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Maryanne Crt",
     "sg:city":"Point Vernon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185857345,
-    "wof:lastmodified":1449007644,
+    "wof:lastmodified":1466187431,
     "wof:name":"Hervey Bay DayTripper",
     "wof:parent_id":85770021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trip"
     ]
 },
-  "bbox": [152.821152,-25.261683,152.821152,-25.261683],
-  "geometry": {"coordinates":[152.821152,-25.261683],"type":"Point"}
+  "bbox": [
+    152.821152,
+    -25.261683,
+    152.821152,
+    -25.261683
+],
+  "geometry": {"coordinates":[152.82115200000001,-25.261683],"type":"Point"}
 }

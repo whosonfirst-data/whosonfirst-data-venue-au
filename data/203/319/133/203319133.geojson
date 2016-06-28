@@ -2,13 +2,14 @@
   "id": 203319133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.838043,-37.589241,143.838043,-37.589241",
     "geom:latitude":-37.589241,
     "geom:longitude":143.838043,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Spencer St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319133,
-    "wof:lastmodified":1449025691,
+    "wof:lastmodified":1466188251,
     "wof:name":"Ballarat Staircase Company",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "handrail"
     ]
 },
-  "bbox": [143.838043,-37.589241,143.838043,-37.589241],
+  "bbox": [
+    143.838043,
+    -37.589241,
+    143.838043,
+    -37.589241
+],
   "geometry": {"coordinates":[143.838043,-37.589241],"type":"Point"}
 }

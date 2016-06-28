@@ -2,13 +2,14 @@
   "id": 186263941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.903152,-31.434544,152.903152,-31.434544",
     "geom:latitude":-31.434544,
     "geom:longitude":152.903152,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, 4 Bay St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186263941,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466187508,
     "wof:name":"Aussie Disposals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [152.903152,-31.434544,152.903152,-31.434544],
-  "geometry": {"coordinates":[152.903152,-31.434544],"type":"Point"}
+  "bbox": [
+    152.903152,
+    -31.434544,
+    152.903152,
+    -31.434544
+],
+  "geometry": {"coordinates":[152.90315200000001,-31.434544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236498785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.161194,-21.177422,149.161194,-21.177422",
     "geom:latitude":-21.177422,
     "geom:longitude":149.161194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Len Shield St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236498785,
-    "wof:lastmodified":1449004285,
+    "wof:lastmodified":1466191427,
     "wof:name":"Gibsons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [149.161194,-21.177422,149.161194,-21.177422],
-  "geometry": {"coordinates":[149.161194,-21.177422],"type":"Point"}
+  "bbox": [
+    149.161194,
+    -21.177422,
+    149.161194,
+    -21.177422
+],
+  "geometry": {"coordinates":[149.16119399999999,-21.177422],"type":"Point"}
 }

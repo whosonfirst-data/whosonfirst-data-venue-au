@@ -2,13 +2,14 @@
   "id": 236975351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.361557,-37.842464,145.361557,-37.842464",
     "geom:latitude":-37.842464,
     "geom:longitude":145.361557,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Dickens Rd",
     "sg:city":"Olinda",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236975351,
-    "wof:lastmodified":1449004697,
+    "wof:lastmodified":1466192219,
     "wof:name":"Road Scholar",
     "wof:parent_id":85769801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.361557,-37.842464,145.361557,-37.842464],
+  "bbox": [
+    145.361557,
+    -37.842464,
+    145.361557,
+    -37.842464
+],
   "geometry": {"coordinates":[145.361557,-37.842464],"type":"Point"}
 }

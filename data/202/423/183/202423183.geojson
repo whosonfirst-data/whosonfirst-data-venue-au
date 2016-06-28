@@ -2,13 +2,14 @@
   "id": 202423183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.950897,-37.848621,144.950897,-37.848621",
     "geom:latitude":-37.848621,
     "geom:longitude":144.950897,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Beaconsfield Pde",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202423183,
-    "wof:lastmodified":1449060520,
+    "wof:lastmodified":1466188201,
     "wof:name":"The Victorian",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.950897,-37.848621,144.950897,-37.848621],
+  "bbox": [
+    144.950897,
+    -37.848621,
+    144.950897,
+    -37.848621
+],
   "geometry": {"coordinates":[144.950897,-37.848621],"type":"Point"}
 }

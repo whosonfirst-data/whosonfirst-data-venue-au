@@ -2,13 +2,14 @@
   "id": 202483155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040894,-37.918583,145.040894,-37.918583",
     "geom:latitude":-37.918583,
     "geom:longitude":145.040894,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Centre Rd",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202483155,
-    "wof:lastmodified":1449062119,
+    "wof:lastmodified":1466189254,
     "wof:name":"Red Pepper Pizzeria",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [145.040894,-37.918583,145.040894,-37.918583],
-  "geometry": {"coordinates":[145.040894,-37.918583],"type":"Point"}
+  "bbox": [
+    145.040894,
+    -37.918583,
+    145.040894,
+    -37.918583
+],
+  "geometry": {"coordinates":[145.04089400000001,-37.918583],"type":"Point"}
 }

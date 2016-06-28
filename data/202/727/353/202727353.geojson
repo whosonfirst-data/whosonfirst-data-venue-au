@@ -2,13 +2,14 @@
   "id": 202727353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.950775,-27.33552,152.950775,-27.33552",
     "geom:latitude":-27.33552,
     "geom:longitude":152.950775,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Sonya Crt",
     "sg:city":"Eatons Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202727353,
-    "wof:lastmodified":1449060490,
+    "wof:lastmodified":1466189347,
     "wof:name":"Exceed Electrical",
     "wof:parent_id":85773841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.950775,-27.33552,152.950775,-27.33552],
-  "geometry": {"coordinates":[152.950775,-27.33552],"type":"Point"}
+  "bbox": [
+    152.950775,
+    -27.33552,
+    152.950775,
+    -27.33552
+],
+  "geometry": {"coordinates":[152.95077499999999,-27.33552],"type":"Point"}
 }

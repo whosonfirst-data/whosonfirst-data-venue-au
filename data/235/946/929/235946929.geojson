@@ -2,13 +2,14 @@
   "id": 235946929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.06543,-33.410046,150.06543,-33.410046",
     "geom:latitude":-33.410046,
     "geom:longitude":150.06543,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Main St",
     "sg:city":"Wallerawang",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235946929,
-    "wof:lastmodified":1449008570,
+    "wof:lastmodified":1466187037,
     "wof:name":"Wang Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [150.06543,-33.410046,150.06543,-33.410046],
-  "geometry": {"coordinates":[150.06543,-33.410046],"type":"Point"}
+  "bbox": [
+    150.06543,
+    -33.410046,
+    150.06543,
+    -33.410046
+],
+  "geometry": {"coordinates":[150.06542999999999,-33.410046],"type":"Point"}
 }

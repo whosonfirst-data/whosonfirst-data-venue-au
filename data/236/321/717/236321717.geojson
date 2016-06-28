@@ -2,13 +2,14 @@
   "id": 236321717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.756401,-32.05946,115.756401,-32.05946",
     "geom:latitude":-32.05946,
     "geom:longitude":115.756401,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Hampton Rd",
     "sg:city":"Fremantle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236321717,
-    "wof:lastmodified":1449001736,
+    "wof:lastmodified":1466190736,
     "wof:name":"Hampton Road Learning Centre",
     "wof:parent_id":85770871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [115.756401,-32.05946,115.756401,-32.05946],
+  "bbox": [
+    115.756401,
+    -32.05946,
+    115.756401,
+    -32.05946
+],
   "geometry": {"coordinates":[115.756401,-32.05946],"type":"Point"}
 }

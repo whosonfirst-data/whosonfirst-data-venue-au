@@ -2,13 +2,14 @@
   "id": 202971129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.179855,-33.88726,151.179855,-33.88726",
     "geom:latitude":-33.88726,
     "geom:longitude":151.179855,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Missenden Rd",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202971129,
-    "wof:lastmodified":1449061406,
+    "wof:lastmodified":1466191087,
     "wof:name":"Missenden Cafe",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.179855,-33.88726,151.179855,-33.88726],
+  "bbox": [
+    151.179855,
+    -33.88726,
+    151.179855,
+    -33.88726
+],
   "geometry": {"coordinates":[151.179855,-33.88726],"type":"Point"}
 }

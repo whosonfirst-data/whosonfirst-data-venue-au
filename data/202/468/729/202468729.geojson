@@ -2,13 +2,14 @@
   "id": 202468729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.961533,-37.838474,144.961533,-37.838474",
     "geom:latitude":-37.838474,
     "geom:longitude":144.961533,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Thomson St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202468729,
-    "wof:lastmodified":1449061914,
+    "wof:lastmodified":1466189051,
     "wof:name":"Access Net Australia",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [144.961533,-37.838474,144.961533,-37.838474],
+  "bbox": [
+    144.961533,
+    -37.838474,
+    144.961533,
+    -37.838474
+],
   "geometry": {"coordinates":[144.961533,-37.838474],"type":"Point"}
 }

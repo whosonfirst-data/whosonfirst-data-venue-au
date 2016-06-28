@@ -2,13 +2,14 @@
   "id": 253108743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.830276,-37.767826,144.830276,-37.767826",
     "geom:latitude":-37.767826,
     "geom:longitude":144.830276,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Mcintyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253108743,
-    "wof:lastmodified":1449062872,
+    "wof:lastmodified":1466188912,
     "wof:name":"A & N Costa Discount Tyres",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [144.830276,-37.767826,144.830276,-37.767826],
+  "bbox": [
+    144.830276,
+    -37.767826,
+    144.830276,
+    -37.767826
+],
   "geometry": {"coordinates":[144.830276,-37.767826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186051563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.575302,-33.059483,151.575302,-33.059483",
     "geom:latitude":-33.059483,
     "geom:longitude":151.575302,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Donnelly Rd",
     "sg:city":"Wangi Wangi",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051563,
-    "wof:lastmodified":1449052021,
+    "wof:lastmodified":1466188258,
     "wof:name":"Wangi Sports Ground",
     "wof:parent_id":85780315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ground"
     ]
 },
-  "bbox": [151.575302,-33.059483,151.575302,-33.059483],
-  "geometry": {"coordinates":[151.575302,-33.059483],"type":"Point"}
+  "bbox": [
+    151.575302,
+    -33.059483,
+    151.575302,
+    -33.059483
+],
+  "geometry": {"coordinates":[151.57530199999999,-33.059483],"type":"Point"}
 }

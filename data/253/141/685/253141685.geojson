@@ -2,13 +2,14 @@
   "id": 253141685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.901566,-27.555168,151.901566,-27.555168",
     "geom:latitude":-27.555168,
     "geom:longitude":151.901566,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Boundary St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253141685,
-    "wof:lastmodified":1449063864,
+    "wof:lastmodified":1466189450,
     "wof:name":"Toowoomba Truck Spares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [151.901566,-27.555168,151.901566,-27.555168],
+  "bbox": [
+    151.901566,
+    -27.555168,
+    151.901566,
+    -27.555168
+],
   "geometry": {"coordinates":[151.901566,-27.555168],"type":"Point"}
 }

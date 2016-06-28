@@ -2,13 +2,14 @@
   "id": 220178561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.363373,-38.148109,144.363373,-38.148109",
     "geom:latitude":-38.148109,
     "geom:longitude":144.363373,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1/ 33 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220178561,
-    "wof:lastmodified":1449074627,
+    "wof:lastmodified":1466189159,
     "wof:name":"White Minx",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [144.363373,-38.148109,144.363373,-38.148109],
+  "bbox": [
+    144.363373,
+    -38.148109,
+    144.363373,
+    -38.148109
+],
   "geometry": {"coordinates":[144.363373,-38.148109],"type":"Point"}
 }

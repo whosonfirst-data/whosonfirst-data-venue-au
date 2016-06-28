@@ -2,13 +2,14 @@
   "id": 202844437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.522415,-36.309128,146.522415,-36.309128",
     "geom:latitude":-36.309128,
     "geom:longitude":146.522415,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"37 MacKay St",
     "sg:city":"Eldorado",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202844437,
-    "wof:lastmodified":1449061196,
+    "wof:lastmodified":1466190601,
     "wof:name":"Eldorado Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [146.522415,-36.309128,146.522415,-36.309128],
+  "bbox": [
+    146.522415,
+    -36.309128,
+    146.522415,
+    -36.309128
+],
   "geometry": {"coordinates":[146.522415,-36.309128],"type":"Point"}
 }

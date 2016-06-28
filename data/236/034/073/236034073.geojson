@@ -2,13 +2,14 @@
   "id": 236034073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.780487,-37.709553,144.780487,-37.709553",
     "geom:latitude":-37.709553,
     "geom:longitude":144.780487,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Milligan Pde",
     "sg:city":"Sydenham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236034073,
-    "wof:lastmodified":1449001952,
+    "wof:lastmodified":1466187301,
     "wof:name":"F J Fire Protection Pty Ltd",
     "wof:parent_id":85777919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [144.780487,-37.709553,144.780487,-37.709553],
-  "geometry": {"coordinates":[144.780487,-37.709553],"type":"Point"}
+  "bbox": [
+    144.780487,
+    -37.709553,
+    144.780487,
+    -37.709553
+],
+  "geometry": {"coordinates":[144.78048699999999,-37.709553],"type":"Point"}
 }

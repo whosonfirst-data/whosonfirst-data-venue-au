@@ -2,13 +2,14 @@
   "id": 169785911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.574615,-38.598026,145.574615,-38.598026",
     "geom:latitude":-38.598026,
     "geom:longitude":145.574615,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Dudley St",
     "sg:city":"Dudley South",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169785911,
-    "wof:lastmodified":1449035399,
+    "wof:lastmodified":1466188449,
     "wof:name":"Mark Sweet Floor Sanding & Polishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [145.574615,-38.598026,145.574615,-38.598026],
-  "geometry": {"coordinates":[145.574615,-38.598026],"type":"Point"}
+  "bbox": [
+    145.574615,
+    -38.598026,
+    145.574615,
+    -38.598026
+],
+  "geometry": {"coordinates":[145.57461499999999,-38.598026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220180807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.346115,-38.160244,144.346115,-38.160244",
     "geom:latitude":-38.160244,
     "geom:longitude":144.346115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bloomsbury St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220180807,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466189204,
     "wof:name":"Plumb Spec Plumbing Pty Ltd",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [144.346115,-38.160244,144.346115,-38.160244],
+  "bbox": [
+    144.346115,
+    -38.160244,
+    144.346115,
+    -38.160244
+],
   "geometry": {"coordinates":[144.346115,-38.160244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185644519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.911003,-32.067368,115.911003,-32.067368",
     "geom:latitude":-32.067368,
     "geom:longitude":115.911003,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Baile Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185644519,
-    "wof:lastmodified":1449007526,
+    "wof:lastmodified":1466188163,
     "wof:name":"Transfloor Truss WA",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfrs"
     ]
 },
-  "bbox": [115.911003,-32.067368,115.911003,-32.067368],
-  "geometry": {"coordinates":[115.911003,-32.067368],"type":"Point"}
+  "bbox": [
+    115.911003,
+    -32.067368,
+    115.911003,
+    -32.067368
+],
+  "geometry": {"coordinates":[115.91100299999999,-32.067368],"type":"Point"}
 }

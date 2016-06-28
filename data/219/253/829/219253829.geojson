@@ -2,13 +2,14 @@
   "id": 219253829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.996689,-37.780216,144.996689,-37.780216",
     "geom:latitude":-37.780216,
     "geom:longitude":144.996689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"level 1/ 85 High St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219253829,
-    "wof:lastmodified":1449073485,
+    "wof:lastmodified":1466187135,
     "wof:name":"Planview Property Group",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.996689,-37.780216,144.996689,-37.780216],
+  "bbox": [
+    144.996689,
+    -37.780216,
+    144.996689,
+    -37.780216
+],
   "geometry": {"coordinates":[144.996689,-37.780216],"type":"Point"}
 }

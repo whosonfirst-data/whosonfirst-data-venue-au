@@ -2,13 +2,14 @@
   "id": 252983981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.123657,-26.695297,153.123657,-26.695297",
     "geom:latitude":-26.695297,
     "geom:longitude":153.123657,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Bangalow St",
     "sg:city":"Minyama",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252983981,
-    "wof:lastmodified":1449006420,
+    "wof:lastmodified":1466189701,
     "wof:name":"Biotech Sewerage Treatment Plant Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [153.123657,-26.695297,153.123657,-26.695297],
-  "geometry": {"coordinates":[153.123657,-26.695297],"type":"Point"}
+  "bbox": [
+    153.123657,
+    -26.695297,
+    153.123657,
+    -26.695297
+],
+  "geometry": {"coordinates":[153.12365700000001,-26.695297],"type":"Point"}
 }

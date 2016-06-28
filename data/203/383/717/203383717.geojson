@@ -2,13 +2,14 @@
   "id": 203383717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.859222,-37.545059,143.859222,-37.545059",
     "geom:latitude":-37.545059,
     "geom:longitude":143.859222,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Armstrong St North",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203383717,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466189264,
     "wof:name":"Doyle Anthony J.",
     "wof:parent_id":85780463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.859222,-37.545059,143.859222,-37.545059],
-  "geometry": {"coordinates":[143.859222,-37.545059],"type":"Point"}
+  "bbox": [
+    143.859222,
+    -37.545059,
+    143.859222,
+    -37.545059
+],
+  "geometry": {"coordinates":[143.85922199999999,-37.545059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186404775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.814194,-19.261385,146.814194,-19.261385",
     "geom:latitude":-19.261385,
     "geom:longitude":146.814194,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Sturt St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186404775,
-    "wof:lastmodified":1449052148,
+    "wof:lastmodified":1466189387,
     "wof:name":"T.A.B.",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tab's"
     ]
 },
-  "bbox": [146.814194,-19.261385,146.814194,-19.261385],
-  "geometry": {"coordinates":[146.814194,-19.261385],"type":"Point"}
+  "bbox": [
+    146.814194,
+    -19.261385,
+    146.814194,
+    -19.261385
+],
+  "geometry": {"coordinates":[146.81419399999999,-19.261385],"type":"Point"}
 }

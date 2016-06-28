@@ -2,13 +2,14 @@
   "id": 220180071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.359497,-38.156471,144.359497,-38.156471",
     "geom:latitude":-38.156471,
     "geom:longitude":144.359497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Yarra St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220180071,
-    "wof:lastmodified":1449074090,
+    "wof:lastmodified":1466189190,
     "wof:name":"Peppies Milk Bar",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.359497,-38.156471,144.359497,-38.156471],
+  "bbox": [
+    144.359497,
+    -38.156471,
+    144.359497,
+    -38.156471
+],
   "geometry": {"coordinates":[144.359497,-38.156471],"type":"Point"}
 }

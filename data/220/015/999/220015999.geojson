@@ -2,13 +2,14 @@
   "id": 220015999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.597107,-35.028172,138.597107,-35.028172",
     "geom:latitude":-35.028172,
     "geom:longitude":138.597107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Shepherds Hill Rd",
     "sg:city":"Eden Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220015999,
-    "wof:lastmodified":1449074231,
+    "wof:lastmodified":1466187061,
     "wof:name":"Bethany Student Accommodation",
     "wof:parent_id":85774993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [138.597107,-35.028172,138.597107,-35.028172],
-  "geometry": {"coordinates":[138.597107,-35.028172],"type":"Point"}
+  "bbox": [
+    138.597107,
+    -35.028172,
+    138.597107,
+    -35.028172
+],
+  "geometry": {"coordinates":[138.59710699999999,-35.028172],"type":"Point"}
 }

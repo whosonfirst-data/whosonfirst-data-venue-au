@@ -2,13 +2,14 @@
   "id": 169756773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115356,-27.228456,153.115356,-27.228456",
     "geom:latitude":-27.228456,
     "geom:longitude":153.115356,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29a Redcliffe Pde",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169756773,
-    "wof:lastmodified":1449034660,
+    "wof:lastmodified":1466187971,
     "wof:name":"Century 21 Warlters & Partners",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.115356,-27.228456,153.115356,-27.228456],
-  "geometry": {"coordinates":[153.115356,-27.228456],"type":"Point"}
+  "bbox": [
+    153.115356,
+    -27.228456,
+    153.115356,
+    -27.228456
+],
+  "geometry": {"coordinates":[153.11535599999999,-27.228456],"type":"Point"}
 }

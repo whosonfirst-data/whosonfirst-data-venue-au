@@ -2,13 +2,14 @@
   "id": 220161063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.347672,-38.160877,144.347672,-38.160877",
     "geom:latitude":-38.160877,
     "geom:longitude":144.347672,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Fernleigh St",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220161063,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466188814,
     "wof:name":"Barwon Grange",
     "wof:parent_id":85780759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "attractions"
     ]
 },
-  "bbox": [144.347672,-38.160877,144.347672,-38.160877],
-  "geometry": {"coordinates":[144.347672,-38.160877],"type":"Point"}
+  "bbox": [
+    144.347672,
+    -38.160877,
+    144.347672,
+    -38.160877
+],
+  "geometry": {"coordinates":[144.34767199999999,-38.160877],"type":"Point"}
 }

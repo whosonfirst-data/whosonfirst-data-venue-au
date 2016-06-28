@@ -2,13 +2,14 @@
   "id": 219281249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.244263,-38.181252,146.244263,-38.181252",
     "geom:latitude":-38.181252,
     "geom:longitude":146.244263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Waterloo Rd",
     "sg:city":"Moe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219281249,
-    "wof:lastmodified":1449073369,
+    "wof:lastmodified":1466187377,
     "wof:name":"W-4 Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [146.244263,-38.181252,146.244263,-38.181252],
-  "geometry": {"coordinates":[146.244263,-38.181252],"type":"Point"}
+  "bbox": [
+    146.244263,
+    -38.181252,
+    146.244263,
+    -38.181252
+],
+  "geometry": {"coordinates":[146.24426299999999,-38.181252],"type":"Point"}
 }

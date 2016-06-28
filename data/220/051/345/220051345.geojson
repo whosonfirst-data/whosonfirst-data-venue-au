@@ -2,13 +2,14 @@
   "id": 220051345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.156403,-33.361206,116.156403,-33.361206",
     "geom:latitude":-33.361206,
     "geom:longitude":116.156403,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Throssell St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220051345,
-    "wof:lastmodified":1449074536,
+    "wof:lastmodified":1466187515,
     "wof:name":"West Coast Seafoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [116.156403,-33.361206,116.156403,-33.361206],
+  "bbox": [
+    116.156403,
+    -33.361206,
+    116.156403,
+    -33.361206
+],
   "geometry": {"coordinates":[116.156403,-33.361206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220178779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.354797,-38.160118,144.354797,-38.160118",
     "geom:latitude":-38.160118,
     "geom:longitude":144.354797,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorabool St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220178779,
-    "wof:lastmodified":1449074627,
+    "wof:lastmodified":1466189164,
     "wof:name":"Cliff Dean Finance",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [144.354797,-38.160118,144.354797,-38.160118],
-  "geometry": {"coordinates":[144.354797,-38.160118],"type":"Point"}
+  "bbox": [
+    144.354797,
+    -38.160118,
+    144.354797,
+    -38.160118
+],
+  "geometry": {"coordinates":[144.35479699999999,-38.160118],"type":"Point"}
 }

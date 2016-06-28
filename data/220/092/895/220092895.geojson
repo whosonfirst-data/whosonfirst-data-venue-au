@@ -2,13 +2,14 @@
   "id": 220092895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.660767,-38.267677,144.660767,-38.267677",
     "geom:latitude":-38.267677,
     "geom:longitude":144.660767,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Hesse St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220092895,
-    "wof:lastmodified":1449074698,
+    "wof:lastmodified":1466187896,
     "wof:name":"Hepburn Queenscliff",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.660767,-38.267677,144.660767,-38.267677],
-  "geometry": {"coordinates":[144.660767,-38.267677],"type":"Point"}
+  "bbox": [
+    144.660767,
+    -38.267677,
+    144.660767,
+    -38.267677
+],
+  "geometry": {"coordinates":[144.66076699999999,-38.267677],"type":"Point"}
 }

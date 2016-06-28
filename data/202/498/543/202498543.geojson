@@ -2,13 +2,14 @@
   "id": 202498543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.049026,-37.907928,145.049026,-37.907928",
     "geom:latitude":-37.907928,
     "geom:longitude":145.049026,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Bewdley St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202498543,
-    "wof:lastmodified":1449062042,
+    "wof:lastmodified":1466189505,
     "wof:name":"Clearwater Plumbing",
     "wof:parent_id":85776053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.049026,-37.907928,145.049026,-37.907928],
+  "bbox": [
+    145.049026,
+    -37.907928,
+    145.049026,
+    -37.907928
+],
   "geometry": {"coordinates":[145.049026,-37.907928],"type":"Point"}
 }

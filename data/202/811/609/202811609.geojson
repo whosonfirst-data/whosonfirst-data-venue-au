@@ -2,13 +2,14 @@
   "id": 202811609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.714508,-32.92205,151.714508,-32.92205",
     "geom:latitude":-32.92205,
     "geom:longitude":151.714508,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Alma Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202811609,
-    "wof:lastmodified":1449061349,
+    "wof:lastmodified":1466190373,
     "wof:name":"Hunter Media Monitoring",
     "wof:parent_id":85769863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [151.714508,-32.92205,151.714508,-32.92205],
+  "bbox": [
+    151.714508,
+    -32.92205,
+    151.714508,
+    -32.92205
+],
   "geometry": {"coordinates":[151.714508,-32.92205],"type":"Point"}
 }

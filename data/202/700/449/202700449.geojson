@@ -2,13 +2,14 @@
   "id": 202700449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.051865,-27.366358,153.051865,-27.366358",
     "geom:latitude":-27.366358,
     "geom:longitude":153.051865,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Delta St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202700449,
-    "wof:lastmodified":1449062432,
+    "wof:lastmodified":1466188835,
     "wof:name":"Image Blinds",
     "wof:parent_id":85768899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "doors"
     ]
 },
-  "bbox": [153.051865,-27.366358,153.051865,-27.366358],
-  "geometry": {"coordinates":[153.051865,-27.366358],"type":"Point"}
+  "bbox": [
+    153.051865,
+    -27.366358,
+    153.051865,
+    -27.366358
+],
+  "geometry": {"coordinates":[153.05186499999999,-27.366358],"type":"Point"}
 }

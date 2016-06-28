@@ -2,13 +2,14 @@
   "id": 253106283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.810944,-37.810516,144.810944,-37.810516",
     "geom:latitude":-37.810516,
     "geom:longitude":144.810944,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Industrial Drv",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253106283,
-    "wof:lastmodified":1449062784,
+    "wof:lastmodified":1466188862,
     "wof:name":"Coghlan Pty Ltd",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "call"
     ]
 },
-  "bbox": [144.810944,-37.810516,144.810944,-37.810516],
-  "geometry": {"coordinates":[144.810944,-37.810516],"type":"Point"}
+  "bbox": [
+    144.810944,
+    -37.810516,
+    144.810944,
+    -37.810516
+],
+  "geometry": {"coordinates":[144.81094400000001,-37.810516],"type":"Point"}
 }

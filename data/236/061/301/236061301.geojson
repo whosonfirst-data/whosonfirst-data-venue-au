@@ -2,13 +2,14 @@
   "id": 236061301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.904205,-37.768333,144.904205,-37.768333",
     "geom:latitude":-37.768333,
     "geom:longitude":144.904205,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 The Boulevard St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236061301,
-    "wof:lastmodified":1449004142,
+    "wof:lastmodified":1466187849,
     "wof:name":"Essendon Rowing Club",
     "wof:parent_id":85776547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rowing"
     ]
 },
-  "bbox": [144.904205,-37.768333,144.904205,-37.768333],
-  "geometry": {"coordinates":[144.904205,-37.768333],"type":"Point"}
+  "bbox": [
+    144.904205,
+    -37.768333,
+    144.904205,
+    -37.768333
+],
+  "geometry": {"coordinates":[144.90420499999999,-37.768333],"type":"Point"}
 }

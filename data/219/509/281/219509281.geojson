@@ -2,13 +2,14 @@
   "id": 219509281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.130432,-33.913158,151.130432,-33.913158",
     "geom:latitude":-33.913158,
     "geom:longitude":151.130432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16/ 20 Smith Ave",
     "sg:city":"Hurlstone Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219509281,
-    "wof:lastmodified":1449070518,
+    "wof:lastmodified":1466189688,
     "wof:name":"ECA Space (Earth Covered Architecture) Design Pty Ltd",
     "wof:parent_id":85771171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.130432,-33.913158,151.130432,-33.913158],
-  "geometry": {"coordinates":[151.130432,-33.913158],"type":"Point"}
+  "bbox": [
+    151.130432,
+    -33.913158,
+    151.130432,
+    -33.913158
+],
+  "geometry": {"coordinates":[151.13043200000001,-33.913158],"type":"Point"}
 }

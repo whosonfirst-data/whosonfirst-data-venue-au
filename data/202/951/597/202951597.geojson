@@ -2,13 +2,14 @@
   "id": 202951597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112442,-30.317923,153.112442,-30.317923",
     "geom:latitude":-30.317923,
     "geom:longitude":153.112442,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hangar 77 Aviation Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202951597,
-    "wof:lastmodified":1449060210,
+    "wof:lastmodified":1466191015,
     "wof:name":"Precision Helicopters Pty Ltd",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "helicopter"
     ]
 },
-  "bbox": [153.112442,-30.317923,153.112442,-30.317923],
-  "geometry": {"coordinates":[153.112442,-30.317923],"type":"Point"}
+  "bbox": [
+    153.112442,
+    -30.317923,
+    153.112442,
+    -30.317923
+],
+  "geometry": {"coordinates":[153.11244199999999,-30.317923],"type":"Point"}
 }

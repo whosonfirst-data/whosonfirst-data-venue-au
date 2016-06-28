@@ -2,13 +2,14 @@
   "id": 253102459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.814835,-37.75975,144.814835,-37.75975",
     "geom:latitude":-37.75975,
     "geom:longitude":144.814835,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Majorca St",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253102459,
-    "wof:lastmodified":1449065569,
+    "wof:lastmodified":1466188784,
     "wof:name":"Sunshine Acute Adult Psychiatric Unit",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.814835,-37.75975,144.814835,-37.75975],
-  "geometry": {"coordinates":[144.814835,-37.75975],"type":"Point"}
+  "bbox": [
+    144.814835,
+    -37.75975,
+    144.814835,
+    -37.75975
+],
+  "geometry": {"coordinates":[144.81483499999999,-37.75975],"type":"Point"}
 }

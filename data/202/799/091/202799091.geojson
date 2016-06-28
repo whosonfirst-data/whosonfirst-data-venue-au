@@ -2,13 +2,14 @@
   "id": 202799091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.7509,-32.925674,151.7509,-32.925674",
     "geom:latitude":-32.925674,
     "geom:longitude":151.7509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Denison St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202799091,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466190304,
     "wof:name":"Hunter Medical Association",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.7509,-32.925674,151.7509,-32.925674],
+  "bbox": [
+    151.7509,
+    -32.925674,
+    151.7509,
+    -32.925674
+],
   "geometry": {"coordinates":[151.7509,-32.925674],"type":"Point"}
 }

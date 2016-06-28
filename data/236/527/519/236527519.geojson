@@ -2,13 +2,14 @@
   "id": 236527519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.059311,-33.815266,116.059311,-33.815266",
     "geom:latitude":-33.815266,
     "geom:longitude":116.059311,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"109 James St",
     "sg:city":"Greenbushes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236527519,
-    "wof:lastmodified":1449004429,
+    "wof:lastmodified":1466191432,
     "wof:name":"UPS Wholesalers of Australia Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "installation"
     ]
 },
-  "bbox": [116.059311,-33.815266,116.059311,-33.815266],
-  "geometry": {"coordinates":[116.059311,-33.815266],"type":"Point"}
+  "bbox": [
+    116.059311,
+    -33.815266,
+    116.059311,
+    -33.815266
+],
+  "geometry": {"coordinates":[116.05931099999999,-33.815266],"type":"Point"}
 }

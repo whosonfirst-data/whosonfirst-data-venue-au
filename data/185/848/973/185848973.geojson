@@ -2,13 +2,14 @@
   "id": 185848973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.902863,-25.282871,152.902863,-25.282871",
     "geom:latitude":-25.282871,
     "geom:longitude":152.902863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 580 The Esplanade Rd",
     "sg:city":"Urangan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185848973,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466187329,
     "wof:name":"KLM Services Pty Ltd",
     "wof:parent_id":85770521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automation"
     ]
 },
-  "bbox": [152.902863,-25.282871,152.902863,-25.282871],
+  "bbox": [
+    152.902863,
+    -25.282871,
+    152.902863,
+    -25.282871
+],
   "geometry": {"coordinates":[152.902863,-25.282871],"type":"Point"}
 }

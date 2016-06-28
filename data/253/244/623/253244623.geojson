@@ -2,13 +2,14 @@
   "id": 253244623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.952286,-27.568211,151.952286,-27.568211",
     "geom:latitude":-27.568211,
     "geom:longitude":151.952286,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Ruthven St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253244623,
-    "wof:lastmodified":1449064005,
+    "wof:lastmodified":1466190381,
     "wof:name":"CAP Jewellers",
     "wof:parent_id":85782307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [151.952286,-27.568211,151.952286,-27.568211],
-  "geometry": {"coordinates":[151.952286,-27.568211],"type":"Point"}
+  "bbox": [
+    151.952286,
+    -27.568211,
+    151.952286,
+    -27.568211
+],
+  "geometry": {"coordinates":[151.95228599999999,-27.568211],"type":"Point"}
 }

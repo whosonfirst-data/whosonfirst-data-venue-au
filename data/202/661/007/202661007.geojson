@@ -2,13 +2,14 @@
   "id": 202661007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.032257,-27.426092,153.032257,-27.426092",
     "geom:latitude":-27.426092,
     "geom:longitude":153.032257,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Lutwyche Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202661007,
-    "wof:lastmodified":1449062377,
+    "wof:lastmodified":1466188093,
     "wof:name":"Rosco Canoes",
     "wof:parent_id":85774057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "canoe"
     ]
 },
-  "bbox": [153.032257,-27.426092,153.032257,-27.426092],
-  "geometry": {"coordinates":[153.032257,-27.426092],"type":"Point"}
+  "bbox": [
+    153.032257,
+    -27.426092,
+    153.032257,
+    -27.426092
+],
+  "geometry": {"coordinates":[153.03225699999999,-27.426092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236119413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.927643,-37.773827,144.927643,-37.773827",
     "geom:latitude":-37.773827,
     "geom:longitude":144.927643,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"544 Mt Alexander Rd",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236119413,
-    "wof:lastmodified":1449004113,
+    "wof:lastmodified":1466189030,
     "wof:name":"Artistic Tiles & Fountains",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sundial"
     ]
 },
-  "bbox": [144.927643,-37.773827,144.927643,-37.773827],
-  "geometry": {"coordinates":[144.927643,-37.773827],"type":"Point"}
+  "bbox": [
+    144.927643,
+    -37.773827,
+    144.927643,
+    -37.773827
+],
+  "geometry": {"coordinates":[144.92764299999999,-37.773827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253000933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.088226,-24.116823,148.088226,-24.116823",
     "geom:latitude":-24.116823,
     "geom:longitude":148.088226,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Eclipse St",
     "sg:city":"Springsure",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253000933,
-    "wof:lastmodified":1449063288,
+    "wof:lastmodified":1466189965,
     "wof:name":"Fred Noffke Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stock"
     ]
 },
-  "bbox": [148.088226,-24.116823,148.088226,-24.116823],
-  "geometry": {"coordinates":[148.088226,-24.116823],"type":"Point"}
+  "bbox": [
+    148.088226,
+    -24.116823,
+    148.088226,
+    -24.116823
+],
+  "geometry": {"coordinates":[148.08822599999999,-24.116823],"type":"Point"}
 }

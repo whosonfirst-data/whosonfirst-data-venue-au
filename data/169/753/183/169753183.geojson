@@ -2,13 +2,14 @@
   "id": 169753183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.110275,-27.222404,153.110275,-27.222404",
     "geom:latitude":-27.222404,
     "geom:longitude":153.110275,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Klingner Rd",
     "sg:city":"Redcliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169753183,
-    "wof:lastmodified":1449033071,
+    "wof:lastmodified":1466187914,
     "wof:name":"Smith G T",
     "wof:parent_id":85771039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [153.110275,-27.222404,153.110275,-27.222404],
+  "bbox": [
+    153.110275,
+    -27.222404,
+    153.110275,
+    -27.222404
+],
   "geometry": {"coordinates":[153.110275,-27.222404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252854521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.526123,-32.354904,149.526123,-32.354904",
     "geom:latitude":-32.354904,
     "geom:longitude":149.526123,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Rouse St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252854521,
-    "wof:lastmodified":1449006462,
+    "wof:lastmodified":1466188589,
     "wof:name":"Watt Rhonda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [149.526123,-32.354904,149.526123,-32.354904],
-  "geometry": {"coordinates":[149.526123,-32.354904],"type":"Point"}
+  "bbox": [
+    149.526123,
+    -32.354904,
+    149.526123,
+    -32.354904
+],
+  "geometry": {"coordinates":[149.52612300000001,-32.354904],"type":"Point"}
 }

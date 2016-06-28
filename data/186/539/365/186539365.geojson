@@ -2,13 +2,14 @@
   "id": 186539365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.734344,-19.261316,146.734344,-19.261316",
     "geom:latitude":-19.261316,
     "geom:longitude":146.734344,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Ingham Rd",
     "sg:city":"Bohle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186539365,
-    "wof:lastmodified":1449053073,
+    "wof:lastmodified":1466190635,
     "wof:name":"Mole Engineering Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [146.734344,-19.261316,146.734344,-19.261316],
-  "geometry": {"coordinates":[146.734344,-19.261316],"type":"Point"}
+  "bbox": [
+    146.734344,
+    -19.261316,
+    146.734344,
+    -19.261316
+],
+  "geometry": {"coordinates":[146.73434399999999,-19.261316],"type":"Point"}
 }

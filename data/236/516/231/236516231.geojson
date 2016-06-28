@@ -2,13 +2,14 @@
   "id": 236516231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.169647,-32.565273,151.169647,-32.565273",
     "geom:latitude":-32.565273,
     "geom:longitude":151.169647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bathurst St",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236516231,
-    "wof:lastmodified":1449002151,
+    "wof:lastmodified":1466191419,
     "wof:name":"Singleton Community Transport",
     "wof:parent_id":85774775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organisation"
     ]
 },
-  "bbox": [151.169647,-32.565273,151.169647,-32.565273],
+  "bbox": [
+    151.169647,
+    -32.565273,
+    151.169647,
+    -32.565273
+],
   "geometry": {"coordinates":[151.169647,-32.565273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203090767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.070396,-32.721252,116.070396,-32.721252",
     "geom:latitude":-32.721252,
     "geom:longitude":116.070396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 1379 Nanga Rd",
     "sg:city":"Dwellingup",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203090767,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466188914,
     "wof:name":"Dwellingup Bunk Houses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "adventure"
     ]
 },
-  "bbox": [116.070396,-32.721252,116.070396,-32.721252],
+  "bbox": [
+    116.070396,
+    -32.721252,
+    116.070396,
+    -32.721252
+],
   "geometry": {"coordinates":[116.070396,-32.721252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220047051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.168968,-33.346432,116.168968,-33.346432",
     "geom:latitude":-33.346432,
     "geom:longitude":116.168968,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Steere St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220047051,
-    "wof:lastmodified":1449074572,
+    "wof:lastmodified":1466187478,
     "wof:name":"Collie Menswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [116.168968,-33.346432,116.168968,-33.346432],
-  "geometry": {"coordinates":[116.168968,-33.346432],"type":"Point"}
+  "bbox": [
+    116.168968,
+    -33.346432,
+    116.168968,
+    -33.346432
+],
+  "geometry": {"coordinates":[116.16896800000001,-33.346432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202809685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.724594,-32.917526,151.724594,-32.917526",
     "geom:latitude":-32.917526,
     "geom:longitude":151.724594,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Turton Rd",
     "sg:city":"New Lambton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202809685,
-    "wof:lastmodified":1449062214,
+    "wof:lastmodified":1466190367,
     "wof:name":"Eveleighs Pie Shop",
     "wof:parent_id":85778069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pastry"
     ]
 },
-  "bbox": [151.724594,-32.917526,151.724594,-32.917526],
+  "bbox": [
+    151.724594,
+    -32.917526,
+    151.724594,
+    -32.917526
+],
   "geometry": {"coordinates":[151.724594,-32.917526],"type":"Point"}
 }

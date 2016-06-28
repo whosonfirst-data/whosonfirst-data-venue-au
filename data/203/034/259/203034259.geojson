@@ -2,13 +2,14 @@
   "id": 203034259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.138153,-37.681496,145.138153,-37.681496",
     "geom:latitude":-37.681496,
     "geom:longitude":145.138153,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Cicriodora Crt",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203034259,
-    "wof:lastmodified":1449025150,
+    "wof:lastmodified":1466187892,
     "wof:name":"Mirage Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [145.138153,-37.681496,145.138153,-37.681496],
-  "geometry": {"coordinates":[145.138153,-37.681496],"type":"Point"}
+  "bbox": [
+    145.138153,
+    -37.681496,
+    145.138153,
+    -37.681496
+],
+  "geometry": {"coordinates":[145.13815299999999,-37.681496],"type":"Point"}
 }

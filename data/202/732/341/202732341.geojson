@@ -2,13 +2,14 @@
   "id": 202732341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.631668,-34.78244,138.631668,-34.78244",
     "geom:latitude":-34.78244,
     "geom:longitude":138.631668,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hangar 50 Parafield Airport",
     "sg:city":"Parafield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202732341,
-    "wof:lastmodified":1449062754,
+    "wof:lastmodified":1466189444,
     "wof:name":"Aeropower Pty Ltd",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "flying"
     ]
 },
-  "bbox": [138.631668,-34.78244,138.631668,-34.78244],
-  "geometry": {"coordinates":[138.631668,-34.78244],"type":"Point"}
+  "bbox": [
+    138.631668,
+    -34.78244,
+    138.631668,
+    -34.78244
+],
+  "geometry": {"coordinates":[138.63166799999999,-34.78244],"type":"Point"}
 }

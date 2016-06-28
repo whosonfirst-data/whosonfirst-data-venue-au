@@ -2,13 +2,14 @@
   "id": 220104087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.486923,-38.270599,144.486923,-38.270599",
     "geom:latitude":-38.270599,
     "geom:longitude":144.486923,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Saratoga Ave",
     "sg:city":"Barwon Heads",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220104087,
-    "wof:lastmodified":1449074367,
+    "wof:lastmodified":1466187993,
     "wof:name":"TNLA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [144.486923,-38.270599,144.486923,-38.270599],
-  "geometry": {"coordinates":[144.486923,-38.270599],"type":"Point"}
+  "bbox": [
+    144.486923,
+    -38.270599,
+    144.486923,
+    -38.270599
+],
+  "geometry": {"coordinates":[144.48692299999999,-38.270599],"type":"Point"}
 }

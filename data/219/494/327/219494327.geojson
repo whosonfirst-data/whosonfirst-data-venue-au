@@ -2,13 +2,14 @@
   "id": 219494327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.059433,-33.889763,151.059433,-33.889763",
     "geom:latitude":-33.889763,
     "geom:longitude":151.059433,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hume Hwy",
     "sg:city":"Chullora",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219494327,
-    "wof:lastmodified":1449073534,
+    "wof:lastmodified":1466189399,
     "wof:name":"Payless Tyres Chullora",
     "wof:parent_id":85776861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [151.059433,-33.889763,151.059433,-33.889763],
-  "geometry": {"coordinates":[151.059433,-33.889763],"type":"Point"}
+  "bbox": [
+    151.059433,
+    -33.889763,
+    151.059433,
+    -33.889763
+],
+  "geometry": {"coordinates":[151.05943300000001,-33.889763],"type":"Point"}
 }

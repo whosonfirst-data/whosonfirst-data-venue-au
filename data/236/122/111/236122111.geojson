@@ -2,13 +2,14 @@
   "id": 236122111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.124115,-37.784557,145.124115,-37.784557",
     "geom:latitude":-37.784557,
     "geom:longitude":145.124115,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10a Williamsons Rd",
     "sg:city":"Maribyrnong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236122111,
-    "wof:lastmodified":1449003541,
+    "wof:lastmodified":1466189087,
     "wof:name":"Peter's Radiator Services",
     "wof:parent_id":85769179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [145.124115,-37.784557,145.124115,-37.784557],
-  "geometry": {"coordinates":[145.124115,-37.784557],"type":"Point"}
+  "bbox": [
+    145.124115,
+    -37.784557,
+    145.124115,
+    -37.784557
+],
+  "geometry": {"coordinates":[145.12411499999999,-37.784557],"type":"Point"}
 }

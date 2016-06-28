@@ -2,13 +2,14 @@
   "id": 203127583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.732368,-32.525692,115.732368,-32.525692",
     "geom:latitude":-32.525692,
     "geom:longitude":115.732368,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Anstruther Rd",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203127583,
-    "wof:lastmodified":1449026710,
+    "wof:lastmodified":1466189480,
     "wof:name":"Eyes On Anstruther",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [115.732368,-32.525692,115.732368,-32.525692],
-  "geometry": {"coordinates":[115.732368,-32.525692],"type":"Point"}
+  "bbox": [
+    115.732368,
+    -32.525692,
+    115.732368,
+    -32.525692
+],
+  "geometry": {"coordinates":[115.73236799999999,-32.525692],"type":"Point"}
 }

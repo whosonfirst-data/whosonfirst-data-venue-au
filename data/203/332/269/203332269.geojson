@@ -2,13 +2,14 @@
   "id": 203332269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.585907,-37.719105,143.585907,-37.719105",
     "geom:latitude":-37.719105,
     "geom:longitude":143.585907,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Mcharg Rd",
     "sg:city":"Happy Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203332269,
-    "wof:lastmodified":1449026006,
+    "wof:lastmodified":1466188388,
     "wof:name":"Shellfish Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "farmer"
     ]
 },
-  "bbox": [143.585907,-37.719105,143.585907,-37.719105],
-  "geometry": {"coordinates":[143.585907,-37.719105],"type":"Point"}
+  "bbox": [
+    143.585907,
+    -37.719105,
+    143.585907,
+    -37.719105
+],
+  "geometry": {"coordinates":[143.58590699999999,-37.719105],"type":"Point"}
 }

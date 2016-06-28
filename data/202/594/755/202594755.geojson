@@ -2,13 +2,14 @@
   "id": 202594755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.614197,-33.836052,138.614197,-33.836052",
     "geom:latitude":-33.836052,
     "geom:longitude":138.614197,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Victoria Rd",
     "sg:city":"Clare",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202594755,
-    "wof:lastmodified":1449060472,
+    "wof:lastmodified":1466187239,
     "wof:name":"Clare Valley Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [138.614197,-33.836052,138.614197,-33.836052],
-  "geometry": {"coordinates":[138.614197,-33.836052],"type":"Point"}
+  "bbox": [
+    138.614197,
+    -33.836052,
+    138.614197,
+    -33.836052
+],
+  "geometry": {"coordinates":[138.61419699999999,-33.836052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236578007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.065689,-33.961151,151.065689,-33.961151",
     "geom:latitude":-33.961151,
     "geom:longitude":151.065689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Boundary Rd",
     "sg:city":"Peakhurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236578007,
-    "wof:lastmodified":1449002304,
+    "wof:lastmodified":1466191645,
     "wof:name":"St George Brake Centre",
     "wof:parent_id":85769979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brake"
     ]
 },
-  "bbox": [151.065689,-33.961151,151.065689,-33.961151],
-  "geometry": {"coordinates":[151.065689,-33.961151],"type":"Point"}
+  "bbox": [
+    151.065689,
+    -33.961151,
+    151.065689,
+    -33.961151
+],
+  "geometry": {"coordinates":[151.06568899999999,-33.961151],"type":"Point"}
 }

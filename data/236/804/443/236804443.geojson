@@ -2,13 +2,14 @@
   "id": 236804443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.90361,-34.482704,150.90361,-34.482704",
     "geom:latitude":-34.482704,
     "geom:longitude":150.90361,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 5/ 116 Wentworth St",
     "sg:city":"Port Kembla",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236804443,
-    "wof:lastmodified":1449004045,
+    "wof:lastmodified":1466192050,
     "wof:name":"Cafe One",
     "wof:parent_id":85771013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.90361,-34.482704,150.90361,-34.482704],
-  "geometry": {"coordinates":[150.90361,-34.482704],"type":"Point"}
+  "bbox": [
+    150.90361,
+    -34.482704,
+    150.90361,
+    -34.482704
+],
+  "geometry": {"coordinates":[150.90360999999999,-34.482704],"type":"Point"}
 }

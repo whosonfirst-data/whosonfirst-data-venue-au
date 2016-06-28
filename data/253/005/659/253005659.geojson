@@ -2,13 +2,14 @@
   "id": 253005659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.655823,-37.86742,144.655823,-37.86742",
     "geom:latitude":-37.86742,
     "geom:longitude":144.655823,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Mcmahon Crs",
     "sg:city":"Tarneit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253005659,
-    "wof:lastmodified":1449065550,
+    "wof:lastmodified":1466187016,
     "wof:name":"K M Cunningham Marking",
     "wof:parent_id":85777923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "road"
     ]
 },
-  "bbox": [144.655823,-37.86742,144.655823,-37.86742],
+  "bbox": [
+    144.655823,
+    -37.86742,
+    144.655823,
+    -37.86742
+],
   "geometry": {"coordinates":[144.655823,-37.86742],"type":"Point"}
 }

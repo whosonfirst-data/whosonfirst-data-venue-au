@@ -2,13 +2,14 @@
   "id": 236803143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892014,-34.494473,150.892014,-34.494473",
     "geom:latitude":-34.494473,
     "geom:longitude":150.892014,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Shellharbour Rd",
     "sg:city":"Kemblawarra",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236803143,
-    "wof:lastmodified":1449005296,
+    "wof:lastmodified":1466191945,
     "wof:name":"Lodehaul",
     "wof:parent_id":85770571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carrier"
     ]
 },
-  "bbox": [150.892014,-34.494473,150.892014,-34.494473],
-  "geometry": {"coordinates":[150.892014,-34.494473],"type":"Point"}
+  "bbox": [
+    150.892014,
+    -34.494473,
+    150.892014,
+    -34.494473
+],
+  "geometry": {"coordinates":[150.89201399999999,-34.494473],"type":"Point"}
 }

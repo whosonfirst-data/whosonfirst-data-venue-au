@@ -2,13 +2,14 @@
   "id": 236068773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.834488,-37.720806,144.834488,-37.720806",
     "geom:latitude":-37.720806,
     "geom:longitude":144.834488,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Arabin St",
     "sg:city":"Keilor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236068773,
-    "wof:lastmodified":1449003329,
+    "wof:lastmodified":1466188006,
     "wof:name":"Allsub Plumbing & Maintenance",
     "wof:parent_id":85770913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roof"
     ]
 },
-  "bbox": [144.834488,-37.720806,144.834488,-37.720806],
-  "geometry": {"coordinates":[144.834488,-37.720806],"type":"Point"}
+  "bbox": [
+    144.834488,
+    -37.720806,
+    144.834488,
+    -37.720806
+],
+  "geometry": {"coordinates":[144.83448799999999,-37.720806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236430395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.193909,-21.143101,149.193909,-21.143101",
     "geom:latitude":-21.143101,
     "geom:longitude":149.193909,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Burns St",
     "sg:city":"East Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236430395,
-    "wof:lastmodified":1449003814,
+    "wof:lastmodified":1466191172,
     "wof:name":"Borgs Brake & Front End Service",
     "wof:parent_id":85770779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brake"
     ]
 },
-  "bbox": [149.193909,-21.143101,149.193909,-21.143101],
-  "geometry": {"coordinates":[149.193909,-21.143101],"type":"Point"}
+  "bbox": [
+    149.193909,
+    -21.143101,
+    149.193909,
+    -21.143101
+],
+  "geometry": {"coordinates":[149.19390899999999,-21.143101],"type":"Point"}
 }

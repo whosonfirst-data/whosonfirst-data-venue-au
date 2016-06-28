@@ -2,13 +2,14 @@
   "id": 202976651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.175873,-33.887062,151.175873,-33.887062",
     "geom:latitude":-33.887062,
     "geom:longitude":151.175873,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Parramatta Rd",
     "sg:city":"Camperdown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202976651,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466191112,
     "wof:name":"Godfreys",
     "wof:parent_id":85774305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [151.175873,-33.887062,151.175873,-33.887062],
+  "bbox": [
+    151.175873,
+    -33.887062,
+    151.175873,
+    -33.887062
+],
   "geometry": {"coordinates":[151.175873,-33.887062],"type":"Point"}
 }

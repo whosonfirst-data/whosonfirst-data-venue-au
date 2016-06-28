@@ -2,13 +2,14 @@
   "id": 202493969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.036743,-37.902348,145.036743,-37.902348",
     "geom:latitude":-37.902348,
     "geom:longitude":145.036743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Malane St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202493969,
-    "wof:lastmodified":1449060911,
+    "wof:lastmodified":1466189451,
     "wof:name":"Italian (and French) Translator",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interpreter"
     ]
 },
-  "bbox": [145.036743,-37.902348,145.036743,-37.902348],
+  "bbox": [
+    145.036743,
+    -37.902348,
+    145.036743,
+    -37.902348
+],
   "geometry": {"coordinates":[145.036743,-37.902348],"type":"Point"}
 }

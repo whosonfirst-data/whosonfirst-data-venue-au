@@ -2,13 +2,14 @@
   "id": 202485827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.041962,-37.932667,145.041962,-37.932667",
     "geom:latitude":-37.932667,
     "geom:longitude":145.041962,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Fairbank Crt",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202485827,
-    "wof:lastmodified":1449061664,
+    "wof:lastmodified":1466189321,
     "wof:name":"DriveLine Imports Australia Pty Ltd",
     "wof:parent_id":85769755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [145.041962,-37.932667,145.041962,-37.932667],
-  "geometry": {"coordinates":[145.041962,-37.932667],"type":"Point"}
+  "bbox": [
+    145.041962,
+    -37.932667,
+    145.041962,
+    -37.932667
+],
+  "geometry": {"coordinates":[145.04196200000001,-37.932667],"type":"Point"}
 }

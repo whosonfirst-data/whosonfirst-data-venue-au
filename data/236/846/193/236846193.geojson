@@ -2,13 +2,14 @@
   "id": 236846193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.890289,-34.426338,150.890289,-34.426338",
     "geom:latitude":-34.426338,
     "geom:longitude":150.890289,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Burelli & Auburn Sts",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236846193,
-    "wof:lastmodified":1449004353,
+    "wof:lastmodified":1466192031,
     "wof:name":"Repco Authorised Service Centre",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [150.890289,-34.426338,150.890289,-34.426338],
+  "bbox": [
+    150.890289,
+    -34.426338,
+    150.890289,
+    -34.426338
+],
   "geometry": {"coordinates":[150.890289,-34.426338],"type":"Point"}
 }

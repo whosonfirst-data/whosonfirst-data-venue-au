@@ -2,13 +2,14 @@
   "id": 202715465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.019211,-27.369019,153.019211,-27.369019",
     "geom:latitude":-27.369019,
     "geom:longitude":153.019211,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Fontayne St",
     "sg:city":"Aspley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202715465,
-    "wof:lastmodified":1449062153,
+    "wof:lastmodified":1466189123,
     "wof:name":"Dale Sheehan Shopfitting",
     "wof:parent_id":85768703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitting"
     ]
 },
-  "bbox": [153.019211,-27.369019,153.019211,-27.369019],
-  "geometry": {"coordinates":[153.019211,-27.369019],"type":"Point"}
+  "bbox": [
+    153.019211,
+    -27.369019,
+    153.019211,
+    -27.369019
+],
+  "geometry": {"coordinates":[153.01921100000001,-27.369019],"type":"Point"}
 }

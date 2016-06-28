@@ -2,13 +2,14 @@
   "id": 186274833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.893173,-31.446962,152.893173,-31.446962",
     "geom:latitude":-31.446962,
     "geom:longitude":152.893173,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Lake Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186274833,
-    "wof:lastmodified":1449050592,
+    "wof:lastmodified":1466187587,
     "wof:name":"Doors Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "door"
     ]
 },
-  "bbox": [152.893173,-31.446962,152.893173,-31.446962],
-  "geometry": {"coordinates":[152.893173,-31.446962],"type":"Point"}
+  "bbox": [
+    152.893173,
+    -31.446962,
+    152.893173,
+    -31.446962
+],
+  "geometry": {"coordinates":[152.89317299999999,-31.446962],"type":"Point"}
 }

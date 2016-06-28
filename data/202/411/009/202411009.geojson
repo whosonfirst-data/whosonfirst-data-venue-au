@@ -2,13 +2,14 @@
   "id": 202411009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.943863,-37.836712,144.943863,-37.836712",
     "geom:latitude":-37.836712,
     "geom:longitude":144.943863,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Bridge St",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202411009,
-    "wof:lastmodified":1449060217,
+    "wof:lastmodified":1466189975,
     "wof:name":"Jaggers Hairdressing",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [144.943863,-37.836712,144.943863,-37.836712],
-  "geometry": {"coordinates":[144.943863,-37.836712],"type":"Point"}
+  "bbox": [
+    144.943863,
+    -37.836712,
+    144.943863,
+    -37.836712
+],
+  "geometry": {"coordinates":[144.94386299999999,-37.836712],"type":"Point"}
 }

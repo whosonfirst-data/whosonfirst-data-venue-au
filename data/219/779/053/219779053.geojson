@@ -2,13 +2,14 @@
   "id": 219779053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.685577,-31.87113,152.685577,-31.87113",
     "geom:latitude":-31.87113,
     "geom:longitude":152.685577,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp13/ 1-7 Caledonia St",
     "sg:city":"Harrington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219779053,
-    "wof:lastmodified":1449070928,
+    "wof:lastmodified":1466191395,
     "wof:name":"Harrington Network Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "library"
     ]
 },
-  "bbox": [152.685577,-31.87113,152.685577,-31.87113],
-  "geometry": {"coordinates":[152.685577,-31.87113],"type":"Point"}
+  "bbox": [
+    152.685577,
+    -31.87113,
+    152.685577,
+    -31.87113
+],
+  "geometry": {"coordinates":[152.68557699999999,-31.87113],"type":"Point"}
 }

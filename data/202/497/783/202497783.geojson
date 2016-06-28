@@ -2,13 +2,14 @@
   "id": 202497783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.024689,-37.914249,145.024689,-37.914249",
     "geom:latitude":-37.914249,
     "geom:longitude":145.024689,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Mclean Ave",
     "sg:city":"Bentleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202497783,
-    "wof:lastmodified":1449062598,
+    "wof:lastmodified":1466189503,
     "wof:name":"Medical Excellence",
     "wof:parent_id":85775357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [145.024689,-37.914249,145.024689,-37.914249],
+  "bbox": [
+    145.024689,
+    -37.914249,
+    145.024689,
+    -37.914249
+],
   "geometry": {"coordinates":[145.024689,-37.914249],"type":"Point"}
 }

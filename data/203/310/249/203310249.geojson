@@ -2,13 +2,14 @@
   "id": 203310249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.840637,-37.534359,143.840637,-37.534359",
     "geom:latitude":-37.534359,
     "geom:longitude":143.840637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Norman St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203310249,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466188107,
     "wof:name":"Norman Street Automotive",
     "wof:parent_id":85780241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [143.840637,-37.534359,143.840637,-37.534359],
-  "geometry": {"coordinates":[143.840637,-37.534359],"type":"Point"}
+  "bbox": [
+    143.840637,
+    -37.534359,
+    143.840637,
+    -37.534359
+],
+  "geometry": {"coordinates":[143.84063699999999,-37.534359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220150445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.357803,-38.15984,144.357803,-38.15984",
     "geom:latitude":-38.15984,
     "geom:longitude":144.357803,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Yarra & Brougham Sts",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220150445,
-    "wof:lastmodified":1449074073,
+    "wof:lastmodified":1466188602,
     "wof:name":"Geelong Liquorland",
     "wof:parent_id":85780055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [144.357803,-38.15984,144.357803,-38.15984],
-  "geometry": {"coordinates":[144.357803,-38.15984],"type":"Point"}
+  "bbox": [
+    144.357803,
+    -38.15984,
+    144.357803,
+    -38.15984
+],
+  "geometry": {"coordinates":[144.35780299999999,-38.15984],"type":"Point"}
 }

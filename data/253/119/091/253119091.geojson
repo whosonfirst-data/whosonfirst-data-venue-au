@@ -2,13 +2,14 @@
   "id": 253119091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.817383,-37.790592,144.817383,-37.790592",
     "geom:latitude":-37.790592,
     "geom:longitude":144.817383,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Glengala Rd",
     "sg:city":"Sunshine West",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253119091,
-    "wof:lastmodified":1449064947,
+    "wof:lastmodified":1466189123,
     "wof:name":"Suncopy",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [144.817383,-37.790592,144.817383,-37.790592],
-  "geometry": {"coordinates":[144.817383,-37.790592],"type":"Point"}
+  "bbox": [
+    144.817383,
+    -37.790592,
+    144.817383,
+    -37.790592
+],
+  "geometry": {"coordinates":[144.81738300000001,-37.790592],"type":"Point"}
 }

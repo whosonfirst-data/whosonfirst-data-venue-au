@@ -2,13 +2,14 @@
   "id": 169825225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.880089,-31.975533,115.880089,-31.975533",
     "geom:latitude":-31.975533,
     "geom:longitude":115.880089,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Canning Hwy, Cnr Way Rd",
     "sg:city":"South Perth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169825225,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466189104,
     "wof:name":"Hevron Financial Planning Services",
     "wof:parent_id":85775651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "consultant"
     ]
 },
-  "bbox": [115.880089,-31.975533,115.880089,-31.975533],
+  "bbox": [
+    115.880089,
+    -31.975533,
+    115.880089,
+    -31.975533
+],
   "geometry": {"coordinates":[115.880089,-31.975533],"type":"Point"}
 }

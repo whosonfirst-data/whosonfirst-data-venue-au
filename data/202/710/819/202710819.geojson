@@ -2,13 +2,14 @@
   "id": 202710819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.049957,-27.364304,153.049957,-27.364304",
     "geom:latitude":-27.364304,
     "geom:longitude":153.049957,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4/ 45 Granite St",
     "sg:city":"Geebung",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202710819,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466189039,
     "wof:name":"Autopreneurial Services",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [153.049957,-27.364304,153.049957,-27.364304],
-  "geometry": {"coordinates":[153.049957,-27.364304],"type":"Point"}
+  "bbox": [
+    153.049957,
+    -27.364304,
+    153.049957,
+    -27.364304
+],
+  "geometry": {"coordinates":[153.04995700000001,-27.364304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186535573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.711548,-19.262779,146.711548,-19.262779",
     "geom:latitude":-19.262779,
     "geom:longitude":146.711548,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Crocodile Crs",
     "sg:city":"Bohle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186535573,
-    "wof:lastmodified":1449050903,
+    "wof:lastmodified":1466190626,
     "wof:name":"MM Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [146.711548,-19.262779,146.711548,-19.262779],
-  "geometry": {"coordinates":[146.711548,-19.262779],"type":"Point"}
+  "bbox": [
+    146.711548,
+    -19.262779,
+    146.711548,
+    -19.262779
+],
+  "geometry": {"coordinates":[146.71154799999999,-19.262779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202562183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.223816,-37.600292,144.223816,-37.600292",
     "geom:latitude":-37.600292,
     "geom:longitude":144.223816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Inglis St",
     "sg:city":"Ballan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202562183,
-    "wof:lastmodified":1449061453,
+    "wof:lastmodified":1466186985,
     "wof:name":"Commercial Hotel Ballan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [144.223816,-37.600292,144.223816,-37.600292],
+  "bbox": [
+    144.223816,
+    -37.600292,
+    144.223816,
+    -37.600292
+],
   "geometry": {"coordinates":[144.223816,-37.600292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185698037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.225006,-21.412958,149.225006,-21.412958",
     "geom:latitude":-21.412958,
     "geom:longitude":149.225006,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Elizabeth St",
     "sg:city":"Sarina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185698037,
-    "wof:lastmodified":1449008113,
+    "wof:lastmodified":1466189996,
     "wof:name":"Rainbow Kids Educare Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [149.225006,-21.412958,149.225006,-21.412958],
-  "geometry": {"coordinates":[149.225006,-21.412958],"type":"Point"}
+  "bbox": [
+    149.225006,
+    -21.412958,
+    149.225006,
+    -21.412958
+],
+  "geometry": {"coordinates":[149.22500600000001,-21.412958],"type":"Point"}
 }

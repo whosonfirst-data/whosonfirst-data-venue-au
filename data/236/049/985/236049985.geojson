@@ -2,13 +2,14 @@
   "id": 236049985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.914581,-37.768829,144.914581,-37.768829",
     "geom:latitude":-37.768829,
     "geom:longitude":144.914581,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Eglinton St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236049985,
-    "wof:lastmodified":1449003254,
+    "wof:lastmodified":1466187617,
     "wof:name":"Cartographics International",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mapping"
     ]
 },
-  "bbox": [144.914581,-37.768829,144.914581,-37.768829],
+  "bbox": [
+    144.914581,
+    -37.768829,
+    144.914581,
+    -37.768829
+],
   "geometry": {"coordinates":[144.914581,-37.768829],"type":"Point"}
 }

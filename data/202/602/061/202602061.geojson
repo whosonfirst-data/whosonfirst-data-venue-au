@@ -2,13 +2,14 @@
   "id": 202602061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.207108,-33.867142,151.207108,-33.867142",
     "geom:latitude":-33.867142,
     "geom:longitude":151.207108,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"MLC Centre Martin Pl",
     "sg:city":"Sydney",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202602061,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466187323,
     "wof:name":"Advance Trading Inc",
     "wof:parent_id":85782721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advisory"
     ]
 },
-  "bbox": [151.207108,-33.867142,151.207108,-33.867142],
-  "geometry": {"coordinates":[151.207108,-33.867142],"type":"Point"}
+  "bbox": [
+    151.207108,
+    -33.867142,
+    151.207108,
+    -33.867142
+],
+  "geometry": {"coordinates":[151.20710800000001,-33.867142],"type":"Point"}
 }

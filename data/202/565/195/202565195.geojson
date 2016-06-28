@@ -2,13 +2,14 @@
   "id": 202565195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.434692,-37.657585,144.434692,-37.657585",
     "geom:latitude":-37.657585,
     "geom:longitude":144.434692,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Morrison Drv",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202565195,
-    "wof:lastmodified":1449062428,
+    "wof:lastmodified":1466187008,
     "wof:name":"Envirologic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pollution"
     ]
 },
-  "bbox": [144.434692,-37.657585,144.434692,-37.657585],
-  "geometry": {"coordinates":[144.434692,-37.657585],"type":"Point"}
+  "bbox": [
+    144.434692,
+    -37.657585,
+    144.434692,
+    -37.657585
+],
+  "geometry": {"coordinates":[144.43469200000001,-37.657585],"type":"Point"}
 }

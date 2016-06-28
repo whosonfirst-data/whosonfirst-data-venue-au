@@ -2,13 +2,14 @@
   "id": 202621081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.951767,-28.629045,151.951767,-28.629045",
     "geom:latitude":-28.629045,
     "geom:longitude":151.951767,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayfair La",
     "sg:city":"Stanthorpe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202621081,
-    "wof:lastmodified":1449062348,
+    "wof:lastmodified":1466187522,
     "wof:name":"Honeysuckle Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.951767,-28.629045,151.951767,-28.629045],
-  "geometry": {"coordinates":[151.951767,-28.629045],"type":"Point"}
+  "bbox": [
+    151.951767,
+    -28.629045,
+    151.951767,
+    -28.629045
+],
+  "geometry": {"coordinates":[151.95176699999999,-28.629045],"type":"Point"}
 }

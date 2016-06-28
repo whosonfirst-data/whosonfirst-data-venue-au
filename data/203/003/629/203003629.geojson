@@ -2,13 +2,14 @@
   "id": 203003629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.491608,-20.727015,139.491608,-20.727015",
     "geom:latitude":-20.727015,
     "geom:longitude":139.491608,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 12 Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203003629,
-    "wof:lastmodified":1449026722,
+    "wof:lastmodified":1466187049,
     "wof:name":"Lola W Power",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [139.491608,-20.727015,139.491608,-20.727015],
-  "geometry": {"coordinates":[139.491608,-20.727015],"type":"Point"}
+  "bbox": [
+    139.491608,
+    -20.727015,
+    139.491608,
+    -20.727015
+],
+  "geometry": {"coordinates":[139.49160800000001,-20.727015],"type":"Point"}
 }

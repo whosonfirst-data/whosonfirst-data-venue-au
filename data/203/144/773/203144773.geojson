@@ -2,13 +2,14 @@
   "id": 203144773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.651367,-32.596718,115.651367,-32.596718",
     "geom:latitude":-32.596718,
     "geom:longitude":115.651367,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Duke St",
     "sg:city":"Wannanup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203144773,
-    "wof:lastmodified":1449026359,
+    "wof:lastmodified":1466189628,
     "wof:name":"Chief Car Covers",
     "wof:parent_id":85780149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [115.651367,-32.596718,115.651367,-32.596718],
-  "geometry": {"coordinates":[115.651367,-32.596718],"type":"Point"}
+  "bbox": [
+    115.651367,
+    -32.596718,
+    115.651367,
+    -32.596718
+],
+  "geometry": {"coordinates":[115.65136699999999,-32.596718],"type":"Point"}
 }

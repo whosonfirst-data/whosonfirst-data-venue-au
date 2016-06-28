@@ -2,13 +2,14 @@
   "id": 202499857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.029343,-37.904701,145.029343,-37.904701",
     "geom:latitude":-37.904701,
     "geom:longitude":145.029343,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Stewart St",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202499857,
-    "wof:lastmodified":1449060593,
+    "wof:lastmodified":1466189516,
     "wof:name":"Nunn Norman",
     "wof:parent_id":85775357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [145.029343,-37.904701,145.029343,-37.904701],
-  "geometry": {"coordinates":[145.029343,-37.904701],"type":"Point"}
+  "bbox": [
+    145.029343,
+    -37.904701,
+    145.029343,
+    -37.904701
+],
+  "geometry": {"coordinates":[145.02934300000001,-37.904701],"type":"Point"}
 }

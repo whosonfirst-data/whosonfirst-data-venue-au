@@ -2,13 +2,14 @@
   "id": 219615677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.163696,-33.913372,151.163696,-33.913372",
     "geom:latitude":-33.913372,
     "geom:longitude":151.163696,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Barclay St",
     "sg:city":"Marrickville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219615677,
-    "wof:lastmodified":1449071510,
+    "wof:lastmodified":1466190781,
     "wof:name":"Golden Top Pittes",
     "wof:parent_id":85776747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [151.163696,-33.913372,151.163696,-33.913372],
-  "geometry": {"coordinates":[151.163696,-33.913372],"type":"Point"}
+  "bbox": [
+    151.163696,
+    -33.913372,
+    151.163696,
+    -33.913372
+],
+  "geometry": {"coordinates":[151.16369599999999,-33.913372],"type":"Point"}
 }

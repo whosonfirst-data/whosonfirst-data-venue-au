@@ -2,13 +2,14 @@
   "id": 202924289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.115173,-30.29681,153.115173,-30.29681",
     "geom:latitude":-30.29681,
     "geom:longitude":153.115173,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 6 17-21 Harbour Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202924289,
-    "wof:lastmodified":1449060826,
+    "wof:lastmodified":1466190845,
     "wof:name":"GVS Computers",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [153.115173,-30.29681,153.115173,-30.29681],
+  "bbox": [
+    153.115173,
+    -30.29681,
+    153.115173,
+    -30.29681
+],
   "geometry": {"coordinates":[153.115173,-30.29681],"type":"Point"}
 }

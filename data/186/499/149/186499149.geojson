@@ -2,13 +2,14 @@
   "id": 186499149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.766342,-19.27376,146.766342,-19.27376",
     "geom:latitude":-19.27376,
     "geom:longitude":146.766342,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Bayswater Rd",
     "sg:city":"Garbutt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186499149,
-    "wof:lastmodified":1449050912,
+    "wof:lastmodified":1466190509,
     "wof:name":"BWS Liquor Stores",
     "wof:parent_id":85780353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [146.766342,-19.27376,146.766342,-19.27376],
-  "geometry": {"coordinates":[146.766342,-19.27376],"type":"Point"}
+  "bbox": [
+    146.766342,
+    -19.27376,
+    146.766342,
+    -19.27376
+],
+  "geometry": {"coordinates":[146.76634200000001,-19.27376],"type":"Point"}
 }

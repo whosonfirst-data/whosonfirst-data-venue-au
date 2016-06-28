@@ -2,13 +2,14 @@
   "id": 219745105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.786713,-19.289392,146.786713,-19.289392",
     "geom:latitude":-19.289392,
     "geom:longitude":146.786713,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Fulham Rd",
     "sg:city":"Pimlico",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219745105,
-    "wof:lastmodified":1449073755,
+    "wof:lastmodified":1466191256,
     "wof:name":"Townsville Physiotherapy Centre",
     "wof:parent_id":85779875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [146.786713,-19.289392,146.786713,-19.289392],
-  "geometry": {"coordinates":[146.786713,-19.289392],"type":"Point"}
+  "bbox": [
+    146.786713,
+    -19.289392,
+    146.786713,
+    -19.289392
+],
+  "geometry": {"coordinates":[146.78671299999999,-19.289392],"type":"Point"}
 }

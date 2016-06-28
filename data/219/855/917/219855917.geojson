@@ -2,13 +2,14 @@
   "id": 219855917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.181961,-33.858501,151.181961,-33.858501",
     "geom:latitude":-33.858501,
     "geom:longitude":151.181961,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Booth St",
     "sg:city":"Balmain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219855917,
-    "wof:lastmodified":1449073002,
+    "wof:lastmodified":1466191434,
     "wof:name":"Sydney Homoeopathic Hospital Clinic at Balmain Hospital",
     "wof:parent_id":85768753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.181961,-33.858501,151.181961,-33.858501],
+  "bbox": [
+    151.181961,
+    -33.858501,
+    151.181961,
+    -33.858501
+],
   "geometry": {"coordinates":[151.181961,-33.858501],"type":"Point"}
 }

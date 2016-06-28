@@ -2,13 +2,14 @@
   "id": 219781295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.143509,-33.876263,151.143509,-33.876263",
     "geom:latitude":-33.876263,
     "geom:longitude":151.143509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Waratah St",
     "sg:city":"Haberfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219781295,
-    "wof:lastmodified":1449071055,
+    "wof:lastmodified":1466191323,
     "wof:name":"Basis Drafting & Constructions",
     "wof:parent_id":85774549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [151.143509,-33.876263,151.143509,-33.876263],
-  "geometry": {"coordinates":[151.143509,-33.876263],"type":"Point"}
+  "bbox": [
+    151.143509,
+    -33.876263,
+    151.143509,
+    -33.876263
+],
+  "geometry": {"coordinates":[151.14350899999999,-33.876263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220122239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.542084,-38.224831,144.542084,-38.224831",
     "geom:latitude":-38.224831,
     "geom:longitude":144.542084,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Bellarine Hwy & Grubb Rd",
     "sg:city":"Wallington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220122239,
-    "wof:lastmodified":1449074507,
+    "wof:lastmodified":1466188176,
     "wof:name":"Wallington Mitre 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.542084,-38.224831,144.542084,-38.224831],
-  "geometry": {"coordinates":[144.542084,-38.224831],"type":"Point"}
+  "bbox": [
+    144.542084,
+    -38.224831,
+    144.542084,
+    -38.224831
+],
+  "geometry": {"coordinates":[144.54208399999999,-38.224831],"type":"Point"}
 }

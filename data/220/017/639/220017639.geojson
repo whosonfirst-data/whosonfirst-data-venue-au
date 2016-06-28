@@ -2,13 +2,14 @@
   "id": 220017639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.617325,-35.021164,138.617325,-35.021164",
     "geom:latitude":-35.021164,
     "geom:longitude":138.617325,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Main Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220017639,
-    "wof:lastmodified":1449074477,
+    "wof:lastmodified":1466187097,
     "wof:name":"Blackwood Homes Pty Ltd",
     "wof:parent_id":85768879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [138.617325,-35.021164,138.617325,-35.021164],
-  "geometry": {"coordinates":[138.617325,-35.021164],"type":"Point"}
+  "bbox": [
+    138.617325,
+    -35.021164,
+    138.617325,
+    -35.021164
+],
+  "geometry": {"coordinates":[138.61732499999999,-35.021164],"type":"Point"}
 }

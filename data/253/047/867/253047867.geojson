@@ -2,13 +2,14 @@
   "id": 253047867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.822617,-37.840405,144.822617,-37.840405",
     "geom:latitude":-37.840405,
     "geom:longitude":144.822617,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Baldwin Rd",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253047867,
-    "wof:lastmodified":1449064742,
+    "wof:lastmodified":1466187862,
     "wof:name":"Adeal Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [144.822617,-37.840405,144.822617,-37.840405],
-  "geometry": {"coordinates":[144.822617,-37.840405],"type":"Point"}
+  "bbox": [
+    144.822617,
+    -37.840405,
+    144.822617,
+    -37.840405
+],
+  "geometry": {"coordinates":[144.82261700000001,-37.840405],"type":"Point"}
 }

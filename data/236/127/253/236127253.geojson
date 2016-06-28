@@ -2,13 +2,14 @@
   "id": 236127253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.853485,-37.736217,144.853485,-37.736217",
     "geom:latitude":-37.736217,
     "geom:longitude":144.853485,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"25a Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236127253,
-    "wof:lastmodified":1449004926,
+    "wof:lastmodified":1466189192,
     "wof:name":"East Keilor Security Doors & Flyscreens",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "doors"
     ]
 },
-  "bbox": [144.853485,-37.736217,144.853485,-37.736217],
-  "geometry": {"coordinates":[144.853485,-37.736217],"type":"Point"}
+  "bbox": [
+    144.853485,
+    -37.736217,
+    144.853485,
+    -37.736217
+],
+  "geometry": {"coordinates":[144.85348500000001,-37.736217],"type":"Point"}
 }

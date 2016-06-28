@@ -2,13 +2,14 @@
   "id": 219623397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.140091,-33.939484,151.140091,-33.939484",
     "geom:latitude":-33.939484,
     "geom:longitude":151.140091,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Forest Rd",
     "sg:city":"Arncliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219623397,
-    "wof:lastmodified":1449072870,
+    "wof:lastmodified":1466190831,
     "wof:name":"Craig Taylor",
     "wof:parent_id":85774237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [151.140091,-33.939484,151.140091,-33.939484],
-  "geometry": {"coordinates":[151.140091,-33.939484],"type":"Point"}
+  "bbox": [
+    151.140091,
+    -33.939484,
+    151.140091,
+    -33.939484
+],
+  "geometry": {"coordinates":[151.14009100000001,-33.939484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253075573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.796524,-37.743919,144.796524,-37.743919",
     "geom:latitude":-37.743919,
     "geom:longitude":144.796524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"101-103 Main Rd (West)",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253075573,
-    "wof:lastmodified":1449064441,
+    "wof:lastmodified":1466188284,
     "wof:name":"Health Club 101",
     "wof:parent_id":85770285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [144.796524,-37.743919,144.796524,-37.743919],
-  "geometry": {"coordinates":[144.796524,-37.743919],"type":"Point"}
+  "bbox": [
+    144.796524,
+    -37.743919,
+    144.796524,
+    -37.743919
+],
+  "geometry": {"coordinates":[144.79652400000001,-37.743919],"type":"Point"}
 }

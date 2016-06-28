@@ -2,13 +2,14 @@
   "id": 169840147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.834427,-32.009995,115.834427,-32.009995",
     "geom:latitude":-32.009995,
     "geom:longitude":115.834427,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33c Ardross St",
     "sg:city":"Applecross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169840147,
-    "wof:lastmodified":1449035216,
+    "wof:lastmodified":1466189306,
     "wof:name":"Applecross Studio Flowers",
     "wof:parent_id":85768683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [115.834427,-32.009995,115.834427,-32.009995],
-  "geometry": {"coordinates":[115.834427,-32.009995],"type":"Point"}
+  "bbox": [
+    115.834427,
+    -32.009995,
+    115.834427,
+    -32.009995
+],
+  "geometry": {"coordinates":[115.83442700000001,-32.009995],"type":"Point"}
 }

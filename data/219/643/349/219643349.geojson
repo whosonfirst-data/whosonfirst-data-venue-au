@@ -2,13 +2,14 @@
   "id": 219643349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.128799,-33.956905,151.128799,-33.956905",
     "geom:latitude":-33.956905,
     "geom:longitude":151.128799,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Connemarra St",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219643349,
-    "wof:lastmodified":1449073443,
+    "wof:lastmodified":1466190854,
     "wof:name":"Hair Link",
     "wof:parent_id":85777013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [151.128799,-33.956905,151.128799,-33.956905],
-  "geometry": {"coordinates":[151.128799,-33.956905],"type":"Point"}
+  "bbox": [
+    151.128799,
+    -33.956905,
+    151.128799,
+    -33.956905
+],
+  "geometry": {"coordinates":[151.12879899999999,-33.956905],"type":"Point"}
 }

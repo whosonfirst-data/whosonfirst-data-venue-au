@@ -2,13 +2,14 @@
   "id": 203232039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.894608,-38.387051,143.894608,-38.387051",
     "geom:latitude":-38.387051,
     "geom:longitude":143.894608,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Winchelsea Rd",
     "sg:city":"Deans Marsh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203232039,
-    "wof:lastmodified":1449025530,
+    "wof:lastmodified":1466187439,
     "wof:name":"Kerens Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reiki"
     ]
 },
-  "bbox": [143.894608,-38.387051,143.894608,-38.387051],
-  "geometry": {"coordinates":[143.894608,-38.387051],"type":"Point"}
+  "bbox": [
+    143.894608,
+    -38.387051,
+    143.894608,
+    -38.387051
+],
+  "geometry": {"coordinates":[143.89460800000001,-38.387051],"type":"Point"}
 }

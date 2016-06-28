@@ -2,13 +2,14 @@
   "id": 253105493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.830154,-37.768513,144.830154,-37.768513",
     "geom:latitude":-37.768513,
     "geom:longitude":144.830154,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"85 McIntyre Rd",
     "sg:city":"Sunshine North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253105493,
-    "wof:lastmodified":1449063963,
+    "wof:lastmodified":1466188846,
     "wof:name":"Imperial Wardrobes & Showerscreens",
     "wof:parent_id":85777751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "screen"
     ]
 },
-  "bbox": [144.830154,-37.768513,144.830154,-37.768513],
-  "geometry": {"coordinates":[144.830154,-37.768513],"type":"Point"}
+  "bbox": [
+    144.830154,
+    -37.768513,
+    144.830154,
+    -37.768513
+],
+  "geometry": {"coordinates":[144.83015399999999,-37.768513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185926605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.512451,-33.243679,151.512451,-33.243679",
     "geom:latitude":-33.243679,
     "geom:longitude":151.512451,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Ourringo Ave",
     "sg:city":"Lake Haven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185926605,
-    "wof:lastmodified":1449007151,
+    "wof:lastmodified":1466188290,
     "wof:name":"Lakeside Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [151.512451,-33.243679,151.512451,-33.243679],
+  "bbox": [
+    151.512451,
+    -33.243679,
+    151.512451,
+    -33.243679
+],
   "geometry": {"coordinates":[151.512451,-33.243679],"type":"Point"}
 }

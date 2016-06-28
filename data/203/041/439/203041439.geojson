@@ -2,13 +2,14 @@
   "id": 203041439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.06514,-24.972979,152.06514,-24.972979",
     "geom:latitude":-24.972979,
     "geom:longitude":152.06514,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Wilsons Rd",
     "sg:city":"Gin Gin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203041439,
-    "wof:lastmodified":1449025597,
+    "wof:lastmodified":1466188050,
     "wof:name":"Wilson's Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfrs"
     ]
 },
-  "bbox": [152.06514,-24.972979,152.06514,-24.972979],
-  "geometry": {"coordinates":[152.06514,-24.972979],"type":"Point"}
+  "bbox": [
+    152.06514,
+    -24.972979,
+    152.06514,
+    -24.972979
+],
+  "geometry": {"coordinates":[152.06514000000001,-24.972979],"type":"Point"}
 }

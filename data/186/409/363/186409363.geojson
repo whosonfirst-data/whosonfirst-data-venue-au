@@ -2,13 +2,14 @@
   "id": 186409363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809418,-19.266865,146.809418,-19.266865",
     "geom:latitude":-19.266865,
     "geom:longitude":146.809418,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Flinders St",
     "sg:city":"Townsville West",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186409363,
-    "wof:lastmodified":1449051480,
+    "wof:lastmodified":1466189463,
     "wof:name":"The Laughing Hippo",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [146.809418,-19.266865,146.809418,-19.266865],
-  "geometry": {"coordinates":[146.809418,-19.266865],"type":"Point"}
+  "bbox": [
+    146.809418,
+    -19.266865,
+    146.809418,
+    -19.266865
+],
+  "geometry": {"coordinates":[146.80941799999999,-19.266865],"type":"Point"}
 }

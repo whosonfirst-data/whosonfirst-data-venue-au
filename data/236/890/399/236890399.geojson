@@ -2,13 +2,14 @@
   "id": 236890399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.530807,-35.03001,138.530807,-35.03001",
     "geom:latitude":-35.03001,
     "geom:longitude":138.530807,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"246-248 Seacombe Rd",
     "sg:city":"Seacliff Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236890399,
-    "wof:lastmodified":1449002218,
+    "wof:lastmodified":1466192082,
     "wof:name":"Seacliff Park Bakery",
     "wof:parent_id":85777535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [138.530807,-35.03001,138.530807,-35.03001],
-  "geometry": {"coordinates":[138.530807,-35.03001],"type":"Point"}
+  "bbox": [
+    138.530807,
+    -35.03001,
+    138.530807,
+    -35.03001
+],
+  "geometry": {"coordinates":[138.53080700000001,-35.03001],"type":"Point"}
 }

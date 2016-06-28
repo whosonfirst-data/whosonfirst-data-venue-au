@@ -2,13 +2,14 @@
   "id": 202799383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.74765,-32.921917,151.74765,-32.921917",
     "geom:latitude":-32.921917,
     "geom:longitude":151.74765,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Lawson & Lindsay Sts",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202799383,
-    "wof:lastmodified":1449062657,
+    "wof:lastmodified":1466190305,
     "wof:name":"Young Peoples Theatre Incorporated",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatre"
     ]
 },
-  "bbox": [151.74765,-32.921917,151.74765,-32.921917],
-  "geometry": {"coordinates":[151.74765,-32.921917],"type":"Point"}
+  "bbox": [
+    151.74765,
+    -32.921917,
+    151.74765,
+    -32.921917
+],
+  "geometry": {"coordinates":[151.74764999999999,-32.921917],"type":"Point"}
 }

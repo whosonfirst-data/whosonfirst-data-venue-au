@@ -2,13 +2,14 @@
   "id": 252803725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.584213,-38.338676,143.584213,-38.338676",
     "geom:latitude":-38.338676,
     "geom:longitude":143.584213,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Corangamite St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252803725,
-    "wof:lastmodified":1449006522,
+    "wof:lastmodified":1466188172,
     "wof:name":"Keymar Computer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [143.584213,-38.338676,143.584213,-38.338676],
-  "geometry": {"coordinates":[143.584213,-38.338676],"type":"Point"}
+  "bbox": [
+    143.584213,
+    -38.338676,
+    143.584213,
+    -38.338676
+],
+  "geometry": {"coordinates":[143.58421300000001,-38.338676],"type":"Point"}
 }

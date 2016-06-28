@@ -2,13 +2,14 @@
   "id": 219629397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.148956,-33.933681,151.148956,-33.933681",
     "geom:latitude":-33.933681,
     "geom:longitude":151.148956,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arncliffe St",
     "sg:city":"Arncliffe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219629397,
-    "wof:lastmodified":1449073105,
+    "wof:lastmodified":1466190754,
     "wof:name":"Porter",
     "wof:parent_id":85776153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitness"
     ]
 },
-  "bbox": [151.148956,-33.933681,151.148956,-33.933681],
+  "bbox": [
+    151.148956,
+    -33.933681,
+    151.148956,
+    -33.933681
+],
   "geometry": {"coordinates":[151.148956,-33.933681],"type":"Point"}
 }

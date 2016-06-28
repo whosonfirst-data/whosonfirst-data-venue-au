@@ -2,13 +2,14 @@
   "id": 236746311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.86145,-27.039864,152.86145,-27.039864",
     "geom:latitude":-27.039864,
     "geom:longitude":152.86145,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 D'Aguilar Hwy",
     "sg:city":"Wamuran",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236746311,
-    "wof:lastmodified":1449001656,
+    "wof:lastmodified":1466191889,
     "wof:name":"Wamuran Medical Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [152.86145,-27.039864,152.86145,-27.039864],
-  "geometry": {"coordinates":[152.86145,-27.039864],"type":"Point"}
+  "bbox": [
+    152.86145,
+    -27.039864,
+    152.86145,
+    -27.039864
+],
+  "geometry": {"coordinates":[152.86144999999999,-27.039864],"type":"Point"}
 }

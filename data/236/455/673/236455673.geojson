@@ -2,13 +2,14 @@
   "id": 236455673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.181076,-21.152294,149.181076,-21.152294",
     "geom:latitude":-21.152294,
     "geom:longitude":149.181076,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Forth St",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236455673,
-    "wof:lastmodified":1449004614,
+    "wof:lastmodified":1466191269,
     "wof:name":"EZY I.T.",
     "wof:parent_id":85782227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [149.181076,-21.152294,149.181076,-21.152294],
-  "geometry": {"coordinates":[149.181076,-21.152294],"type":"Point"}
+  "bbox": [
+    149.181076,
+    -21.152294,
+    149.181076,
+    -21.152294
+],
+  "geometry": {"coordinates":[149.18107599999999,-21.152294],"type":"Point"}
 }

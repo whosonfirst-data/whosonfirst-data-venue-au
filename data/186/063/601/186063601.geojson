@@ -2,13 +2,14 @@
   "id": 186063601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.488052,-33.077393,151.488052,-33.077393",
     "geom:latitude":-33.077393,
     "geom:longitude":151.488052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kalang Rd",
     "sg:city":"Dora Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186063601,
-    "wof:lastmodified":1449050479,
+    "wof:lastmodified":1466188496,
     "wof:name":"Micks Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [151.488052,-33.077393,151.488052,-33.077393],
-  "geometry": {"coordinates":[151.488052,-33.077393],"type":"Point"}
+  "bbox": [
+    151.488052,
+    -33.077393,
+    151.488052,
+    -33.077393
+],
+  "geometry": {"coordinates":[151.48805200000001,-33.077393],"type":"Point"}
 }

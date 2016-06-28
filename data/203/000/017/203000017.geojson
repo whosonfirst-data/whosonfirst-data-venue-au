@@ -2,13 +2,14 @@
   "id": 203000017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.493057,-20.719955,139.493057,-20.719955",
     "geom:latitude":-20.719955,
     "geom:longitude":139.493057,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Miles St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203000017,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466189961,
     "wof:name":"Isa Equipment Hire",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [139.493057,-20.719955,139.493057,-20.719955],
-  "geometry": {"coordinates":[139.493057,-20.719955],"type":"Point"}
+  "bbox": [
+    139.493057,
+    -20.719955,
+    139.493057,
+    -20.719955
+],
+  "geometry": {"coordinates":[139.49305699999999,-20.719955],"type":"Point"}
 }

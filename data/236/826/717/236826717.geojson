@@ -2,13 +2,14 @@
   "id": 236826717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.888519,-34.422367,150.888519,-34.422367",
     "geom:latitude":-34.422367,
     "geom:longitude":150.888519,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 19 Denison St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236826717,
-    "wof:lastmodified":1449004158,
+    "wof:lastmodified":1466192003,
     "wof:name":"Petes Rubbers",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "retail"
     ]
 },
-  "bbox": [150.888519,-34.422367,150.888519,-34.422367],
+  "bbox": [
+    150.888519,
+    -34.422367,
+    150.888519,
+    -34.422367
+],
   "geometry": {"coordinates":[150.888519,-34.422367],"type":"Point"}
 }

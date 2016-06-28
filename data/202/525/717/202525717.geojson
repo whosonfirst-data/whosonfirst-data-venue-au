@@ -2,13 +2,14 @@
   "id": 202525717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.163345,-38.099838,145.163345,-38.099838",
     "geom:latitude":-38.099838,
     "geom:longitude":145.163345,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/ 8-10 Tova Dr",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202525717,
-    "wof:lastmodified":1449062134,
+    "wof:lastmodified":1466189770,
     "wof:name":"Online Supplies Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [145.163345,-38.099838,145.163345,-38.099838],
-  "geometry": {"coordinates":[145.163345,-38.099838],"type":"Point"}
+  "bbox": [
+    145.163345,
+    -38.099838,
+    145.163345,
+    -38.099838
+],
+  "geometry": {"coordinates":[145.16334499999999,-38.099838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253095285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.828064,-37.806915,144.828064,-37.806915",
     "geom:latitude":-37.806915,
     "geom:longitude":144.828064,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Somerville Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253095285,
-    "wof:lastmodified":1449064324,
+    "wof:lastmodified":1466188632,
     "wof:name":"Supercharge Batteries",
     "wof:parent_id":85779195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automotive"
     ]
 },
-  "bbox": [144.828064,-37.806915,144.828064,-37.806915],
-  "geometry": {"coordinates":[144.828064,-37.806915],"type":"Point"}
+  "bbox": [
+    144.828064,
+    -37.806915,
+    144.828064,
+    -37.806915
+],
+  "geometry": {"coordinates":[144.82806400000001,-37.806915],"type":"Point"}
 }

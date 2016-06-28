@@ -2,13 +2,14 @@
   "id": 236003775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.320206,-43.004864,147.320206,-43.004864",
     "geom:latitude":-43.004864,
     "geom:longitude":147.320206,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Carinya St",
     "sg:city":"Blackmans Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236003775,
-    "wof:lastmodified":1449004939,
+    "wof:lastmodified":1466186937,
     "wof:name":"Host-A-Roast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [147.320206,-43.004864,147.320206,-43.004864],
-  "geometry": {"coordinates":[147.320206,-43.004864],"type":"Point"}
+  "bbox": [
+    147.320206,
+    -43.004864,
+    147.320206,
+    -43.004864
+],
+  "geometry": {"coordinates":[147.32020600000001,-43.004864],"type":"Point"}
 }

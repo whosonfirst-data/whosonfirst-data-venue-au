@@ -2,13 +2,14 @@
   "id": 202712443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.043335,-27.35681,153.043335,-27.35681",
     "geom:latitude":-27.35681,
     "geom:longitude":153.043335,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Coxen St",
     "sg:city":"Zillmere",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202712443,
-    "wof:lastmodified":1449061205,
+    "wof:lastmodified":1466189072,
     "wof:name":"Image Trades",
     "wof:parent_id":85773871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [153.043335,-27.35681,153.043335,-27.35681],
-  "geometry": {"coordinates":[153.043335,-27.35681],"type":"Point"}
+  "bbox": [
+    153.043335,
+    -27.35681,
+    153.043335,
+    -27.35681
+],
+  "geometry": {"coordinates":[153.04333500000001,-27.35681],"type":"Point"}
 }

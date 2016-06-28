@@ -2,13 +2,14 @@
   "id": 236764273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.948471,-27.099371,152.948471,-27.099371",
     "geom:latitude":-27.099371,
     "geom:longitude":152.948471,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Morayfield Rd",
     "sg:city":"Caboolture",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236764273,
-    "wof:lastmodified":1449005063,
+    "wof:lastmodified":1466191913,
     "wof:name":"National Storage",
     "wof:parent_id":85780291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [152.948471,-27.099371,152.948471,-27.099371],
-  "geometry": {"coordinates":[152.948471,-27.099371],"type":"Point"}
+  "bbox": [
+    152.948471,
+    -27.099371,
+    152.948471,
+    -27.099371
+],
+  "geometry": {"coordinates":[152.94847100000001,-27.099371],"type":"Point"}
 }

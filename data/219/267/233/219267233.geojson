@@ -2,13 +2,14 @@
   "id": 219267233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.289978,-38.185062,146.289978,-38.185062",
     "geom:latitude":-38.185062,
     "geom:longitude":146.289978,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1/43 Monash Rd",
     "sg:city":"Newborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219267233,
-    "wof:lastmodified":1449073599,
+    "wof:lastmodified":1466187259,
     "wof:name":"Peter Butcher & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [146.289978,-38.185062,146.289978,-38.185062],
-  "geometry": {"coordinates":[146.289978,-38.185062],"type":"Point"}
+  "bbox": [
+    146.289978,
+    -38.185062,
+    146.289978,
+    -38.185062
+],
+  "geometry": {"coordinates":[146.28997799999999,-38.185062],"type":"Point"}
 }

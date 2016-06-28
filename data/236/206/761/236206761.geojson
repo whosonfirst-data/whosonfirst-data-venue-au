@@ -2,13 +2,14 @@
   "id": 236206761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.471207,-38.068172,145.471207,-38.068172",
     "geom:latitude":-38.068172,
     "geom:longitude":145.471207,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Princes Hwy",
     "sg:city":"Pakenham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236206761,
-    "wof:lastmodified":1449003982,
+    "wof:lastmodified":1466190094,
     "wof:name":"Pakenham Equine Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [145.471207,-38.068172,145.471207,-38.068172],
-  "geometry": {"coordinates":[145.471207,-38.068172],"type":"Point"}
+  "bbox": [
+    145.471207,
+    -38.068172,
+    145.471207,
+    -38.068172
+],
+  "geometry": {"coordinates":[145.47120699999999,-38.068172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236300821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.725441,-32.281269,115.725441,-32.281269",
     "geom:latitude":-32.281269,
     "geom:longitude":115.725441,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 5330",
     "sg:city":"Rockingham Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236300821,
-    "wof:lastmodified":1449003523,
+    "wof:lastmodified":1466190378,
     "wof:name":"Maxwell Optical",
     "wof:parent_id":85775727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [115.725441,-32.281269,115.725441,-32.281269],
+  "bbox": [
+    115.725441,
+    -32.281269,
+    115.725441,
+    -32.281269
+],
   "geometry": {"coordinates":[115.725441,-32.281269],"type":"Point"}
 }

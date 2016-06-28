@@ -2,13 +2,14 @@
   "id": 220046275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.152908,-33.352119,116.152908,-33.352119",
     "geom:latitude":-33.352119,
     "geom:longitude":116.152908,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Jones St",
     "sg:city":"Collie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220046275,
-    "wof:lastmodified":1449074500,
+    "wof:lastmodified":1466187472,
     "wof:name":"Earth and Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "detergent"
     ]
 },
-  "bbox": [116.152908,-33.352119,116.152908,-33.352119],
+  "bbox": [
+    116.152908,
+    -33.352119,
+    116.152908,
+    -33.352119
+],
   "geometry": {"coordinates":[116.152908,-33.352119],"type":"Point"}
 }

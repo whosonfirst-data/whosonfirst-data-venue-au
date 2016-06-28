@@ -2,13 +2,14 @@
   "id": 253017037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.724945,-37.86932,144.724945,-37.86932",
     "geom:latitude":-37.86932,
     "geom:longitude":144.724945,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Industrial Ave",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253017037,
-    "wof:lastmodified":1449064399,
+    "wof:lastmodified":1466187254,
     "wof:name":"Outwest Concrete",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [144.724945,-37.86932,144.724945,-37.86932],
-  "geometry": {"coordinates":[144.724945,-37.86932],"type":"Point"}
+  "bbox": [
+    144.724945,
+    -37.86932,
+    144.724945,
+    -37.86932
+],
+  "geometry": {"coordinates":[144.72494499999999,-37.86932],"type":"Point"}
 }

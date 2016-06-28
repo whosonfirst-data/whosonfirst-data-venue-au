@@ -2,13 +2,14 @@
   "id": 203384517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.838699,-37.560596,143.838699,-37.560596",
     "geom:latitude":-37.560596,
     "geom:longitude":143.838699,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4, Pleasant Park Shopng Cntr",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203384517,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466189277,
     "wof:name":"Pleasant Tan",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solarium"
     ]
 },
-  "bbox": [143.838699,-37.560596,143.838699,-37.560596],
-  "geometry": {"coordinates":[143.838699,-37.560596],"type":"Point"}
+  "bbox": [
+    143.838699,
+    -37.560596,
+    143.838699,
+    -37.560596
+],
+  "geometry": {"coordinates":[143.83869899999999,-37.560596],"type":"Point"}
 }

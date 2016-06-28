@@ -2,13 +2,14 @@
   "id": 219493235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.070389,-33.901676,151.070389,-33.901676",
     "geom:latitude":-33.901676,
     "geom:longitude":151.070389,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Wentworth St",
     "sg:city":"Greenacre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219493235,
-    "wof:lastmodified":1449071512,
+    "wof:lastmodified":1466189379,
     "wof:name":"Has-A-Bin",
     "wof:parent_id":85776095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "waste"
     ]
 },
-  "bbox": [151.070389,-33.901676,151.070389,-33.901676],
-  "geometry": {"coordinates":[151.070389,-33.901676],"type":"Point"}
+  "bbox": [
+    151.070389,
+    -33.901676,
+    151.070389,
+    -33.901676
+],
+  "geometry": {"coordinates":[151.07038900000001,-33.901676],"type":"Point"}
 }

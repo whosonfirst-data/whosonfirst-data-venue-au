@@ -2,13 +2,14 @@
   "id": 253043839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.830536,-37.840771,144.830536,-37.840771",
     "geom:latitude":-37.840771,
     "geom:longitude":144.830536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67- 85 Toll Drv",
     "sg:city":"Altona North",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253043839,
-    "wof:lastmodified":1449065026,
+    "wof:lastmodified":1466187791,
     "wof:name":"Toll Liquid Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.830536,-37.840771,144.830536,-37.840771],
+  "bbox": [
+    144.830536,
+    -37.840771,
+    144.830536,
+    -37.840771
+],
   "geometry": {"coordinates":[144.830536,-37.840771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186514567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.801971,-19.304085,146.801971,-19.304085",
     "geom:latitude":-19.304085,
     "geom:longitude":146.801971,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kiosk 1, 357 Ross River Rd",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186514567,
-    "wof:lastmodified":1449051723,
+    "wof:lastmodified":1466190536,
     "wof:name":"Donut King Centro",
     "wof:parent_id":85780019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [146.801971,-19.304085,146.801971,-19.304085],
-  "geometry": {"coordinates":[146.801971,-19.304085],"type":"Point"}
+  "bbox": [
+    146.801971,
+    -19.304085,
+    146.801971,
+    -19.304085
+],
+  "geometry": {"coordinates":[146.80197100000001,-19.304085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220120833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.273895,-38.170109,144.273895,-38.170109",
     "geom:latitude":-38.170109,
     "geom:longitude":144.273895,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Wheatsheaf St",
     "sg:city":"Ceres",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220120833,
-    "wof:lastmodified":1449074758,
+    "wof:lastmodified":1466188164,
     "wof:name":"Gums To Roses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [144.273895,-38.170109,144.273895,-38.170109],
-  "geometry": {"coordinates":[144.273895,-38.170109],"type":"Point"}
+  "bbox": [
+    144.273895,
+    -38.170109,
+    144.273895,
+    -38.170109
+],
+  "geometry": {"coordinates":[144.27389500000001,-38.170109],"type":"Point"}
 }

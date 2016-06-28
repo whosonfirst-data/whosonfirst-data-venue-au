@@ -2,13 +2,14 @@
   "id": 202993365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.952637,-36.1782,146.952637,-36.1782",
     "geom:latitude":-36.1782,
     "geom:longitude":146.952637,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Muller St",
     "sg:city":"Baranduda",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202993365,
-    "wof:lastmodified":1449061248,
+    "wof:lastmodified":1466191158,
     "wof:name":"Larsen Engineering Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "laser"
     ]
 },
-  "bbox": [146.952637,-36.1782,146.952637,-36.1782],
-  "geometry": {"coordinates":[146.952637,-36.1782],"type":"Point"}
+  "bbox": [
+    146.952637,
+    -36.1782,
+    146.952637,
+    -36.1782
+],
+  "geometry": {"coordinates":[146.95263700000001,-36.1782],"type":"Point"}
 }

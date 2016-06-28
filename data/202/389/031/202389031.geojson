@@ -2,13 +2,14 @@
   "id": 202389031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.756546,-34.597885,138.756546,-34.597885",
     "geom:latitude":-34.597885,
     "geom:longitude":138.756546,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bishop St",
     "sg:city":"Gawler East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202389031,
-    "wof:lastmodified":1449062150,
+    "wof:lastmodified":1466189968,
     "wof:name":"Murray's Glass",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glazier"
     ]
 },
-  "bbox": [138.756546,-34.597885,138.756546,-34.597885],
-  "geometry": {"coordinates":[138.756546,-34.597885],"type":"Point"}
+  "bbox": [
+    138.756546,
+    -34.597885,
+    138.756546,
+    -34.597885
+],
+  "geometry": {"coordinates":[138.75654599999999,-34.597885],"type":"Point"}
 }

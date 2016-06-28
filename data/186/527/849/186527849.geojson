@@ -2,13 +2,14 @@
   "id": 186527849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.845627,-19.156221,146.845627,-19.156221",
     "geom:latitude":-19.156221,
     "geom:longitude":146.845627,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Kelly St",
     "sg:city":"Nelly Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186527849,
-    "wof:lastmodified":1449052454,
+    "wof:lastmodified":1466190719,
     "wof:name":"Island Engineering & Earthworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [146.845627,-19.156221,146.845627,-19.156221],
-  "geometry": {"coordinates":[146.845627,-19.156221],"type":"Point"}
+  "bbox": [
+    146.845627,
+    -19.156221,
+    146.845627,
+    -19.156221
+],
+  "geometry": {"coordinates":[146.84562700000001,-19.156221],"type":"Point"}
 }

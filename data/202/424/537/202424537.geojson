@@ -2,13 +2,14 @@
   "id": 202424537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.951096,-37.844528,144.951096,-37.844528",
     "geom:latitude":-37.844528,
     "geom:longitude":144.951096,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Victoria Ave",
     "sg:city":"Albert Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202424537,
-    "wof:lastmodified":1449062487,
+    "wof:lastmodified":1466188231,
     "wof:name":"Count Wealth Accountants",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [144.951096,-37.844528,144.951096,-37.844528],
-  "geometry": {"coordinates":[144.951096,-37.844528],"type":"Point"}
+  "bbox": [
+    144.951096,
+    -37.844528,
+    144.951096,
+    -37.844528
+],
+  "geometry": {"coordinates":[144.95109600000001,-37.844528],"type":"Point"}
 }

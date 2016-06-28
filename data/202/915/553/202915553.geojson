@@ -2,13 +2,14 @@
   "id": 202915553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.136856,-30.301237,153.136856,-30.301237",
     "geom:latitude":-30.301237,
     "geom:longitude":153.136856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Orlando St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202915553,
-    "wof:lastmodified":1449062608,
+    "wof:lastmodified":1466190765,
     "wof:name":"Cetnaj Pty Ltd",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [153.136856,-30.301237,153.136856,-30.301237],
-  "geometry": {"coordinates":[153.136856,-30.301237],"type":"Point"}
+  "bbox": [
+    153.136856,
+    -30.301237,
+    153.136856,
+    -30.301237
+],
+  "geometry": {"coordinates":[153.13685599999999,-30.301237],"type":"Point"}
 }

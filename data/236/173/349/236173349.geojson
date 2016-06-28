@@ -2,13 +2,14 @@
   "id": 236173349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.896347,-37.66943,144.896347,-37.66943",
     "geom:latitude":-37.66943,
     "geom:longitude":144.896347,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Maxwell Crt",
     "sg:city":"Attwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236173349,
-    "wof:lastmodified":1449002154,
+    "wof:lastmodified":1466189782,
     "wof:name":"Castle Charles",
     "wof:parent_id":85777801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.896347,-37.66943,144.896347,-37.66943],
-  "geometry": {"coordinates":[144.896347,-37.66943],"type":"Point"}
+  "bbox": [
+    144.896347,
+    -37.66943,
+    144.896347,
+    -37.66943
+],
+  "geometry": {"coordinates":[144.89634699999999,-37.66943],"type":"Point"}
 }

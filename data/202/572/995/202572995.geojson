@@ -2,13 +2,14 @@
   "id": 202572995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.437653,-37.674046,144.437653,-37.674046",
     "geom:latitude":-37.674046,
     "geom:longitude":144.437653,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"21- 23 Gell St",
     "sg:city":"Bacchus Marsh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202572995,
-    "wof:lastmodified":1449061677,
+    "wof:lastmodified":1466187069,
     "wof:name":"Matchworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.437653,-37.674046,144.437653,-37.674046],
-  "geometry": {"coordinates":[144.437653,-37.674046],"type":"Point"}
+  "bbox": [
+    144.437653,
+    -37.674046,
+    144.437653,
+    -37.674046
+],
+  "geometry": {"coordinates":[144.43765300000001,-37.674046],"type":"Point"}
 }

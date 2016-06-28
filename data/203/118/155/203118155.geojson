@@ -2,13 +2,14 @@
   "id": 203118155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.722298,-32.53339,115.722298,-32.53339",
     "geom:latitude":-32.53339,
     "geom:longitude":115.722298,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 8",
     "sg:city":"Sutton Sq Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203118155,
-    "wof:lastmodified":1449026479,
+    "wof:lastmodified":1466189320,
     "wof:name":"Peel Business Enterprise Centre",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [115.722298,-32.53339,115.722298,-32.53339],
-  "geometry": {"coordinates":[115.722298,-32.53339],"type":"Point"}
+  "bbox": [
+    115.722298,
+    -32.53339,
+    115.722298,
+    -32.53339
+],
+  "geometry": {"coordinates":[115.72229799999999,-32.53339],"type":"Point"}
 }

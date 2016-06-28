@@ -2,13 +2,14 @@
   "id": 185895973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.688126,-25.532085,152.688126,-25.532085",
     "geom:latitude":-25.532085,
     "geom:longitude":152.688126,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Rocky St",
     "sg:city":"Maryborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185895973,
-    "wof:lastmodified":1449007288,
+    "wof:lastmodified":1466187997,
     "wof:name":"Tradelink Plumbing Centres",
     "wof:parent_id":85782241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [152.688126,-25.532085,152.688126,-25.532085],
-  "geometry": {"coordinates":[152.688126,-25.532085],"type":"Point"}
+  "bbox": [
+    152.688126,
+    -25.532085,
+    152.688126,
+    -25.532085
+],
+  "geometry": {"coordinates":[152.68812600000001,-25.532085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219319661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.928925,-38.158081,145.928925,-38.158081",
     "geom:latitude":-38.158081,
     "geom:longitude":145.928925,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Queen & Witton Sts",
     "sg:city":"Warragul",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219319661,
-    "wof:lastmodified":1449071831,
+    "wof:lastmodified":1466187695,
     "wof:name":"In2Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [145.928925,-38.158081,145.928925,-38.158081],
-  "geometry": {"coordinates":[145.928925,-38.158081],"type":"Point"}
+  "bbox": [
+    145.928925,
+    -38.158081,
+    145.928925,
+    -38.158081
+],
+  "geometry": {"coordinates":[145.92892499999999,-38.158081],"type":"Point"}
 }

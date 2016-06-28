@@ -2,13 +2,14 @@
   "id": 202467921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.971542,-37.833401,144.971542,-37.833401",
     "geom:latitude":-37.833401,
     "geom:longitude":144.971542,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 100 York St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202467921,
-    "wof:lastmodified":1449062113,
+    "wof:lastmodified":1466189052,
     "wof:name":"Australian Personnel Solutions (APS)",
     "wof:parent_id":85782343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.971542,-37.833401,144.971542,-37.833401],
+  "bbox": [
+    144.971542,
+    -37.833401,
+    144.971542,
+    -37.833401
+],
   "geometry": {"coordinates":[144.971542,-37.833401],"type":"Point"}
 }

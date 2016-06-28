@@ -2,13 +2,14 @@
   "id": 219176539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.050735,-27.426651,153.050735,-27.426651",
     "geom:latitude":-27.426651,
     "geom:longitude":153.050735,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Oriel Rd",
     "sg:city":"Clayfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219176539,
-    "wof:lastmodified":1449072689,
+    "wof:lastmodified":1466189832,
     "wof:name":"Builtscape",
     "wof:parent_id":85776225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [153.050735,-27.426651,153.050735,-27.426651],
+  "bbox": [
+    153.050735,
+    -27.426651,
+    153.050735,
+    -27.426651
+],
   "geometry": {"coordinates":[153.050735,-27.426651],"type":"Point"}
 }

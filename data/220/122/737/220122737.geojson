@@ -2,13 +2,14 @@
   "id": 220122737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.420395,-38.166019,144.420395,-38.166019",
     "geom:latitude":-38.166019,
     "geom:longitude":144.420395,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"266- 270 Portarlington Rd",
     "sg:city":"Moolap",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220122737,
-    "wof:lastmodified":1449074506,
+    "wof:lastmodified":1466188181,
     "wof:name":"Eastside Crane Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hire"
     ]
 },
-  "bbox": [144.420395,-38.166019,144.420395,-38.166019],
-  "geometry": {"coordinates":[144.420395,-38.166019],"type":"Point"}
+  "bbox": [
+    144.420395,
+    -38.166019,
+    144.420395,
+    -38.166019
+],
+  "geometry": {"coordinates":[144.42039500000001,-38.166019],"type":"Point"}
 }

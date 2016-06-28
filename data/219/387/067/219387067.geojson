@@ -2,13 +2,14 @@
   "id": 219387067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.00235,-27.80827,153.00235,-27.80827",
     "geom:latitude":-27.80827,
     "geom:longitude":153.00235,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Duncan Rd",
     "sg:city":"Jimboomba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219387067,
-    "wof:lastmodified":1449073434,
+    "wof:lastmodified":1466188256,
     "wof:name":"Queensland Turf Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lawn"
     ]
 },
-  "bbox": [153.00235,-27.80827,153.00235,-27.80827],
-  "geometry": {"coordinates":[153.00235,-27.80827],"type":"Point"}
+  "bbox": [
+    153.00235,
+    -27.80827,
+    153.00235,
+    -27.80827
+],
+  "geometry": {"coordinates":[153.00235000000001,-27.80827],"type":"Point"}
 }

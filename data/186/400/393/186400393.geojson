@@ -2,13 +2,14 @@
   "id": 186400393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.814117,-19.261494,146.814117,-19.261494",
     "geom:latitude":-19.261494,
     "geom:longitude":146.814117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 141 Sturt St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186400393,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466189314,
     "wof:name":"B J Carey & Company Pty Ltd",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "taxation"
     ]
 },
-  "bbox": [146.814117,-19.261494,146.814117,-19.261494],
-  "geometry": {"coordinates":[146.814117,-19.261494],"type":"Point"}
+  "bbox": [
+    146.814117,
+    -19.261494,
+    146.814117,
+    -19.261494
+],
+  "geometry": {"coordinates":[146.81411700000001,-19.261494],"type":"Point"}
 }

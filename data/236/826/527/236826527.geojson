@@ -2,13 +2,14 @@
   "id": 236826527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.898697,-34.430386,150.898697,-34.430386",
     "geom:latitude":-34.430386,
     "geom:longitude":150.898697,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Corrimal St",
     "sg:city":"Wollongong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236826527,
-    "wof:lastmodified":1449004161,
+    "wof:lastmodified":1466191929,
     "wof:name":"Wollongong Womens Centre",
     "wof:parent_id":85782333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [150.898697,-34.430386,150.898697,-34.430386],
+  "bbox": [
+    150.898697,
+    -34.430386,
+    150.898697,
+    -34.430386
+],
   "geometry": {"coordinates":[150.898697,-34.430386],"type":"Point"}
 }

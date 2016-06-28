@@ -2,13 +2,14 @@
   "id": 220155931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.352509,-38.147213,144.352509,-38.147213",
     "geom:latitude":-38.147213,
     "geom:longitude":144.352509,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4 248 Latrobe Tce",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220155931,
-    "wof:lastmodified":1449074712,
+    "wof:lastmodified":1466188713,
     "wof:name":"Global Risk Management Services",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [144.352509,-38.147213,144.352509,-38.147213],
+  "bbox": [
+    144.352509,
+    -38.147213,
+    144.352509,
+    -38.147213
+],
   "geometry": {"coordinates":[144.352509,-38.147213],"type":"Point"}
 }

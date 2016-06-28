@@ -2,13 +2,14 @@
   "id": 169794921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.592255,-38.595882,145.592255,-38.595882",
     "geom:latitude":-38.595882,
     "geom:longitude":145.592255,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"130 McKenzie St",
     "sg:city":"Wonthaggi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169794921,
-    "wof:lastmodified":1449034269,
+    "wof:lastmodified":1466188611,
     "wof:name":"Wonthaggi Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchant"
     ]
 },
-  "bbox": [145.592255,-38.595882,145.592255,-38.595882],
-  "geometry": {"coordinates":[145.592255,-38.595882],"type":"Point"}
+  "bbox": [
+    145.592255,
+    -38.595882,
+    145.592255,
+    -38.595882
+],
+  "geometry": {"coordinates":[145.59225499999999,-38.595882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203030335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.163666,-37.675663,145.163666,-37.675663",
     "geom:latitude":-37.675663,
     "geom:longitude":145.163666,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Gregg St",
     "sg:city":"Diamond Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203030335,
-    "wof:lastmodified":1449025614,
+    "wof:lastmodified":1466187809,
     "wof:name":"Raldex Pty Ltd Plumbing Services",
     "wof:parent_id":85769167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [145.163666,-37.675663,145.163666,-37.675663],
-  "geometry": {"coordinates":[145.163666,-37.675663],"type":"Point"}
+  "bbox": [
+    145.163666,
+    -37.675663,
+    145.163666,
+    -37.675663
+],
+  "geometry": {"coordinates":[145.16366600000001,-37.675663],"type":"Point"}
 }

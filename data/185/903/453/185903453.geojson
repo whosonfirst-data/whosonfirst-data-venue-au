@@ -2,13 +2,14 @@
   "id": 185903453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.50946,-33.208843,151.50946,-33.208843",
     "geom:latitude":-33.208843,
     "geom:longitude":151.50946,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Roper Rd",
     "sg:city":"Blue Haven",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185903453,
-    "wof:lastmodified":1449006692,
+    "wof:lastmodified":1466188117,
     "wof:name":"Demoyd Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [151.50946,-33.208843,151.50946,-33.208843],
-  "geometry": {"coordinates":[151.50946,-33.208843],"type":"Point"}
+  "bbox": [
+    151.50946,
+    -33.208843,
+    151.50946,
+    -33.208843
+],
+  "geometry": {"coordinates":[151.50945999999999,-33.208843],"type":"Point"}
 }

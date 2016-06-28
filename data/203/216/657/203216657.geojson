@@ -2,13 +2,14 @@
   "id": 203216657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.899536,-41.055698,145.899536,-41.055698",
     "geom:latitude":-41.055698,
     "geom:longitude":145.899536,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Morse St",
     "sg:city":"Montello",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203216657,
-    "wof:lastmodified":1449026650,
+    "wof:lastmodified":1466187252,
     "wof:name":"Sharon Mae",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [145.899536,-41.055698,145.899536,-41.055698],
-  "geometry": {"coordinates":[145.899536,-41.055698],"type":"Point"}
+  "bbox": [
+    145.899536,
+    -41.055698,
+    145.899536,
+    -41.055698
+],
+  "geometry": {"coordinates":[145.89953600000001,-41.055698],"type":"Point"}
 }

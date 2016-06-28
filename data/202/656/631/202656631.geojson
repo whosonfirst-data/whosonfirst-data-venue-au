@@ -2,13 +2,14 @@
   "id": 202656631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.038864,-27.430016,153.038864,-27.430016",
     "geom:latitude":-27.430016,
     "geom:longitude":153.038864,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Grafton St & MacDonald Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202656631,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1466188008,
     "wof:name":"All Car Spares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [153.038864,-27.430016,153.038864,-27.430016],
-  "geometry": {"coordinates":[153.038864,-27.430016],"type":"Point"}
+  "bbox": [
+    153.038864,
+    -27.430016,
+    153.038864,
+    -27.430016
+],
+  "geometry": {"coordinates":[153.03886399999999,-27.430016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219655063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.100555,-33.940136,151.100555,-33.940136",
     "geom:latitude":-33.940136,
     "geom:longitude":151.100555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Commercial Rd",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219655063,
-    "wof:lastmodified":1449072405,
+    "wof:lastmodified":1466191041,
     "wof:name":"Belshaw J Pty Ltd",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "foundry"
     ]
 },
-  "bbox": [151.100555,-33.940136,151.100555,-33.940136],
-  "geometry": {"coordinates":[151.100555,-33.940136],"type":"Point"}
+  "bbox": [
+    151.100555,
+    -33.940136,
+    151.100555,
+    -33.940136
+],
+  "geometry": {"coordinates":[151.10055500000001,-33.940136],"type":"Point"}
 }

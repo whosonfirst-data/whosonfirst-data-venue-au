@@ -2,13 +2,14 @@
   "id": 219434231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.758873,-32.363781,115.758873,-32.363781",
     "geom:latitude":-32.363781,
     "geom:longitude":115.758873,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 3 Fielden Way",
     "sg:city":"Port Kennedy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219434231,
-    "wof:lastmodified":1449071163,
+    "wof:lastmodified":1466188793,
     "wof:name":"Prestige Lock Service",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [115.758873,-32.363781,115.758873,-32.363781],
-  "geometry": {"coordinates":[115.758873,-32.363781],"type":"Point"}
+  "bbox": [
+    115.758873,
+    -32.363781,
+    115.758873,
+    -32.363781
+],
+  "geometry": {"coordinates":[115.75887299999999,-32.363781],"type":"Point"}
 }

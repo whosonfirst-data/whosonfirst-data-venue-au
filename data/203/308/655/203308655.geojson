@@ -2,13 +2,14 @@
   "id": 203308655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.837952,-37.537529,143.837952,-37.537529",
     "geom:latitude":-37.537529,
     "geom:longitude":143.837952,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Williams St",
     "sg:city":"Wendouree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203308655,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466188080,
     "wof:name":"Matt Newbury",
     "wof:parent_id":85779751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairer"
     ]
 },
-  "bbox": [143.837952,-37.537529,143.837952,-37.537529],
+  "bbox": [
+    143.837952,
+    -37.537529,
+    143.837952,
+    -37.537529
+],
   "geometry": {"coordinates":[143.837952,-37.537529],"type":"Point"}
 }

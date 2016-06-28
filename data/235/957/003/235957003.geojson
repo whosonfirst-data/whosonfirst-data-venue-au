@@ -2,13 +2,14 @@
   "id": 235957003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.89888,-12.397523,130.89888,-12.397523",
     "geom:latitude":-12.397523,
     "geom:longitude":130.89888,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 232",
     "sg:city":"Sanderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235957003,
-    "wof:lastmodified":1449008548,
+    "wof:lastmodified":1466187173,
     "wof:name":"Territory Water Treatment",
     "wof:parent_id":85774855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [130.89888,-12.397523,130.89888,-12.397523],
-  "geometry": {"coordinates":[130.89888,-12.397523],"type":"Point"}
+  "bbox": [
+    130.89888,
+    -12.397523,
+    130.89888,
+    -12.397523
+],
+  "geometry": {"coordinates":[130.89887999999999,-12.397523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202487275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.040237,-37.90382,145.040237,-37.90382",
     "geom:latitude":-37.90382,
     "geom:longitude":145.040237,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"495 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202487275,
-    "wof:lastmodified":1449060933,
+    "wof:lastmodified":1466189341,
     "wof:name":"Harbour Seafoods",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [145.040237,-37.90382,145.040237,-37.90382],
-  "geometry": {"coordinates":[145.040237,-37.90382],"type":"Point"}
+  "bbox": [
+    145.040237,
+    -37.90382,
+    145.040237,
+    -37.90382
+],
+  "geometry": {"coordinates":[145.04023699999999,-37.90382],"type":"Point"}
 }

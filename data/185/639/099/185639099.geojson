@@ -2,13 +2,14 @@
   "id": 185639099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.92701,-32.057304,115.92701,-32.057304",
     "geom:latitude":-32.057304,
     "geom:longitude":115.92701,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Bannister Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185639099,
-    "wof:lastmodified":1449008197,
+    "wof:lastmodified":1466188048,
     "wof:name":"Westral Home Improvements",
     "wof:parent_id":85775581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grille"
     ]
 },
-  "bbox": [115.92701,-32.057304,115.92701,-32.057304],
+  "bbox": [
+    115.92701,
+    -32.057304,
+    115.92701,
+    -32.057304
+],
   "geometry": {"coordinates":[115.92701,-32.057304],"type":"Point"}
 }

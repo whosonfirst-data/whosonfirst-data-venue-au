@@ -2,13 +2,14 @@
   "id": 202998175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.50972,-20.705563,140.50972,-20.705563",
     "geom:latitude":-20.705563,
     "geom:longitude":140.50972,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Scarr St",
     "sg:city":"Cloncurry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202998175,
-    "wof:lastmodified":1449060947,
+    "wof:lastmodified":1466191173,
     "wof:name":"Liquor Legends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [140.50972,-20.705563,140.50972,-20.705563],
-  "geometry": {"coordinates":[140.50972,-20.705563],"type":"Point"}
+  "bbox": [
+    140.50972,
+    -20.705563,
+    140.50972,
+    -20.705563
+],
+  "geometry": {"coordinates":[140.50971999999999,-20.705563],"type":"Point"}
 }

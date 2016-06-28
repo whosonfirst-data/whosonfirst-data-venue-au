@@ -2,13 +2,14 @@
   "id": 236693455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.578476,-31.967133,152.578476,-31.967133",
     "geom:latitude":-31.967133,
     "geom:longitude":152.578476,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4a/ 48 Old Bar Rd",
     "sg:city":"Old Bar",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236693455,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1466191841,
     "wof:name":"Physiotherapy Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [152.578476,-31.967133,152.578476,-31.967133],
-  "geometry": {"coordinates":[152.578476,-31.967133],"type":"Point"}
+  "bbox": [
+    152.578476,
+    -31.967133,
+    152.578476,
+    -31.967133
+],
+  "geometry": {"coordinates":[152.57847599999999,-31.967133],"type":"Point"}
 }

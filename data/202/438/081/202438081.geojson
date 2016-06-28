@@ -2,13 +2,14 @@
   "id": 202438081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.957794,-37.832687,144.957794,-37.832687",
     "geom:latitude":-37.832687,
     "geom:longitude":144.957794,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Stall 175, South Melbourne Market, 126 Cecil",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202438081,
-    "wof:lastmodified":1449060970,
+    "wof:lastmodified":1466188567,
     "wof:name":"Paul's Discount Jeanery",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jean"
     ]
 },
-  "bbox": [144.957794,-37.832687,144.957794,-37.832687],
-  "geometry": {"coordinates":[144.957794,-37.832687],"type":"Point"}
+  "bbox": [
+    144.957794,
+    -37.832687,
+    144.957794,
+    -37.832687
+],
+  "geometry": {"coordinates":[144.95779400000001,-37.832687],"type":"Point"}
 }

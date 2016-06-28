@@ -2,13 +2,14 @@
   "id": 236890067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.530716,-35.030014,138.530716,-35.030014",
     "geom:latitude":-35.030014,
     "geom:longitude":138.530716,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Seacombe Rd",
     "sg:city":"Seacliff Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236890067,
-    "wof:lastmodified":1449002217,
+    "wof:lastmodified":1466192078,
     "wof:name":"BWS Liquor",
     "wof:parent_id":85777535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [138.530716,-35.030014,138.530716,-35.030014],
-  "geometry": {"coordinates":[138.530716,-35.030014],"type":"Point"}
+  "bbox": [
+    138.530716,
+    -35.030014,
+    138.530716,
+    -35.030014
+],
+  "geometry": {"coordinates":[138.53071600000001,-35.030014],"type":"Point"}
 }

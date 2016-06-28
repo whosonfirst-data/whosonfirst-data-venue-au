@@ -2,13 +2,14 @@
   "id": 185656189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.82254,-32.045486,115.82254,-32.045486",
     "geom:latitude":-32.045486,
     "geom:longitude":115.82254,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/ 110 Norma Rd",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185656189,
-    "wof:lastmodified":1449007648,
+    "wof:lastmodified":1466188357,
     "wof:name":"Auto Masters Melville",
     "wof:parent_id":85775671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [115.82254,-32.045486,115.82254,-32.045486],
+  "bbox": [
+    115.82254,
+    -32.045486,
+    115.82254,
+    -32.045486
+],
   "geometry": {"coordinates":[115.82254,-32.045486],"type":"Point"}
 }

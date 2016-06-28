@@ -2,13 +2,14 @@
   "id": 252893053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.585999,-37.684448,144.585999,-37.684448",
     "geom:latitude":-37.684448,
     "geom:longitude":144.585999,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Smith & McKenzie Sts",
     "sg:city":"Melton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252893053,
-    "wof:lastmodified":1449006302,
+    "wof:lastmodified":1466188914,
     "wof:name":"Home Loans Service Centre (VIC) Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [144.585999,-37.684448,144.585999,-37.684448],
-  "geometry": {"coordinates":[144.585999,-37.684448],"type":"Point"}
+  "bbox": [
+    144.585999,
+    -37.684448,
+    144.585999,
+    -37.684448
+],
+  "geometry": {"coordinates":[144.58599899999999,-37.684448],"type":"Point"}
 }

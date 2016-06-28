@@ -2,13 +2,14 @@
   "id": 219372577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.559555,-35.33815,143.559555,-35.33815",
     "geom:latitude":-35.33815,
     "geom:longitude":143.559555,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"139a Campbell St",
     "sg:city":"Swan Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219372577,
-    "wof:lastmodified":1449072536,
+    "wof:lastmodified":1466188121,
     "wof:name":"Central Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [143.559555,-35.33815,143.559555,-35.33815],
-  "geometry": {"coordinates":[143.559555,-35.33815],"type":"Point"}
+  "bbox": [
+    143.559555,
+    -35.33815,
+    143.559555,
+    -35.33815
+],
+  "geometry": {"coordinates":[143.55955499999999,-35.33815],"type":"Point"}
 }

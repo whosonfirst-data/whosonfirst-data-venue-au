@@ -2,13 +2,14 @@
   "id": 220014995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.285645,-36.759583,144.285645,-36.759583",
     "geom:latitude":-36.759583,
     "geom:longitude":144.285645,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Myers St",
     "sg:city":"Bendigo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220014995,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466187039,
     "wof:name":"Workforce On Tap",
     "wof:parent_id":85782125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [144.285645,-36.759583,144.285645,-36.759583],
-  "geometry": {"coordinates":[144.285645,-36.759583],"type":"Point"}
+  "bbox": [
+    144.285645,
+    -36.759583,
+    144.285645,
+    -36.759583
+],
+  "geometry": {"coordinates":[144.28564499999999,-36.759583],"type":"Point"}
 }

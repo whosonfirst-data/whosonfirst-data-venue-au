@@ -2,13 +2,14 @@
   "id": 202801307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.74733,-32.923923,151.74733,-32.923923",
     "geom:latitude":-32.923923,
     "geom:longitude":151.74733,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Tudor St",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202801307,
-    "wof:lastmodified":1449062222,
+    "wof:lastmodified":1466190321,
     "wof:name":"Transport Workers Union",
     "wof:parent_id":85777105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [151.74733,-32.923923,151.74733,-32.923923],
-  "geometry": {"coordinates":[151.74733,-32.923923],"type":"Point"}
+  "bbox": [
+    151.74733,
+    -32.923923,
+    151.74733,
+    -32.923923
+],
+  "geometry": {"coordinates":[151.74733000000001,-32.923923],"type":"Point"}
 }

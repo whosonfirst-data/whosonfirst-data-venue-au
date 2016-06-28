@@ -2,13 +2,14 @@
   "id": 186274433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.883423,-31.452295,152.883423,-31.452295",
     "geom:latitude":-31.452295,
     "geom:longitude":152.883423,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Uralla Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186274433,
-    "wof:lastmodified":1449050595,
+    "wof:lastmodified":1466187583,
     "wof:name":"J & C Winbank Auto Panel & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painting"
     ]
 },
-  "bbox": [152.883423,-31.452295,152.883423,-31.452295],
-  "geometry": {"coordinates":[152.883423,-31.452295],"type":"Point"}
+  "bbox": [
+    152.883423,
+    -31.452295,
+    152.883423,
+    -31.452295
+],
+  "geometry": {"coordinates":[152.88342299999999,-31.452295],"type":"Point"}
 }

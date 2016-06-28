@@ -2,13 +2,14 @@
   "id": 219922077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.754623,-36.11129,144.754623,-36.11129",
     "geom:latitude":-36.11129,
     "geom:longitude":144.754623,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 212",
     "sg:city":"Moama",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219922077,
-    "wof:lastmodified":1449070708,
+    "wof:lastmodified":1466191843,
     "wof:name":"Mid Murray Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [144.754623,-36.11129,144.754623,-36.11129],
-  "geometry": {"coordinates":[144.754623,-36.11129],"type":"Point"}
+  "bbox": [
+    144.754623,
+    -36.11129,
+    144.754623,
+    -36.11129
+],
+  "geometry": {"coordinates":[144.75462300000001,-36.11129],"type":"Point"}
 }

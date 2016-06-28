@@ -2,13 +2,14 @@
   "id": 236044931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.929901,-37.756596,144.929901,-37.756596",
     "geom:latitude":-37.756596,
     "geom:longitude":144.929901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Holmes Rd",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236044931,
-    "wof:lastmodified":1449003358,
+    "wof:lastmodified":1466187512,
     "wof:name":"200pixels",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [144.929901,-37.756596,144.929901,-37.756596],
+  "bbox": [
+    144.929901,
+    -37.756596,
+    144.929901,
+    -37.756596
+],
   "geometry": {"coordinates":[144.929901,-37.756596],"type":"Point"}
 }

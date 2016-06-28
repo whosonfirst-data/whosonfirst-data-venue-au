@@ -2,13 +2,14 @@
   "id": 203324063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.841446,-37.603195,143.841446,-37.603195",
     "geom:latitude":-37.603195,
     "geom:longitude":143.841446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Burnett St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203324063,
-    "wof:lastmodified":1449026047,
+    "wof:lastmodified":1466188316,
     "wof:name":"Central Highlands Table Tennis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ground"
     ]
 },
-  "bbox": [143.841446,-37.603195,143.841446,-37.603195],
-  "geometry": {"coordinates":[143.841446,-37.603195],"type":"Point"}
+  "bbox": [
+    143.841446,
+    -37.603195,
+    143.841446,
+    -37.603195
+],
+  "geometry": {"coordinates":[143.84144599999999,-37.603195],"type":"Point"}
 }

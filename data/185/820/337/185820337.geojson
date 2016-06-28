@@ -2,13 +2,14 @@
   "id": 185820337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.738144,-37.507248,145.738144,-37.507248",
     "geom:latitude":-37.507248,
     "geom:longitude":145.738144,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Sunds Rd",
     "sg:city":"Marysville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185820337,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466186980,
     "wof:name":"Triangle Gas Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [145.738144,-37.507248,145.738144,-37.507248],
-  "geometry": {"coordinates":[145.738144,-37.507248],"type":"Point"}
+  "bbox": [
+    145.738144,
+    -37.507248,
+    145.738144,
+    -37.507248
+],
+  "geometry": {"coordinates":[145.73814400000001,-37.507248],"type":"Point"}
 }

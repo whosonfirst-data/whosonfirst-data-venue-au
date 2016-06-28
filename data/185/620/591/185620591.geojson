@@ -2,13 +2,14 @@
   "id": 185620591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.917183,-32.063049,115.917183,-32.063049",
     "geom:latitude":-32.063049,
     "geom:longitude":115.917183,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Ernest Clark Rd",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185620591,
-    "wof:lastmodified":1449008081,
+    "wof:lastmodified":1466187601,
     "wof:name":"Altiform",
     "wof:parent_id":85775581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [115.917183,-32.063049,115.917183,-32.063049],
-  "geometry": {"coordinates":[115.917183,-32.063049],"type":"Point"}
+  "bbox": [
+    115.917183,
+    -32.063049,
+    115.917183,
+    -32.063049
+],
+  "geometry": {"coordinates":[115.91718299999999,-32.063049],"type":"Point"}
 }

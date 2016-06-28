@@ -2,13 +2,14 @@
   "id": 186270227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.911087,-31.429136,152.911087,-31.429136",
     "geom:latitude":-31.429136,
     "geom:longitude":152.911087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Clarence St",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186270227,
-    "wof:lastmodified":1449050893,
+    "wof:lastmodified":1466187553,
     "wof:name":"Hair Pacific",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [152.911087,-31.429136,152.911087,-31.429136],
-  "geometry": {"coordinates":[152.911087,-31.429136],"type":"Point"}
+  "bbox": [
+    152.911087,
+    -31.429136,
+    152.911087,
+    -31.429136
+],
+  "geometry": {"coordinates":[152.91108700000001,-31.429136],"type":"Point"}
 }

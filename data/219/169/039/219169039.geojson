@@ -2,13 +2,14 @@
   "id": 219169039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.071671,-27.420954,153.071671,-27.420954",
     "geom:latitude":-27.420954,
     "geom:longitude":153.071671,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Flemington St",
     "sg:city":"Hendra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219169039,
-    "wof:lastmodified":1449072577,
+    "wof:lastmodified":1466189757,
     "wof:name":"Dave Allen",
     "wof:parent_id":85776243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alerting"
     ]
 },
-  "bbox": [153.071671,-27.420954,153.071671,-27.420954],
-  "geometry": {"coordinates":[153.071671,-27.420954],"type":"Point"}
+  "bbox": [
+    153.071671,
+    -27.420954,
+    153.071671,
+    -27.420954
+],
+  "geometry": {"coordinates":[153.07167100000001,-27.420954],"type":"Point"}
 }

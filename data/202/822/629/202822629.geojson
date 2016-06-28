@@ -2,13 +2,14 @@
   "id": 202822629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.163727,-23.526705,148.163727,-23.526705",
     "geom:latitude":-23.526705,
     "geom:longitude":148.163727,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Opal & Egerton Sts",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202822629,
-    "wof:lastmodified":1449062561,
+    "wof:lastmodified":1466190405,
     "wof:name":"Emerald Meteor Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [148.163727,-23.526705,148.163727,-23.526705],
-  "geometry": {"coordinates":[148.163727,-23.526705],"type":"Point"}
+  "bbox": [
+    148.163727,
+    -23.526705,
+    148.163727,
+    -23.526705
+],
+  "geometry": {"coordinates":[148.16372699999999,-23.526705],"type":"Point"}
 }

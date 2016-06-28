@@ -2,13 +2,14 @@
   "id": 219414909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.853165,-33.749325,150.853165,-33.749325",
     "geom:latitude":-33.749325,
     "geom:longitude":150.853165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Glendenning Rd",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219414909,
-    "wof:lastmodified":1449072043,
+    "wof:lastmodified":1466188518,
     "wof:name":"Zammit Metal Roofing Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [150.853165,-33.749325,150.853165,-33.749325],
-  "geometry": {"coordinates":[150.853165,-33.749325],"type":"Point"}
+  "bbox": [
+    150.853165,
+    -33.749325,
+    150.853165,
+    -33.749325
+],
+  "geometry": {"coordinates":[150.85316499999999,-33.749325],"type":"Point"}
 }

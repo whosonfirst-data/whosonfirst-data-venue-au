@@ -2,13 +2,14 @@
   "id": 236656295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.121231,-33.969128,151.121231,-33.969128",
     "geom:latitude":-33.969128,
     "geom:longitude":151.121231,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Railway Pde",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236656295,
-    "wof:lastmodified":1449003876,
+    "wof:lastmodified":1466191784,
     "wof:name":"Royal Hotel",
     "wof:parent_id":85774241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [151.121231,-33.969128,151.121231,-33.969128],
-  "geometry": {"coordinates":[151.121231,-33.969128],"type":"Point"}
+  "bbox": [
+    151.121231,
+    -33.969128,
+    151.121231,
+    -33.969128
+],
+  "geometry": {"coordinates":[151.12123099999999,-33.969128],"type":"Point"}
 }

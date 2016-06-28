@@ -2,13 +2,14 @@
   "id": 202608659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.699524,-33.752705,150.699524,-33.752705",
     "geom:latitude":-33.752705,
     "geom:longitude":150.699524,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"6/ 6 Harford St",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202608659,
-    "wof:lastmodified":1449061199,
+    "wof:lastmodified":1466187413,
     "wof:name":"Left Handed Coins & Banknotes",
     "wof:parent_id":85776161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [150.699524,-33.752705,150.699524,-33.752705],
+  "bbox": [
+    150.699524,
+    -33.752705,
+    150.699524,
+    -33.752705
+],
   "geometry": {"coordinates":[150.699524,-33.752705],"type":"Point"}
 }

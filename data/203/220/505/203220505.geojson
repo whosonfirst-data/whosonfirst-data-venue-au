@@ -2,13 +2,14 @@
   "id": 203220505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.905197,-41.050674,145.905197,-41.050674",
     "geom:latitude":-41.050674,
     "geom:longitude":145.905197,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"44a Wilmot St",
     "sg:city":"Burnie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203220505,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466187308,
     "wof:name":"Burnie Smile Care",
     "wof:parent_id":85782145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.905197,-41.050674,145.905197,-41.050674],
-  "geometry": {"coordinates":[145.905197,-41.050674],"type":"Point"}
+  "bbox": [
+    145.905197,
+    -41.050674,
+    145.905197,
+    -41.050674
+],
+  "geometry": {"coordinates":[145.90519699999999,-41.050674],"type":"Point"}
 }

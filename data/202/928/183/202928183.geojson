@@ -2,13 +2,14 @@
   "id": 202928183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.12355,-30.229004,153.12355,-30.229004",
     "geom:latitude":-30.229004,
     "geom:longitude":153.12355,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"126c Gaudrons Rd",
     "sg:city":"Sapphire",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202928183,
-    "wof:lastmodified":1449062299,
+    "wof:lastmodified":1466190878,
     "wof:name":"G K Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [153.12355,-30.229004,153.12355,-30.229004],
-  "geometry": {"coordinates":[153.12355,-30.229004],"type":"Point"}
+  "bbox": [
+    153.12355,
+    -30.229004,
+    153.12355,
+    -30.229004
+],
+  "geometry": {"coordinates":[153.12354999999999,-30.229004],"type":"Point"}
 }

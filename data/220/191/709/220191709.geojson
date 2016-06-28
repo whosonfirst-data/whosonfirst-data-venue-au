@@ -2,13 +2,14 @@
   "id": 220191709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.576553,-38.173496,144.576553,-38.173496",
     "geom:latitude":-38.173496,
     "geom:longitude":144.576553,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 3 61- 63 Murradoc Rd",
     "sg:city":"Drysdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220191709,
-    "wof:lastmodified":1449074520,
+    "wof:lastmodified":1466189327,
     "wof:name":"Bellarine Peninsula Auto Electrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [144.576553,-38.173496,144.576553,-38.173496],
-  "geometry": {"coordinates":[144.576553,-38.173496],"type":"Point"}
+  "bbox": [
+    144.576553,
+    -38.173496,
+    144.576553,
+    -38.173496
+],
+  "geometry": {"coordinates":[144.57655299999999,-38.173496],"type":"Point"}
 }

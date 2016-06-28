@@ -2,13 +2,14 @@
   "id": 203090911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"116.087021,-32.710274,116.087021,-32.710274",
     "geom:latitude":-32.710274,
     "geom:longitude":116.087021,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 168 Holyoake Rd",
     "sg:city":"Dwellingup",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203090911,
-    "wof:lastmodified":1449026445,
+    "wof:lastmodified":1466188915,
     "wof:name":"AND Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [116.087021,-32.710274,116.087021,-32.710274],
-  "geometry": {"coordinates":[116.087021,-32.710274],"type":"Point"}
+  "bbox": [
+    116.087021,
+    -32.710274,
+    116.087021,
+    -32.710274
+],
+  "geometry": {"coordinates":[116.08702099999999,-32.710274],"type":"Point"}
 }

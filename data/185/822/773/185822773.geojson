@@ -2,13 +2,14 @@
   "id": 185822773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.829437,-25.285133,152.829437,-25.285133",
     "geom:latitude":-25.285133,
     "geom:longitude":152.829437,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 1/ 87 Islander Rd",
     "sg:city":"Pialba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185822773,
-    "wof:lastmodified":1449008139,
+    "wof:lastmodified":1466187002,
     "wof:name":"D & R Electrical Wholesale",
     "wof:parent_id":85770005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [152.829437,-25.285133,152.829437,-25.285133],
-  "geometry": {"coordinates":[152.829437,-25.285133],"type":"Point"}
+  "bbox": [
+    152.829437,
+    -25.285133,
+    152.829437,
+    -25.285133
+],
+  "geometry": {"coordinates":[152.82943700000001,-25.285133],"type":"Point"}
 }

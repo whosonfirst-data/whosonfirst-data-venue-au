@@ -2,13 +2,14 @@
   "id": 236425387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.00499,-20.928717,149.00499,-20.928717",
     "geom:latitude":-20.928717,
     "geom:longitude":149.00499,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Cape Hillsborough Rd",
     "sg:city":"Seaforth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236425387,
-    "wof:lastmodified":1449002682,
+    "wof:lastmodified":1466191236,
     "wof:name":"Jones G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [149.00499,-20.928717,149.00499,-20.928717],
-  "geometry": {"coordinates":[149.00499,-20.928717],"type":"Point"}
+  "bbox": [
+    149.00499,
+    -20.928717,
+    149.00499,
+    -20.928717
+],
+  "geometry": {"coordinates":[149.00498999999999,-20.928717],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186242223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.890549,-31.446739,152.890549,-31.446739",
     "geom:latitude":-31.446739,
     "geom:longitude":152.890549,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Acacia Ave",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186242223,
-    "wof:lastmodified":1449052699,
+    "wof:lastmodified":1466187362,
     "wof:name":"Tradelink Plumbing Centres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [152.890549,-31.446739,152.890549,-31.446739],
-  "geometry": {"coordinates":[152.890549,-31.446739],"type":"Point"}
+  "bbox": [
+    152.890549,
+    -31.446739,
+    152.890549,
+    -31.446739
+],
+  "geometry": {"coordinates":[152.89054899999999,-31.446739],"type":"Point"}
 }

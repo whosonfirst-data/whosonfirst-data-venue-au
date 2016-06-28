@@ -2,13 +2,14 @@
   "id": 253269209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.007446,-27.566719,152.007446,-27.566719",
     "geom:latitude":-27.566719,
     "geom:longitude":152.007446,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Berghofer Drv",
     "sg:city":"Withcott",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253269209,
-    "wof:lastmodified":1449064677,
+    "wof:lastmodified":1466190736,
     "wof:name":"Desley Lock",
     "wof:parent_id":85781967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [152.007446,-27.566719,152.007446,-27.566719],
-  "geometry": {"coordinates":[152.007446,-27.566719],"type":"Point"}
+  "bbox": [
+    152.007446,
+    -27.566719,
+    152.007446,
+    -27.566719
+],
+  "geometry": {"coordinates":[152.00744599999999,-27.566719],"type":"Point"}
 }

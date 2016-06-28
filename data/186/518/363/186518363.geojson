@@ -2,13 +2,14 @@
   "id": 186518363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.758942,-19.296015,146.758942,-19.296015",
     "geom:latitude":-19.296015,
     "geom:longitude":146.758942,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Brampton Ave",
     "sg:city":"Cranbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186518363,
-    "wof:lastmodified":1449051897,
+    "wof:lastmodified":1466190791,
     "wof:name":"Rob Wilcomes",
     "wof:parent_id":85768661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fixer"
     ]
 },
-  "bbox": [146.758942,-19.296015,146.758942,-19.296015],
-  "geometry": {"coordinates":[146.758942,-19.296015],"type":"Point"}
+  "bbox": [
+    146.758942,
+    -19.296015,
+    146.758942,
+    -19.296015
+],
+  "geometry": {"coordinates":[146.75894199999999,-19.296015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219551237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.989426,-33.901524,150.989426,-33.901524",
     "geom:latitude":-33.901524,
     "geom:longitude":150.989426,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Denman Rd",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219551237,
-    "wof:lastmodified":1449071103,
+    "wof:lastmodified":1466190165,
     "wof:name":"Sprintparts",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "replacement"
     ]
 },
-  "bbox": [150.989426,-33.901524,150.989426,-33.901524],
-  "geometry": {"coordinates":[150.989426,-33.901524],"type":"Point"}
+  "bbox": [
+    150.989426,
+    -33.901524,
+    150.989426,
+    -33.901524
+],
+  "geometry": {"coordinates":[150.98942600000001,-33.901524],"type":"Point"}
 }

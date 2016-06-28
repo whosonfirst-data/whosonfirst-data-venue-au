@@ -2,13 +2,14 @@
   "id": 220170633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.356155,-38.147228,144.356155,-38.147228",
     "geom:latitude":-38.147228,
     "geom:longitude":144.356155,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Little Malop St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220170633,
-    "wof:lastmodified":1449074101,
+    "wof:lastmodified":1466189009,
     "wof:name":"Barwon Health Adolescent Mental Health Service",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [144.356155,-38.147228,144.356155,-38.147228],
+  "bbox": [
+    144.356155,
+    -38.147228,
+    144.356155,
+    -38.147228
+],
   "geometry": {"coordinates":[144.356155,-38.147228],"type":"Point"}
 }

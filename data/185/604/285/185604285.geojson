@@ -2,13 +2,14 @@
   "id": 185604285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.811432,-32.043724,115.811432,-32.043724",
     "geom:latitude":-32.043724,
     "geom:longitude":115.811432,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"41 McCoy St",
     "sg:city":"Myaree",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185604285,
-    "wof:lastmodified":1449008035,
+    "wof:lastmodified":1466187058,
     "wof:name":"Western Frontier Traders",
     "wof:parent_id":85771367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [115.811432,-32.043724,115.811432,-32.043724],
+  "bbox": [
+    115.811432,
+    -32.043724,
+    115.811432,
+    -32.043724
+],
   "geometry": {"coordinates":[115.811432,-32.043724],"type":"Point"}
 }

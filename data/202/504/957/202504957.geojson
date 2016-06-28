@@ -2,13 +2,14 @@
   "id": 202504957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.093826,-37.955269,145.093826,-37.955269",
     "geom:latitude":-37.955269,
     "geom:longitude":145.093826,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Kingston Rd",
     "sg:city":"Heatherton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202504957,
-    "wof:lastmodified":1449060549,
+    "wof:lastmodified":1466189580,
     "wof:name":"Azalea Park Nursery",
     "wof:parent_id":85771461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.093826,-37.955269,145.093826,-37.955269],
-  "geometry": {"coordinates":[145.093826,-37.955269],"type":"Point"}
+  "bbox": [
+    145.093826,
+    -37.955269,
+    145.093826,
+    -37.955269
+],
+  "geometry": {"coordinates":[145.09382600000001,-37.955269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219408733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.994263,-27.975758,152.994263,-27.975758",
     "geom:latitude":-27.975758,
     "geom:longitude":152.994263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Brisbane St",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219408733,
-    "wof:lastmodified":1449070825,
+    "wof:lastmodified":1466188440,
     "wof:name":"Beaudesert Courier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carrier"
     ]
 },
-  "bbox": [152.994263,-27.975758,152.994263,-27.975758],
-  "geometry": {"coordinates":[152.994263,-27.975758],"type":"Point"}
+  "bbox": [
+    152.994263,
+    -27.975758,
+    152.994263,
+    -27.975758
+],
+  "geometry": {"coordinates":[152.99426299999999,-27.975758],"type":"Point"}
 }

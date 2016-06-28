@@ -2,13 +2,14 @@
   "id": 253024321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.703049,-37.864742,144.703049,-37.864742",
     "geom:latitude":-37.864742,
     "geom:longitude":144.703049,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Hogans Rd & Mossfiel Drv",
     "sg:city":"Hoppers Crossing",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253024321,
-    "wof:lastmodified":1449064243,
+    "wof:lastmodified":1466187403,
     "wof:name":"Mcleod Shay",
     "wof:parent_id":85777905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [144.703049,-37.864742,144.703049,-37.864742],
-  "geometry": {"coordinates":[144.703049,-37.864742],"type":"Point"}
+  "bbox": [
+    144.703049,
+    -37.864742,
+    144.703049,
+    -37.864742
+],
+  "geometry": {"coordinates":[144.70304899999999,-37.864742],"type":"Point"}
 }

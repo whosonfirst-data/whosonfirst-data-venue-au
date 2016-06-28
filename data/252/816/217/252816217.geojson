@@ -2,13 +2,14 @@
   "id": 252816217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.586639,-38.337246,143.586639,-38.337246",
     "geom:latitude":-38.337246,
     "geom:longitude":143.586639,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Manifold St",
     "sg:city":"Colac",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252816217,
-    "wof:lastmodified":1449006054,
+    "wof:lastmodified":1466188273,
     "wof:name":"Herbalife",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [143.586639,-38.337246,143.586639,-38.337246],
-  "geometry": {"coordinates":[143.586639,-38.337246],"type":"Point"}
+  "bbox": [
+    143.586639,
+    -38.337246,
+    143.586639,
+    -38.337246
+],
+  "geometry": {"coordinates":[143.58663899999999,-38.337246],"type":"Point"}
 }

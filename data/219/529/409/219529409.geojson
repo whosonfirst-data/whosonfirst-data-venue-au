@@ -2,13 +2,14 @@
   "id": 219529409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.075836,-33.927479,151.075836,-33.927479",
     "geom:latitude":-33.927479,
     "geom:longitude":151.075836,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Ernest St",
     "sg:city":"Lakemba",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219529409,
-    "wof:lastmodified":1449071935,
+    "wof:lastmodified":1466190110,
     "wof:name":"Coast Controls",
     "wof:parent_id":85774751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [151.075836,-33.927479,151.075836,-33.927479],
-  "geometry": {"coordinates":[151.075836,-33.927479],"type":"Point"}
+  "bbox": [
+    151.075836,
+    -33.927479,
+    151.075836,
+    -33.927479
+],
+  "geometry": {"coordinates":[151.07583600000001,-33.927479],"type":"Point"}
 }

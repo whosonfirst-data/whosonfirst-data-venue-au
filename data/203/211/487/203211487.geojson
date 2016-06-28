@@ -2,13 +2,14 @@
   "id": 203211487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.933746,-41.06794,145.933746,-41.06794",
     "geom:latitude":-41.06794,
     "geom:longitude":145.933746,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Main Rd",
     "sg:city":"Wivenhoe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203211487,
-    "wof:lastmodified":1449025383,
+    "wof:lastmodified":1466187176,
     "wof:name":"Motor Cycle Scene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [145.933746,-41.06794,145.933746,-41.06794],
-  "geometry": {"coordinates":[145.933746,-41.06794],"type":"Point"}
+  "bbox": [
+    145.933746,
+    -41.06794,
+    145.933746,
+    -41.06794
+],
+  "geometry": {"coordinates":[145.93374600000001,-41.06794],"type":"Point"}
 }

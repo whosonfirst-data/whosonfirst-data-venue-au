@@ -2,13 +2,14 @@
   "id": 203119491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.686523,-32.56419,115.686523,-32.56419",
     "geom:latitude":-32.56419,
     "geom:longitude":115.686523,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hopevale Pl",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203119491,
-    "wof:lastmodified":1449026320,
+    "wof:lastmodified":1466189330,
     "wof:name":"Rainbow Access",
     "wof:parent_id":85779587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [115.686523,-32.56419,115.686523,-32.56419],
-  "geometry": {"coordinates":[115.686523,-32.56419],"type":"Point"}
+  "bbox": [
+    115.686523,
+    -32.56419,
+    115.686523,
+    -32.56419
+],
+  "geometry": {"coordinates":[115.68652299999999,-32.56419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236051967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.921677,-37.767628,144.921677,-37.767628",
     "geom:latitude":-37.767628,
     "geom:longitude":144.921677,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Pratt St",
     "sg:city":"Moonee Ponds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236051967,
-    "wof:lastmodified":1449003736,
+    "wof:lastmodified":1466187657,
     "wof:name":"Brumby's Bakeries",
     "wof:parent_id":85769751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [144.921677,-37.767628,144.921677,-37.767628],
-  "geometry": {"coordinates":[144.921677,-37.767628],"type":"Point"}
+  "bbox": [
+    144.921677,
+    -37.767628,
+    144.921677,
+    -37.767628
+],
+  "geometry": {"coordinates":[144.92167699999999,-37.767628],"type":"Point"}
 }

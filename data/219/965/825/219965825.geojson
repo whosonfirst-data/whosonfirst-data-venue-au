@@ -2,13 +2,14 @@
   "id": 219965825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"140.79747,-37.833866,140.79747,-37.833866",
     "geom:latitude":-37.833866,
     "geom:longitude":140.79747,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Commercial St East",
     "sg:city":"Mt Gambier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219965825,
-    "wof:lastmodified":1449072855,
+    "wof:lastmodified":1466191828,
     "wof:name":"Gambier Tile Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [140.79747,-37.833866,140.79747,-37.833866],
+  "bbox": [
+    140.79747,
+    -37.833866,
+    140.79747,
+    -37.833866
+],
   "geometry": {"coordinates":[140.79747,-37.833866],"type":"Point"}
 }

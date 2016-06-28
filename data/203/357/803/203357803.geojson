@@ -2,13 +2,14 @@
   "id": 203357803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.841843,-37.555893,143.841843,-37.555893",
     "geom:latitude":-37.555893,
     "geom:longitude":143.841843,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Botanical Gardens Wendouree Pde",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203357803,
-    "wof:lastmodified":1449026637,
+    "wof:lastmodified":1466188812,
     "wof:name":"Adam Lindsay Gordon Cottage",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [143.841843,-37.555893,143.841843,-37.555893],
-  "geometry": {"coordinates":[143.841843,-37.555893],"type":"Point"}
+  "bbox": [
+    143.841843,
+    -37.555893,
+    143.841843,
+    -37.555893
+],
+  "geometry": {"coordinates":[143.84184300000001,-37.555893],"type":"Point"}
 }

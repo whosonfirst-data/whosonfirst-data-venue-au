@@ -2,13 +2,14 @@
   "id": 202408289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.921463,-37.831596,144.921463,-37.831596",
     "geom:latitude":-37.831596,
     "geom:longitude":144.921463,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Un 1c/ 4 Rocklea Drv",
     "sg:city":"Port Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202408289,
-    "wof:lastmodified":1449060416,
+    "wof:lastmodified":1466187857,
     "wof:name":"Reconnections Pty Ltd",
     "wof:parent_id":85771423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [144.921463,-37.831596,144.921463,-37.831596],
-  "geometry": {"coordinates":[144.921463,-37.831596],"type":"Point"}
+  "bbox": [
+    144.921463,
+    -37.831596,
+    144.921463,
+    -37.831596
+],
+  "geometry": {"coordinates":[144.92146299999999,-37.831596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236281033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.761429,-32.347351,115.761429,-32.347351",
     "geom:latitude":-32.347351,
     "geom:longitude":115.761429,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Warnbro Sound Ave",
     "sg:city":"Warnbro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236281033,
-    "wof:lastmodified":1449004641,
+    "wof:lastmodified":1466190468,
     "wof:name":"McDonald's Family Restaurants",
     "wof:parent_id":85771121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [115.761429,-32.347351,115.761429,-32.347351],
-  "geometry": {"coordinates":[115.761429,-32.347351],"type":"Point"}
+  "bbox": [
+    115.761429,
+    -32.347351,
+    115.761429,
+    -32.347351
+],
+  "geometry": {"coordinates":[115.76142900000001,-32.347351],"type":"Point"}
 }

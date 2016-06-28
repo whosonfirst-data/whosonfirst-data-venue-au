@@ -2,13 +2,14 @@
   "id": 202567211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.438904,-37.675842,144.438904,-37.675842",
     "geom:latitude":-37.675842,
     "geom:longitude":144.438904,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 16 , The Bacchus Marsh Village Shopping Centr",
     "sg:city":"Main Street Bacchus Marsh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202567211,
-    "wof:lastmodified":1449062665,
+    "wof:lastmodified":1466187024,
     "wof:name":"Star Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [144.438904,-37.675842,144.438904,-37.675842],
-  "geometry": {"coordinates":[144.438904,-37.675842],"type":"Point"}
+  "bbox": [
+    144.438904,
+    -37.675842,
+    144.438904,
+    -37.675842
+],
+  "geometry": {"coordinates":[144.43890400000001,-37.675842],"type":"Point"}
 }

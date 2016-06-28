@@ -2,13 +2,14 @@
   "id": 253032821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.769943,-37.872108,144.769943,-37.872108",
     "geom:latitude":-37.872108,
     "geom:longitude":144.769943,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Toll Drv",
     "sg:city":"Altona Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253032821,
-    "wof:lastmodified":1449064267,
+    "wof:lastmodified":1466187573,
     "wof:name":"Toll IPEC",
     "wof:parent_id":85770941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [144.769943,-37.872108,144.769943,-37.872108],
-  "geometry": {"coordinates":[144.769943,-37.872108],"type":"Point"}
+  "bbox": [
+    144.769943,
+    -37.872108,
+    144.769943,
+    -37.872108
+],
+  "geometry": {"coordinates":[144.76994300000001,-37.872108],"type":"Point"}
 }

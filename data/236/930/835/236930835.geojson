@@ -2,13 +2,14 @@
   "id": 236930835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.555573,-35.013283,138.555573,-35.013283",
     "geom:latitude":-35.013283,
     "geom:longitude":138.555573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Township Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236930835,
-    "wof:lastmodified":1449002547,
+    "wof:lastmodified":1466192014,
     "wof:name":"Enterprise & Blackwood Upholstery",
     "wof:parent_id":85770335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reproduction"
     ]
 },
-  "bbox": [138.555573,-35.013283,138.555573,-35.013283],
-  "geometry": {"coordinates":[138.555573,-35.013283],"type":"Point"}
+  "bbox": [
+    138.555573,
+    -35.013283,
+    138.555573,
+    -35.013283
+],
+  "geometry": {"coordinates":[138.55557300000001,-35.013283],"type":"Point"}
 }

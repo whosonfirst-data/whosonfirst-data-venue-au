@@ -2,13 +2,14 @@
   "id": 203323543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.841293,-37.584183,143.841293,-37.584183",
     "geom:latitude":-37.584183,
     "geom:longitude":143.841293,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Albert St",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203323543,
-    "wof:lastmodified":1449025097,
+    "wof:lastmodified":1466188310,
     "wof:name":"Ballarat Auto Electrical Pty Ltd",
     "wof:parent_id":85779849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [143.841293,-37.584183,143.841293,-37.584183],
-  "geometry": {"coordinates":[143.841293,-37.584183],"type":"Point"}
+  "bbox": [
+    143.841293,
+    -37.584183,
+    143.841293,
+    -37.584183
+],
+  "geometry": {"coordinates":[143.84129300000001,-37.584183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202914267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.112808,-30.29777,153.112808,-30.29777",
     "geom:latitude":-30.29777,
     "geom:longitude":153.112808,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2/ 45 Grafton St",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202914267,
-    "wof:lastmodified":1449061085,
+    "wof:lastmodified":1466190873,
     "wof:name":"AMX Money",
     "wof:parent_id":85782153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cheque"
     ]
 },
-  "bbox": [153.112808,-30.29777,153.112808,-30.29777],
+  "bbox": [
+    153.112808,
+    -30.29777,
+    153.112808,
+    -30.29777
+],
   "geometry": {"coordinates":[153.112808,-30.29777],"type":"Point"}
 }

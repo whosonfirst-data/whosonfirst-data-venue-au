@@ -2,13 +2,14 @@
   "id": 219550627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.982773,-33.91291,150.982773,-33.91291",
     "geom:latitude":-33.91291,
     "geom:longitude":150.982773,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Birdwood Rd",
     "sg:city":"Georges Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219550627,
-    "wof:lastmodified":1449072291,
+    "wof:lastmodified":1466190158,
     "wof:name":"Sydney Coarse Angling Club Inc",
     "wof:parent_id":85774753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "angling"
     ]
 },
-  "bbox": [150.982773,-33.91291,150.982773,-33.91291],
-  "geometry": {"coordinates":[150.982773,-33.91291],"type":"Point"}
+  "bbox": [
+    150.982773,
+    -33.91291,
+    150.982773,
+    -33.91291
+],
+  "geometry": {"coordinates":[150.98277300000001,-33.91291],"type":"Point"}
 }

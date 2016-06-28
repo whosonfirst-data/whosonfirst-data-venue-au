@@ -2,13 +2,14 @@
   "id": 253060113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.754044,-37.76487,144.754044,-37.76487",
     "geom:latitude":-37.76487,
     "geom:longitude":144.754044,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Waigani Ave Cnr Westwood Drv, Ravenhall 3023",
     "sg:city":"Ravenhall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253060113,
-    "wof:lastmodified":1449065516,
+    "wof:lastmodified":1466188066,
     "wof:name":"Caroline Springs Motor Wreckers",
     "wof:parent_id":85777899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [144.754044,-37.76487,144.754044,-37.76487],
-  "geometry": {"coordinates":[144.754044,-37.76487],"type":"Point"}
+  "bbox": [
+    144.754044,
+    -37.76487,
+    144.754044,
+    -37.76487
+],
+  "geometry": {"coordinates":[144.75404399999999,-37.76487],"type":"Point"}
 }

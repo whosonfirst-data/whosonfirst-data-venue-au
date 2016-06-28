@@ -2,13 +2,14 @@
   "id": 203208583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.901169,-41.06929,145.901169,-41.06929",
     "geom:latitude":-41.06929,
     "geom:longitude":145.901169,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 33",
     "sg:city":"Upper Burnie",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203208583,
-    "wof:lastmodified":1449025165,
+    "wof:lastmodified":1466187134,
     "wof:name":"Anthony Chilcott",
     "wof:parent_id":85779425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.901169,-41.06929,145.901169,-41.06929],
-  "geometry": {"coordinates":[145.901169,-41.06929],"type":"Point"}
+  "bbox": [
+    145.901169,
+    -41.06929,
+    145.901169,
+    -41.06929
+],
+  "geometry": {"coordinates":[145.90116900000001,-41.06929],"type":"Point"}
 }

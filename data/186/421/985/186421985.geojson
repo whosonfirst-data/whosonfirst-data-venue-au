@@ -2,13 +2,14 @@
   "id": 186421985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.809448,-19.266848,146.809448,-19.266848",
     "geom:latitude":-19.266848,
     "geom:longitude":146.809448,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Flinders St",
     "sg:city":"Townsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186421985,
-    "wof:lastmodified":1449052078,
+    "wof:lastmodified":1466189676,
     "wof:name":"MCD Australia",
     "wof:parent_id":85782311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "quantity"
     ]
 },
-  "bbox": [146.809448,-19.266848,146.809448,-19.266848],
+  "bbox": [
+    146.809448,
+    -19.266848,
+    146.809448,
+    -19.266848
+],
   "geometry": {"coordinates":[146.809448,-19.266848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252726189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.650101,-33.334614,115.650101,-33.334614",
     "geom:latitude":-33.334614,
     "geom:longitude":115.650101,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4- 6 Zaknic Pl",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252726189,
-    "wof:lastmodified":1449006137,
+    "wof:lastmodified":1466187188,
     "wof:name":"Staley Food & Packaging",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "material"
     ]
 },
-  "bbox": [115.650101,-33.334614,115.650101,-33.334614],
-  "geometry": {"coordinates":[115.650101,-33.334614],"type":"Point"}
+  "bbox": [
+    115.650101,
+    -33.334614,
+    115.650101,
+    -33.334614
+],
+  "geometry": {"coordinates":[115.65010100000001,-33.334614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252739083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.655228,-33.332905,115.655228,-33.332905",
     "geom:latitude":-33.332905,
     "geom:longitude":115.655228,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rodwell Pl",
     "sg:city":"Bunbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252739083,
-    "wof:lastmodified":1449005867,
+    "wof:lastmodified":1466187433,
     "wof:name":"L W Parker",
     "wof:parent_id":85782137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "painter"
     ]
 },
-  "bbox": [115.655228,-33.332905,115.655228,-33.332905],
-  "geometry": {"coordinates":[115.655228,-33.332905],"type":"Point"}
+  "bbox": [
+    115.655228,
+    -33.332905,
+    115.655228,
+    -33.332905
+],
+  "geometry": {"coordinates":[115.65522799999999,-33.332905],"type":"Point"}
 }

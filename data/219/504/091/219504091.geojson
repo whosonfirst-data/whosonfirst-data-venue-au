@@ -2,13 +2,14 @@
   "id": 219504091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.098526,-33.928799,151.098526,-33.928799",
     "geom:latitude":-33.928799,
     "geom:longitude":151.098526,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Kingsgrove Rd",
     "sg:city":"Belmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219504091,
-    "wof:lastmodified":1449071007,
+    "wof:lastmodified":1466189589,
     "wof:name":"Belmore Veterinary Hospital",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [151.098526,-33.928799,151.098526,-33.928799],
-  "geometry": {"coordinates":[151.098526,-33.928799],"type":"Point"}
+  "bbox": [
+    151.098526,
+    -33.928799,
+    151.098526,
+    -33.928799
+],
+  "geometry": {"coordinates":[151.09852599999999,-33.928799],"type":"Point"}
 }

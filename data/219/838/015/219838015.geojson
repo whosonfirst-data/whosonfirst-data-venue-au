@@ -2,13 +2,14 @@
   "id": 219838015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.816513,-31.969334,115.816513,-31.969334",
     "geom:latitude":-31.969334,
     "geom:longitude":115.816513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Hospital Ave",
     "sg:city":"Nedlands",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219838015,
-    "wof:lastmodified":1449070817,
+    "wof:lastmodified":1466191400,
     "wof:name":"Pathwest",
     "wof:parent_id":85778041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pathology"
     ]
 },
-  "bbox": [115.816513,-31.969334,115.816513,-31.969334],
+  "bbox": [
+    115.816513,
+    -31.969334,
+    115.816513,
+    -31.969334
+],
   "geometry": {"coordinates":[115.816513,-31.969334],"type":"Point"}
 }

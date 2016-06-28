@@ -2,13 +2,14 @@
   "id": 186522821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.891563,-31.9349,115.891563,-31.9349",
     "geom:latitude":-31.9349,
     "geom:longitude":115.891563,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 View St",
     "sg:city":"Maylands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186522821,
-    "wof:lastmodified":1449051655,
+    "wof:lastmodified":1466190599,
     "wof:name":"Perth City Mail",
     "wof:parent_id":85769691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [115.891563,-31.9349,115.891563,-31.9349],
+  "bbox": [
+    115.891563,
+    -31.9349,
+    115.891563,
+    -31.9349
+],
   "geometry": {"coordinates":[115.891563,-31.9349],"type":"Point"}
 }

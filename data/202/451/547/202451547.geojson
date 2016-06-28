@@ -2,13 +2,14 @@
   "id": 202451547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.956589,-37.826134,144.956589,-37.826134",
     "geom:latitude":-37.826134,
     "geom:longitude":144.956589,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Whiteman St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202451547,
-    "wof:lastmodified":1449061225,
+    "wof:lastmodified":1466188807,
     "wof:name":"Bargain Wheels",
     "wof:parent_id":85776497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "minibus"
     ]
 },
-  "bbox": [144.956589,-37.826134,144.956589,-37.826134],
-  "geometry": {"coordinates":[144.956589,-37.826134],"type":"Point"}
+  "bbox": [
+    144.956589,
+    -37.826134,
+    144.956589,
+    -37.826134
+],
+  "geometry": {"coordinates":[144.95658900000001,-37.826134],"type":"Point"}
 }

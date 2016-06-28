@@ -2,13 +2,14 @@
   "id": 252739273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.62561,-33.399422,115.62561,-33.399422",
     "geom:latitude":-33.399422,
     "geom:longitude":115.62561,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/ 135 Norton Prm",
     "sg:city":"Dalyellup",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252739273,
-    "wof:lastmodified":1449005866,
+    "wof:lastmodified":1466187437,
     "wof:name":"Dalyellup Podiatry",
     "wof:parent_id":85779607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [115.62561,-33.399422,115.62561,-33.399422],
-  "geometry": {"coordinates":[115.62561,-33.399422],"type":"Point"}
+  "bbox": [
+    115.62561,
+    -33.399422,
+    115.62561,
+    -33.399422
+],
+  "geometry": {"coordinates":[115.62560999999999,-33.399422],"type":"Point"}
 }

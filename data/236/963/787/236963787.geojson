@@ -2,13 +2,14 @@
   "id": 236963787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.445816,-37.918354,145.445816,-37.918354",
     "geom:latitude":-37.918354,
     "geom:longitude":145.445816,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 86",
     "sg:city":"Emerald",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236963787,
-    "wof:lastmodified":1449001910,
+    "wof:lastmodified":1466192167,
     "wof:name":"CNG Electrical",
     "wof:parent_id":85769507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [145.445816,-37.918354,145.445816,-37.918354],
-  "geometry": {"coordinates":[145.445816,-37.918354],"type":"Point"}
+  "bbox": [
+    145.445816,
+    -37.918354,
+    145.445816,
+    -37.918354
+],
+  "geometry": {"coordinates":[145.44581600000001,-37.918354],"type":"Point"}
 }

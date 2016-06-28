@@ -2,13 +2,14 @@
   "id": 203377961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.863647,-37.564514,143.863647,-37.564514",
     "geom:latitude":-37.564514,
     "geom:longitude":143.863647,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Peel St",
     "sg:city":"(South) Ballarat",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203377961,
-    "wof:lastmodified":1449025635,
+    "wof:lastmodified":1466189161,
     "wof:name":"The Friendly Giant Pty. Ltd.",
     "wof:parent_id":85780231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [143.863647,-37.564514,143.863647,-37.564514],
-  "geometry": {"coordinates":[143.863647,-37.564514],"type":"Point"}
+  "bbox": [
+    143.863647,
+    -37.564514,
+    143.863647,
+    -37.564514
+],
+  "geometry": {"coordinates":[143.86364699999999,-37.564514],"type":"Point"}
 }

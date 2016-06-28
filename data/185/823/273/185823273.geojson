@@ -2,13 +2,14 @@
   "id": 185823273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.843597,-25.283459,152.843597,-25.283459",
     "geom:latitude":-25.283459,
     "geom:longitude":152.843597,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Torquay Rd",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185823273,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466187009,
     "wof:name":"Linda Price Financial Services",
     "wof:parent_id":85770197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retirement"
     ]
 },
-  "bbox": [152.843597,-25.283459,152.843597,-25.283459],
-  "geometry": {"coordinates":[152.843597,-25.283459],"type":"Point"}
+  "bbox": [
+    152.843597,
+    -25.283459,
+    152.843597,
+    -25.283459
+],
+  "geometry": {"coordinates":[152.84359699999999,-25.283459],"type":"Point"}
 }

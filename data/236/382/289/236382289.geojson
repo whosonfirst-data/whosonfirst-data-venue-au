@@ -2,13 +2,14 @@
   "id": 236382289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.86396,-32.138149,115.86396,-32.138149",
     "geom:latitude":-32.138149,
     "geom:longitude":115.86396,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Brenchley Drv",
     "sg:city":"Atwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236382289,
-    "wof:lastmodified":1449002344,
+    "wof:lastmodified":1466191048,
     "wof:name":"M.B. Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditor"
     ]
 },
-  "bbox": [115.86396,-32.138149,115.86396,-32.138149],
-  "geometry": {"coordinates":[115.86396,-32.138149],"type":"Point"}
+  "bbox": [
+    115.86396,
+    -32.138149,
+    115.86396,
+    -32.138149
+],
+  "geometry": {"coordinates":[115.86396000000001,-32.138149],"type":"Point"}
 }

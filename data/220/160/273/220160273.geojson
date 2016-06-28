@@ -2,13 +2,14 @@
   "id": 220160273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.360245,-38.156242,144.360245,-38.156242",
     "geom:latitude":-38.156242,
     "geom:longitude":144.360245,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Kilgour St",
     "sg:city":"Geelong",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220160273,
-    "wof:lastmodified":1449074735,
+    "wof:lastmodified":1466188798,
     "wof:name":"Irving Constructions Pty Ltd",
     "wof:parent_id":85782179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [144.360245,-38.156242,144.360245,-38.156242],
-  "geometry": {"coordinates":[144.360245,-38.156242],"type":"Point"}
+  "bbox": [
+    144.360245,
+    -38.156242,
+    144.360245,
+    -38.156242
+],
+  "geometry": {"coordinates":[144.36024499999999,-38.156242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203000991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"139.492905,-20.727858,139.492905,-20.727858",
     "geom:latitude":-20.727858,
     "geom:longitude":139.492905,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Camooweal St",
     "sg:city":"Mt Isa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203000991,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466186961,
     "wof:name":"Business Equipment Maintenance",
     "wof:parent_id":85779807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [139.492905,-20.727858,139.492905,-20.727858],
-  "geometry": {"coordinates":[139.492905,-20.727858],"type":"Point"}
+  "bbox": [
+    139.492905,
+    -20.727858,
+    139.492905,
+    -20.727858
+],
+  "geometry": {"coordinates":[139.49290500000001,-20.727858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236888429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.060165,-35.304638,148.060165,-35.304638",
     "geom:latitude":-35.304638,
     "geom:longitude":148.060165,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Quartz St",
     "sg:city":"Adelong",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236888429,
-    "wof:lastmodified":1449003757,
+    "wof:lastmodified":1466192077,
     "wof:name":"Salmon K & M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shearer"
     ]
 },
-  "bbox": [148.060165,-35.304638,148.060165,-35.304638],
-  "geometry": {"coordinates":[148.060165,-35.304638],"type":"Point"}
+  "bbox": [
+    148.060165,
+    -35.304638,
+    148.060165,
+    -35.304638
+],
+  "geometry": {"coordinates":[148.06016500000001,-35.304638],"type":"Point"}
 }

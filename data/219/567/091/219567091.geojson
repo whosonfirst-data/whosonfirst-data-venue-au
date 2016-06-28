@@ -2,13 +2,14 @@
   "id": 219567091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.036682,-33.913574,151.036682,-33.913574",
     "geom:latitude":-33.913574,
     "geom:longitude":151.036682,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 4 French Ave",
     "sg:city":"Bankstown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219567091,
-    "wof:lastmodified":1449073945,
+    "wof:lastmodified":1466190437,
     "wof:name":"Australian First Mortgage",
     "wof:parent_id":85771157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [151.036682,-33.913574,151.036682,-33.913574],
-  "geometry": {"coordinates":[151.036682,-33.913574],"type":"Point"}
+  "bbox": [
+    151.036682,
+    -33.913574,
+    151.036682,
+    -33.913574
+],
+  "geometry": {"coordinates":[151.03668200000001,-33.913574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202515073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.155441,-38.071602,145.155441,-38.071602",
     "geom:latitude":-38.071602,
     "geom:longitude":145.155441,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Learmonth Rd",
     "sg:city":"Carrum Downs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202515073,
-    "wof:lastmodified":1449060693,
+    "wof:lastmodified":1466190016,
     "wof:name":"Australian Seed & Turf Pty Limited",
     "wof:parent_id":85778121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [145.155441,-38.071602,145.155441,-38.071602],
+  "bbox": [
+    145.155441,
+    -38.071602,
+    145.155441,
+    -38.071602
+],
   "geometry": {"coordinates":[145.155441,-38.071602],"type":"Point"}
 }

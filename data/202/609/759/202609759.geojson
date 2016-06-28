@@ -2,13 +2,14 @@
   "id": 202609759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.677734,-33.774151,150.677734,-33.774151",
     "geom:latitude":-33.774151,
     "geom:longitude":150.677734,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Clyburn Ave",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202609759,
-    "wof:lastmodified":1449061058,
+    "wof:lastmodified":1466187434,
     "wof:name":"M&M Waste Bins",
     "wof:parent_id":85777037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rubbish"
     ]
 },
-  "bbox": [150.677734,-33.774151,150.677734,-33.774151],
-  "geometry": {"coordinates":[150.677734,-33.774151],"type":"Point"}
+  "bbox": [
+    150.677734,
+    -33.774151,
+    150.677734,
+    -33.774151
+],
+  "geometry": {"coordinates":[150.67773399999999,-33.774151],"type":"Point"}
 }

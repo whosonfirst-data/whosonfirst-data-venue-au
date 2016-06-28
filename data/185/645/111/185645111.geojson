@@ -2,13 +2,14 @@
   "id": 185645111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.901932,-32.061203,115.901932,-32.061203",
     "geom:latitude":-32.061203,
     "geom:longitude":115.901932,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, 65 Catalano Cct",
     "sg:city":"Canning Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185645111,
-    "wof:lastmodified":1449006779,
+    "wof:lastmodified":1466188179,
     "wof:name":"Born Organic",
     "wof:parent_id":85775815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organic"
     ]
 },
-  "bbox": [115.901932,-32.061203,115.901932,-32.061203],
+  "bbox": [
+    115.901932,
+    -32.061203,
+    115.901932,
+    -32.061203
+],
   "geometry": {"coordinates":[115.901932,-32.061203],"type":"Point"}
 }

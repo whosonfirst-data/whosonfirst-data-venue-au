@@ -2,13 +2,14 @@
   "id": 252852043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.533112,-32.363663,149.533112,-32.363663",
     "geom:latitude":-32.363663,
     "geom:longitude":149.533112,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Herbert St",
     "sg:city":"Gulgong",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252852043,
-    "wof:lastmodified":1449006335,
+    "wof:lastmodified":1466188567,
     "wof:name":"Dan McArdle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "removal"
     ]
 },
-  "bbox": [149.533112,-32.363663,149.533112,-32.363663],
-  "geometry": {"coordinates":[149.533112,-32.363663],"type":"Point"}
+  "bbox": [
+    149.533112,
+    -32.363663,
+    149.533112,
+    -32.363663
+],
+  "geometry": {"coordinates":[149.53311199999999,-32.363663],"type":"Point"}
 }

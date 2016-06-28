@@ -2,13 +2,14 @@
   "id": 202668135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.024994,-27.392633,153.024994,-27.392633",
     "geom:latitude":-27.392633,
     "geom:longitude":153.024994,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"536a Rode Rd",
     "sg:city":"Chermside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202668135,
-    "wof:lastmodified":1449061864,
+    "wof:lastmodified":1466188231,
     "wof:name":"Pack & Send",
     "wof:parent_id":85773925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [153.024994,-27.392633,153.024994,-27.392633],
-  "geometry": {"coordinates":[153.024994,-27.392633],"type":"Point"}
+  "bbox": [
+    153.024994,
+    -27.392633,
+    153.024994,
+    -27.392633
+],
+  "geometry": {"coordinates":[153.02499399999999,-27.392633],"type":"Point"}
 }

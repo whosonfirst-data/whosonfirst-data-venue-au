@@ -2,13 +2,14 @@
   "id": 186097431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.842651,-31.077955,152.842651,-31.077955",
     "geom:latitude":-31.077955,
     "geom:longitude":152.842651,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2, 119a Smith St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186097431,
-    "wof:lastmodified":1449051421,
+    "wof:lastmodified":1466189216,
     "wof:name":"Macleay River Houseboats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boat"
     ]
 },
-  "bbox": [152.842651,-31.077955,152.842651,-31.077955],
-  "geometry": {"coordinates":[152.842651,-31.077955],"type":"Point"}
+  "bbox": [
+    152.842651,
+    -31.077955,
+    152.842651,
+    -31.077955
+],
+  "geometry": {"coordinates":[152.84265099999999,-31.077955],"type":"Point"}
 }

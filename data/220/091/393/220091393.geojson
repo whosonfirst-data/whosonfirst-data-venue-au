@@ -2,13 +2,14 @@
   "id": 220091393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.661758,-38.264935,144.661758,-38.264935",
     "geom:latitude":-38.264935,
     "geom:longitude":144.661758,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Symonds St",
     "sg:city":"Queenscliff",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220091393,
-    "wof:lastmodified":1449074108,
+    "wof:lastmodified":1466187865,
     "wof:name":"Senior Citizens Club",
     "wof:parent_id":85779199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [144.661758,-38.264935,144.661758,-38.264935],
-  "geometry": {"coordinates":[144.661758,-38.264935],"type":"Point"}
+  "bbox": [
+    144.661758,
+    -38.264935,
+    144.661758,
+    -38.264935
+],
+  "geometry": {"coordinates":[144.66175799999999,-38.264935],"type":"Point"}
 }

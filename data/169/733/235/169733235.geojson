@@ -2,13 +2,14 @@
   "id": 169733235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"130.989243,-12.475314,130.989243,-12.475314",
     "geom:latitude":-12.475314,
     "geom:longitude":130.989243,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Adams Rd",
     "sg:city":"Palmerston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169733235,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1466187427,
     "wof:name":"Politis Roofing",
     "wof:parent_id":85782271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "commercial"
     ]
 },
-  "bbox": [130.989243,-12.475314,130.989243,-12.475314],
-  "geometry": {"coordinates":[130.989243,-12.475314],"type":"Point"}
+  "bbox": [
+    130.989243,
+    -12.475314,
+    130.989243,
+    -12.475314
+],
+  "geometry": {"coordinates":[130.98924299999999,-12.475314],"type":"Point"}
 }

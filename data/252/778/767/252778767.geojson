@@ -2,13 +2,14 @@
   "id": 252778767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.522766,-41.168552,146.522766,-41.168552",
     "geom:latitude":-41.168552,
     "geom:longitude":146.522766,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Browns Rd",
     "sg:city":"Port Sorell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252778767,
-    "wof:lastmodified":1449005422,
+    "wof:lastmodified":1466187956,
     "wof:name":"Sims Plumbing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [146.522766,-41.168552,146.522766,-41.168552],
-  "geometry": {"coordinates":[146.522766,-41.168552],"type":"Point"}
+  "bbox": [
+    146.522766,
+    -41.168552,
+    146.522766,
+    -41.168552
+],
+  "geometry": {"coordinates":[146.52276599999999,-41.168552],"type":"Point"}
 }

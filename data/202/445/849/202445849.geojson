@@ -2,13 +2,14 @@
   "id": 202445849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.966049,-37.836578,144.966049,-37.836578",
     "geom:latitude":-37.836578,
     "geom:longitude":144.966049,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor/ 17 Raglan St",
     "sg:city":"South Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202445849,
-    "wof:lastmodified":1449060442,
+    "wof:lastmodified":1466188709,
     "wof:name":"SIRVA Relocation",
     "wof:parent_id":85771419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "migration"
     ]
 },
-  "bbox": [144.966049,-37.836578,144.966049,-37.836578],
+  "bbox": [
+    144.966049,
+    -37.836578,
+    144.966049,
+    -37.836578
+],
   "geometry": {"coordinates":[144.966049,-37.836578],"type":"Point"}
 }

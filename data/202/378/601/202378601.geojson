@@ -2,13 +2,14 @@
   "id": 202378601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.738052,-34.593128,138.738052,-34.593128",
     "geom:latitude":-34.593128,
     "geom:longitude":138.738052,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot 5 Little Paxton St",
     "sg:city":"Willaston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202378601,
-    "wof:lastmodified":1449061803,
+    "wof:lastmodified":1466187047,
     "wof:name":"Employment Directions",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [138.738052,-34.593128,138.738052,-34.593128],
-  "geometry": {"coordinates":[138.738052,-34.593128],"type":"Point"}
+  "bbox": [
+    138.738052,
+    -34.593128,
+    138.738052,
+    -34.593128
+],
+  "geometry": {"coordinates":[138.73805200000001,-34.593128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219243683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.008087,-37.783283,145.008087,-37.783283",
     "geom:latitude":-37.783283,
     "geom:longitude":145.008087,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Albert St",
     "sg:city":"Northcote",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219243683,
-    "wof:lastmodified":1449071539,
+    "wof:lastmodified":1466186939,
     "wof:name":"Bbj Clothing",
     "wof:parent_id":85776567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [145.008087,-37.783283,145.008087,-37.783283],
-  "geometry": {"coordinates":[145.008087,-37.783283],"type":"Point"}
+  "bbox": [
+    145.008087,
+    -37.783283,
+    145.008087,
+    -37.783283
+],
+  "geometry": {"coordinates":[145.00808699999999,-37.783283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235965487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.091492,-27.414352,153.091492,-27.414352",
     "geom:latitude":-27.414352,
     "geom:longitude":153.091492,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"60- 62 Qantas Drv",
     "sg:city":"Brisbane Airport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235965487,
-    "wof:lastmodified":1449008480,
+    "wof:lastmodified":1466187294,
     "wof:name":"Sandvik Mining and Construction Australia Pty ltd",
     "wof:parent_id":85773779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [153.091492,-27.414352,153.091492,-27.414352],
-  "geometry": {"coordinates":[153.091492,-27.414352],"type":"Point"}
+  "bbox": [
+    153.091492,
+    -27.414352,
+    153.091492,
+    -27.414352
+],
+  "geometry": {"coordinates":[153.09149199999999,-27.414352],"type":"Point"}
 }

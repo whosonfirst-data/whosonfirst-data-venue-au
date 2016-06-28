@@ -2,13 +2,14 @@
   "id": 202733245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.642838,-34.783443,138.642838,-34.783443",
     "geom:latitude":-34.783443,
     "geom:longitude":138.642838,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 23 Pentland Rd",
     "sg:city":"Salisbury South",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202733245,
-    "wof:lastmodified":1449060459,
+    "wof:lastmodified":1466189462,
     "wof:name":"Adelaide Mobile & Eat Me Lunch Service",
     "wof:parent_id":85777615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "catering"
     ]
 },
-  "bbox": [138.642838,-34.783443,138.642838,-34.783443],
-  "geometry": {"coordinates":[138.642838,-34.783443],"type":"Point"}
+  "bbox": [
+    138.642838,
+    -34.783443,
+    138.642838,
+    -34.783443
+],
+  "geometry": {"coordinates":[138.64283800000001,-34.783443],"type":"Point"}
 }

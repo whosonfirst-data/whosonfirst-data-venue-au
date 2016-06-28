@@ -2,13 +2,14 @@
   "id": 185870555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.812485,-25.284115,152.812485,-25.284115",
     "geom:latitude":-25.284115,
     "geom:longitude":152.812485,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Wattlebird La",
     "sg:city":"Hervey Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185870555,
-    "wof:lastmodified":1449007031,
+    "wof:lastmodified":1466187573,
     "wof:name":"Baker Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [152.812485,-25.284115,152.812485,-25.284115],
-  "geometry": {"coordinates":[152.812485,-25.284115],"type":"Point"}
+  "bbox": [
+    152.812485,
+    -25.284115,
+    152.812485,
+    -25.284115
+],
+  "geometry": {"coordinates":[152.81248500000001,-25.284115],"type":"Point"}
 }

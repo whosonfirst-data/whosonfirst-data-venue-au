@@ -2,13 +2,14 @@
   "id": 186259371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.882568,-31.453156,152.882568,-31.453156",
     "geom:latitude":-31.453156,
     "geom:longitude":152.882568,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Merrigal Rd",
     "sg:city":"Port Macquarie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186259371,
-    "wof:lastmodified":1449051015,
+    "wof:lastmodified":1466187478,
     "wof:name":"Moving To Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitness"
     ]
 },
-  "bbox": [152.882568,-31.453156,152.882568,-31.453156],
-  "geometry": {"coordinates":[152.882568,-31.453156],"type":"Point"}
+  "bbox": [
+    152.882568,
+    -31.453156,
+    152.882568,
+    -31.453156
+],
+  "geometry": {"coordinates":[152.88256799999999,-31.453156],"type":"Point"}
 }

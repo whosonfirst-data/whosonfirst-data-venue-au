@@ -2,13 +2,14 @@
   "id": 236024753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.275009,-43.030323,147.275009,-43.030323",
     "geom:latitude":-43.030323,
     "geom:longitude":147.275009,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Beach Rd",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236024753,
-    "wof:lastmodified":1449003190,
+    "wof:lastmodified":1466187206,
     "wof:name":"Western Quality Oils (Tas)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lubricant"
     ]
 },
-  "bbox": [147.275009,-43.030323,147.275009,-43.030323],
-  "geometry": {"coordinates":[147.275009,-43.030323],"type":"Point"}
+  "bbox": [
+    147.275009,
+    -43.030323,
+    147.275009,
+    -43.030323
+],
+  "geometry": {"coordinates":[147.27500900000001,-43.030323],"type":"Point"}
 }

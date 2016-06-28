@@ -2,13 +2,14 @@
   "id": 219888359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.89743,-34.373341,150.89743,-34.373341",
     "geom:latitude":-34.373341,
     "geom:longitude":150.89743,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Railway St",
     "sg:city":"Corrimal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219888359,
-    "wof:lastmodified":1449072594,
+    "wof:lastmodified":1466191630,
     "wof:name":"Electrolysis & Skin Care Clinic",
     "wof:parent_id":85777197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.89743,-34.373341,150.89743,-34.373341],
-  "geometry": {"coordinates":[150.89743,-34.373341],"type":"Point"}
+  "bbox": [
+    150.89743,
+    -34.373341,
+    150.89743,
+    -34.373341
+],
+  "geometry": {"coordinates":[150.89743000000001,-34.373341],"type":"Point"}
 }

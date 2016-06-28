@@ -2,13 +2,14 @@
   "id": 236132525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.85527,-37.734737,144.85527,-37.734737",
     "geom:latitude":-37.734737,
     "geom:longitude":144.85527,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Slater Pde",
     "sg:city":"Keilor East",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236132525,
-    "wof:lastmodified":1449003226,
+    "wof:lastmodified":1466189299,
     "wof:name":"Stone Design Marble & Granite",
     "wof:parent_id":85776013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mason"
     ]
 },
-  "bbox": [144.85527,-37.734737,144.85527,-37.734737],
-  "geometry": {"coordinates":[144.85527,-37.734737],"type":"Point"}
+  "bbox": [
+    144.85527,
+    -37.734737,
+    144.85527,
+    -37.734737
+],
+  "geometry": {"coordinates":[144.85526999999999,-37.734737],"type":"Point"}
 }

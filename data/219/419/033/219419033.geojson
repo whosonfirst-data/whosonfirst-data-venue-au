@@ -2,13 +2,14 @@
   "id": 219419033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.848846,-33.745495,150.848846,-33.745495",
     "geom:latitude":-33.745495,
     "geom:longitude":150.848846,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Enterprise Drv",
     "sg:city":"Glendenning",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219419033,
-    "wof:lastmodified":1449073846,
+    "wof:lastmodified":1466188567,
     "wof:name":"Access- Guard Sydney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [150.848846,-33.745495,150.848846,-33.745495],
-  "geometry": {"coordinates":[150.848846,-33.745495],"type":"Point"}
+  "bbox": [
+    150.848846,
+    -33.745495,
+    150.848846,
+    -33.745495
+],
+  "geometry": {"coordinates":[150.84884600000001,-33.745495],"type":"Point"}
 }

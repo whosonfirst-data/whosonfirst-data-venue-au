@@ -2,13 +2,14 @@
   "id": 186609217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.060425,-34.293919,146.060425,-34.293919",
     "geom:latitude":-34.293919,
     "geom:longitude":146.060425,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lenehan Rd",
     "sg:city":"Griffith",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186609217,
-    "wof:lastmodified":1449051382,
+    "wof:lastmodified":1466191046,
     "wof:name":"Mixquip Fluid Mixing Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [146.060425,-34.293919,146.060425,-34.293919],
-  "geometry": {"coordinates":[146.060425,-34.293919],"type":"Point"}
+  "bbox": [
+    146.060425,
+    -34.293919,
+    146.060425,
+    -34.293919
+],
+  "geometry": {"coordinates":[146.06042500000001,-34.293919],"type":"Point"}
 }

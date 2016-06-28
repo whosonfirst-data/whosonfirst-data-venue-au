@@ -2,13 +2,14 @@
   "id": 203116485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.735161,-32.525185,115.735161,-32.525185",
     "geom:latitude":-32.525185,
     "geom:longitude":115.735161,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Stinton St",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203116485,
-    "wof:lastmodified":1449025212,
+    "wof:lastmodified":1466189305,
     "wof:name":"Peel Water Boring",
     "wof:parent_id":85782237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [115.735161,-32.525185,115.735161,-32.525185],
-  "geometry": {"coordinates":[115.735161,-32.525185],"type":"Point"}
+  "bbox": [
+    115.735161,
+    -32.525185,
+    115.735161,
+    -32.525185
+],
+  "geometry": {"coordinates":[115.73516100000001,-32.525185],"type":"Point"}
 }

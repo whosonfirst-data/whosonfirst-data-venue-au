@@ -2,13 +2,14 @@
   "id": 219399731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.996277,-27.98435,152.996277,-27.98435",
     "geom:latitude":-27.98435,
     "geom:longitude":152.996277,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Brisbane Rd & Selwyn St",
     "sg:city":"Beaudesert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219399731,
-    "wof:lastmodified":1449071017,
+    "wof:lastmodified":1466188367,
     "wof:name":"Australian Red Cross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [152.996277,-27.98435,152.996277,-27.98435],
-  "geometry": {"coordinates":[152.996277,-27.98435],"type":"Point"}
+  "bbox": [
+    152.996277,
+    -27.98435,
+    152.996277,
+    -27.98435
+],
+  "geometry": {"coordinates":[152.99627699999999,-27.98435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203230421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.830933,-41.039982,145.830933,-41.039982",
     "geom:latitude":-41.039982,
     "geom:longitude":145.830933,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Wragg St",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203230421,
-    "wof:lastmodified":1449026370,
+    "wof:lastmodified":1466187426,
     "wof:name":"Village Milk Bar & Takeaway",
     "wof:parent_id":85779443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [145.830933,-41.039982,145.830933,-41.039982],
-  "geometry": {"coordinates":[145.830933,-41.039982],"type":"Point"}
+  "bbox": [
+    145.830933,
+    -41.039982,
+    145.830933,
+    -41.039982
+],
+  "geometry": {"coordinates":[145.83093299999999,-41.039982],"type":"Point"}
 }

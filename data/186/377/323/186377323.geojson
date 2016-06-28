@@ -2,13 +2,14 @@
   "id": 186377323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.146317,-33.854233,151.146317,-33.854233",
     "geom:latitude":-33.854233,
     "geom:longitude":151.146317,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Gipps St",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186377323,
-    "wof:lastmodified":1449051386,
+    "wof:lastmodified":1466188954,
     "wof:name":"GTO Plumbing",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasfitters"
     ]
 },
-  "bbox": [151.146317,-33.854233,151.146317,-33.854233],
-  "geometry": {"coordinates":[151.146317,-33.854233],"type":"Point"}
+  "bbox": [
+    151.146317,
+    -33.854233,
+    151.146317,
+    -33.854233
+],
+  "geometry": {"coordinates":[151.14631700000001,-33.854233],"type":"Point"}
 }

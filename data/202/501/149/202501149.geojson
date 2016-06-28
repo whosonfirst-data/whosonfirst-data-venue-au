@@ -2,13 +2,14 @@
   "id": 202501149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.051773,-37.905605,145.051773,-37.905605",
     "geom:latitude":-37.905605,
     "geom:longitude":145.051773,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"734 North Rd",
     "sg:city":"Ormond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202501149,
-    "wof:lastmodified":1449062668,
+    "wof:lastmodified":1466189531,
     "wof:name":"Theodoras",
     "wof:parent_id":85779035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"
     ]
 },
-  "bbox": [145.051773,-37.905605,145.051773,-37.905605],
+  "bbox": [
+    145.051773,
+    -37.905605,
+    145.051773,
+    -37.905605
+],
   "geometry": {"coordinates":[145.051773,-37.905605],"type":"Point"}
 }

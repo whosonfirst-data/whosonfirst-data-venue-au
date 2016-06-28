@@ -2,13 +2,14 @@
   "id": 236350235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.776901,-32.085308,115.776901,-32.085308",
     "geom:latitude":-32.085308,
     "geom:longitude":115.776901,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Carrington St",
     "sg:city":"Hamilton Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236350235,
-    "wof:lastmodified":1449003311,
+    "wof:lastmodified":1466190739,
     "wof:name":"Carrington Lodge",
     "wof:parent_id":85775721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [115.776901,-32.085308,115.776901,-32.085308],
+  "bbox": [
+    115.776901,
+    -32.085308,
+    115.776901,
+    -32.085308
+],
   "geometry": {"coordinates":[115.776901,-32.085308],"type":"Point"}
 }

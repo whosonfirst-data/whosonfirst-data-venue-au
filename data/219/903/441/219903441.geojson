@@ -2,13 +2,14 @@
   "id": 219903441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.892975,-34.386307,150.892975,-34.386307",
     "geom:latitude":-34.386307,
     "geom:longitude":150.892975,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Charles St",
     "sg:city":"Fairy Meadow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219903441,
-    "wof:lastmodified":1449070593,
+    "wof:lastmodified":1466191713,
     "wof:name":"Hyperflow",
     "wof:parent_id":85770493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [150.892975,-34.386307,150.892975,-34.386307],
-  "geometry": {"coordinates":[150.892975,-34.386307],"type":"Point"}
+  "bbox": [
+    150.892975,
+    -34.386307,
+    150.892975,
+    -34.386307
+],
+  "geometry": {"coordinates":[150.89297500000001,-34.386307],"type":"Point"}
 }

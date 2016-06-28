@@ -2,13 +2,14 @@
   "id": 203102263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.741127,-32.507465,115.741127,-32.507465",
     "geom:latitude":-32.507465,
     "geom:longitude":115.741127,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 112 228 Mandurah Forum Shopping Cntr",
     "sg:city":"Mandurah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203102263,
-    "wof:lastmodified":1449026733,
+    "wof:lastmodified":1466189071,
     "wof:name":"RAC Insurance Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "marine"
     ]
 },
-  "bbox": [115.741127,-32.507465,115.741127,-32.507465],
-  "geometry": {"coordinates":[115.741127,-32.507465],"type":"Point"}
+  "bbox": [
+    115.741127,
+    -32.507465,
+    115.741127,
+    -32.507465
+],
+  "geometry": {"coordinates":[115.74112700000001,-32.507465],"type":"Point"}
 }

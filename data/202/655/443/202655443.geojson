@@ -2,13 +2,14 @@
   "id": 202655443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.035263,-27.434866,153.035263,-27.434866",
     "geom:latitude":-27.434866,
     "geom:longitude":153.035263,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Somerset St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202655443,
-    "wof:lastmodified":1449061561,
+    "wof:lastmodified":1466187986,
     "wof:name":"Dundalli Youth Services",
     "wof:parent_id":85777239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [153.035263,-27.434866,153.035263,-27.434866],
-  "geometry": {"coordinates":[153.035263,-27.434866],"type":"Point"}
+  "bbox": [
+    153.035263,
+    -27.434866,
+    153.035263,
+    -27.434866
+],
+  "geometry": {"coordinates":[153.03526299999999,-27.434866],"type":"Point"}
 }

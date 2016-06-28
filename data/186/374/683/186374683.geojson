@@ -2,13 +2,14 @@
   "id": 186374683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.154587,-33.852192,151.154587,-33.852192",
     "geom:latitude":-33.852192,
     "geom:longitude":151.154587,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Formosa St",
     "sg:city":"Drummoyne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186374683,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1466188905,
     "wof:name":"Fleri Mari",
     "wof:parent_id":85774377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.154587,-33.852192,151.154587,-33.852192],
-  "geometry": {"coordinates":[151.154587,-33.852192],"type":"Point"}
+  "bbox": [
+    151.154587,
+    -33.852192,
+    151.154587,
+    -33.852192
+],
+  "geometry": {"coordinates":[151.15458699999999,-33.852192],"type":"Point"}
 }

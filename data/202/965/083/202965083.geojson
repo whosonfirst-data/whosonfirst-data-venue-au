@@ -2,13 +2,14 @@
   "id": 202965083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.090485,-30.341625,153.090485,-30.341625",
     "geom:latitude":-30.341625,
     "geom:longitude":153.090485,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"3/ 48 Hi-Tech Drv",
     "sg:city":"Toormina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202965083,
-    "wof:lastmodified":1449061867,
+    "wof:lastmodified":1466191057,
     "wof:name":"Concrete FX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "additive"
     ]
 },
-  "bbox": [153.090485,-30.341625,153.090485,-30.341625],
+  "bbox": [
+    153.090485,
+    -30.341625,
+    153.090485,
+    -30.341625
+],
   "geometry": {"coordinates":[153.090485,-30.341625],"type":"Point"}
 }

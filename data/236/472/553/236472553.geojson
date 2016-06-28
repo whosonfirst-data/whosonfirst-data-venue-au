@@ -2,13 +2,14 @@
   "id": 236472553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"149.2117,-21.109825,149.2117,-21.109825",
     "geom:latitude":-21.109825,
     "geom:longitude":149.2117,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Presto Ave",
     "sg:city":"Mackay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236472553,
-    "wof:lastmodified":1449001868,
+    "wof:lastmodified":1466191395,
     "wof:name":"REB Engineering Pty Ltd",
     "wof:parent_id":85779777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [149.2117,-21.109825,149.2117,-21.109825],
-  "geometry": {"coordinates":[149.2117,-21.109825],"type":"Point"}
+  "bbox": [
+    149.2117,
+    -21.109825,
+    149.2117,
+    -21.109825
+],
+  "geometry": {"coordinates":[149.21170000000001,-21.109825],"type":"Point"}
 }

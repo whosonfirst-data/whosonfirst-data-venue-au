@@ -2,13 +2,14 @@
   "id": 220035759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.903107,-33.093315,115.903107,-33.093315",
     "geom:latitude":-33.093315,
     "geom:longitude":115.903107,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Turnbull St",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220035759,
-    "wof:lastmodified":1449074693,
+    "wof:lastmodified":1466187383,
     "wof:name":"Willmott Constructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [115.903107,-33.093315,115.903107,-33.093315],
-  "geometry": {"coordinates":[115.903107,-33.093315],"type":"Point"}
+  "bbox": [
+    115.903107,
+    -33.093315,
+    115.903107,
+    -33.093315
+],
+  "geometry": {"coordinates":[115.90310700000001,-33.093315],"type":"Point"}
 }

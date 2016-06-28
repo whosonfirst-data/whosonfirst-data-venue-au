@@ -2,13 +2,14 @@
   "id": 219166951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.063599,-27.422609,153.063599,-27.422609",
     "geom:latitude":-27.422609,
     "geom:longitude":153.063599,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 5 5 Zillman Rd",
     "sg:city":"Hendra",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219166951,
-    "wof:lastmodified":1449072342,
+    "wof:lastmodified":1466189745,
     "wof:name":"Flight Attendants Association of Australia",
     "wof:parent_id":85774101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [153.063599,-27.422609,153.063599,-27.422609],
-  "geometry": {"coordinates":[153.063599,-27.422609],"type":"Point"}
+  "bbox": [
+    153.063599,
+    -27.422609,
+    153.063599,
+    -27.422609
+],
+  "geometry": {"coordinates":[153.06359900000001,-27.422609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236867995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"148.230545,-35.309692,148.230545,-35.309692",
     "geom:latitude":-35.309692,
     "geom:longitude":148.230545,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Fitzroy St",
     "sg:city":"Tumut",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236867995,
-    "wof:lastmodified":1449003016,
+    "wof:lastmodified":1466192065,
     "wof:name":"Selwyn Snow & Water Tumut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "centres"
     ]
 },
-  "bbox": [148.230545,-35.309692,148.230545,-35.309692],
-  "geometry": {"coordinates":[148.230545,-35.309692],"type":"Point"}
+  "bbox": [
+    148.230545,
+    -35.309692,
+    148.230545,
+    -35.309692
+],
+  "geometry": {"coordinates":[148.23054500000001,-35.309692],"type":"Point"}
 }

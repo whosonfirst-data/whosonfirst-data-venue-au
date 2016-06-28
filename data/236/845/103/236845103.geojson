@@ -2,13 +2,14 @@
   "id": 236845103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.880753,-34.41692,150.880753,-34.41692",
     "geom:latitude":-34.41692,
     "geom:longitude":150.880753,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Berkeley Rd",
     "sg:city":"Gwynneville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236845103,
-    "wof:lastmodified":1449002081,
+    "wof:lastmodified":1466192028,
     "wof:name":"S.A.L. Productions",
     "wof:parent_id":85769429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "exhibition"
     ]
 },
-  "bbox": [150.880753,-34.41692,150.880753,-34.41692],
+  "bbox": [
+    150.880753,
+    -34.41692,
+    150.880753,
+    -34.41692
+],
   "geometry": {"coordinates":[150.880753,-34.41692],"type":"Point"}
 }

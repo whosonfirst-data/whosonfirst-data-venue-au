@@ -2,13 +2,14 @@
   "id": 219802565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.109558,-19.39287,147.109558,-19.39287",
     "geom:latitude":-19.39287,
     "geom:longitude":147.109558,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Snapper Crt",
     "sg:city":"Cungulla",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219802565,
-    "wof:lastmodified":1449073265,
+    "wof:lastmodified":1466191388,
     "wof:name":"Cungulla & Cape Cleveland Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.109558,-19.39287,147.109558,-19.39287],
-  "geometry": {"coordinates":[147.109558,-19.39287],"type":"Point"}
+  "bbox": [
+    147.109558,
+    -19.39287,
+    147.109558,
+    -19.39287
+],
+  "geometry": {"coordinates":[147.10955799999999,-19.39287],"type":"Point"}
 }

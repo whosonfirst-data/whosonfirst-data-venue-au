@@ -2,13 +2,14 @@
   "id": 220082791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.131683,-40.843494,145.131683,-40.843494",
     "geom:latitude":-40.843494,
     "geom:longitude":145.131683,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Sampson Ave",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220082791,
-    "wof:lastmodified":1449074084,
+    "wof:lastmodified":1466187776,
     "wof:name":"Rodney Franks Drafting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [145.131683,-40.843494,145.131683,-40.843494],
-  "geometry": {"coordinates":[145.131683,-40.843494],"type":"Point"}
+  "bbox": [
+    145.131683,
+    -40.843494,
+    145.131683,
+    -40.843494
+],
+  "geometry": {"coordinates":[145.13168300000001,-40.843494],"type":"Point"}
 }

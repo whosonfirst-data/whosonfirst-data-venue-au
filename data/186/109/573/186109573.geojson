@@ -2,13 +2,14 @@
   "id": 186109573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"152.841232,-31.080709,152.841232,-31.080709",
     "geom:latitude":-31.080709,
     "geom:longitude":152.841232,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Belgrave St",
     "sg:city":"Kempsey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186109573,
-    "wof:lastmodified":1449051328,
+    "wof:lastmodified":1466189456,
     "wof:name":"Connies Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [152.841232,-31.080709,152.841232,-31.080709],
-  "geometry": {"coordinates":[152.841232,-31.080709],"type":"Point"}
+  "bbox": [
+    152.841232,
+    -31.080709,
+    152.841232,
+    -31.080709
+],
+  "geometry": {"coordinates":[152.84123199999999,-31.080709],"type":"Point"}
 }

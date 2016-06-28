@@ -2,13 +2,14 @@
   "id": 203046179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.962845,-24.993818,151.962845,-24.993818",
     "geom:latitude":-24.993818,
     "geom:longitude":151.962845,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Mulgrave St",
     "sg:city":"Gin Gin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203046179,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466188168,
     "wof:name":"Currajong Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [151.962845,-24.993818,151.962845,-24.993818],
-  "geometry": {"coordinates":[151.962845,-24.993818],"type":"Point"}
+  "bbox": [
+    151.962845,
+    -24.993818,
+    151.962845,
+    -24.993818
+],
+  "geometry": {"coordinates":[151.96284499999999,-24.993818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202913185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.130783,-30.299883,153.130783,-30.299883",
     "geom:latitude":-30.299883,
     "geom:longitude":153.130783,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Brodie Drv",
     "sg:city":"Coffs Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202913185,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466190622,
     "wof:name":"Coffs Harbour Preschool",
     "wof:parent_id":85781899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pre-schools"
     ]
 },
-  "bbox": [153.130783,-30.299883,153.130783,-30.299883],
-  "geometry": {"coordinates":[153.130783,-30.299883],"type":"Point"}
+  "bbox": [
+    153.130783,
+    -30.299883,
+    153.130783,
+    -30.299883
+],
+  "geometry": {"coordinates":[153.13078300000001,-30.299883],"type":"Point"}
 }

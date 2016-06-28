@@ -2,13 +2,14 @@
   "id": 236516559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.135513,-32.549538,151.135513,-32.549538",
     "geom:latitude":-32.549538,
     "geom:longitude":151.135513,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 129 Maison Dieu Rd",
     "sg:city":"Singleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236516559,
-    "wof:lastmodified":1449002151,
+    "wof:lastmodified":1466191420,
     "wof:name":"Singleton Motor Trimmers Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "motor"
     ]
 },
-  "bbox": [151.135513,-32.549538,151.135513,-32.549538],
+  "bbox": [
+    151.135513,
+    -32.549538,
+    151.135513,
+    -32.549538
+],
   "geometry": {"coordinates":[151.135513,-32.549538],"type":"Point"}
 }

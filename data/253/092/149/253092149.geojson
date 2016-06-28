@@ -2,13 +2,14 @@
   "id": 253092149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.772842,-37.741291,144.772842,-37.741291",
     "geom:latitude":-37.741291,
     "geom:longitude":144.772842,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"332a Main Rd",
     "sg:city":"St Albans East",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253092149,
-    "wof:lastmodified":1449065208,
+    "wof:lastmodified":1466188573,
     "wof:name":"Vic Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [144.772842,-37.741291,144.772842,-37.741291],
+  "bbox": [
+    144.772842,
+    -37.741291,
+    144.772842,
+    -37.741291
+],
   "geometry": {"coordinates":[144.772842,-37.741291],"type":"Point"}
 }

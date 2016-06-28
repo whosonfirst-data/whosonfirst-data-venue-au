@@ -2,13 +2,14 @@
   "id": 253321351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.312103,-38.015018,145.312103,-38.015018",
     "geom:latitude":-38.015018,
     "geom:longitude":145.312103,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurrajong Rd",
     "sg:city":"Narre Warren",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253321351,
-    "wof:lastmodified":1449062891,
+    "wof:lastmodified":1466190805,
     "wof:name":"Oatlands Primary School",
     "wof:parent_id":85769853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nsw"
     ]
 },
-  "bbox": [145.312103,-38.015018,145.312103,-38.015018],
-  "geometry": {"coordinates":[145.312103,-38.015018],"type":"Point"}
+  "bbox": [
+    145.312103,
+    -38.015018,
+    145.312103,
+    -38.015018
+],
+  "geometry": {"coordinates":[145.31210300000001,-38.015018],"type":"Point"}
 }

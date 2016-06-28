@@ -2,13 +2,14 @@
   "id": 203344195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"143.871887,-37.600128,143.871887,-37.600128",
     "geom:latitude":-37.600128,
     "geom:longitude":143.871887,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Haymes Rd",
     "sg:city":"Mt Clear",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203344195,
-    "wof:lastmodified":1449025044,
+    "wof:lastmodified":1466188574,
     "wof:name":"Yarra Gum Homes",
     "wof:parent_id":85769791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [143.871887,-37.600128,143.871887,-37.600128],
-  "geometry": {"coordinates":[143.871887,-37.600128],"type":"Point"}
+  "bbox": [
+    143.871887,
+    -37.600128,
+    143.871887,
+    -37.600128
+],
+  "geometry": {"coordinates":[143.87188699999999,-37.600128],"type":"Point"}
 }

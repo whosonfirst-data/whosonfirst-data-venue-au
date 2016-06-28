@@ -2,13 +2,14 @@
   "id": 253081073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.76918,-37.744129,144.76918,-37.744129",
     "geom:latitude":-37.744129,
     "geom:longitude":144.76918,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Firbank Tce St",
     "sg:city":"Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253081073,
-    "wof:lastmodified":1449063736,
+    "wof:lastmodified":1466188383,
     "wof:name":"A. AAAffordable Glass Replacements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "glazier"
     ]
 },
-  "bbox": [144.76918,-37.744129,144.76918,-37.744129],
-  "geometry": {"coordinates":[144.76918,-37.744129],"type":"Point"}
+  "bbox": [
+    144.76918,
+    -37.744129,
+    144.76918,
+    -37.744129
+],
+  "geometry": {"coordinates":[144.76918000000001,-37.744129],"type":"Point"}
 }

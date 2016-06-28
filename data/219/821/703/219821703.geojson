@@ -2,13 +2,14 @@
   "id": 219821703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.721573,-19.372181,146.721573,-19.372181",
     "geom:latitude":-19.372181,
     "geom:longitude":146.721573,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Wayne St",
     "sg:city":"Kelso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219821703,
-    "wof:lastmodified":1449072296,
+    "wof:lastmodified":1466191437,
     "wof:name":"Quick As A Slash, Slashing Service",
     "wof:parent_id":85779703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [146.721573,-19.372181,146.721573,-19.372181],
-  "geometry": {"coordinates":[146.721573,-19.372181],"type":"Point"}
+  "bbox": [
+    146.721573,
+    -19.372181,
+    146.721573,
+    -19.372181
+],
+  "geometry": {"coordinates":[146.72157300000001,-19.372181],"type":"Point"}
 }

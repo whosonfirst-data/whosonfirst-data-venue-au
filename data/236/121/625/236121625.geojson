@@ -2,13 +2,14 @@
   "id": 236121625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.913376,-37.77549,144.913376,-37.77549",
     "geom:latitude":-37.77549,
     "geom:longitude":144.913376,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Munro St",
     "sg:city":"Ascot Vale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236121625,
-    "wof:lastmodified":1449004378,
+    "wof:lastmodified":1466189077,
     "wof:name":"Embodying",
     "wof:parent_id":85768689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [144.913376,-37.77549,144.913376,-37.77549],
+  "bbox": [
+    144.913376,
+    -37.77549,
+    144.913376,
+    -37.77549
+],
   "geometry": {"coordinates":[144.913376,-37.77549],"type":"Point"}
 }

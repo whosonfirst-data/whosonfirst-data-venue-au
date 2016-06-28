@@ -2,13 +2,14 @@
   "id": 220185817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.692856,-38.172707,144.692856,-38.172707",
     "geom:latitude":-38.172707,
     "geom:longitude":144.692856,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Old St Leonards Rd",
     "sg:city":"St Leonards",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220185817,
-    "wof:lastmodified":1449074176,
+    "wof:lastmodified":1466189281,
     "wof:name":"Sea Bounty Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "processing"
     ]
 },
-  "bbox": [144.692856,-38.172707,144.692856,-38.172707],
-  "geometry": {"coordinates":[144.692856,-38.172707],"type":"Point"}
+  "bbox": [
+    144.692856,
+    -38.172707,
+    144.692856,
+    -38.172707
+],
+  "geometry": {"coordinates":[144.69285600000001,-38.172707],"type":"Point"}
 }

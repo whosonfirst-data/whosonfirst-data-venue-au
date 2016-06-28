@@ -2,13 +2,14 @@
   "id": 219593769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.142365,-33.903454,151.142365,-33.903454",
     "geom:latitude":-33.903454,
     "geom:longitude":151.142365,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"572 Marrickville Rd",
     "sg:city":"Dulwich Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219593769,
-    "wof:lastmodified":1449072725,
+    "wof:lastmodified":1466190542,
     "wof:name":"Gladstone Hotel",
     "wof:parent_id":85774759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pub"
     ]
 },
-  "bbox": [151.142365,-33.903454,151.142365,-33.903454],
-  "geometry": {"coordinates":[151.142365,-33.903454],"type":"Point"}
+  "bbox": [
+    151.142365,
+    -33.903454,
+    151.142365,
+    -33.903454
+],
+  "geometry": {"coordinates":[151.14236500000001,-33.903454],"type":"Point"}
 }

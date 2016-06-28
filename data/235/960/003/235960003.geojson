@@ -2,13 +2,14 @@
   "id": 235960003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"138.356995,-33.271362,138.356995,-33.271362",
     "geom:latitude":-33.271362,
     "geom:longitude":138.356995,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Gladstone St",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235960003,
-    "wof:lastmodified":1449008493,
+    "wof:lastmodified":1466187203,
     "wof:name":"Schackys Commercial Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [138.356995,-33.271362,138.356995,-33.271362],
-  "geometry": {"coordinates":[138.356995,-33.271362],"type":"Point"}
+  "bbox": [
+    138.356995,
+    -33.271362,
+    138.356995,
+    -33.271362
+],
+  "geometry": {"coordinates":[138.35699500000001,-33.271362],"type":"Point"}
 }

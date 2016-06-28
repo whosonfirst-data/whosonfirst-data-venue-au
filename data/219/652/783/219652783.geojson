@@ -2,13 +2,14 @@
   "id": 219652783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.098633,-33.934551,151.098633,-33.934551",
     "geom:latitude":-33.934551,
     "geom:longitude":151.098633,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Richland St",
     "sg:city":"Kingsgrove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219652783,
-    "wof:lastmodified":1449072655,
+    "wof:lastmodified":1466191030,
     "wof:name":"Domus Lighting Pty Ltd",
     "wof:parent_id":85774387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [151.098633,-33.934551,151.098633,-33.934551],
-  "geometry": {"coordinates":[151.098633,-33.934551],"type":"Point"}
+  "bbox": [
+    151.098633,
+    -33.934551,
+    151.098633,
+    -33.934551
+],
+  "geometry": {"coordinates":[151.09863300000001,-33.934551],"type":"Point"}
 }

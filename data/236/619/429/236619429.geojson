@@ -2,13 +2,14 @@
   "id": 236619429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.144333,-33.95565,151.144333,-33.95565",
     "geom:latitude":-33.95565,
     "geom:longitude":151.144333,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Bay St",
     "sg:city":"Rockdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236619429,
-    "wof:lastmodified":1449002123,
+    "wof:lastmodified":1466191695,
     "wof:name":"Mansour Paving Pty Ltd",
     "wof:parent_id":85771209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [151.144333,-33.95565,151.144333,-33.95565],
-  "geometry": {"coordinates":[151.144333,-33.95565],"type":"Point"}
+  "bbox": [
+    151.144333,
+    -33.95565,
+    151.144333,
+    -33.95565
+],
+  "geometry": {"coordinates":[151.14433299999999,-33.95565],"type":"Point"}
 }

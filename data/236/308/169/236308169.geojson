@@ -2,13 +2,14 @@
   "id": 236308169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"115.735497,-32.279591,115.735497,-32.279591",
     "geom:latitude":-32.279591,
     "geom:longitude":115.735497,
     "iso:country":"AU",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 1",
     "sg:city":", Central House, Cnr Benjamin Way & Read St,",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236308169,
-    "wof:lastmodified":1449005359,
+    "wof:lastmodified":1466190545,
     "wof:name":"Sureslim Rockingham",
     "wof:parent_id":85782295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [115.735497,-32.279591,115.735497,-32.279591],
+  "bbox": [
+    115.735497,
+    -32.279591,
+    115.735497,
+    -32.279591
+],
   "geometry": {"coordinates":[115.735497,-32.279591],"type":"Point"}
 }
