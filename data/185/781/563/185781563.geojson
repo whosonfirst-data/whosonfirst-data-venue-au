@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"96.828201,-12.12723,96.828201,-12.12723",
     "geom:latitude":-12.12723,
     "geom:longitude":96.828201,
@@ -32,7 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191569"
+        102191569,
+        85632495,
+        136253039,
+        85672275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,15 @@
     "wof:geomhash":"6f35904dd0b287e0b275348fa83bf2dc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191569",
-            "country_id":"102191569",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191569,
+            "country_id":85632495,
+            "empire_id":136253039,
+            "region_id":85672275,
             "venue_id":185781563
         }
     ],
     "wof:id":185781563,
-    "wof:lastmodified":1473388252,
+    "wof:lastmodified":1481142380,
     "wof:name":"Cocos Keeling Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
