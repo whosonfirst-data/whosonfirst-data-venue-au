@@ -7,6 +7,7 @@
     "addr:postcode":"2443",
     "addr:street":"Bold St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":152.796875,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Shop 1, 81 Bold St",
     "sg:city":"Laurieton",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":186086267,
-    "wof:lastmodified":1496858410,
+    "wof:lastmodified":1510942432,
     "wof:name":"Hairwedo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186088597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hairdresser"

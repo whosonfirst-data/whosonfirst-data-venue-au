@@ -7,6 +7,7 @@
     "addr:postcode":"4670",
     "addr:street":"Burrum St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":152.345581,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"20A Burrum St",
     "sg:city":"Bundaberg",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":1041268575,
-    "wof:lastmodified":1496856849,
+    "wof:lastmodified":1510942731,
     "wof:name":"Bundaberg Acupuncture Clinic",
     "wof:parent_id":85782139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041268853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

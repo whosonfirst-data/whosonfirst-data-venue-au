@@ -7,6 +7,7 @@
     "addr:postcode":"4350",
     "addr:street":"North St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":151.935654,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"280 North St",
     "sg:city":"Toowoomba",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":253153185,
-    "wof:lastmodified":1496857385,
+    "wof:lastmodified":1510942743,
     "wof:name":"Pun Wai Ki",
     "wof:parent_id":85780013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253248321
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

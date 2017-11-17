@@ -7,6 +7,7 @@
     "addr:postcode":"2525",
     "addr:street":"Princes Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":150.855392,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"155 Princes Hwy",
     "sg:city":"Figtree",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":1024657167,
-    "wof:lastmodified":1496859184,
+    "wof:lastmodified":1510943514,
     "wof:name":"Bed Wetting & Soiling Control Programs",
     "wof:parent_id":85769285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024657303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

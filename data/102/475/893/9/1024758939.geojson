@@ -7,6 +7,7 @@
     "addr:postcode":"2800",
     "addr:street":"Kite St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":149.094635,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"66 Kite St",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":1024758939,
-    "wof:lastmodified":1496860790,
+    "wof:lastmodified":1510943186,
     "wof:name":"M.P.F. Surveying Pty Ltd",
     "wof:parent_id":85782265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024759021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor",

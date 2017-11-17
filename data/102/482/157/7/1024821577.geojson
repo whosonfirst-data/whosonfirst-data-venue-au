@@ -7,6 +7,7 @@
     "addr:postcode":"3101",
     "addr:street":"Vaughn Crs",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":145.030884,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3 / 7 Vaughn Crs",
     "sg:city":"Kew",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":1024821577,
-    "wof:lastmodified":1496862144,
+    "wof:lastmodified":1510941852,
     "wof:name":"The vent man",
     "wof:parent_id":85769553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024819899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ventilating",

@@ -7,6 +7,7 @@
     "addr:postcode":"2228",
     "addr:street":"Port Hacking Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":151.106598,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Unit 1, 189 Port Hacking Rd",
     "sg:city":"Miranda",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":1024527271,
-    "wof:lastmodified":1496859867,
+    "wof:lastmodified":1510943971,
     "wof:name":"ColorTile",
     "wof:parent_id":85770363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024527571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tile",

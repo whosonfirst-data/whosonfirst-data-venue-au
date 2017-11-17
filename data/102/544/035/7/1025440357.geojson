@@ -7,6 +7,7 @@
     "addr:postcode":"2010",
     "addr:street":"Elizabeth Str",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":151.208405,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Lvl 5",
     "sg:city":",418A Elizabeth Str Surry Hills",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":1025440357,
-    "wof:lastmodified":1496860382,
+    "wof:lastmodified":1510941492,
     "wof:name":"AFS Intercultural Programs",
     "wof:parent_id":85774479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1025438529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "educational",

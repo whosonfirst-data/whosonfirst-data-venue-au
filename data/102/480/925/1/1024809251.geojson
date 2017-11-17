@@ -7,6 +7,7 @@
     "addr:postcode":"3079",
     "addr:street":"Lower Heidelberg Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":145.041321,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"12 Lower Heidelberg Rd",
     "sg:city":"Ivanhoe",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":1024809251,
-    "wof:lastmodified":1496862708,
+    "wof:lastmodified":1510944124,
     "wof:name":"Fen Building & Painting Contractors",
     "wof:parent_id":85775851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024809355
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decorator",

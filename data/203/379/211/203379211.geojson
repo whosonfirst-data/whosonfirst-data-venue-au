@@ -7,6 +7,7 @@
     "addr:postcode":"3350",
     "addr:street":"Sturt St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":143.854614,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Business Banking Centre, Level 1, 401 Sturt St, Ballarat",
     "sg:city":"Ballarat",
     "sg:classifiers":[
@@ -55,13 +56,17 @@
         }
     ],
     "wof:id":203379211,
-    "wof:lastmodified":1496857209,
+    "wof:lastmodified":1510944161,
     "wof:name":"Bendigo Bank",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203354797
+    ],
+    "wof:supersedes":[
+        203354797
+    ],
     "wof:tags":[]
 },
   "bbox": [

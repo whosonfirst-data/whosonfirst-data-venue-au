@@ -7,6 +7,7 @@
     "addr:postcode":"3168",
     "addr:street":"H;Clayton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":145.120834,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Private Consulting Suite H 246 Clayton Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":1041321223,
-    "wof:lastmodified":1496856979,
+    "wof:lastmodified":1510941976,
     "wof:name":"Harper Richard W",
     "wof:parent_id":85777863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041321799
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

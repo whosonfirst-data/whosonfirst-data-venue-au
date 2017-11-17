@@ -7,6 +7,7 @@
     "addr:postcode":"3350",
     "addr:street":"Raglan St North",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":143.85083,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"20 Raglan St",
     "sg:city":"North Ballarat",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":203350081,
-    "wof:lastmodified":1496857164,
+    "wof:lastmodified":1510943073,
     "wof:name":"Ballarat Orthodontic Practice",
     "wof:parent_id":85782111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203378865
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"5118",
     "addr:street":"Lyndoch Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":138.756256,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"38 Lyndoch Rd",
     "sg:city":"Gawler East",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":202392453,
-    "wof:lastmodified":1496857833,
+    "wof:lastmodified":1510944010,
     "wof:name":"Watson Roy I Dr",
     "wof:parent_id":85782173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202392427
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

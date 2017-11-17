@@ -7,6 +7,7 @@
     "addr:postcode":"6056",
     "addr:street":"Sayer St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":116.010239,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Midland Centre 8 Sayer St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":1024737041,
-    "wof:lastmodified":1496859575,
+    "wof:lastmodified":1510943290,
     "wof:name":"Marie Stopes International",
     "wof:parent_id":85770955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024738941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

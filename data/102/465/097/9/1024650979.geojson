@@ -7,6 +7,7 @@
     "addr:postcode":"2093",
     "addr:street":"Sydney Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":151.266495,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Shop 6/ 318 Sydney Rd",
     "sg:city":"Balgowlah",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":1024650979,
-    "wof:lastmodified":1496859208,
+    "wof:lastmodified":1510941697,
     "wof:name":"Fountain Centre",
     "wof:parent_id":85774615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024652127
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "homoeopath"

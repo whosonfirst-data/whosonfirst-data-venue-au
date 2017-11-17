@@ -7,6 +7,7 @@
     "addr:postcode":"5000",
     "addr:street":"Hutt St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":138.612167,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"50 Hutt St",
     "sg:city":"Adelaide",
     "sg:classifiers":[
@@ -73,12 +74,14 @@
         }
     ],
     "wof:id":1024862753,
-    "wof:lastmodified":1496860089,
+    "wof:lastmodified":1510943666,
     "wof:name":"Duthy L M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024862755
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

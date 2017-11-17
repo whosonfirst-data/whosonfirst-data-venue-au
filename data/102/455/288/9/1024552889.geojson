@@ -7,6 +7,7 @@
     "addr:postcode":"2088",
     "addr:street":"Avenue;Avenue Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":151.240311,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Avenue Road Medical Practice 90 Avenue Rd",
     "sg:city":"Mosman",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":1024552889,
-    "wof:lastmodified":1496859605,
+    "wof:lastmodified":1510943366,
     "wof:name":"Markus, Bambi Dr",
     "wof:parent_id":85771221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024552891
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

@@ -7,6 +7,7 @@
     "addr:postcode":"4122",
     "addr:street":"Logan Court;Logan Rd Upper",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":153.082809,
     "iso:country":"AU",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Level 1, Logan Court 2092 Logan Rd",
     "sg:city":"Upper Mt Gravatt",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":1025073309,
-    "wof:lastmodified":1496862333,
+    "wof:lastmodified":1510943346,
     "wof:name":"Karelcad",
     "wof:parent_id":85773999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-au",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1025073453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
